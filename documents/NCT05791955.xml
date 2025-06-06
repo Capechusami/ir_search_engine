@@ -1,0 +1,288 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05791955</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MAPreminder2</org_study_id>
+    <nct_id>NCT05791955</nct_id>
+  </id_info>
+  <brief_title>UCLA Health Patient Health Maintenance With Interactive Text Reminder</brief_title>
+  <official_title>UCLA Health Patient Health Maintenance With Interactive Text Reminder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>UCLA David Geffen School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>UCLA Health Department of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective randomized clinical trial evaluating how behaviorally-informed outreach&#xD;
+      text message reminders impact patient engagement with primary care. This prospective&#xD;
+      randomized control trial is being implemented in conjunction with UCLA Health's larger&#xD;
+      quality improvement initiative (the My Action Plan Quality Improvement Initiative) in order&#xD;
+      to improve primary care preventive measure completion rates.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      UCLA Health will launch an initiative called My Action Plan which is an outreach effort&#xD;
+      targeting the primary care patients at UCLA who have an outstanding, clinically indicated&#xD;
+      primary care preventative care gap (e.g., overdue colorectal cancer screening, outstanding&#xD;
+      diabetes tests) and aims at encouraging patients to complete their overdue health maintenance&#xD;
+      measures.&#xD;
+&#xD;
+      At the beginning of each month, identified UCLA Health primary care patients will be enrolled&#xD;
+      in a trial the investigators have pre-registered under the title &quot;UCLA Health Patient Health&#xD;
+      Maintenance Outreach Text Message&quot; and randomized to receive one of four text messages&#xD;
+      informing them that they have overdue health maintenance measures and urging them to take&#xD;
+      action to complete these measures. These text messages will contain a link to their MyChart&#xD;
+      patient portal account, specifically linking them to a My Action Plan electronic letter that&#xD;
+      will contain a personalized list of outstanding preventive care items and actionable steps to&#xD;
+      complete the items.&#xD;
+&#xD;
+      In May and June 2023, if patients do not open their My Action Plan electronic letter within 7&#xD;
+      days of initial outreach, they will be enrolled in the trial described in the current&#xD;
+      pre-registration. This trial will evaluate the effect of sending a text reminder about health&#xD;
+      gaps as well as compare the effectiveness of different outreach text reminders. Patients will&#xD;
+      be randomly assigned at the 1:1:1:1 ratio to either the holdout control condition (without a&#xD;
+      reminder) or one of the three reminder arms (receiving one of three text reminders 2 weeks&#xD;
+      after the initial outreach message). Of these three reminder arms, one will serve as a&#xD;
+      control reminder message, and the other two will be interactive experimental reminder&#xD;
+      messages that ask participants for a text response. Additionally, within each text-reminder&#xD;
+      arm, patients will be randomized to one of three time slots for getting the reminder. The&#xD;
+      investigators will examine patients' interaction with these reminders and how that ultimately&#xD;
+      translates to them completing their indicated health maintenance measures.&#xD;
+&#xD;
+      The UCLA Department of Medicine (DOM) intends to roll out this QI initiative at the beginning&#xD;
+      of the 2023 calendar year and continue it for a span of at least 12 months. Each month, the&#xD;
+      initiative targets patients whose birthday falls into that month. This proposed trial will&#xD;
+      run for two months (May and June 2023).&#xD;
+&#xD;
+      Analysis Plan:&#xD;
+&#xD;
+      The investigators will utilize patient-level ordinary least squares (OLS) estimation, with&#xD;
+      statistical inferences based on model-robust standard errors. The primary model term will be&#xD;
+      indicator variables for arm assignment.&#xD;
+&#xD;
+      The analysis will adjust for sex, age, race/ethnicity, indicators for screenings/tests that&#xD;
+      patients are due for, and whether patients have upcoming primary care appointments. Missing&#xD;
+      covariate values will be handled by including 'unknown' indicators, along with mean&#xD;
+      imputation for quantitative covariates.&#xD;
+&#xD;
+      The investigators will use this dataset to address two separate research questions.&#xD;
+&#xD;
+      Research question 1: The investigators will compare the average of Arms 2-4 with Arm 1 to&#xD;
+      test the average effect of sending a text reminder. If the average effect is significant, the&#xD;
+      investigators will explore if Arms 2, 3, and 4 separately differ from Arm 1.&#xD;
+&#xD;
+      Research question 2: The investigators will compare Arm 3, Arm 4, with Arm 2 to test the&#xD;
+      effectiveness of adding an interactive component to enhance intentions to close the health&#xD;
+      gap (Arm 3) or to prompt action (Arm 4).&#xD;
+&#xD;
+      Exploratory analyses will investigate heterogeneous treatment effects by patients' baseline&#xD;
+      motivation (i.e., the extent to which patients seem to have some intentions to get the&#xD;
+      screenings/tests) in two ways. First, the investigators will use each patient's history of&#xD;
+      screenings/tests to construct a proxy for their baseline motivation to obtain the due&#xD;
+      screenings/tests. Specifically, the investigator will calculate, among all the&#xD;
+      screenings/tests that are included in the My Action Plan Initiative and that a patient was&#xD;
+      due for in the past few years (exact time window TBD based on data availability), what&#xD;
+      percentage was completed by the patient (as far as UCLA Health could tell). A higher&#xD;
+      percentage indicates a higher baseline motivation to get the screenings/tests patients are&#xD;
+      due for during the study period. Second, the investigators will obtain demographics and&#xD;
+      medical information that UCLA Health is willing to provide (e.g., gender, age,&#xD;
+      race/ethnicity, history of cancer and other pre-existing conditions, family cancer history,&#xD;
+      past adherence to screenings/tests that are included in the My Action Plan Initiative, past&#xD;
+      receipt of influenza vaccination, frequency of doctor visits; time window of these variables&#xD;
+      is TBD depending on data availability). With such information, the investigators will train&#xD;
+      an algorithm to predict patients' baseline motivation level using patients in the holdout&#xD;
+      condition (Arm 1) as the ground truth. Specifically, the investigators will take the&#xD;
+      aforementioned information about patients in Arm 1 as input, and use whether they complete&#xD;
+      any of the screenings/visits recommended in the My Action Plan letter within 6 months as the&#xD;
+      outcome measure. Then the investigators will apply the algorithm to all patients to predict&#xD;
+      their baseline motivation level. For both approaches, the proxy for baseline motivation&#xD;
+      (Approach 1) and the predicted baseline motivation level (Approach 2) will be used to analyze&#xD;
+      the heterogeneous treatment effects of (1) Arms 3 and 4 (vs. Arm 2) and (2) the combination&#xD;
+      of Arms 2 and 4 vs. Arm 1.&#xD;
+&#xD;
+      Additionally the investigators will investigate proxies for whether patients face structural&#xD;
+      barriers to get screenings/tests as moderators, including socioeconomic factors at the&#xD;
+      zipcode level, insurance type, proxies for accessibility to healthcare resources such as&#xD;
+      distance from UCLA Health clinics.&#xD;
+&#xD;
+      The investigators will also explore how the effect of text reminders varies across the three&#xD;
+      times of the day when the reminders will be sent.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 23, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Parallel-arm randomized control trial</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MyChart letter opened</measure>
+    <time_frame>1 week after getting the reminder</time_frame>
+    <description>Percentage of participants across the different arms who open their personalized My Action Plan letter on MyChart</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Opening link within SMS Text message</measure>
+    <time_frame>1 week after getting the reminder</time_frame>
+    <description>Percentage of participants across the different reminder arms who click on the link in the reminder message</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Direct scheduling appointment rate</measure>
+    <time_frame>2 weeks after getting the reminder</time_frame>
+    <description>Rate of which eligible participants directly schedule an appointment for diabetic retinal exams, diabetes education, or breast cancer screening in order to complete these overdue screening/test(s). These screenings/tests have dedicated appointment resources that people can directly schedule for.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of taking action for one overdue screening/test</measure>
+    <time_frame>2 weeks after getting the reminder</time_frame>
+    <description>Rate of which participants schedule an appointment to complete their overdue screening/test or start the online tool for colorectal screening</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completion rate of one screening/test</measure>
+    <time_frame>6 months after getting the initial outreach text message</time_frame>
+    <description>Rate of completion of at least one screening/test within the observation window</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">24000</enrollment>
+  <condition>Health Maintenance</condition>
+  <condition>Diabetes</condition>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Holdout Condition: No reminder</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Eligible, randomized participants will receive no text message reminder.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Reminder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible, randomized participants will receive a generic text message reminding them to close their outstanding health gap by clicking on the link to make an appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Personal Responsibility Reminder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible, randomized participants will receive a text message reminding them to close their outstanding health gap. This message will ask them to click on the link to schedule an appointment, or to text back to acknowledge they are taking responsibility for closing the health gap on their own.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Planning prompt reminder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible, randomized participants will receive a text message reminding them to close their outstanding health gap. This message will prompt participants to either click on the link to schedule an appointment right away, or text back when they will do so</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Reminder of preventive care measures</intervention_name>
+    <description>The investigators will send randomized participants an SMS reminder encouraging them to click the provided link and close their outstanding, overdue preventive care measures.&#xD;
+The provided link will take them to their MyChart login page; after logging in, they would see their personalized My Action Plan Letter detailing their personalized, overdue preventive care measures.</description>
+    <arm_group_label>Control Reminder</arm_group_label>
+    <arm_group_label>Personal Responsibility Reminder</arm_group_label>
+    <arm_group_label>Planning prompt reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Acknowledgement of personal responsibility</intervention_name>
+    <description>The message will contain a request for the participant to take personal responsibility for their health by either clicking on the link to make an appointment or replying &quot;noted&quot; to the text message.</description>
+    <arm_group_label>Personal Responsibility Reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Planning prompt</intervention_name>
+    <description>The message will prompt people to either click on the link to make an appointment now or text back when they plan to close their health gap</description>
+    <arm_group_label>Planning prompt reminder</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Empaneled to UCLA Health DOM Primary Care&#xD;
+&#xD;
+          2. Has at least one overdue health maintenance measure that the My Action Plan initiative&#xD;
+             focuses on&#xD;
+&#xD;
+          3. Has an active MyChart status&#xD;
+&#xD;
+          4. Can accept SMS messages from UCLA Health&#xD;
+&#xD;
+          5. Has not opened the My Action Plan electronic letter within 7 days of initial outreach&#xD;
+&#xD;
+          6. Has a May or June Birthday&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Under the age of 18&#xD;
+&#xD;
+          2. Deceased patients&#xD;
+&#xD;
+          3. Hospice patients&#xD;
+&#xD;
+          4. Has opted out electronic communication (bulk messages, email, and/or text)&#xD;
+&#xD;
+          5. For the final analysis, the investigators will further exclude patients who have&#xD;
+             scheduled appointments for all screenings/tests or completed all screenings/tests&#xD;
+             prior to the date when they are supposed to receive the reminder from this trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Richard Leuchter, MD</last_name>
+    <phone>310-948-8828</phone>
+    <email>rleuchter@mednet.ucla.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maria Han</last_name>
+    <phone>310-948-8828</phone>
+    <email>mhan@mednet.ucla.edu</email>
+  </overall_contact_backup>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Richard K. Leuchter, MD</investigator_full_name>
+    <investigator_title>Clinical Instructor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>primary care</keyword>
+  <keyword>digital outreach</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>We do not plan to make any individual participant data available.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,177 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620056</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DEEP</org_study_id>
+    <nct_id>NCT05620056</nct_id>
+  </id_info>
+  <brief_title>A Population-based Study of Drug Exposures and Adverse Pregnancy Outcomes in China (DEEP)</brief_title>
+  <official_title>A Population-based Study of Drug Exposures and Adverse Pregnancy Outcomes in China (DEEP)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>West China Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Xiamen Health Commission</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Xiamen Health and Medical Big Data Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>West China Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The DEEP cohort is the first population-based cohort of pregnant population in China that&#xD;
+      longitudinally documents drug uses throughout the pregnancy life course and adverse pregnancy&#xD;
+      outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The DEEP cohort is the first population-based cohort of pregnant population in China that&#xD;
+      longitudinally documents drug uses throughout the pregnancy life course and adverse pregnancy&#xD;
+      outcomes. The main goal of the study aims to monitor and evaluate the safety of drug use&#xD;
+      through the pregnancy life course in the Chinese setting. The DEEP cohort is developed&#xD;
+      primarily based on the population-based data platforms in Xiamen, a municipal city of 5&#xD;
+      million population in southeast China. Based on these data platforms, a pregnancy-centered&#xD;
+      registry was developed that documented health care services and outcomes in the maternal and&#xD;
+      other departments. For identifying drug uses, a drug prescription database was specifically&#xD;
+      developed by using electronic healthcare records documented in the platforms across the&#xD;
+      primary, secondary and tertiary hospitals. By linking the pregnancy registry and prescription&#xD;
+      database through a unique identifier, the DEEP cohort was developed. All the pregnant women&#xD;
+      and their offspring in Xiamen are provided with health care and followed up according to&#xD;
+      standard protocols in the region, including antenatal care, delivery care, postpartum&#xD;
+      follow-up and childhood follow-ups. The primary adverse outcomes - congenital malformations -&#xD;
+      are collected using a standardized Case Report Form.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2013</start_date>
+  <completion_date type="Actual">November 1, 2022</completion_date>
+  <primary_completion_date type="Actual">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>congenital malformations</measure>
+    <time_frame>up to 42 days after delivery</time_frame>
+    <description>Number of births with congenital malformations</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>preterm birth</measure>
+    <time_frame>up to 37 gestational weeks</time_frame>
+    <description>Number of pregnancies with preterm birth</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>low birth weight</measure>
+    <time_frame>Immediately after delivery</time_frame>
+    <description>Number of live births with low birth weight</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">564760</enrollment>
+  <condition>Pregnancy</condition>
+  <condition>Congenital Malformation</condition>
+  <condition>Drug Exposure</condition>
+  <arm_group>
+    <arm_group_label>drug exposure</arm_group_label>
+    <description>chemicals drugs, biological products, patent Chinese Medicines, Chinese herbs</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chemicals drugs, biological products, patent Chinese Medicines, Chinese herbs</intervention_name>
+    <description>medication (i.e., chemicals drugs, biological products, patent Chinese Medicines, Chinese herbs ) exposure through the pregnancy life course</description>
+    <arm_group_label>drug exposure</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        From January 2013, all pregnant women who registered at the Maternal and Child Health&#xD;
+        Management in Xiamen was included in this cohort.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant women who registered at the Maternal and Child Health Management Platform in&#xD;
+             Xiamen.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>All pregnant women registered at the Maternal and Child Health Management Platform were enrolled.</gender_description>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xin Sun</last_name>
+    <role>Study Chair</role>
+    <affiliation>Chinese Evidence-based Medicine Center, West China Hospital, Sichuan University, Chengdu, 610041, China</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Xiamen Health and Medical Big Data Center</name>
+      <address>
+        <city>Xiamen</city>
+        <state>Fujian</state>
+        <zip>361008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>November 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>West China Hospital</investigator_affiliation>
+    <investigator_full_name>Sun Xin</investigator_full_name>
+    <investigator_title>Director of Chinese Evidence-based Medicine Center</investigator_title>
+  </responsible_party>
+  <keyword>Cohort study</keyword>
+  <keyword>drug exposures</keyword>
+  <keyword>congenital malformation</keyword>
+  <keyword>pregnancy</keyword>
+  <keyword>population-based</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Congenital Abnormalities</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Following the policy of Xiamen Health Commission, research institutions could apply for data access by submitting a formal study protocol, subjected to approval by the Xiamen Health and Medical Big Data Center and the Chinese Evidence-based Medicine Center. Ethical review and research registration are mandatory for all studies.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,305 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625334</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BORA-1A-C301</org_study_id>
+    <nct_id>NCT05625334</nct_id>
+  </id_info>
+  <brief_title>Study to Compare the Pharmacodynamics and Pharmacokinetics of Acetylsalicylic Acid Powder for Oral Inhalation With Non-enteric-coated Chewable Aspirin in Healthy Adults.</brief_title>
+  <official_title>A Single-dose, Open-label, Randomized, Multi-center, 2-treatment Crossover Study to Compare the Pharmacodynamics, Pharmacokinetics, Safety, and Tolerability of Acetylsalicylic Acid Powder for Oral Inhalation With Non-enteric-coated Chewable Aspirin in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vectura, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Syneos Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vectura, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to compare the pharmacodynamics (PD), pharmacokinetics&#xD;
+      (PK), safety, and tolerability of acetylsalicylic acid powder for oral inhalation (i-ASA)&#xD;
+      with non-enteric-coated chewable aspirin (C-ASA) in healthy adults by demonstrating&#xD;
+      bioequivalence.&#xD;
+&#xD;
+      In the first treatment period, subjects will be randomized to receive either a single dose&#xD;
+      (100 mg) of I-ASA powder via a Dry Powder Inhaler (DPI) OR a single dose (162 mg) of C-ASA&#xD;
+      tablets. After a washout period, subjects will be crossed over to receive the other treatment&#xD;
+      in the second treatment period. All subjects will receive both treatments during the study.&#xD;
+      Each single dose treatment will be followed by up to 24 hours of serial post-dose PK, PD, and&#xD;
+      safety/tolerability assessments.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 14, 2022</start_date>
+  <completion_date type="Anticipated">February 28, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Serum thromboxane B2 (TxB2) serum concentration - Area under the effect curve (AUEC) of the % Change from baseline (CFB) in serum TxB2 concentration (TxB2 suppression)</measure>
+    <time_frame>24 hours post-dose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving significant inhibition of platelet aggregation (&lt;550 Aspirin Reaction Units [ARU])</measure>
+    <time_frame>2 minutes post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TxB2 serum concentration - AUEC of the % CFB in serum TxB2 concentration (TxB2 suppression)</measure>
+    <time_frame>20 minutes post-dose.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TxB2 serum concentration - AUEC of the % CFB in serum TxB2 concentration (TxB2 suppression)</measure>
+    <time_frame>30 minutes post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to significant inhibition of platelet aggregation (&lt;550 ARU).</measure>
+    <time_frame>assessed up to 24 hours post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak plasma concentrations (Cmax) of ASA</measure>
+    <time_frame>pre-dose. minutes post-dose: 2, 5, 10, 20, 30, 45, 60, 120, 180, 360, 480, 720 and 1440</time_frame>
+    <description>PK endpoints</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak plasma concentrations (Cmax) of SA</measure>
+    <time_frame>pre-dose. minutes post-dose: 2, 5, 10, 20, 30, 45, 60, 120, 180, 360, 480, 720 and 1440</time_frame>
+    <description>PK endpoints</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC0-inf)</measure>
+    <time_frame>pre-dose. minutes post-dose: 2, 5, 10, 20, 30, 45, 60, 120, 180, 360, 480, 720 and 1440</time_frame>
+    <description>PK endpoints</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC0-t)</measure>
+    <time_frame>pre-dose. minutes post-dose: 2, 5, 10, 20, 30, 45, 60, 120, 180, 360, 480, 720 and 1440</time_frame>
+    <description>PK endpoints</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to peak plasma concentrations (Tmax) of ASA</measure>
+    <time_frame>pre-dose. minutes post-dose: 2, 5, 10, 20, 30, 45, 60, 120, 180, 360, 480, 720 and 1440</time_frame>
+    <description>PK endpoints</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to peak plasma concentrations (Tmax) of SA</measure>
+    <time_frame>pre-dose. minutes post-dose: 2, 5, 10, 20, 30, 45, 60, 120, 180, 360, 480, 720 and 1440</time_frame>
+    <description>PK endpoints</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and frequency of Adverse Events.</measure>
+    <time_frame>screening through the 7-day to follow-up period</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: I-ASA 100mg, then C-ASA 162mg tablet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment A: Single dose of 100 mg ASA powder for oral inhalation (I-ASA) via DPI.&#xD;
+Treatment B: Single dose of 162 mg chewable non-enteric-coated Aspirin (C-ASA).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: C-ASA 162mg tablet, then I-ASA 100mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment A: Single dose of 162 mg chewable non-enteric-coated Aspirin (C-ASA).&#xD;
+Treatment B: Single dose of 100 mg ASA powder for oral inhalation (I-ASA) via DPI.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASA</intervention_name>
+    <description>powder for oral inhalation via a Dry Powder Inhaler (DPI)</description>
+    <arm_group_label>Arm 1: I-ASA 100mg, then C-ASA 162mg tablet</arm_group_label>
+    <arm_group_label>Arm 2: C-ASA 162mg tablet, then I-ASA 100mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>non-enteric-coated chewable aspirin</intervention_name>
+    <description>Orally administered</description>
+    <arm_group_label>Arm 1: I-ASA 100mg, then C-ASA 162mg tablet</arm_group_label>
+    <arm_group_label>Arm 2: C-ASA 162mg tablet, then I-ASA 100mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female, ≥18 and ≤55 years of age, with BMI &gt;18.5 and &lt;32.0 kg/m2 and body&#xD;
+             weight ≥50.0 kg for males and ≥45.0 kg for females.&#xD;
+&#xD;
+          2. Healthy as defined by:&#xD;
+&#xD;
+               1. the absence of clinically significant illness and surgery within 4 weeks prior to&#xD;
+                  dosing.&#xD;
+&#xD;
+               2. the absence of clinically significant history of neurological, endocrine,&#xD;
+                  cardiovascular, pulmonary, respiratory, hematological (e.g., thrombocytopenia,&#xD;
+                  neutropenia, bleeding disorders), immunological, psychiatric, gastrointestinal,&#xD;
+                  renal, hepatic, and metabolic disease.&#xD;
+&#xD;
+          3. Female subjects of non-childbearing potential must be:&#xD;
+&#xD;
+               1. post-menopausal OR&#xD;
+&#xD;
+               2. surgically sterile at least 3 months prior to dosing.&#xD;
+&#xD;
+          4. Sexually active female subjects of childbearing potential must be willing to use an&#xD;
+             acceptable contraceptive method throughout the study as defined in the protocol.&#xD;
+&#xD;
+          5. Current non-smoker: no use of tobacco or nicotine products, including any smoking&#xD;
+             cessation nicotine-containing products (i.e., nicotine replacement therapy [patch,&#xD;
+             spray, inhaler, gum, lozenge, bupropion SR, clonidine and nortriptyline],&#xD;
+             e-cigarettes, etc.) for at least 3 months prior to screening.&#xD;
+&#xD;
+          6. Agrees to refrain from alcohol consumption for at least 48 hours prior to admission&#xD;
+             and 48 hours after drug administration of each period.&#xD;
+&#xD;
+          7. Able to understand the study procedures and provide signed informed consent to&#xD;
+             participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any clinically significant abnormal finding at physical examination at screening.&#xD;
+&#xD;
+          2. Positive serology test results for HBsAg, HCV antibody, or HIV antigen and antibody,&#xD;
+             at screening.&#xD;
+&#xD;
+          3. Positive pregnancy test or lactating female subject.&#xD;
+&#xD;
+          4. Positive urine drug screen, urine cotinine test, or alcohol breath test.&#xD;
+&#xD;
+          5. Known allergic reactions, hypersensitivity or contraindications to aspirin (ASA),&#xD;
+             ibuprofen, other NSAIDs, or other related drugs, or to any excipient in the&#xD;
+             formulation.&#xD;
+&#xD;
+          6. Known lack of response (lack of effect) to aspirin in the past.&#xD;
+&#xD;
+          7. Clinically significant x-ray, ECG abnormalities or vital signs abnormalities at&#xD;
+             screening.&#xD;
+&#xD;
+          8. Clinically significant abnormal laboratory parameters including:&#xD;
+&#xD;
+               1. Hematocrit value ≤ 32%;&#xD;
+&#xD;
+               2. Platelet count &lt;142,000 or &gt; 450,000 platelets per µL;&#xD;
+&#xD;
+               3. ALT ≥ 3 x ULN;&#xD;
+&#xD;
+               4. AST ≥ 3 x ULN.&#xD;
+&#xD;
+          9. Subject with abnormal lung function defined by spirometric testing such that: the post&#xD;
+             bronchodilator FEV1 &lt; 80% of predicted normal value OR FEV1/FVC ratio &lt; 0.70.&#xD;
+&#xD;
+         10. Subject with current asthma defined as post-bronchodilator FEV1 &gt; 12% increase AND &gt;&#xD;
+             200 ml absolute increase from pre-bronchodilator values.&#xD;
+&#xD;
+        Other protocol-defined I/E criteria that apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pankaj Goyal, M.D.</last_name>
+    <phone>+41 (58) 242 23 58</phone>
+    <email>Pankaj.Goyal@vecturafertinpharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Misty D'Ottavio, RN</last_name>
+    <phone>(919) 996-0332</phone>
+    <email>misty.dottavio@vecturafertinpharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sinai Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kevin Bliden</last_name>
+      <phone>410-601-1412</phone>
+      <email>kbliden@lifebridgehealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Gurbel, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bio-Kinetic Clinical Applications, LLC dba QPS-MO</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brendon Bourg</last_name>
+      <phone>417-893-6103</phone>
+      <email>Brendon.bourg@qps.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gurbel PA, Bliden KP, Chaudhary R, Tantry US. First In-Human Experience With Inhaled Acetylsalicylic Acid for Immediate Platelet Inhibition: Comparison With Chewed and Swallowed Acetylsalicylic Acid. Circulation. 2020 Sep 29;142(13):1305-1307. doi: 10.1161/CIRCULATIONAHA.120.047477. Epub 2020 Sep 28. No abstract available.</citation>
+    <PMID>32986482</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ASA</keyword>
+  <keyword>acetylsalicylic acid</keyword>
+  <keyword>cyclooxygenase-1 enzyme</keyword>
+  <keyword>oral inhalation</keyword>
+  <keyword>inhaled</keyword>
+  <keyword>myocardial Infarction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aspirin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

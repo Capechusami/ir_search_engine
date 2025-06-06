@@ -1,0 +1,270 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617625</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-KOE-002</org_study_id>
+    <nct_id>NCT05617625</nct_id>
+  </id_info>
+  <brief_title>CD34+ Enriched Transplants to Treat Myelodysplastic Syndrome</brief_title>
+  <official_title>A Phase II Trial of CD34+ Enriched Transplants From HLA-Compatible Related or Unrelated Donors for Treatment of Patients With Myelodysplastic Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baptist Health South Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Baptist Health South Florida</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate whether processing blood stem cell transplants using an&#xD;
+      investigational device (the CliniMACS system) results in fewer complications for patients who&#xD;
+      undergo transplant to treat a blood malignancy (cancer) or blood disorder.&#xD;
+&#xD;
+      The CliniMACS system will be used to remove immune T-cells from the transplant donor's blood.&#xD;
+      Immune T-cells contribute to graft versus host disease (GVHD) - a serious complication that&#xD;
+      can happen after transplant. GVHD occurs when a patient's immune system attacks the donor's&#xD;
+      cells. The study aims to reduce the number of the donor immune T-cells thereby preventing or&#xD;
+      reducing the severity of GVHD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">May 2030</completion_date>
+  <primary_completion_date type="Anticipated">May 2030</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in incidence of graft vs. host disease (GVHD)</measure>
+    <time_frame>Weekly until 3 months, monthly until 6 months, 12 months, 24 months</time_frame>
+    <description>Incidence of acute and chronic GVHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in severity of acute graft vs. host disease (GVHD)</measure>
+    <time_frame>Weekly until 3 months, monthly until 6 months, 12 months, 24 months</time_frame>
+    <description>Severity of acute GvHD as graded using the International Bone Marrow Transplant Registry Severity Index, which includes assessment of skin, liver, and gut, grading each's severity from 0 to 4 (higher numbers reflecting the more severe disease). The overall assessment is based on the involvement and severity of each of the areas. A = Stage 1 skin involvement, no liver or gut involvement; B = Stage 2 skin involvement, Stage 1 to 2 gut or liver involvement; C = Stage 3 skin, liver or gut involvement; D = Stage 4 skin, liver, or gut involvement.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in severity of chronic graft vs. host disease (GVHD)</measure>
+    <time_frame>Weekly until 3 months, monthly until 6 months, 12 months, 24 months</time_frame>
+    <description>Severity of chronic GvHD as graded using the NIH scoring system, which includes assessment of skin, mouth, eyes, GI tract, liver, lungs, joint/fascia, and genital tract and grades the severity of affected organs from 0 to 3 (higher scores reflecting the more severe disease). The overall assessment is based on the number of organs/sites with clinically significant functional impairment (i.e., score 2-3). No GVHD = no organs/sites with significant functional impairment; Mild GVHD = involves two or fewer organs/sites with significant functional impairment; Moderate GVHD = involves three or more organs/sites with significant functional impairment -OR- involves one or zero organs/sites with NO significant functional impairment; Severe GVHD = Major disability caused by chronic GVHD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in incidence of relapse-free mortality (transplant-related mortality)</measure>
+    <time_frame>6 months, 12 months, 24 months</time_frame>
+    <description>Incidence of relapse-free mortality, defined as mortality related to the transplant rather than the disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in overall survival</measure>
+    <time_frame>6 months, 12 months, 24 months</time_frame>
+    <description>Incidence of overall survival, defined as time from transplant to death or last follow-up.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in disease-free survival</measure>
+    <time_frame>6 months, 12 months, 24 months</time_frame>
+    <description>Incidence of disease-free survival, defined as the minimum time interval of relapse/recurrence, to death or to the last follow-up, from the time of transplant.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients receiving optimal vs. suboptimal CD34+/CD3+ PBSC doses</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Proportion of patients receiving optimal CD34+ (&gt;5 x 10^6/kg) and CD3+ (&lt; 5 x10^4/kg) cell doses versus the proportion recurring suboptimal doses (&lt;3 x 10^6/kg) CD34+ cells; and the proportion of patients receiving CD3+ T-cell doses (&gt;5 x 10^4/kg)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Myelodysplastic Syndromes</condition>
+  <condition>Graft Vs Host Disease</condition>
+  <condition>Graft-versus-host-disease</condition>
+  <arm_group>
+    <arm_group_label>CD34+ Peripheral Blood Progenitor Cell (PBSC) Transplant with Busulfan/Melphalan/Fludarabine Regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cytoreduction therapy:&#xD;
+0.8 mg/kg q6h x 12 doses busulfan via IV injection&#xD;
+70 mg/m^2/day x 2 days melphalan via IV infusion over 30 minutes&#xD;
+25 mg/m^2/day x 5 days fludarabine vis IV infusion over 30 minutes&#xD;
+CD34+ selected, T-cell depleted, allogeneic PBSC transplant using CliniMACS system to select CD34+ cells</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Busulfan</intervention_name>
+    <description>0.8 mg/kg q6h x 12 doses via IV injection on Days -9, -8, and -7 prior to transplant</description>
+    <arm_group_label>CD34+ Peripheral Blood Progenitor Cell (PBSC) Transplant with Busulfan/Melphalan/Fludarabine Regimen</arm_group_label>
+    <other_name>Busulfex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Melphalan</intervention_name>
+    <description>70 mg/m^2/day x 2 days via IV infusion over 30 minutes on Days -6 and -5 prior to transplant</description>
+    <arm_group_label>CD34+ Peripheral Blood Progenitor Cell (PBSC) Transplant with Busulfan/Melphalan/Fludarabine Regimen</arm_group_label>
+    <other_name>Alkeran</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>25 mg/m^2/days x 5 days via IV infusion over 30 minutes on Days -6, -5, -4, -3, and -2 prior to transplant</description>
+    <arm_group_label>CD34+ Peripheral Blood Progenitor Cell (PBSC) Transplant with Busulfan/Melphalan/Fludarabine Regimen</arm_group_label>
+    <other_name>Fludara</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CliniMACS CD34+ enriched, T-cell depleted peripheral blood stem cell (PBSC)</intervention_name>
+    <description>CliniMACS system will be used to derive CD34+ enriched, T-cell depleted (T-cells limited to 1.0 x 10^5 CD3+ cells/kg) PBSC for transplant, which will occur on Day 0. PBSC (5 x 10^6 CD34+ cells/kg) are suspended in a volume of approximately 20-50 mL and delivered via IV infusion over 15 minutes.</description>
+    <arm_group_label>CD34+ Peripheral Blood Progenitor Cell (PBSC) Transplant with Busulfan/Melphalan/Fludarabine Regimen</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Myelodysplastic syndrome (MDS): Refractory anemia/refractory anemia with ring&#xD;
+             sideroblasts/refractory cytopenia with multilineage anemia (RA/RARS/RCMA) with&#xD;
+             high-risk cytogenetic features or transfusion dependence, as well as Refractory Anemia&#xD;
+             with Excess Blasts Type 1 and 2 (RAEB-1 and RAEB-2)&#xD;
+&#xD;
+          -  Karnofsky (adult) Performance Status of at least 70%&#xD;
+&#xD;
+          -  Adequate organ function measured by:&#xD;
+&#xD;
+          -  Cardiac: asymptomatic or if symptomatic then left ventricular ejection fraction (LVEF)&#xD;
+             at rest must be 50% and must improve with exercise.&#xD;
+&#xD;
+          -  Hepatic: &lt; 3x upper limit of normal (ULN) aspartate aminotransferase (AST) and: 1.5&#xD;
+             total serum bilirubin, unless there is congenital benign hyperbilirubinemia or if the&#xD;
+             hyperbilirubinemia is directly caused by the disease in which the patient is receiving&#xD;
+             a transplant [e.g., acute myeloid leukemia (AML) Chloroma obstructing the biliary&#xD;
+             tree]. Patients with higher bilirubin levels due to causes other than active liver&#xD;
+             disease is also eligible with Pl approval e.g., patients with paroxysmal nocturnal&#xD;
+             hemoglobinuria (PNH), Gilbert's disease or other hemolytic disorders.&#xD;
+&#xD;
+          -  Renal: serum creatinine: &lt;1.2 mg/dL (normal range 0.7-1.3) or if serum creatinine is&#xD;
+             outside the normal range, then creatinine clearance (CrCl) &gt; 5940 mL/min (measured or&#xD;
+             calculated/estimated).&#xD;
+&#xD;
+          -  Pulmonary: asymptomatic or if symptomatic, diffusion capacity of lung for carbon&#xD;
+             monoxide (DLCO) 50% of predicted (corrected for hemoglobin).&#xD;
+&#xD;
+          -  Willing to participate and must sign an informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breast-feeding&#xD;
+&#xD;
+          -  Active viral, bacterial or fungal infection&#xD;
+&#xD;
+          -  Patient seropositive for human immunodeficiency virus (HIV)-I /II; human&#xD;
+             T-lymphotropic virus (HTLV)-I /II&#xD;
+&#xD;
+          -  Presence of leukemia in the central nervous system (CNS)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guenther Koehne, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Miami Cancer Institute/Baptist Health South Florida</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Guenther Koehne, M.D.</last_name>
+    <phone>(786) 596-2000</phone>
+    <email>GuentherK@baptisthealth.net</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Miami Cancer Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Guenther Koehne, M.D.</last_name>
+      <phone>786-596-2000</phone>
+      <email>GuentherK@baptisthealth.net</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Robin M, Porcher R, Ades L, Raffoux E, Michallet M, Francois S, Cahn JY, Delmer A, Wattel E, Vigouroux S, Bay JO, Cornillon J, Huynh A, Nguyen S, Rubio MT, Vincent L, Maillard N, Charbonnier A, de Latour RP, Reman O, Dombret H, Fenaux P, Socie G. HLA-matched allogeneic stem cell transplantation improves outcome of higher risk myelodysplastic syndrome A prospective study on behalf of SFGM-TC and GFM. Leukemia. 2015 Jul;29(7):1496-501. doi: 10.1038/leu.2015.37. Epub 2015 Feb 13.</citation>
+    <PMID>25676424</PMID>
+  </reference>
+  <reference>
+    <citation>Saber W, Cutler CS, Nakamura R, Zhang MJ, Atallah E, Rizzo JD, Maziarz RT, Cortes J, Kalaycio ME, Horowitz MM. Impact of donor source on hematopoietic cell transplantation outcomes for patients with myelodysplastic syndromes (MDS). Blood. 2013 Sep 12;122(11):1974-82. doi: 10.1182/blood-2013-04-496778. Epub 2013 Jul 11.</citation>
+    <PMID>23847196</PMID>
+  </reference>
+  <reference>
+    <citation>Smith AR, Baker KS, Defor TE, Verneris MR, Wagner JE, Macmillan ML. Hematopoietic cell transplantation for children with acute lymphoblastic leukemia in second complete remission: similar outcomes in recipients of unrelated marrow and umbilical cord blood versus marrow from HLA matched sibling donors. Biol Blood Marrow Transplant. 2009 Sep;15(9):1086-93. doi: 10.1016/j.bbmt.2009.05.005.</citation>
+    <PMID>19660721</PMID>
+  </reference>
+  <reference>
+    <citation>Moore J, Nivison-Smith I, Goh K, Ma D, Bradstock K, Szer J, Durrant S, Schwarer A, Bardy P, Herrmann R, Dodds A. Equivalent survival for sibling and unrelated donor allogeneic stem cell transplantation for acute myelogenous leukemia. Biol Blood Marrow Transplant. 2007 May;13(5):601-7. doi: 10.1016/j.bbmt.2007.01.073. Epub 2007 Mar 23.</citation>
+    <PMID>17448920</PMID>
+  </reference>
+  <reference>
+    <citation>Kernan NA, Collins NH, Juliano L, Cartagena T, Dupont B, O'Reilly RJ. Clonable T lymphocytes in T cell-depleted bone marrow transplants correlate with development of graft-v-host disease. Blood. 1986 Sep;68(3):770-3.</citation>
+    <PMID>3527302</PMID>
+  </reference>
+  <reference>
+    <citation>Handgretinger R, Klingebiel T, Lang P, Schumm M, Neu S, Geiselhart A, Bader P, Schlegel PG, Greil J, Stachel D, Herzog RJ, Niethammer D. Megadose transplantation of purified peripheral blood CD34(+) progenitor cells from HLA-mismatched parental donors in children. Bone Marrow Transplant. 2001 Apr;27(8):777-83. doi: 10.1038/sj.bmt.1702996.</citation>
+    <PMID>11477433</PMID>
+  </reference>
+  <reference>
+    <citation>Urbano-Ispizua A, Rozman C, Pimentel P, Solano C, de la Rubia J, Brunet S, Perez-Oteyza J, Ferra C, Zuazu J, Caballero D, Bargay J, Carvalhais A, Diez JL, Espigado I, Alegre A, Rovira M, Campilho F, Odriozola J, Sanz MA, Sierra J, Garcia-Conde J, Montserrat E; Spanish Group for Allogeneic Peripheral Blood Transplantation (Grupo Espanol de Trasplante Hemopoyetico) and Instituto Portugues de Oncologia-Porto. Risk factors for acute graft-versus-host disease in patients undergoing transplantation with CD34+ selected blood cells from HLA-identical siblings. Blood. 2002 Jul 15;100(2):724-7. doi: 10.1182/blood-2001-11-0057.</citation>
+    <PMID>12091376</PMID>
+  </reference>
+  <reference>
+    <citation>Devine S, Soiffer R, Pasquini M, et al. HLA-identical sibling matched, CD34+ selected, T cell depleted peripheral blood stem cells following myeloablative conditioning for first or second remission acute myeloid leukemia (AML): Results of blood and marrow transplant clinical trials network (BMT CTN) Protocol 0303. Blood. 2009; 114(22):655.</citation>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stem cell transplant</keyword>
+  <keyword>allogeneic transplant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Graft vs Host Disease</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,287 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628337</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3563</org_study_id>
+    <nct_id>NCT05628337</nct_id>
+  </id_info>
+  <brief_title>The TEACH (Texting After ACS Discharge) Pilot Randomized Trial</brief_title>
+  <official_title>Effects of Mobile Text Intervention on Transitions of Care and Outcomes After Hospitalization With Acute Coronary Syndrome - The TEACH (Texting After ACS Discharge) Pilot Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sunnybrook Health Sciences Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sunnybrook Health Sciences Centre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Although there have been substantial advances in the treatment of heart disease, heart&#xD;
+      attacks remain one of the leading causes of death and suffering around the world. Each year,&#xD;
+      more than 80,000 patients are hospitalized with heart attacks or related conditions in&#xD;
+      Canada. Even after discharge, patients are at high risk of having complications such that&#xD;
+      almost one in two patients after a heart attack will be readmitted to hospitals within the&#xD;
+      first year. Given the shortage of doctors and allied health care professionals, there is an&#xD;
+      emerging focus of digital health as a way to improve the care and outcomes after heart&#xD;
+      attacks. With more than 30 million cell phone users across Canada and almost all are already&#xD;
+      using text message services, the goal of this study is to conduct a pilot test using an&#xD;
+      innovative clinical trial design to see if the care and outlook of heart attack patients&#xD;
+      using mobile text messages can be improved.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The healthcare system is in desperate need of novel strategies to better engage with cardiac&#xD;
+      patients to improve care and how patients interact with the healthcare system. Although&#xD;
+      almost everyone has a mobile phone in Canada, healthcare systems have not sufficiently&#xD;
+      explored mobile health strategies that can improve health. Yet, a recent survey suggests that&#xD;
+      alternative access to healthcare is highly desirable by Canadians. Adoption of mobile health&#xD;
+      technologies has the potential to add an additional avenue for how the healthcare system can&#xD;
+      interact with patients. Most importantly, these strategies are already used by many other&#xD;
+      industries and thus can be easily implementable and expandable in healthcare institutions&#xD;
+      across the country.&#xD;
+&#xD;
+      Due to the COVID-19 pandemic, it has become evident that the way healthcare is delivered in&#xD;
+      the future will be different than it has been for many decades. With the conversion of many&#xD;
+      forms of care to virtual and online platforms, mobile-based care could become an important&#xD;
+      component of cardiac care. Thus, this project will help to explore the use of mobile-based&#xD;
+      virtual care platforms in cardiac follow-up in the ACS populations.&#xD;
+&#xD;
+      The main goal of the study is to test the feasibility and potential effects of mobile text&#xD;
+      message-based intervention on transitions of care after hospitalization with heart attack.&#xD;
+&#xD;
+      The hypotheses are that i) the majority of patients will be willing to participate in the&#xD;
+      pilot study and continue to receive text messages during the study, ii) the group that&#xD;
+      receives texting will have more frequent physician visits and take medication more&#xD;
+      consistently at 1 year after discharge, iii) the group that receives texting will have lower&#xD;
+      rates of readmission at 1 year after discharge.&#xD;
+&#xD;
+      One of the most innovative aspects of this study is the ability to conduct an intervention of&#xD;
+      mobile technology and follow-up outcomes of patients using existing registries and data that&#xD;
+      are routinely collected in day-to-day care. Accordingly, this study will be conducted at a&#xD;
+      fraction of the cost compared to a traditional randomized design. It also means that the&#xD;
+      study concept could be easily replicated in many different areas of medicine.&#xD;
+&#xD;
+      The main goal of the study is to test the feasibility of mobile text message-based&#xD;
+      interventions on transitions of care after hospitalization with a heart attack.&#xD;
+&#xD;
+      Medication compliance, re-hospitalization, and Emergency Department presentation will be&#xD;
+      tracked. These outcomes will be measured using ICES database linking patient health care&#xD;
+      number, to determine hospital admissions, ER presentations, and prescription filling.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 16, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Pilot randomized trial, prospective, single centre, study intervention (texting motivation messages vs. placebo control), follow-up with administrative database linkage</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Physician visit</measure>
+    <time_frame>Within one year of initial hospital presentation</time_frame>
+    <description>Visit to a primary care physician or cardiologist specialist</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Emergency Department presentation</measure>
+    <time_frame>Within one year of initial hospital presentation</time_frame>
+    <description>Presentation to an ED for any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization</measure>
+    <time_frame>Within one year of initial hospital presentation</time_frame>
+    <description>To assess the need to re-hospitalize patient due to CAD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication compliance</measure>
+    <time_frame>Within one year of initial hospital presentation</time_frame>
+    <description>Assessment of medication compliance related to CAD</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>Texting intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive specific health-related texts</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will receive general text messages without health information</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Motivational texting</intervention_name>
+    <description>Health related information relevant to a subject's diagnosis and ongoing treatment</description>
+    <arm_group_label>Texting intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>Non-motivational text messages containing no specific health information</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients &gt; 18 years old&#xD;
+&#xD;
+          2. Presentation or admission to Sunnybrook Hospital with diagnosis of Acute Coronary&#xD;
+             Syndrome (ACS)&#xD;
+&#xD;
+          3. Access to a cellphone that can receive text messages&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Inability to consent for study in English&#xD;
+&#xD;
+          2. Inability to read or answer English texts&#xD;
+&#xD;
+          3. Lack of cellphone with SMS capability&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dennis Ko, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Research Director</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sulagna Sarker</last_name>
+    <phone>416 480 6100</phone>
+    <email>sulagna.sarker@sunnybrook.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sulagna Sarker</last_name>
+      <phone>416 480 6100</phone>
+      <email>sulagna.sarker@sunnybrook.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Dennis Ko, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>https://crtc.gc.ca/pubs/cmr2018-en.pdf</url>
+    <description>Communications Monitoring Report 2018. 2019</description>
+  </link>
+  <reference>
+    <citation>Sanchis-Gomar F, Perez-Quilis C, Leischik R, Lucia A. Epidemiology of coronary heart disease and acute coronary syndrome. Ann Transl Med. 2016 Jul;4(13):256. doi: 10.21037/atm.2016.06.33.</citation>
+    <PMID>27500157</PMID>
+  </reference>
+  <reference>
+    <citation>2. Canadian Institute for Health Information. CIHI Data Quality Study of Ontario Emergency Department Visits 2004-2005: Volume II of IV - Main Study Findings Ottawa, Ontario 2008.3.</citation>
+  </reference>
+  <reference>
+    <citation>Jencks SF, Williams MV, Coleman EA. Rehospitalizations among patients in the Medicare fee-for-service program. N Engl J Med. 2009 Apr 2;360(14):1418-28. doi: 10.1056/NEJMsa0803563. Erratum In: N Engl J Med. 2011 Apr 21;364(16):1582.</citation>
+    <PMID>19339721</PMID>
+  </reference>
+  <reference>
+    <citation>Krumholz HM. Post-hospital syndrome--an acquired, transient condition of generalized risk. N Engl J Med. 2013 Jan 10;368(2):100-2. doi: 10.1056/NEJMp1212324. No abstract available.</citation>
+    <PMID>23301730</PMID>
+  </reference>
+  <reference>
+    <citation>Leppin AL, Gionfriddo MR, Kessler M, Brito JP, Mair FS, Gallacher K, Wang Z, Erwin PJ, Sylvester T, Boehmer K, Ting HH, Murad MH, Shippee ND, Montori VM. Preventing 30-day hospital readmissions: a systematic review and meta-analysis of randomized trials. JAMA Intern Med. 2014 Jul;174(7):1095-107. doi: 10.1001/jamainternmed.2014.1608.</citation>
+    <PMID>24820131</PMID>
+  </reference>
+  <reference>
+    <citation>Czarnecki A, Chong A, Lee DS, Schull MJ, Tu JV, Lau C, Farkouh ME, Ko DT. Association between physician follow-up and outcomes of care after chest pain assessment in high-risk patients. Circulation. 2013 Apr 2;127(13):1386-94. doi: 10.1161/CIRCULATIONAHA.112.000737.</citation>
+    <PMID>23547178</PMID>
+  </reference>
+  <reference>
+    <citation>Czarnecki A, Wang JT, Tu JV, Lee DS, Schull MJ, Lau C, Farkouh ME, Wijeysundera HC, Ko DT. The role of primary care physician and cardiologist follow-up for low-risk patients with chest pain after emergency department assessment. Am Heart J. 2014 Sep;168(3):289-95. doi: 10.1016/j.ahj.2014.05.016. Epub 2014 Jun 9.</citation>
+    <PMID>25173539</PMID>
+  </reference>
+  <reference>
+    <citation>Wong MK, Wang JT, Czarnecki A, Koh M, Tu JV, Schull MJ, Wijeysundera HC, Lau C, Ko DT. Factors associated with physician follow-up among patients with chest pain discharged from the emergency department. CMAJ. 2015 Mar 17;187(5):E160-8. doi: 10.1503/cmaj.141294. Epub 2015 Feb 23.</citation>
+    <PMID>25712950</PMID>
+  </reference>
+  <reference>
+    <citation>Huo X, Krumholz HM, Bai X, Spatz ES, Ding Q, Horak P, Zhao W, Gong Q, Zhang H, Yan X, Sun Y, Liu J, Wu X, Guan W, Wang X, Li J, Li X, Spertus JA, Masoudi FA, Zheng X. Effects of Mobile Text Messaging on Glycemic Control in Patients With Coronary Heart Disease and Diabetes Mellitus: A Randomized Clinical Trial. Circ Cardiovasc Qual Outcomes. 2019 Sep;12(9):e005805. doi: 10.1161/CIRCOUTCOMES.119.005805. Epub 2019 Aug 31.</citation>
+    <PMID>31474119</PMID>
+  </reference>
+  <reference>
+    <citation>Thakkar J, Kurup R, Laba TL, Santo K, Thiagalingam A, Rodgers A, Woodward M, Redfern J, Chow CK. Mobile Telephone Text Messaging for Medication Adherence in Chronic Disease: A Meta-analysis. JAMA Intern Med. 2016 Mar;176(3):340-9. doi: 10.1001/jamainternmed.2015.7667.</citation>
+    <PMID>26831740</PMID>
+  </reference>
+  <reference>
+    <citation>Adler AJ, Martin N, Mariani J, Tajer CD, Owolabi OO, Free C, Serrano NC, Casas JP, Perel P. Mobile phone text messaging to improve medication adherence in secondary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2017 Apr 29;4(4):CD011851. doi: 10.1002/14651858.CD011851.pub2.</citation>
+    <PMID>28455948</PMID>
+  </reference>
+  <reference>
+    <citation>Shariful Islam SM, Farmer AJ, Bobrow K, Maddison R, Whittaker R, Pfaeffli Dale LA, Lechner A, Lear S, Eapen Z, Niessen LW, Santo K, Stepien S, Redfern J, Rodgers A, Chow CK. Mobile phone text-messaging interventions aimed to prevent cardiovascular diseases (Text2PreventCVD): systematic review and individual patient data meta-analysis. Open Heart. 2019 Oct 9;6(2):e001017. doi: 10.1136/openhrt-2019-001017. eCollection 2019.</citation>
+    <PMID>31673381</PMID>
+  </reference>
+  <reference>
+    <citation>Chow CK, Redfern J, Hillis GS, Thakkar J, Santo K, Hackett ML, Jan S, Graves N, de Keizer L, Barry T, Bompoint S, Stepien S, Whittaker R, Rodgers A, Thiagalingam A. Effect of Lifestyle-Focused Text Messaging on Risk Factor Modification in Patients With Coronary Heart Disease: A Randomized Clinical Trial. JAMA. 2015 Sep 22-29;314(12):1255-63. doi: 10.1001/jama.2015.10945. Erratum In: JAMA. 2016 Mar 8;315(10):1057.</citation>
+    <PMID>26393848</PMID>
+  </reference>
+  <reference>
+    <citation>14. Communications Monitoring Report 2018. 2019; https://crtc.gc.ca/pubs/cmr2018-en.pdf. Accessed November 1, 2019.15.</citation>
+  </reference>
+  <reference>
+    <citation>15. Lauer MS, D'Agostino RB, Sr. The randomized registry trial--the next disruptive technology in clinical research? N Engl J Med. 2013;369(17):1579-1581.16. Ko DT, Alter DA, Guo H, et al. High-Density Lipoprotein Cholesterol and Cause-Specific Mortality in Individuals Without Previous Cardiovascular Conditions: The CANHEART Study. J Am Coll Cardiol. 2016;68(19):2073-2083.17.</citation>
+  </reference>
+  <reference>
+    <citation>Tu JV, Chu A, Rezai MR, Guo H, Maclagan LC, Austin PC, Booth GL, Manuel DG, Chiu M, Ko DT, Lee DS, Shah BR, Donovan LR, Sohail QZ, Alter DA. The Incidence of Major Cardiovascular Events in Immigrants to Ontario, Canada: The CANHEART Immigrant Study. Circulation. 2015 Oct 20;132(16):1549-1559. doi: 10.1161/CIRCULATIONAHA.115.015345. Epub 2015 Aug 31.</citation>
+    <PMID>26324719</PMID>
+  </reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>December 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mobile health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

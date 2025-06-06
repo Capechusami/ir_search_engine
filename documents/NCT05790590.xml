@@ -1,0 +1,165 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790590</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SNUH-2022-3274</org_study_id>
+    <nct_id>NCT05790590</nct_id>
+  </id_info>
+  <brief_title>Comparison of Image Quality Between &quot;Double Low Dose&quot; Liver CT and Standard Liver CT</brief_title>
+  <official_title>Comparison of Image Quality Between &quot;Double Low Dose&quot; Liver CT Using AI-based Iodine Boosting Reconstruction and Standard Contrast-enhanced Liver CT in Patients With Colorectal Cancer: Prospective, Randomized, Non-inferiority Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Seoul National University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients with malignancies, contrast-enhanced abdominal CT (hereafter abdominal CT) plays&#xD;
+      an important role in detecting carcinoma recurrence and assessing treatment response. In this&#xD;
+      study, we aim to investigate whether such a &quot;double low&quot; dose CT is feasible in patients with&#xD;
+      liver metastases of colorectal cancer using a vendor-agnostic artificial intelligence-based&#xD;
+      noise reduction and contrast enhancement software.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>lesion conspicuity on portal venous phase</measure>
+    <time_frame>6 months after primary study completion.</time_frame>
+    <description>qualitative analysis of lesion conspicuity on portal venous phase on five-point scale (higher score indicates better conspicuity).&#xD;
+Lesion conspicuity is compared between the two arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>lesion conspicuity on arterial phase</measure>
+    <time_frame>6 months after primary study completion.</time_frame>
+    <description>qualitative analysis of lesion conspicuity on arterial phase on five-point scale (higher score indicates better conspicuity) Lesion conspicuity is compared between the two arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lesion detectability</measure>
+    <time_frame>12 months after primary study completion.</time_frame>
+    <description>lesion detectability is compared between the two arms, compared with reference standard. Figure-of-merit was obtained.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiation dose</measure>
+    <time_frame>1 month after primary study completion</time_frame>
+    <description>Dose-length product (mGy*cm) is compared between the two arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Contrast media (CM) dose</measure>
+    <time_frame>1 month after primary study completion</time_frame>
+    <description>The amount of CM dose is compared between the two arms.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">176</enrollment>
+  <condition>Metastasis to Liver</condition>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Standard dose CT</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard dose protocol CT using standard radiation dose (120 kVp) and standard dose of contrast media, and reconstructed with commercially available reconstruction algorithm of the CT scanner.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Double low dose CT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Double low dose protocol CT using low radiation dose (120 kVp &amp; 70% of reference mAs of standard dose CT) and low dose of contrast media, and reconstructed with commercially available vendor-agonistic AI-based software.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Double low dose CT</intervention_name>
+    <description>Simultaneous reduction of both radiation dose and contrast media dose</description>
+    <arm_group_label>Double low dose CT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Standard dose CT</intervention_name>
+    <description>CT with standard radiation dose and contrast media dose</description>
+    <arm_group_label>Standard dose CT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  colorectal cancer (CRC) patients&#xD;
+&#xD;
+          -  on surveillance or monitoring for liver metastasis (of CRC)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  any relative or absolute contra-indication of CECT&#xD;
+&#xD;
+          -  diffuse infiltrative type of liver metastasis or on monitoring for too many liver&#xD;
+             lesions&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeong Min Lee, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hyuna Jung</last_name>
+    <phone>82-2-2072-4177</phone>
+    <email>jha5375@snu.ac.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeong Hee Yoon, MD</last_name>
+    <phone>82-2-2072-2293</phone>
+    <email>cinamon1@snu.ac.kr</email>
+  </overall_contact_backup>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Estimate">May 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seoul National University Hospital</investigator_affiliation>
+    <investigator_full_name>Jeong Min Lee</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>CT</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

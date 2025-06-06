@@ -1,0 +1,320 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629910</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2208839</org_study_id>
+    <secondary_id>2022051232</secondary_id>
+    <nct_id>NCT05629910</nct_id>
+  </id_info>
+  <brief_title>NeO2Matic-Pilot Trial</brief_title>
+  <acronym>NEO2MATIC</acronym>
+  <official_title>Randomised Cross-over Study of Closed Loop Oxygen Control in Newborn Infants Receiving Nasal Highflow Therapy Via Airvo-2 Combined With O2Matic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this trial is to test if:&#xD;
+&#xD;
+      automated adjustment of supplemental oxygen to preterm infants in noninvasive respiratory&#xD;
+      support based on feedback from a measurement of blood-oxygen saturation&#xD;
+&#xD;
+      results in more stable blood-oxygenation compared to routine nurse controlled adjustment of&#xD;
+      oxygen&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Due to immature lungs and immature regulation of breathing, preterm infants require long&#xD;
+      periods of respiratory support including supplemental oxygen. Noninvasive monitoring of&#xD;
+      oxygenation using pulse oximetry (SpO2, blood oxygen saturation) has become standard of care&#xD;
+      despite not always accurately reflecting paO2 (partial pressure of oxygen). Several clinical&#xD;
+      trials have aimed to determine the optimal range for SpO2. Although subject to an ongoing&#xD;
+      debate currently most neonatal units aim to keep SpO2 within a target-range (TR) of 90-95%&#xD;
+      based on consensus guidelines. Recent reviews and meta-analyses have shown that SpO2 outside&#xD;
+      this range is associated with adverse outcome. Hyperoxia is associated with BPD&#xD;
+      (bronchopulmonary dysplasia) and ROP (retinopathy of prematurity), whereas hypoxia is&#xD;
+      associated with an increased risk of necrotizing enterocolitis, death and brain damage.&#xD;
+&#xD;
+      Keeping SpO2 within TR is difficult for the clinical staff and may require frequent manual&#xD;
+      adjustments of FiO2 (fraction of inspired oxygen) thus representing a huge workload. Recent&#xD;
+      studies have shown that babies often spend less than 50% of time with SpO2 within target&#xD;
+      range.&#xD;
+&#xD;
+      Due to limitations of manual control of FiO2, several commercially available algorithms have&#xD;
+      been developed facilitating automatic oxygen control (AOC) or closed loop automated oxygen&#xD;
+      control (CLAC) using feedback from the pulse oximetry as input. Observational trials,&#xD;
+      randomized clinical trials as well as meta-analyses of short-term outcomes have with a&#xD;
+      reasonable consistency shown automatic oxygen control to be associated with a significant&#xD;
+      increase in SpO2 spent in TR from approximately 50% to above 70-80% of time, a reduction in&#xD;
+      number and duration of episodes with hypoxemia and hyperoxemia , and a substantial reduction&#xD;
+      in the need for manual adjustments of FiO2 from more than 20 times to one during automated&#xD;
+      oxygen control.. It still remains to be determined if automatic oxygen control improves&#xD;
+      relevant long term outcomes, but a large international multi-center randomized clinical trial&#xD;
+      (FiO2-C Trial) is expected to report on long-term outcomes within 12-24 months.&#xD;
+&#xD;
+      The current commercially available systems for automatic oxygen control are integrated into&#xD;
+      brand- specific ventilator-systems and may only work with devices and consumables from that&#xD;
+      particular company. O2matic® is a danish automatic oxygen control system registered for use&#xD;
+      in adult patients and has been shown to be significantly better than manual control to&#xD;
+      maintain SpO2 within target O2matic® has never been tested in a neonatal population but can&#xD;
+      potentially be used as an add-on to several respiratory support systems used in neonatal&#xD;
+      care, possibly making automatic oxygen control more universally available at a lower cost.&#xD;
+      This protocol describes a proposed pilot-trial of automatic oxygen control using O2matic® in&#xD;
+      spontaneously breathing newborn infants needing respiratory support.&#xD;
+&#xD;
+      Research question and aim The primary objective is to evaluate if automated adjustment of&#xD;
+      FiO2 by O2Matic during neonatal nasal highflow therapy or CPAP improves the duration of SpO2&#xD;
+      being within target range when compared to nurse-controlled (manual) adjustment of FiO2.&#xD;
+&#xD;
+      This will be done in a randomized controll cross over trial.&#xD;
+&#xD;
+      O2Matic - investigational device The O2Matic oxygen controller is a closed-loop system that,&#xD;
+      based on continuous monitoring of pulse and SpO2 by a wired pulse oximeter, adjusts oxygen&#xD;
+      flow to the patient. The algorithm in O2matic samples the last 15 seconds of input from the&#xD;
+      pulse oximeter and calculates increments or decrements in oxygen flow every second based on&#xD;
+      the last 15 seconds' average. Increments and decrements are proportionally increased relative&#xD;
+      to the difference between actual SpO2 and target SpO2. Maximal oxygen flow can be specified&#xD;
+      to fit the actual condition treated and the device used for delivering oxygen to the patient.&#xD;
+      O2matic allows for flow up to 15 L/minute in automatic mode, but will in this project be&#xD;
+      limited to 0-8 L/minute which are the flowrates used for nHFT (see further down). During the&#xD;
+      study alarms from SpO2 and heart-rate-out-of-range will be silenced and blinded (see further&#xD;
+      down) as study participants will be monitored using the usual central monitoring system used&#xD;
+      in the NICU The only alarm allowed will be for loss of signal from the oximetry sensor which&#xD;
+      can be individualized from 0 to 5 minutes, to avoid repeated alarms due to signal loss of&#xD;
+      shorter duration. The O2Matic is CE-marked and designed for adult care but not registered for&#xD;
+      use in patients less than 18 years of age. Consequently, this study also aims to test the use&#xD;
+      of O2Matic in a new patient group.&#xD;
+&#xD;
+      The O2Matic is only compatible with the Nonin Purelight pulse oximetry sensors - including&#xD;
+      Nonin Neonatal Oximetry sensors.&#xD;
+&#xD;
+      During the intervention the O2Matic will be operating in automatic mode adjusting the oxygen&#xD;
+      flow in response to changes in SpO2.&#xD;
+&#xD;
+      During the control period O2Matic will be deactivated.&#xD;
+&#xD;
+      Nasal High Flow Therapy via AIRVO-2 Nasal high flow therapy (nHFT) is a standard treatment&#xD;
+      modality in neonatal respiratory care which can be provided using the OptiFlowTM interface&#xD;
+      from Fischer &amp; Paykell and a gas source providing a mixture of humidified air and oxygen.&#xD;
+&#xD;
+      The AIRVO-2TM is a humidifier with an integrated flow generator able to deliver warmed and&#xD;
+      humidified respiratory gases to spontaneously breathing patients through a variety of&#xD;
+      specific patient interfaces in varying sizes (OptiFlowTM). In clinical practice AIRVO-2 is&#xD;
+      used with OptiFlow prongs from size &quot;preterm&quot; and up, although the recommended size is from&#xD;
+      size &quot;infant&quot;.&#xD;
+&#xD;
+      The AIRVO-2 is designed to be able to deliver flow at a constant set flow rate which will be&#xD;
+      kept constant regardless of manual changes in the fraction of inspired oxygen (FiO2) - the&#xD;
+      resulting FiO2 will be shown on the display. When used in this study the AIRVO-2 will be used&#xD;
+      in junior-mode which is necessary when used with a neonatal interface. In junior-mode&#xD;
+      humidification-temperature is limited to 34 degrees and airflow to a maximum of 25 L/min but&#xD;
+      in the current study only up to 8 L/min will be used.&#xD;
+&#xD;
+      Closed loop adjustment of oxygen via O2Matic and AIRVO-2 Oxygen supply to AIRVO-2 can be&#xD;
+      delivered by connecting the oxygen output from O2Matic to the oxygen inlet on AIRVO-2. In&#xD;
+      this way nHFT from AIRVO-2 can be delivered with automatically adjusted oxygen supply via the&#xD;
+      closed loop system from O2Matic at a constant set-flowrate controlled by AIRVO- 2, with the&#xD;
+      resulting FiO2 measured and displayed by AIRVO-2. O2Matic will adjust FiO2 based on the&#xD;
+      reading from the Nonin Purelight pulse oximeter connected to O2Matic. It is important to&#xD;
+      note, that the reading from this pulse oximeter will be blinded to the clinical staff, and&#xD;
+      all manual adjustments to FiO2 will be done based on readings from the pulse oximeter&#xD;
+      connected to the central monitoring system in the NICU (Avant 9600 Nonin Pulsoximeter&#xD;
+      connected via Philips Intellivue).&#xD;
+&#xD;
+      Study outline and trial design&#xD;
+&#xD;
+      The study is a pilot trial and designed as an order-randomized, cross-over trial. Infants&#xD;
+      will be randomized to treatment-order by block randomization to ensure even distribution&#xD;
+      between the sequence of treatment. All infants will at study start receive nHFT via OptiFlow&#xD;
+      interface, and then be allocated to:&#xD;
+&#xD;
+        -  Automated adjustment of FiO2 by O2Matic followed by manual FiO2 adjustment or&#xD;
+&#xD;
+        -  Manual adjustment of FiO2 followed by Automated adjustment of FiO2 by O2Matic&#xD;
+&#xD;
+      Each patient will serve as their own control, and each treatment-period will last 24 hours,&#xD;
+      and each patient will be exposed to 1 period of each treatment assignment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">July 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>The study is a pilot trial and designed as a order-randomized, cross-over trial. Infants will be randomised to treatment-order by block randomisation to ensure even distribution between the sequence of treatment. All infants will at study start receive nHFT via OptiFlow interface, and then be allocated to:&#xD;
+▪ Automated adjustment of FiO2 by O2Matic followed by manual FiO2 adjustment or ▪ Manual adjustment of FiO2 followed by Automated adjustment of FiO2 by O2Matic Each patient will serve as their own control, and each treatment-period will last 24 hours, and each patient will be exposed to 1 period of each treatment assignment.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>time in target SpO2 range 90%-95% (90%-100% if FiO2 =21%)</measure>
+    <time_frame>48 hours</time_frame>
+    <description>total time spent in target SpO2 range:&#xD;
+measured by the Nonin pulse oximeter connected to O2Matic and/or&#xD;
+measured by the Avant 9600 Nonin Pulse oximeter providing data from this pulse oximeter</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>number of episodes of SpO2 below 80% lasting at least 60 seconds</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>relative SpO2 distribution in the ranges &lt;80%, 81-85%, 86-89%, 90-95%, &gt;95%</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>burden of hypoxia, i.e. the 'area under the curve' using spO2 = 80% as the threshold</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>duration of episodes with SpO2 above 95% or below 90%</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>frequency of episodes with SpO2 above 95% or below 90%</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>frequency of FiO2 adjustments recorded by O2Matic both during automated and manual mode</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of &quot;manual override&quot; of FiO2 control during automated mode</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall mean FiO2</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall mean flow</measure>
+    <time_frame>48 hours</time_frame>
+    <description>analyzed via excel/mat lab</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Pre-Term</condition>
+  <condition>Respiratory Distress Syndrome, Newborn</condition>
+  <condition>Retinopathy of Prematurity</condition>
+  <condition>Bronchopulmonary Dysplasia</condition>
+  <arm_group>
+    <arm_group_label>Interventional period: Automated adjustment of FiO2 by O2Matic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During the interventional period the O2Matic will operate in automatic mode using the Neonatal Study Profile. O2Matic will continuously adjust the O2 flow to adjust SpO2 within range based on readings from the pulse oximeter connected to O2Matic, while AIRVO-2 will adjust the flow of ambient air to keep the total gas flow constant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control period - manual adjustment of FiO2</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>During the control period, the bedside nurse will manually change FiO2 as per routine based on the reading from the Avant 9600 Nonin pulse oximeter connected to the central monitoring system), by changing oxygenflow from O2Matic as required to induce appropriate changes in SpO2:</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>O2Matic</intervention_name>
+    <description>During the interventional period the O2Matic will operate in automatic mode using the Neonatal Study Profile. O2Matic will continuously adjust the O2 flow to adjust SpO2 within range based on readings from the pulse oximeter connected to O2Matic, while AIRVO-2 will adjust the flow of ambient air to keep the total gas flow constant.</description>
+    <arm_group_label>Interventional period: Automated adjustment of FiO2 by O2Matic</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Newborn infants receiving nHFT via Optiflow 4-8 l/min and FiO2&gt;0.25, requiring&#xD;
+             adjustments of FiO2 beyond the extra need during care procedures&#xD;
+&#xD;
+          -  Likely to be maintained on nHFT during study period of 48 hrs&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  major congenital abnormalities&#xD;
+&#xD;
+          -  hemodynamic instability including large PDA with right to left shunting&#xD;
+&#xD;
+          -  clinician's concern regarding infant stability.&#xD;
+&#xD;
+          -  Unstable infants with frequent apneas, predominantly having need for oxygen during&#xD;
+             apneic events&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>6 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christian Heiring</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rigshospitalet, Denmark</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christian Heiring</last_name>
+    <phone>+4535453545</phone>
+    <email>christian.heiring@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Neonatology, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Christian Heiring</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>closed loop oxygen control</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Bronchopulmonary Dysplasia</mesh_term>
+    <mesh_term>Retinopathy of Prematurity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

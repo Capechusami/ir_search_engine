@@ -1,0 +1,329 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793554</url>
+  </required_header>
+  <id_info>
+    <org_study_id>101057321</org_study_id>
+    <nct_id>NCT05793554</nct_id>
+  </id_info>
+  <brief_title>CLASSICA: Validating AI in Classifying Cancer in Real-Time Surgery Study 1</brief_title>
+  <official_title>CLASSICA: Validating AI in Classifying Cancer in Real-Time Surgery Study 1</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mater Misericordiae University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut de recherche Contre Les Cancers de L'appareil Digestif</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stitchting EAES</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pintail LTD</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kobenhavns Universitet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universita Degli Studi di Torino</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ziekenhuis Oost-Limburg Autonome Verzorginginstelling</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Arctur Racunalniski Inzeniring Doo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stitchting VUMC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Penn State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Krankenhaus der Barmherzigen Bruder Graz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Horizon Europe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mater Misericordiae University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cancer of the lowermost part of the intestine (the rectum) is a common disease and both this&#xD;
+      disease and its treatment can have major impact on patients. Unless treated early, the&#xD;
+      disease can progress, spread to other parts of the body and ultimately cause death. Treatment&#xD;
+      often involves radical surgery, but this too has consequences and risks major complications.&#xD;
+      Best outcomes regarding cure with least impact depend on the disease being detected at an&#xD;
+      early stage as rectal cancer tends to start first as a non-cancerous polyp.&#xD;
+&#xD;
+      The smallest of these precursor polyps can be easily removed during a routine colonoscopy but&#xD;
+      once the polyp grows over 2cm in size it is much harder to categorise correctly as the risk&#xD;
+      of it containing cancer somewhere in it increases markedly. If there is definitely cancer&#xD;
+      present in such a polyp it is best treated from the outset as a cancer with major surgery,&#xD;
+      but if there is definitely not a cancer in it then it can be removed from inside the bowel&#xD;
+      with minimally invasive techniques. Unfortunately, despite our current very best methods, up&#xD;
+      to 20% of tumours initially thought to be benign are found to be malignant only after they&#xD;
+      are excised&#xD;
+&#xD;
+      We have previously shown that cancerous and non-cancerous tissues can be visually&#xD;
+      differentiated by analysis of their perfusion during the examination. For this we use a&#xD;
+      specific approved fluorescent dye, indocyanine green (ICG). ICG is commonly used in bowel&#xD;
+      surgery anyway to assess the blood supply to the bowel and has a very good safety profile.&#xD;
+      ICG is injected into the bloodstream during surgery and the rate at which it is taken up by&#xD;
+      various tissue types is detected by specific and approved cameras which can reveal&#xD;
+      fluorescence in tissue. We have previously found that the rate of uptake of this dye is&#xD;
+      different in cancer tissue compared to non-cancer tissue and have used artificial&#xD;
+      intelligence algorithms to measure this difference. However, we now need to ensure that this&#xD;
+      method can work also in other patients, in other centres and indeed in other countries to&#xD;
+      ensure it is indeed a valid and useful way of assessing rectal polyps.&#xD;
+&#xD;
+      The goal of this observational study is to validate the use of fluorescence pattern analysis&#xD;
+      in the classification of rectal tumours. Patients enrolled in the study will attend for a&#xD;
+      visual examination of the rectal tumour in theatre as is standard practice. During this&#xD;
+      examination a video recording of the fluorescence perfusion will be taken following ICG&#xD;
+      administration. Patients will then have the tumour excised or treated as is standard of care&#xD;
+      by their surgeon. The video will later be analysed to determine the pattern of fluorescence&#xD;
+      perfusion within the tumour, and a classification will be assigned based on the pattern seen.&#xD;
+      All tumours that are excised are examined under the microscope by a pathologist to determine&#xD;
+      the final diagnosis. The fluorescence based classification will be compared to this&#xD;
+      pathological diagnosis to determine the accuracy of the method. So, patients will still have&#xD;
+      the exact same standard of care as currently happens, the hope is that in future this method&#xD;
+      can be developed to the point where it could be useful by means of a useable, accurate&#xD;
+      automated software process. If so, that will form the basis of another study in the future to&#xD;
+      look to see if it can guide or even replace biopsies and help with ensuring complete removal&#xD;
+      ('clear margins') after excision.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rectal polyps &gt;2cm in size (affecting c. 10,000 patients a year in Europe alone) represent a&#xD;
+      considerable clinical challenge. While smaller polyps can be addressed by routine endoscopic&#xD;
+      polypectomy and frank clinical cancer will advance through a traditional cancer surgery&#xD;
+      paradigm, polyps of this size have the option of being locally excised, intact by transanal&#xD;
+      endoscopic resection (also referred to as Transanal Minimally Invasive Surgery, TAMIS). This&#xD;
+      is the treatment of choice in this site due to its ability to provide a single complete&#xD;
+      unfragmented specimen versus other modalities (e.g. endoscopic submucosal resection). While&#xD;
+      the technology and training to enable transanal resection has become much more available over&#xD;
+      the past decade (especially TAMIS) meaning more patients can have large benign lesions and&#xD;
+      even some early rectal cancers excised in their local specialist centres, the major brake now&#xD;
+      on such care is patient selection: i.e. how to tell if a given patient has a benign polyp or&#xD;
+      a cancer in advance of its resection.&#xD;
+&#xD;
+      Endoscopic biopsies are notoriously inaccurate in up to 20% of such lesions (rectal cancers&#xD;
+      commence most often as adenomatous lesions and so superficial biopsies may miss a malignant&#xD;
+      focus). Mistakenly identifying a cancer as a benign lesion and treating it by local excision&#xD;
+      significantly worsens prognosis and compromises subsequent cancer surgery - including&#xD;
+      potentially converting a reconstructable site of resection (i.e. a lesion suitable for&#xD;
+      anterior resection) to an unreconstructable one (i.e. needing an abdominoperineal resection&#xD;
+      with permanent colostomy) and by seeding cancer cells into a deep margin or different plane,&#xD;
+      particularly as in the case for anteriorly positioned lesions. Additionally, transanal&#xD;
+      excision techniques continue to have relatively high rates of positive margins; this risks&#xD;
+      regrowth in benign lesions and limits effective local therapy for earliest stage cancers due&#xD;
+      to the presence of inapparent disease close to the main tumour bulk.&#xD;
+&#xD;
+      We have previously demonstrated, through the use of fluorescent indocyanine green (ICG), that&#xD;
+      perfusion is visibly different, between tumour and healthy tissue. This difference can be&#xD;
+      captured via infrared video and mathematical analysis can differentiate the perfusion pattern&#xD;
+      of malignant areas from any benign/normal tissue also visible in the same endoscopic view. In&#xD;
+      brief, the saturation of fluorescence in each region of interest (ie tumour or area of normal&#xD;
+      mucosa), can be measured from the recorded video using existing software developed by IBM.&#xD;
+      The change in fluorescence over time can be plotted on a curve, demonstrating the inflow,&#xD;
+      peak and outflow of ICG, which is depending on the perfusion patters within the region of&#xD;
+      interest. These curves differ depending on the tissue being examined and so can be used to&#xD;
+      classify benign from malignant tumours through calculating the slope of the uptake and area&#xD;
+      under the curve to measure outflow. Therefore, in a location (such as the rectum) where a&#xD;
+      cancer is suspected, analysis of the video can be used to differentiate between healthy and&#xD;
+      cancerous tissues. This discovery can be made exploited for clinical use by the application&#xD;
+      of AI methods including computer vision and machine learning. In essence, the fluorescence&#xD;
+      intensity of pixels displaying tissues of interest varies with blood flow (perfusion), when&#xD;
+      the blood is dyed with ICG and lit by near-infra-red (NIR) light. The intensity is captured&#xD;
+      over time, from multiple video frames, and this intensity is plotted as a curve. The&#xD;
+      intensity curves of tumour tissue are different from those of healthy tissue, and those of&#xD;
+      benign tumours are different from malignant tumours. Analysis of the curve features for each&#xD;
+      pixel in a region of interest can thus lead to a classification.&#xD;
+&#xD;
+      Such an AI system has been prototyped and trained in the Mater Hospital previously with&#xD;
+      videos from a population of Irish cancer patients from two regional centres, so that it can&#xD;
+      automatically identify malignant tumours and benign lesions from healthy tissue by their&#xD;
+      perfusion patterns. This prototype has previously demonstrated accuracy of &gt;80%.&#xD;
+&#xD;
+      In this study, we clinically validate the basic concept or method of classifying tissue by&#xD;
+      its fluorescence signal characteristics while also seeing if a device can be built on the&#xD;
+      basis of this that can extrapolate the data being generated from the videos by UCD staff. We&#xD;
+      also address the question of generalisability - can other surgeons use the system and get&#xD;
+      similar results from their specific patient cohorts? This will pave the way for future&#xD;
+      studies which are planned to determine the roles of biopsy (can the system enable optimal&#xD;
+      choice of biopsied tissue, and thus reduce biopsy error?); and tumour resection (can the&#xD;
+      system increase the completeness and accuracy of tumour resection?).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">March 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Validation of tissue classification through fluorescence perfusion</measure>
+    <time_frame>48 months</time_frame>
+    <description>The primary objective of CLASSICA Study 1 is to validate the concept of tissue characterisation by ICG signal perfusion patterns in a large series of data across multiple centres using mathematical models. Accuracy of this measurement will be determined through calculation of sensitivity and specificity rates of the classification system.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Usability of video sharing and annotation technology in multiple sites</measure>
+    <time_frame>48 months</time_frame>
+    <description>CLASSICA-Web and CLASSICA-OR platforms will be deployed across all five clinical sites. Accessability and usablity of these systems will be assessed through user surveys and analysis of video quality measures.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Rectum Neoplasm</condition>
+  <condition>Rectum Polyp</condition>
+  <condition>Rectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Rectal tumour without prior evidence of cancer</arm_group_label>
+    <description>400 patients with a known rectal tumour that has not demonstrated evidence of cancer to date - may be benign or indeterminate on biopsy or without biopsy performed to date.&#xD;
+Patients in this cohort will undergo examination under anaesthesia as is standard of care. During this examination the pattern of fluorescence seen in NIR camera within the tumour will be observed following administration of ICG (dose 0.25mg/kg) and recorded. Following this, patients will continue with standard of care at the discretion of their surgeon.&#xD;
+The operative video will be uploaded to a secure cloud based system and annotated by the surgeon where further mathematical analysis will be carried out for the purposes of tissue classification.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rectal tumour previously confirmed as cancerous</arm_group_label>
+    <description>200 patients with a rectal tumour that has proven previously to contain cancer. Both patients who have and have not undergone neoadjuvant therapy are suitable for inclusion in this group.&#xD;
+Patients in this group will undergo the same processes as the patients in cohort 1.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients fitting the inclusion criteria will be approached for inclusion in the&#xD;
+        trial. Participants must be able and willing to comply with the terms of the protocol.&#xD;
+&#xD;
+        Such patients will be identified from referral letters, outpatient clinics, endoscopy&#xD;
+        lists, and multidisciplinary cancer meetings. Patients will undergo standard preoperative&#xD;
+        work-up, including but not limited to colonic visualisation by either colonoscopy or CT&#xD;
+        colonogram, staging CT scan of the chest, abdomen and pelvis, MRI of the rectum, and&#xD;
+        assessment of fitness for surgery as per standard practice. The optimal management of the&#xD;
+        patient will be determined based on institutional protocols.&#xD;
+&#xD;
+        Suitability for inclusion as per the selection criteria above will be assessed and patients&#xD;
+        will be provided with verbal and written details.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants with a confirmed or suspected rectal polyp/tumour measuring greater than&#xD;
+             2cm undergoing surgical intervention or assessment OR Patients with a known rectal&#xD;
+             cancer undergoing surgical intervention or assessment, including those post neo&#xD;
+             adjuvant therapy.&#xD;
+&#xD;
+          -  Participant is willing and able to give informed consent for participation in the&#xD;
+             study. ● Male or Female, aged 18 years or above.&#xD;
+&#xD;
+          -  Clinically fit for elective intervention&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female participant who is pregnant, lactating or planning pregnancy within three&#xD;
+             months of the study&#xD;
+&#xD;
+          -  Significant renal or hepatic impairment.&#xD;
+&#xD;
+          -  Any other significant disease or disorder which, in the opinion of the Investigator,&#xD;
+             may either put the participants at risk because of participation in the study, or may&#xD;
+             influence the result of the study, or the participant's ability to participate in the&#xD;
+             study. ● Allergy to intravenous contrast agent or iodides&#xD;
+&#xD;
+          -  Other contraindications to ICG including concurrent use of anticonvulsants, bisulphite&#xD;
+             containing drugs, methadone and nitrofurantoin.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ronan Cahill</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University College Dublin</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alice Moynihan</last_name>
+    <phone>353 (0)1 716 4000</phone>
+    <email>alice.moynihan@ucd.ie</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Mater Misericordiae University Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <state>Other (Non U.s.)</state>
+        <zip>D07 R2WY</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Ireland</country>
+  </location_countries>
+  <link>
+    <url>https://classicaproject.eu/</url>
+    <description>Official project website</description>
+  </link>
+  <results_reference>
+    <citation>Cahill RA, O'Shea DF, Khan MF, Khokhar HA, Epperlein JP, Mac Aonghusa PG, Nair R, Zhuk SM. Artificial intelligence indocyanine green (ICG) perfusion for colorectal cancer intra-operative tissue classification. Br J Surg. 2021 Jan 27;108(1):5-9. doi: 10.1093/bjs/znaa004. No abstract available.</citation>
+    <PMID>33640921</PMID>
+  </results_reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University College Dublin</investigator_affiliation>
+    <investigator_full_name>Ronan Cahill</investigator_full_name>
+    <investigator_title>Professor of Surgery</investigator_title>
+  </responsible_party>
+  <keyword>Fluorescence</keyword>
+  <keyword>Indocyanine green</keyword>
+  <keyword>Tumour classification</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rectal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Given the sensitive nature of the data being collected (health data) individual participant data will not be shared, in line with GDPR and as described in the patient information leaflet. However metadata will be made publicly available at the end of the project. A decision regarding the degree of pooled participant data that will be made available to other researchers will be made towards the conclusion of the project.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

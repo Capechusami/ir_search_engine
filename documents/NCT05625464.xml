@@ -1,0 +1,262 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625464</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020P002676</org_study_id>
+    <nct_id>NCT05625464</nct_id>
+  </id_info>
+  <brief_title>Effect of Automated Real-time Feedback on Early Sepsis Care</brief_title>
+  <official_title>Effect of Automated Real-time Feedback on Early Sepsis Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Crico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sepsis is the leading cause of death among US hospitals, accounting for 6% of all&#xD;
+      hospitalizations and 35% of all inpatient deaths. International guidelines and the CMS SEP-1&#xD;
+      bundle stress the importance of adhering to specific steps in the diagnosis and management of&#xD;
+      sepsis. This can be very difficult, especially in the setting of a busy ED, ward, or ICU&#xD;
+      where there are multiple simultaneous demands on providers' attention and time. Critical&#xD;
+      steps can be missed or delayed. The CMS SEP-1 bundle is a measure of compliance with sepsis&#xD;
+      care that is being tracked nationally across hospitals.&#xD;
+&#xD;
+      Unfortunately, a recent study demonstrated that every hour of delay to the completion of a&#xD;
+      sepsis bundle, including antibiotic administration, was associated with a 4% increase in&#xD;
+      risk-adjusted hospital mortality.&#xD;
+&#xD;
+      One strategy to improve the care and outcomes of patients with sepsis is the use of&#xD;
+      information technology to support our providers in a targeted manner. Technology has already&#xD;
+      been developed and deployed to help with the early identification of patients with sepsis&#xD;
+      using a Best Practice Alert (BPA), which has been in place at our hospital since 2017. This&#xD;
+      pop-up window alerts the team to the possibility of sepsis based on data within the medical&#xD;
+      record. However, once the alert is accepted or declined, the BPA does not offer ongoing&#xD;
+      support to clinicians, leaving the clinician to track and execute multiple time-based and&#xD;
+      inter-dependent sepsis bundle measures in a busy, hectic environment. To augment this&#xD;
+      existing tool, here we propose to study the efficacy of a novel technology called the Sepsis&#xD;
+      Care Tracking Platform (SCTP) to provide ongoing support at the bedside to providers, thus&#xD;
+      improving the care we deliver to patients.&#xD;
+&#xD;
+      SCTP is a monitoring and notification platform that aims to increase the timely delivery of&#xD;
+      key elements of evidence-based sepsis care. This platform, which was built by clinicians for&#xD;
+      clinicians, leverages the electronic medical record (EMR) to track real-time compliance with&#xD;
+      key components of the CMS SEP-1 bundle - timely antibiotics, blood cultures prior to&#xD;
+      antibiotics, initial lactate, and repeat lactate for those patients with an initially&#xD;
+      elevated level. SCTP underwent technical validation in Fall 2019 with a pilot in the MGH&#xD;
+      Emergency Department. The pilot confirmed that SCTP correctly identified missing bundle&#xD;
+      elements and paged the appropriate team members connected with the patient's care. The pilot&#xD;
+      also did not find alarm fatigue to be an issue. We hypothesize that SCTP will increase our&#xD;
+      hospital's compliance with sepsis process metrics and improve patient outcomes.&#xD;
+&#xD;
+      By monitoring real-time data and automatically alerting bedside providers to missing elements&#xD;
+      within an actionable timeframe, SCTP has the potential to drive improvements in clinical care&#xD;
+      even in the extremely busy and complex environment of the emergency department and inpatient&#xD;
+      units.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Actual">November 30, 2021</completion_date>
+  <primary_completion_date type="Actual">November 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>3-hour sepsis bundle order compliance</measure>
+    <time_frame>Within 3 hours of sepsis BPA trigger (time zero)</time_frame>
+    <description>Overall 3-hour bundle ordering compliance, defined as orders for all 3-hour bundle measures monitored by the study platform completed within the bundle time limits - i.e., orders for antibiotics, blood cultures, and lactate measurement measured from the electronic medical record at the end of the study period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic order compliance</measure>
+    <time_frame>within 3 hours of timezero</time_frame>
+    <description>Antibiotic ordering compliance, defined as orders for antibiotics placed within 3 hours of timezero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood culture order compliance</measure>
+    <time_frame>within 3 hours of time-zero</time_frame>
+    <description>Blood culture ordering compliance, defined as orders for blood cultures placed within 3 hours of time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Initial lactate order compliance</measure>
+    <time_frame>within 3 hours of time-zero</time_frame>
+    <description>Initial blood lactate level ordering compliance, defined as orders for initial blood lactate level within 3 hours of time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Repeat lactate order compliance</measure>
+    <time_frame>placed within 6 hours of time-zero and within 3 hours of initial lactate measurement</time_frame>
+    <description>Repeat blood lactate level ordering compliance, defined as orders for repeat blood lactate level placed within 6 hours of time-zero and within 3 hours of initial lactate measurement, among patients with initial lactate &gt; 2.0mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>3-hour sepsis bundle care delivery compliance</measure>
+    <time_frame>Within 3 hours of sepsis BPA trigger (time zero)</time_frame>
+    <description>Overall 3-hour bundle care delivery compliance, defined as the implementation of all 3-hour bundle measures monitored by the study platform completed within the bundle time limits - i.e., administration of antibiotics, collection of blood cultures prior to antibiotic administration, and lactate measurement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic delivery compliance</measure>
+    <time_frame>within 3 hours of timezero</time_frame>
+    <description>Antibiotic delivery compliance, defined as administration of antibiotics within 3 hours of timezero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood culture delivery compliance</measure>
+    <time_frame>within 3 hours of timezero and prior to antibiotic administration</time_frame>
+    <description>Blood cultures delivery compliance, defined collection of blood cultures within 3 hours of timezero and prior to antibiotic administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Initial lactate delivery compliance</measure>
+    <time_frame>within 3 hours of time-zero</time_frame>
+    <description>Initial lactate delivery compliance, defined measurement of initial lactate within 3 hours of time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Repeat lactate delivery compliance</measure>
+    <time_frame>within 6 hours of time-zero and within 3 hours of initial lactate measurement</time_frame>
+    <description>Repeat lactate delivery compliance, defined as the measurement of a repeat lactate within 6 hours of time-zero and within 3 hours of initial lactate measurement, among patients with an initial lactate &gt; 2.0mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality by Day 28</measure>
+    <time_frame>Within 28 days of time zero</time_frame>
+    <description>Mortality by Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Early mechanical ventilation</measure>
+    <time_frame>within 72 hours of time-zero</time_frame>
+    <description>Early mechanical ventilation, defined as the receipt of mechanical ventilation or death within 72 hours of time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Early intensive care unit admission</measure>
+    <time_frame>within 72 hours of time-zero</time_frame>
+    <description>Early intensive care unit (ICU) admission, defined as ICU admission or death within 72 hours of time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation during hospitalization</measure>
+    <time_frame>within 28 days of time-zero</time_frame>
+    <description>Mechanical ventilation during hospitalization, defined as receipt of mechanical ventilation or death within 28 days of time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Early antibiotic discontinuation</measure>
+    <time_frame>at least 24 hours by 48 hours post-time-zero</time_frame>
+    <description>Early antibiotic discontinuation, defined as discontinuation of all antibiotics for at least 24 hours by 48 hours post-time-zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Through day 28 after time zero</time_frame>
+    <description>Hospital length of stay, defined as hospital days from time-zero through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood culture positivity</measure>
+    <time_frame>24 hours before or 7 days after time zero</time_frame>
+    <description>Blood culture positivity, defined as bacterial growth recovered from any blood culture collected 24 hours before or 7 days after time zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-blood culture positivity</measure>
+    <time_frame>24 hours before or 7 days after time zero</time_frame>
+    <description>Non-blood culture positivity, defined as bacterial pathogen recovery from any urine, respiratory, peritoneal, pleural, joint, or cerebrospinal fluid culture collected 24 hours before or 7 days after time zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Any culture positivity</measure>
+    <time_frame>24 hours before or 7 days after time zero</time_frame>
+    <description>Any culture positivity, defined as a composite of positive results from either the blood or non-blood culture positivity outcome</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">3269</enrollment>
+  <condition>Sepsis</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Received SCTP monitoring and standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Received standard of care only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>SCTP</intervention_name>
+    <description>Real-time automated monitoring of the electronic medical record to identify suspected sepsis patients without completion of sepsis bundle measures within 1-hour of the completion deadline and generated reminder pages. Clinicians responsible for patients randomized to the intervention receive reminder pages whereas no pages are sent for control arm patients.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult patients aged 18 years old and over&#xD;
+&#xD;
+          2. Who triggered a sepsis best practice advisory that was subsequently acknowledged by a&#xD;
+             treating clinician as &quot;yes, sepsis possible&quot;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Transfer from an outside hospital&#xD;
+&#xD;
+          2. Sepsis best practice advisory triggered while the patient is in an intensive care unit&#xD;
+&#xD;
+          3. Sepsis best practice advisory triggered while the patient is in a perioperative care&#xD;
+             area&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>November 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Kyan Safavi</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

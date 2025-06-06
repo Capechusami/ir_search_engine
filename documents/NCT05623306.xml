@@ -1,0 +1,386 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>851810</org_study_id>
+    <nct_id>NCT05623306</nct_id>
+  </id_info>
+  <brief_title>SEEG-Guided DBS for OCD</brief_title>
+  <official_title>A Double-Blinded, Randomized, Crossover Trial of Stereoencephalography- Guided Multi-Lead Deep Brain Stimulation for Treatment-Refractory Obsessive- Compulsive Disorder (SEEG-Guided DBS for OCD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Casey H. Halpern, M.D.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a dual-site, double-blinded, randomized, crossover study design for SEEG-guided&#xD;
+      4-lead DBS for treatment-refractory OCD, followed by open label stimulation for an additional&#xD;
+      6 months. The study will be conducted in 3 stages: Stage 1 will consist of SEEG brain mapping&#xD;
+      and optimization of stimulation parameters. Stage 2 will consist of DBS surgery and further&#xD;
+      optimization of stimulation parameters. Stage 3 will be randomized, crossover treatment,&#xD;
+      followed by open label treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">January 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Stage 1: Invasive SEEG Monitoring and Recovery&#xD;
+Stage 2: SEEG-guided DBS Implantation and Optimization of DBS Programming&#xD;
+Stage 3: Randomized Sham-controlled Crossover Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Feasibility Endpoint #1 - OCD Relevant Network</measure>
+    <time_frame>14 days</time_frame>
+    <description>Percentage of patients in which an OCD relevant network can be identified during SEEG Stage 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Feasibility Endpoint #2 - Stimulation Target That Acutely Improves OCD Symptoms</measure>
+    <time_frame>14 days</time_frame>
+    <description>Percentage of patients in which we can identify a stimulation target that acutely improves OCD symptoms during SEEG Stage 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Feasibility Endpoint #3 - Willingness to Continue with DBS Stage 2</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Percentage of patients willing and able to continue with the DBS Stage 2 after completing the SEEG Stage 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Feasibility Endpoint #4 - Acute Symptomatic Improvement</measure>
+    <time_frame>Approximately 60 weeks</time_frame>
+    <description>Percentage of implanted DBS sites associated with both acute symptomatic improvement during the SEEG Stage 1 and therapeutic benefit during the DBS Stage 2.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Efficacy Endpoint - Treatment Response</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Treatment response, determined by the difference in Y-BOCS II score between the active stimulation (ON) condition and sham control (OFF) condition</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Safety Endpoint - Serious Adverse Events</measure>
+    <time_frame>Approximately 4 years</time_frame>
+    <description>Number and type of serious adverse events in this SEEG-guided 4-lead DBS approach compared to conventional DBS for OCD.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Obsessive-Compulsive Disorder</condition>
+  <arm_group>
+    <arm_group_label>SEEG Guided DBS ON-OFF (Stimulation-Sham)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the ON-OFF arm will first be treated for up to 12 weeks with the parameters identified during the DBS optimization phase until the washout period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SEEG Guided DBS OFF-ON (Sham-Stimulation)</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Patients in the OFF-ON will have their devices turned off and will not have their device switched on (activated) until the crossover point.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PMT Stereoencephalography (SEEG)</intervention_name>
+    <description>For Stage 1 of this study, we will be implanting depth electrodes to record stereoencephalography across a network of brain regions.</description>
+    <arm_group_label>SEEG Guided DBS OFF-ON (Sham-Stimulation)</arm_group_label>
+    <arm_group_label>SEEG Guided DBS ON-OFF (Stimulation-Sham)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Vercise Genus™ Deep Brain Stimulation (DBS) System</intervention_name>
+    <description>For Stages 2 and 3 of this study, we intend to use the DBS system to treat patients with severe symptoms of chronic, treatment-refractory OCD by targeting stimulation to sites that have been determined to have therapeutic benefit during our SEEG Invasive Monitoring phase.</description>
+    <arm_group_label>SEEG Guided DBS OFF-ON (Sham-Stimulation)</arm_group_label>
+    <arm_group_label>SEEG Guided DBS ON-OFF (Stimulation-Sham)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ≥ 22 years and ≤ 65 years of age, at the time of screening&#xD;
+&#xD;
+          2. Chronic (&gt; 5 years preceding the date of enrollment) OCD, diagnosed as per the&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition guidelines&#xD;
+             (DSM-5)&#xD;
+&#xD;
+               1. Presence of obsessions, compulsions, or both&#xD;
+&#xD;
+               2. Time-consuming obsessions and compulsions that take more than one hour a day or&#xD;
+                  cause clinically significant distress or impairment in social, occupational, or&#xD;
+                  other important areas of functioning&#xD;
+&#xD;
+               3. Obsessive-compulsive symptoms that are not attributable to the physiological&#xD;
+                  effects of a substance (e.g. a drug of abuse, a medication) or another medical&#xD;
+                  condition&#xD;
+&#xD;
+               4. Disturbance not better explained by the symptoms of another mental disorder&#xD;
+                  listed in the DSM-5&#xD;
+&#xD;
+          3. Severe OCD symptoms, as defined by Y-BOCS I score of ≥ 28, within two weeks prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          4. Lack of adequate response to a history of the following treatments, based on&#xD;
+             information from any of the following: (a) the current treating physician and/or&#xD;
+             psychologist; (b) medical records or other forms of communication from previous&#xD;
+             healthcare providers; and (c) pharmacy records, as determined by the Principal&#xD;
+             Investigator&#xD;
+&#xD;
+               1. Adequate trial of ≥ 2 selective serotonin reuptake inhibitors (SSRIs) for an&#xD;
+                  adequate duration at the maximum dose recommended for OCD or at the&#xD;
+                  maximally-tolerated dose according to the FDA-approved package labeling&#xD;
+&#xD;
+               2. Adequate trial of ≥ 1 augmentation trial using an antipsychotic medication&#xD;
+&#xD;
+               3. Adequate trial of clomipramine, either as monotherapy or as an augmentation&#xD;
+                  therapy, unless medically contradicted&#xD;
+&#xD;
+               4. Adequate trials of cognitive behavior therapy-based Exposure and Response&#xD;
+                  Prevention (ERP)&#xD;
+&#xD;
+          5. Willingness and ability to remain on the same daily dose of any and all scheduled&#xD;
+             psychotropic medication(s) for at least 8 weeks prior to study enrollment and for the&#xD;
+             duration of the trial, in the opinion of the Principal Investigator&#xD;
+&#xD;
+          6. Willingness and ability to discontinue any psychotherapeutic behavioral intervention&#xD;
+             therapy (e.g. CBT) until the maintenance stage, if determined safe by the&#xD;
+             research/study psychiatrist&#xD;
+&#xD;
+          7. Study participation in the prospective subject's best psychiatric interest, as&#xD;
+             determined by the research/study psychiatrist and based on a comprehensive assessment&#xD;
+             that includes the following: (a) detailed psychiatric history; (b) examination of the&#xD;
+             mental status; (c) review of psychiatric assessment measures obtained to determine&#xD;
+             eligibility, as applicable; (d) review of previous medical records for a minimum of 2&#xD;
+             years prior to enrollment, or as applicable; and (e) consideration of the potential&#xD;
+             benefits versus risks of study participation&#xD;
+&#xD;
+          8. Agreement to being evaluated by a licensed psychiatrist and/or psychologist at regular&#xD;
+             intervals, as required by the schedule of events, for the duration of study&#xD;
+             participation&#xD;
+&#xD;
+          9. Living within 6 hours of driving distance from study sites and no plan of relocation&#xD;
+             for at least the duration of the trial (approximately 18-24 months), as reported by&#xD;
+             the prospective subject or a family member&#xD;
+&#xD;
+         10. Adequate social support, including but not limited to, stable housing and two family&#xD;
+             members and/or friends, who are identified as a verifiable emergency contacts&#xD;
+&#xD;
+         11. Willingness and ability to provide at least two verifiable contacts for emergency&#xD;
+             purposes and to permit verification of emergency contacts by research staff before all&#xD;
+             study visits and as needed, at the discretion of the Principal Investigator&#xD;
+&#xD;
+         12. Ability to understand procedure-related instructions and to complete study assessments&#xD;
+             in English, in the opinion of the Principal Investigator&#xD;
+&#xD;
+         13. Willingness and ability to comply with protocol requirements (e.g. procedure visits,&#xD;
+             treatment schedule, follow-up visit schedule, evaluations, etc.), in the opinion of&#xD;
+             the Principal Investigator&#xD;
+&#xD;
+         14. Willingness and ability to provide written agreement to allow any and all forms of&#xD;
+             communication between the research team and treating clinician(s)&#xD;
+&#xD;
+         15. Willingness and ability to provide informed consent, in the opinion of the Principal&#xD;
+             Investigator&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosed, according to the Mini International Neuropsychiatric Interview (MINI), as&#xD;
+             suffering from any other primary psychiatric diagnosis defined in the DSM-5, including&#xD;
+             Hoarding Disorder&#xD;
+&#xD;
+          2. In the opinion of the Principal Investigator and relative to the date of enrollment,&#xD;
+             (a) current or past diagnosis of, or medical history/records suggestive of, a DSM-5&#xD;
+             defined Personality Disorder, considered to be severe; or (b) history of&#xD;
+             hospitalization because of Borderline Personality Disorder&#xD;
+&#xD;
+          3. Present clinical secondary diagnosis of any of the following, as defined in the DSM-5&#xD;
+             and based on the MINI and the psychiatric evaluation:&#xD;
+&#xD;
+               1. Bipolar I Disorder or Bipolar II Disorder&#xD;
+&#xD;
+               2. Anorexia Nervosa, Bulimia Nervosa, or Binge Eating Disorder&#xD;
+&#xD;
+               3. Psychotic Disorder or Mood Disorder with psychotic features&#xD;
+&#xD;
+          4. Current suicidal risk, as determined by the research/study psychiatrist using the&#xD;
+             brief mental status exam and the psychiatric interview (including the Columbia Suicide&#xD;
+             Severity Rating Scale [C-SSRS]), or significant suicide risk, defined as Hamilton&#xD;
+             Depression Rating Scale (HDRS-21) Item 3 score of ≥ 3 or any lifetime history of&#xD;
+             suicide attempt&#xD;
+&#xD;
+             a. Subjects who answer 'Yes' to questions 3, 4, or 5 of the C-SSRS will be excluded.&#xD;
+&#xD;
+          5. Treatment, within 24 months of screening, for any of the following: dependency on,&#xD;
+             addiction to, use of, abuse of, or overuse of any illicit substance(s), including&#xD;
+             alcohol, but not including nicotine or caffeine&#xD;
+&#xD;
+          6. History of head trauma associated with any of the following:&#xD;
+&#xD;
+               1. Loss of consciousness for &gt; 5 minutes&#xD;
+&#xD;
+               2. A residual effect(s) that failed to resolve completely at least 1 year prior to&#xD;
+                  the date of screening&#xD;
+&#xD;
+               3. An abnormality on a neuroimaging study (MRI, CT Scan) that was/is attributable to&#xD;
+                  the head trauma&#xD;
+&#xD;
+               4. &gt; 1 head injury within the past 2 years which were diagnosed as a concussion,&#xD;
+                  concussive-type or traumatic brain injury (TBI), according to medical records or&#xD;
+                  as reported by the prospective subject or a family member&#xD;
+&#xD;
+          7. Any of the following permanent implants:&#xD;
+&#xD;
+               1. Cardiac implant (e.g. pacemaker or any intracardiac lines, implanted&#xD;
+                  neurostimulators, shunts)&#xD;
+&#xD;
+               2. Brain implant (e.g. intracranial implant, aneurysm clips, shunts, stimulators,&#xD;
+                  cochlear implants, or electrodes)&#xD;
+&#xD;
+               3. Implanted medical pumps&#xD;
+&#xD;
+          8. Diathermy treatments requirement for any reason&#xD;
+&#xD;
+          9. Hearing loss that, in the opinion of the Principal Investigator, an audiologist, or a&#xD;
+             treating physician, is likely to affect the subject's ability to comply with all of&#xD;
+             the requirements of the study or may affect the integrity of the study data&#xD;
+&#xD;
+         10. Any metal or metallic particles anywhere in the head, except in the inside of the&#xD;
+             mouth&#xD;
+&#xD;
+         11. Pregnancy, at the time of screening or during the course of the study (i.e. 3 years)&#xD;
+&#xD;
+             a. Acceptable methods of contraception include the following: i. Established use of&#xD;
+             oral, injected or implanted contraceptives ii. Placement of an intrauterine device&#xD;
+             (IUD) or an intrauterine system (IUS) iii. Female sterilization (e.g. surgical&#xD;
+             bilateral oophorectomy with or without hysterectomy, total hysterectomy, tubal&#xD;
+             ligation) iv. Male sterilization, with the appropriate post-vasectomy documentation of&#xD;
+             the absence of sperm in the ejaculate v. True abstinence, when in line with the&#xD;
+             preferred and usual lifestyle of the subject b. Barrier methods of contraception, such&#xD;
+             as a condom, a diaphragm, or cervical/vault caps with spermicidal&#xD;
+             foam/gel/film/cream/suppository, and rhythm methods of contraception, although&#xD;
+             encouraged, alone are not considered acceptable forms or contraception.&#xD;
+&#xD;
+         12. History of involuntary movements, in the opinion of the Principal Investigator or a&#xD;
+             neuro-radiologist&#xD;
+&#xD;
+         13. History of excessive or prolonged bleeding and/or any of the following:&#xD;
+&#xD;
+               1. INR of &gt; 1.8&#xD;
+&#xD;
+               2. Prolonged activated partial thromboplastin time (aPTT) of ≥ 45 sec&#xD;
+&#xD;
+               3. Platelet count of &lt; 75×100/L&#xD;
+&#xD;
+         14. Allergy to gadolinium&#xD;
+&#xD;
+         15. Inability to safely and successfully undergo an MRI or a CT Scan&#xD;
+&#xD;
+         16. Any past or present medical condition, disease, disorder, or injury that, in the&#xD;
+             opinion of the Principal Investigator, may reduce or hinder the subject's ability to&#xD;
+             fully comply with all study requirements for the duration of the study or may impact,&#xD;
+             compromise, or affect the integrity of the data or the results of the study&#xD;
+&#xD;
+         17. Current participation in other research that may potentially interfere with DBS study&#xD;
+             objectives or with the ability to follow the timeline of this study, as determined by&#xD;
+             the Principal Investigator&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nida Firdous, MD, MS</last_name>
+    <phone>2158296720</phone>
+    <email>nida.firdous@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Tenzin Norbu, CRC</last_name>
+      <phone>415-502-5472</phone>
+      <email>Tenzin.Norbu@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Moses Lee, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nida Firdous</last_name>
+      <phone>215-829-6720</phone>
+      <email>nida.firdous@pennmedicine.upenn.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marie Kerr</last_name>
+      <phone>215-829-6720</phone>
+      <email>Marie.Kerr@pennmedicine.upenn.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>October 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>April 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Casey H. Halpern, M.D.</investigator_full_name>
+    <investigator_title>Associate Professor of Neurosurgery, Director of Stereotactic and Functional Neurosurgery</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Compulsive Personality Disorder</mesh_term>
+    <mesh_term>Obsessive-Compulsive Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

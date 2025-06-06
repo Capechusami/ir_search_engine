@@ -1,0 +1,325 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620264</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KUK-Ophthalmology-002</org_study_id>
+    <nct_id>NCT05620264</nct_id>
+  </id_info>
+  <brief_title>Validation of Interleukins and Other Cytokines Together With OCT Imaging for Rapid Infectious Keratitis Assessment</brief_title>
+  <acronym>VICTORIA</acronym>
+  <official_title>Validation of Interleukins and Other Cytokines Together With OCT Imaging for Rapid Infectious Keratitis Assessment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johannes Kepler University of Linz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johannes Kepler University of Linz</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As conventional corneal scraping with bacterial culturing has several disadvantages such as&#xD;
+      long duration until diagnosis, invasiveness and lacks alternatives, there is demand for a&#xD;
+      novel non-invasive, rapid test in keratitis management. First aim of this study will be to&#xD;
+      evaluate the influence of TNF-alpha on Gram+ and Gram- bacteria causing keratitis. Second aim&#xD;
+      of this study will be to develop an algorithm, that should help to distinguish between&#xD;
+      different pathogens causing keratitis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Infectious or inflammatory processes of the cornea (keratitis) are common and vision&#xD;
+      threatening. They are the 5th leading cause of blindness and especially infectious keratitis&#xD;
+      is responsible for 2,000,000 new blind eyes per year (worldwide). Commonly, the presence and&#xD;
+      nature of bacterial pathogens is determined by taking scratches from the cornea, subsequent&#xD;
+      Gram stain and examination of microbiological cultures. Major problems in therapeutic&#xD;
+      decision-making pose the long duration of bacterial culturing for pathogen detection&#xD;
+      (approximately one week), relatively low sensitivity and increasingly frequent bacterial&#xD;
+      resistances to antibiotic agents.&#xD;
+&#xD;
+      In small previous studies optical coherence tomography (OCT) combined with analysis of tear&#xD;
+      cytokines were found to be supportive in distinguishing between different pathogens causing&#xD;
+      keratitis. These studies appear to be a game changer in the field of rapid testing for&#xD;
+      keratitis. However, the problem of these studies is a small sample size and the use of&#xD;
+      partially outdated equipment.&#xD;
+&#xD;
+      Benefit/risk assessment Although there is no direct benefit for participating subjects, the&#xD;
+      results of the study can help to gain more insight into the course of keratitis and could&#xD;
+      further improve the diagnostic utilities in disease management.&#xD;
+&#xD;
+      There is no additional medication used in this study. The findings of the present study could&#xD;
+      help to establish a better understanding of keratitis and could enable faster and&#xD;
+      target-oriented therapy. All applied measurement techniques are painfree.&#xD;
+&#xD;
+      Thus, the risk to benefit ratio seems to be acceptable.&#xD;
+&#xD;
+      Study objectives&#xD;
+&#xD;
+      Primary:&#xD;
+&#xD;
+      • Comparison of TNF-alpha level differences in tear film (pg/ml) between Gram+ and Gram-&#xD;
+      bacteria causing keratitis (z test for non-paired samples).&#xD;
+&#xD;
+      Secondary:&#xD;
+&#xD;
+        -  To develop an algorithm, that should help to distinguish between different pathogens&#xD;
+           causing keratitis using cytokine levels and OCT findings. This part of the study will be&#xD;
+           experimental (partial least squares regression and regression random forest plots)&#xD;
+&#xD;
+        -  Levels of IL-1alpha, IL-1beta, IL-6, IL-8, IL-10, IL-17A, TNF-alpha in keratitis&#xD;
+&#xD;
+        -  Morphological findings in optical coherence tomography: corneal thickness (µm),&#xD;
+           infiltrate thickness (µm), reflectivity of the infiltrate (grey level, where 0 is black&#xD;
+           and 255 is white).&#xD;
+&#xD;
+      Design: Prospective single center trial The participants will be recruited from the&#xD;
+      ambulances of Kepler University clinic, ophthalmology, Linz, Austria A total of 392 patients&#xD;
+      will be included in this study. Aimed power: 0.8 significance level after a Bonferroni&#xD;
+      correction for 7 explanatory variables (7 different cytokines): 0.07 Used values (TNF alpha&#xD;
+      2): Group 1: 18.8 (26.36) and Group 2: 50.12 (103.83) Parameters Results Power 0.800 alpha&#xD;
+      0.007 Mean (Group 1) 18.8 Mean (Group 2) 50.12 Std. deviation (Group 1) 26.36 Std. deviation&#xD;
+      (Group 2) 103.83 Sample size 1 146 Sample size 2 146 Power (obtained) 0.798 For correction of&#xD;
+      a potential rounding error (calculated power 0.798) one case should be added to each group.&#xD;
+&#xD;
+      Although there will not be any study follow-ups the investigator still expects a drop-out&#xD;
+      rate of 30% for the following reason: As published previously, 67% of all corneal biopsies&#xD;
+      result in a positive culture. 13 In those cases, where the culture does not provide positive&#xD;
+      results, the patient will have to be excluded from the analysis.&#xD;
+&#xD;
+      Therefore, the investigator will include 147 + 147 + (147+147)*0.33 = 391.02 eyes -&gt; 392 eyes&#xD;
+      Analysis of data is only possible, if the corneal biopsy is positive (a pathogen causing the&#xD;
+      keratitis is found). Therefore, the investigator expects that approximately 30% of the&#xD;
+      patients will not be included for analysis. In these cases, the OCT images will still be&#xD;
+      evaluated, but the tear film sample will be either disposed according to the protocol of&#xD;
+      tissue waste or if the investigating ophthalmologist expects a non-infectious type of&#xD;
+      keratitis (such as a neurotrophic ulcer) the cytokine quantification will be performed.&#xD;
+&#xD;
+      Measurement techniques CASIA 2 (Tomey, Japan) is a ss-OCT biometer that allows high&#xD;
+      resolution imaging of the anterior segment of the eye.&#xD;
+&#xD;
+      Tear sampling and cytokine analysis Samples will be collected by conjunctival lavage of the&#xD;
+      affected eye without topical anesthesia. Sterile normal saline will be infused at room&#xD;
+      temperature into the lower conjunctival sac by gently pulling down the lower eyelid and with&#xD;
+      a needle-free insulin syringe. After few seconds, the lavage fluid will be aspirated back&#xD;
+      into the same syringe without the syringe touching the conjunctiva. Afterwards, the sample&#xD;
+      will be stored at -80° Celsius until all samples are collected. As mentioned in those&#xD;
+      samples, where the corneal biopsy was negative, will either be disposed, or (if the&#xD;
+      ophthalmology expects a non-infectious type of keratitis) still be analysed. Therefore, the&#xD;
+      conjunctival fluid from the syringes will be pooled and spun down in a centrifuge (400xg for&#xD;
+      10 min at 4°C). The Supernatants will be analyzed using the pro-inflammatory multiplex assay&#xD;
+      kit from Meso Scale Discovery (Gaithersburg, MD, USA) for levels of the following cytokines&#xD;
+      and chemokines: IL-1alpha, IL-1beta, IL-6, IL-8, IL-10, IL-17A, TNF-alpha. Eighty samples&#xD;
+      will be analysed at the same time.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 21, 2022</start_date>
+  <completion_date type="Anticipated">October 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>TNF Alpha in Tear Film</measure>
+    <time_frame>The measurement is assessed at the point of study inclusion.</time_frame>
+    <description>Comparison of TNF-alpha level differences in tear film between Gram+ and Gram- bacteria causing keratitis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Interleukins</measure>
+    <time_frame>The measurement is assessed at the point of study inclusion.</time_frame>
+    <description>Levels of IL-1alpha, IL-1beta, IL-6, IL-8, IL-10, IL-17A</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anterior segment Optical Coherence Tomography</measure>
+    <time_frame>The measurement is assessed at the point of study inclusion</time_frame>
+    <description>Morphological findings in optical coherence tomography: corneal thickness, infiltrate thickness, reflectivity of the infiltrate</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">392</enrollment>
+  <condition>Keratitis Bacterial</condition>
+  <condition>Keratitis Fungal</condition>
+  <arm_group>
+    <arm_group_label>Keratitis Group</arm_group_label>
+    <description>Patients with clinically suspected bacterial or fungal keratitis</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Tear Sample Probe</intervention_name>
+    <description>Samples will be collected by conjunctival lavage of the affected eye without topical anesthesia. Sterile normal saline will be infused at room temperature into the lower conjunctival sac by gently pulling down the lower eyelid and with a needle-free insulin syringe. After few seconds, the lavage fluid will be aspirated back into the same syringe without the syringe touching the conjunctiva.</description>
+    <arm_group_label>Keratitis Group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Tear Film&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The participants will be recruited from the ambulances of Kepler University clinic,&#xD;
+        ophthalmology, Linz, Austria&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women age of at least 18 years to 119 years&#xD;
+&#xD;
+          -  Written informed consent prior to study-related procedures&#xD;
+&#xD;
+          -  First presentation with keratitis (corneal epithelial ulceration, corneal edema and/or&#xD;
+             stromal infiltration with inflammatory cells) within 10 days.&#xD;
+&#xD;
+          -  Untreated keratitis or keratitis not responding to the given treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects will be excluded if one or more of the following criteria apply:&#xD;
+&#xD;
+          -  Symptoms for more than 10 days&#xD;
+&#xD;
+          -  Presence or history of a severe medical condition as judged by the clinical&#xD;
+             investigator&#xD;
+&#xD;
+          -  Pregnancy, planned pregnancy or lactating&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>119 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthias Bolz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>JKU Linz</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nino D Hirnschall, MD,PhD</last_name>
+    <phone>004373278061510</phone>
+    <email>nino.hirnschall@kepleruniklinikum.at</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Haidar Khalil, MD</last_name>
+    <phone>004373278061510</phone>
+    <email>haidar.khalil@kepleruniklinikum.at</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Kepler University Hospital</name>
+      <address>
+        <city>Linz</city>
+        <state>Upper Austria</state>
+        <zip>4021</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haidar Khalil, MD</last_name>
+      <phone>0043 5768083</phone>
+      <phone_ext>73425</phone_ext>
+      <email>haidar.khalil@kepleruniklinikum.at</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nino Hirnschall, MD</last_name>
+      <phone>0043 5768083</phone>
+      <phone_ext>73425</phone_ext>
+      <email>nino.hirnschall@kepleruniklinikum.at</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+  </location_countries>
+  <reference>
+    <citation>Ting DSJ, Ho CS, Deshmukh R, Said DG, Dua HS. Infectious keratitis: an update on epidemiology, causative microorganisms, risk factors, and antimicrobial resistance. Eye (Lond). 2021 Apr;35(4):1084-1101. doi: 10.1038/s41433-020-01339-3. Epub 2021 Jan 7. Erratum In: Eye (Lond). 2021 Oct;35(10):2908.</citation>
+    <PMID>33414529</PMID>
+  </reference>
+  <reference>
+    <citation>Konstantopoulos A, Cendra MDM, Tsatsos M, Elabiary M, Christodoulides M, Hossain P. Morphological and cytokine profiles as key parameters to distinguish between Gram-negative and Gram-positive bacterial keratitis. Sci Rep. 2020 Nov 18;10(1):20092. doi: 10.1038/s41598-020-77088-w. Erratum In: Sci Rep. 2021 Feb 26;11(1):5168.</citation>
+    <PMID>33208864</PMID>
+  </reference>
+  <reference>
+    <citation>Konstantopoulos A, Del Mar Cendra M, Tsatsos M, Elabiary M, Christodoulides M, Hossain P. Author Correction: Morphological and cytokine profiles as key parameters to distinguish between Gram-negative and Gram-positive bacterial keratitis. Sci Rep. 2021 Feb 26;11(1):5168. doi: 10.1038/s41598-021-85007-w. No abstract available.</citation>
+    <PMID>33637814</PMID>
+  </reference>
+  <reference>
+    <citation>Chodosh J, Astley RA, Butler MG, Kennedy RC. Adenovirus keratitis: a role for interleukin-8. Invest Ophthalmol Vis Sci. 2000 Mar;41(3):783-9.</citation>
+    <PMID>10711694</PMID>
+  </reference>
+  <reference>
+    <citation>Peng L, Zhong J, Xiao Y, Wang B, Li S, Deng Y, He D, Yuan J. Therapeutic effects of an anti-IL-6 antibody in fungal keratitis: Macrophage inhibition and T cell subset regulation. Int Immunopharmacol. 2020 Aug;85:106649. doi: 10.1016/j.intimp.2020.106649. Epub 2020 Jun 5.</citation>
+    <PMID>32504999</PMID>
+  </reference>
+  <reference>
+    <citation>Vasanthi M, Prajna NV, Lalitha P, Mahadevan K, Muthukkaruppan V. A pilot study on the infiltrating cells and cytokine levels in the tear of fungal keratitis patients. Indian J Ophthalmol. 2007 Jan-Feb;55(1):27-31. doi: 10.4103/0301-4738.29491.</citation>
+    <PMID>17189883</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Liang Q, Liu Y, Pan Z, Baudouin C, Labbe A, Lu Q. Expression of cytokines in aqueous humor from fungal keratitis patients. BMC Ophthalmol. 2018 Apr 19;18(1):105. doi: 10.1186/s12886-018-0754-x.</citation>
+    <PMID>29673332</PMID>
+  </reference>
+  <reference>
+    <citation>Azher TN, Yin XT, Stuart PM. Understanding the Role of Chemokines and Cytokines in Experimental Models of Herpes Simplex Keratitis. J Immunol Res. 2017;2017:7261980. doi: 10.1155/2017/7261980. Epub 2017 Apr 9.</citation>
+    <PMID>28491875</PMID>
+  </reference>
+  <reference>
+    <citation>Wang L, Wang R, Xu C, Zhou H. Pathogenesis of Herpes Stromal Keratitis: Immune Inflammatory Response Mediated by Inflammatory Regulators. Front Immunol. 2020 May 13;11:766. doi: 10.3389/fimmu.2020.00766. eCollection 2020.</citation>
+    <PMID>32477330</PMID>
+  </reference>
+  <reference>
+    <citation>Song XJ, Li DQ, Farley W, Luo LH, Heuckeroth RO, Milbrandt J, Pflugfelder SC. Neurturin-deficient mice develop dry eye and keratoconjunctivitis sicca. Invest Ophthalmol Vis Sci. 2003 Oct;44(10):4223-9. doi: 10.1167/iovs.02-1319.</citation>
+    <PMID>14507865</PMID>
+  </reference>
+  <reference>
+    <citation>Cole N, Bao S, Willcox M, Husband AJ. Expression of interleukin-6 in the cornea in response to infection with different strains of Pseudomonas aeruginosa. Infect Immun. 1999 May;67(5):2497-502. doi: 10.1128/IAI.67.5.2497-2502.1999.</citation>
+    <PMID>10225913</PMID>
+  </reference>
+  <reference>
+    <citation>Cole N, Krockenberger M, Stapleton F, Khan S, Hume E, Husband AJ, Willcox M. Experimental Pseudomonas aeruginosa keratitis in interleukin-10 gene knockout mice. Infect Immun. 2003 Mar;71(3):1328-36. doi: 10.1128/IAI.71.3.1328-1336.2003.</citation>
+    <PMID>12595449</PMID>
+  </reference>
+  <reference>
+    <citation>Diamond J, Leeming J, Coombs G, Pearman J, Sharma A, Illingworth C, Crawford G, Easty D. Corneal biopsy with tissue micro-homogenisation for isolation of organisms in bacterial keratitis. Eye (Lond). 1999 Aug;13 ( Pt 4):545-9. doi: 10.1038/eye.1999.135.</citation>
+    <PMID>10692928</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 5, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>November 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Keratitis</keyword>
+  <keyword>Optical Coherence Tomography</keyword>
+  <keyword>Cytokine Quantification</keyword>
+  <keyword>Tear Film</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Keratitis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>If IPD is going to be shared, is still in evaluation and will be decided throughout the study.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

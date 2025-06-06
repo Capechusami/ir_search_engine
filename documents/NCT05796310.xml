@@ -1,0 +1,343 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05796310</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SPECTRUM01</org_study_id>
+    <nct_id>NCT05796310</nct_id>
+  </id_info>
+  <brief_title>Combination of Predictive Biomarkers to Increase Diagnostics Efficiency of Autism Spectrum Disorder</brief_title>
+  <official_title>Mind the Gap: a Bridge Between Research and Clinic for the Prevention and Diagnosis of Autism Spectrum Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IRCCS Centro Neurolesi &quot;Bonino-Pulejo&quot;</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Regione Sicilia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>IRCCS Centro Neurolesi &quot;Bonino-Pulejo&quot;</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Early identification and diagnosis of autism spectrum disorder (ASD) is necessary to promote&#xD;
+      access to early treatment. Despite the high incidence, in Italy it is estimated that 1 in 77&#xD;
+      children (age 7-9 years) (Narzisi et al., 2018), the diagnosis and the choice of&#xD;
+      rehabilitation treatment for patients with Autism Spectrum Disorder (ASD) are still based on&#xD;
+      clinical observation. In the absence of targeted pharmacological therapies, early&#xD;
+      surveillance and evaluation aimed at timely intervention represent the only successful&#xD;
+      strategy to reduce the severity of symptoms (Palomo R et al., 2006) and improve the quality&#xD;
+      of life of children affected by ASD and their families, thus also leading to a reduction in&#xD;
+      costs for the National Health Service (Ganz ML. 2007). However, compared to the great&#xD;
+      advances in neuroscience, the clinical management of autistic individuals is seriously&#xD;
+      lagging behind, and the disorder is often diagnosed after 3-4 years of age despite the&#xD;
+      presence of deficits starting from the very first months of life (Zwaigenbaum L et al. al.,&#xD;
+      2013). The aim of this project is to bridge the gap between research and clinic, thanks to&#xD;
+      the convergence of multiple biological and clinical data.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this project is to combine multiple biological levels of information and their&#xD;
+      matching with the clinical phenotype and personal/family anamnesis of the single individual.&#xD;
+      In fact, by stratifying multiple levels of biomarkers, including behavioral (eye tracking),&#xD;
+      clinical and neuropsychological variables, parameters taken from transcriptomics (RNAseq),&#xD;
+      the goal is to identify a panel of intermediate biomarkers capable of (a) distinguishing&#xD;
+      autistic subjects from typically developing brothers/sisters, (b) to distinguish autistic&#xD;
+      subjects from typically developing subjects, (c) to stratify autistic patients into a limited&#xD;
+      number of homogeneous subgroups by physiopathology, in order to allow personalized&#xD;
+      pharmacology and improve their management clinic.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 28, 2022</start_date>
+  <completion_date type="Anticipated">July 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Salivary miRNA profile</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>Measures of salivary miRNA profile - identify the microRNAs differentially expressed in patients with autism spectrum disorder compared to sibling and healthy controls.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>eye-gaze path characteristics - Saccadic Eye Movements</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>Saccadic eye movement assessments measure the speed and accuracy of a participant's saccadic eye movements in response to various stimuli.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>eye-gaze path characteristics - fixation time</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>Total fixation duration measurements in pre-selected areas (areas of interest)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>eye-gaze path characteristics - pupillary response</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>pupillary response measurements assess the changes of mean pupil diameters for the left and right eyes after exposition to pre-selected immages (areas of interest)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Autism Diagnostic Observation Schedule 2 (ASD patients only)</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>Ados2 is a semi-structured, standardised assessment to measure autistic behaviors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vineland Adaptive Behavior Scales (VABS) II (ASD patients only)</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>The VABS II is a standardized semi-structured interview to measure adaptive behavior.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intellectual Quotient (ASD patients only)</measure>
+    <time_frame>At time of enrollment</time_frame>
+    <description>Intellectual quotient measured using one cognitive test per subject, chosen depending on age and language development (either Griffiths Developmental Rating Scales, Wechsler Intelligence Scale for Children - Fourth Edition, or Leiter III).</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Autism Spectrum Disorder</condition>
+  <arm_group>
+    <arm_group_label>Autism Spectrum Disorder Patients</arm_group_label>
+    <description>This group is comprised of 3-17 years children with an expert clinical diagnosis of autism spectrum disorders.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Siblings of children with Autism Spectrum Disorders</arm_group_label>
+    <description>This group is comprised of 3-17 years old siblings, with typical development, of a child with an expert clinical diagnosis of autism spectrum disorders.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Typical Development children</arm_group_label>
+    <description>This group is comprised of 3-17 years children with typical development.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Salivary collection</intervention_name>
+    <description>Collection of saliva via swab for miRNA processing</description>
+    <arm_group_label>Autism Spectrum Disorder Patients</arm_group_label>
+    <arm_group_label>Siblings of children with Autism Spectrum Disorders</arm_group_label>
+    <arm_group_label>Typical Development children</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>eye-tracking recorder</intervention_name>
+    <description>Administration of eye-tracking session recording Saccadic Eye Movements, fixation duration and pupillary response.</description>
+    <arm_group_label>Autism Spectrum Disorder Patients</arm_group_label>
+    <arm_group_label>Siblings of children with Autism Spectrum Disorders</arm_group_label>
+    <arm_group_label>Typical Development children</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>neuropsychological assessment</intervention_name>
+    <description>Administration of neuropsychological tests and collected patient medical history</description>
+    <arm_group_label>Autism Spectrum Disorder Patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Salivary RNA&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with the following characteristics will be recruited:&#xD;
+&#xD;
+          1. a cohort of at least 25 outpatients with Autism Spectrum Disorder (diagnosed According&#xD;
+             to Diagnostic and Statistical Manual of Mental Disorders 5 criteria), aged between 4&#xD;
+             and 17 years;&#xD;
+&#xD;
+          2. a cohort of at least 25 healthy sibs of enrolled autistic patients, aged 4 to 17&#xD;
+             years;&#xD;
+&#xD;
+          3. a cohort of a minimum of 25 healthy controls, aged between 4 and 17 years, matched by&#xD;
+             sex and age to the ASD patients recruited (+/- 3 years).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Autistic Spectrum Disorder patients, Inclusion Criteria:&#xD;
+&#xD;
+          -  aged between 4 and 17years;&#xD;
+&#xD;
+          -  Autism Spectrum Disorder diagnosed according to Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders (DSM-5) criteria;&#xD;
+&#xD;
+          -  healthy brothers/sisters, aged 4 to 17 years;&#xD;
+&#xD;
+          -  adequate ocular vision, i.e. absence of objective eye problems such as double vision,&#xD;
+             cataracts, etc.;&#xD;
+&#xD;
+          -  ability to maintain position in front of the monitor, i.e. knowing how to maintain or&#xD;
+             regain posture independently or with the help of postural aids;&#xD;
+&#xD;
+          -  cognitive skills appropriate to the task such as being able to recognize images.&#xD;
+&#xD;
+        ASD siblings and Typical Developmental children, Inclusion Criteria&#xD;
+&#xD;
+          -  aged between 4 and 17years;&#xD;
+&#xD;
+          -  typical development, absence of known pathologies;&#xD;
+&#xD;
+          -  adequate ocular vision, i.e. absence of objective eye problems such as double vision,&#xD;
+             cataracts, etc.;&#xD;
+&#xD;
+          -  ability to maintain position in front of the monitor, i.e. knowing how to maintain or&#xD;
+             regain posture independently or with the help of postural aids;&#xD;
+&#xD;
+          -  cognitive skills appropriate to the task such as being able to recognize images.&#xD;
+&#xD;
+        Autistic Spectrum Disorder patients, Exclusion Criteria:&#xD;
+&#xD;
+          -  age not between 4 years and 17 years;&#xD;
+&#xD;
+          -  difficulty in controlling ocular motility and visual hookup;&#xD;
+&#xD;
+          -  unavailability of at least one sibling to participate in the diagnostic process;&#xD;
+&#xD;
+          -  subjects with a syndromic phenotype or for which the presence of a known genetic&#xD;
+             syndrome has already been ascertained (e.g. Syndrome Rett, Xfra, Tuberous Sclerosis,&#xD;
+             etc.).&#xD;
+&#xD;
+        ASD siblings and Typical Developmental children, Exclusion Criteria:&#xD;
+&#xD;
+          -  age not between 4 years and 17 years;&#xD;
+&#xD;
+          -  subjects diagnosed with moderate/severe intellectual disability, or affected by known&#xD;
+             neurological pathologies (infantile cerebral palsy, epilepsy, sensory deficits) or&#xD;
+             with a history of preterm birth (≤32w) or underweight (≤10°ile for gestational age);&#xD;
+&#xD;
+          -  subjects with a syndromic phenotype or for which the presence of a known genetic&#xD;
+             syndrome has already been ascertained (e.g. Syndrome Rett, Xfra, Tuberous Sclerosis,&#xD;
+             etc.);&#xD;
+&#xD;
+          -  difficulty in controlling ocular motility and visual hookup;&#xD;
+&#xD;
+          -  subjects suffering from neurodevelopmental disorders or family history for ASD for the&#xD;
+             control group.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Francesca Cucinotta, MD, PhD</last_name>
+    <phone>09060128256</phone>
+    <email>francesca.cucinotta@irccsme.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>IRCCS Centro Neurolesi Bonino Pulejo Bio-parco delle intelligenze e delle neuro-fragilità</last_name>
+    <email>info@irccsme.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IRCCS Centro Neurolesi Bonino Pulejo</name>
+      <address>
+        <city>Messina</city>
+        <zip>98100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>IRCCS Centro Neurolesi Bonino Pulejo Bio-parco delle intelligenze e delle neuro-fragilità</last_name>
+      <phone>09060128256</phone>
+      <email>info@irccsme.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Ander BP, Barger N, Stamova B, Sharp FR, Schumann CM. Atypical miRNA expression in temporal cortex associated with dysregulation of immune, cell cycle, and other pathways in autism spectrum disorders. Mol Autism. 2015 Jun 19;6:37. doi: 10.1186/s13229-015-0029-9. eCollection 2015.</citation>
+    <PMID>26146533</PMID>
+  </reference>
+  <reference>
+    <citation>Frazier TW, Coury DL, Sohl K, Wagner KE, Uhlig R, Hicks SD, Middleton FA. Evidence-based use of scalable biomarkers to increase diagnostic efficiency and decrease the lifetime costs of autism. Autism Res. 2021 Jun;14(6):1271-1283. doi: 10.1002/aur.2498. Epub 2021 Mar 8.</citation>
+    <PMID>33682319</PMID>
+  </reference>
+  <reference>
+    <citation>Frazier TW, Klingemier EW, Parikh S, Speer L, Strauss MS, Eng C, Hardan AY, Youngstrom EA. Development and Validation of Objective and Quantitative Eye Tracking-Based Measures of Autism Risk and Symptom Levels. J Am Acad Child Adolesc Psychiatry. 2018 Nov;57(11):858-866. doi: 10.1016/j.jaac.2018.06.023. Epub 2018 Sep 13.</citation>
+    <PMID>30392627</PMID>
+  </reference>
+  <reference>
+    <citation>Frazier TW, Strauss M, Klingemier EW, Zetzer EE, Hardan AY, Eng C, Youngstrom EA. A Meta-Analysis of Gaze Differences to Social and Nonsocial Information Between Individuals With and Without Autism. J Am Acad Child Adolesc Psychiatry. 2017 Jul;56(7):546-555. doi: 10.1016/j.jaac.2017.05.005. Epub 2017 May 11.</citation>
+    <PMID>28647006</PMID>
+  </reference>
+  <reference>
+    <citation>Ganz ML. The lifetime distribution of the incremental societal costs of autism. Arch Pediatr Adolesc Med. 2007 Apr;161(4):343-9. doi: 10.1001/archpedi.161.4.343.</citation>
+    <PMID>17404130</PMID>
+  </reference>
+  <reference>
+    <citation>Ghahramani Seno MM, Hu P, Gwadry FG, Pinto D, Marshall CR, Casallo G, Scherer SW. Gene and miRNA expression profiles in autism spectrum disorders. Brain Res. 2011 Mar 22;1380:85-97. doi: 10.1016/j.brainres.2010.09.046. Epub 2010 Sep 21.</citation>
+    <PMID>20868653</PMID>
+  </reference>
+  <reference>
+    <citation>Hicks SD, Ignacio C, Gentile K, Middleton FA. Salivary miRNA profiles identify children with autism spectrum disorder, correlate with adaptive behavior, and implicate ASD candidate genes involved in neurodevelopment. BMC Pediatr. 2016 Apr 22;16:52. doi: 10.1186/s12887-016-0586-x.</citation>
+    <PMID>27105825</PMID>
+  </reference>
+  <reference>
+    <citation>Hicks SD, Rajan AT, Wagner KE, Barns S, Carpenter RL, Middleton FA. Validation of a Salivary RNA Test for Childhood Autism Spectrum Disorder. Front Genet. 2018 Nov 9;9:534. doi: 10.3389/fgene.2018.00534. eCollection 2018.</citation>
+    <PMID>30473705</PMID>
+  </reference>
+  <reference>
+    <citation>Leblond CS, Le TL, Malesys S, Cliquet F, Tabet AC, Delorme R, Rolland T, Bourgeron T. Operative list of genes associated with autism and neurodevelopmental disorders based on database review. Mol Cell Neurosci. 2021 Jun;113:103623. doi: 10.1016/j.mcn.2021.103623. Epub 2021 Apr 29.</citation>
+    <PMID>33932580</PMID>
+  </reference>
+  <reference>
+    <citation>Mor M, Nardone S, Sams DS, Elliott E. Hypomethylation of miR-142 promoter and upregulation of microRNAs that target the oxytocin receptor gene in the autism prefrontal cortex. Mol Autism. 2015 Aug 14;6:46. doi: 10.1186/s13229-015-0040-1. eCollection 2015.</citation>
+    <PMID>26273428</PMID>
+  </reference>
+  <reference>
+    <citation>Narzisi A, Costanza C, Umberto B, Filippo M. Non-pharmacological treatments in autism spectrum disorders: an overview on early interventions for pre-schoolers. Curr Clin Pharmacol. 2014 Feb;9(1):17-26. doi: 10.2174/15748847113086660071.</citation>
+    <PMID>24050743</PMID>
+  </reference>
+  <reference>
+    <citation>Narzisi A, Posada M, Barbieri F, Chericoni N, Ciuffolini D, Pinzino M, Romano R, Scattoni ML, Tancredi R, Calderoni S, Muratori F. Prevalence of Autism Spectrum Disorder in a large Italian catchment area: a school-based population study within the ASDEU project. Epidemiol Psychiatr Sci. 2018 Sep 6;29:e5. doi: 10.1017/S2045796018000483.</citation>
+    <PMID>30187843</PMID>
+  </reference>
+  <reference>
+    <citation>Palomo R, Belinchon M, Ozonoff S. Autism and family home movies: a comprehensive review. J Dev Behav Pediatr. 2006 Apr;27(2 Suppl):S59-68. doi: 10.1097/00004703-200604002-00003.</citation>
+    <PMID>16685187</PMID>
+  </reference>
+  <reference>
+    <citation>Sarachana T, Zhou R, Chen G, Manji HK, Hu VW. Investigation of post-transcriptional gene regulatory networks associated with autism spectrum disorders by microRNA expression profiling of lymphoblastoid cell lines. Genome Med. 2010 Apr 7;2(4):23. doi: 10.1186/gm144.</citation>
+    <PMID>20374639</PMID>
+  </reference>
+  <reference>
+    <citation>Zwaigenbaum L, Bryson S, Garon N. Early identification of autism spectrum disorders. Behav Brain Res. 2013 Aug 15;251:133-46. doi: 10.1016/j.bbr.2013.04.004. Epub 2013 Apr 12.</citation>
+    <PMID>23588272</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS Centro Neurolesi &quot;Bonino-Pulejo&quot;</investigator_affiliation>
+    <investigator_full_name>Francesca Cucinotta</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Autism, miRNA, Eye Tracker, biomarkers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Autistic Disorder</mesh_term>
+    <mesh_term>Autism Spectrum Disorder</mesh_term>
+    <mesh_term>Child Development Disorders, Pervasive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

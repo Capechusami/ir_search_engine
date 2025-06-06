@@ -1,0 +1,406 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793515</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ISS20-5656c541c257</org_study_id>
+    <nct_id>NCT05793515</nct_id>
+  </id_info>
+  <brief_title>Mechanisms of Inherited Retinal Dystrophies Using Whole Genome Sequencing and in Vitro and in Vivo Models</brief_title>
+  <official_title>&quot;Understanding Genetic Missing Variability and Pathogenetic Mechanisms of Inherited Retinal Dystrophies Using Whole Genome Sequencing and in Vitro and in Vivo Models&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Superiore di Sanità</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fondazione G.B. Bietti, IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale Pediatrico Bambin Gesù</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Istituto Superiore di Sanità</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Inherited retinal dystrophies (IRDs), a large group of heterogeneous and rare disorders, may&#xD;
+      result in irreversible bilateral visual loss and blindness. Characterizing the genetic bases&#xD;
+      of IRDs will help to understand the pathogenesis underlying the development of retinal&#xD;
+      damage. Despite the advances in molecular identification of genes causing disease, unsolved&#xD;
+      IRDs constitute about 40% of all cases.&#xD;
+&#xD;
+      Goal of this study is to solve missing heritability in IRD using whole genome sequencing&#xD;
+      (WGS) to identify the genetic causes in clinically well-characterized patients without a&#xD;
+      molecular diagnosis.&#xD;
+&#xD;
+      The identiﬁcation of novel genes that have a role in the development or maintenance of&#xD;
+      retinal function will lead to the development of new therapeutic approaches and will favour a&#xD;
+      more prompt diagnosis and improvement of patient management.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      IRDs are rare neurodegenerative and genetically heterogeneous conditions with a wide spectrum&#xD;
+      of presentations, even among affected members of the same family. These disorders exhibit a&#xD;
+      large range of phenotypes with signiﬁcant overlap, that can be broadly divided into three&#xD;
+      main groups: those principally affecting the periphery such as retinitis pigmentosa (RP) and&#xD;
+      choroideremia; those primarily involving the macula, known as 'macular' or 'central'&#xD;
+      dystrophies; and those affecting both the centre and periphery as seen in cone-rod or&#xD;
+      rod-cone dystrophies. Collectively, IRDs have an incidence of 1:2000, impacting approx. 2&#xD;
+      million people worldwide and patients are progressively visually impaired. Affected&#xD;
+      individuals can be followed-up by visual acuity measurements, visual field evaluations,&#xD;
+      electroretinography recordings (ERG), structural imaging with autofluorescence,&#xD;
+      spectral-domain optical coherence tomography (OCT), and OCT angiography. Although an accurate&#xD;
+      clinical diagnosis can be reached by these innovative and non-invasive tools, genetic testing&#xD;
+      is necessary to confirm a specific phenotype, and segregation analysis can address the&#xD;
+      inheritance pattern. Gene discovery approaches clarified that mutations of about 280&#xD;
+      different genes involved in eyes development, photoreceptor survival, phototransduction&#xD;
+      mechanisms, retinoid cycle, retinal enzymatic function, or cell structure are responsible for&#xD;
+      these degenerative diseases (RetNet. Available at: https://sph.uth.edu/retnet/) and the&#xD;
+      inheritance pattern can be autosomal dominant, recessive, or X-linked.&#xD;
+&#xD;
+      To improve the success rate of genetic/genomic diagnosis, new sequencing technologies have&#xD;
+      been explored, starting from targeted sequencing focused on multigene panels to whole exome&#xD;
+      sequencing (WES) and sequencing of the entire genome (WGS). Because of the genetic&#xD;
+      heterogeneity of IRDs, the congruence of clinical and molecular diagnosis is a necessary goal&#xD;
+      to characterize exactly the phenotype and to increase the chance of therapeutically&#xD;
+      beneficial strategies.&#xD;
+&#xD;
+      A major challenge consists in identifying novel genes encoding for the diseases. This extreme&#xD;
+      genetic heterogeneity accounts for about 30% of the detection failure of molecular diagnosis.&#xD;
+      With the possibility of investigating WES or WGS, broader windows are opened for gene&#xD;
+      discovery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 15, 2022</start_date>
+  <completion_date type="Anticipated">November 15, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Understanding genetic missing pathogenetic variants in IRD</measure>
+    <time_frame>two years</time_frame>
+    <description>Identification of genetic variants causative of the clinical phenotype</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Gene discovery in IRD</measure>
+    <time_frame>two years</time_frame>
+    <description>Identification of novel disease genes responsible for IRD.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Assessment of the pathogenicity of the newly identified variant(s) by functional studies.</measure>
+    <time_frame>three years</time_frame>
+    <description>Functional characterization of new variants by in vivo and in vitro models</description>
+  </other_outcome>
+  <number_of_groups>30</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Inherited Retinal Dystrophy</condition>
+  <condition>Retinitis Pigmentosa</condition>
+  <condition>Macular Dystrophy</condition>
+  <arm_group>
+    <arm_group_label>FB_001</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_002</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_003</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_004</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_005</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_006</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_007</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_008</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_009</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0010</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0011</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0012</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0013</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0014</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0015</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0016</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0017</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0018</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0019</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0020</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0021</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0022</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0023</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0024</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0025</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0026</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0027</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0028</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0029</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FB_0030</arm_group_label>
+    <description>Proband affected by IRD and affected and/or unaffected relatives without molecular diagnosis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>whole genome sequencing</intervention_name>
+    <description>Whole genome sequencing will be performed in patients whose test was negative for the targeted resequencing and/or clinical exome sequencing.</description>
+    <arm_group_label>FB_001</arm_group_label>
+    <arm_group_label>FB_0010</arm_group_label>
+    <arm_group_label>FB_0011</arm_group_label>
+    <arm_group_label>FB_0012</arm_group_label>
+    <arm_group_label>FB_0013</arm_group_label>
+    <arm_group_label>FB_0014</arm_group_label>
+    <arm_group_label>FB_0015</arm_group_label>
+    <arm_group_label>FB_0016</arm_group_label>
+    <arm_group_label>FB_0017</arm_group_label>
+    <arm_group_label>FB_0018</arm_group_label>
+    <arm_group_label>FB_0019</arm_group_label>
+    <arm_group_label>FB_002</arm_group_label>
+    <arm_group_label>FB_0020</arm_group_label>
+    <arm_group_label>FB_0021</arm_group_label>
+    <arm_group_label>FB_0022</arm_group_label>
+    <arm_group_label>FB_0023</arm_group_label>
+    <arm_group_label>FB_0024</arm_group_label>
+    <arm_group_label>FB_0025</arm_group_label>
+    <arm_group_label>FB_0026</arm_group_label>
+    <arm_group_label>FB_0027</arm_group_label>
+    <arm_group_label>FB_0028</arm_group_label>
+    <arm_group_label>FB_0029</arm_group_label>
+    <arm_group_label>FB_003</arm_group_label>
+    <arm_group_label>FB_0030</arm_group_label>
+    <arm_group_label>FB_004</arm_group_label>
+    <arm_group_label>FB_005</arm_group_label>
+    <arm_group_label>FB_006</arm_group_label>
+    <arm_group_label>FB_007</arm_group_label>
+    <arm_group_label>FB_008</arm_group_label>
+    <arm_group_label>FB_009</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples, saliva samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Male and female patients, aged between 5 and 80 years, suffering from retinal or optic&#xD;
+        nerve degeneration of a hereditary nature. Patients will be recruited at the IRCSS&#xD;
+        Fondazione Bietti in Rome and undergo ophthalmological examinations and instrumental tests.&#xD;
+        Candidate subjects are a clinically well-characterized cohort of patients with ocular&#xD;
+        dystrophies, including IRDs already clinically followed for at least 12 months and without&#xD;
+        a conclusive molecular diagnosis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with retinal and optic nerve dystrophy of suspected hereditary nature.&#xD;
+&#xD;
+          -  Probands with clinical follow-up of at least 12 months.&#xD;
+&#xD;
+          -  Patients with an inconclusive molecular diagnosis by means of molecular-genetic tests&#xD;
+             for the genes known to date for the diagnosed pathology.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a clinical diagnosis of no proven genetic origin.&#xD;
+&#xD;
+          -  Patients whose parents' or second degree relatives' samples are not available.&#xD;
+&#xD;
+          -  Patients who refuse to be informed of the genetic results obtained, including&#xD;
+             incidental clinically relevant, validated and actionable for the patient himself&#xD;
+             and/or his family.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Viviana Cordeddu, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istituto Superiore di Sanità</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Viviana Cordeddu, PhD</last_name>
+    <phone>+39-06-4990</phone>
+    <phone_ext>3441</phone_ext>
+    <email>viviana.cordeddu@iss.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elena Toschi, MD</last_name>
+    <phone>+39-06-4990</phone>
+    <phone_ext>6554</phone_ext>
+    <email>elena.toschi@iss.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Istituto Superiore di Sanità-Dpt. Oncology and Molecular Medicine</name>
+      <address>
+        <city>Rome</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Viviana Cordeddu, PhD</last_name>
+      <phone>+39-06-4990</phone>
+      <phone_ext>3441</phone_ext>
+      <email>viviana.cordeddu@iss.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Emilia Stellacci, MS</last_name>
+      <phone>+39-06-4990</phone>
+      <phone_ext>3197</phone_ext>
+      <email>emilia.stellacci@iss.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lucia Ziccardi, MD-PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Cremers FPM, Boon CJF, Bujakowska K, Zeitz C. Special Issue Introduction: Inherited Retinal Disease: Novel Candidate Genes, Genotype-Phenotype Correlations, and Inheritance Models. Genes (Basel). 2018 Apr 16;9(4):215. doi: 10.3390/genes9040215.</citation>
+    <PMID>29659558</PMID>
+  </reference>
+  <reference>
+    <citation>Ziccardi L, Cordeddu V, Gaddini L, Matteucci A, Parravano M, Malchiodi-Albedi F, Varano M. Gene Therapy in Retinal Dystrophies. Int J Mol Sci. 2019 Nov 14;20(22):5722. doi: 10.3390/ijms20225722.</citation>
+    <PMID>31739639</PMID>
+  </reference>
+  <reference>
+    <citation>Cordeddu V, Redeker B, Stellacci E, Jongejan A, Fragale A, Bradley TE, Anselmi M, Ciolfi A, Cecchetti S, Muto V, Bernardini L, Azage M, Carvalho DR, Espay AJ, Male A, Molin AM, Posmyk R, Battisti C, Casertano A, Melis D, van Kampen A, Baas F, Mannens MM, Bocchinfuso G, Stella L, Tartaglia M, Hennekam RC. Mutations in ZBTB20 cause Primrose syndrome. Nat Genet. 2014 Aug;46(8):815-7. doi: 10.1038/ng.3035. Epub 2014 Jul 13.</citation>
+    <PMID>25017102</PMID>
+  </reference>
+  <reference>
+    <citation>Musacchia F, Ciolfi A, Mutarelli M, Bruselles A, Castello R, Pinelli M, Basu S, Banfi S, Casari G, Tartaglia M, Nigro V; TUDP. VarGenius executes cohort-level DNA-seq variant calling and annotation and allows to manage the resulting data through a PostgreSQL database. BMC Bioinformatics. 2018 Dec 12;19(1):477. doi: 10.1186/s12859-018-2532-4.</citation>
+    <PMID>30541431</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istituto Superiore di Sanità</investigator_affiliation>
+    <investigator_full_name>Viviana Cordeddu</investigator_full_name>
+    <investigator_title>PhD</investigator_title>
+  </responsible_party>
+  <keyword>IRD, RP, WGS, molecular diagnosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Retinitis</mesh_term>
+    <mesh_term>Retinitis Pigmentosa</mesh_term>
+    <mesh_term>Retinal Dystrophies</mesh_term>
+    <mesh_term>Macular Degeneration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>We plan to share anonymized genomic data among the three partners involved in the study by telecall meetings and shared cloud folders.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,246 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617755</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AB-1015-101</org_study_id>
+    <nct_id>NCT05617755</nct_id>
+  </id_info>
+  <brief_title>AB-1015, an Integrated Circuit T (ICT) Cell Therapy in Patients With Platinum Resistant Epithelial Ovarian Cancer</brief_title>
+  <official_title>An Open-label Phase 1 Study to Evaluate the Safety and Efficacy of AB-1015 in Patients With Resistant/Refractory Epithelial Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Arsenal Biosciences, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Arsenal Biosciences, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, open-label phase 1 dose escalation trial that uses a modified 3+3&#xD;
+      design to identify a recommended phase 2 dose (RP2D) of AB-1015 cell product. Backfill&#xD;
+      cohorts will enroll additional subjects at doses deemed to be safe for a total enrollment of&#xD;
+      up to 12 subjects per each backfill cohort on the protocol.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is intended for the patients who have been diagnosed with Epithelial Ovarian&#xD;
+      Cancer that either came back or did not improve after platinum treatments (platinum&#xD;
+      resistant). The purpose of this study is to test the safety of using a new treatment called&#xD;
+      Integrated Circuit T (ICT) cells (AB-1015 cells) in patients with ovarian cancer. This&#xD;
+      treatment has not been approved by the Food and Drug Administration.&#xD;
+&#xD;
+      The goal of this study is to calculate the maximum tolerated dose of the AB-1015 cells. T&#xD;
+      cells are part of the immune system that protect the body from infection and may help fight&#xD;
+      cancer. The T cells given in this study will come from the patient and will have a genetic&#xD;
+      circuit/logic gate put in them that makes them able to recognize alkaline phosphatase, germ&#xD;
+      line/placental (ALPG/P) and mesothelin (MSLN), 2 proteins on the surface of tumor cells.&#xD;
+      These logic-gated T cells may help the body's immune system identify and kill cancer cells&#xD;
+      while sparing normal healthy tissues from toxicity.&#xD;
+&#xD;
+      The AB-1015 cells are given intravenously, after completing 3 rounds of conditioning&#xD;
+      chemotherapy administered over 3 consecutive days. Conditioning chemotherapy prepares the&#xD;
+      body to receive the AB-1015 cells. If they continue to meet the eligibility criteria, AB-1015&#xD;
+      cells will be given to them 2 days after the last conditioning chemotherapy round. A single&#xD;
+      infusion of the AB-1015 cells will be given to the subject intravenously.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed with serial measurements of&#xD;
+      safety, tolerability and response.&#xD;
+&#xD;
+      This is a research study to obtain new information that may help people in the future.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 29, 2022</start_date>
+  <completion_date type="Anticipated">February 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events and dose limiting toxicities (DLTs)</measure>
+    <time_frame>Up to 2 years post treatment</time_frame>
+    <description>Toxicity grading will be evaluated according to the Cancer Therapy Evaluation Program Common Terminology Criteria for Adverse Events version 5.0 and monitoring of adverse events. Cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) events will be graded according to the criteria outlined in the protocol.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximal tolerated dose of AB-1015</measure>
+    <time_frame>Up to 21 days</time_frame>
+    <description>Will be determined by a 3x3 dose escalation study</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of AB-1015 cells</measure>
+    <time_frame>Up to 1 year post treatment</time_frame>
+    <description>Number of AB-1015 cells present in patients treatment with AB-1015</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evidence of anti-tumor activity</measure>
+    <time_frame>Up to 2 years post treatment</time_frame>
+    <description>Assessed according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Co-expression of ALPG and MSLN targets on tumor cells</measure>
+    <time_frame>Up to 2 years post treatment</time_frame>
+    <description>Assessment by immunohistochemistry (or similar method)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Carcinoma, Ovarian Epithelial</condition>
+  <condition>Ovarian Neoplasms</condition>
+  <condition>Fallopian Tube Neoplasms</condition>
+  <condition>Peritoneal Neoplasms</condition>
+  <condition>Neoplasms, Glandular and Epithelial</condition>
+  <condition>Ovarian Diseases</condition>
+  <condition>Genital Neoplasm, Female</condition>
+  <condition>Abdominal Neoplasm</condition>
+  <condition>Recurrence</condition>
+  <arm_group>
+    <arm_group_label>AB-1015</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive fludarabine and cyclophosphamide intravenously on days -5 to -3. Patients receive a single dose of AB-1015 intravenously on day 0.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AB-1015</intervention_name>
+    <description>autologous T cell therapy</description>
+    <arm_group_label>AB-1015</arm_group_label>
+    <other_name>Integrated Circuit T (ICT) cells</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Recurrent, advanced, platinum resistant ovarian, fallopian tube, and primary&#xD;
+             peritoneal cancer and must have a histological diagnosis of a high-grade serous&#xD;
+             histology.&#xD;
+&#xD;
+          -  a) Platinum resistant disease is defined as progression of disease within six months&#xD;
+             of platinum regimen.&#xD;
+&#xD;
+          -  Doubling of cancer antigen 125 (CA-125) level on 2 successive measurements may be&#xD;
+             considered as meeting the definition of disease progression&#xD;
+&#xD;
+          -  b) Have received at least 2 lines of prior therapy including a platinum-based regimen&#xD;
+             if eligible and a poly-ADP ribose polymerase (PARP) inhibitor if BRCA1/2 mutated. No&#xD;
+             more than 3 lines of prior therapy for the treatment of platinum resistant disease is&#xD;
+             permitted.&#xD;
+&#xD;
+          -  Adequate organ function as per protocol definitions.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status score 0 or 1.&#xD;
+&#xD;
+          -  Evaluable disease (dose escalation cohorts) or measurable disease (backfill cohorts)&#xD;
+             at time of enrollment as per protocol definitions.&#xD;
+&#xD;
+          -  Negative pregnancy test for women of childbearing potential. Women of non-childbearing&#xD;
+             potential are those who have been surgically sterilized, have medically confirmed&#xD;
+             ovarian failure, or have not had menses within the past 12 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cytotoxic chemotherapy within 14 days of time of cell collection.&#xD;
+&#xD;
+          -  Cytotoxic chemotherapy within 14 days of starting of conditioning chemotherapy.&#xD;
+&#xD;
+          -  New York Heart Association functional class II-IV cardiovascular disability&#xD;
+&#xD;
+          -  Clinically significant pericardial effusion&#xD;
+&#xD;
+          -  Pleural or peritoneal effusion that cannot be treated with standard approaches.&#xD;
+&#xD;
+          -  Active autoimmune disease requiring immunosuppressive therapy or uncontrolled with&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Untreated brain metastasis.&#xD;
+&#xD;
+          -  Subjects unwilling to participate in an extended safety monitoring period.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arsenal Biosciences</last_name>
+    <role>Study Director</role>
+    <affiliation>Arsenal Biosciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Arsenal Biosciences</last_name>
+    <phone>650-212-5368</phone>
+    <email>clinicaltrials@arsenalbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>U. of Iowa Health Care</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>February 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ovarian cancer</keyword>
+  <keyword>fallopian tube cancer</keyword>
+  <keyword>primary peritoneal cancer</keyword>
+  <keyword>platinum resistant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Peritoneal Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Glandular and Epithelial</mesh_term>
+    <mesh_term>Fallopian Tube Neoplasms</mesh_term>
+    <mesh_term>Genital Neoplasms, Female</mesh_term>
+    <mesh_term>Abdominal Neoplasms</mesh_term>
+    <mesh_term>Ovarian Diseases</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

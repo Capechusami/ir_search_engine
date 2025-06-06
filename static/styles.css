@@ -1,0 +1,96 @@
+/* Default Light Mode */
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.logo {
+    font-size: 36px;
+    color: #4285f4;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 14px 20px;
+    font-size: 18px;
+    border: 1px solid #dcdcdc;
+    border-radius: 50px;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    outline: none;
+}
+
+input[type="submit"] {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4285f4;
+    color: white;
+    cursor: pointer;
+}
+
+button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    background-color: #f8f9fa;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e8e8e8;
+}
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: #121212;
+    color: #eaeaea;
+}
+
+input[type="text"].dark-mode {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+}
+
+input[type="submit"].dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+button.dark-mode {
+    background-color: #444;
+    color: #fff;
+}
+
+button.dark-mode:hover {
+    background-color: #555;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #777;
+    padding: 15px 0;
+    font-size: 14px;
+    border-top: 1px solid #e0e0e0;
+    background: #f8f8f8;
+}
+
+/* Dark mode footer */
+footer.dark-mode {
+    background: #333;
+    color: #ccc;
+}

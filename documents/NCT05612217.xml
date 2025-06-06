@@ -1,0 +1,167 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05612217</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IC4-05682-071-RUS</org_study_id>
+    <nct_id>NCT05612217</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the AIVARIX in Detecting Signs C 1-2 Classes of CVD</brief_title>
+  <acronym>AIVARIX</acronym>
+  <official_title>A Study to Evaluate a Accuracy of the AIVARIX AI-based Application in Detecting Signs C 1-2 Classes of CVD in Outpatients Seeking Consultancy of Phlebologists in the Russian Federation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Servier Russia</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Servier Russia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a multicenter observational study, which is carried out in frame of routine&#xD;
+      clinical practice in Russia. The program will include patients suggestive to chronic venous&#xD;
+      diseases (CVDs) including but not limited to those with C1 and C2 classes by CEAP&#xD;
+      classification, who will be seeking professional phlebologists' consultation. Study&#xD;
+      conduction is scheduled in Russia in 2022-2023. The planned number of patients is 414&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main goal of this study is to describe the AIVARIX app accuracy in detecting C1 and C2&#xD;
+      classes by CEAP classification of chronic venous disease (CVD) in patients who are consulted&#xD;
+      by phlebologists on symptoms and signs suggestive to CVD.&#xD;
+&#xD;
+      At single visit, investigating physicians (phlebologists) will be assessing and collecting&#xD;
+      parameters of interest which they should input in eCRF.&#xD;
+&#xD;
+      Following data will be collected at the visit: a signed consent form from a patient,&#xD;
+      demographic characteristics (age, sex), eligibility of a patient to the inclusion/&#xD;
+      non-inclusion criteria, 1 (one) image of skin area of interest, conclusion on presence or&#xD;
+      absence of CVD or any other pathologic condition(s) made as a result of objective/&#xD;
+      instrumental examination. In case there will be any information related to safety of a&#xD;
+      Servier drug provided, investigating physician will also collect the information and fill in&#xD;
+      the PV form (Appendix 1).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2022</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of Sensitivity (Sn) of the AI-based AIVARIX app in detecting C1 and C2 classes of CVD in patients who are seeking for professional advice from a phlebologist regarding symptoms and signs suggestive to CVD.</measure>
+    <time_frame>1 month</time_frame>
+    <description>Sensitivity is defined as the ratio of the number of positive cases of detection of signs of C1 or C2 CVD, identified using the AIVARIX tool, to the total number of truly positive cases of C1 or C2 CVD in the study population, confirmed by phlebologists using objective / instrumental examinations.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of Specificity (Sp) of the AI-based AIVARIX app in detecting C1 and C2 classes of CVD in patients who are seeking for professional advice from a phlebologist regarding symptoms and signs suggestive to CVD</measure>
+    <time_frame>1 month</time_frame>
+    <description>Specificity is defined as a proportion of the number of negative cases of signs C1 or C2 classes of CVD identified by the AIVARIX tool divided to overall truly negative cases of C1 or C2 in the study population confirmed by phlebologists by means of objective/ instrumental examination.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Calculation of the positive predictive values (PPV) a of AIVARIX in detecting signs of C1 and C2 classes of chronic venous disease.</measure>
+    <time_frame>1 month</time_frame>
+    <description>PPV is defined as the proportion of true positive cases of class C1 or C2 CVD detected using AIVARIX as a proportion of the number of true positive and false positive cases of class C 1 or C 2 identified using the AIVARIX application and confirmed by phlebologists.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Calculation of the negative predictive values (PPV) a of AIVARIX in detecting signs of C1 and C2 classes of chronic venous disease.</measure>
+    <time_frame>1 month</time_frame>
+    <description>The NPV is defined as the ratio of the number of true negative cases of C 1 or C 2 CVD detected using AIVARIX to the true negative and false negative cases of C 1 or C 2 CVD detected using AIVARIX and confirmed by phlebologists.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">414</enrollment>
+  <condition>Chronic Venous Disease</condition>
+  <condition>CVD</condition>
+  <arm_group>
+    <arm_group_label>patients with CVD</arm_group_label>
+    <description>20 patients per 1 center: patients with CVD C1 class 4 patients with CVD C2 class; 2 patients with CVD with classes other than C1-C2 (C4-C6); 8 patients with either C0s CVD or with skin pathologic conditions of lower extremities other than CVD;</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>to estimate Sensitivity and Specificity AIVARIX app in detecting C1 and C2 classes of CVD</intervention_name>
+    <description>to estimate Sensitivity and Specificity of the AI-based AIVARIX app in detecting C1 and C2 classes of CVD in patients who are seeking for professional advice from a phlebologist regarding symptoms and signs suggestive to CVD.</description>
+    <arm_group_label>patients with CVD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who are consulted by phlebologists on symptoms and signs suggestive to CVD.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age over 18 years&#xD;
+&#xD;
+          -  Written informed consent is provided&#xD;
+&#xD;
+          -  Symptoms and signs of CVD or any other skin pathologic condition (s) of lower&#xD;
+             extremities for which a patient seeks for phlebologist's consultation&#xD;
+&#xD;
+          -  Ability to fulfil the technical requirements for smartphones/ images&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with mental/ psychiatric disabilities who are not able to understand&#xD;
+             objectives of the study and therefore provide a signed consent to participate in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Patient's decision to withdraw his/her consent to participate in the study at any&#xD;
+             moment of the study conduction&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>IGOR ZOLOTUKHIN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pirogov Russian National Research Medical University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olga Linnik</last_name>
+    <phone>+7 495 9370700</phone>
+    <email>olga.linnik@servier.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pirogov Russian National Research Medical University</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

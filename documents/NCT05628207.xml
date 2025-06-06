@@ -1,0 +1,134 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628207</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HRP-595</org_study_id>
+    <nct_id>NCT05628207</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the SCALED (SCaling AcceptabLE cDs)</brief_title>
+  <official_title>Evaluation of the SCALED (SCaling AcceptabLE cDs) Approach for the Implementation of Interoperable CDS for Venous Thromboembolism Prevention - CDS Data</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Agency for Healthcare Research and Quality (AHRQ)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project will adapt a currently deployed Clinical Decision Support (CDS) system to&#xD;
+      deliver a VTE prevention guideline for adult patients with traumatic brain injury (TBI). We&#xD;
+      believe this is an ideal PCOR use case given PCORI's continued effort to combat VTE in trauma&#xD;
+      and our experience previously implementing this guideline. The Our overall goal is to&#xD;
+      successfully scale, evaluate, and maintain an interoperable TBI CDS across 7 total&#xD;
+      institutions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 16, 2023</start_date>
+  <completion_date type="Anticipated">November 16, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 16, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>primary effectiveness outcome</measure>
+    <time_frame>2 years and a half</time_frame>
+    <description>VTE event rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate implementation strategy guided by the EPIS Implementation</measure>
+    <time_frame>2 years and a half</time_frame>
+    <description>the number of patients that received treatment according to the best practice guideline and the % adherence to the guideline per site</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">15000</enrollment>
+  <condition>Traumatic Brain Injury</condition>
+  <condition>Venous Thromboembolism</condition>
+  <arm_group>
+    <arm_group_label>4 hospitals using CDS TBI</arm_group_label>
+    <description>healthcare system leveraging the rigorous approach, SCALED (SCaling AcceptabLE cDs), to guide CDS scaling across the system in VTE prevention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3 hospitals not using CDS TBI (control)</arm_group_label>
+    <description>healthcare system not leveraging the rigorous approach, SCALED (SCaling AcceptabLE cDs), to guide CDS scaling across the system in VTE prevention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>There is no intervention, the hospitals will adopt a CDS system which prompts users to follow best practice guidelines.</description>
+    <arm_group_label>4 hospitals using CDS TBI</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational-control</intervention_name>
+    <description>There is no intervention, the hospitals will not use the CDS system.</description>
+    <arm_group_label>3 hospitals not using CDS TBI (control)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients age 18 and older admitted with a TBI will be eligible for inclusion.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age 18 and older&#xD;
+&#xD;
+          -  admitted with a TBI&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who die within 24 hours of hospital admission and patients documented as&#xD;
+             &quot;comfort cares&quot; during the first 72 hours of hospitalization or with mild TBI will be&#xD;
+             excluded from final analysis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christopher Tignanelli, MD,MS</last_name>
+    <phone>612 625 7911</phone>
+    <email>ctignane@umn.edu</email>
+  </overall_contact>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>May 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Thromboembolism</mesh_term>
+    <mesh_term>Venous Thromboembolism</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,223 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794139</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NMD670-02-0001</org_study_id>
+    <secondary_id>2022-002301-24</secondary_id>
+    <nct_id>NCT05794139</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of NMD670 in Ambulatory Adult Patients With Type 3 Spinal Muscular Atrophy</brief_title>
+  <acronym>SYNAPSE-SMA</acronym>
+  <official_title>A Phase 2, Randomised, Double-blind, Placebo-controlled, 2-way Crossover Study to Evaluate the Efficacy, Safety, and Tolerability of NMD670 in Ambulatory Adults With Type 3 Spinal Muscular Atrophy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NMD Pharma A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NMD Pharma A/S</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy, safety, tolerability and&#xD;
+      pharmacokinetics of NMD670 in the treatment of ambulatory adults with spinal muscular atrophy&#xD;
+      type 3&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>2-way crossover</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in 6 minute walk test (6MWT) total distance versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>Distance walked (meters)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in muscle strength versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>Handgrip, knee flexor, elbow flexor, elbow extension and should abduction (Newton)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in 6 minute walk test (6MWT) fatigue index versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>percentage change in distance walked in 6th minute compared to 1st minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Revised Hammersmith Scale (RHS) versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>Total score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in time to dropout in the endurance shuttle 9-hole peg test (ESNHPT) versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>time to dropout (seconds)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in proportion of patients that drops out in the endurance shuttle 9-hole peg test (ESNHPT) versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>Proportion of patient dropout (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in jitter versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>Jitter (micro seconds) assessed with single fiber EMG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in blocking versus placebo</measure>
+    <time_frame>Baseline to day 21</time_frame>
+    <description>Blocking (%) assessed with single fiber EMG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment emergent adverse events</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious treatment emergent adverse events</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant abnormalities on physical examinations</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant abnormalities on safety laboratory parameters</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant vital signs abnormalities</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant ECG abnormalities</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Suicidal Ideation or Suicidal Behavior based on the Columbia-Suicide Severity Rating Scale</measure>
+    <time_frame>Over 21 days of dosing</time_frame>
+    <description>Summarised per treatment</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Spinal Muscular Atrophy</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental drug followed by placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo followed by experimental drug</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NMD670</intervention_name>
+    <description>Tablets</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Tablets</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participants who are with a clinical diagnosis of Type 3 SMA.&#xD;
+&#xD;
+          2. Participants who are ambulatory, defined as being able to walk at least 50 metres&#xD;
+             without walking aids.&#xD;
+&#xD;
+          3. Participant with genetic confirmation of diagnosis (i.e., homozygous deletion of&#xD;
+             survival of motor neuron 1 gene [SMN1]).&#xD;
+&#xD;
+          4. Participant with 3 to 5 copies of survival of motor neuron 2 gene [SMN2].&#xD;
+&#xD;
+          5. Participant has a body mass index (BMI) within the range 19-30 kg/m2 (inclusive).&#xD;
+&#xD;
+          6. Participant is male or female.&#xD;
+&#xD;
+          7. Contraceptive use by men and women must be consistent with local regulations regarding&#xD;
+             the methods of contraception for those participating in clinical studies.&#xD;
+&#xD;
+          8. Participant is capable of giving signed informed consent which includes compliance&#xD;
+             with the requirements and restrictions listed in the informed consent form (ICF) and&#xD;
+             in the protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participants with prior surgery or fixed deformity (scoliosis, contractures) which&#xD;
+             would restrict ability to perform study-related tasks.&#xD;
+&#xD;
+          2. Participants with other significant disease that may interfere with the interpretation&#xD;
+             of study data (e.g., other neuromuscular or muscular diseases).&#xD;
+&#xD;
+          3. Participants with other significant clinical and/or laboratory safety findings that&#xD;
+             may interfere with the conduction or interpretation of the study&#xD;
+&#xD;
+          4. Participants received treatment with an investigational medical product (IMP) within&#xD;
+             30 days (or 5 half-lives of the medication, whichever is longer) prior to Day 1.&#xD;
+&#xD;
+          5. Participants with history of poor compliance with relevant SMA therapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 15, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Transmission Enhancer</keyword>
+  <keyword>Neuromuscular Junction Transmission</keyword>
+  <keyword>ClC-1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscular Atrophy</mesh_term>
+    <mesh_term>Muscular Atrophy, Spinal</mesh_term>
+    <mesh_term>Atrophy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

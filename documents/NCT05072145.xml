@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05072145</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202011064</org_study_id>
+    <nct_id>NCT05072145</nct_id>
+  </id_info>
+  <brief_title>Evaluating Tele-Emergency Care in Costs and Outcomes for Rural Sepsis Patients</brief_title>
+  <acronym>TELE-Cost</acronym>
+  <official_title>Evaluating the Role of Tele-Emergency Care in Health Care Costs and Long-Term Outcomes for Rural Medicare Beneficiaries With Sepsis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nicholas M Mohr</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Health Resources and Services Administration (HRSA)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Iowa</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sepsis is a life-threatening emergency for which provider-to-provider telemedicine has been&#xD;
+      used to improve quality of care. The objective of this study is to measure the impact of&#xD;
+      rural tele-emergency consultation on long-term health care costs and outcomes through&#xD;
+      decreasing organ failure, hospital length-of-stay, and readmissions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sepsis is responsible for over 1.7 million hospitalizations at a cost of $26 billion&#xD;
+      annually, making it the most expensive acute care condition in US hospitals. High-quality&#xD;
+      early sepsis care has been associated with decreased organ failure, shorter ICU and hospital&#xD;
+      length-of-stay, and improved survival. Rural sepsis patients are more likely to be&#xD;
+      transferred to tertiary centers, and they also have higher mortality and health care costs.&#xD;
+      ED-based telemedicine (tele-ED) consultation between a rural provider and a board-certified&#xD;
+      emergency physician may deliver the expertise to reduce care delays and improve outcomes&#xD;
+      while avoiding unnecessary costs.&#xD;
+&#xD;
+      In 2017, the study team partnered with Avera eCARE, the largest tele-ED provider in North&#xD;
+      America, to implement a standard telemedicine-based sepsis care pathway. Subsequently, the&#xD;
+      investigators showed (using patient-level primary data collection across several networks)&#xD;
+      that tele-ED use was associated with improved adherence with international sepsis guidelines.&#xD;
+&#xD;
+      In addition to its association with short-term clinical outcomes, however, the study team&#xD;
+      hypothesize that telemedicine may also decrease costs. The investigators have shown that&#xD;
+      high-quality sepsis care is associated with decreased readmissions and post-discharge&#xD;
+      mortality. High quality care may also prevent organ failure, avoid ICU admissions, reduce&#xD;
+      mechanical ventilation and vasopressor use, decrease ICU and hospital length-of-stay, and&#xD;
+      decrease post-discharge care-primarily through reducing avoidable organ failure. All of these&#xD;
+      factors are likely to have a significant effect in terms of reducing healthcare cost.&#xD;
+&#xD;
+      The objective of the proposed project is to measure the effect of tele-ED consultation at&#xD;
+      reducing healthcare costs and long-term outcomes in sepsis patients in rural EDs. The&#xD;
+      following primary hypotheses will be tested:&#xD;
+&#xD;
+        -  Total healthcare expenses and 90-day mortality will be lower in patients treated in a&#xD;
+           tele-ED hospital, with the effect primarily through reduced hospital length-of-stay and&#xD;
+           fewer readmissions.&#xD;
+&#xD;
+        -  Total expenses and mortality will be lower in cases where tele-ED is used vs. matched&#xD;
+           controls in non-tele-ED hospitals.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2022</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total healthcare expenditures</measure>
+    <time_frame>From hospital admission until 30 days after discharge</time_frame>
+    <description>Defined as direct inpatient and outpatient payments to hospitals and physicians, skilled nursing care, home care, durable medical equipment, and ambulance costs from the ED visit until 30 days post-discharge. Drugs are not included.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who die within 90 days of hospital admission</measure>
+    <time_frame>From hospital admission until 90 days after admission</time_frame>
+    <description>90-day mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length-of-stay</measure>
+    <time_frame>From date of hospitalization through hospital discharge, assessed up to 90 days</time_frame>
+    <description>Duration of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants requiring ICU care</measure>
+    <time_frame>From the date of hospital admission through hospital discharge or 90 days, whichever comes first, the number of participants who are treated in an intensive care unit</time_frame>
+    <description>Any admission to the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Emergency department costs</measure>
+    <time_frame>From the date of hospital admission through hospital discharge or 90 days, whichever comes first, all emergency department health care expenditures</time_frame>
+    <description>Total healthcare expenditures related to emergency department care in current hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient care costs</measure>
+    <time_frame>From the date of hospital admission through hospital discharge or 90 days, whichever comes first, all inpatient health care expenditures</time_frame>
+    <description>Total healthcare expenditures related to inpatient care in current hospitalizations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inter-hospital transfer costs</measure>
+    <time_frame>From the date of hospital admission through hospital discharge or 90 days, whichever comes first, all inter-hospital transfer health care expenditures</time_frame>
+    <description>Emergency medical services transfer costs and second emergency department costs (if transferred)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-discharge costs</measure>
+    <time_frame>From the date of hospital discharge through 30 days after discharge, total health care expenditures health care expenditures</time_frame>
+    <description>Total healthcare expenditures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Readmission costs</measure>
+    <time_frame>Between hospital discharge and 30 days after hospital discharge, related to inpatient re-hospitalization</time_frame>
+    <description>Total healthcare expenditures during readmission(s) within 30 days after initial hospital discharge</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">26000</enrollment>
+  <condition>Sepsis</condition>
+  <arm_group>
+    <arm_group_label>Non-tele-ED hospital</arm_group_label>
+    <description>Patients receiving care in an ED that does not provide any tele-ED service</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tele-ED hospital</arm_group_label>
+    <description>Patients receiving care in an ED that uses tele-ED services, but patient care did NOT utilize this service</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tele-ED used</arm_group_label>
+    <description>Patient care was provided through tele-ED services</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Telemedicine</intervention_name>
+    <description>Receiving care in a tele-ED hospital</description>
+    <arm_group_label>Tele-ED used</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Age-qualifying Medicare beneficiaries with at least one ED admission for sepsis in a cohort&#xD;
+        of rural hospitals in the Avera service area between 2017-2019. Hospitals will be&#xD;
+        stratified as tele-ED capable and a set of 2:1 matched control hospitals in the same&#xD;
+        regions where tele-ED is not available. Sepsis cases will be identified according to the&#xD;
+        International (ICD-10), with a discharge diagnosis of [(infection plus organ failure) or&#xD;
+        explicit sepsis diagnosis], plus an ED diagnosis of infection, as we have done previously.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Sepsis, according to ICD-10 codes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No infection diagnosed in the ED&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas Mohr, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Iowa</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicholas Mohr, MD</last_name>
+    <phone>319-353-6360</phone>
+    <email>nicholas-mohr@uiowa.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals and Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicholas Mohr, MD</last_name>
+      <email>nicholas-mohr@uiowa.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Iowa</investigator_affiliation>
+    <investigator_full_name>Nicholas M Mohr</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Telemedicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

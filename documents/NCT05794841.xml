@@ -1,0 +1,238 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794841</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-2023-100</org_study_id>
+    <nct_id>NCT05794841</nct_id>
+  </id_info>
+  <brief_title>Multi-omics Study of Tongue Coating in Malignant Tumors of Digestive Tract</brief_title>
+  <official_title>Tongue Coating Multi-omics Detection for Distinguishing Patients With Gastrointestinal Malignancies From Healthy Individuals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhejiang Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>First Affiliated Hospital of Wenzhou Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Liaoning Tumor Hospital &amp; Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>RenJi Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fujian Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sun Yat-sen University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Second Affiliated Hospital of Harbin Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sichuan Cancer Hospital and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zhejiang Provincial Tongde Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yuhang District Hospital of Traditional Chinese Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First People's Hospital of Yuhang District</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First Affiliated Hospital of Anhui University of Chinese Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>BGI-Shenzhen</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shangyu People's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Xianju People's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shanghai Zhongshan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Zhejiang Cancer Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, multi-center, observational cohort study and seeks to enroll 20000&#xD;
+      patients with one malignant tumor of digestive tract or healthy individual.&#xD;
+&#xD;
+      This study collected tongue coating samples non-invasively and analyzed the tongue coating&#xD;
+      metaproteomics, metagenomics and metabolomics profiles of patients with gastrointestinal&#xD;
+      malignancies.&#xD;
+&#xD;
+      The performance characteristics(sensitivity and specificity) of tongue coating morphology,&#xD;
+      metaproteomics, metagenomics and metabolomics tests for detection of gastrointestinal&#xD;
+      malignancies are evaluated in comparison to pathology.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic performance of sensitivity, specificity</measure>
+    <time_frame>1 year</time_frame>
+    <description>Using pathological diagnosis as the gold standard</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Diagnostic performance of positive predictive value (PPV) and negative predictive value (NPV).</measure>
+    <time_frame>1 year</time_frame>
+    <description>Using pathological diagnosis as the gold standard</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">20000</enrollment>
+  <condition>Malignant Tumors of Digestive Tract</condition>
+  <arm_group>
+    <arm_group_label>Patients with digestive tract malignant tumors</arm_group_label>
+    <description>Patients with malignant tumors of the esophagus, stomach or colon confirmed by pathology, have not received anti-tumor therapy, and have not had malignant tumors in the past.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy volunteer</arm_group_label>
+    <description>Healthy individuals with no digestive tract malignancies confirmed by gastroscopy and colonoscopy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Tongue coating sample collection and multi-omics analysis</intervention_name>
+    <description>Tongue coating sample collection and multi-omics analysis for building a diagnostic model</description>
+    <arm_group_label>Healthy volunteer</arm_group_label>
+    <arm_group_label>Patients with digestive tract malignant tumors</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Histologically or cytologically confirmed digestive tract malignant tumor，and no prior&#xD;
+        chemotherapy, radiotherapy, biotherapy, immunotherapy or other anti-tumor treatment for&#xD;
+        malignant tumor.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        18≤age≤80.&#xD;
+&#xD;
+        Histologically or cytologically confirmed malignant tumor.&#xD;
+&#xD;
+        No prior chemotherapy, radiotherapy, biotherapy, immunotherapy or other anti-tumor&#xD;
+        treatment for malignant tumor.&#xD;
+&#xD;
+        Subject volunteers to join the study, signs informed consent, has good compliance and can&#xD;
+        cooperate with follow-up.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Two or more kinds of malignant tumors at the same time.&#xD;
+&#xD;
+        Malignant tumor that has been treated by chemotherapy, radiotherapy, biotherapy,&#xD;
+        immunotherapy or other anti-tumor therapy.&#xD;
+&#xD;
+        Subjects who had other factors that might force them to terminate the research ahead of&#xD;
+        time, such as the development of other severe disease (including mental disease) that&#xD;
+        required combined treatment, seriously abnormal laboratory examination value, and family or&#xD;
+        social factors that might affect the subject safety or experimental data collection, as&#xD;
+        judged by the researchers.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiangdong Cheng, PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Zhejiang Cancer Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiangdong Cheng, PhD.</last_name>
+    <phone>0086-571-88128041</phone>
+    <email>chengxd516@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jiahui Chen, PhD.</last_name>
+    <phone>0086-571-88128041</phone>
+    <email>chenjh@hsc.pku.edu.cn</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cancer Hospital of the University of Chinese Academy of Sciences (Zhejiang Cancer Hospital)</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiangdong Cheng, PhD.</last_name>
+      <phone>+0086-0571-88128041</phone>
+      <email>chengxd516@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Zhejiang Cancer Hospital</investigator_affiliation>
+    <investigator_full_name>Xiangdong Cheng</investigator_full_name>
+    <investigator_title>Professor; Chief physician</investigator_title>
+  </responsible_party>
+  <keyword>Tongue coating</keyword>
+  <keyword>Digestive tract</keyword>
+  <keyword>Malignant tumors</keyword>
+  <keyword>Multi-omics analysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

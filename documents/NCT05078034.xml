@@ -1,0 +1,349 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078034</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3693</org_study_id>
+    <nct_id>NCT05078034</nct_id>
+  </id_info>
+  <brief_title>HNFO With or Without Helmet NIV for Oxygenation Support in Acute Respiratory Failure Pilot RCT</brief_title>
+  <acronym>HONOUR</acronym>
+  <official_title>High-flow Nasal Oxygen With or Without Helmet Non-invasive Ventilation for Oxygenation Support in Acute Respiratory Failure (the HONOUR Pilot Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sunnybrook Health Sciences Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sunnybrook Health Sciences Centre</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Randomized Control Trial will directly compare helmet non-invasive ventilation (NIV)&#xD;
+      combined with high flow nasal oxygen (HFNO) versus HFNO alone in patients with Acute&#xD;
+      Hypoxemic Respiratory Failure (AHRF).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a pilot multicentre, concealed, stratified, permuted block randomized controlled&#xD;
+      trial enrolling patients with AHRF who are admitted to the intensive care unit. Patients with&#xD;
+      imminent need for intubation, or a contraindication to study interventions will be excluded.&#xD;
+      Patients will be randomized to receive either (1) sessions of at least 12 hours per day of&#xD;
+      helmet NIV oxygen interspersed with HFNO or (2) HFNO alone over at least 2 calendar days.&#xD;
+      Participants will be followed to hospital discharge or 60 days, with an additional quality of&#xD;
+      life assessment via telephone interview 6 months after enrolment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 17, 2022</start_date>
+  <completion_date type="Anticipated">February 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>1:1 randomized control trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recruitment Rates</measure>
+    <time_frame>2 years</time_frame>
+    <description>Recruitment rate at different study sites</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Non-randomized Eligible Patients</measure>
+    <time_frame>2 years</time_frame>
+    <description>Proportion of Eligible patients who are not randomized and reasons for this</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adherence/Compliance to Oxygenation Strategy</measure>
+    <time_frame>2 years</time_frame>
+    <description>Rate of adherence to the assigned oxygenation strategy (and crossover rates)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Among patients requiring intubation in each group, the number who were intubated according to the pre-specified criteria</measure>
+    <time_frame>2 years</time_frame>
+    <description>Adherence to pre-specified criteria for intubation in each group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time from ICU admission to randomization and initiation of treatment</measure>
+    <time_frame>2 years</time_frame>
+    <description>Median time from ICU admission to randomization and initiation of the allocated treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants in each group who need endotracheal intubation</measure>
+    <time_frame>28 and 60 days</time_frame>
+    <description>Need for endotracheal intubation after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of invasive mechanical ventilation after randomization up to 28 and 60 days</measure>
+    <time_frame>28 and 60 days</time_frame>
+    <description>Duration of invasive mechanical ventilation after randomization up to 28 and 60 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of non-invasive respiratory support after randomization up to 28 and 60 days</measure>
+    <time_frame>60 days</time_frame>
+    <description>Duration of non-invasive mechanical ventilation after randomization up to 60 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>28 days</time_frame>
+    <description>days of ICU up to 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All cause mortality</measure>
+    <time_frame>60 days</time_frame>
+    <description>All cause mortality to 60 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 infection after hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related quality of life</measure>
+    <time_frame>180 days</time_frame>
+    <description>Health related quality of life as measured by telephone using the European Quality of Life Five Dimension (EQ-5D) tool, where a score of 1 means the patient has no problems, and a score of 5 mean the patient has extreme problems in the 5 dimensions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at 180 days</measure>
+    <time_frame>180 days</time_frame>
+    <description>Mortality to 180 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activities of Daily Living</measure>
+    <time_frame>180 days</time_frame>
+    <description>Katz Index of Independence in Activities of Daily Living (ADL) where a high of 6 means the patient can perform the activities fully independently, and a low of 0 means the patient is fully dependent and unable to perform activities without assistance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-Free Days to day 28, analyzed as an ordinal variable, with death = 0 days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Ventilator-Free Days to day 28, analyzed as an ordinal variable, with death = 0 days</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Acute Hypoxemic Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>HFNO</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High Flow Nasal Oxygen alone</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>H-NIV</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Helmet Non-Invasive ventilation for a minimum of 12 hours per day with HFNO between sessions</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Helmet Non-Invasive Ventilation (HNIV)</intervention_name>
+    <description>HNIV will be connected to a ventilator by a conventional closed respiratory circuit. Sessions of HNIV will be delivered with PEEP targeting a minimum 12 hours/day. PEEP will be titrated according to patient comfort, work of breathing, and O2 saturation. Pressure support will be titrated to lowest level tolerated. Between HNIV sessions, patients will be supported with HFNO at the same required FiO2. Starting on study day 3, patients will be screened for discontinuation of HNIV. Once HNIV is stopped, patients will be transitioned to HFNO and then weaned from HFNO as tolerated.</description>
+    <arm_group_label>H-NIV</arm_group_label>
+    <other_name>HNIV</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>High Flow Nasal Oxygen</intervention_name>
+    <description>HFNO will be provided. FiO2 will be titrated to achieve a target O2 saturation of 92-97%, and flows will be initiated at 50 litres/minute and titrated as per usual practice for comfort and oxygenation. Once the target O2 saturation is achieved, the FiO2 will be titrated to the minimal value to maintain this target saturation. HFNO will be provided continuously over a minimum of 2 calendar days. Starting on study day 3, patients will be weaned from HFNO as tolerated.</description>
+    <arm_group_label>HFNO</arm_group_label>
+    <other_name>HFNO</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Intensive care unit admission (orders written)&#xD;
+&#xD;
+          2. Age ≥18 years&#xD;
+&#xD;
+          3. Hypoxemic acute respiratory failure for at least 1 hour and still present at time of&#xD;
+             screening for eligibility (symptom onset during last 14 days) with the following:&#xD;
+&#xD;
+               1. Respiratory rate &gt;21bpm or clinical evidence of increased work of breathing and&#xD;
+&#xD;
+               2. Documented Hypoxemia defined as any one of:&#xD;
+&#xD;
+             i. PaO2:FiO2 &lt; 300 ii. If no arterial blood gas available, then SpO2:FiO2 &lt; 315 iii.&#xD;
+             Oxygen saturation &lt;98% on FiO2 &gt;= 0.4 or higher by Venturi mask, TAVISH mask 10 Litres&#xD;
+             / minute, or any non-invasive oxygenation strategy&#xD;
+&#xD;
+          4. Not already intubated or with tracheostomy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Already on HFNO or other non-invasive ventilation strategy at FiO2&gt;=0.4 for the last&#xD;
+             24 hours in the ICU.&#xD;
+&#xD;
+          2. Immediate need for intubation (e.g., inadequate airway protection or refractory&#xD;
+             hypoxemia or cardiopulmonary arrest, massive hemoptysis, etc)&#xD;
+&#xD;
+          3. Extubated in the ICU within past 72 hours&#xD;
+&#xD;
+          4. Clinician deems that face mask NIV is indicated to treat a primary diagnosis of&#xD;
+             hypercapnic respiratory failure or acute congestive heart failure&#xD;
+&#xD;
+          5. Known neuromuscular disease&#xD;
+&#xD;
+          6. Patients being transitioned to Palliative care or unlikely to survive more than 24&#xD;
+             hours&#xD;
+&#xD;
+          7. ICU discharge is planned or anticipated on the day of screening&#xD;
+&#xD;
+          8. Previously enrolled in this trial&#xD;
+&#xD;
+          9. Trauma patients who remain in a cervical spine collar at the time of recruitment or&#xD;
+             who have upper limb/torso fractures that would preclude them from safe application of&#xD;
+             the helmet&#xD;
+&#xD;
+         10. Clinician decision that positive pressure to face and/or nasal pharynx is a&#xD;
+             contraindication (eg. Transphenoidal surgery, basal skull fracture etc.)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Damon Scales, MD PhD FRCPC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sunnybrook Health Sciences Centre</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Niall Fergusson, MD FRCPC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Damon Scales, MD PhD FRCPC</last_name>
+    <phone>416-480-5291</phone>
+    <email>damon.scales@sunnybrook.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Project Manager</last_name>
+    <phone>416-480-6100</phone>
+    <phone_ext>87535</phone_ext>
+    <email>HONOUR@sunnybrook.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hamilton Health Sciences- Juravinski</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bram Rochwerg, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kingston General Hospital</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Muscedere, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marat Slessarev, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Damon Scales, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laveena Munshi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network Toronto General</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lorenzo Del Sorbo, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>High Flow Nasal Oxygen</keyword>
+  <keyword>Helmet Non Invasive Ventilation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

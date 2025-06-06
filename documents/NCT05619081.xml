@@ -1,0 +1,269 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05619081</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R-NAP</org_study_id>
+    <nct_id>NCT05619081</nct_id>
+  </id_info>
+  <brief_title>Recovery Napping Protocol for Anesthesiologist Performance</brief_title>
+  <acronym>R-NAP</acronym>
+  <official_title>Recovery Napping Protocol for Anesthesiologist Performance</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Claude Bernard University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Claude Bernard University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sleep deprivation impacts performance of shift workers in health care. Anesthesiologists are&#xD;
+      a population at risk that endures stressful situations and changing working hours. The&#xD;
+      decreased performance could be the cause for undesirable events. Power-napping is known to be&#xD;
+      an efficient technique to mitigate the detrimental effects of sleep deprivation and is a&#xD;
+      feasible measure to implement in critical care units. Still there are few insights that&#xD;
+      measure the clinical relevance in the field. With the high-fidelity simulations this study is&#xD;
+      able to measure clinical performance and test for those effects. Therefore we propose a&#xD;
+      prospective, monocentric study to evaluate a power-napping protocol (less than 30min)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Residents in anesthesiology will be recruited on voluntary basis. They will pass the high&#xD;
+      fidelity simulation twice, once as a baseline measure under normal conditions after a typical&#xD;
+      night at home and once sleep deprived after a night shift.&#xD;
+&#xD;
+      BASELINE Participants will wear actigraphy bracelets to define their sleep pattern for 2&#xD;
+      weeks, Then they will spent a normal night at home before coming to the performance center in&#xD;
+      the afternoon (13h to18h). There they will respond to questions about stress and sleep, will&#xD;
+      be equipped with smart shirts (HEXOSKIN) to measure their level of stress during the&#xD;
+      performance, and then undertake a crisis simulation. Afterwards they pass some standardized&#xD;
+      cognitive tests.&#xD;
+&#xD;
+      TRAINING The whole year group of residents will be trained to understand sleep management and&#xD;
+      learn power napping. After the workshop they will individually be trained during 2 weeks&#xD;
+      including some follow up calls.&#xD;
+&#xD;
+      INTERVENTION The participants carry again actigraphy bracelets. Then they work a night shift&#xD;
+      in their service where they usually sleep less than four hours. The morning after the shift&#xD;
+      participants are free to spend how the like while sleep is being controlled with actigraphy&#xD;
+      bracelets. In the afternoon (13 to 18h) they return for the second time to the performance&#xD;
+      center. They are randomly assigned to a napping or non napping group and equipped with&#xD;
+      ambulatory ECG (Hexoskin) as well es ambulatory EEG (Somfit). After the intervention period&#xD;
+      (nap or leisure time) they proceed with the same performance measures as at baseline&#xD;
+      including a simulation crisis and computerized cognitive tests.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomised Control Trial (RCT)</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Score of technical clinical performance via rating grids</measure>
+    <time_frame>2 days</time_frame>
+    <description>Technical clinical performance according to a standardizes grid (Score from 0 to 100) for each critical care scenario evaluated by experts based on the video. Higher scores indicate better performance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Score of Non-Technical clinical performance via Ottawa Crisis Resource Management Scale</measure>
+    <time_frame>2 days</time_frame>
+    <description>Non-technical clinical performance rated by experts based on the video from 6 to 42 of the Ottawa Crisis Resource Management Scale. Higher scores indicate better performance</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Heart Rate as physiological stress measure</measure>
+    <time_frame>2 days</time_frame>
+    <description>Objective stress level during performance measured by duration of heart rate tachycardia (&gt; 100 bpm) measured with ambulatory ECG (Hexoskin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual analogue scale for the evaluation of psychological stress</measure>
+    <time_frame>2 days</time_frame>
+    <description>Subjective stress level during performance measured with visual analogue scales (VAS) on 100mm from zero intensity to maximal intensity. High stress levels are worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reaction time in Alertness task</measure>
+    <time_frame>2 days</time_frame>
+    <description>Computerized alertness test named SART (Sustained Attention to Response Task) programmed based on psytoolkit, 150 trials in test phase. Faster speed (low RT) for correct responses indicates a better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleepiness Score</measure>
+    <time_frame>2 days</time_frame>
+    <description>Karolinska Sleepiness Scale, Score between 1(extremely alert) to 9 (very sleepy, great effort to keep awake, fighting sleep)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Empathy Accuracy</measure>
+    <time_frame>2 days</time_frame>
+    <description>Capacity to distinguish painful and non painful faces according to a computerized pre-validated pain empathy test.&#xD;
+Accuracy rates for hits and false alarms will be computed in percent: ((hits + correct rejections) / total responses). HIgher percentages indicate better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Empathy D prime</measure>
+    <time_frame>2 days</time_frame>
+    <description>Capacity to distinguish painful and non painful faces according to a computerized pre-validated pain empathy test. Also d prime as sensitivity score will provide a score on how well participants were able to distinguish the presence of the signal (pain) from the absence (non pain). The higher d prime the better (d' = z(H) - z(F))</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">52</enrollment>
+  <condition>Sleep Deprivation</condition>
+  <condition>Critical Incident</condition>
+  <condition>Sleep</condition>
+  <condition>Anesthesia</condition>
+  <arm_group>
+    <arm_group_label>NAP GROUP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30min of Powernap before second performance measure</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NO NAP GROUP</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>30min of free quiet occupation before second performance measure</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>POWERNAP</intervention_name>
+    <description>POWERNAP of max 30min while participants ly down comfortably</description>
+    <arm_group_label>NAP GROUP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Second to Fifth year of residency&#xD;
+&#xD;
+          -  Completing night shifts at anesthesia/reanimation unit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No Consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Jacques Lehot, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>jean-jacques.lehot2@univ-lyon1.fr</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marc LILOT, PHD</last_name>
+    <phone>+33651806521</phone>
+    <email>marc.lilot@chu-lyon.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Claude Bernard University</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Lilot</last_name>
+      <phone>0651806521</phone>
+      <email>marc.lilot@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Stephanie Mazza, HDR</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laura Schmidt, M.Sc.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Florian Genty, Resident</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas Delaire, Resident</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Rosekind MR, Gander PH, Gregory KB, Smith RM, Miller DL, Oyung R, Webbon LL, Johnson JM. Managing fatigue in operational settings 2: An integrated approach. Behav Med. 1996 Winter;21(4):166-70. doi: 10.1080/08964289.1996.9933754.</citation>
+    <PMID>8731493</PMID>
+  </reference>
+  <reference>
+    <citation>Nollet M, Wisden W, Franks NP. Sleep deprivation and stress: a reciprocal relationship. Interface Focus. 2020 Jun 6;10(3):20190092. doi: 10.1098/rsfs.2019.0092. Epub 2020 Apr 17.</citation>
+    <PMID>32382403</PMID>
+  </reference>
+  <reference>
+    <citation>Ehooman F, Wildenberg L, Manquat E, Makoudi S, Demiri S, Carbonne H, Bardon J. Connected devices to evaluate sleep, physical activity and stress pattern of anaesthesiology and intensive care residents. Eur J Anaesthesiol. 2020 Jul;37(7):616-618. doi: 10.1097/EJA.0000000000001207. No abstract available.</citation>
+    <PMID>32516181</PMID>
+  </reference>
+  <reference>
+    <citation>Stewart NH, Arora VM. The Impact of Sleep and Circadian Disorders on Physician Burnout. Chest. 2019 Nov;156(5):1022-1030. doi: 10.1016/j.chest.2019.07.008. Epub 2019 Jul 25.</citation>
+    <PMID>31352036</PMID>
+  </reference>
+  <reference>
+    <citation>Landrigan CP, Rothschild JM, Cronin JW, Kaushal R, Burdick E, Katz JT, Lilly CM, Stone PH, Lockley SW, Bates DW, Czeisler CA. Effect of reducing interns' work hours on serious medical errors in intensive care units. N Engl J Med. 2004 Oct 28;351(18):1838-48. doi: 10.1056/NEJMoa041406.</citation>
+    <PMID>15509817</PMID>
+  </reference>
+  <reference>
+    <citation>Howard SK, Gaba DM, Smith BE, Weinger MB, Herndon C, Keshavacharya S, Rosekind MR. Simulation study of rested versus sleep-deprived anesthesiologists. Anesthesiology. 2003 Jun;98(6):1345-55; discussion 5A. doi: 10.1097/00000542-200306000-00008.</citation>
+    <PMID>12766642</PMID>
+  </reference>
+  <reference>
+    <citation>Arzalier-Daret S, Buleon C, Bocca ML, Denise P, Gerard JL, Hanouz JL. Effect of sleep deprivation after a night shift duty on simulated crisis management by residents in anaesthesia. A randomised crossover study. Anaesth Crit Care Pain Med. 2018 Apr;37(2):161-166. doi: 10.1016/j.accpm.2017.05.010. Epub 2017 Sep 4.</citation>
+    <PMID>28882740</PMID>
+  </reference>
+  <reference>
+    <citation>Dutheil F, Bessonnat B, Pereira B, Baker JS, Moustafa F, Fantini ML, Mermillod M, Navel V. Napping and cognitive performance during night shifts: a systematic review and meta-analysis. Sleep. 2020 Dec 14;43(12):zsaa109. doi: 10.1093/sleep/zsaa109.</citation>
+    <PMID>32492169</PMID>
+  </reference>
+  <reference>
+    <citation>Dutheil F, Danini B, Bagheri R, Fantini ML, Pereira B, Moustafa F, Trousselard M, Navel V. Effects of a Short Daytime Nap on the Cognitive Performance: A Systematic Review and Meta-Analysis. Int J Environ Res Public Health. 2021 Sep 28;18(19):10212. doi: 10.3390/ijerph181910212.</citation>
+    <PMID>34639511</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Claude Bernard University</investigator_affiliation>
+    <investigator_full_name>Lilot Marc</investigator_full_name>
+    <investigator_title>M.D PhD, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Power-napping</keyword>
+  <keyword>High Fidelity Simulation</keyword>
+  <keyword>Night Shift</keyword>
+  <keyword>Clinical Performance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Deprivation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

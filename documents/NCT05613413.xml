@@ -1,0 +1,438 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613413</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-0875</org_study_id>
+    <nct_id>NCT05613413</nct_id>
+  </id_info>
+  <brief_title>A Pilot Phase II Study of Maintenance Cabozantinib Plus Pembrolizumab for Patients With Metastatic Squamous Non-Small Cell Lung Cancer (sqNSCLC)</brief_title>
+  <acronym>LUNG-IST-127</acronym>
+  <official_title>LUNG-IST-127: A Pilot Phase II Study of Maintenance Cabozantinib Plus Pembrolizumab (CP) for Patients With Metastatic sqNSCLC With Disease Control Following Induction Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Illinois at Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Illinois at Chicago</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase II study to assess the efficacy, safety, and Health Related Quality of Life&#xD;
+      (HRQoL) of combination cabozantinib and pembrolizumab as maintenance therapy for patients&#xD;
+      with metastatic squamous Non Small Cell Lung Cancer(sqNSCLC) who have received 4 cycles of&#xD;
+      induction therapy with pembrolizumab, carboplatin, and nab-paclitaxel or paclitaxel&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase II study to assess the efficacy, safety, and Health Related Quality of Life&#xD;
+      (HRQoL) of combination cabozantinib and pembrolizumab as maintenance therapy for patients&#xD;
+      with metastatic sqNSCLC who have received 4 cycles of induction therapy with pembrolizumab,&#xD;
+      carboplatin, and nab-paclitaxel or paclitaxel and achieved disease control following&#xD;
+      induction therapy defined as complete response, partial response, or stable disease per&#xD;
+      Response Evaluation Criteria in Solid Tumors (RECIST) v. 1.1 criteria. Subjects with disease&#xD;
+      control would proceed to maintenance therapy with pembrolizumab and cabozantinib.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 28, 2022</start_date>
+  <completion_date type="Anticipated">September 2028</completion_date>
+  <primary_completion_date type="Anticipated">September 2028</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>6 months</time_frame>
+    <description>PFS is defined as the time from initiation of induction treatment until the criteria for disease progression is met as defined by irRECIST1.1 or death as a result of any cause for patients with disease control (defined as complete response (CR), partial response (PR), or stable disease) following induction therapy who proceed to maintenance therapy with cabozantinib in combination with pembrolizumab</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>19 months</time_frame>
+    <description>PFS is defined as the time from initiation of induction treatment until the criteria for disease progression is met as defined by irRECIST1.1 or death as a result of any cause for patients with disease control (defined as complete response (CR), partial response (PR), or stable disease) following induction therapy who proceed to maintenance therapy with cabozantinib in combination with pembrolizumab</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events as defined by the NCI Common Terminology Criteria for Adverse Events (NCI CTCAE) v5</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of subjects experiencing AEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS) in subjects with disease control following standard first-line induction therapy who received cabozantinib in combination with pembrolizumab as maintenance thherapy</measure>
+    <time_frame>12 months</time_frame>
+    <description>OS time using RECIST v1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of subjects achieving ORR using RECIST v1.1 with disease control following standard first-line induction therapy who received cabozantinib in combination with pembrolizumab as maintenance thherapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of subjects achieving ORR using RECIST v1.1 with disease control following standard first-line induction therapy who received cabozantinib in combination with pembrolizumab as maintenance thherapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HRQoL using European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30)</measure>
+    <time_frame>19 months</time_frame>
+    <description>Number of subjects having a high score, which means a poorer quality of life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HRQoL using European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30)</measure>
+    <time_frame>19 months</time_frame>
+    <description>Number of subjects having a low score, which means a better quality of life</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">325</enrollment>
+  <condition>Metastatic Squamous Non-Small Cell Lung Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Single</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects will receive carbozantinib 40mg PO once daily Days 1-21 Q3W and pembrolizumab 200mg IV infusion Q3W as maintenance therapy following 4 cycles of induction therapy with disease control</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cabozantinib 40 MG</intervention_name>
+    <description>Cabozantinib is taken my mouth</description>
+    <arm_group_label>Single</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab 200mg</intervention_name>
+    <description>Pembrolizumab is given intravenously</description>
+    <arm_group_label>Single</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent and HIPAA authorization for release of personal health&#xD;
+             information prior to registration. NOTE: HIPAA authorization may be included in the&#xD;
+             informed consent or obtained separately.&#xD;
+&#xD;
+          2. Age ≥ 18 years at the time of consent.&#xD;
+&#xD;
+          3. ECOG Performance Status of 0, 1, or 2 within 28 days prior to registration&#xD;
+&#xD;
+          4. Life expectancy of 6 months or greater as determined by the site investigator.&#xD;
+&#xD;
+          5. Subjects with histologically or cytologically confirmed squamous non-small cell lung&#xD;
+             cancer (sqNSCLC).&#xD;
+&#xD;
+          6. Subjects with stage IV NSCLC as defined by American Joint Committee on Cancer (AJCC)&#xD;
+             8th Edition who have not received prior therapy for stage IV NSCLC. Patients with&#xD;
+             locally advanced or recurrent disease who are candidates for first-line induction&#xD;
+             systemic therapies for stage IV NSCLC are also allowed.&#xD;
+&#xD;
+             • Only patients with disease control, defined as complete response (CR), partial&#xD;
+             response (PR), or stable disease (SD) to induction therapy will be allowed to receive&#xD;
+             maintenance cabozantinib plus pembrolizumab arm of trial. Patients who have&#xD;
+             progression of disease (POD) following induction therapy will proceed to second-line&#xD;
+             therapy of local clinician's choice. Only those patients who proceed to maintenance&#xD;
+             cabozantinib and pembrolizumab therapy will be evaluable for primary and secondary&#xD;
+             objectives.&#xD;
+&#xD;
+          7. Subjects whose tumors have been tested for PD-L1 expression.&#xD;
+&#xD;
+          8. Tumor tissue material available (archival or recent tumor biopsy).&#xD;
+&#xD;
+          9. Demonstrate adequate organ function as defined below. All screening labs to be&#xD;
+             obtained within 14 days prior to registration.&#xD;
+&#xD;
+             System Laboratory Value Hematological White blood cell (WBC) ≥ 25000/L Absolute&#xD;
+             Neutrophil Count (ANC) ≥ 1,500/L without the support of Filgrastim or ≥ 1,000/L in&#xD;
+             subjects with constitutional neutropenia Hemoglobin (Hgb) ≥ 9 g/dL Platelets (Plt) ≥&#xD;
+             100,000/µL without transfusion. Renal Serum creatinine Calculated creatinine&#xD;
+             clearance1 ≤ 1.5 mg/dL&#xD;
+&#xD;
+             ≥ 40 mL/min; for subjects with serum creatinine &gt; 1.5 mg/dL Urine protein/creatinine&#xD;
+             ratio (UPCR) ≤ 1 mg/mg (≤ 113.2 mg/mmol), or 24-h urine protein ≤ 1 g Hepatic Total&#xD;
+             Bilirubin2 OR Direct Bilirubin ≤ 1.5 × upper limit of normal (ULN) or ≤ 3 × ULN for&#xD;
+             subjects with Gilbert's disease&#xD;
+&#xD;
+             ≤ ULN for subjects with total bilirubin levels &gt; 1.5 x ULN Aspartate aminotransferase&#xD;
+             (AST) ≤ 3 × ULN or ≤ 5 x ULN for subjects with known hepatic metastasis Alanine&#xD;
+             aminotransferase (ALT) ≤ 3 × ULN or ≤ 5 x ULN for subjects with known hepatic&#xD;
+             metastasis Alkaline phosphatase (ALP) ≤ 3 × ULN or ≤ 5 x ULN with documented bone&#xD;
+             metastases.&#xD;
+&#xD;
+             Serum albumin ≥ 2.8 g/dl Coagulation International Normalized Ratio (INR) or&#xD;
+&#xD;
+               -  1.3 × ULN; For subjects receiving warfarin or LMWH, the subjects must, in the&#xD;
+                  site investigator's opinion, be clinically stable with no evidence of active&#xD;
+                  bleeding while receiving anticoagulant therapy. The INR for these subjects may&#xD;
+                  exceed 1.3 × ULN if that is the goal of anticoagulant therapy.&#xD;
+&#xD;
+                  1 Cockcroft-Gault formula will be used to calculate creatinine clearance (See&#xD;
+                  SPM) 2 Except in patients with Gilbert's syndrome who must have a total bilirubin&#xD;
+                  less than 3.0 mg/dl.&#xD;
+&#xD;
+         10. Recovery to baseline or ≤ Grade 1 CTCAE v5.0 from toxicities related to any prior&#xD;
+             treatments, unless AE(s) are clinically nonsignificant and/or stable on supportive&#xD;
+             therapy.&#xD;
+&#xD;
+         11. Sexually active fertile subjects and their partners must agree to use medically&#xD;
+             accepted methods of contraception (e.g., barrier methods, including male condom,&#xD;
+             female condom, or diaphragm with spermicidal gel) during the course of the study and&#xD;
+             for 4 months after the last dose of cabozantinib and 4 months after the last dose of&#xD;
+             pembrolizumab.&#xD;
+&#xD;
+         12. Females of childbearing potential must have a negative serum pregnancy test within 3&#xD;
+             days prior to registration. Female subjects of childbearing potential must not be&#xD;
+             pregnant at screening. Female subjects are considered to be of childbearing potential&#xD;
+             unless one of the following criteria is met: documented permanent sterilization&#xD;
+             (hysterectomy, bilateral salpingectomy, or bilateral oophorectomy) or documented&#xD;
+             postmenopausal status (defined as 12 months of amenorrhea in a woman &gt; 45 years-of-age&#xD;
+             in the absence of other biological or physiological causes. In addition, females &lt; 55&#xD;
+             years-of-age must have a serum follicle stimulating (FSH) level &gt; 40 mIU/mL to confirm&#xD;
+             menopause). Note: Documentation may include review of medical records, medical&#xD;
+             examinations, or medical history interview by study site.&#xD;
+&#xD;
+         13. As determined by the enrolling physician or protocol designee, subjects should be&#xD;
+             capable of understanding and complying with the protocol requirements and must have&#xD;
+             signed the informed consent document.&#xD;
+&#xD;
+         14. Willingness and ability to comply with scheduled visits, treatment plans, laboratory&#xD;
+             tests, and other study procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Active infection requiring systemic therapy.&#xD;
+&#xD;
+          2. Pregnant or breastfeeding. NOTE: breast milk cannot be stored for future use while the&#xD;
+             mother is being treated on study.&#xD;
+&#xD;
+          3. Prior treatment with cabozantinib.&#xD;
+&#xD;
+          4. Receipt of any type of small molecule kinase inhibitor (including investigational&#xD;
+             kinase inhibitor) within 2 weeks before first dose of study treatment.&#xD;
+&#xD;
+          5. Receipt of any type of cytotoxic, biologic or other systemic anticancer therapy&#xD;
+             (including investigational) within 4 weeks before first dose of study treatment.&#xD;
+&#xD;
+          6. Radiation therapy for bone metastasis within 2 weeks or any other radiation therapy&#xD;
+             within 4 weeks before first dose of study treatment. Systemic treatment with&#xD;
+             radionuclides within 6 weeks before first dose of study treatment. Subjects with&#xD;
+             clinically relevant ongoing complications from prior radiation therapy are not&#xD;
+             eligible.&#xD;
+&#xD;
+          7. Radiologically documented evidence of major blood vessel invasion or encasement by&#xD;
+             cancer.&#xD;
+&#xD;
+          8. Radiographic evidence of cavitating pulmonary lesion(s) or known endotracheal or&#xD;
+             endobronchial disease manifestation&#xD;
+&#xD;
+          9. Patients with targetable genomic aberrations for which FDA-approved targeted therapy&#xD;
+             is available (e.g. ROS1, MET exon 14 skipping mutations, BRAFV600E, ALK, EGFR, ALK,&#xD;
+             RET, and NTRK fusions).&#xD;
+&#xD;
+         10. The subject has uncontrolled, significant intercurrent or recent illness including,&#xD;
+             but not limited to, the following conditions:&#xD;
+&#xD;
+               1. Cardiovascular disorders:&#xD;
+&#xD;
+             i. Congestive heart failure New York Heart Association Class 3 or 4, unstable angina&#xD;
+             pectoris, serious cardiac arrhythmias.&#xD;
+&#xD;
+        ii. Uncontrolled hypertension defined as sustained blood pressure (BP) &gt; 140 mm Hg systolic&#xD;
+        or &gt; 90 mm Hg diastolic despite optimal antihypertensive treatment.&#xD;
+&#xD;
+        iii. Stroke (including transient ischemic attack [TIA]), myocardial infarction (MI), or&#xD;
+        other ischemic event, or thromboembolic event (e.g., deep venous thrombosis, pulmonary&#xD;
+        embolism) within 6 months before first dose of study treatment.&#xD;
+&#xD;
+        iv. Subjects with a diagnosis of incidental, subsegmental PE or DVT within 6 months are&#xD;
+        allowed if stable, asymptomatic, and treated with a stable dose of permitted&#xD;
+        anticoagulation for at least 1 week before first dose of study treatment.&#xD;
+&#xD;
+        b. Gastrointestinal (GI) disorders including those associated with a high risk of&#xD;
+        perforation or fistula formation: i. The subject has evidence of tumor invading the GI&#xD;
+        tract, active peptic ulcer disease, inflammatory bowel disease (e.g., Crohn's disease),&#xD;
+        diverticulitis, cholecystitis, symptomatic cholangitis or appendicitis, acute pancreatitis,&#xD;
+        acute obstruction of the pancreatic duct or common bile duct, or gastric outlet&#xD;
+        obstruction.&#xD;
+&#xD;
+        ii. Abdominal fistula, GI perforation, bowel obstruction, or intra-abdominal abscess within&#xD;
+        6 months before first dose of study treatment. Note: Complete healing of an intra-abdominal&#xD;
+        abscess must be confirmed before first dose of study treatment.&#xD;
+&#xD;
+        c. Other clinically significant disorders that would preclude safe study participation.&#xD;
+&#xD;
+        i. Serious non-healing wound/ulcer/bone fracture. ii. Malabsorption syndrome. iii.&#xD;
+        Uncompensated/symptomatic hypothyroidism. iv. Moderate to severe hepatic impairment&#xD;
+        (Child-Pugh B or C). v. Requirement for hemodialysis or peritoneal dialysis. vi. Any&#xD;
+        condition requiring systemic treatment with either steroid therapy (&gt;10 mg daily prednisone&#xD;
+        equivalent) or any other form of immunosuppressive therapy within 2 weeks prior to first&#xD;
+        dose of study treatment.&#xD;
+&#xD;
+        1. Note: Inhaled, intranasal, intra-articular, or topical steroids are permitted. Adrenal&#xD;
+        replacement steroid doses &gt; 10 mg daily prednisone equivalent are permitted. Transient&#xD;
+        short-term use of systemic corticosteroids for allergic conditions (e.g., contrast allergy)&#xD;
+        is also allowed.&#xD;
+&#xD;
+        10. Clinically significant hematuria, hematemesis, or hemoptysis of &gt; 0.5 teaspoon (2.5 ml)&#xD;
+        of red blood, or other history of significant bleeding (e.g., pulmonary hemorrhage) within&#xD;
+        12 weeks before first dose of study treatment.&#xD;
+&#xD;
+        11. Known brain metastases or cranial epidural disease unless adequately treated with&#xD;
+        radiotherapy and/or surgery (including radiosurgery) and stable for at least 4 weeks prior&#xD;
+        to first dose of study treatment after radiotherapy or at least 4 weeks prior to first dose&#xD;
+        of study treatment after major surgery (e.g., removal or biopsy of brain metastasis).&#xD;
+        Subjects must have complete wound healing from major surgery or minor surgery before first&#xD;
+        dose of study treatment. Eligible subjects must be neurologically asymptomatic and without&#xD;
+        corticosteroid treatment at the time of first dose of study treatment.&#xD;
+&#xD;
+        12. Concomitant anticoagulation with coumarin agents (e.g., warfarin), direct thrombin&#xD;
+        inhibitors (e.g., dabigatran), direct factor Xa inhibitor betrixaban, or platelet&#xD;
+        inhibitors (e.g., clopidogrel). Allowed anticoagulants are the following:&#xD;
+&#xD;
+          1. Prophylactic use of low-dose aspirin for cardio-protection (per local applicable&#xD;
+             guidelines) and low-dose low molecular weight heparins (LMWH).&#xD;
+&#xD;
+          2. Therapeutic doses of LMWH or anticoagulation with direct factor Xa inhibitors&#xD;
+             rivaroxaban, edoxaban, or apixaban in subjects without known brain metastases who are&#xD;
+             on a stable dose of the anticoagulant for at least 1 week before first dose of study&#xD;
+             treatment without clinically significant hemorrhagic complications from the&#xD;
+             anticoagulation regimen or the tumor.&#xD;
+&#xD;
+             13. Administration of a live, attenuated vaccine within 30 days before first dose of&#xD;
+             study treatment.&#xD;
+&#xD;
+             14. The subject has uncontrolled, significant intercurrent or recent illness,&#xD;
+             including, but not limited to, an active or history of autoimmune disease or immune&#xD;
+             deficiency; idiopathic pulmonary fibrosis, organizing pneumonia, pneumonitis; active&#xD;
+             infection requiring systemic treatment, infection with human immunodeficiency virus&#xD;
+             (HIV), AIDS-related illness, acute or chronic hepatitis B or C infection, positive&#xD;
+             test for tuberculosis, moderate to severe hepatic impairment (Child-Pugh B or C).&#xD;
+&#xD;
+             15. Previously identified allergy or hypersensitivity to components of the study&#xD;
+             treatment formulations or history of severe infusion-related reactions to monoclonal&#xD;
+             antibodies. Subjects with rare hereditary problems of galactose intolerance, the Lapp&#xD;
+             lactase deficiency or glucose-galactose malabsorption are also excluded.&#xD;
+&#xD;
+             16. Any other active malignancy at time of first dose of study treatment or diagnosis&#xD;
+             of another malignancy within 3 years prior to first dose of study treatment that&#xD;
+             requires active treatment, except for locally curable cancers that have been&#xD;
+             apparently cured, such as basal or squamous cell skin cancer, superficial bladder&#xD;
+             cancer, or carcinoma in situ of the prostate, cervix, or breast.&#xD;
+&#xD;
+             17. Major surgery (e.g., laparoscopic nephrectomy, GI surgery, removal or biopsy of&#xD;
+             brain metastasis) within 2 weeks before first dose of study treatment. Minor surgeries&#xD;
+             within 10 days before first dose of study treatment. Subjects must have complete wound&#xD;
+             healing from major surgery or minor surgery before first dose of study treatment.&#xD;
+             Subjects with clinically relevant ongoing complications from prior surgery are not&#xD;
+             eligible.&#xD;
+&#xD;
+        a. NOTE: Hepatic biliary stent placement, PleurX catheter, port placement, ureteral stent&#xD;
+        or other minor surgeries are allowed. NOTE: Subject must have adequately recovered from the&#xD;
+        toxicity and/or complications of major surgery prior to study registration, as determined&#xD;
+        by the treating physician.&#xD;
+&#xD;
+        18. Previously received a solid organ transplant or allogeneic progenitor/stem cell&#xD;
+        transplant.&#xD;
+&#xD;
+        19. Previous exposure or known allergy to cabozantinib or any of its excipients.&#xD;
+&#xD;
+        20. Inability to swallow tablets or unwillingness or inability to receive IV&#xD;
+        administration.&#xD;
+&#xD;
+        21. Corrected QT interval calculated by the Fridericia formula (QTcF) &gt; 500 ms per&#xD;
+        electrocardiogram (ECG) within 14 days before first dose of study treatment. Furthermore,&#xD;
+        subjects with a history of additional risk factors for torsades de pointes (e.g., long QT&#xD;
+        syndrome) are also excluded [add reference for Fridericia formula].&#xD;
+&#xD;
+        a. Note: If a single ECG shows a QTcF with an absolute value &gt; 500 ms, two additional ECGs&#xD;
+        at intervals of approximately 3 min must be performed within 30 min after the initial ECG,&#xD;
+        and the average of these three consecutive results for QTcF will be used to determine&#xD;
+        eligibility.&#xD;
+&#xD;
+        22. Other severe acute or chronic medical or psychiatric condition or laboratory&#xD;
+        abnormality that may increase the risk associated with study participation or&#xD;
+        investigational product administration, interfere with protocol compliance, or may&#xD;
+        interfere with the interpretation of study results and, in the judgment of the&#xD;
+        investigator, would make the subject inappropriate for enrollment in this study.&#xD;
+&#xD;
+        23. Any mental or medical condition that prevents the subject from giving informed consent&#xD;
+        or participating in the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ryan Nguyen, DO</last_name>
+    <phone>312-996-1581</phone>
+    <email>rnguye8@uic.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Arielle Guzman, MPH</last_name>
+    <phone>312-355-8838</phone>
+    <email>abguzma2@uic.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ryan Nguyen</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ryan Nguyen, DO</last_name>
+      <phone>312-996-1581</phone>
+      <email>rnguye8@uic.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Arielle Guzman, MPH</last_name>
+      <phone>312-355-8838</phone>
+      <email>abguzma2@uic.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>March 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Illinois at Chicago</investigator_affiliation>
+    <investigator_full_name>Ryan Nguyen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

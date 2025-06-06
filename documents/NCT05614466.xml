@@ -1,0 +1,199 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614466</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SIMPLY-B Study</org_study_id>
+    <nct_id>NCT05614466</nct_id>
+  </id_info>
+  <brief_title>The SIMPLY-B Study</brief_title>
+  <official_title>SIMPLY-B Study - A Pilot Evaluation of a Primary Care E-support Package of Automated Case Finding, Simplified Treatment Algorithm and Decision Support to Increase Hepatitis B Treatment Uptake in Primary Care Clinics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nadine Barnes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Macfarlane Burnet Institute for Medical Research and Public Health Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will be conducted in three parts:&#xD;
+&#xD;
+      Part A: A prospective open label pilot intervention study, comparing the proportion of people&#xD;
+      with hepatitis B who are managed by their GP in primary care settings before, 12 months and&#xD;
+      24 months after implementation of the Simply B electronic hepatitis B support package.&#xD;
+&#xD;
+      Part B: A nested qualitative health services feasibility study using semi -structured&#xD;
+      interviews and thematic analysis&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Simply B electronic GP support package consists of:&#xD;
+&#xD;
+        1. Semi-automated hepatitis B case-finding in the primary care clinic using clinic EMR&#xD;
+           software&#xD;
+&#xD;
+        2. Automated blood test ordering using clinic EMR software&#xD;
+&#xD;
+        3. A simplified hepatitis B treatment algorithm and online e-support tool that provides the&#xD;
+           GP with a simplified management plan based on clinical data entered into the tool by&#xD;
+           generating a hepatitis B chronic disease management plan.&#xD;
+&#xD;
+        4. Automated rapid linkage to specialist support through the e-support tool, with a follow&#xD;
+           up call from a specialist nurse provided within two business days of the initial&#xD;
+           patient/GP consultation.&#xD;
+&#xD;
+        5. Clinical data collection through the e-support tool into an online secure database,&#xD;
+           visible by the GP and hospital specialist, allowing automated reminders and monitoring&#xD;
+           of timely and appropriate hepatitis B management steps.&#xD;
+&#xD;
+        6. Linkage of de-identified data drawn from the Simply B database to the ACCESS and PATRON&#xD;
+           surveillance network to allow monitoring of progress toward National Strategy Hepatitis&#xD;
+           B treatment targets in primary care.&#xD;
+&#xD;
+      The e-support tool is based on an online RedCAP database accessible to both the GP and St&#xD;
+      Vincent's hospital specialist team via different interfaces and stored securely on the St&#xD;
+      Vincent's Hospital Cloud. The investigators have partnered with the Future Health Today (FHT)&#xD;
+      software development team (University of Melbourne) to integrate the Simply B e-support&#xD;
+      package into primary care electronic medical record software.&#xD;
+&#xD;
+      The GP enters demographic and pathology result data into a simple online data entry form.&#xD;
+      Based on a simplified hepatitis B management algorithm, this determines treatment eligibility&#xD;
+      and immediately generates an automatic patient management plan. For clinics that are part of&#xD;
+      the FHT network, FHT extracts demographic and pathology result data automatically and&#xD;
+      populates the Simply B tool, therefore the GP does not need to manually enter any data.&#xD;
+      Instructions of how to treat, monitor and perform liver cancer surveillance are included in&#xD;
+      the automated management plan.&#xD;
+&#xD;
+      The hospital specialist nurse and specialist clinicians have online access to the 'back end'&#xD;
+      of the Simply B e-support tool database, allowing them to monitor and enter data. This&#xD;
+      database contains all the demographic and clinical data entered by the GP in the e-support&#xD;
+      tool data entry form and automatically generates dates for follow up review, including date&#xD;
+      of next liver cancer surveillance if the patient fulfils eligibility criteria. Upcoming&#xD;
+      milestone appointments trigger alert emails to the GP and specialist hepatitis nurses&#xD;
+      facilitating timely hepatitis B management.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">October 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients previously diagnosed with chronic hepatitis B within each primary care clinic study site who have attended the clinic within the 36-month period prior to implementation of the intervention</measure>
+    <time_frame>36 months prior to study</time_frame>
+    <description>Number of patients previously diagnosed with chronic hepatitis B within each primary care clinic study site who have attended the clinic within the 36-month period prior to implementation of the intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number (proportion) of hepatitis B patients receiving guideline-based hepatitis B management by GP</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number (proportion) of hepatitis B patients receiving guideline-based hepatitis B management by GP</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number (proportion) of hepatitis B patients receiving specialist care in a hospital or private setting</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number (proportion) of hepatitis B patients receiving specialist care in a hospital or private setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number (proportion) of hepatitis B patients receiving treatment by the GP in primary care</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number (proportion) of hepatitis B patients receiving treatment by the GP in primary care</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability and feasibility of using the Simply B package to facilitate hepatitis B management by GPs in primary care from health worker and patient perspectives.</measure>
+    <time_frame>2 years</time_frame>
+    <description>Acceptability and feasibility of using the Simply B package to facilitate hepatitis B management by GPs in primary care from health worker and patient perspectives. This will be done via a 12-month post implementation semi-structured interview with GPs, nurses, practices managers and patients living with hepatitis B.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Hepatitis B Virus Related Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Patients living with hepatitis B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients living with hepatitis B will be managed at the GP clinic using the Simply B e-support package</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>The Simply B Study</intervention_name>
+    <description>This study will be conducted in three parts:&#xD;
+Part A: A prospective open label pilot intervention study, comparing the proportion of people with hepatitis B who are managed by their GP in primary care clinics before, 12 months and 24 months after implementation of the Simply B electronic hepatitis B support package.&#xD;
+Part B: A nested qualitative health services feasibility study using semi -structured interviews and thematic analysis Part C: A mathematical modelling study using a Markov model to determine cost effectiveness of Simply B for increasing hepatitis B treatment uptake compared to status quo of hospital care.</description>
+    <arm_group_label>Patients living with hepatitis B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged ≥18 years&#xD;
+&#xD;
+          2. Attended participating primary care clinic in the preceding 36 months (June 1,&#xD;
+             2019-June 30, 2022) or attended the clinic during the study period&#xD;
+&#xD;
+          3. HBsAg positive&#xD;
+&#xD;
+          4. Treatment naïve&#xD;
+&#xD;
+          5. Not receiving specialist hepatitis B care&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. &lt; 18 years of age&#xD;
+&#xD;
+          2. Already on hepatitis B treatment&#xD;
+&#xD;
+          3. Already attending hepatitis B specialist care&#xD;
+&#xD;
+          4. Hepatitis C or hepatitis D coinfection&#xD;
+&#xD;
+          5. HIV coinfection&#xD;
+&#xD;
+          6. Pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Macfarlane Burnet Institute for Medical Research and Public Health Ltd</investigator_affiliation>
+    <investigator_full_name>Nadine Barnes</investigator_full_name>
+    <investigator_title>Manager, Research Grants and Research Integrity Office</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hepatitis B</mesh_term>
+    <mesh_term>Hepatitis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

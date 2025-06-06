@@ -1,0 +1,135 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05792475</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TaiHao TVGH2020-07-006AC#1</org_study_id>
+    <nct_id>NCT05792475</nct_id>
+  </id_info>
+  <brief_title>Evaluation of TaiHao Breast Ultrasound Diagnosis Software RN-CES Descartes</brief_title>
+  <official_title>Evaluation of TaiHao Breast Ultrasound Diagnosis Software (Plan for Partial Modification of Diagnostic Performance)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>TaiHao Medical Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>TaiHao Medical Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A standard of truth &quot;SOT&quot; is determined based on the interpretation results of the case data&#xD;
+      by interpretation experts, and the SOT is compared with the detection results of this&#xD;
+      program's function for detecting suspected breast cancer (CADe function). Estimate the&#xD;
+      detectability of the CADe function by comparing.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 30, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The average performance of the 4 machines, in terms of sensitivity for detecting suspicious breast cancer, is not inferior to Siemens performance.</measure>
+    <time_frame>1 week</time_frame>
+    <description>The average of 4 types of machines (Canon Aplio i800, GE Logiq E10, GE Invenia ABUS, Fuji ARIETTA 60) performance compared to Siemens performance which was submitted to PMDA last time.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The performance of each of the 4 machines, in terms of sensitivity for detecting suspicious breast cancer, is not inferior to Siemens' performance.</measure>
+    <time_frame>1 week</time_frame>
+    <description>Each machine (Canon Aplio i800, GE Logiq E10, GE Invenia ABUS, Fuji ARIETTA 60) performance compared to Siemens performance which was submitted to PMDA last time.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">3</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Breast Diseases</condition>
+  <arm_group>
+    <arm_group_label>Define Standard of Truth (SOT) by 3 experts</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Three experts A, B, and C independently define standard of truth (SOT) about 108 cases.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Define Standard of Truth (SOT) by Taihao Breast Cancer Diagnostic Software</intervention_name>
+    <description>TaiHao Breast Cancer Diagnostic Software independently define standard of truth (SOT) about108 cases.</description>
+    <arm_group_label>Define Standard of Truth (SOT) by 3 experts</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female patients aged 20 to 69, including those with and without breast lesions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a pacemaker or prosthetic valve.&#xD;
+&#xD;
+          -  A post-surgery follow-up patient.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>TaiHao Medical Inc</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10663</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 27, 2023</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/75/NCT05792475/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

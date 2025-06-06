@@ -1,0 +1,177 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610904</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHALP001</org_study_id>
+    <nct_id>NCT05610904</nct_id>
+  </id_info>
+  <brief_title>Evaluation of AL Prediction for Rectal Cancer</brief_title>
+  <official_title>Evaluation of a Machine Learning Based Anastomotic Leakage Prediction Model After Anterior Resection for Rectal cancer-a Multicenter, Prospective, Randomized Controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Changhai Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Changhai Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Anastomotic leakage is one of the most serious postoperative complications of low rectal&#xD;
+      cancer, with an incidence of 3%-21%. The occurrence of anastomotic leakage is related to many&#xD;
+      factors, and the occurrence of anastomotic leakage can be predicted by building a prediction&#xD;
+      model. Most of the anastomotic leakage prediction models constructed in the past are&#xD;
+      nomograms, which have limitations in the fitting of model creation. In the previous study,&#xD;
+      the center took the lead in building a random forest anastomotic leakage prediction model&#xD;
+      based on machine learning. This study intends to prospectively enroll patients with rectal&#xD;
+      cancer undergoing anterior abdominal resection and use their clinical data to prospectively&#xD;
+      verify the efficacy of the anastomotic leakage prediction model, and further improve and&#xD;
+      promote the prediction model.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 10, 2022</start_date>
+  <completion_date type="Anticipated">October 10, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 10, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy of stoma implementation</measure>
+    <time_frame>1 months after surgery</time_frame>
+    <description>Accuracy of stoma implementation: the number of anastomotic leakage patients with stoma and none anastomotic leakage patients without stoma to the number of total patients.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity in the prediction of anastomotic leakage</measure>
+    <time_frame>1 months after surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Grade C leakage rate</measure>
+    <time_frame>1 months after surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preventive stoma rate</measure>
+    <time_frame>1 months after surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of stoma reverse</measure>
+    <time_frame>3-6 months after surgery</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">418</enrollment>
+  <condition>Anastomotic Leak Rectum</condition>
+  <arm_group>
+    <arm_group_label>Surgeon evaluation</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Surgeon combining with model evaluation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Prediction model evaluation</intervention_name>
+    <description>a machine learning based anastomotic leakage prediction model</description>
+    <arm_group_label>Surgeon combining with model evaluation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients aged 18-75 years&#xD;
+&#xD;
+          2. Adenocarcinoma confirmed by pathology&#xD;
+&#xD;
+          3. Colonoscopy or imaging examination confirmed that the distance between the lower edge&#xD;
+             of the tumor and the anal edge was less than or equal to 12cm&#xD;
+&#xD;
+          4. Preoperative imaging diagnosis was cTxNxM0&#xD;
+&#xD;
+          5. No local complications (no obstruction, incomplete obstruction, no massive active&#xD;
+             bleeding, no perforation, abscess formation, and no invasion of adjacent organs)&#xD;
+&#xD;
+          6. The hematopoietic functions of heart, lung, liver, kidney and bone marrow meet the&#xD;
+             requirements of surgery and anesthesia&#xD;
+&#xD;
+          7. Voluntarily sign the informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous history of malignant tumor&#xD;
+&#xD;
+          2. Simultaneous multiple primary colorectal cancer&#xD;
+&#xD;
+          3. Previous multiple abdominal and pelvic surgeries or extensive abdominal adhesions&#xD;
+&#xD;
+          4. Patients with intestinal obstruction, intestinal perforation, intestinal bleeding,&#xD;
+             etc., requiring emergency surgery&#xD;
+&#xD;
+          5. Patients with familial adenomatous polyposis and active inflammatory bowel disease&#xD;
+&#xD;
+          6. A history of severe mental illness&#xD;
+&#xD;
+          7. pregnant or lactating women&#xD;
+&#xD;
+          8. Patients with uncontrolled infection before operation&#xD;
+&#xD;
+          9. The investigator did not consider the patient to be eligible for the trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Colorectal Surgery in Changhai Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200433</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Changhai Hospital</investigator_affiliation>
+    <investigator_full_name>Wei Zhang</investigator_full_name>
+    <investigator_title>professor</investigator_title>
+  </responsible_party>
+  <keyword>Anastomotic Leak</keyword>
+  <keyword>rectal cancer</keyword>
+  <keyword>machine learning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rectal Neoplasms</mesh_term>
+    <mesh_term>Anastomotic Leak</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,244 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TNM002-P2-CH01</org_study_id>
+    <nct_id>NCT05625477</nct_id>
+  </id_info>
+  <brief_title>Study to Compare the Anti-tetanus Neutralizing Antibody Titers and Safety of TNM002 Injection With Human Tetanus Immunoglobulin or Placebo in Adult Volunteers</brief_title>
+  <official_title>A Multicenter, Randomized, Double-Blind, Parallel-Controlled, Dose-Finding Phase II Study to Compare the Anti-tetanus Neutralizing Antibody Titers and Safety of TNM002 Injection With Human Tetanus Immunoglobulin or Placebo Following a Single Intramuscular Injection in Chinese Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Trinomab Biotech Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Trinomab Biotech Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to compare the anti-tetanus neutralizing antibody titers of TNM002&#xD;
+      Injection with human tetanus immunoglobulin (HTIG) following a single intramuscular (IM)&#xD;
+      injection in Chinese adult volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 18, 2022</start_date>
+  <completion_date type="Actual">October 18, 2022</completion_date>
+  <primary_completion_date type="Actual">May 29, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of volunteers with an increase of anti-tetanus neutralizing antibody titers over protective level</measure>
+    <time_frame>At 24 hours post-dose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events (AEs) and serious adverse events (SAEs)</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in anti-tetanus neutralizing antibody titers (∆ titers)</measure>
+    <time_frame>At 24 hours, 48 hours, and on Days 3, 7, 21, 30 and 90 post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of volunteers with an increase of anti-tetanus neutralizing antibody titers over protective level</measure>
+    <time_frame>At 48 hours and on Days 3, 7, 21, 30, and 90 post-dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of anti-tetanus neutralizing antibody titers increasing from baseline over protective level post-dose</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum concentration (Cmax) of TNM002</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to maximum concentration (Tmax) of TNM002</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination half-life (T1/2) of TNM002</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve from time 0 to t (AUC0-t) of TNM002</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve from time 0 to ∞ (AUC0-∞) of TNM002</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive rate of ADA in volunteers in TNM002 groups</measure>
+    <time_frame>Up to 105 days post dosing</time_frame>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">240</enrollment>
+  <condition>Tetanus</condition>
+  <arm_group>
+    <arm_group_label>TNM002 low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a single intramuscular injection of TNM002 with low dose on Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TNM002 medium dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a single intramuscular injection of TNM002 with medium dose on Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TNM002 high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a single intramuscular injection of TNM002 with high dose on Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Human Tetanus Immunoglobulin (HTIG)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive a single intramuscular injection of human tetanus immunoglobulin 250 IU on Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive a single intramuscular injection of placebo on Day 1</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>TNM002 (low dose)</intervention_name>
+    <description>Single dose of TNM002 administered by intramuscular injection</description>
+    <arm_group_label>TNM002 low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>TNM002 (medium dose)</intervention_name>
+    <description>Single dose of TNM002 administered by intramuscular injection</description>
+    <arm_group_label>TNM002 medium dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>TNM002 (high dose)</intervention_name>
+    <description>Single dose of TNM002 administered by intramuscular injection</description>
+    <arm_group_label>TNM002 high dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>HTIG</intervention_name>
+    <description>Single dose of HTIG administered by intramuscular injection</description>
+    <arm_group_label>Human Tetanus Immunoglobulin (HTIG)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single dose of placebo administered by intramuscular injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Chinese male or female adults aged ≥ 18 years;&#xD;
+&#xD;
+          2. Healthy volunteers or volunteers with stable chronic diseases;&#xD;
+&#xD;
+          3. Volunteers who provide signed written informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of allergy to the investigational product, human immunoglobulin preparation or&#xD;
+             any component of other therapeutic monoclonal immunoglobulins;&#xD;
+&#xD;
+          2. Any clinically significant chronic or acute medical condition that makes the volunteer&#xD;
+             unsuitable for participation;&#xD;
+&#xD;
+          3. History of alcohol or other substance abuse.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jie Hou</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University Care Luzhong Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Shantou University Medical College</name>
+      <address>
+        <city>Shantou</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wuxi People's Hospital</name>
+      <address>
+        <city>Wuxi</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PKUCare Luzhong Hospital</name>
+      <address>
+        <city>Zibo</city>
+        <state>Shandong</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yunnan Provincial Hospital of Traditional Chinese Medicine</name>
+      <address>
+        <city>Kunming</city>
+        <state>Yunnan</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>November 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tetanus</mesh_term>
+    <mesh_term>Tetany</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

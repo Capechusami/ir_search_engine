@@ -1,0 +1,153 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13026</org_study_id>
+    <nct_id>NCT05610839</nct_id>
+  </id_info>
+  <brief_title>A RCT of a Fully-automated Self-help AEBT Website</brief_title>
+  <official_title>A Randomized Controlled Trial of a Fully-automated Self-help AEBT Website for Adults With Trichotillomania</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Utah State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Utah State University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Trichotillomania (TTM) is characterized by hair pulling that is repetitive in nature leading&#xD;
+      to notable hair loss, causing clinically significant distress and resulting in impairments&#xD;
+      across social and functional domains (APA, 2013). Trichotillomania causes significant social&#xD;
+      impairment including affecting close relationships, pursuing occupational changes or&#xD;
+      advancement, or interfering with schooling (Grant et al., 2017; Woods, Flessner, Franklin,&#xD;
+      Wetterneck, et al., 2006). The core of the treatment of trichotillomania has traditionally&#xD;
+      been Habit Reversal Training (HRT) (Twohig, Bluett, et al., 2014). Another form of treatment&#xD;
+      that is gaining empirical support is Acceptance and Commitment Therapy (ACT) which has been&#xD;
+      studied in four randomized controlled trials, one studying ACT as a standalone treatment&#xD;
+      (Lee, Homan, et al., 2018), and three examining ACT combined with HRT (Twohig et al., 2021;&#xD;
+      Lee, Haeger, et al., 2018; Woods, Wetterneck, et al., 2006) which demonstrated efficacy of&#xD;
+      the combined treatment in decreasing pulling symptom severity.&#xD;
+&#xD;
+      The prevalence of trichotillomania in the US is 1-2% of the population and yet treatment&#xD;
+      access is limited by many issues including processionals' lack of knowledge of the disorder&#xD;
+      and low treatment accessibility (Walther et al., 2010). ACT- enhanced behavior therapy has&#xD;
+      been implemented using telehealth to reach a larger population (42.2% decrease pre-to-post&#xD;
+      treatment), but telehealth still requires therapist time and incurs notable costs (Lee,&#xD;
+      Haeger, et al., 2018). The present study aims to address the gap in trichotillomania&#xD;
+      treatment accessibility by examining the role of check-ins on adherence and efficacy on&#xD;
+      afully automated, web-based ACT-enhanced HRT treatment for adults with trichotillomania&#xD;
+      across the United States. We predict that the condition with check-ins will increase&#xD;
+      adherence and efficacy of the treatment significantly more than the condition without&#xD;
+      check-ins. Additionally, we predict that hair pulling severity and psychological flexibility&#xD;
+      will be significantly improved by the condition with check-ins compared to the condition&#xD;
+      without check-ins.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2022</start_date>
+  <completion_date type="Anticipated">November 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Massachusetts General Hospital- Hair Pulling Scale (MGH-HPS)</measure>
+    <time_frame>36 weeks</time_frame>
+    <description>The MGH-HPS assesses urges to pull, pulling behavior, and the distress caused by pulling through a seven-item self-report measure. Items are rated individually on a scale from 0-4 and then the total scale is summed from 0-28-point total score. Higher scores indicate greater hair pulling severity. Treatment response is indicated by a seven-point reduction in score (Houghton et al., 2015). The MGH-HPS demonstrates good internal consistency (Keuthen et al., 1995), test-retest reliability and convergent and divergent validity (O'Sullivan et al., 1995).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>AEBT Website With Check-ins</condition>
+  <condition>AEBT Website Without Check-ins</condition>
+  <arm_group>
+    <arm_group_label>AEBT website with check-ins</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will complete the 8-module intervention of Acceptance-enhanced behavior therapy (AEBT) and will receive weekly check-ins. Acceptance-enhanced behavior therapy is a manualized treatment approach created by Woods and Twohig 2008 that provides both Acceptance and Commitment Therapy and Habit Reversal Therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AEBT website without check-ins</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will complete the 8-module intervention of Acceptance-enhanced behavior therapy (AEBT) but will not receive weekly check-ins. Acceptance-enhanced behavior therapy is a manualized treatment approach created by Woods and Twohig 2008 that provides both Acceptance and Commitment Therapy and Habit Reversal Therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Acceptance-Enhanced Behavior Therapy</intervention_name>
+    <description>8-module intervention delivering acceptance-enhanced behavior therapy through a fully automated website. This intervention was adapted from the Acceptance-enhanced behavior therapy workbook (Woods &amp; Twohig, 2008).</description>
+    <arm_group_label>AEBT website with check-ins</arm_group_label>
+    <arm_group_label>AEBT website without check-ins</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Currently meet DSM-5 criteria for trichotillomania&#xD;
+&#xD;
+          2. searching for trichotillomania-based treatment&#xD;
+&#xD;
+          3. are atleast 18 years old&#xD;
+&#xD;
+          4. fluent English speakers&#xD;
+&#xD;
+          5. living in the U.S.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. currently receiving alternative therapy&#xD;
+&#xD;
+          2. currently modifying or starting psychotropic medication&#xD;
+&#xD;
+          3. previously met DSM-5 criteria for trichotillomania but are not, at the time of intake&#xD;
+             session, engaging in hair pulling&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Michael P Twohig, PhD</last_name>
+    <phone>435-265-8933</phone>
+    <email>michael.twohig@usu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Leila K Capel, M.S.</last_name>
+    <phone>802-917-6032</phone>
+    <email>leila.capel@usu.edu</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Utah State University</investigator_affiliation>
+    <investigator_full_name>Michael Twohig, Ph.D.</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

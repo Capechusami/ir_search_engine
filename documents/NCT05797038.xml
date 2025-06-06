@@ -1,0 +1,172 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797038</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAC-IMN-HSI</org_study_id>
+    <nct_id>NCT05797038</nct_id>
+  </id_info>
+  <brief_title>Study on the Application of Hyperspectral Imaging Technique in the Treatment of IMN by TAC</brief_title>
+  <official_title>Study on the Application of Hyperspectral Imaging Technique in the Treatment of TAC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Qianfoshan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Qianfoshan Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We propose hyperspectral imaging analysis as a method to identify the efficacy of&#xD;
+      hormone-tacrolimus therapy for PMN, and to classify sensitive and insensitive patients&#xD;
+      treated with hormone-tacrolimus regimen. A variety of machine learning models were used to&#xD;
+      prove that hyperspectral imaging technology could assist patients in selecting the optimal&#xD;
+      treatment plan, and further explore the predictive indicators of PMN treatment effect.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Renal biopsy slides of patients with idiopathic membranous nephropathy diagnosed by renal&#xD;
+      biopsy in our hospital from February 2016 to February 2022 were collected. ENVI Classic&#xD;
+      software was used to process the hyperspectral images and delineate the region of interest.&#xD;
+      The one-dimensional spectral data of each pixel in each region were derived. Machine learning&#xD;
+      and deep learning methods were used to analyze the characteristics of hyperspectral data and&#xD;
+      classify them.&#xD;
+&#xD;
+      The data of the previous study came from the Department of Pathology and Nephrology of&#xD;
+      Qianfoshan Hospital in Shandong Province. Under the light microscope, electron microscope and&#xD;
+      immunofluorescence microscope, the pathological types of glomerular diseases in patients with&#xD;
+      proteinuria were identified. By scanning the corresponding patient's H&amp;E stained pathological&#xD;
+      sections, the hyperspectral microscopic images were classified by machine learning and deep&#xD;
+      learning methods, and the classification accuracy was greater than 85%. It was concluded that&#xD;
+      hyperspectral imaging technology can be used as a non-invasive diagnostic method to predict&#xD;
+      treatment response.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 25, 2023</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 20, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Microhyperspectral image of a transrenal specimen</measure>
+    <time_frame>2023.4-2023.12</time_frame>
+    <description>Microhyperspectral image of a pathological section of the kidney</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Idiopathic Membranous Nephropathy</condition>
+  <condition>Tacrolimus</condition>
+  <condition>Hyperspectral Imaging</condition>
+  <arm_group>
+    <arm_group_label>TAC group in remission</arm_group_label>
+    <description>The patients with idiopathic membranous nephropathy were divided into two groups, the remission group and the non-remission group after the application of tacrolimus. The renal pathological sections of the two groups were observed by microhyperspectral imaging system, and the differences in the spectra of the two groups were analyzed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TAC group without remission</arm_group_label>
+    <description>The patients with idiopathic membranous nephropathy were divided into two groups, the remission group and the non-remission group after the application of tacrolimus. The renal pathological sections of the two groups were observed by microhyperspectral imaging system, and the differences in the spectra of the two groups were analyzed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tacrolimus for the treatment of IMN</intervention_name>
+    <description>Remission after tacrolimus treatment of IMN</description>
+    <arm_group_label>TAC group in remission</arm_group_label>
+    <arm_group_label>TAC group without remission</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Renal aspiration biopsy pathology&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with clinical manifestations of massive albuminuria and confirmed by renal biopsy&#xD;
+        as idiopathic membranous nephropathy.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years old;&#xD;
+&#xD;
+          -  Patients with idiopathic membranous nephropathy confirmed by renal biopsy;&#xD;
+&#xD;
+          -  Had not received hormone and/or immunosuppressive therapy before renal biopsy;&#xD;
+&#xD;
+          -  Complete clinical data, all signed the &quot;Admission Certificate of Qianfoshan Hospital&#xD;
+             of Shandong Province&quot;, and agreed to use relevant medical information, biological&#xD;
+             specimen examination and examination results for scientific research.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  There are factors causing secondary membranous nephropathy, such as immune diseases&#xD;
+             (systemic lupus erythematosus), tumors/infections (viral hepatitis), drugs or poisons,&#xD;
+             etc;&#xD;
+&#xD;
+          -  Severe infection: fever, cough and expectoration, sore throat, abdominal pain,&#xD;
+             diarrhea, carbuncle and furuncle and other clinical manifestations of skin and soft&#xD;
+             tissue infection, blood routine white blood cell count beyond the normal range&#xD;
+             (10×109/L);&#xD;
+&#xD;
+          -  Severe cardiovascular disease: including chronic heart failure grade 3 or above and&#xD;
+             various arrhythmias;&#xD;
+&#xD;
+          -  Infectious diseases: active hepatitis, AIDS, syphilis, etc. ;&#xD;
+&#xD;
+          -  Tumor evidence: it has been found that there is a certain tumor or clinical&#xD;
+             manifestations, tumor markers, etc.,suggesting the possibility of tumor;&#xD;
+&#xD;
+          -  Patients with follow-up time less than 6 months, incomplete data or missed diagnosis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Wang Zongsong</last_name>
+    <phone>18660190175</phone>
+    <email>wzsong3@163.com</email>
+  </overall_contact>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Qianfoshan Hospital</investigator_affiliation>
+    <investigator_full_name>Zunsong Wang</investigator_full_name>
+    <investigator_title>Qianfo Mountain Hospital of Shandong Province</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glomerulonephritis, Membranous</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tacrolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

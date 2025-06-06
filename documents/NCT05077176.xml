@@ -1,0 +1,658 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077176</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Inaktif_Rapel_Faz 3</org_study_id>
+    <nct_id>NCT05077176</nct_id>
+  </id_info>
+  <brief_title>Phase 3 Booster Vaccination Against COVID-19</brief_title>
+  <official_title>Open Label, Multi-Center Phase 3 Clinical Trial to Determine Safety, Efficacy, and Immunogenicity of Booster Vaccination Against SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Institutes of Turkey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Health Institutes of Turkey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The inactivated Booster Phase 3 study aims to determine the efficacy, safety, and&#xD;
+      immunogenicity of inactivated COVID-19 vaccines in subjects with a minimum of 90 days and a&#xD;
+      maximum of 270 days after the second dose of CoronaVac vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The inactivated Booster Phase 3 study aims to determine the efficacy, safety, and&#xD;
+      immunogenicity of inactivated COVID-19 vaccines in subjects with a minimum of 90 days and a&#xD;
+      maximum of 270 days after the second dose of CoronaVac vaccine. For the booster dose,&#xD;
+      subjects will be assigned open-label according to their preference for 2 different arms.&#xD;
+&#xD;
+      The booster dose vaccine arms are as follows:&#xD;
+&#xD;
+        -  CoronaVac&#xD;
+&#xD;
+        -  Turkovac&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 8, 2021</start_date>
+  <completion_date type="Anticipated">June 27, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 27, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multi-Center Phase 3 Clinical Trial to Determine Safety, Efficacy, and Immunogenicity of Booster Vaccination (CoronaVac or TURKOVAC) Against SARS-CoV-2</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Protection rates of Turkovac and CoronaVac vaccines against symptomatic COVID-19</measure>
+    <time_frame>At least 14 days after booster vaccination dose</time_frame>
+    <description>Protection rates of Turkovac and CoronaVac vaccines against symptomatic COVID-19 confirmed by RT-PCR at least 14 days after booster vaccination dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Evaluate the SARS-CoV2 anti-spike protein immunoglobulin G</measure>
+    <time_frame>28 days after booster vaccination dose</time_frame>
+    <description>The change in the amount of SARS-CoV2 anti-spike protein immunoglobulin G in the 28th day compared to the baseline is 2 times or more</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of SARS-CoV2 Neutralizing Antibodies</measure>
+    <time_frame>28 days after booster vaccination dose</time_frame>
+    <description>The change in the amount of SARS-CoV2 neutralizing antibodies in the 28th day compared to the baseline is 2 times or more</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>T-Cell Evaluation</measure>
+    <time_frame>28 days after booster vaccination dose</time_frame>
+    <description>IL-2, TNF-alpha and IFN-gamma levels in T cells changed by 2 times or more on day 28 compared to baseline for 35 - 40 subjects</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events (AE)</measure>
+    <time_frame>On days 7 and 14 days after vaccination</time_frame>
+    <description>To evaluate the safety of booster dose vaccines by determining the incidence of adverse reactions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Serious Adverse Events (SAE)</measure>
+    <time_frame>168 days after vaccination</time_frame>
+    <description>To evaluate the safety of booster dose vaccines by determining the incidence of serious adverse reactions.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">4340</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Sars-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>CoronaVac</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Inactivated SARS-CoV-2 virus antigen, single intramuscular injection for boosting dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Turkovac</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inactivated SARS-CoV-2 virus antigen, single intramuscular injection for boosting dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CoronaVac</intervention_name>
+    <description>One dose vaccine will be administered to subjects who have passed at least 90 days and at most 270 days after the second dose of the first course of CoronaVac vaccine.</description>
+    <arm_group_label>CoronaVac</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Turkovac</intervention_name>
+    <description>One dose vaccine will be administered to subjects who have passed at least 90 days and at most 270 days after the second dose of the first course of CoronaVac vaccine.</description>
+    <arm_group_label>Turkovac</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Subjects must meet all of the following inclusion criteria to be eligible for inclusion in&#xD;
+        the study:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects willing and able to give signed informed consent to participate in study,&#xD;
+&#xD;
+          2. Healthy male or female aged 18 - 59 years (including both groups),&#xD;
+&#xD;
+          3. Subjects who were vaccinated with CoronaVac for 2 doses and who had a minimum of 90&#xD;
+             days and a maximum of 270 days after the second dose,&#xD;
+&#xD;
+          4. Subjects with minimum 28 days and maximum 42 days between CoronaVac 1st and 2nd dose&#xD;
+             vaccines,&#xD;
+&#xD;
+          5. Female subjects of childbearing potential should be willing to ensure that they or&#xD;
+             their partner use effective birth control methods continuously from 1 month before and&#xD;
+             up to 3 months after vaccination, Male subjects of potential to have children should&#xD;
+             be willing to ensure that they or their partner use effective birth control methods&#xD;
+             continuously from 1 month before and up to 3 months after vaccination,&#xD;
+&#xD;
+          6. In the opinion of the investigator, subjects capable and willing to comply with all&#xD;
+             study requirements,&#xD;
+&#xD;
+          7. Subjects are willing to agree to abstain from donating blood during the study.&#xD;
+&#xD;
+        Subjects meeting any of the following criteria will not be included in the study:&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Administration of any vaccine (registered or investigational) other than study&#xD;
+             intervention within 30 days before and after each study vaccine (one week for&#xD;
+             authorized seasonal flu vaccine or pneumococcal vaccine),&#xD;
+&#xD;
+          2. Pre-or planned use of another vaccine or product likely to affect the study (e.g.&#xD;
+             adenovirus vectored vaccines, any coronavirus vaccine),&#xD;
+&#xD;
+          3. Known history of SARS-CoV-2 infection,&#xD;
+&#xD;
+          4. Pregnant and puerperant subjects (subjects who become pregnant 2 months after&#xD;
+             vaccination will continue to study),&#xD;
+&#xD;
+          5. Subjects with fever (above 37,8°C) at the time of vaccination and/or up to 72 hours&#xD;
+             before (After the acute condition has resolved, the subject can be screened again),&#xD;
+&#xD;
+          6. Administration of immunoglobulins and/or any blood product within 3 months prior to&#xD;
+             vaccination,&#xD;
+&#xD;
+          7. Any confirmed or suspected immunosuppressive or immunodeficiency state; asplenia;&#xD;
+             recurrent severe infections and use of immunosuppressants (less than ≤14 days) in the&#xD;
+             last 6 months, excluding topical steroids or short-term oral steroids,&#xD;
+&#xD;
+          8. Possible history of allergic disease or reaction (e.g. to the active substance) by any&#xD;
+             component of the study vaccines,&#xD;
+&#xD;
+          9. Any history of anaphylaxis,&#xD;
+&#xD;
+         10. Current cancer diagnosis or treatment (excluding basal cell carcinoma of the skin and&#xD;
+             cervical carcinoma in situ),&#xD;
+&#xD;
+         11. History of bleeding disorder (e.g. factor deficiency, coagulopathy or platelet&#xD;
+             disorder), or prior history of significant bleeding or bruising following&#xD;
+             intramuscular injections or venipuncture,&#xD;
+&#xD;
+         12. Continued use of anticoagulants such as coumarins and related anticoagulants (i.e.&#xD;
+             warfarin) or new oral anticoagulants (i.e. apixaban, rivaroxaban, dabigatran and&#xD;
+             edoxaban),&#xD;
+&#xD;
+         13. Cerebral venous sinus thrombosis, antiphospholipid syndrome, or a history of&#xD;
+             heparin-induced thrombocytopenia and thrombosis (HITT or HIT type 2),&#xD;
+&#xD;
+         14. Suspected or known current alcohol or drug addiction,&#xD;
+&#xD;
+         15. Any other significant disease, disorder or finding that could significantly increase&#xD;
+             the subject's risk for participation in the study, affect the subject's ability to&#xD;
+             participate in the study, or impair the interpretation of study data; severe and/or&#xD;
+             uncontrolled cardiovascular disease, respiratory disease, gastrointestinal disease,&#xD;
+             liver disease, kidney disease, endocrine disorder, and neurological disease&#xD;
+             (mild/moderate well-controlled comorbidities are permitted),&#xD;
+&#xD;
+         16. History of active or previous autoimmune neurological disorders (e.g. multiple&#xD;
+             sclerosis, Guillain-Barre syndrome, transverse myelitis) (Bell's palsy will not be an&#xD;
+             exclusion criterion),&#xD;
+&#xD;
+         17. Subjects with severe renal impairment or liver failure,&#xD;
+&#xD;
+         18. Subjects who will undergo scheduled elective surgery during the study,&#xD;
+&#xD;
+         19. Subjects with a life expectancy of less than 6 months,&#xD;
+&#xD;
+         20. Subject who participated in another clinical trial study involving an investigational&#xD;
+             product in the past 12 weeks,&#xD;
+&#xD;
+         21. In case of clinical necessity, a COVID-19 PCR (polymerase chain reaction) test will be&#xD;
+             requested from the subjects, and subjects who are positive will be excluded from the&#xD;
+             study,&#xD;
+&#xD;
+         22. Acute respiratory disease (moderate or severe illness with or without fever).&#xD;
+             (Subjects may be screened again after acute condition has resolved),&#xD;
+&#xD;
+         23. Insufficient level of Turkish to perform the informed consent, except where briefing&#xD;
+             by an independent witness can be provided and is available.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bedia Dinç, Assoc. Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty Member</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Ankara Keçiören Sanatorium Ataturk Chest Diseases and Thoracic Surgery Training and Research Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <state>Turkey Region</state>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Çukurova University Faculty of Medicine, Department of Infectious Diseases</name>
+      <address>
+        <city>Adana</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Ankara City Hospital, Infectious Diseases and Clinical Microbiology Clinic</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dışkapı SUAM Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Antalya Training And Research Hospital</name>
+      <address>
+        <city>Antalya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Aydın State Hospital</name>
+      <address>
+        <city>Aydın</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Balıkesir Atatürk City Hospital</name>
+      <address>
+        <city>Balıkesir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Abant Izzet Baysal University Training and Research Hospital</name>
+      <address>
+        <city>Bolu</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Bursa City Hospital</name>
+      <address>
+        <city>Bursa</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Uludağ University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Bursa</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Denizli Acıpayam State Hospital</name>
+      <address>
+        <city>Denizli</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Elazığ Fethi Sekin City Hospital</name>
+      <address>
+        <city>Elazığ</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Erzincan Binali Yıldırım University Training and Research Hospital Traditional and Complementary Medicine Application Center - GETAT</name>
+      <address>
+        <city>Erzincan</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Erzurum Regional Training and Research Hospital</name>
+      <address>
+        <city>Erzurum</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Eskişehir Osmangazi University Eskişehir Osmangazi University Health, Application and Research Hospital</name>
+      <address>
+        <city>Eskişehir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Eskişehir City Hospital</name>
+      <address>
+        <city>Eskişehir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Dr. Ersin Arslan Training and Research Hospital</name>
+      <address>
+        <city>Gaziantep</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Kartal Dr. Lütfi Kirdar City Hospital Infectious Diseases</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34865</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cerrahpaşa Faculty of Medicine, Department of Internal Medicine - Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Başakşehir Çam ve Sakura City Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Istanbul Provincial Health Directorate Sancaktepe Şehit Prof. Dr. İlhan Varank Training and Research Hospital (Prof. Dr. Feriha Öz Emergency Hospital)</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health İstanbul Şişli Hamidiye Etfal Training and Research Hospital, Clinical Microbiology Clinic</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Health Sciences İstanbul Ümraniye Training and Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health İzmir Katip Çelebi University Atatürk Training and Research Hospital, Infectious Diseases Clinic</name>
+      <address>
+        <city>İzmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health İzmir Provincial Health Directorate Health Sciences University Dr Suat Seren Chest Diseases And Chest Surgery Training And Research Hospital</name>
+      <address>
+        <city>İzmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health İzmir Provincial Health Directorate İzmir Health Sciences University Tepecik Training and Research Hospital, Infectious Diseases</name>
+      <address>
+        <city>İzmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kahramanmaraş Sütçü İmam University Infections Diseases</name>
+      <address>
+        <city>Kahramanmaraş</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Erciyes University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Kayseri</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Kayseri City Training and Research Hospital, Infectious Diseases and Clinical Microbiology Department</name>
+      <address>
+        <city>Kayseri</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Kocaeli</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Kocaeli Health Sciences University Derince Training And Research Hospital</name>
+      <address>
+        <city>Kocaeli</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Konya City Hospital</name>
+      <address>
+        <city>Konya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kütahya University of Health Sciences, Infectious Diseases and Clinic</name>
+      <address>
+        <city>Kütahya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kırıkkale University Faculty of Medicine, Department of Internal Medicine</name>
+      <address>
+        <city>Kırıkkale</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Malatya İnönü University Faculty of Medicine, Department of Infectious Diseases</name>
+      <address>
+        <city>Malatya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Manisa City Hospital</name>
+      <address>
+        <city>Manisa</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Mersin City Training and Research Hospital</name>
+      <address>
+        <city>Mersin</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Tekirdağ Çorlu District State Hospital</name>
+      <address>
+        <city>Tekirdağ</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Health Sciences University Kanuni Training and Research Hospital Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Trabzon</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Van Yüzüncü Yıl University Hospital, Faculty of Medicine, Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Van</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Şanlıurfa Harran University Hospital</name>
+      <address>
+        <city>Şanlıurfa</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Kumar A, Singh R, Kaur J, Pandey S, Sharma V, Thakur L, Sati S, Mani S, Asthana S, Sharma TK, Chaudhuri S, Bhattacharyya S, Kumar N. Wuhan to World: The COVID-19 Pandemic. Front Cell Infect Microbiol. 2021 Mar 30;11:596201. doi: 10.3389/fcimb.2021.596201. eCollection 2021.</citation>
+    <PMID>33859951</PMID>
+  </reference>
+  <reference>
+    <citation>Dan JM, Mateus J, Kato Y, Hastie KM, Yu ED, Faliti CE, Grifoni A, Ramirez SI, Haupt S, Frazier A, Nakao C, Rayaprolu V, Rawlings SA, Peters B, Krammer F, Simon V, Saphire EO, Smith DM, Weiskopf D, Sette A, Crotty S. Immunological memory to SARS-CoV-2 assessed for up to 8 months after infection. Science. 2021 Feb 5;371(6529):eabf4063. doi: 10.1126/science.abf4063. Epub 2021 Jan 6.</citation>
+    <PMID>33408181</PMID>
+  </reference>
+  <reference>
+    <citation>Doria-Rose N, Suthar MS, Makowski M, O'Connell S, McDermott AB, Flach B, Ledgerwood JE, Mascola JR, Graham BS, Lin BC, O'Dell S, Schmidt SD, Widge AT, Edara VV, Anderson EJ, Lai L, Floyd K, Rouphael NG, Zarnitsyna V, Roberts PC, Makhene M, Buchanan W, Luke CJ, Beigel JH, Jackson LA, Neuzil KM, Bennett H, Leav B, Albert J, Kunwar P; mRNA-1273 Study Group. Antibody Persistence through 6 Months after the Second Dose of mRNA-1273 Vaccine for Covid-19. N Engl J Med. 2021 Jun 10;384(23):2259-2261. doi: 10.1056/NEJMc2103916. Epub 2021 Apr 6. No abstract available. Erratum In: N Engl J Med. 2022 Feb 3;386(5):500.</citation>
+    <PMID>33822494</PMID>
+  </reference>
+  <reference>
+    <citation>Wu K, Werner AP, Koch M, Choi A, Narayanan E, Stewart-Jones GBE, Colpitts T, Bennett H, Boyoglu-Barnum S, Shi W, Moliva JI, Sullivan NJ, Graham BS, Carfi A, Corbett KS, Seder RA, Edwards DK. Serum Neutralizing Activity Elicited by mRNA-1273 Vaccine. N Engl J Med. 2021 Apr 15;384(15):1468-1470. doi: 10.1056/NEJMc2102179. Epub 2021 Mar 17. No abstract available.</citation>
+    <PMID>33730471</PMID>
+  </reference>
+  <reference>
+    <citation>Madhi SA, Izu A, Pollard AJ. ChAdOx1 nCoV-19 Vaccine Efficacy against the B.1.351 Variant. Reply. N Engl J Med. 2021 Aug 5;385(6):571-572. doi: 10.1056/NEJMc2110093. Epub 2021 Jul 21. No abstract available.</citation>
+    <PMID>34289271</PMID>
+  </reference>
+  <reference>
+    <citation>Pavel STI, Yetiskin H, Aydin G, Holyavkin C, Uygut MA, Dursun ZB, Celik I, Cevik C, Ozdarendeli A. Isolation and characterization of severe acute respiratory syndrome coronavirus 2 in Turkey. PLoS One. 2020 Sep 16;15(9):e0238614. doi: 10.1371/journal.pone.0238614. eCollection 2020.</citation>
+    <PMID>32936826</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Booster</keyword>
+  <keyword>Efficacy</keyword>
+  <keyword>Immunogenicity</keyword>
+  <keyword>Safety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

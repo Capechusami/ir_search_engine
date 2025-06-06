@@ -1,0 +1,198 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793879</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UC</org_study_id>
+    <nct_id>NCT05793879</nct_id>
+  </id_info>
+  <brief_title>Virtual Reality Training for Aphasia Rehabilitation</brief_title>
+  <acronym>Aphasia360</acronym>
+  <official_title>Anomias Rehabilitation Training Through 360° Videos</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Catholic University of the Sacred Heart</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fondazione Poliambulanza</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Catholic University of the Sacred Heart</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Aphasia is an acquired deficit following acute damage to the central nervous system that&#xD;
+      involves the difficulty or impossibility of understanding and formulating language. A typical&#xD;
+      disorder of non-fluent forms of aphasia is anomia. Anomia refers to the difficulty in finding&#xD;
+      words, in particular when trying to name objects and actions. According to the Embodied&#xD;
+      Cognition approach (EC), language is tightly connected to the motor system. In this view,&#xD;
+      language rehabilitation programs should stimulate language through the activation of the&#xD;
+      motor system. In this approach, since anomic deficits are often due to a weak link between&#xD;
+      the meaning of the word and its lemma, the Hebbs' principles of coincident and correlated&#xD;
+      learning can be exploited, i.e., by intensifying the synchronous activation of lexicon and&#xD;
+      semantics and connecting them with the motor counterpart. In this study, the investigators&#xD;
+      present an innovative training, based on the EC framework, in which they will make use of new&#xD;
+      technologies for anomia rehabilitation in post-stroke patients. Specifically, the researchers&#xD;
+      will use immersive 360° videos representing everyday actions displayed from the first-person&#xD;
+      point of view, experienced through a head-mounted display. The training will be administered&#xD;
+      3 times a week for 4 weeks. The control group will watch standard videos representing the&#xD;
+      same actions recorded from the third-person perspective. Naming abilities will be tested&#xD;
+      before and after the training together with other cognitive and psychological measures. The&#xD;
+      investigators expect that the group who will undergo the 360° video-based training will show&#xD;
+      greater improvement of performance compared to the control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">March 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of verbs and objects correctly named</measure>
+    <time_frame>post treatment, 1 month</time_frame>
+    <description>All the trained videos will be presented and the patient will be asked to name the verb and the object depicted. The accuracy will be registered</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Batteria per l'Analisi dei Deficit Afasici (BADA), naming subtest</measure>
+    <time_frame>post treatment, 1 month</time_frame>
+    <description>It is an Italian validated neuropsychological battery aiming at testing all the language abilities. It includes several tests tapping into the different linguistic abilities, but for the purpose of the present study only the verb and object naming subtest will be administered. Higher scores indicate greater naming abilities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EuroQol Health-related quality of life (EQ-5D-3L)</measure>
+    <time_frame>post treatment, 1 month</time_frame>
+    <description>The test consists of 2 sections. The first one is made of 5 questions scored from 1 to 5 points each. The final score ranges from 5 to 15, where the lesser the better. The second section is a visual scale on which the best state the patient can imagine is marked 100 and the worst state is marked 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Outcome Questionnaire (FOQ-A)</measure>
+    <time_frame>post treatment, 1 month</time_frame>
+    <description>The survey is administered to the caregiver. It includes 32 questions each scored from 1 to 5 points. The final scores ranges from 32 to 160, where higher scores indicate greater communication abilities</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Anomic Aphasia</condition>
+  <arm_group>
+    <arm_group_label>Video 360</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will watch spherical videos displaying everyday actions towards objects; an audio is embedded describing the action and the object represented (i.e. &quot;I'm cutting the potatoes&quot;).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard video</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will watch standard videos displaying everyday actions towards objects; an audio is embedded describing the action and the object represented (i.e. &quot;I'm cutting the potatoes&quot;)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Video 360</intervention_name>
+    <description>Patients will undergo 12 sessions, 3 per weeks, 4 weeks</description>
+    <arm_group_label>Video 360</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard videos</intervention_name>
+    <description>Patients will undergo 12 sessions, 3 per weeks, 4 weeks</description>
+    <arm_group_label>Standard video</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  naming disorder in the post-acute phase (index event occurring at least 6 months&#xD;
+             earlier)&#xD;
+&#xD;
+          -  to have already received rehabilitation treatment in the acute phase&#xD;
+&#xD;
+          -  noun naming below cut-off&#xD;
+&#xD;
+          -  verbs naming below cut- off&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  concomitant or pre-existing (with respect to the index event) neurological and&#xD;
+             psychiatric deficits&#xD;
+&#xD;
+          -  epilepsy&#xD;
+&#xD;
+          -  balance disorders&#xD;
+&#xD;
+          -  neglect&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Claudia Repetto, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Catholic University of the Sacred Heart</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Claudia Repetto, Prof</last_name>
+    <phone>+39 3488122121</phone>
+    <email>claudia.repetto@unicatt.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alice Cancer, PhD</last_name>
+    <email>alice.cancer@unicatt.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Poliambulanza</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandra Maietti, Msc</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 7, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Catholic University of the Sacred Heart</investigator_affiliation>
+    <investigator_full_name>Claudia Repetto</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>virtual reality</keyword>
+  <keyword>embodied cognition</keyword>
+  <keyword>rehabilitation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aphasia</mesh_term>
+    <mesh_term>Anomia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

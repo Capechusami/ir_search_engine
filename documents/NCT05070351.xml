@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05070351</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00108517</org_study_id>
+    <nct_id>NCT05070351</nct_id>
+  </id_info>
+  <brief_title>Deprescribing Proton Pump Inhibitors to Reduce Post-TIPS Hepatic Encephalopathy</brief_title>
+  <official_title>A Randomized Open-label Trial of Deprescribing Proton Pump Inhibitors to Reduce the Risk of Hepatic Encephalopathy After Transjugular Intrahepatic Portosystemic Shunt Creation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A total of 40 patients taking proton pump inhibitors (PPIs) who undergo transjugular&#xD;
+      intrahepatic portosystemic shunt (TIPS) creation as part of routine clinical care will be&#xD;
+      randomized in 1:1 fashion to either continue or discontinue their PPIs to determine whether&#xD;
+      these commonly used gastric acid suppressing agents increase risk of post-TIPS hepatic&#xD;
+      encephalopathy (HE). Patients will be assessed for symptoms of minimal HE (MHE), using the&#xD;
+      established psychometric hepatic encephalopathy score (PHES) battery of tests. MHE assessment&#xD;
+      will be conducted at two timepoints: at baseline prior to randomization and TIPS creation and&#xD;
+      approximately 4 weeks after randomization and TIPS creation. Stool samples will also be&#xD;
+      collected at both timepoints to allow characterization of the gastrointestinal (GI) tract&#xD;
+      microbiome using 16S rRNA sequencing. The pre to post-TIPS change in PHES scores will be&#xD;
+      compared between patients randomized to continue versus discontinue their PPIs. Quality of&#xD;
+      life (QOL) will also be assessed. Changes in the GI tract microbiome will be analyzed to&#xD;
+      determine whether this represents a potential biological mechanism linking PPI use with&#xD;
+      post-TIPS HE.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 3, 2022</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Minimal hepatic encephalopathy</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Minimal hepatic encephalopathy, as assessed by psychometric hepatic encephalopathy score</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Per-protocol evaluation of minimal hepatic encephalopathy</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Minimal hepatic encephalopathy, as assessed by psychometric hepatic encephalopathy score, based on actual reported PPI use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chronic liver disease specific quality of life</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Chronic liver disease (CLDQ) specific QOL assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastroesophageal reflux specific quality of life</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Gastroesophageal reflux (QOLRAD) specific QOL assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overt hepatic encephalopathy</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Episodes of overt hepatic encephalopathy (defined as West-Haven grade 2 or greater)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>On-demand requirement for acid suppression therapy</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Proportion of patients in the PPI discontinuation arm needing on-demand H2 blockers or PPIs for gastroesophageal reflux symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Adverse events in the PPI continuation versus discontinuation arms</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in gastrointestinal tract microbiome</measure>
+    <time_frame>Approximately 6-8 weeks</time_frame>
+    <description>Pre-TIPS to post-TIPS change in stool taxon abundances as measured by 16S rRNA sequencing</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Hepatic Encephalopathy</condition>
+  <arm_group>
+    <arm_group_label>PPI deprescribing arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients taking a PPI (at least 20 mg omeprazole equivalent daily) will be instructed to stop taking their PPI.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PPI continuation arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients will be instructed to continue taking their PPI (at least 20 mg omeprazole equivalent daily) as usual.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PPI deprescribing</intervention_name>
+    <description>Patients currently on a proton pump inhibitor (PPI) undergoing transjugular intrahepatic portosystemic shunt (TIPS) creation as part of routine clinical care will be randomized to receive instructions to stop taking their PPI.</description>
+    <arm_group_label>PPI deprescribing arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Undergoing TIPS creation as part of routine clinical care&#xD;
+&#xD;
+          -  On PPIs therapy (at least 20 mg omeprazole equivalent daily)&#xD;
+&#xD;
+          -  Provision of signed and dated informed consent form by participant or legal&#xD;
+             representative&#xD;
+&#xD;
+          -  Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          -  Male or female, age greater or equal to 18&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Grade IV esophagitis or gastric or duodenal ulcer&#xD;
+&#xD;
+          -  Recent endoscopic esophageal variceal band ligation necessitating PPI therapy for&#xD;
+             prevention of banding ulcer&#xD;
+&#xD;
+          -  Zollinger-Ellison syndrome&#xD;
+&#xD;
+          -  Active Helicobacter pylori infection&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Ronald, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>James Ronald, MD PhD</last_name>
+    <phone>919-684-7299</phone>
+    <email>james.ronald@duke.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Duke University Hospital</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Research Coordinator</last_name>
+      <phone>919-684-7810</phone>
+      <email>latonia.strader@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>January 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hepatic Encephalopathy</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 29, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/51/NCT05070351/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 20, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/51/NCT05070351/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

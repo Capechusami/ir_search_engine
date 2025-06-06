@@ -1,0 +1,602 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620563</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18338</org_study_id>
+    <secondary_id>H0P-MC-OA05</secondary_id>
+    <nct_id>NCT05620563</nct_id>
+  </id_info>
+  <brief_title>A Chronic Pain Master Protocol (CPMP): A Study of LY3857210 In Participants With Osteoarthritis Pain</brief_title>
+  <acronym>OA05</acronym>
+  <official_title>A Master Protocol for Randomized, Placebo-Controlled, Phase 2 Clinical Trials of Multiple Interventions for the Treatment of Chronic Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to evaluate the efficacy and safety of LY3857210 in&#xD;
+      participants with Osteoarthritic Pain&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 22, 2022</start_date>
+  <completion_date type="Anticipated">June 13, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline for Average Pain Intensity as measured by the Numeric Rating Scale (NRS)</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline for Disease State Assessment (DSA)</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline for Overall improvement as Measured by Patient's Global Impression of Change</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline for Worst Pain Intensity as Measured by NRS</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with a Pain Reduction from Baseline Greater than or equal to 30%, 50%, and 70% as Measured by the Average and Worst Pain Responses on the NRS</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with at least 2-point Reduction from Baseline as Measured by the Average and Worst Pain Responses on the NRS</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Pain Reduction of at Least 30%, 50%, and 70% from Baseline as Measured by the Average and Worst Pain Responses on the NRS</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Pain Reduction of at least 2-point from Baseline as Measured by the Average and Worst Pain Responses on the NRS</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline for on the Visual Analog Scale (VAS) for Pain</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Pain Reduction from Baseline Greater than or equal to 30%, 50%, and 70% as Measured by VAS</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline for on the Sleep Scale from the Medical Outcomes Study (MOS) Sleep Scale</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Reduction from Baseline Greater Than or Equal to 30%, 50%, and 70% on the Physical Functioning Measures as described in the DSA</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary of Frequency, Timing, and Amount of Rescue Medication used during the Treatment Phase</measure>
+    <time_frame>Baseline Through Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline for Emotional Functioning as measured by the EuroQol-5D-5-Level Questionnaire (EQ-5D-5L)</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Osteoarthritis, Knee</condition>
+  <arm_group>
+    <arm_group_label>LY3857210</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3857210 will be given orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be given orally</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3857210</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>LY3857210</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have a visual analog scale (VAS) pain value ≥40 and &lt;95 during screening.&#xD;
+&#xD;
+          -  Have a history of daily pain for at least 12 weeks based on participant report or&#xD;
+             medical history.&#xD;
+&#xD;
+          -  Have a body mass index &lt;40 kilograms per meter squared (kg/m²) (inclusive).&#xD;
+&#xD;
+          -  Are willing to maintain a consistent regimen of any ongoing nonpharmacologic&#xD;
+             pain-relieving therapies (for example, physical therapy) and will not start any new&#xD;
+             nonpharmacologic pain-relieving therapies during study participation.&#xD;
+&#xD;
+          -  Are willing to discontinue all medications taken for chronic pain conditions for the&#xD;
+             duration of the study.&#xD;
+&#xD;
+          -  Have presence of index knee pain for &gt;12 weeks at screening.&#xD;
+&#xD;
+          -  Have an x-ray supporting diagnosis of osteoarthritis according to the American College&#xD;
+             of Rheumatology with a Kellgren-Lawrence grade 2 to 4 radiographic classification of&#xD;
+             index knee.&#xD;
+&#xD;
+          -  Are men, or women able to abide by reproductive and contraceptive requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have second- or third-degree atrioventricular (AV) heart block or AV dissociation or&#xD;
+             history of ventricular tachycardia.&#xD;
+&#xD;
+          -  Have had a procedure within the past 6 months intended to produce permanent sensory&#xD;
+             loss in the target area of interest (for example, ablation techniques).&#xD;
+&#xD;
+          -  Have surgery planned during the study for any reason, related or not to the disease&#xD;
+             state under evaluation.&#xD;
+&#xD;
+          -  Have, in the judgment of the investigator, an acute, serious, or unstable medical&#xD;
+             condition or a history or presence of any other medical illness that would preclude&#xD;
+             study participation.&#xD;
+&#xD;
+          -  Have had cancer within 2 years of baseline, except for cutaneous basal cell or&#xD;
+             squamous cell carcinoma resolved by excision.&#xD;
+&#xD;
+          -  Have a substance use disorder as defined by the Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders (5th edition; DSM-5; American Psychiatric Association).&#xD;
+&#xD;
+          -  Have a positive human immunodeficiency virus (HIV) test result at screening.&#xD;
+&#xD;
+          -  Are in the judgment of the investigator, actively suicidal and therefore deemed to be&#xD;
+             at significant risk for suicide.&#xD;
+&#xD;
+          -  Have an intolerance to acetaminophen or paracetamol or any of its excipients.&#xD;
+&#xD;
+          -  Have a history of alcohol, illicit drug, analgesic or narcotic use disorder within 2&#xD;
+             years prior to screening.&#xD;
+&#xD;
+          -  Are largely or wholly incapacitated and unable to participate fully in all protocol&#xD;
+             procedures, for example, bedridden or confined to a wheelchair, permitting little or&#xD;
+             no selfcare.&#xD;
+&#xD;
+          -  Have presence of surgical hardware or other foreign body in the index knee.&#xD;
+&#xD;
+          -  Have an unstable index joint (such as a torn anterior cruciate ligament).&#xD;
+&#xD;
+          -  Have had a surgical procedure or therapeutic injection in the affected knee within 3&#xD;
+             months prior to starting the washout period.&#xD;
+&#xD;
+          -  Have fibromyalgia, chronic pain syndrome, or other concurrent medical or arthritic&#xD;
+             conditions that could interfere with the evaluation of the index knee.&#xD;
+&#xD;
+          -  Have a history of Reiter's syndrome, rheumatoid arthritis, psoriatic arthritis,&#xD;
+             ankylosing spondylitis, arthritis associated with inflammatory bowel disease,&#xD;
+             sarcoidosis, or amyloidosis.&#xD;
+&#xD;
+          -  Have clinical signs and symptoms of active knee infection or crystal disease of the&#xD;
+             index knee.&#xD;
+&#xD;
+          -  Have a history of infection in the index joint.&#xD;
+&#xD;
+          -  Have a history of arthritis due to crystals (e.g., gout, pseudogout).&#xD;
+&#xD;
+          -  Have pain or functional impairment due to ipsilateral hip osteoarthritis.&#xD;
+&#xD;
+          -  Have a history within 2 years prior to screening or current evidence of syncope,&#xD;
+             presyncope, uncontrolled vertigo, or postural dizziness, judged to be clinically&#xD;
+             significant by the investigator.&#xD;
+&#xD;
+          -  Have clinically significant active thyroid disease, including Hashimoto's thyroiditis.&#xD;
+&#xD;
+          -  Are taking metformin therapy.&#xD;
+&#xD;
+          -  Are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Have had any joint replacement such as knee of the lower extremity, such as hip, knee&#xD;
+             or ankle, in the past 6 months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc.</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Research Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85053</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Artemis Institute for Clinical Research</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Artemis Institute for Clinical Research</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CMR of Greater New Haven, LLC</name>
+      <address>
+        <city>Hamden</city>
+        <state>Connecticut</state>
+        <zip>06517</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Accel Research Sites- Clinical Research Unit</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Suncoast Research Group</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Horizon Research Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc - Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc.</name>
+      <address>
+        <city>Pinellas Park</city>
+        <state>Florida</state>
+        <zip>33781</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Georgia Clinical Research</name>
+      <address>
+        <city>Woodstock</city>
+        <state>Georgia</state>
+        <zip>30189</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Clinical Research</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Clinical Trials</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ActivMed Practices and Research</name>
+      <address>
+        <city>Methuen</city>
+        <state>Massachusetts</state>
+        <zip>01844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MedVadis Research Corporation</name>
+      <address>
+        <city>Waltham</city>
+        <state>Massachusetts</state>
+        <zip>02451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Research Group, Inc.</name>
+      <address>
+        <city>Bay City</city>
+        <state>Michigan</state>
+        <zip>48706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>StudyMetrix Research</name>
+      <address>
+        <city>Saint Peters</city>
+        <state>Missouri</state>
+        <zip>63303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinvest Research LLC</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lillestol Research</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>META Medical Research Institute</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Altoona Center For Clinical Research</name>
+      <address>
+        <city>Duncansville</city>
+        <state>Pennsylvania</state>
+        <zip>16635</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>FutureSearch Trials of Neurology</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc.</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Clinical Research Center</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rainier Clinical Research Center</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <zip>98057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ponce Medical School Foundation Inc.</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00716</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Latin Clinical Trial Center</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00909</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lilly.com/en-US/trial/368103</url>
+    <description>A Chronic Pain Master Protocol (CPMP): A Study of LY3857210 In Participants With Osteoarthritis Pain (OA05)</description>
+  </link>
+  <verification_date>April 1, 2023</verification_date>
+  <study_first_submitted>November 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>April 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+    <mesh_term>Chronic Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>http://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

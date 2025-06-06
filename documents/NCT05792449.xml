@@ -1,0 +1,617 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05792449</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018/00753</org_study_id>
+    <nct_id>NCT05792449</nct_id>
+  </id_info>
+  <brief_title>Tele-rehabilitation Program: An Innovative and Sustainable Early Intervention Service for Children With Autism Spectrum Disorders</brief_title>
+  <official_title>Tele-rehabilitation Program: An Innovative and Sustainable Early Intervention Service for Children With Autism Spectrum Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Health, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National University of Singapore, Saw Swee Hock School of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National University Hospital, Singapore</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Singapore, Autism Spectrum Disorders (ASD) is ranked number one in disease burden for&#xD;
+      children 0-14 years of age. The Child Development Unit at the National University Hospital&#xD;
+      serves 3000 children annually, of which 25-30% of children have been diagnosed with ASD.&#xD;
+      Therapist roles are to provide interim therapy for these children before entry into&#xD;
+      community-based Early Intervention Centres (EIPIC), which currently have waiting times of 6-9&#xD;
+      months. Current limitations with interim care includes long wait times, high cost for&#xD;
+      families, lack of manpower and space to serve the patients, poor parental involvement due to&#xD;
+      their work commitments, parental difficulties attending frequent, needed, in-hospital therapy&#xD;
+      and difficulty generalizing patient treatment to the home/community setting (decreasing&#xD;
+      effectiveness). The proposed Telerehabilitation (also called Telerehab) initiative involves&#xD;
+      the use of video conferencing technology to help address the aforementioned deficits.&#xD;
+      Offering early intervention through Telerehab will enable previously unattainable benefits&#xD;
+      such as seeing the child in their home environment, allowing multiple caregivers to have&#xD;
+      access to the early intervention training, more frequent contact with families and the&#xD;
+      ability to trouble shoot real life difficulties in real time. The important advantages to the&#xD;
+      caregivers include less financial burden arising from time off from work and travel, more&#xD;
+      access to treatment over a longer period of time and ability to access a multidisciplinary&#xD;
+      team. An additional benefit for the children is they need not travel to unfamiliar&#xD;
+      environments, which is frequently distressing for children with ASD. Lastly, Telerehab is a&#xD;
+      sustainable initiative allowing for less manpower to cover the growing number of patients,&#xD;
+      and the possibility to be implemented in other government run hospitals and clinics facing&#xD;
+      similar challenges. Elaboration of benefits:1) Importance of parent and caregiver&#xD;
+      empowerment. Early Intervention in the current model has been predominantly centre based with&#xD;
+      initiatives to increase caregiver education. A large body of literature suggests that early&#xD;
+      intervention is highly successful when provided at the age of diagnosis, with younger&#xD;
+      children yielding better outcomes. Caregiver involvement is vital to long-term success, as&#xD;
+      they spend a significant amount of time with their child; they can support the&#xD;
+      generalizations of new skills. National Research Council identifies parent training to be the&#xD;
+      key component for successful intervention for children with autism. Parent training improves&#xD;
+      quality of life by reducing parental stress and increasing optimism.2) Addressing nationally&#xD;
+      identified gaps. The Enabling Master plan recommendations for 2012-2016 (under Ministry of&#xD;
+      Family and Social Development) identifies gaps in family involvement and support in acquiring&#xD;
+      necessary skills and knowledge to be competent in helping their children make developmental&#xD;
+      gains. Child Development Unit (CDU) envisions that Telerehab is a viable avenue for&#xD;
+      supporting parents in learning EI skills.3) Improving existing parent training programmes.&#xD;
+      CDU has successfully piloted a parent-training program for children with ASD called SPEECCH.&#xD;
+      In our study of the impact of this parent-training program, children made measurable progress&#xD;
+      in all four skill areas assessed (p&lt;0.001). Focus on achievable and observable family-&#xD;
+      centred developmental goals showed evidence for increased parental understanding of&#xD;
+      children's learning and behaviour amp; effective use of strategies for facilitating&#xD;
+      communication and interactions to support their child's development (p&lt;0.001). However this&#xD;
+      intervention service could not be sustained due to high caseload demands and insufficient&#xD;
+      manpower. Parent interviews during review visits identified having sustained contact with&#xD;
+      therapists and parent coaching to be key areas of need. Currently the service provides&#xD;
+      intervention for 24 children with ASD weekly for one hour across 12 weeks, and continued&#xD;
+      support for up to 20 weeks (maximum of 16 hours of intervention). Of the new referrals of 150&#xD;
+      children with ASD, if a sustained service is to be provided, only a small group of children&#xD;
+      will receive intervention. In order to address the demand, the frequency and intensity of&#xD;
+      intervention has had to be sacrificed to be able to provide some service to all patients.&#xD;
+      Hence to maximize the impact of early intervention, a sustainable model of service delivery&#xD;
+      using technology through videoconferencing is being proposed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In Singapore, Autism Spectrum Disorders (ASD) is ranked number one in disease burden for&#xD;
+      children 0-14 years of age. The Child Development Unit at the National University Hospital&#xD;
+      serves 3000 children annually, of which 25-30% of children have been diagnosed with ASD.&#xD;
+      Therapist roles are to provide interim therapy for these children before entry into&#xD;
+      community-based Early Intervention Centres (EIPIC), which currently have waiting times of 6-9&#xD;
+      months. Current limitations with our interim care includes long wait times, high cost for&#xD;
+      families, lack of manpower and space to serve the patients, poor parental involvement due to&#xD;
+      their work commitments, parental difficulties attending frequent, needed, in-hospital therapy&#xD;
+      and difficulty generalizing patient treatment to the home/community setting (decreasing&#xD;
+      effectiveness). Currently, clinic-based environment does not include natural environments for&#xD;
+      learning development and hence spontaneous generalization is a challenge and impacts child&#xD;
+      outcomes. Standard interventions do not allow therapists to observe or facilitate a child's&#xD;
+      behaviour and skills during natural routines. Previous work on telerehab show that it ensures&#xD;
+      the best outcome for the child. It provides the best modality for therapists to observe the&#xD;
+      child during these routines in home environments and provide meaningful and relevant&#xD;
+      strategies in real time. Despite standard therapy, expected significant outcomes of parent&#xD;
+      training have not been achieved. The key factor has been the need to provide parents with&#xD;
+      more instruction and practice with the content inside real-life moments and interactions with&#xD;
+      children. Telerehab facilitates the provision of more sustained opportunities for parent&#xD;
+      coaching within the home setting (natural environment). A clinic based model of intervention&#xD;
+      requires transition of children into new environments. The intolerance of children with&#xD;
+      Autism to changes in their routine/environment is well known; typically presented with acute&#xD;
+      symptoms of agitation or anxiety. They are frequently distressed in clinical environments,&#xD;
+      making it difficult for the parent and professionals to continue with the early intervention&#xD;
+      program. Telerehab provides early intervention in safe and secure natural home contexts of&#xD;
+      the child thus averting the challenges of transition. Early intervention services provided in&#xD;
+      the clinical setting are often provided with only one caregiver present. Logistics and travel&#xD;
+      costs prevent participation of multiple caregivers in early intervention coaching programs.&#xD;
+      Telerehab makes it feasible for multiple caregivers to participate in early intervention and&#xD;
+      build their capacities through teleconferencing support from professionals. Previous models&#xD;
+      of home-based interventions have found to incur high costs for the provider with limited&#xD;
+      reach. Home visits by professionals incur expense in the form of travel time, travel costs&#xD;
+      and hence the number of families covered through this is limited. Telerehab maximizes impact&#xD;
+      of home based interventions without high costs and with wider reach. The cost of early&#xD;
+      intervention(EI) through Telerehab will be similar to the current costs of clinic-based&#xD;
+      interventions paid by families. Cost incurred is essentially technology investment and&#xD;
+      professional manpower investment. Current duration of EI is 16 hours, which is sustainable up&#xD;
+      to 20 weeks for each family based on current CDU caseloads of 150 new referrals per year.&#xD;
+      Telerehab proposes to sustain the core intervention across 47 weeks for a duration of 16&#xD;
+      hours leading to better sustainability, which also contributes to gains in productivity. This&#xD;
+      demonstrates the scalability of the Telerehab program.&#xD;
+&#xD;
+      The current standard program for early intervention treatment is in-clinic therapy based on&#xD;
+      the Foundational Skills Curriculum (FSC): a framework for early intervention developed from&#xD;
+      outcomes of an Autism research project conducted in the UK. This framework provides a clear&#xD;
+      and systematic approach to understanding the child's functioning in 3 core areas of&#xD;
+      development (across 141 items): Play, Social Interaction, and Communication.&#xD;
+&#xD;
+      The telerehab program will provide parent coaching on EI through video conferencing using the&#xD;
+      FSC. The telerehab program aims to improve access to services and facilitate intervention in&#xD;
+      the natural environment of children and their families by developing video conferencing (VC)&#xD;
+      as a feasible and acceptable medium to build parent capabilities in EI. The specific service&#xD;
+      model objectives are to realize positive gains in service efficiency (i.e. reducing the total&#xD;
+      time and resource utilization per completed intervention course relative to current&#xD;
+      practice); reduce total costs and non-financial barriers for patients (i.e. access) as well&#xD;
+      as the total cost to the health system per completed course (i.e. sustainability) and realize&#xD;
+      positive gains in provider productivity and hence cost-effectiveness (i.e. reduced cost per&#xD;
+      unit outcome achieved).&#xD;
+&#xD;
+      Implementation Strategies and Patient Flow CDU receives referrals from polyclinics for&#xD;
+      children at risk of ASD. These referrals will be scheduled for a developmental assessment by&#xD;
+      the developmental paediatrician. Baseline assessments will be conducted under the program as&#xD;
+      well as under standard care. Children who are enrolled into the evaluation study will then&#xD;
+      continue with either the standard program (clinic-based therapy) or the telerehab program.&#xD;
+      The program schedule for the patient in terms of type of visits and intervention blocks for&#xD;
+      both the standard program and telerehab is shown in Annex 1: Program Schedule. The duration&#xD;
+      of clinic-based intervention sessions will be 60 min while the duration of VC based&#xD;
+      intervention sessions will be 45 min.&#xD;
+&#xD;
+      Baseline Assessments Visit 0/1: Child found to be at risk for ASD on clinical evaluation by&#xD;
+      the developmental paediatrician based on the DSM-5 criteria will be referred for this study.&#xD;
+      The informed consent will be obtained prior to undergoing any research-related activities.&#xD;
+&#xD;
+      Visit 2 to 3: Upon parent consent in Visit 0 or 1, the child will be assessed on the MSEL and&#xD;
+      ADOS. However, MSEL assessment may be conducted before informed consent as part of clinical&#xD;
+      routine practice. Participants will also be assessed on the Vineland Adaptive Behaviour&#xD;
+      Scales (VABS-III) and Parenting Stress Index-Short Form (PSI-SF). Children who meet the&#xD;
+      criteria for Autism on the ADOS and do not have any of the exclusion criteria will be offered&#xD;
+      to be part of the study.&#xD;
+&#xD;
+      Visit 4: On completion of the above assessments, the paediatrician will share the MSEL and&#xD;
+      ADOS report with parents and confirm enrolment into the study if the child meets the&#xD;
+      inclusion criteria. If the child does not, they will be referred to standard care outside the&#xD;
+      study. Children whose parents consent to be on the study will be randomly assigned to either&#xD;
+      the telerehab program (experimental arm) or standard program (control arm) using block&#xD;
+      randomisation. The paediatrician will inform parents of the study arm that they are assigned&#xD;
+      to.&#xD;
+&#xD;
+      Visit 5a: Initial assessments based on the FSC, Joint Engagement Rating Inventory (JERI),&#xD;
+      child's routines (parent interview) and Family Early Intervention Quality of life (FEIQoL)&#xD;
+      will be completed for all. Parents will also participate in a short demographic and cost&#xD;
+      survey. If parents are unable to complete the surveys during their clinic-based session, they&#xD;
+      will be sent the surveys through email or asked to answer the questions over a phone call.&#xD;
+      Parents may also be invited to participate in an (semi structured, in-depth) interview for&#xD;
+      evaluating the perceived effectiveness of standard care.&#xD;
+&#xD;
+      Visit 5b: For the telerehab group, initial assessments and observations will be collected&#xD;
+      through 2 settings, one clinic-based, as well as one using VC. The latter is done in order to&#xD;
+      observe parent-child interactions and skills demonstrated by the child in the context of the&#xD;
+      natural home environment. The VC assessment and intervention will be conducted using a MOHH&#xD;
+      commissioned VC platform. This platform will allow the therapist and parents to see, hear,&#xD;
+      and communicate with one another live in real-time. The therapist will access the program&#xD;
+      from an office computer with a web-camera in the clinic, whereas parents will access the&#xD;
+      program from their home. Parents who do not have the necessary equipment for VC will be&#xD;
+      provided with notebook computers and needed accessories. An orientation to the use and care&#xD;
+      of VC equipment will be provided.&#xD;
+&#xD;
+      Visit 6: Parents of children in both programs will attend a parent education workshop. The&#xD;
+      workshop will discuss the role of parents and therapists in early intervention, the key areas&#xD;
+      that children have difficulties with during development, the use of routines to facilitate&#xD;
+      the child's learning and strategies that can be embedded in routines. If parents choose to&#xD;
+      not attend the workshop or are unable to attend their scheduled workshop, parents can still&#xD;
+      proceed with the intervention phase. Parents who are unable to attend the workshop will be&#xD;
+      reminded to reschedule the workshop to the next available date and will have training slides&#xD;
+      and materials sent to them through email for their reading. Parents will have also have&#xD;
+      opportunities to seek further clarification during subsequent visits with their therapist.&#xD;
+&#xD;
+      Intervention: Standard Program The profile of the child in terms of their developmental&#xD;
+      status based on initial evaluation results and an individualised intervention plan (IIP) will&#xD;
+      be discussed by the therapist with parents. The therapist will coach parents in the context&#xD;
+      of clinic-based play activities and help parents identify contexts and activities at home&#xD;
+      where the parents could follow up on the program at home. Children and their parents will&#xD;
+      receive the standard program which consists of 16 clinic-based intervention sessions of 60&#xD;
+      min each, separated into 3 intervention blocks, with breaks in between so that parents will&#xD;
+      have opportunities to practise at home. This arrangement also allows parents who had missed&#xD;
+      their scheduled sessions to have make-up sessions during the breaks. Intervention sessions&#xD;
+      empower and equip parents with skills and strategies to engage with their child at home.&#xD;
+      Since the program involves behavioural intervention and parent coaching, active participation&#xD;
+      of parent and child are key to each session. However, realistic challenges in terms of&#xD;
+      child/parent or therapist being unwell, or when the parent has work related commitments, may&#xD;
+      require rescheduling or cancellation of some visits. These are not anticipated to have any&#xD;
+      adverse impact on the child's health or the study.&#xD;
+&#xD;
+      Intervention: Telerehab Program The intervention will commence with 2 clinic-based&#xD;
+      intervention sessions of 60 min each to provide adequate opportunity to engage in relational&#xD;
+      family-centred practices, joint decision and planning of the IIP based on initial evaluations&#xD;
+      and explore effective strategies as foundation to the subsequent interactions and coaching&#xD;
+      through VC.&#xD;
+&#xD;
+      Setting: Prior to intervention sessions, the therapist and parent will discuss and identify a&#xD;
+      suitable and feasible location to place the devices of their choice that would provide clear&#xD;
+      unobstructed views of parent-child interactions and activities. For 16 sessions, the&#xD;
+      therapist and parent will log onto the MOHH VC portal for the VC call.&#xD;
+&#xD;
+      VC sessions are provided remotely by the child's therapist from the clinic. Parents who do&#xD;
+      not have the necessary equipment for VC will be provided notebook computers and&#xD;
+      omnidirectional microphones. The MOHH commissioned VC platform will be used for observing the&#xD;
+      home session and coaching parents. Parents will orient the computer's web cam to the selected&#xD;
+      activity area in the home while using the wireless headset for communication. An&#xD;
+      omnidirectional portable microphone will be placed in the vicinity of the routine home&#xD;
+      activity so that the therapist can look, listen and understand the dynamics of parent child&#xD;
+      interactions clearly during a given daily routine involving the child.&#xD;
+&#xD;
+      Telerehab sessions will follow the ethical and practice guidelines of computer-mediated&#xD;
+      intervention including online communication, consent, confidentiality amp; privacy and&#xD;
+      security issues, verbal and nonverbal feedback.&#xD;
+&#xD;
+      Strategies: Parents will be trained in using evidence-based strategies (e.g., follow their&#xD;
+      child's lead, imitation; modelling, communicative temptations, playful obstructions) during&#xD;
+      playtime activities and daily routine.&#xD;
+&#xD;
+      Approach: Intervention sessions will be provided by therapists trained in the FSC and the&#xD;
+      parent coaching protocol. Parent-child interactions during activities at home will be&#xD;
+      observed through the VC platform comissioned by MOHH. Parents will be encouraged to interact&#xD;
+      with their child using strategies aimed at increasing their child's attention and motivation,&#xD;
+      turn-taking routines, initiating and responding to joint attention, communication, etc.&#xD;
+      Sessions will follow the collaborative practice protocol. The protocol provides an outline&#xD;
+      for the session structure (i.e. checking in, reviewing, observation, reflection, explanation&#xD;
+      and coaching of new topics and strategies, setting goals and follow-up planning in the home&#xD;
+      context and closing).&#xD;
+&#xD;
+      At the start of the session, the parents' progress from the past topic and any other updates&#xD;
+      will be reviewed and discussed for 5-10 minutes. This is then followed by a 10-minute&#xD;
+      parent-child play activity. The activity allows the therapist to observe the parent's&#xD;
+      competency in implementing intervention (i.e. the goals and effective use of strategies) from&#xD;
+      the previous session's coaching. Based on observations made, the therapist will coach further&#xD;
+      to strengthen parent's confidence and competency in using strategies to facilitate the&#xD;
+      attainment of specific learning objectives in the IIP. During the final 10-15 minutes of each&#xD;
+      session, the therapist will seek feedback from the parent to understand parent's clarity,&#xD;
+      comfort and confidence in implementing the intervention plan and provide further input and&#xD;
+      information if required. The therapist will also address any challenges faced or anticipated&#xD;
+      in the context of implementing the intervention in the home context. The therapist will&#xD;
+      discuss with parents to implement the intervention plan using at least two play or daily&#xD;
+      routines (naturally occurring opportunities) identified by the parent. Adult learning&#xD;
+      principles will be adopted by the therapist to facilitate active participation in planning&#xD;
+      and intervention implementation. For clinic-based sessions, an additional 15 minutes is&#xD;
+      allocated to allow the child and parents to settle down and transit into and out of the&#xD;
+      therapist's room.&#xD;
+&#xD;
+      Data collection: For all subjects, video recordings of parent child interactions will be&#xD;
+      taken at 4 specific time points, namely Baseline, two Midterm reviews and Final review.&#xD;
+      Specific to the children in the telerehab arm, an additional video recording of parent child&#xD;
+      interaction will be done through VC for each on-site review session, totalling 8 video&#xD;
+      recording time points throughout the program's duration. Recorded videos will be downloaded&#xD;
+      and transferred to a password encrypted hard drive authorized by the institution data&#xD;
+      protection and security teams. These recordings can only be accessed by authorized team&#xD;
+      members with institutional accounts and external raters. They will be used for evaluation on&#xD;
+      the JERI, NDBI-Fi and for inter-rater reliability assessment.&#xD;
+&#xD;
+      Parent-delivered therapy (Home-based) At the end of each intervention session and at the end&#xD;
+      of each intervention block, a joint discussion will be held to craft a plan for parents to&#xD;
+      implement. This will include the functional goals to be embedded, specific strategies to be&#xD;
+      used that the parent has been coached in and the home routines that the parent plans to&#xD;
+      implement. Intervention related resources such as description of strategies and examples of&#xD;
+      embedding within routines and documents on the plan will be shared with parents for their&#xD;
+      reference.&#xD;
+&#xD;
+      Program Timeline While set timeframes for assessments, intervention and reviews are&#xD;
+      important, this study will be implemented under routine operational conditions of the&#xD;
+      clinical service. The standard practice of having the same therapist for each session for&#xD;
+      continuity will be adopted. Scheduling challenges are an unavoidable field condition. This is&#xD;
+      compounded by the need for rescheduling of sessions at times, such as when a child/family&#xD;
+      member or therapist is unwell. For these reasons, the duration of time to complete each&#xD;
+      intervention block may vary slightly for each child. It may also vary between the&#xD;
+      intervention and control groups.&#xD;
+&#xD;
+      In general, where delays from scheduling occur, participants will move to the next phase of&#xD;
+      the study (i.e. intervention and follow-up reviews) only when they have completed all planned&#xD;
+      sessions in the previous phase (e.g., intervention will only begin after all baseline&#xD;
+      assessments have been completed). These are recognised as limitations of the study design and&#xD;
+      will be considered when interpreting the study findings.&#xD;
+&#xD;
+      Follow-up and Review (Standard Program and Telerehab Program) Midterm Progress Review: Visit&#xD;
+      7 to Visit 11 Paediatrician Review (two visits): The paediatrician will review the child's&#xD;
+      general developmental profile, progress and child and family needs. The clinician will make&#xD;
+      appropriate recommendations and referrals as needed.&#xD;
+&#xD;
+      Therapist Review (two visits): Therapists will review the child's developmental profile on&#xD;
+      the FSC and JERI to track progress on the intervention plan and for program evaluation&#xD;
+      purposes. A cost survey will also be conducted with parents during these reviews by a member&#xD;
+      of the study team to identify any changes to household income and cost burden. If parents are&#xD;
+      unable to complete the survey during their session, they will be sent the survey through&#xD;
+      email or asked to answer the questions over a phone call.&#xD;
+&#xD;
+      Midpoint IIP review: Therapists will review the child on the individualized intervention plan&#xD;
+      (IIP) developed after baseline assessment and plan for further intervention.&#xD;
+&#xD;
+      Final Reviews and Assessments: Visit 12 to 14 The final reviews and assessments will be&#xD;
+      conducted across three sessions, which can take place in any order depending on the&#xD;
+      participant's availability and therapist's schedule.&#xD;
+&#xD;
+      Final Review with Therapist: The child will be evaluated on the baseline assessment measures.&#xD;
+      Parents will also be given a parent satisfaction survey, cost survey and FEIQoL survey to&#xD;
+      complete. If parents are unable to complete the surveys during their clinic-based session,&#xD;
+      they will be sent the surveys through email or asked to answer the questions over a phone&#xD;
+      call. For children in the telerehab group, there will be a VC review in addition to the&#xD;
+      clinic-based assessment.&#xD;
+&#xD;
+      Nurse Assessment: The child will be evaluated on MSEL. The Parental Stress Index will be&#xD;
+      administered as part of this assessment.&#xD;
+&#xD;
+      Psychologist Assessment: VABS-III will be administered to the parent for this assessment.&#xD;
+&#xD;
+      Final Paediatrician review: Visit 15 This last paediatrician visit is for the paediatrician&#xD;
+      to share the reports on the evaluations, discuss progress and further needs of child and&#xD;
+      family.&#xD;
+&#xD;
+      Transfer to Early Intervention Programs CDU provides interim therapy for children pending&#xD;
+      their enrolment into an EIPIC (or private early intervention service). Under normal&#xD;
+      circumstances, the child does not receive any intervention from EIPIC in the first 10 weeks&#xD;
+      on enrolment as the child is being assessed. In this transition period, the child continues&#xD;
+      to receive CDU intervention per standard clinical practice. As such, children in this study&#xD;
+      will continue to receive intervention for 10 weeks after EIPIC enrolment. Similarly,&#xD;
+      participants who have been transferred to a private intervention service will continue to&#xD;
+      receive intervention per the study protocol as long as they have not started receiving&#xD;
+      intervention at the private service.&#xD;
+&#xD;
+      Children also continue to remain as CDU patients under the care of their doctors until age 7,&#xD;
+      regardless of whether they have been enrolled to an EIPIC or private service. As such, study&#xD;
+      participants who have been transferred to an EIPIC will still be assessed per protocol for&#xD;
+      Midterm Progress Reviews and Final Reviews and Assessments. As far as possible, these&#xD;
+      assessments will be scheduled to coincide with their doctor's follow-up at the CDU as part of&#xD;
+      standard care.&#xD;
+&#xD;
+      (i) The study is designed as a non-inferiority study to compare the changes in MSEL between 2&#xD;
+      programs.&#xD;
+&#xD;
+      The investigators expected that the change in MSEL score for the subjects in telerehab&#xD;
+      program arm will be slighter better than that in the standard program arm by 1.5 units.&#xD;
+      Assuming SD of changes in MSEL score be 15 units, and 5 units as equivalence range, it is&#xD;
+      sufficient to recruit 132 subjects (66 in each arm) with 80% power and 5% significant level.&#xD;
+      The investigators decided to recruit 200 subjects in total (100 in each arm) after&#xD;
+      considering withdrawals and lost to follow up. Block randomisation will be used to allocate&#xD;
+      the recruited subjects into one of the interventions. A randomisation list will be generated&#xD;
+      by the study statistician and envelopes will be prepared. 10 parents will be recruited from&#xD;
+      both groups for semi-structured in-depth interviews. The investigators aim to recruit a total&#xD;
+      of 20 parents for the interview as it is expected to be a sufficient number to reach&#xD;
+      qualitative thematic saturation. Up to 5 therapists involved in delivering therapy will be&#xD;
+      involved in a Focus Group Discussion. The investigators will conduct in-depth interview with&#xD;
+      the program staffs who are involved in coordinating and/or overseeing the care of patients&#xD;
+      recruited to the study (Paediatrician, Study Coordinator, Patient Service Associate). The&#xD;
+      investigators will recruit up to a maximum of 10 staff. (ii) As the study is conducted as&#xD;
+      part of routine care and operations, there are practical constraints that may cause protocol&#xD;
+      deviations to occur. Rescheduling of appointments by the parents (e.g. due to work&#xD;
+      constraints, child's sickness, other events) or defaulting appointments is inevitable. Hence,&#xD;
+      for per-protocol analyses, only participants with major protocol deviation, which will be&#xD;
+      defined as participants who do not complete 80% of the intended therapy sessions allocated&#xD;
+      for their study arm, will be excluded. This means that a control arm participant must attend&#xD;
+      at least 8 out of 10 clinic-based sessions. For the remaining 2 sessions, participants can&#xD;
+      either be attending it through video-conferencing (due to the COVID-19 pandemic) or miss the&#xD;
+      appointment. For the randomized trial, since the study is a non-inferiority study,&#xD;
+      statistical analysis will be carried out on a per-protocol basis. Subjects with any major&#xD;
+      protocol deviation as defined above will be excluded from the final analysis. All the&#xD;
+      demographic, clinical and cost characteristics will be analyzed descriptively. Mean (SD) or&#xD;
+      median (range), whichever is more appropriate will be reported for numerical variables, while&#xD;
+      N (%) will be reported for categorical variables.2-sample T test, or Mann-Whitney U test will&#xD;
+      be used to compare the change of MSEL score between 2 arms. Mean difference and 95% CI will&#xD;
+      be estimated. If the lower boundary of the 95% CI is more than -5, non-inferiority will be&#xD;
+      declared. Changes in the quality of parent child engagement, parental stress index score, and&#xD;
+      adaptive score will be compared by using either 2-sample T test, or Mann-Whitney U test,&#xD;
+      whichever is more appropriate. Linear regression will be used to adjust for any co-variates.&#xD;
+&#xD;
+      To examine cost-effectiveness, the investigators will compare resource utilization between&#xD;
+      treatment and control groups to estimate resource and cost differences in absolute terms from&#xD;
+      the direct medical cost perspective as well as the societal perspective (inclusive of the&#xD;
+      direct costs of travel and the indirect cost of parental time). As the trial focuses on&#xD;
+      non-inferiority, the assessment of cost-effectiveness will rely on whether the intervention&#xD;
+      is cost-saving relative to the standard of care. The investigators will also perform&#xD;
+      modelling estimates to quantify the uncertainty surrounding the incremental&#xD;
+      cost-effectiveness ratio.&#xD;
+&#xD;
+      For the interviews, applied thematic analysis would be used to analyse the qualitative data&#xD;
+      gathered to understand the concerns and experience of the programme from the perspectives of&#xD;
+      the parents. A professional transcriptionist will complete data transcription. A standard&#xD;
+      operating guideline and format of the verbatim will be established jointly by the principal&#xD;
+      researcher and the transcriptionist. Subsequently, the qualitative analysis research team&#xD;
+      will perform an iterative and inductive process of identifying new themes and sub-themes&#xD;
+      derived from participants' narratives. A codebook that best describe the data would be&#xD;
+      developed and used through coding and constant comparison to establish inter-coder&#xD;
+      reliability by the team for the analysis of all transcripts.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 7, 2019</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants willing to participate in the proposed research study and providing informed consent will be randomized to either the experimental (telerehab program) or control (standard program) arm of the intervention.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Computer-generated randomisation will be used to randomly assign the participants to one of the intervention groups. Block randomisation will be used to allocate the recruited subjects into one of the interventions. A randomisation list will be generated by the study statistician and envelopes will be prepared. Although the allocation of intervention will be concealed and the study team will not know in advance which subject will receive which intervention, the blinding will not be possible once the intervention is assigned. Assessors of the initial and final MSEL were not told of the intervention status of the patient to avoid bias in outcome assessment. Blinding of the parents is not possible in the context of this study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mullen's Scale of Early Learning (MSEL)</measure>
+    <time_frame>Change from baseline MSEL assessment at study completion, an average of 1 year</time_frame>
+    <description>MSEL is a standardized developmental assessment to examine developmental skills using 5 subscales: Gross Motor, Visual Reception, Fine Motor, Expressive Language and Receptive Language. For each scale, the assessment derives a T-score with a mean of 50 and standard deviation of 10, a percentile score, and an age equivalent. An early learning composite (ELC) score is calculated from the total of the subscale scores (except the gross motor scale) with a mean of 100 and standard deviation of 15 (Bacon et al., 2014). The use of MSEL subscale scores allow for greater granularity of analysis, to examine the impact of intervention on specific functions of the child and for separate assessment of verbal and non-verbal abilities (Vismara et al, 2009). Differences in the T-scores on the subscales of the MSEL as well as MSEL ELC from baseline to program conclusion will be calculated and compared between the two intervention groups. The margin of non-inferiority is set at 5 units.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Vineland Adaptive Behaviour Scales (VABS-III)</measure>
+    <time_frame>Change from baseline VABS-III assessment at study completion, an average of 1 year</time_frame>
+    <description>VABS-III is a standardised assessment tool that utilises a semi-structured interview format to measure adaptive behaviour. The main domains are: Communication, Daily Living Skills and Socialization. VABS-III provides a measure of adaptive skills used to cope with challenges of daily living. A caregiver completes a questionnaire regarding the individual's current level of functioning across three domains: communication, daily living skills and socialization. The Vineland Scales are applicable to children with and without delays from birth to 18 years, 11 months. All scales use standard scores with a mean of 100 and a standard deviation of 15, a percentile score, and an age equivalent indicating at what developmental age the individual is performing. Scores on the three domains are combined to obtain an overall adaptive behavior composite (ABC) with a mean of 100 and a standard deviation of 15.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Joint Engagement Rating Inventory (JERI)</measure>
+    <time_frame>Change from baseline parent-child interaction based on JERI at study completion, an average of 1 year</time_frame>
+    <description>JERI measures joint engagement, communication dynamics and shared topics during parent-child interactions (Adamson &amp; Bakeman, 2012). Raters will view video recordings of parent-child interaction and assess the interaction on a 7-point Likert scale. While the original inventory consists of a total of 27 items, JERI has been adapted as an 8-item scale in this study that cuts across the 4 domains of joint engagement, child's participation in joint engagement, caregiver behaviour during engagement and the quality of the caregiver-child interactions. Since joint engagement is a precursor for subsequent social interaction and language development, it serves as an important component of early intervention. The change scores from baseline to midterm to program conclusion will be compared between the two intervention groups to see if telerehabilitation is as effective as standard care in enhancing parent-child interaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parenting Stress Index-Short Form (PSI-SF)</measure>
+    <time_frame>Change from baseline PSI-SF assessment at study completion, an average of 1 year</time_frame>
+    <description>PSI-SF (Loyd &amp; Abidin, 1985) is an abbreviated version of the PSI. It is a 36-item self-report questionnaire assessing the level of relative stress in a parent-child relationship. Each item requires the parent/caregiver to rate the degree to which s/he agrees with a statement on a five-point Likert scale (1 = Strongly Agree, 2 = Agree, 3 = Not Sure, 4 = Disagree, and 5 = Strongly Disagree). The questionnaire is divided into three subscales: Parental Distress (PD), Parent-Child Dysfunctional Interaction (P-CDI), and Difficult Child (DC). The PSI-SF produces subscale raw scores ranging from 12 to 60 and an overall Total Stress score that ranges from 36 to 180. A higher score indicates a greater level of stress. Although this parent coaching program does not aim to directly decrease parental stress, equipping parents with strategies to manage and support their child's behaviour will increase their self-efficacy and could result in lower parental stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Families in Early Intervention Quality of Life (FEIQoL)</measure>
+    <time_frame>Change from baseline FEIQoL assessment at study completion, an average of 1 year</time_frame>
+    <description>FEIQoL includes 40 items across 4 domains rated on a 5-point Likert scale - (a) Family Relationships (Problem solving, communication, parenting, relationships with extended family, and family participation in social activities); (b) Access to Information and Services (Knowledge of their child's disability, child development, managing challenging behaviors and resources such as support services, medical assistance, and organizations in their community); (c) Child Functioning (Child's engagement, independence, and social relationships within family daily routines) and (d) Overall Life Situation (Fulfillment of family needs in health, financial resources, and employment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost survey</measure>
+    <time_frame>Change from baseline cost assessment at study completion, an average of 1 year</time_frame>
+    <description>The cost survey will measure non-healthcare direct and indirect costs as a result of attending intervention sessions, including transportation costs, additional assistance costs and productivity losses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent Satisfaction Survey</measure>
+    <time_frame>At study completion, an average of 1 year</time_frame>
+    <description>This 13-item survey uses a 5-point Likert scale to obtain parents' feedback at the end of the program. Each item requires the parent/caregiver to rate the degree to which s/he agrees with a statement on a five-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NDBI-Fi</measure>
+    <time_frame>Change from baseline parent intervention fidelity based on NDBI-Fi at study completion, an average of 1 year</time_frame>
+    <description>NDBI-Fi is an 8-item observational rating scheme that evaluates caregiver implementation of specific strategies that have been identified to be common among naturalistic developmental behavioural intervention programs. The rating scheme uses a 5-point Likert scale to evaluate parents' implementation of strategies based on short videos of caregiver-child interactions during free play. Since the intervention model involves parent coaching where parents play a key role in actively learning and implementing intervention strategies, parents should demonstrate high fidelity to facilitate their child's improvement.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>Autism Spectrum Disorder</condition>
+  <arm_group>
+    <arm_group_label>Standard Program</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The current standard program for early intervention treatment is in-clinic therapy based on the Foundational Skills Curriculum (FSC): a framework for early intervention developed from outcomes of an Autism research project conducted in the UK. This framework provides a clear and systematic approach to understanding the child's functioning in 3 core areas of development (across 141 items): Play, Social Interaction, and Communication. Children and their parents will receive the standard program which consists of 16 clinic-based intervention sessions of 60 minutes each, separated into 3 intervention blocks, with breaks in between so that parents will have opportunities to practise at home.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Telerehab Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The telerehab program will provide parent coaching through video conferencing using the FSC. The telerehabilitation program commences with 2 clinic-based intervention sessions of 60 minutes each followed by 16 video conferencing-based sessions of 45 minutes each. For clinic-based sessions, an additional 15 minutes is allocated to allow parent-child dyads to transit into and out of the therapist's room.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Foundational Skills Curriculum</intervention_name>
+    <description>The therapist will coach parents in the context of clinic-based play activities and help parents identify contexts and activities at home where the parents could follow up on the program at home. Intervention sessions empower and equip parents with skills and strategies to engage with their child at home. Since the program involves behavioural intervention and parent coaching, active participation of parent and child are key to each session.</description>
+    <arm_group_label>Standard Program</arm_group_label>
+    <other_name>Naturalistic, parent-implemented intervention</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Foundational Skills Curriculum - Telerehabilitation</intervention_name>
+    <description>Parent-child interactions during activities at home will be observed through video conferencing. Parents will be encouraged to interact with their child using strategies aimed at increasing their child's attention and motivation, turn-taking routines, initiating and responding to joint attention, communication, etc. Intervention sessions empower and equip parents with skills and strategies to engage with their child at home. Since the program involves behavioural intervention and parent coaching, active participation of parent and child are key to each session.</description>
+    <arm_group_label>Telerehab Program</arm_group_label>
+    <other_name>Naturalistic, parent-implemented intervention delivered through vide conferencing</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Children aged 15-48 months&#xD;
+&#xD;
+          2. Children meet cut off score for Autism Spectrum Disorders (ASD) on Autism Diagnostic&#xD;
+             Observation Schedule-2 (ADOS): The Autism Diagnostic Observation Schedule (ADOS) is a&#xD;
+             semi-structured assessment of communication, social interaction, and play (or&#xD;
+             imaginative use of materials) for individuals suspected of having autism or other&#xD;
+             pervasive developmental disorders. The ADOS consists of a toddler module and four&#xD;
+             other modules, each of which is appropriate for children and adults of differing&#xD;
+             developmental and language levels, ranging from nonverbal to verbally-fluent. The ADOS&#xD;
+             consists of standardized activities that allow the examiner to observe the occurrence&#xD;
+             or non-occurrence of behaviours that have been identified as important to the&#xD;
+             diagnosis of autism and other pervasive developmental disorders across developmental&#xD;
+             levels and chronological ages.&#xD;
+&#xD;
+          3. Parent(s) is/are willing and able to give informed consent&#xD;
+&#xD;
+          4. Families with at least one parent who is digitally literate with the home use of the&#xD;
+             internet and access to Wi-Fi&#xD;
+&#xD;
+          5. The same parent(s) or caregiver(s) in attendance for most intervention sessions and&#xD;
+             all review sessions in order to monitor performance across outcome measures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participants not having access to the internet will be excluded&#xD;
+&#xD;
+          2. Received or receiving other treatment or interventions (Note: this is an exclusion&#xD;
+             criterion but not a withdrawal criterion)&#xD;
+&#xD;
+          3. Children with genetic and other associated auditory or visual impairment and/or&#xD;
+             seizure disorders&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Months</minimum_age>
+    <maximum_age>48 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National University Hospital, Singapore</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119074</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <reference>
+    <citation>Loyd BH, Abidin RR. Revision of the Parenting Stress Index. J Pediatr Psychol. 1985 Jun;10(2):169-77. doi: 10.1093/jpepsy/10.2.169. No abstract available.</citation>
+    <PMID>4020601</PMID>
+  </reference>
+  <reference>
+    <citation>Bacon EC, Dufek S, Schreibman L, Stahmer AC, Pierce K, Courchesne E. Measuring outcome in an early intervention program for toddlers with autism spectrum disorder: use of a curriculum-based assessment. Autism Res Treat. 2014;2014:964704. doi: 10.1155/2014/964704. Epub 2014 Mar 10.</citation>
+    <PMID>24711926</PMID>
+  </reference>
+  <reference>
+    <citation>Vismara LA, McCormick C, Young GS, Nadhan A, Monlux K. Preliminary findings of a telehealth approach to parent training in autism. J Autism Dev Disord. 2013 Dec;43(12):2953-69. doi: 10.1007/s10803-013-1841-8.</citation>
+    <PMID>23677382</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 2, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Parent coaching</keyword>
+  <keyword>Parent-implemented intervention</keyword>
+  <keyword>Telerehabilitation</keyword>
+  <keyword>Randomised controlled trial</keyword>
+  <keyword>Non-inferiority</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Autistic Disorder</mesh_term>
+    <mesh_term>Autism Spectrum Disorder</mesh_term>
+    <mesh_term>Child Development Disorders, Pervasive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 19, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/49/NCT05792449/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/49/NCT05792449/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

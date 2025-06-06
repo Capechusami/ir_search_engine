@@ -1,0 +1,547 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05612035</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5475-013</org_study_id>
+    <secondary_id>MK-5475-013</secondary_id>
+    <secondary_id>2022-501201-13-00</secondary_id>
+    <nct_id>NCT05612035</nct_id>
+  </id_info>
+  <brief_title>MK-5475-013 INSIGNIA-PH-COPD: A Study of the Efficacy and Safety of MK-5475 (an Inhaled sGC Stimulator) in Adults With PH-COPD</brief_title>
+  <official_title>A Phase 2a Randomized, Placebo-Controlled Clinical Study to Evaluate the Efficacy and Safety of MK-5475 in Adults With Pulmonary Hypertension Associated With Chronic Obstructive Pulmonary Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and efficacy of once daily oral&#xD;
+      inhalation dose of MK-5475 380 µg in participants 40 to 80 years (inclusive) with Pulmonary&#xD;
+      Hypertension associated with Chronic Obstructive Pulmonary Disease (PH-COPD).&#xD;
+&#xD;
+      The primary hypothesis of the study is MK-5475, a soluble Guanylate Cyclase (sGC) stimulator&#xD;
+      is superior to placebo in increasing 6 Minute Walking Distance (6MWD) from baseline at Week&#xD;
+      24.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2023</start_date>
+  <completion_date type="Anticipated">September 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 14, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean Change From Baseline in 6-minute Walk Distance (6MWD) at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+    <description>6MWD is assessed using the 6-minute walk test (6MWT).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline in 6MWD at Week 12</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <description>6MWD is assessed using the 6-minute walk test (6MWT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline in N-Terminal Pro B-Type Natriuretic Peptide (NT-proBNP) at Week 12</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <description>NT-proBNP was measured at baseline and Week 12.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline in NT-ProBNP at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+    <description>NT-proBNP was measured at baseline and Week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Whose World Health Organization-Functional Class (WHO-FC) Does not Worsen Relative to Baseline at Week 12</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <description>Participants are assigned one of four WHO-FC, dependent on limits of physical activity. As WHO-FC increases from I to IV, limits of physical activity increase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Whose WHO-FC Does not Worsen Relative to Baseline at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+    <description>Participants are assigned one of four WHO-FC, dependent on limits of physical activity. As WHO-FC increases from I to IV, limits of physical activity increase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With One or More Adverse Events (AEs)</measure>
+    <time_frame>Up to Week 104</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease (new or exacerbated) temporally associated with the use of a study intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Discontinued Study Treatment due to an AE</measure>
+    <time_frame>Up to Week 102</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease (new or exacerbated) temporally associated with the use of a study intervention. The percentage of participants who discontinue study treatment due to an AE will be presented.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Pulmonary Hypertension</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <arm_group>
+    <arm_group_label>MK-5475</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with PH-COPD will receive 380 µg of MK-5475 as an oral inhalation once daily for 24 weeks (base period) and thereafter for 18 months (optional extension period).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants with PH-COPD will receive matching placebo as an oral inhalation once daily for 24 weeks (base period) and then 380 µg of MK-5475 as an oral inhalation once daily for 18 months (optional extension period).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MK-5475</intervention_name>
+    <description>MK-5475 380 µg administered as dry powder inhalation once daily.</description>
+    <arm_group_label>MK-5475</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered as dry powder inhalation once daily.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        The key inclusion and exclusion criteria include but are not limited to the following:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has Group 3.1 pulmonary hypertension chronic obstructive pulmonary disease (PH-COPD)&#xD;
+             as defined by the Clinical Classification of Pulmonary Hypertension.&#xD;
+&#xD;
+          -  Has a right heart catheterization (RHC) at screening or historical RHC within 12&#xD;
+             months before screening that meets hemodynamic criteria.&#xD;
+&#xD;
+          -  Has evidence of obstructive lung disease on pulmonary function testing (PFT) performed&#xD;
+             at screening.&#xD;
+&#xD;
+          -  Has a WHO Functional Class assessment of Class II to IV.&#xD;
+&#xD;
+          -  If on supplemental oxygen, the regimen must be stable.&#xD;
+&#xD;
+          -  Has stable and optimized chronic, baseline COPD-specific therapy.&#xD;
+&#xD;
+          -  If on antihypertensives and/or a diuretic regimen has stable concomitant use.&#xD;
+&#xD;
+          -  If on anticoagulants has stable concomitant use.&#xD;
+&#xD;
+          -  Is of any sex/gender from 40 to 80 years of age inclusive.&#xD;
+&#xD;
+          -  Female is not pregnant or breastfeeding, and is not of childbearing potential or uses&#xD;
+             acceptable contraceptive method or abstains from sexual intercourse, or has a negative&#xD;
+             highly sensitive pregnancy test within 24 hours before the first dose of study&#xD;
+             intervention, or whose history and sexual activity has been reviewed by the&#xD;
+             investigator.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Has history of Group 1 pulmonary arterial hypertension (PAH), Groups 2, 4 or 5&#xD;
+             pulmonary hypertension (PH).&#xD;
+&#xD;
+          -  Has history of non-COPD related Group 3 PH.&#xD;
+&#xD;
+          -  Has evidence of untreated more than mild obstructive sleep apnea.&#xD;
+&#xD;
+          -  Has evidence or history of left heart disease.&#xD;
+&#xD;
+          -  Expects to receive a lung and/or heart transplant from screening through the end of&#xD;
+             the 24 week Base Period.&#xD;
+&#xD;
+          -  Has evidence of a resting oxygen saturation (SpO2) &lt; 90%.&#xD;
+&#xD;
+          -  Has experienced a moderate or severe COPD exacerbation within 2 months before&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Has experienced right heart failure within 2 months before randomization.&#xD;
+&#xD;
+          -  Has uncontrolled tachyarrhythmia.&#xD;
+&#xD;
+          -  Has acute coronary syndrome, undergone coronary artery bypass graft, or percutaneous&#xD;
+             coronary intervention within 2 months before randomization.&#xD;
+&#xD;
+          -  Has evidence of significant chronic renal insufficiency.&#xD;
+&#xD;
+          -  Has evidence of chronic liver disease, portal hypertension, cirrhosis, or hepatic&#xD;
+             abnormalities.&#xD;
+&#xD;
+          -  Initiated a pulmonary rehabilitation program within 2 months before randomization.&#xD;
+&#xD;
+          -  Has impairments that limit the ability to perform 6MWT.&#xD;
+&#xD;
+          -  Has history of cancer.&#xD;
+&#xD;
+          -  Is a user of illicit drugs or has a recent history of drug/alcohol abuse or&#xD;
+             dependence.&#xD;
+&#xD;
+          -  Has used PAH-specific therapies within 2 months of randomization.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinovation Intl. Corp. ( Site 0108)</name>
+      <address>
+        <city>Sebring</city>
+        <state>Florida</state>
+        <zip>33870</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>863-314-8971</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lexington VA Medical Center - Cooper Division ( Site 0137)</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>859-233-4511</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Creighton University Clinical Research Office ( Site 0123)</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>402-280-4146</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital-Department of Respiratory and Sleep Medicine ( Site 0902)</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+612 8890 6797</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Misericordiae Limited ( Site 0905)</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>61731632128</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Thoraxklinik-Heidelberg gGmbH-Zentrum für Pulmonale Hypertonie ( Site 1603)</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Wurttemberg</state>
+        <zip>69126</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>00496221 396 8053</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover ( Site 1602)</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>495115323531</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Carl Gustav Carus Dresden ( Site 1601)</name>
+      <address>
+        <city>Dresden</city>
+        <state>Sachsen</state>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+49 35145813981</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cattinara Hospital ( Site 1801)</name>
+      <address>
+        <city>Trieste</city>
+        <state>Friuli-Venezia Giulia</state>
+        <zip>34149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+390403994665</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Gerardo-ASST Monza-Cardio Vasolare- Clinica pneumologica ( Site 1802)</name>
+      <address>
+        <city>Monza</city>
+        <state>Lombardia</state>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+390392339245</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gachon University Gil Medical Center ( Site 1101)</name>
+      <address>
+        <city>Namdong-gu</city>
+        <state>Incheon</state>
+        <zip>21565</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+82-10-3313-7129</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital ( Site 1103)</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>82220720243</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center ( Site 1102)</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>0230103994</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Marqués de Valdecilla-Pneumology ( Site 2003)</name>
+      <address>
+        <city>Santander</city>
+        <state>Cantabria</state>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>34 942 20 35 65</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HOSPITAL CLÍNIC DE BARCELONA ( Site 2001)</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluna</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>34 932275779</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron ( Site 2002)</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34 932746157</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HOSPITAL UNIVERSITARIO VIRGEN DEL ROCIO ( Site 2005)</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>0034667956480</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cantonal Hospital St.Gallen ( Site 2203)</name>
+      <address>
+        <city>st.Gallen</city>
+        <state>Sankt Gallen</state>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>43714943692</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UniversitätsSpital Zürich ( Site 2201)</name>
+      <address>
+        <city>Zürich</city>
+        <state>Zurich</state>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+41797962829</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Estimate">May 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+    <mesh_term>Hypertension, Pulmonary</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

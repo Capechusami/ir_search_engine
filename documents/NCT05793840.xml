@@ -1,0 +1,251 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793840</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AID-MRI-001</org_study_id>
+    <nct_id>NCT05793840</nct_id>
+  </id_info>
+  <brief_title>International Study of Artificial Intelligence-based Diagnosis of Cardiomyopathy Using Cardiac MRI (AID-MRI)</brief_title>
+  <acronym>AID-MRI</acronym>
+  <official_title>International Study of Artificial Intelligence-based Diagnosis of Cardiomyopathy Using Cardiac MRI (AID-MRI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this observational study is to test the accuracy of computer (machine&#xD;
+      learning-based) algorithms to diagnosis heart diseases and predict if and when heart&#xD;
+      complications will occur. The AID-MRI research team has developed algorithms aimed at&#xD;
+      modelling 3D heart structure and movement (deformation), showing these may be of value to&#xD;
+      achieve these tasks. The International AID-MRI study aims to test the performance of these&#xD;
+      algorithms across 11 international sites, using data obtained from a broad variety of&#xD;
+      patients using different MRI scanners. In addition to an established cohort of 10,000&#xD;
+      patients, AID-MRI will recruit an additional 1100 patients from its international sites,&#xD;
+      these serving as an external validation cohort.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are many types of heart muscle diseases that can reduce heart function or lead to heart&#xD;
+      rhythm problems, these collectively called cardiomyopathies. Cardiac MRI is a non-invasive&#xD;
+      test without radiation that can be used to diagnose these diseases as well as help to predict&#xD;
+      future complications. Currently, the interpretation of these tests relies on the experience&#xD;
+      of physicians looking at these images and their ability to recognize specific features.&#xD;
+      However, computers can be trained to pick up more subtle features of disease from images that&#xD;
+      a human may not see, and can be more rapidly trained from thousands of cases where the final&#xD;
+      diagnosis has already been confirmed. The AID-MRI research team has collected cardiac MRI&#xD;
+      images and heart diagnoses from over 10,000 patients in Alberta, Canada and is using this&#xD;
+      data to train computer algorithms to diagnose heart disease and predict if heart&#xD;
+      complications will occur in the future. The International AID-MRI study is a publicly funded,&#xD;
+      investigator initiated study testing the accuracy of these algorithms to accomplish these&#xD;
+      tasks in an international setting.&#xD;
+&#xD;
+      The primary approach being tested is conversion of raw 2D cine MRI images into a standardized&#xD;
+      4D model of cardiac shape and deformation. This approach has been shown to allow computer&#xD;
+      algorithms to recognize different cardiomyopathies. We will test the ability of this data to&#xD;
+      inform computer algorithms to i) decide what disease a patient has, and ii) predict if a&#xD;
+      patient will experience a major cardiac complication in the near future. The value and&#xD;
+      influence of other non-imaging data (i.e., patient features), to improve performance will&#xD;
+      also be assessed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 31, 2023</start_date>
+  <completion_date type="Anticipated">July 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prediction accuracy</measure>
+    <time_frame>2 years</time_frame>
+    <description>The primary endpoint is performance gains using 3D myocardial deformation analysis (3D-MDA) classification versus raw image-based classification. The primary outcome will be assessed in 1,000 externally recruited subjects.&#xD;
+For diagnostic models, performance will be described by AUC, Precision, Recall and F1 for each disease class. Predicted disease class will be defined as the highest probability observed across all possible classes. Ground truth will be assigned by pre-defined diagnostic criteria by enrolling site PIs following CMR interpretation with access to medical records.&#xD;
+For prognostic models, algorithm-predicted major adverse cardiovascular events (MACE) will be tested from CMR to first observed MACE. Both regression (time to event) and classification modelling (at 1-year and 2-year time points) will be assessed. Classification performance will be assessed similar to diagnostic models. Regression performance will be assessed by time-dependent AUC (tAUC).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Efficacy</measure>
+    <time_frame>2 years</time_frame>
+    <description>The secondary outcomes of AID-MRI are aimed at identifying the influence of bias in AI-model performance and to assess the capacity of image pre-processing using 3D-MDA to mitigate such influence and improve generalizability. This will be achieved through stratified analyses of the primary endpoint across pre-defined sub-groups of the prospectively recruited patient population.&#xD;
+These analyses will include the following:&#xD;
+Comparative model performance in female versus male birth sex&#xD;
+Comparative model performance in major ethnicity subgroups&#xD;
+Comparative model performance in binary versus non-binary gender&#xD;
+Comparative model performance based on vendor hardware and field strength</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1100</enrollment>
+  <condition>Cardiomyopathies</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients referred to CMR clinical services at recruiting medical centers for the evaluation&#xD;
+        of known or suspected ischemic or non-ischemic cardiomyopathy.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must have provided informed consent in a manner approved by the Investigator's&#xD;
+             Institutional Review Board (IRB) prior to any study-related procedure being performed.&#xD;
+             If a participant is unable to provide informed consent due to his/her medical&#xD;
+             condition, the participant's legally authorized representative may consent on behalf&#xD;
+             of the study participant, as permitted by local law and institutional Standard&#xD;
+             Operating Procedures&#xD;
+&#xD;
+          -  Age ≥18 years at the time of informed consent;&#xD;
+&#xD;
+          -  In-patient or out-patient referral for CMR imaging;&#xD;
+&#xD;
+          -  Referral for suspected acute or chronic cardiomyopathy state(s) of ischemic and/or&#xD;
+             non-ischemic etiology;&#xD;
+&#xD;
+          -  Recently drawn (≤180 days) and available serum laboratory markers of hemoglobin,&#xD;
+             hematocrit, and creatinine;&#xD;
+&#xD;
+          -  Willing and able to abide by all study requirements&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Standard contraindication(s) to magnetic resonance imaging performance based upon&#xD;
+             local site policies;&#xD;
+&#xD;
+          -  Able to breath hold (i.e. real-time cine imaging not supported);&#xD;
+&#xD;
+          -  Current or recent (≤ 60 days) pregnancy;&#xD;
+&#xD;
+          -  Current or recent (≤ 60 days) sepsis requiring intubation;&#xD;
+&#xD;
+          -  Cardiac implantable electronic implanted device (CIED) of any type (excluded due to&#xD;
+             likelihood of reduced image quality and anticipated influence on algorithm&#xD;
+             performance), inclusive of permanent pacemaker, implantable cardioverter defibrillator&#xD;
+             or implantable loop recorder;&#xD;
+&#xD;
+          -  Severe aortic valve stenosis (i.e., mean AVG &gt;40 mmHg);&#xD;
+&#xD;
+          -  Prosthetic valve (mechanical or bioprosthetic) in mitral or aortic position&#xD;
+&#xD;
+          -  Congenital heart disease, inclusive of any surgically-corrected disease, dextrocardia,&#xD;
+             Tetralogy of Fallot, uncorrected partial anomalous pulmonary venous return, or large&#xD;
+             atrial septal defect (Qp:Qs ≥1.5) [Note: bicuspid aortic valve disease is not an&#xD;
+             exclusion criterion in isolation];&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James White, MD, FRCP(C)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sandra Rivest, RN, CCRP</last_name>
+    <phone>403-944-1961</phone>
+    <email>Sandra.Rivest@albertahealthservices.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jacqueline Flewitt, BSc</last_name>
+    <phone>403-944-2541</phone>
+    <email>jaflewit@ucalgary.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Foothills Medical Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N2T9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>South Health Campus</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3M1M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peter Lougheed Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rockyview Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>June 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Calgary</investigator_affiliation>
+    <investigator_full_name>James White</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>deep learning</keyword>
+  <keyword>cardiac mri</keyword>
+  <keyword>strain analysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiomyopathies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A user consortium will be established to access collective data resources contributing to the AID-MRI study. Each participating site will be permitted to submit voluntary withdrawal from the consortium at any time with complete removal of data resources. Proposed studies leveraging AID-MRI consortium data resources will be reviewed and must be approved the steering committee. Data resources will be accessed on a secure server &quot;under glass&quot;, meaning that data resources cannot be removed from the host's environment. Requesting teams will be responsible for establishing and maintaining their own environment for data analyses on a provisioned virtual machine.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>18 months following completion of study</ipd_time_frame>
+    <ipd_access_criteria>Research only purposes. Submission, review and approval by study steering committee.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

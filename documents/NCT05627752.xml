@@ -1,0 +1,187 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627752</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ZhongnanH PCa</org_study_id>
+    <nct_id>NCT05627752</nct_id>
+  </id_info>
+  <brief_title>Docetaxel Alone or in Combination With Enzalutamide for mCRPC Previously Treated With Abiraterone at mHSPC Stage</brief_title>
+  <official_title>Docetaxel Alone or in Combination With Enzalutamide as First-line Treatment for Metastatic Castration Resistant Prostate Cancer Previously Treated With Abiraterone: a Single Center, Randomized, Open-label Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhongnan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zhongnan Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      New androgen pathway targeting agents (ARTA), including Abiraterone acetate, Apalutamide and&#xD;
+      Enzalutamide, are approved and used in treatment of metastatic hormonal sensitive prostate&#xD;
+      cancer(mHSPC). However, the development of castration-resistance prostate cancer(CRPC) is&#xD;
+      only a matter of time. The use of sequential ARTAs in mCRPC showed limited benefit in&#xD;
+      retrospective series and prospective trials. Therefore this sequence should be avoided&#xD;
+      because of known cross resistance and the availability of chemotherapy and poly adenosine&#xD;
+      diphosphate-ribose polymerase(PARP) inhibitors (if a relevant mutation is present).&#xD;
+&#xD;
+      Recently, a randomized controlled trial(RCT), the ABIDO-SOGUG, indicated that compared with&#xD;
+      docetaxel, maintaining Abiraterone added to docetaxel in chemotherapy-naive patients who have&#xD;
+      experienced cancer progression to Abiraterone treatment could not improve radiographic&#xD;
+      progression-free survival or the other endpoints.However, another RCT, the PRESIDE trial,&#xD;
+      indicated that in patients who had progressed on Enzalutamide, continued Enzalutamide&#xD;
+      treatment in combination with docetaxel led to a significant improvement of PFS compared with&#xD;
+      placebo plus docetaxel.&#xD;
+&#xD;
+      The aims of this trial is to assess both the efficacy and safety of docetaxel in combination&#xD;
+      with Enzalutamide as first-line treatment in mCRPC patients progressed on Abiraterone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>progression-free survival (PFS)</measure>
+    <time_frame>up to 6 months</time_frame>
+    <description>The time from the beginning of randomization to the first disease progression (that is, biochemical progression, tumor growth, or the discovery of new lesions) or death due to any reason.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>overall survival (OS)</measure>
+    <time_frame>up to 16 months</time_frame>
+    <description>Time from the beginning of randomization to death due to any reason.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Prostate Cancer</condition>
+  <condition>Castrate Resistant Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Group of Combination</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Docetaxel plus Enzalutamide</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group of Docetaxel</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Docetaxel plus placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enzalutamide 40 MG</intervention_name>
+    <description>Adding Enzalutamide to Docetaxel chemotherapy</description>
+    <arm_group_label>Group of Combination</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel injection</intervention_name>
+    <description>Docetaxel chemotherapy</description>
+    <arm_group_label>Group of Combination</arm_group_label>
+    <arm_group_label>Group of Docetaxel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  adenocarcinoma&#xD;
+&#xD;
+          -  mCRPC&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group(ECOG) 0-1&#xD;
+&#xD;
+          -  prior Abiraterone treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  prior Enzalutamide or Docetaxel treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Zhonghua Yang</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430071</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhonghua Yang, Dr.</last_name>
+      <phone>86 18071118052</phone>
+      <email>yangzhonghua@whu.edu.cn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhonghua Yang</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430071</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhonghua Yang, Dr.</last_name>
+      <phone>18071118052</phone>
+      <email>yangzhonghua@whu.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>October 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>chemotherapy</keyword>
+  <keyword>Enzalutamide</keyword>
+  <keyword>Abiraterone</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Docetaxel</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

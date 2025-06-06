@@ -1,0 +1,250 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2023-11154</org_study_id>
+    <nct_id>NCT05620433</nct_id>
+  </id_info>
+  <brief_title>Joint Effort 2.0: a Mobile Application With University Students</brief_title>
+  <acronym>JOINTEFFORT</acronym>
+  <official_title>Joint Effort, a Mobile Prevention and Harm Reduction Application</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre hospitalier de l'Université de Montréal (CHUM)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre hospitalier de l'Université de Montréal (CHUM)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate quantitatively and qualitatively a mobile&#xD;
+      application, Joint Effort, targeting safe cannabis use among consumers.&#xD;
+&#xD;
+      This randomized controlled trial is currently conducted on the Joint Effort mobile&#xD;
+      application.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This online randomized controlled trial with parallel groups is conducted in Quebec (Canada).&#xD;
+      Interested participants are invited to visit the study's website at www.etudejointeeffort.ca&#xD;
+&#xD;
+      The study's Website contains text explaining the study. After accepting the conditions and&#xD;
+      consenting, participants will enroll in the study by providing an email address and a&#xD;
+      pseudonym. Each participant will be validated through an email address check. After their&#xD;
+      enrolment, participants will receive a hyperlink via email to invite them to complete a&#xD;
+      baseline questionnaire.&#xD;
+&#xD;
+      After completing the baseline questionnaire, participants will be randomly assigned by the&#xD;
+      computer system either to an experimental group (Joint Effort mobile application) or to a&#xD;
+      control group (brief normative feedback and standard information).&#xD;
+&#xD;
+      Four weeks and eight weeks after the baseline questionnaire, participants will complete the&#xD;
+      online questionnaires again.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 8, 2023</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Protective Behavioral Strategies for Marijuana (PBSM-17) used</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The French version of the questionnaire translated by Côté et al. (2021) will be used. The 17 items proposed in the scale, each representing a behavioral protection strategy, are measured in terms of frequency of use on a six-point Likert-type scale (never, rarely, occasionally, sometimes, often and always). As indicated by its developers, the total score of the PBSM-17 is obtained by calculating the total score of each item and then converting this raw score into a standardized form (T-score) ranging from 15 to 73.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in intention to take action on cannabis use</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Intention is assessed by three items with a 7 points Likert Scale as recommended by Ajzen (2013): 1) &quot;I intend to take action on my cannabis use within the next month&quot; will be rated on a scale from 1 = strongly disagree to 7 = strongly agree; 2) &quot;Over the next month, the chances of me taking action on my cannabis use are …&quot; will be rated on a scale from 1=very low to 7=very high; 3) &quot;Over the next month, I will be taking action on my cannabis use&quot; will be rated on a scale from 1=very unlikely to 7=very likely. Intention items scores are tallied for an overall score (range of 3-21).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cannabis use frequency</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The frequency of cannabis use will be assessed using a question previously used in the Quebec (Canada) Survey on Cannabis (2022).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of Dependence</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measured with the Severity of Dependence Scale (SDS) scale (Martin et al., 2006) which includes five items related to compulsive behaviors, concerns, anxiety, and feelings of loss of control in the context of cannabis use. Four of the items are scored on a Likert-type scale ranging from &quot;never/almost never&quot; (1) to &quot;always&quot; (4) and one item offers a scale ranging from &quot;not difficult&quot; (1) to &quot;impossible&quot; (4). Severity of dependance items scores are tallied for an overall score (range of 5-20).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective engagement with the developed mobile application (acceptability)</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Subjective engagement (self-reported) will be measured using the validated French version (Fontaine et al., 2020) of the User Engagement Scale - Short Form (UES-SF) (O'Brien et al., 2018). This 12-item instrument serves to measure four dimensions of engagement: 1) aesthetic appeal; 2) focused attention; 3) perceived usability, and 4) reward factor. Possible answers range from strongly disagree (+1) to strongly agree (+5). The possible total score ranges between 12 and 60. The score for each item will be interpreted and the scores for each dimension will be compared to indicate which are rated more highly than others.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of screens viewed in the mobile application</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Objective data. This data will be collected automatically when users log into the application.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total time of use of the mobile application</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Objective data. This data will be collected automatically when users log into the application.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days the mobile application was used</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Objective data. This data will be collected automatically when users log into the application.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Cannabis Use</condition>
+  <condition>Cannabis</condition>
+  <condition>Cannabis Dependence</condition>
+  <condition>Cannabis Smoking</condition>
+  <condition>Cannabis Use, Unspecified</condition>
+  <arm_group>
+    <arm_group_label>Joint Effort mobile application</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Joint Effort mobile application aims to support young adults in taking action on their cannabis use. Based on the Theory of Planned Behaviour, the content focuses on intention, attitude, and perceived behavioral control. Various intervention methods and strategies are used to address these determinants (e.g., personalized feedback, persuasive communication, self-observation, and activation of intention). The objectives include: to allow the individual to become aware (or more aware) of their cannabis use, to support the individual's decision-making process of taking action on their cannabis use, and to guide and support the establishment and sustainability of an action plan. An optional logbook-type feature (weekly journal of cannabis use) allows personalized monitoring and data collection throughout the course of the intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brief normative feedback and standard information</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The comparator is composed of a brief normative feedback regarding last month's frequency of cannabis use and basic reliable non-personalized information on lower-risk cannabis use (official public websites).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Joint Effort</intervention_name>
+    <description>The Joint Effort intervention is available in the form of an iPhone mobile application (running on iOS 13 and higher) in French language. It aims to support young adults in school who have used cannabis in the past month into taking action on their cannabis use.</description>
+    <arm_group_label>Joint Effort mobile application</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Brief normative feedback and standard information</intervention_name>
+    <description>The brief normative feedback is based on the frequency of cannabis use. Participants will also be offered basic reliable non-personalized information on lower-risk cannabis use in the form of official public websites.</description>
+    <arm_group_label>Brief normative feedback and standard information</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged between 18-35 years old&#xD;
+&#xD;
+          -  Be a non-medical cannabis user and have used in the last month&#xD;
+&#xD;
+          -  Understand, read and write French&#xD;
+&#xD;
+          -  Own a smartphone (iPhone)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José Côté, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Université de Montréal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Didier Jutras-Aswad, MD MSN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre de Recherche du Centre Hospitalier de l'Université de Montréal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sylvie Cossette, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Université de Montréal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Christine Genest, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Université de Montréal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Shalini Lal, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Université de Montréal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Judith Lapierre, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Laval University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gabrielle Pagé, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Centre de Recherche du Centre Hospitalier de l'Université de Montréal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jingui Cheng, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Université de Montréal</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>José Côté, PhD</last_name>
+    <phone>514 890-8000</phone>
+    <phone_ext>15536</phone_ext>
+    <email>jose.cote@umontreal.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Université de Montréal</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Côté, PhD</last_name>
+      <phone>514 890-8000</phone>
+      <phone_ext>15536</phone_ext>
+      <email>jose.cote@umontreal.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>https://www.crsi.umontreal.ca/en/</url>
+    <description>RESEARCH CHAIR IN INNOVATIVE NURSING PRACTICES</description>
+  </link>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>February 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Marijuana Abuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

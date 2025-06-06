@@ -1,0 +1,162 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797974</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202300391</org_study_id>
+    <secondary_id>UL1TR001427</secondary_id>
+    <nct_id>NCT05797974</nct_id>
+  </id_info>
+  <brief_title>Does a Virtual Coach Offer a Better Solution for Weight Reduction in Ventral Hernia Patients With Obesity?</brief_title>
+  <official_title>Does a Virtual Coach Offer a Better Solution for Weight Reduction in Ventral Hernia Patients With Obesity?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Advancing Translational Sciences (NCATS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Florida</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose for this research is to create a MyChart-enabled virtual coach that assists obese&#xD;
+      patients lose weight prior to ventral hernia surgery. Researchers intend to show how the use&#xD;
+      of a virtual coach is more effective in preoperative weight reduction prior to ventral hernia&#xD;
+      repair over usual care. Correspondingly, this may lower unplanned hospital readmissions. For&#xD;
+      this clinical trial, where randomization is not possible, the study team will implement the&#xD;
+      use of propensity score matching that sorts individuals into different study arms as if&#xD;
+      randomly assigned. The primary outcome is the average net amount of time-dependent weight&#xD;
+      change per group over six months. Secondary outcomes are for the intervention group, patient&#xD;
+      satisfaction with the virtual coach and for both groups, quality of life. In addition, areas&#xD;
+      of social and economic disadvantage will be identified that may contribute to higher obesity&#xD;
+      rates. Machine learning (ML) modeling will be used to determine the important features for&#xD;
+      weight lost over the course of the study. The impact of this work will be to demonstrate&#xD;
+      efficacy and realized workflow efficiencies within a hospital-based surgery clinic.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>pounds of weight change per group</measure>
+    <time_frame>6 months</time_frame>
+    <description>Average net amount of weight</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>number of interactions</measure>
+    <time_frame>6 months</time_frame>
+    <description>number of interactions with virtual coach per subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>degree of quality of life</measure>
+    <time_frame>at baseline and 6 months</time_frame>
+    <description>quality of life measured per the 12-question Hernia Related Quality of Life Survey (HerQLes), a self-reported outcome measure questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>degree of satisfaction with the virtual coach</measure>
+    <time_frame>6 months</time_frame>
+    <description>degree of satisfaction with use of the virtual coach measured via single 7 point Likert scale question</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Obesity</condition>
+  <condition>Ventral Hernia</condition>
+  <arm_group>
+    <arm_group_label>Virtual coach</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will utilize the MyChart enabled virtual coach to aid preoperative weight loss.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard weight loss tools</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will not utilize the MyChart enabled virtual coach to aid preoperative weight loss, but instead use standard weight loss tools.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MyChart enabled virtual weight loss coach</intervention_name>
+    <description>MyChart-enabled virtual coach utilized to aid in preoperative weight loss.</description>
+    <arm_group_label>Virtual coach</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard preoperative weight loss tools</intervention_name>
+    <description>Participants will utilize current standard preoperative weight loss tools.</description>
+    <arm_group_label>Standard weight loss tools</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects between 18 and 90 years of age with a Body Mass Index (BMI) of 30 and above&#xD;
+             and diagnosed with Obesity by the ICD 10 Code: E66.9 who have been evaluated by a&#xD;
+             surgeon and offered elective ventral hernia repair. Also, participants must have a&#xD;
+             complete medical record that allows for all statistical calculations to be performed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant females, patients with severe mental disorders, prescribed psychiatric&#xD;
+             medications associated with weight gain, a history of a Substance Use Disorder,&#xD;
+             patients on long-term steroid therapy, and patients with insufficient medical records.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jana Sacco, MD</last_name>
+    <phone>(904)244-3943</phone>
+    <email>jana.sacco@jax.ufl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Mull, MSN</last_name>
+    <phone>(904) 244-7988</phone>
+    <email>jennifer.mull@jax.ufl.edu</email>
+  </overall_contact_backup>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Hernia</mesh_term>
+    <mesh_term>Hernia, Ventral</mesh_term>
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,228 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628181</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00218048</org_study_id>
+    <secondary_id>3U54AG063546-03</secondary_id>
+    <nct_id>NCT05628181</nct_id>
+  </id_info>
+  <brief_title>A Patient-facing Tool to Reduce Opioid-Psychotropic Polypharmacy in People Living With Dementia (PLWD)</brief_title>
+  <official_title>A Patient-facing Tool to Reduce Opioid-Psychotropic Polypharmacy in People Living With Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this project is to address Central nervous system-active polypharmacy (CNS&#xD;
+      polyRx) in people with living dementia (PLWD) through focus group and an educational&#xD;
+      intervention.&#xD;
+&#xD;
+      This project involves three interconnected Aims and includes engaging clinicians,&#xD;
+      patients/PLWD, and care partners (CP). AIM 1 will be completed for the development of the&#xD;
+      educational tool and is not considered a clinical trial. Therefore, this registration&#xD;
+      includes the clinical trial (Aims 2 and 3) of the project.&#xD;
+&#xD;
+      The study hypothesizes that the total standardized daily dosage (TSDD) of the medication&#xD;
+      classes contributing to CNS polyRx will decline from baseline to 4 months in participants&#xD;
+      receiving the nudge intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The United States (U.S.) health care system is poorly equipped to deal with the growing&#xD;
+      number of persons living with dementia (PLWD) in the U.S. and their complex medical and&#xD;
+      psychosocial needs. While memory impairment is the cardinal feature of Alzheimer's disease&#xD;
+      and related dementias (ADRD), behavioral and psychological symptoms (e.g., apathy, delusions,&#xD;
+      agitation) are common during all stages of illness and cause significant caregiver distress.&#xD;
+      CNS polyRx, defined by the American Geriatrics Society Beers Criteria as overlapping use of&#xD;
+      greater or equal to (≥) 3 medications from any of the following six classes: antidepressants,&#xD;
+      antipsychotics, anti-epileptics, benzodiazepines, non-benzodiazepine benzodiazepine receptor&#xD;
+      agonist hypnotics, or opioids. CNS polyRx is common among PLWD with limited evidence to&#xD;
+      support such prescribing despite significant evidence of harms, an example of routine care&#xD;
+      provided to PLWD that is potentially harmful in the vast majority of cases.&#xD;
+&#xD;
+      Minimizing CNS polypharmacy is a critical opportunity to improve safe medication use for&#xD;
+      PLWD. Direct-to-patient education has been demonstrated as one successful approach to&#xD;
+      initiate deprescribing in older adults. For this pilot study, after developing the tool (AIM&#xD;
+      1), the study team will use the electronic health records (EHR) of the two healthcare systems&#xD;
+      (UM and Henry Ford) to identify PLWD with CNS polypharmacy and will send the educational&#xD;
+      tool, with subsequent EHR review to determine the implementation outcome of whether the&#xD;
+      recipients' clinicians were engaged in a discussion about these specific prescriptions.&#xD;
+      Finally, in preparation for a pragmatic trial, the study team will then query the EHR to&#xD;
+      assess change in CNS-active prescribing in the months following receiving the tool. The data&#xD;
+      generated during this pilot will allow the study team to seek future funding for a pragmatic&#xD;
+      trial to test this nudge intervention to reduce CNS polypharmacy among PLWD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 15, 2023</start_date>
+  <completion_date type="Anticipated">September 29, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>There will be a total of four primary care clinics at University of Michigan Health and Henry Ford Health; potentially more clinics will be engaged if necessary.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the total standardized daily dosage (TSDD) of the medication classes contributing to CNS polyRx as measured in the EHR</measure>
+    <time_frame>baseline, 4 months (after sending the educational tool)</time_frame>
+    <description>The study team will use each active outpatient prescription for a CNS-active medication and convert them to a standardized daily dose using the minimal effective geriatric daily dose, adding the total across all CNS-active medications at the patient level.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Polypharmacy</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>No educational tool</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This arm will collect data on total standardized daily dosage of the medication classes contributing to CNS polyRx from the Electronic Medical Record (EMR).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Educational nudge intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be mailed the educational tool in the form of a brochure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Educational nudge intervention</intervention_name>
+    <description>This project will adapt the EMPOWER educational brochure for PLWD receiving CNS polyRx. The educational brochure will be mailed to intervention participants identified through EHR at Michigan Medicine and Henry Ford Health System. The brochure will describe what CNS polyRx is, present information about the associated risks, and suggest that participants speak with the prescribing clinician or pharmacist about ways to potentially simplify the medication regimen. The tool will be adapted through three successive rounds of focus groups (AIM one of this project) of PLWD.</description>
+    <arm_group_label>Educational nudge intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who are receiving care at the one of the selected primary care clinics at&#xD;
+             Michigan Medicine and Henry Ford Health System&#xD;
+&#xD;
+          -  Individuals who have a diagnosis of dementia or mild cognitive impairment (MCI) of any&#xD;
+             type based on International Classification of Diseases (ICD-10) codes&#xD;
+&#xD;
+          -  Individuals who have been prescribed ≥3 of the medications that contribute to CNS&#xD;
+             polyRx (e.g., antidepressants, antipsychotics, anti-epileptics, benzodiazepines,&#xD;
+             non-benzodiazepine benzodiazepine receptor agonist hypnotics, or opioids) based on&#xD;
+             chart review&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - primary care clinicians review of participants and determines intervention is not&#xD;
+        appropriate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Donovan Maust, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Donovan Maust, MD, MS</last_name>
+    <phone>(734) 845-3649</phone>
+    <email>maustd@umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Molly Turnwald</last_name>
+    <phone>734-232-0393</phone>
+    <email>turnwald@umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Charity Hoffman</last_name>
+      <phone>734-222-7421</phone>
+      <email>charityh@med.umich.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Molly Turnwald</last_name>
+      <phone>734-998-5378</phone>
+      <email>turnwald@umich.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Donovan Maust, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Esther Akinyemi, MD</last_name>
+      <phone>313-916-2600</phone>
+      <email>eakinye2@hfhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Esther Akinyemi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>February 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Donovan Maust</investigator_full_name>
+    <investigator_title>Professor of Psychiatry</investigator_title>
+  </responsible_party>
+  <keyword>Central Nervous System medication</keyword>
+  <keyword>Education</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

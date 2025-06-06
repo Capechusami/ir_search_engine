@@ -1,0 +1,311 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622669</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2-090-22</org_study_id>
+    <nct_id>NCT05622669</nct_id>
+  </id_info>
+  <brief_title>Understanding Patterns of Fatigue in Health and Disease</brief_title>
+  <acronym>FATIGUE</acronym>
+  <official_title>Understanding Patterns of Fatigue in Health and Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Aberdeen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Glasgow</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lancaster University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Southampton</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University College, London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Aberdeen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Fatigue is a common symptom and can be the most distressing symptom of a range of medical&#xD;
+      conditions. This Ecological Momentary Assessment study will investigate lived experiences of&#xD;
+      fatigue in detail in individuals with myeloma, long COVID, heart failure, and in healthy&#xD;
+      controls without fatigue.&#xD;
+&#xD;
+      Participants will wear ECG patches and wrist-worn sensors that measure heart rate&#xD;
+      variability, activity levels, posture, and other parameters. They will self-rate their levels&#xD;
+      of fatigue four times daily and on-demand (when fatigue levels are noticeably good or&#xD;
+      troublesome). They will participate in an end of study interview and will have an optional&#xD;
+      feedback session with a researcher to make sense of the data they have provided.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Fatigue can be the most disabling symptom experienced by patients with a wide range of&#xD;
+      diseases. In primary care, it is very challenging for clinicians to differentiate between&#xD;
+      physiological fatigue (i.e., &quot;normal&quot; tiredness associated with lifestyle factors) and&#xD;
+      fatigue caused by underlying pathology such as heart disease or cancer. Treatment of&#xD;
+      persistent fatigue is usually by trial-and-error without attention to personalized triggers&#xD;
+      or disparate fatigue mechanisms.&#xD;
+&#xD;
+      This feasibility study will investigate patient experiences of fatigue in depth, combining&#xD;
+      objective measures of sensed physiological parameters with patient reports and validated&#xD;
+      patient reported outcome measures. Patients will be recruited with three distinct clinical&#xD;
+      conditions: myeloma; long COVID; and heart failure. A healthy control group will also be&#xD;
+      recruited.&#xD;
+&#xD;
+      Participants will participate in a feasibility study with a longitudinal, Ecological&#xD;
+      Momentary Assessment (EMA) design, wearing sensors, and providing four times daily short&#xD;
+      self-reports of fatigue over a two-to-four week period (to be determined by the individual&#xD;
+      participant and their preferences and patterns of fatigue). They will complete validated&#xD;
+      fatigue, affect, and interoceptive awareness scores at baseline and at two weeks and&#xD;
+      participate in end of study telephone interviews with a Research Assistant.&#xD;
+&#xD;
+      Sensors will measure objective parameters including activity levels; heart rate; sleep; and&#xD;
+      posture (sitting/standing). Additional sensors (&quot;beacons&quot;) will measure participant's&#xD;
+      movements and positioning within their own environment (position relative to the beacons -&#xD;
+      beacon location to be determined by participant placement); environmental temperature; noise&#xD;
+      and light levels.&#xD;
+&#xD;
+      Data will be analysed using multilevel modelling and Machine Learning to detect patterns in&#xD;
+      the fatigue experiences and to compare fatigue measurements within individuals; between&#xD;
+      individuals with the same clinical condition; and between groups of individuals with&#xD;
+      different clinical conditions/controls.&#xD;
+&#xD;
+      This feasibility study will provide data that helps to determine:&#xD;
+&#xD;
+        -  The utility and usefulness of different sensed parameters in understanding the fatigue&#xD;
+           experience&#xD;
+&#xD;
+        -  The practicality and acceptability of collecting the proposed sensed and self-reported&#xD;
+           data and recruitment and retention rates (to inform a larger study)&#xD;
+&#xD;
+        -  Whether there might be meaningful differences in fatigue between individuals and groups&#xD;
+           of individuals with distinct medical conditions&#xD;
+&#xD;
+        -  Whether there is scope for a larger study into clinical &quot;phenotypes&quot; of fatigue&#xD;
+           (distinct classes of fatigue that might vary according to different combinations of&#xD;
+           physiological signatures, different patient descriptions/language used to describe the&#xD;
+           experience, diurnal variation, etc.)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 14, 2022</start_date>
+  <completion_date type="Anticipated">December 18, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 18, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>One-item fatigue screen</measure>
+    <time_frame>Two to four weeks (participant defined)</time_frame>
+    <description>Validated one-item fatigue screen (Temel, J et al, J Thorac Oncol. 2006;1: 454-459).&#xD;
+Participants will self-report their fatigue at that moment (split into physical and cognitive/mental fatigue) on a 0-10 point numerical rating scale as follows: &quot;How would you rate your (i. body/physical fatigue, ii. cognitive/mental fatigue) on a scale of 0 to10 with 0 being 'no fatigue' and 10 being the 'worst possible fatigue'?&quot; Participants will be prompted to respond via an app four times daily and can also provide on-demand ratings when their fatigue levels are particularly problematic or when they are not experiencing problematic fatigue. Multilevel modelling will be conducted to identify changes in fatigue over time and to explore the relationships between self-reported fatigue scores and sleep, activity levels (step-count, posture, measured by wrist worn sensor), respiratory rate (measured by ECG patch), and heart rate variability (measured by ECG patch)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lived experiences of fatigue interview</measure>
+    <time_frame>1 day (End of study interview)</time_frame>
+    <description>Qualitative data collected by an end of study interview according to a topic schedule</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Views and opinions about the sensing technologies interview</measure>
+    <time_frame>1 day (End of study interview)</time_frame>
+    <description>Qualitative data collected by an end of study interview according to a topic schedule</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Views and opinions about the trial methods and study participation interview</measure>
+    <time_frame>1 day (End of study interview)</time_frame>
+    <description>Qualitative data collected by an end of study interview according to a topic schedule</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Drop-out rate</measure>
+    <time_frame>Participant-led study end date - two to four weeks</time_frame>
+    <description>The proportion of participants who drop out of the study before the end of study interview</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Myeloma</condition>
+  <condition>Long COVID</condition>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Myeloma</arm_group_label>
+    <description>Individuals experiencing fatigue related to myeloma or its treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Long COVID</arm_group_label>
+    <description>Individuals experiencing fatigue related to Long COVID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heart failure</arm_group_label>
+    <description>Individuals experiencing fatigue related to heart failure or its treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <description>Individuals who are not experiencing problematic fatigue and who do not have myeloma, long COVID, or heart failure</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>Sensed and lived experience data from all groups without a specific behavioural or drug intervention</description>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_label>Heart failure</arm_group_label>
+    <arm_group_label>Long COVID</arm_group_label>
+    <arm_group_label>Myeloma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be selected from the community and from hospital haematology and&#xD;
+        cardiology clinics&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  For all groups, participants will be included if they are willing to participate in&#xD;
+             intermittent ecological momentary assessments of fatigue, to wear an ECG patch, to&#xD;
+             provide questionnaire responses at baseline, and the end of the study, and to&#xD;
+             participate in an end of study interview.&#xD;
+&#xD;
+        Inclusion Criteria for Group A, individuals with myeloma&#xD;
+&#xD;
+          -  A confirmed diagnosis of myeloma&#xD;
+&#xD;
+          -  Has experienced fatigue that is perceived by the participant to be worse than &quot;normal&#xD;
+             tiredness&quot; and that they associate with myeloma or treatment for myeloma&#xD;
+&#xD;
+        Inclusion Criteria for Group B, heart failure&#xD;
+&#xD;
+          -  A formal diagnosis of heart failure&#xD;
+&#xD;
+          -  All stages of heart failure and all aetiologies and with no specific ejection fraction&#xD;
+             cut-off&#xD;
+&#xD;
+          -  Has experienced fatigue that is perceived by the participant to be worse than &quot;normal&#xD;
+             tiredness&quot; and that they associate with their cardiac disease or its treatment&#xD;
+&#xD;
+        Inclusion Criteria for Group C, long COVID&#xD;
+&#xD;
+          -  Experiencing fatigue that is perceived by the participant to be worse than &quot;normal&#xD;
+             tiredness&quot;, with or without other physical or psychological symptoms that developed&#xD;
+             during or after an infection consistent with COVID-19&#xD;
+&#xD;
+          -  The fatigue (plus or minus any other symptoms) has continued for greater or equal to&#xD;
+             12 weeks, and is not explained by an alternative diagnosis&#xD;
+&#xD;
+        Inclusion criteria for Group D, control group&#xD;
+&#xD;
+        • Individuals aged 18 years or over without the disease conditions specified in Groups A to&#xD;
+        C&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion Criteria Applying to all participants:&#xD;
+&#xD;
+               -  Difficulty communicating in English&#xD;
+&#xD;
+               -  Adults lacking capacity to consent&#xD;
+&#xD;
+               -  Under 18 years of age&#xD;
+&#xD;
+               -  Declines to participate&#xD;
+&#xD;
+               -  Under investigation for or starting treatment for an endocrine, metabolic, or&#xD;
+                  thyroid condition where the participant has not been established on a stable&#xD;
+                  therapeutic dose of a licensed therapy for that condition&#xD;
+&#xD;
+               -  A confirmed diagnosis of sleep apnoea or narcolepsy&#xD;
+&#xD;
+               -  HADs depression and anxiety score at baseline greater than 8 on the depression&#xD;
+                  questions, which might indicate untreated or undertreated depression&#xD;
+&#xD;
+               -  Shift work that involves overnight working between the hours of 9pm and 9am&#xD;
+&#xD;
+        We will not exclude patient participants in groups A to C based on the type of prescribed&#xD;
+        medications that they are taking. Instead, this will be carefully documented.&#xD;
+&#xD;
+        For Group A, myeloma&#xD;
+&#xD;
+          -  Uncontrolled hypercalcaemia&#xD;
+&#xD;
+          -  Current or previous diagnosis of heart failure or long COVID&#xD;
+&#xD;
+          -  An active primary cancer diagnosis other than myeloma Group B Heart Failure&#xD;
+&#xD;
+          -  A current or previous diagnosis of myeloma or long COVID&#xD;
+&#xD;
+          -  Active cancer Group C, long COVID&#xD;
+&#xD;
+          -  A current or previous diagnosis of myeloma or heart failure&#xD;
+&#xD;
+          -  Active cancer Group D, Control group&#xD;
+&#xD;
+          -  Presence of myeloma or another active cancer, heart failure, or long COVID&#xD;
+&#xD;
+          -  One or more chronic medical conditions which are unstable, poorly controlled, AND&#xD;
+             perceived by the individual to be causing fatigue&#xD;
+&#xD;
+          -  Persistent or severe fatigue symptoms that are perceived by the individual to be worse&#xD;
+             than &quot;normal tiredness&quot;&#xD;
+&#xD;
+          -  Taking sedating medications to manage anxiety or insomnia including but not limited to&#xD;
+             benzodiazepines or &quot;Z&quot; drugs, zopiclone, zolpidem, and others in this British National&#xD;
+             Formulary Class.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Rosalind Adam, MBChB PhD</last_name>
+    <phone>01224437906</phone>
+    <email>rosalindadam@abdn.ac.uk</email>
+  </overall_contact>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

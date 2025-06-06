@@ -1,0 +1,401 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799430</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S0502</org_study_id>
+    <nct_id>NCT05799430</nct_id>
+  </id_info>
+  <brief_title>Medication Review in Chronic Complex or Polymedicated Patients After Hospital Discharge: a Randomized Controlled Trial</brief_title>
+  <official_title>Effects of Interdisciplinary Medication Review in Chronic Complex Patients or Patients With Polypharmacy After Hospital Discharge: a Cluster Randomized Controlled Clinical Trial in Primary Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundación Pública Andaluza para la gestión de la Investigación en Sevilla</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Andalusian Health Service</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundación Pública Andaluza para la gestión de la Investigación en Sevilla</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this prospective multicentre clustered randomized controlled trial is to evaluate&#xD;
+      the effect on new hospitalization episodes of a multidisciplinary medication review in&#xD;
+      primary care patients with polypharmacy or chronic complex conditions after hospital&#xD;
+      discharge.&#xD;
+&#xD;
+      The multidisciplinary team will be integrated by a family physician (FP), a primary care&#xD;
+      nurse (PCN) and a primary care pharmacist (PCP). Patient will be adults aged 65 years and&#xD;
+      older. Polypharmacy refers to the use of 10 or more drugs based on information in electronic&#xD;
+      prescription software.&#xD;
+&#xD;
+      Research questions are:&#xD;
+&#xD;
+      In elderly patients with polypharmacy, which is the effect of an interdisciplinary medication&#xD;
+      review after hospital discharge in comparison with standard care, in terms of:&#xD;
+&#xD;
+        -  new hospitalization episodes?&#xD;
+&#xD;
+        -  number of drugs prescribed?&#xD;
+&#xD;
+        -  prescribed drugs adequacy?&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Centres will be randomized to medication review intervention or usual care group. Eligible&#xD;
+      patients will be ask for informed consent. For patients in the intervention group, PCP will&#xD;
+      collect information about prescribed medication and diseases from the electronic health&#xD;
+      record and e-prescribing application. The medication review in primary care will be focus to&#xD;
+      reconcile the medications the patient was taking prior to admission and those initiated in&#xD;
+      hospital, with the medications they should be taking post-discharge to ensure all changes are&#xD;
+      intentional and that discrepancies are resolved as soon as possible. The review process will&#xD;
+      include detection of potential drugs interactions, wrong doses, lack of adherence (based on&#xD;
+      dispensing recorded data) and adequacy to explicit criteria for potentially inappropriate&#xD;
+      prescriptions included in different tools: a) STOPP-STAR, STOPP-Pal, LESS-CHRON lists; b)&#xD;
+      Guideline for Medication Review in Primary Care, a local publication and c) Medication review&#xD;
+      in patients with polypharmacy. A list of drugs frequently associate with potentially&#xD;
+      inappropriate prescriptions. Andalusian health Service). PCP will write a report to&#xD;
+      communicate the results of medication review to primary care physician and nurse. The&#xD;
+      multidisciplinary team will define a personalized therapeutic plan to be implemented for&#xD;
+      every patient.&#xD;
+&#xD;
+      Patients in the control group will receive usual care.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 10, 2023</start_date>
+  <completion_date type="Anticipated">July 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 10, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A cluster-randomized control trial</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of hospitalization episodes</measure>
+    <time_frame>12 months</time_frame>
+    <description>Registered in Electronic Health Record. In emergency department or in hospital service</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of Hospital Stay</measure>
+    <time_frame>12 months</time_frame>
+    <description>Registered in Electronic Health Record.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Healthcare utilisation</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of visits to primary care services (family physician or primary care nurse) and hospital services (non emergency and without hospitalization)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>12 month</time_frame>
+    <description>Dead for any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of potentially inappropriate drugs</measure>
+    <time_frame>12 months</time_frame>
+    <description>Total number of potentially inappropriate prescribed drugs based on explicit criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of medications</measure>
+    <time_frame>12 months</time_frame>
+    <description>Total number of drugs chronically prescribed (treatment length: unless 120 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of proposal about treatment improvement</measure>
+    <time_frame>7 days</time_frame>
+    <description>Number of proposal about treatment improvement included in PCP report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of proposal about treatment improvement agreed with primary care team</measure>
+    <time_frame>7 days</time_frame>
+    <description>Number of proposal about treatment improvement agreed with primary care team in a face face meeting</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of proposal about treatment improvement accepted by the patient or care</measure>
+    <time_frame>7 days</time_frame>
+    <description>Number of proposal about treatment improvement agreed with primary care team in a face face meeting</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">372</enrollment>
+  <condition>Medication Review</condition>
+  <condition>Polypharmacy</condition>
+  <condition>Disease, Chronic</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention group will receive a multidisciplinary medication review and a personalized therapeutic plan in the following 72 hours after hospital discharge. The intervention will be developed by a multidisciplinary team that includes a family physician (FP), a primary care nurse (PCN) and a primary care pharmacist (PCP). PCP is a pharmacist working in a full-time base for the Pharmacy Service in a Primary Care District in Andalusian Public Health Service.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control group will receive usual care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Multidisciplinary medication review</intervention_name>
+    <description>FP communicate to the PCP patients recently discharged. The medication review process consists in 5 steps:&#xD;
+PCP perform a structured drug review based on information from health record and e-prescribing application. The drug review comprise the appraisal of potentially inappropriate medication based on lists of explicit criteria.&#xD;
+PCP communicates and discuss the results of medication review with GP and PCN, in a brief meeting face-to-face, with possible adaptation of the recommendations.&#xD;
+FP, PCN and PCP agree on a personalized therapeutic plan for the patient that includes actions to optimize the therapy.&#xD;
+FP and PCN share plan with the patient and/or carer with possible adaptation of the recommendations and agree about actions to be implemented.&#xD;
+FP and PCN communicate to PCP final agreement with patient and/or carer&#xD;
+FP and/or PCN follow-up implantation of agreed recommendations using standard health care procedures</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control group</intervention_name>
+    <description>Usual care by FP an PCN</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Hospital discharge in the last 48 h and one of the following conditions:&#xD;
+&#xD;
+          -  Polypharmacy: ten o more drugs prescribed in a chronic schedule OR&#xD;
+&#xD;
+          -  Complez Chronic Condition&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients in last days of life&#xD;
+&#xD;
+          -  Major mental health disorder&#xD;
+&#xD;
+          -  Patient on dialysis&#xD;
+&#xD;
+          -  Organ transplant patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teresa Molina, Pharm Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Andalusian Health Service. Spain</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Teresa Molina-López, Pharm Dr</last_name>
+    <phone>637642 411+</phone>
+    <email>mariat.molina.sspa@juntadeandalucia.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Palma-Morgado, Pharm G</last_name>
+    <email>daniel.palma.sspa@juntadeandalucia.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sevilla Primary Care District</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Teresa Molina-López, Pharm.Dr.</last_name>
+      <phone>+34637642411</phone>
+      <email>mariat.molina.sspa@juntadeandalucia.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniel Palma-Morgado, Pharm. Bch.</last_name>
+      <email>daniel.palma.sspa@juntadeandalucia.es</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>https://juntadeandalucia.es/export/drupaljda/EstrategiaISeguridadPaciente_v5.pdf</url>
+    <description>Estrategia para la seguridad del paciente. Plan estratégico de calidad del Sistema Sanitario Público de Andalucía. Consejería de Salud y Familias. 2019</description>
+  </link>
+  <link>
+    <url>https://www.sanidad.gob.es/profesionales/proyectosActividades/docs/Marco_Estrategico_APS_25Abril_2019.pdf</url>
+    <description>Marco Estratégico para la Atención Primaria y Comunitaria. Ministerio de Sanidad. Ministerio de Sanidad, Consumo y Bienestar Social. Madrid. 2019.</description>
+  </link>
+  <link>
+    <url>https://lowninstitute.org/wp-content/uploads/2019/08/medication-overload-lown-web.pdf</url>
+    <description>Lown Institute. Medication Overload: America's Other Drug Problem. How the drive to prescribe is harming older adults. 2019</description>
+  </link>
+  <link>
+    <url>https://www.therapeutics.scot.nhs.uk/wp-content/uploads/2018/09/Polypharmacy-Guidance-2018.pdf</url>
+    <description>Scottish Government Polypharmacy Model of Care Group. Polypharmacy Guidance, Realistic Prescribing. 3ª edition, 2018. Scottish Government</description>
+  </link>
+  <link>
+    <url>https://www.nice.org.uk/guidance/qs120</url>
+    <description>Medicines Optimization. Quality standard [QS120] NICE. 2016</description>
+  </link>
+  <link>
+    <url>https://juntadeandalucia.es/export/drupaljda/salud_5af1956d9925c_atencion_pacientes_pluripatologicos_2018.pdf</url>
+    <description>Atención a Pacientes Pluripatológicos. Proceso Asistencial Integrado. Consejería de Salud 2018.</description>
+  </link>
+  <link>
+    <url>https://www.sanidad.gob.es/organizacion/sns/planCalidadSNS/docs/Recomendaciones_de_Practicas_Seguras_en_la_conciliacion_de_la_medicacion_al_alta_hospitalaria_en_pacientes_cronicos_2019.pdf</url>
+    <description>Recomendaciones de prácticas seguras en la conciliación al alta hospitalaria. Ministerio de Sanidad, Consumo y Bienestar Social. Madrid. 2019</description>
+  </link>
+  <link>
+    <url>https://juntadeandalucia.es/export/drupaljda/PlanAtencEECC.pdf</url>
+    <description>Plan Andaluz de Atención Integrada a Pacientes con Enfermedades Crónicas. Consejería de Salud. 2012</description>
+  </link>
+  <reference>
+    <citation>Franchi C, Nobili A, Mari D, Tettamanti M, Djade CD, Pasina L, Salerno F, Corrao S, Marengoni A, Iorio A, Marcucci M, Mannucci PM; REPOSI Investigators. Risk factors for hospital readmission of elderly patients. Eur J Intern Med. 2013 Jan;24(1):45-51. doi: 10.1016/j.ejim.2012.10.005. Epub 2012 Nov 8.</citation>
+    <PMID>23142413</PMID>
+  </reference>
+  <reference>
+    <citation>Weinberger M, Oddone EZ, Henderson WG. Does increased access to primary care reduce hospital readmissions? Veterans Affairs Cooperative Study Group on Primary Care and Hospital Readmission. N Engl J Med. 1996 May 30;334(22):1441-7. doi: 10.1056/NEJM199605303342206.</citation>
+    <PMID>8618584</PMID>
+  </reference>
+  <reference>
+    <citation>Graham H, Livesley B. Can readmissions to a geriatric medical unit be prevented? Lancet. 1983 Feb 19;1(8321):404-6. doi: 10.1016/s0140-6736(83)91513-1.</citation>
+    <PMID>6130389</PMID>
+  </reference>
+  <reference>
+    <citation>Jencks SF, Williams MV, Coleman EA. Rehospitalizations among patients in the Medicare fee-for-service program. N Engl J Med. 2009 Apr 2;360(14):1418-28. doi: 10.1056/NEJMsa0803563. Erratum In: N Engl J Med. 2011 Apr 21;364(16):1582.</citation>
+    <PMID>19339721</PMID>
+  </reference>
+  <reference>
+    <citation>Acosta-Garcia H, Alfaro-Lara ER, Sanchez-Fidalgo S, Sevilla-Sanchez D, Delgado-Silveira E, Juanes-Borrego A, Santos-Ramos B. Intervention effectiveness by pharmacists integrated within an interdisciplinary health team on chronic complex patients. Eur J Public Health. 2020 Oct 1;30(5):886-899. doi: 10.1093/eurpub/ckz224.</citation>
+    <PMID>32052027</PMID>
+  </reference>
+  <reference>
+    <citation>Guisado-Gil AB, Mejias-Trueba M, Alfaro-Lara ER, Sanchez-Hidalgo M, Ramirez-Duque N, Santos-Rubio MD. Impact of medication reconciliation on health outcomes: An overview of systematic reviews. Res Social Adm Pharm. 2020 Aug;16(8):995-1002. doi: 10.1016/j.sapharm.2019.10.011. Epub 2019 Oct 17.</citation>
+    <PMID>31883776</PMID>
+  </reference>
+  <reference>
+    <citation>Santos-Ramos B, Otero Lopez MJ, Galvan-Banqueri M, Alfaro-Lara ER, Vega-Coca MD, Nieto-Martin MD, Ollero-Baturone M. [Health care models for patients with multiple chronic conditions and the role of the hospital pharmacy/the hospital pharmacist]. Farm Hosp. 2012 Nov-Dec;36(6):506-17. doi: 10.7399/FH.2012.36.6.52. Spanish.</citation>
+    <PMID>23461444</PMID>
+  </reference>
+  <reference>
+    <citation>Alfaro-Lara ER, Vega-Coca MD, Galvan-Banqueri M, Nieto-Martin MD, Perez-Guerrero C, Santos-Ramos B. [Pharmacological treatment conciliation methodology in patients with multiple conditions]. Aten Primaria. 2014 Feb;46(2):89-99. doi: 10.1016/j.aprim.2013.07.002. Epub 2013 Sep 12. Spanish.</citation>
+    <PMID>24035767</PMID>
+  </reference>
+  <reference>
+    <citation>Rodriguez-Perez A, Alfaro-Lara ER, Sierra-Torres MI, Villalba-Moreno A, Nieto-Martin MD, Galvan-Banqueri M, Santos-Ramos B. Validation of the LESS-CHRON criteria: reliability study of a tool for deprescribing in patients with multimorbidity. Eur J Hosp Pharm. 2019 Nov;26(6):334-338. doi: 10.1136/ejhpharm-2017-001476. Epub 2018 May 30.</citation>
+    <PMID>31798857</PMID>
+  </reference>
+  <reference>
+    <citation>Rankin A, Cadogan CA, Patterson SM, Kerse N, Cardwell CR, Bradley MC, Ryan C, Hughes C. Interventions to improve the appropriate use of polypharmacy for older people. Cochrane Database Syst Rev. 2018 Sep 3;9(9):CD008165. doi: 10.1002/14651858.CD008165.pub4.</citation>
+    <PMID>30175841</PMID>
+  </reference>
+  <reference>
+    <citation>Frazier SC. Health outcomes and polypharmacy in elderly individuals: an integrated literature review. J Gerontol Nurs. 2005 Sep;31(9):4-11. doi: 10.3928/0098-9134-20050901-04.</citation>
+    <PMID>16190007</PMID>
+  </reference>
+  <reference>
+    <citation>Fulton MM, Allen ER. Polypharmacy in the elderly: a literature review. J Am Acad Nurse Pract. 2005 Apr;17(4):123-32. doi: 10.1111/j.1041-2972.2005.0020.x.</citation>
+    <PMID>15819637</PMID>
+  </reference>
+  <reference>
+    <citation>Shrank WH, Polinski JM, Avorn J. Quality indicators for medication use in vulnerable elders. J Am Geriatr Soc. 2007 Oct;55 Suppl 2:S373-82. doi: 10.1111/j.1532-5415.2007.01345.x. No abstract available.</citation>
+    <PMID>17910560</PMID>
+  </reference>
+  <reference>
+    <citation>Cardenas Valladolid J, Mena Mateo J, Canada Dorado MM, Rodriguez Morales D, Sanchez Perruca L. [Implementation and improvement in a care program for the elderly on multiple medications in a primary care area]. Rev Calid Asist. 2009 Feb;24(1):24-31. doi: 10.1016/S1134-282X(09)70072-7. Epub 2009 Feb 23. Spanish.</citation>
+    <PMID>19369139</PMID>
+  </reference>
+  <reference>
+    <citation>Weber V, White A, McIlvried R. An electronic medical record (EMR)-based intervention to reduce polypharmacy and falls in an ambulatory rural elderly population. J Gen Intern Med. 2008 Apr;23(4):399-404. doi: 10.1007/s11606-007-0482-z.</citation>
+    <PMID>18373136</PMID>
+  </reference>
+  <reference>
+    <citation>Lenaghan E, Holland R, Brooks A. Home-based medication review in a high risk elderly population in primary care--the POLYMED randomised controlled trial. Age Ageing. 2007 May;36(3):292-7. doi: 10.1093/ageing/afm036. Epub 2007 Mar 26.</citation>
+    <PMID>17387123</PMID>
+  </reference>
+  <reference>
+    <citation>Hanlon JT, Weinberger M, Samsa GP, Schmader KE, Uttech KM, Lewis IK, Cowper PA, Landsman PB, Cohen HJ, Feussner JR. A randomized, controlled trial of a clinical pharmacist intervention to improve inappropriate prescribing in elderly outpatients with polypharmacy. Am J Med. 1996 Apr;100(4):428-37. doi: 10.1016/S0002-9343(97)89519-8.</citation>
+    <PMID>8610730</PMID>
+  </reference>
+  <reference>
+    <citation>Denneboom W, Dautzenberg MG, Grol R, De Smet PA. Treatment reviews of older people on polypharmacy in primary care: cluster controlled trial comparing two approaches. Br J Gen Pract. 2007 Sep;57(542):723-31.</citation>
+    <PMID>17761060</PMID>
+  </reference>
+  <reference>
+    <citation>Kirwin JL, Cunningham RJ, Sequist TD. Pharmacist recommendations to improve the quality of diabetes care: a randomized controlled trial. J Manag Care Pharm. 2010 Mar;16(2):104-13. doi: 10.18553/jmcp.2010.16.2.104.</citation>
+    <PMID>20178395</PMID>
+  </reference>
+  <reference>
+    <citation>Parody Rua E, Segu Tolosa J. [Cost-effectiveness and cost calculation in an intervention on medication-related problems in primary care]. Aten Primaria. 2005 May 31;35(9):472-7. doi: 10.1157/13075471. Spanish.</citation>
+    <PMID>15919021</PMID>
+  </reference>
+  <reference>
+    <citation>Molina Lopez T, Dominguez Camacho JC, Palma Morgado D, Caraballo Camacho Mde L, Morales Serna JC, Lopez Rubio S. [A review of the medication in polymedicated elderly with vascular risk: a randomised controlled trial]. Aten Primaria. 2012 Aug;44(8):453-60. doi: 10.1016/j.aprim.2011.09.015. Epub 2012 Feb 16. Spanish.</citation>
+    <PMID>22341703</PMID>
+  </reference>
+  <reference>
+    <citation>Wessell AM, Nietert PJ, Jenkins RG, Nemeth LS, Ornstein SM. Inappropriate medication use in the elderly: results from a quality improvement project in 99 primary care practices. Am J Geriatr Pharmacother. 2008 Mar;6(1):21-7. doi: 10.1016/j.amjopharm.2008.02.001.</citation>
+    <PMID>18396245</PMID>
+  </reference>
+  <reference>
+    <citation>Denneboom W, Dautzenberg MG, Grol R, De Smet PA. Analysis of polypharmacy in older patients in primary care using a multidisciplinary expert panel. Br J Gen Pract. 2006 Jul;56(528):504-10.</citation>
+    <PMID>16834876</PMID>
+  </reference>
+  <reference>
+    <citation>Zermansky AG, Alldred DP, Petty DR, Raynor DK, Freemantle N, Eastaugh J, Bowie P. Clinical medication review by a pharmacist of elderly people living in care homes--randomised controlled trial. Age Ageing. 2006 Nov;35(6):586-91. doi: 10.1093/ageing/afl075. Epub 2006 Aug 12.</citation>
+    <PMID>16905764</PMID>
+  </reference>
+  <reference>
+    <citation>Pit SW, Byles JE, Henry DA, Holt L, Hansen V, Bowman DA. A Quality Use of Medicines program for general practitioners and older people: a cluster randomised controlled trial. Med J Aust. 2007 Jul 2;187(1):23-30. doi: 10.5694/j.1326-5377.2007.tb01110.x.</citation>
+    <PMID>17605699</PMID>
+  </reference>
+  <reference>
+    <citation>Royal S, Smeaton L, Avery AJ, Hurwitz B, Sheikh A. Interventions in primary care to reduce medication related adverse events and hospital admissions: systematic review and meta-analysis. Qual Saf Health Care. 2006 Feb;15(1):23-31. doi: 10.1136/qshc.2004.012153.</citation>
+    <PMID>16456206</PMID>
+  </reference>
+  <reference>
+    <citation>Nieto-Martin MD, De la Higuera-Vila L, Bernabeu-Wittel M, Gonzalez-Benitez MA, Alfaro-Lara ER, Baron-Ramos MA, Montero-Aparicio E, Aparicio-Santos R, Baturone MO; list of researchers involved in the IMPACTO study and their affiliations. A multidisciplinary approach for patients with multiple chronic conditions: IMPACTO study. Med Clin (Barc). 2019 Aug 2;153(3):93-99. doi: 10.1016/j.medcli.2019.01.014. Epub 2019 Mar 8. English, Spanish.</citation>
+    <PMID>30857796</PMID>
+  </reference>
+  <reference>
+    <citation>Brehaut JC, Colquhoun HL, Eva KW, Carroll K, Sales A, Michie S, Ivers N, Grimshaw JM. Practice Feedback Interventions: 15 Suggestions for Optimizing Effectiveness. Ann Intern Med. 2016 Mar 15;164(6):435-41. doi: 10.7326/M15-2248. Epub 2016 Feb 23.</citation>
+    <PMID>26903136</PMID>
+  </reference>
+  <reference>
+    <citation>Brotons C, Arino D, Borras I, Buitrago F, Gonzalez ML, Kloppe P, Orozco D, Pepio JM, Rodriguez P, Rodriguez AI; Equipo Investigador del Estudio PREseAP. [Evaluation of the efficacy of a comprehensive programme of secondary prevention of cardiovascular disease in primary care: the PREseAP Study]. Aten Primaria. 2006 Mar 31;37(5):295-8. doi: 10.1157/13086317. Spanish.</citation>
+    <PMID>16595102</PMID>
+  </reference>
+  <reference>
+    <citation>Cane J, O'Connor D, Michie S. Validation of the theoretical domains framework for use in behaviour change and implementation research. Implement Sci. 2012 Apr 24;7:37. doi: 10.1186/1748-5908-7-37.</citation>
+    <PMID>22530986</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 23, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>March 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Medication Review</keyword>
+  <keyword>Polypharmacy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chronic Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

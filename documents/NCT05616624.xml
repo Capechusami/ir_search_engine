@@ -1,0 +1,365 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05616624</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202301032</org_study_id>
+    <nct_id>NCT05616624</nct_id>
+  </id_info>
+  <brief_title>ADI-PEG 20 in Combination With Gemcitabine and Docetaxel After Progression on Frontline Therapy in Non-small Cell and Small Cell Lung Cancers</brief_title>
+  <official_title>ADI-PEG 20 in Combination With Gemcitabine and Docetaxel After Progression on Frontline Therapy in Non-small Cell and Small Cell Lung Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Polaris Group</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, patients with small cell or non-small cell lung cancer will receive ADI-PEG&#xD;
+      20, gemcitabine, and docetaxel after demonstrated progression on frontline therapy. In phase&#xD;
+      I of the study, up to 6 dose levels will be tested to find the recommended phase II dose&#xD;
+      (RP2D), after which patients enrolling to phase II will be treated at that dose level to&#xD;
+      assess efficacy. Although safety and tolerability has been previously determined in the&#xD;
+      sarcoma population, dose de-escalations of the chemotherapies in that patient population were&#xD;
+      required. Therefore, a phase I portion will be incorporated to determine the RP2D of the&#xD;
+      triplet in this population.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 5, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2032</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2027</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recommended phase II dose (Phase I only)</measure>
+    <time_frame>Through the first 4 weeks of treatment for all Phase I enrolled participants (estimated to be 12 months and 4 weeks)</time_frame>
+    <description>-The maximum tolerated dose (MTD) is defined as the dose level immediately below the dose level at which 2 patients of a cohort (of 2 to 6 patients) experience dose-limiting toxicity during the first 4 weeks of treatment. Dose escalations will proceed until the MTD has been reached or until Dose Level 3, and this dose level will then be defined as the Recommended Phase 2 Dose (RP2D).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-related serious adverse event (SAE) rate (Phase I only)</measure>
+    <time_frame>From start of treatment through 30 days after completion of treatment (estimated to be 106 weeks)</time_frame>
+    <description>-SAE: an adverse event or suspected adverse reaction is considered &quot;serious&quot; if, in the view of the investigator, it results in any of the following outcomes:&#xD;
+Death&#xD;
+A life-threatening adverse event&#xD;
+Inpatient hospitalization or prolongation of existing hospitalization&#xD;
+A persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions&#xD;
+A congenital anomaly/birth defect&#xD;
+Any other important medical event that does not fit the criteria above but, based upon appropriate medical judgment, may jeopardize the subject and may require medical or surgical intervention to prevent one of the outcomes listed above</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response rate (ORR) (Phase II only - compared between non-small cell lung and small cell lung)</measure>
+    <time_frame>Through completion of treatment (estimated to be 102 weeks)</time_frame>
+    <description>ORR = percentage of participants with complete response + partial response.&#xD;
+Complete response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm. Disappearance of all non-target lesions and normalization of tumor marker level.&#xD;
+Partial response (PR): At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) (Phase II only - compared between non-small cell lung and small cell lung)</measure>
+    <time_frame>Through completion of follow-up (estimated to be up to 362 weeks)</time_frame>
+    <description>PFS is defined as the time from date of treatment initiation to disease progression or death from any cause, whichever occurs first. The patients alive, without progression, are censored at the last follow-up.&#xD;
+Progressive disease (PD): At least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Appearance of one or more new lesions and/or unequivocal progression of existing non-target lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) (Phase II only - compared between non-small cell lung and small cell lung)</measure>
+    <time_frame>Through completion of follow-up (estimated to be up to 362 weeks)</time_frame>
+    <description>OS is defined as the time from the date of treatment initiation to the date of death, censored at the last follow-up otherwise.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical benefit rate (CBR) (Phase II only - compared between non-small cell lung and small cell lung)</measure>
+    <time_frame>Through completion of treatment (estimated to be 102 weeks)</time_frame>
+    <description>CBR = the percentage of participants who have experienced complete response + partial response + stable disease.&#xD;
+Complete response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm. Disappearance of all non-target lesions and normalization of tumor marker level.&#xD;
+Partial response (PR): At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.&#xD;
+Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study. Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker level above the normal limits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cancer-related mortality rate (Phase II only - compared between non-small cell lung and small cell lung)</measure>
+    <time_frame>Through completion of follow-up (estimated to be up to 362 weeks)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">108</enrollment>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <condition>Small-cell Lung Cancer</condition>
+  <condition>Small Cell Lung Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Phase I: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ADI-PEG 20 is given as an intramuscular injection on a weekly basis (Day 1, 8 and 15) at a dose of 36 mg/m^2. ADI-PEG 20 dosing will start one week prior to the initiation of gemcitabine + docetaxel on Day -7 prior to the initiation of Cycle 1.&#xD;
+Gemcitabine is given intravenously at the assigned dose level on Day 2 of each cycle.&#xD;
+Docetaxel is given intravenously at the assigned dose level on Day 1 of each cycle.&#xD;
+A cycle is defined as 21 days.&#xD;
+After Cycle 8, patients may continue on ADI-PEG 20 alone (without gemcitabine and docetaxel) per physician discretion or patient request.&#xD;
+Treatment may continue for up to 34 cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II Non-small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ADI-PEG 20 is given as an intramuscular injection on a weekly basis (Day 1, 8 and 15) at a dose of 36 mg/m^2. ADI-PEG 20 dosing will start one week prior to the initiation of gemcitabine + docetaxel on Day -7 prior to the initiation of Cycle 1.&#xD;
+Gemcitabine is given intravenously at the assigned dose level on Day 2 of each cycle.&#xD;
+Docetaxel is given intravenously at the assigned dose level on Day 1 of each cycle.&#xD;
+A cycle is defined as 21 days.&#xD;
+After Cycle 8, patients may continue on ADI-PEG 20 alone (without gemcitabine and docetaxel) per physician discretion or patient request.&#xD;
+Treatment may continue for up to 34 cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II Small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ADI-PEG 20 is given as an intramuscular injection on a weekly basis (Day 1, 8 and 15) at a dose of 36 mg/m^2. ADI-PEG 20 dosing will start one week prior to the initiation of gemcitabine + docetaxel on Day -7 prior to the initiation of Cycle 1.&#xD;
+Gemcitabine is given intravenously at the assigned dose level on Day 2 of each cycle.&#xD;
+Docetaxel is given intravenously at the assigned dose level on Day 1 of each cycle.&#xD;
+A cycle is defined as 21 days.&#xD;
+After Cycle 8, patients may continue on ADI-PEG 20 alone (without gemcitabine and docetaxel) per physician discretion or patient request.&#xD;
+Treatment may continue for up to 34 cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ADI-PEG 20</intervention_name>
+    <description>-Given 60 minutes (+/- 15 minutes) prior to docetaxel</description>
+    <arm_group_label>Phase I: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_label>Phase II Non-small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_label>Phase II Small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <other_name>PEGylated arginine deiminase</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>-Given over the course of 90 minutes (+/- 10 minutes)</description>
+    <arm_group_label>Phase I: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_label>Phase II Non-small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_label>Phase II Small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <other_name>Gemzar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <description>-Given over the course of 60 minutes (+/- 10 minutes)</description>
+    <arm_group_label>Phase I: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_label>Phase II Non-small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <arm_group_label>Phase II Small cell lung cancer: ADI-PEG + gemcitabine + docetaxel</arm_group_label>
+    <other_name>Taxotere</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed extensive stage small cell or metastatic&#xD;
+             non-small cell lung cancer that has progressed on frontline therapy who are fit for&#xD;
+             treatment with gemcitabine and docetaxel in the opinion of the treating physician.&#xD;
+             Phase II enrollment will occur separately to the SCLC and NSCLC cohorts, with up to 36&#xD;
+             enrolled in each cohort.&#xD;
+&#xD;
+          -  Measurable disease per RECIST 1.1.&#xD;
+&#xD;
+          -  Treated with at least one previous line of systemic therapy. The allowable window&#xD;
+             between treatments is 21 days for chemotherapy or a TKI or 5 half-lives for a TKI&#xD;
+             (whichever is shorter), 21 days and progression by CT for immunotherapy, 21 days for&#xD;
+             RT, 21 days for surgery, or 28 days for an investigational agent.&#xD;
+&#xD;
+               -  Patients with ES-SCLC must have been treated with first-line therapy of platinum&#xD;
+                  doublet + anti-PD(L)1 therapy, if eligible.&#xD;
+&#xD;
+               -  Patients with NSCLC without a driver mutation must have been treated with&#xD;
+                  first-line therapy of platinum doublet + anti-PD(L)1 therapy, if eligible.&#xD;
+&#xD;
+               -  Patients with NSCLC with a driver mutation (EGFR, ALK, ROS1) must have been&#xD;
+                  treated with an FDA approved targeted therapy and subsequent platinum doublet&#xD;
+                  therapy, if eligible.&#xD;
+&#xD;
+          -  At least 18 years of age.&#xD;
+&#xD;
+          -  ECOG performance status ≤ 1.&#xD;
+&#xD;
+          -  Normal bone marrow and organ function as defined below:&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1.5 K/cumm&#xD;
+&#xD;
+               -  Platelets ≥ 100 K/cumm&#xD;
+&#xD;
+               -  Hemoglobin ≥ 9 g/dL&#xD;
+&#xD;
+               -  Total bilirubin ≤ 2 x IULN, patients with Gilberts must be below 3xIULN&#xD;
+&#xD;
+               -  AST(SGOT)/ALT(SGPT) ≤ 3 x IULN (or ≤ 5 x IULN if liver metastases are present)&#xD;
+&#xD;
+               -  Creatinine clearance &gt; 60 mL/min by MDRD or by 24 hour urine&#xD;
+&#xD;
+               -  Serum uric acid ≤ 8 mg/dL (with or without medication control)&#xD;
+&#xD;
+          -  The effects of ADI-PEG 20 on the developing human fetus are unknown. For this reason&#xD;
+             and because chemotherapeutics are known to be teratogenic, women of childbearing&#xD;
+             potential must agree to use adequate contraception (hormonal or barrier method of&#xD;
+             birth control, abstinence) prior to study entry, for the duration of study&#xD;
+             participation, and for one month after completion of study treatment. Should a woman&#xD;
+             become pregnant or suspect she is pregnant while participating in this study, she must&#xD;
+             inform her treating physician immediately. Men treated or enrolled on this protocol&#xD;
+             must also agree to use adequate contraception prior to the study, for the duration of&#xD;
+             the study, and for one month after completion of study treatment.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign an IRB approved written informed consent&#xD;
+             document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A history of other malignancy with the exception of:&#xD;
+&#xD;
+               -  Malignancies for which all treatment was completed at least 2 years before&#xD;
+                  registration and the patient has no evidence of disease&#xD;
+&#xD;
+               -  Basal cell or squamous cell carcinoma of the skin which was treated with local&#xD;
+                  resection only&#xD;
+&#xD;
+               -  Carcinoma in situ of the cervix&#xD;
+&#xD;
+               -  Other tumors discussed with the study PI&#xD;
+&#xD;
+          -  Currently receiving any other investigational agents.&#xD;
+&#xD;
+          -  Prior treatment with ADI-PEG 20 or gemcitabine (prior docetaxel is allowed).&#xD;
+&#xD;
+          -  Presence of untreated or unstable brain metastases. Patients with treated/stable brain&#xD;
+             metastases, defined as patients who have received prior therapy for their brain&#xD;
+             metastases and whose CNS disease is radiographically stable at study entry, are&#xD;
+             eligible.&#xD;
+&#xD;
+          -  A history of allergic reactions attributed to compounds of similar chemical or&#xD;
+             biologic composition to ADI-PEG 20, gemcitabine, pegylated compounds, or other agents&#xD;
+             used in the study.&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, unstable angina pectoris, or cardiac&#xD;
+             arrhythmia.&#xD;
+&#xD;
+          -  History of seizure disorder not related to underlying cancer.&#xD;
+&#xD;
+          -  Grade 2 or higher neuropathy&#xD;
+&#xD;
+          -  Pregnant and/or breastfeeding. Women of childbearing potential must have a negative&#xD;
+             pregnancy test within 14 days of study entry.&#xD;
+&#xD;
+          -  Patients with known active Hepatitis B or C or HIV.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian A Van Tine, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Brian A Van Tine, M.D., Ph.D.</last_name>
+    <phone>314-362-8903</phone>
+    <email>bvantine@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian A Van Tine, M.D., Ph.D.</last_name>
+      <phone>314-362-8903</phone>
+      <email>bvantine@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Brian A Van Tine, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jared Cohen, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ramaswamy Govindan, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Morgensztern, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Saiama Waqar, MBBS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Esther Lu, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sasha Harberg, PharmD, BCOP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>April 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Arginine Starvation</keyword>
+  <keyword>ADI-PEG20</keyword>
+  <keyword>SCLC</keyword>
+  <keyword>NSCLCa</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Docetaxel</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

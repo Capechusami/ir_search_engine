@@ -1,0 +1,283 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795621</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIBI311A201</org_study_id>
+    <nct_id>NCT05795621</nct_id>
+  </id_info>
+  <brief_title>A Study of IBI311 in Subjects With Active Thyroid Eye Disease</brief_title>
+  <official_title>A Multicenter, Randomized, Double-masked, Placebo-controlled Phase II Study Evaluating the Efficacy and Safety of IBI311 in Subjects With Active Thyroid Eye Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Innovent Biologics (Suzhou) Co. Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Innovent Biologics (Suzhou) Co. Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, randomized, double-masked, placebo-controlled Phase II study in&#xD;
+      subjects with active thyroid eye disease. Approximately 33 subjects meeting study eligibility&#xD;
+      criteria will be randomly assigned to IBI311 or placebo on day 1 (D1) in a 2:1 ratio&#xD;
+      stratified by smoking status&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">February 2, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proptosis responder rate of the study eye (defined as percentage of subjects with a ≥ 2mm reduction from Baseline in proptosis in the study eye, without deterioration [≥ 2 mm increase] of proptosis in the non-study eye) at Week 12.</measure>
+    <time_frame>Week 12</time_frame>
+    <description>proptosis assessment: amount of protrusion of the eye from the orbital rim measured by Hertel exophthalmometer</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The overall responder rate in the study eye at Week 12 and 24</measure>
+    <time_frame>Week12/Week24</time_frame>
+    <description>Responder rate were defined as participants with a reduction in clinical activity score (CAS, see Secondary Outcome Measure 2 description for details) of ≥ 2 points, and a reduction in proptosis of ≥ 2 mm in the study eye, and no deterioration (increase in CAS of ≥ 2 points or increase in proptosis of ≥ 2 mm) in the non-study eye.)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with a CAS value of 0 or 1 in the study eye at Week 12 and 24. Mean Change of the CAS value in the study eye from Baseline to Week 12 and Week 24.</measure>
+    <time_frame>Week12/Week24</time_frame>
+    <description>According to the 7-item European Group on Graves' Ophthalmopathy (EUGOGO) amendment, CAS was used to evaluate clinical activity. For each of the following items, one point is given:&#xD;
+spontaneous orbital pain, gaze evoked orbital pain, eyelid swelling that is considered to be due to active (inflammatory phase) Graves' ophthalmopathy (GO), eyelid erythema, conjunctival redness that is considered to be due to active (inflammatory phase) GO, chemosis, and inflammation of caruncle or plica. The sum of these points is the total score, with 0 indicating no clinical activity and 7 indicating the most severe clinical activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change of the CAS value in the study eye from Baseline to Week 12 and Week 24.</measure>
+    <time_frame>Week12/Week24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from Baseline to Week 12 and Week 24 in proptosis measurement in the study eye.</measure>
+    <time_frame>Week12/Week24</time_frame>
+    <description>proptosis measurement: see Primary Outcome Measure 1 description for details</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proptosis responder rate of the study eye at Week 24.</measure>
+    <time_frame>Week24</time_frame>
+    <description>proptosis responder rate: see Primary Outcome Measure 1 description for details</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Thyroid Eye Disease</condition>
+  <arm_group>
+    <arm_group_label>Fron D0 to W9, treat with Placebo,q3w, IV; From W9 to W21, treat with IBI311, q3w, IV;</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>From D0 to W21, treat with IBI311, q3w, IV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IBI311</intervention_name>
+    <description>10 mg/kg on Day 1 followed by 20 mg/kg q3W for the remaining 7 infusions</description>
+    <arm_group_label>From D0 to W21, treat with IBI311, q3w, IV</arm_group_label>
+    <arm_group_label>Fron D0 to W9, treat with Placebo,q3w, IV; From W9 to W21, treat with IBI311, q3w, IV;</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>q3W for first 4 infusions, 10 mg/kg on W12 followed by 20 mg/kg q3W for the remaining 4 infusions</description>
+    <arm_group_label>Fron D0 to W9, treat with Placebo,q3w, IV; From W9 to W21, treat with IBI311, q3w, IV;</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent.&#xD;
+&#xD;
+          2. Male or female subject between the ages of 18 and 75 years, inclusive, at Screening.&#xD;
+&#xD;
+          3. Weight between 45 and 100 kg (inclusive).&#xD;
+&#xD;
+          4. Clinical diagnosis of Graves' disease associated with active TED with a CAS ≥ 3 for at&#xD;
+             least one eye at Screening and Baseline.&#xD;
+&#xD;
+          5. Moderate-to-severe active TED (not sight-threatening but has an appreciable impact on&#xD;
+             daily life), usually associated with at least two of the following: lid retraction &gt;2&#xD;
+             mm, moderate or severe soft tissue involvement, exophthalmos &gt; 3 mm above normal for&#xD;
+             race and gender, and/or inconstant or constant diplopia.&#xD;
+&#xD;
+          6. Female Subjects should be fertile women who are sterile or have a negative blood&#xD;
+             pregnancy test during the screening period and who agree to take contraceptive&#xD;
+             measures within 120 days from the screening period to the last medication; Male&#xD;
+             subjects should agree to use contraception from the screening period to 120 days after&#xD;
+             the last dose.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects will be ineligible for study participation if they meet any of the following&#xD;
+        criteria:&#xD;
+&#xD;
+          1. At the time of screening, according to the subject's chief complaint or medical&#xD;
+             record, symptoms of active thyroid eye disease appeared in &gt; 270 days;&#xD;
+&#xD;
+          2. Optimal corrected vision loss due to optic neuropathy, defined as two lines of vision&#xD;
+             loss within the past 180 days, new visual field defects, or color vision impairment&#xD;
+             secondary to optic nerve involvement;&#xD;
+&#xD;
+          3. Corneal ulcers with no relief after treatment were determined by the investigator;&#xD;
+&#xD;
+          4. Baseline CAS decreased by more than 2 points compared with screening;&#xD;
+&#xD;
+          5. At any time prior to baseline or during the study period planned to receive orbital&#xD;
+             radiation therapy or TED specific surgery, including orbital decompression, strabismus&#xD;
+             surgery, and eyelid retraction correction;&#xD;
+&#xD;
+          6. Poor thyroid function control was defined as free triiodothyronine (FT3) or free&#xD;
+             tetriodothyronine (FT4) deviated more than 50% from the normal reference range of the&#xD;
+             local research center laboratory during screening;&#xD;
+&#xD;
+          7. The presence of any other prior disease, metabolic disorder, abnormal physical or&#xD;
+             clinical laboratory findings that reasonably suspect the presence of a disease or&#xD;
+             condition that may contraindicate the use of the test drug, or affect the&#xD;
+             interpretation of the study results, or place the subject at high risk of treatment&#xD;
+             complications, including, but not limited to: Confirmed or clinically suspected&#xD;
+             inflammatory bowel disease, coagulopathy, history of acute cardiovascular and&#xD;
+             cerebrovascular disease or treatment within 180 days prior to screening (including but&#xD;
+             not limited to: Cerebrovascular accident, transient cerebral ischemia, acute&#xD;
+             myocardial infarction, unstable angina pectoris, coronary artery bypass grafting,&#xD;
+             percutaneous coronary intervention (other than diagnostic angiography), severe&#xD;
+             arrhythmia, etc.), history of treated or untreated malignancies within the past 5&#xD;
+             years (squamous cell carcinoma of the skin, basal cell carcinoma, or local cervix in&#xD;
+             situ that has been successfully resected without evidence of metastasis Cancer&#xD;
+             excepted), serious systemic infections, non-TED caused eye protrusion, etc.&#xD;
+&#xD;
+          8. Either ear during the screening period exist: history of tinnitus or other hearing&#xD;
+             impairment; Or abnormal pure tone audiometry results (defined as 0.5 1 2 4 kHz mean&#xD;
+             bone audiometry threshold ≥25 dB or bone audiometry threshold ≥40 dB at any&#xD;
+             frequency);&#xD;
+&#xD;
+          9. Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) &gt; 3x ULN at&#xD;
+             screening, or with active hepatitis B (defined as HBsAg positive with an HBV-DNA load&#xD;
+             greater than 1000 IU/mL), or being treated with anti-hepatitis B virus;&#xD;
+&#xD;
+         10. Glomerular Filtration Rate (GFR) was &lt; 30 ml/min/1.73m2 (MDRD formula was applied: GFR&#xD;
+             =186× creatinine (mg/dl) -1.154× (age) -0.203× (0.742 [female]), serum creatinine unit&#xD;
+             conversion: 1 μmol/L=0.0113 mg/dL);&#xD;
+&#xD;
+         11. Poorly controlled diabetes at the time of screening (defined as ≥9.0% HBA1c at&#xD;
+             screening or &gt; 10% change in the dosage of a new diabetes drug [oral or injectable] or&#xD;
+             currently prescribed diabetes drug within 60 days prior to screening) ;&#xD;
+&#xD;
+         12. Poorly controlled hypertension at screening, systolic blood pressure ≥160 mmHg or&#xD;
+             diastolic blood pressure ≥100 mmHg; Or adjusting antihypertensive drugs (dose or type)&#xD;
+             within 30 days prior to screening; Renal artery stenosis; Or evidence of unstable&#xD;
+             blood pressure (including postural hypotension).&#xD;
+&#xD;
+         13. Heart rate of &lt; 50 beats/min or &gt; 100 beats/min at screening. The ECG indicated active&#xD;
+             heart disease, or the investigators believed that an abnormal ECG at screening would&#xD;
+             interfere with the interpretation of the ECG results during follow-up, especially&#xD;
+             excluding QTcF &gt; 450 ms (male) and QTcF &gt; 470 ms (female).&#xD;
+&#xD;
+         14. Hiv-positive or HCV positive or active syphilis (defined as positive non-specific&#xD;
+             antibodies to syphilis or in need of anti-syphilis treatment after consultation in the&#xD;
+             infectivity department);&#xD;
+&#xD;
+         15. Oral steroid use with a cumulative dose equivalent to ≥ 1 g of methylprednisolone for&#xD;
+             the treatment of TED at any time before baseline (if the cumulative dose for TED oral&#xD;
+             or intravenous glucocorticoids was less than 1g methylprednisolone equivalent of&#xD;
+             glucocorticoids, the subject could be eligible if the use was stopped for more than 30&#xD;
+             days before screening) ;&#xD;
+&#xD;
+         16. For non-TED users of glucocorticoids within 30 days prior to screening, local use&#xD;
+             (external use, intranasal use, inhalation) is excluded;&#xD;
+&#xD;
+         17. Received anti-CD20 or interleukin-6 antibodies or Teprotumumab at any time prior to&#xD;
+             screening;&#xD;
+&#xD;
+         18. Take any other immunosuppressant orally or intravenously within 90 days prior to&#xD;
+             screening;&#xD;
+&#xD;
+         19. Participated in other interventional clinical trials within 90 days prior to screening&#xD;
+             (drugs, within their five half-lives, whichever is greater; Vitamins and minerals), or&#xD;
+             attempts to participate in other clinical trials during the study period;&#xD;
+&#xD;
+         20. Pregnant or lactating women;&#xD;
+&#xD;
+         21. Known hypersensitivity to any of the components of the study drug or prior&#xD;
+             hypersensitivity reactions to mAbs;&#xD;
+&#xD;
+         22. Any other condition that, in the opinion of the Investigator, would preclude inclusion&#xD;
+             in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xianqun Fan</last_name>
+    <phone>+86 13901696788</phone>
+    <email>drfanxianqun@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Huifang Zhou</last_name>
+    <phone>+86 13661901886</phone>
+    <email>fangzzfang@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Shanghai Ninth People's Hospital, Shanghai JiaoTong University School of Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Huifang Zhou</last_name>
+      <phone>+86 13661901886</phone>
+      <email>fangzzfang@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Eye Diseases</mesh_term>
+    <mesh_term>Graves Ophthalmopathy</mesh_term>
+    <mesh_term>Thyroid Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

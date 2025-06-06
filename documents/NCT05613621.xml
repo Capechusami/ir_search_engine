@@ -1,0 +1,206 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613621</url>
+  </required_header>
+  <id_info>
+    <org_study_id>T4222</org_study_id>
+    <nct_id>NCT05613621</nct_id>
+  </id_info>
+  <brief_title>Dissection of the Molecular and Immunological Interaction in Patients With HCC of Viral and Non-viral Etiologies</brief_title>
+  <acronym>T4222</acronym>
+  <official_title>Dissection of the Molecular and Immunological Interaction in Patients With Hepatocellular Carcinoma of Viral and Non-viral Etiologies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Health Research Institutes, Taiwan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Taiwan University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mackay Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cheng-Kung University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Health Research Institutes, Taiwan</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project will clarify the potential interaction between HBV infection and steatosis, and&#xD;
+      their impact on genetic alterations and tumor immune microenvironment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will start with a &quot;training cohort&quot; of the NTUH and NTU Cancer Center patients,&#xD;
+      consisting of 4 sub-groups: HBV (+) steatosis (+), HBV (-) steatosis (+), HBV (+) steatosis&#xD;
+      (-) and HBV (-) steatosis (-). HBV (+) is defined as either: (a) HBsAg (+) or (b) HBsAg (-)&#xD;
+      anti-HBc (+) and HBV DNA detectable in blood or tumor tissue. Steatosis is defined by&#xD;
+      histology. We will enroll 400 patients who had sufficient tissue for testing in the training&#xD;
+      cohort. The following studies will be performed: (1) NGS of targeted genes panel using the&#xD;
+      National Health Research Institutes precision medicine platform; (2) transcriptomic analysis&#xD;
+      of immune microenvironment using RNA-seq and multiplex immunofluorescence staining; (3)&#xD;
+      lipotoxic genotyping for SNPs; (4) clinical outcomes of MAFLD vs. non-MAFLD. The genetic and&#xD;
+      immunological features will be further tested by a &quot;validation cohort&quot;, from collaborative&#xD;
+      hospitals. This project will clarify the potential interaction between HBV infection and&#xD;
+      steatosis, and their impact on genetic alterations and tumor immune microenvironment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>transcriptomic analysis of immune microenvironment</measure>
+    <time_frame>2 Years</time_frame>
+    <description>using RNA-seq and multiplex immunofluorescence staining</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>lipotoxic genotyping for SNPs</measure>
+    <time_frame>2 years</time_frame>
+    <description>lipotoxic genotyping for SNPs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>clinical outcomes of MAFLD vs. non-MAFLD.</measure>
+    <time_frame>2 years</time_frame>
+    <description>clinical outcomes of MAFLD vs. non-MAFLD.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>training cohort</arm_group_label>
+    <description>Consisting of 4 sub-groups: HBV (+) steatosis (+), HBV (-) steatosis (+), HBV (+) steatosis (-) and HBV (-) steatosis (-). HBV (+) is defined as either: (a) HBsAg (+) or (b) HBsAg (-) anti-HBc (+) and HBV DNA detectable in blood or tumor tissue. Steatosis is defined by histology. We will enroll 400 patients who had sufficient tissue for testing in the training cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>validation cohort</arm_group_label>
+    <description>For the validation cohort, the clinical and pathological information will be obtained retrospectively by TCOG and will take 6 months to identify eligible patients for the 4 sub-groups listed above.</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      next-generation sequencing&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        hepatocellular carcinoma patients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult female or male patients aged ≥20 years.&#xD;
+&#xD;
+          2. HCC has been histologically confirmed with resection specimen.&#xD;
+&#xD;
+          3. The surgery should be performed with curative intent after 2015 in the study hospital.&#xD;
+&#xD;
+          4. Availability of serum HBsAg and Anti-HBc data in the electronic medical record.&#xD;
+&#xD;
+          5. Availability of imaging data performed within 3 months before the surgery in the&#xD;
+             electronic medical record. (at least one of the following: computed tomography,&#xD;
+             magnetic resonance imaging, abdominal sonography).&#xD;
+&#xD;
+          6. Informed consent is obtained. Willingness to provide the residual operative slides and&#xD;
+             medical records.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Fibrolamellar HCC, sarcomatoid HCC, or a mixture of cholangiocarcinoma and HCC&#xD;
+&#xD;
+          2. Exclusion of HCV patients (Anti-HCV positive)&#xD;
+&#xD;
+          3. Inability to cooperate by providing a complete medical history.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tsang-Wu Liu</last_name>
+    <role>Study Director</role>
+    <affiliation>Taiwan Cooperative Oncology Group, NHRI</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bor-Rong Chen</last_name>
+    <phone>886-2-26534401</phone>
+    <phone_ext>25162</phone_ext>
+    <email>brong@nhri.edu.tw</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Cheng-Kung University Hospital</name>
+      <address>
+        <city>Tainan</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mackay Memorial Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>November 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 6, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hepatocellular Carcinoma</keyword>
+  <keyword>next-generation sequencing</keyword>
+  <keyword>precision medicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

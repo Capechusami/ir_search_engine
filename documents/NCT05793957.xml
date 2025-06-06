@@ -1,0 +1,230 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793957</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00025461</org_study_id>
+    <secondary_id>NCI-2023-01954</secondary_id>
+    <secondary_id>STUDY00025461</secondary_id>
+    <nct_id>NCT05793957</nct_id>
+  </id_info>
+  <brief_title>Use of Virtual Reality Goggles During Chemotherapy Infusion to Reduce Anxiety-Related Symptoms</brief_title>
+  <official_title>Anxiety in the Context of Chemotherapy Infusion: Is There an Association Between the Use of Virtual Reality Goggles and Changes in Anxiety-Related Symptoms?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial evaluates the use of virtual reality (VR) goggles during chemotherapy&#xD;
+      infusion to reduce anxiety-related symptoms in patients with head and neck, thoracic, and&#xD;
+      breast cancers. Virtual reality headsets provide the ability for users to explore a&#xD;
+      simulated, three-dimensional environment with which users can interact. In virtual reality&#xD;
+      users can play interactive games, enjoy relaxing experiences, and watch immersive videos. The&#xD;
+      use of VR goggles may help with anxiety management during chemotherapy infusion.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To evaluate the effectiveness of VR therapy in reducing severity of anxiety symptoms&#xD;
+      during chemotherapy infusion, compared to participants utilizing a smartphone as a control.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate whether there is a short-term effect of VR use in anxiety levels.&#xD;
+&#xD;
+      II. To assess participant satisfaction with their chemotherapy infusion experience in the&#xD;
+      control and treatment groups.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVE:&#xD;
+&#xD;
+      I. To assess participants' reported adverse effects associated with VR headset use.&#xD;
+&#xD;
+      OUTLINE: Patients are randomized to 1 of 2 groups.&#xD;
+&#xD;
+      GROUP 1: Patients use VR during chemotherapy infusion on study.&#xD;
+&#xD;
+      GROUP 2: Patients use smartphone during chemotherapy infusion on study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 17, 2023</start_date>
+  <completion_date type="Anticipated">June 23, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 23, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference in anxiety levels</measure>
+    <time_frame>Before the start of chemotherapy infusion and 30-minutes of virtual reality (VR)/smartphone use is completed</time_frame>
+    <description>Will be assessed in the treatment and control groups determined by the difference in the scores provided by the State Anxiety Inventory before and right after VR use. Range of scores is 20-80, the higher score indicating greater anxiety. Will be compared using two-sample t-test to compare the anxiety levels change before and after VR between intervention group and control group (VR vs control). The effect of VR on anxiety levels will be described using a linear regression model addressing the unanticipated imbalance between treatment groups after randomization adjusting for the confounder.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Short-term difference in anxiety levels</measure>
+    <time_frame>Before VR goggle use and immediately after chemotherapy infusion is complete</time_frame>
+    <description>Will be assessed by the difference in anxiety levels right before VR use and immediately after chemotherapy infusion is completed as provided by the State Anxiety Inventory using a two sample t-test. Range of scores is 20-80, with a higher score indicating greater anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants' satisfaction with the VR device</measure>
+    <time_frame>Immediately after chemotherapy infusion is complete</time_frame>
+    <description>Will be assessed by an investigator-designed satisfaction questionnaire after chemotherapy completion to assess participants' satisfaction with the VR device using descriptive statistics to summarize this data.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Malignant Breast Neoplasm</condition>
+  <condition>Malignant Head and Neck Neoplasm</condition>
+  <condition>Malignant Thoracic Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Group 1 (VR)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients use VR during chemotherapy infusion on study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 (Smartphone)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients use smartphone during chemotherapy infusion on study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Group 1 (VR)</arm_group_label>
+    <arm_group_label>Group 2 (Smartphone)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Telephone-Based Intervention</intervention_name>
+    <description>Use smartphone</description>
+    <arm_group_label>Group 2 (Smartphone)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Virtual Technology Intervention</intervention_name>
+    <description>Use VR headset</description>
+    <arm_group_label>Group 1 (VR)</arm_group_label>
+    <other_name>Virtual Reality Intervention</other_name>
+    <other_name>Virtual Technology</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  English speaking: Ability to interact with virtual reality content may be impacted by&#xD;
+             inability to understand English; moreover, paper questionnaires will only be provided&#xD;
+             in English.&#xD;
+&#xD;
+          -  Older than 18 years of age, and younger than 89 years of age. All sexes/gender&#xD;
+             identities and members of all races and ethnic groups will be included.&#xD;
+&#xD;
+          -  Planned to receive chemotherapy infusion for head and neck, breast, and thoracic&#xD;
+             cancers at the Oregon Health &amp; Science University (OHSU) South Waterfront Center for&#xD;
+             Health &amp; Healing building 2 (there are no restrictions related to prior chemotherapy&#xD;
+             infusions or other cancer treatments).&#xD;
+&#xD;
+          -  Chemotherapy treatment lasting at least 10 minutes.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign a written informed consent document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Social or psychiatric conditions that may interfere with compliance.&#xD;
+&#xD;
+          -  Reconstruction, incisions, wounds, wound care, or injury that impact the ability to&#xD;
+             place on the VR headset. This would limit the ability to utilize the VR headset.&#xD;
+&#xD;
+          -  History of seizure or epilepsy.&#xD;
+&#xD;
+          -  History of vertigo or persistent dizziness.&#xD;
+&#xD;
+          -  Use of cardiac pacemaker, requirement for hearing aid on at all times, or have&#xD;
+             defibrillators.&#xD;
+&#xD;
+          -  Children.&#xD;
+&#xD;
+          -  Pregnant women.&#xD;
+&#xD;
+          -  Decisionally impaired adults.&#xD;
+&#xD;
+          -  Prisoners.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ryan J Li</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>OHSU Knight Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>OHSU Knight Cancer Institute</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ryan J. Li</last_name>
+      <phone>503-494-5355</phone>
+      <email>lry@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ryan J. Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>OHSU Knight Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Ryan Li, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+    <mesh_term>Thoracic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

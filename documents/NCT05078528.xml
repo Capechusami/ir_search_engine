@@ -1,0 +1,189 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078528</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38969820.9.1001.5437</org_study_id>
+    <nct_id>NCT05078528</nct_id>
+  </id_info>
+  <brief_title>Low-cost Imaging Technology for Global Prevention of Cervical Cancer</brief_title>
+  <official_title>Low-cost Mobile Colposcopy and Confocal Imaging for Global Prevention of Cervical Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barretos Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>William Marsh Rice University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Irmandade Santa Casa de Misericórdia de Porto Alegre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Barretos Cancer Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cervical cancer remains the first or second leading cause of cancer death among women in many&#xD;
+      low-and middle-income countries. Cervical cancer prevention programs in low-resource settings&#xD;
+      are hampered by a lack of personnel with appropriate clinical expertise, lack of pathology&#xD;
+      services, and lack of associated infrastructure. There is an urgent need for appropriate&#xD;
+      diagnostic tools to enable accurate screening and diagnosis in low-resource settings. The&#xD;
+      purpose of this study is to develop and validate a low-cost Multimodal Mobile Colposcope&#xD;
+      (MMC) for global cervical cancer prevention programs. This new device will combine the&#xD;
+      imaging capabilities of a mobile colposcope with the microscopic imaging capabilities of a&#xD;
+      fiber-optic confocal imaging probe.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 20, 2021</start_date>
+  <completion_date type="Anticipated">December 3, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 3, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Develop and validate a Multimodal Mobile Colposcope (MMC)</measure>
+    <time_frame>Day 1 - at the colposcopy day</time_frame>
+    <description>Image data will be used as a training set to develop and refine image analysis algorithms. Multimodal Mobile Colposcope will be compared with colposcopic impression considering clinical performance (sensitivity, specificity, positive and negative predictive values, and area under the Receiver Operating Characteristic (ROC) curve)</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1060</enrollment>
+  <condition>Cervical Intraepithelial Neoplasia</condition>
+  <arm_group>
+    <arm_group_label>Experimental group - MMC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Imaging of study participants will be performed during the colposcopy examination. The mobile colposcope and the confocal imaging probe, together referred to as the Multimodal Mobile Colposcope (MMC), will be used to image and/or record videos the cervix. Cervical biopsies will be performed using biopsy forceps per standard protocols.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Multimodal Mobile Colposcope (MMC)</intervention_name>
+    <description>Women referred for colposcopy due to abnormal cervical screening or follow-up for a history of dysplasia will be recruited into the experimental group of the study. Imaging of study participants will take place during the colposcopy examination.</description>
+    <arm_group_label>Experimental group - MMC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women &gt;25 years of age;&#xD;
+&#xD;
+          -  Women undergoing colposcopy due to abnormal cervical screening or follow-up for a&#xD;
+             history of dysplasia;&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative urine or blood pregnancy test;&#xD;
+&#xD;
+          -  Ability to understand and willingness to provide informed consent by signing specific&#xD;
+             Informed Consent Document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women under 25 years of age;&#xD;
+&#xD;
+          -  Women who have undergone hysterectomy with removal of the cervix;&#xD;
+&#xD;
+          -  Women with known allergy to proflavine or acriflavine;&#xD;
+&#xD;
+          -  Women who are pregnant or nursing at the time of enrollment;&#xD;
+&#xD;
+          -  Incapacitated women or in vulnerable situations or who are not willing to give&#xD;
+             consent;&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>25 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Júlio César P Resende, MD, PhD</last_name>
+    <phone>+55 (17) 3321-6600</phone>
+    <phone_ext>7086</phone_ext>
+    <email>julio.possati@uol.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mila P Salcedo, MD, PhD</last_name>
+    <phone>+1-832-316-3774</phone>
+    <email>mpsalcedo@mdanderson.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Irmandade Santa Casa de Misericórdia de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mila P Salcedo, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Barretos Cancer Hospital</name>
+      <address>
+        <city>Barretos</city>
+        <state>São Paulo</state>
+        <zip>14784-400</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Júlio César P Resende, MD,PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <results_reference>
+    <citation>Hunt B, Fregnani JHTG, Brenes D, Schwarz RA, Salcedo MP, Possati-Resende JC, Antoniazzi M, de Oliveira Fonseca B, Santana IVV, de Macedo Matsushita G, Castle PE, Schmeler KM, Richards-Kortum R. Cervical lesion assessment using real-time microendoscopy image analysis in Brazil: The CLARA study. Int J Cancer. 2021 Jul 15;149(2):431-441. doi: 10.1002/ijc.33543. Epub 2021 Apr 3.</citation>
+    <PMID>33811763</PMID>
+  </results_reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>image analysis</keyword>
+  <keyword>cancer prevention</keyword>
+  <keyword>cervical intraepithelial neoplasia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Cervical Intraepithelial Neoplasia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

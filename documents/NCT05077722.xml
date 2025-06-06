@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077722</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-007403</org_study_id>
+    <nct_id>NCT05077722</nct_id>
+  </id_info>
+  <brief_title>Monitoring of Sleep and Behavior of Children 3-7 Years Old Receiving Parent-Child Interaction Therapy With the Help of Artificial Intelligence</brief_title>
+  <acronym>PISTACHIo</acronym>
+  <official_title>PISTACHIO (Preemption Of Disruptive Behavior In Children) Real-Time Monitoring Of Sleep And Behavior Of Children 3-7-Year-Old Receiving Parent Child Interaction Therapy Augmented With Artificial Intelligence Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to develop an innovative wearable tracking protocol that will&#xD;
+      use Artificial Intelligence (AI) technology to monitor sleep and behavior of 3-7 year old&#xD;
+      children.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 24, 2022</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of Garmin use</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Number of days participants wear the Garmin smartwatch</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Eyberg Child Behavior Inventory</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Eyberg Child Behavior Inventory questionnaire is measured on two subscales for a series of phrases that describe a children's behavior. The first subscale is for indicating the frequency of the behavior using a scale of 1= never to 7 = Always; the second subscale indicates yes = 1 or no = 0 for whether the behavior is currently a problem for them. Reponses are total with a higher score indicating greater severity of child's behavior.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pediatric Sleep Questionnaire</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Pediatric Sleep Questionnaire to assess child's sleep with a series of 22 questions on a yes/no problem scale.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Disruptive Behavior</condition>
+  <condition>Attention-deficit Hyperactivity</condition>
+  <condition>Oppositional Defiant Disorder</condition>
+  <arm_group>
+    <arm_group_label>AI Parent Child Interaction Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects enrolled in Parent Child Interaction Therapy (PCIT) will wear a Garmin smartwatch that will provided targeted messages during tantrums picked up by the Garmin devices that will instruct them on how to deescalate their child.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Biometric - Parent Child Interaction Therapy</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Subjects enrolled in Parent Child Interaction Therapy will wear Garmin smartwatch and will receive only random messages throughout the day with various relaxation strategies such as reminders to practice deep breathing with their child.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Garmin</intervention_name>
+    <description>A smartwatch device that measures subjects level of activity, heartrate, respirations and quality of your sleep at night. Artificial intelligence will be applied to analyze all the data over the course of 12 weeks to monitor and attempt to predict the onset of tantrums or disruptive behavior. Subjects are required to wear the watch at least 70% of the day and night each day for 70% of days during 12 weeks of treatment.</description>
+    <arm_group_label>AI Parent Child Interaction Therapy</arm_group_label>
+    <arm_group_label>Sham Biometric - Parent Child Interaction Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria - Children:&#xD;
+&#xD;
+          -  Ages 3-7.&#xD;
+&#xD;
+          -  Outpatients or Inpatients.&#xD;
+&#xD;
+          -  Any gender, race or ethnicity.&#xD;
+&#xD;
+          -  Able to provide developmentally appropriate informed assent, and legal guardians able&#xD;
+             to provide informed consent .&#xD;
+&#xD;
+          -  EBP Severity rated above the clinically significant range (≥120; T-score ≥ 60) (Eyberg&#xD;
+             Child Behavior Inventory- ECBI; Eyberg &amp; Pincus, 1999).&#xD;
+&#xD;
+          -  Need for more intensive behavioral treatments such as ER visit for behavioral&#xD;
+             dyscontrol or hospitalization will not be exclusionary or exit criteria.&#xD;
+&#xD;
+          -  Families approached for participation will be asked to commit to complete the&#xD;
+             treatment.&#xD;
+&#xD;
+          -  At least one primary caregiver and the identified child will have to be able to speak&#xD;
+             and understand English.&#xD;
+&#xD;
+        Exclusion Criteria - Children:&#xD;
+&#xD;
+          -  Formal diagnosis of Severe Intellectual disability, Autistic Spectrum Disorder Level&#xD;
+             3, or a psychotic disorder for the child.&#xD;
+&#xD;
+          -  Parents not consenting to the study.&#xD;
+&#xD;
+          -  Parents or child is not able to adhere to the study protocol.&#xD;
+&#xD;
+          -  A Child who is reasonable expected to be unable to tolerate wearing the Garmin device&#xD;
+             for at least 70% of the time during the day and night 70% of the days during the&#xD;
+             treatment (12 weeks). This is based on the principal investigator's discretion.&#xD;
+&#xD;
+          -  Unable to speak and understand English.&#xD;
+&#xD;
+          -  Refusal or withdrawal of consent, inability, or unwillingness to adhere to study&#xD;
+             procedures.&#xD;
+&#xD;
+          -  Children in foster care.&#xD;
+&#xD;
+        Inclusion Criteria - Adults:&#xD;
+&#xD;
+          -  Agree to wear Garmin watch.&#xD;
+&#xD;
+          -  Ages 18-99.&#xD;
+&#xD;
+          -  Any gender, race, ethnicity.&#xD;
+&#xD;
+          -  Able to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria - Adults:&#xD;
+&#xD;
+          -  Unable to speak and understand English.&#xD;
+&#xD;
+          -  Refusal or withdrawal of consent, inability, or unwillingness to adhere to study&#xD;
+             procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Croarkin, DO, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Magdalena Romanowicz, MD</last_name>
+    <phone>507-255-6782</phone>
+    <email>Romanowicz.Magdalena@mayo.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Arjun P Athreya, PhD</last_name>
+    <phone>507-422-6073</phone>
+    <email>Athreya.Arjun@mayo.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Magdalena Romanowicz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Arjun P. Athreya, PhD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul E. Croarkin, DO, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>March 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Paul E. Croarkin</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Emotional Behavioral Dyscontrol</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Problem Behavior</mesh_term>
+    <mesh_term>Attention Deficit and Disruptive Behavior Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

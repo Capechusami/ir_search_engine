@@ -1,0 +1,360 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05619016</url>
+  </required_header>
+  <id_info>
+    <org_study_id>K 2020-9716</org_study_id>
+    <secondary_id>2022-500448-39-00</secondary_id>
+    <nct_id>NCT05619016</nct_id>
+  </id_info>
+  <brief_title>[68Ga]Ga-ABY-025 PET for Quantification of HER2-status in Solid Tumors</brief_title>
+  <official_title>Phase II Study of [68Ga]Ga-ABY-025 PET for Non-invasive Quantification of HER2-status in Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this phase II clinical trial is to improve the selection of patients with solid&#xD;
+      tumors who would benefit from effective treatment with HER2 targeted drugs. This will be&#xD;
+      achieved by examining patients with HER2 positive tumors in the esophagus or stomach or&#xD;
+      patients with advanced breast cancer with low HER2 expression (HER2low) with the HER2&#xD;
+      specific positron emission tomography (PET) tracer ABY-025 (HER2-PET) and compare the imaging&#xD;
+      results with HER2 expression in tumor tissue derived from biopsies (reference standard).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this phase II interventional clinical trial is to evaluate the HER2-status in&#xD;
+      tumor lesions measured by Gallium-68-ABY-025-uptake on PET/CT with HER2-status defined by&#xD;
+      reference standard (laboratory analyses) in patients with gastroesophageal cancer (GEAC) and&#xD;
+      metastatic breast cancer with low HER2 expression (HER2-low mBC).&#xD;
+&#xD;
+      The participants in GEAC cohort of the study will undergo two sessions of HER2 PET and one&#xD;
+      18-Fluorodeoxyglucose (18F-FDG) PET/CT for study purposes. The first HER2 PET is performed&#xD;
+      within 21 days before initiation of the systemic oncological treatment and is followed by&#xD;
+      tumor biopsies. A second HER2 PET and a second 18F-FDG PET will be performed adjacent to&#xD;
+      response evaluation after 3 courses of oncological therapy. Data from the PET investigations&#xD;
+      will be compared to HER2 expression analyses of the biopsy specimen and correlated to disease&#xD;
+      and survival data at follow up one year after inclusion. Within the pilot study, participants&#xD;
+      with HER2 low mBC will undergo one HER2 PET followed by biopsies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 23, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Prospective, single-center, single-blinded, diagnostic explorative phase II basket trial.&#xD;
+Investigators select subjects that are scheduled for anti-HER2 treatment due to&#xD;
+metastatic HER2 positive gastroesophageal cancer (GEAC)&#xD;
+metastatic breast cancer with low HER2 expression (HER2low mBC).&#xD;
+All patients undergo a PET/CT with the interventional drug/radiotracer 68Ga-ABY-025 before starting treatment. GEAC patients will undergo an additional ABY-025-PET after 3 cycles of treatment. Results will be compared to HER2 analysis of tissue samples.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Treating clinicians will be blinded for the results of the HER2-PET</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of HER2-positive lesions</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Percentage of HER2-positive lesions (primary tumors and/or metastases) measured by tracer uptake on PET/CT which are also positive regarding HER2-status defined by reference biopsy-based standard used in clinical routine in patients with GEAC</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SUV</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Optimal Standardized Uptake Values (SUVs) cut-off values for separating HER2-positive/or HER2-low from HER2-negative lesions by reference standard methods.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TBR</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Tumor-to-Background Ratio (TBR) cut-off values for separating HER2-positive/or HER2-low from HER2-negative lesions by reference standard methods.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intra-individual heterogeneity of HER2-positivity</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Percentage of tracer uptake sites on whole-body HER2 PET compared to all known cancer-related lesions, determined on the routine radiological investigation with CT as an estimation of intra-individual heterogeneity of HER2-positivity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility in HER2low</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Percentage of false-negative findings on HER2 PET compared to results from immunohistochemistry testing (IHC) from at least one index lesion in patients with HER2-low mBC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HER2 positive cancer burden</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Percentage of tracer uptake in sites, not previously determined on the routine radiological investigation with CT, as a measure of cancer burden determined on the whole body HER2 PET in tumor lesions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety aspects of ABY-025</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>Frequency of Adverse Events (AEs), Adverse Reactions (ARs), Serious Adverse Events (SAEs), and Suspected Unexpected Serious Adverse Reactions (SUSARs).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Treatment response 1</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>To examine the change in HER2 expression measured by tracer uptake on PET/CT (SUVs and TBR) performed after 3 courses of chemotherapy/HER2 targeted drugs compared to pre-treatment values and in which proportion of the examined patients this occur.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment response 2</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>Changes in SUVs in index lesions, as well as in the total HER2-positive tumor volume at HER2 PET (percentage) before and after treatment with systemic therapy including HER2 targeted drugs to evaluate treatment response.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Comparison between HER2 PET and FDG PET</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Comparison of treatment response evaluation performed by HER2 PET versus 18F-FDG PET/CT defined as percentage of complete and partial response, stable and progressive disease (percentage of concordant results).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>HER2 PET as a prognostic tool</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>The correlation between HER2 expression measured by a total HER2-positive tumor volume at HER2 PET before treatment and progression-free survival (PFS), overall (or clinical) response rate to systemic therapy (ORR) at 12 months after inclusion.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>HER2 PET as a marker for treatment related cardiotoxicity</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>The presence and frequency of myocardial uptake of [68Ga]Ga-ABY-025 and relation to treatment-related cardiotoxicity determined by echocardiography.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Dynamic PET parameters</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>The agreement between whole body static imaging and kinetic parameters in the determination of HER2-status.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Esophageal Neoplasms</condition>
+  <condition>Gastric Neoplasms Malignant</condition>
+  <condition>Breast Cancer</condition>
+  <condition>HER2-positive Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients with HER2 positive GEAC or HER2 low cancer (pilot)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants of the study will undergo two sessions of HER2 PET and one 18F-FDG PET/CT for study purposes. The first HER2 PET is performed within 21 days before initiation of the systemic oncological treatment including HER2-targeted drugs, and is followed by tumor biopsies. A second HER2 PET and a second 18F-FDG PET will be performed adjacent to response evaluation after 3 courses of oncological therapy. Data from the PET investigations will be compared to HER2 expression analyses of the biopsy specimen and correlated to disease and survival data at follow up one year after inclusion.&#xD;
+Within the pilot study, participants with HER2 low mBC will undergo one HER2 PET followed by biopsies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>[68Ga]Ga-ABY-025 PET</intervention_name>
+    <description>[68Ga]Ga-ABY-025 PET: Each patient in Cohort 1 will be imaged with a PET/CT twice using the radiolabeled investigational product ABY-025 as a tracer. At the time of injection, a 45-minutes long dynamic scan will take place over a pre specified region of interest. Three hours after injection a full body PET scan followed by a CT scan will be performed.</description>
+    <arm_group_label>Patients with HER2 positive GEAC or HER2 low cancer (pilot)</arm_group_label>
+    <other_name>HER2 PET</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Biopsy and analysis of HER2 expression</intervention_name>
+    <description>Biopsy: Within 3 days after the first ABY-025-PET a tissue sample from at least one metastasis &gt;10 mm available for biopsy, preferably shallow lymph nodes, will be analyzed for HER2 expression through immunohistochemistry- (IHC) and in situ hybridization- (ISH) analysis in patients with GEAC and HER2low mBC.</description>
+    <arm_group_label>Patients with HER2 positive GEAC or HER2 low cancer (pilot)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥18 years.&#xD;
+&#xD;
+          2. The subject has given written consent to participate in the study.&#xD;
+&#xD;
+          3. Patients with metastatic disease because of gastroesophageal adenocarcinoma or&#xD;
+             HER2-low breast cancer. Cohort 1: Histologically confirmed HER2-positive primary&#xD;
+             gastroesophageal adenocarcinoma, scheduled for palliative HER2-targeted therapy;&#xD;
+             Cohort 2: HER2-low metastatic breast cancer first within a pilot study (of which five&#xD;
+             patients with de novo HER2-low mBC and five patients with pre-treated HER2-low mBC).&#xD;
+             Later, within a post-pilot study. Definition of HER2 positivity (ASCO College of&#xD;
+             American Pathologist 2018. HER2 Testing for Breast Cancer Guidelines.) HER2-low mBC is&#xD;
+             defined as IHC 1+ or IHC 2+ but ISH negative.&#xD;
+&#xD;
+          4. At least one metastatic lesion ≥ 10 mm is available for biopsy defined on CT.&#xD;
+&#xD;
+          5. At least one (and up to five) additional metastatic index lesion/s ≥ 10 mm for&#xD;
+             evaluation of treatment effect&#xD;
+&#xD;
+          6. World Health Organization (WHO) performance status ≤ 2.&#xD;
+&#xD;
+          7. Expected survival &gt; 12 weeks.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Significantly impaired renal function (GFR &lt;30 ml/min/1.73 m2)&#xD;
+&#xD;
+          2. Allergy to iodinated contrast media&#xD;
+&#xD;
+          3. Subjects that for some reason are unable to exercise their rights, such as cognitive&#xD;
+             function impairment.&#xD;
+&#xD;
+          4. Other manifest malignancy except for basal cell carcinoma of the skin.&#xD;
+&#xD;
+          5. The patient presenting any contraindication for the use of HER2 targeted therapy for&#xD;
+             metastatic disease: congestive heart failure, baseline left ventricular ejection&#xD;
+             fraction (LVEF) less than 50%, transmural myocardial infarction, uncontrolled&#xD;
+             hypertension (systolic blood pressure &gt;180 mm Hg or diastolic blood pressure &gt;100 mm&#xD;
+             Hg), angina pectoris requiring medication, clinically significant valvular heart&#xD;
+             disease, high-risk arrhythmias, lack of physical integrity of the upper&#xD;
+             gastrointestinal tract or malabsorption syndrome, active gastrointestinal bleeding.&#xD;
+&#xD;
+          6. Inadequate organ function, suggested by the following laboratory results: absolute&#xD;
+             neutrophil count &lt;1,500 cells/mm3, haemoglobin &lt;90 g/L, total bilirubin ≥1.5 x Upper&#xD;
+             Limit of Normal (ULN) (unless the patient has documented Gilbert's syndrome),&#xD;
+             Aspartate aminotransferase (AST)/serum glutamic-oxaloacetic transaminase (SGOT) or&#xD;
+             Alanine aminotransferase (ALT)/ serum glutamic pyruvic transaminase (SGPT) &gt;5.0 x ULN.&#xD;
+&#xD;
+          7. Positive pregnancy test in women of childbearing potential (premenopausal or &lt;12&#xD;
+             months of amenorrhea post-menopause and who have not undergone surgical&#xD;
+             sterilization), or lactation.&#xD;
+&#xD;
+          8. Female patients of childbearing potential and sexually active and not willing to use a&#xD;
+             highly effective contraceptive. Examples of highly effective contraceptive methods&#xD;
+             with a failure rate of &lt; 1% per year include bilateral tubal ligation, male&#xD;
+             sterilization, established, proper use of hormonal contraceptives that inhibit&#xD;
+             ovulation, hormone releasing intrauterine devices (IUDs), and copper IUDs. Periodic&#xD;
+             abstinence (e.g., calendar, ovulation, symptothermal, or postovulation methods) and&#xD;
+             withdrawal are not acceptable methods of contraception. Women must refrain from&#xD;
+             donating eggs during this same period.&#xD;
+&#xD;
+          9. Patients with increased risk of complications from biopsies, i.e. increased risk of&#xD;
+             bleeding, defined as&#xD;
+&#xD;
+               -  prothrombin time test (INR value) &gt;1.4, platelet count &lt;70 (109/l), activated&#xD;
+                  partial thromboplastin time (APTT) &gt;30s.&#xD;
+&#xD;
+               -  known bleeding disorder such as hemophilia, von Willebrand disease or platelet&#xD;
+                  disorders.&#xD;
+&#xD;
+               -  any anticoagulants or antiplatelet treatment (except for low-dose&#xD;
+                  acetyl-salicylic acid (ASA), i. e 75 mg daily).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rimma Axelsson, Prof., MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rimma Axelsson, Prof., MD</last_name>
+    <phone>+46 8 585 800 00</phone>
+    <email>rimma.axelsson@ki.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Siri af Burén, MD</last_name>
+    <phone>+46739099570</phone>
+    <email>siri.afburen@regionstockholm.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Radiation Physics and Nuclear Medicine, Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rimma Axelsson, Prof</last_name>
+      <phone>+46858580000</phone>
+      <email>rimma.axelsson@ki.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Siri af Burén, MD</last_name>
+      <phone>+46739099570</phone>
+      <email>siri.afburen@regionstockholm.se</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rimma Axelsson, Professor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Renske Althena, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Magnus Nilsson, Professor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Velikyan I, Schweighofer P, Feldwisch J, Seemann J, Frejd FY, Lindman H, Sorensen J. Diagnostic HER2-binding radiopharmaceutical, [68Ga]Ga-ABY-025, for routine clinical use in breast cancer patients. Am J Nucl Med Mol Imaging. 2019 Feb 15;9(1):12-23. eCollection 2019.</citation>
+    <PMID>30911434</PMID>
+  </reference>
+  <reference>
+    <citation>Alhuseinalkhudhur A, Lubberink M, Lindman H, Tolmachev V, Frejd FY, Feldwisch J, Velikyan I, Sorensen J. Kinetic analysis of HER2-binding ABY-025 Affibody molecule using dynamic PET in patients with metastatic breast cancer. EJNMMI Res. 2020 Mar 23;10(1):21. doi: 10.1186/s13550-020-0603-9.</citation>
+    <PMID>32201920</PMID>
+  </reference>
+  <reference>
+    <citation>Ahlgren S, Orlova A, Wallberg H, Hansson M, Sandstrom M, Lewsley R, Wennborg A, Abrahmsen L, Tolmachev V, Feldwisch J. Targeting of HER2-expressing tumors using 111In-ABY-025, a second-generation affibody molecule with a fundamentally reengineered scaffold. J Nucl Med. 2010 Jul;51(7):1131-8. doi: 10.2967/jnumed.109.073346. Epub 2010 Jun 16.</citation>
+    <PMID>20554729</PMID>
+  </reference>
+  <reference>
+    <citation>Sandstrom M, Lindskog K, Velikyan I, Wennborg A, Feldwisch J, Sandberg D, Tolmachev V, Orlova A, Sorensen J, Carlsson J, Lindman H, Lubberink M. Biodistribution and Radiation Dosimetry of the Anti-HER2 Affibody Molecule 68Ga-ABY-025 in Breast Cancer Patients. J Nucl Med. 2016 Jun;57(6):867-71. doi: 10.2967/jnumed.115.169342. Epub 2016 Feb 9.</citation>
+    <PMID>26912439</PMID>
+  </reference>
+  <reference>
+    <citation>Sorensen J, Sandberg D, Sandstrom M, Wennborg A, Feldwisch J, Tolmachev V, Astrom G, Lubberink M, Garske-Roman U, Carlsson J, Lindman H. First-in-human molecular imaging of HER2 expression in breast cancer metastases using the 111In-ABY-025 affibody molecule. J Nucl Med. 2014 May;55(5):730-5. doi: 10.2967/jnumed.113.131243. Epub 2014 Mar 24.</citation>
+    <PMID>24665085</PMID>
+  </reference>
+  <reference>
+    <citation>Sorensen J, Velikyan I, Sandberg D, Wennborg A, Feldwisch J, Tolmachev V, Orlova A, Sandstrom M, Lubberink M, Olofsson H, Carlsson J, Lindman H. Measuring HER2-Receptor Expression In Metastatic Breast Cancer Using [68Ga]ABY-025 Affibody PET/CT. Theranostics. 2016 Jan 1;6(2):262-71. doi: 10.7150/thno.13502. eCollection 2016.</citation>
+    <PMID>26877784</PMID>
+  </reference>
+  <reference>
+    <citation>Tolmachev V, Velikyan I, Sandstrom M, Orlova A. A HER2-binding Affibody molecule labelled with 68Ga for PET imaging: direct in vivo comparison with the 111In-labelled analogue. Eur J Nucl Med Mol Imaging. 2010 Jul;37(7):1356-67. doi: 10.1007/s00259-009-1367-7. Epub 2010 Feb 4.</citation>
+    <PMID>20130858</PMID>
+  </reference>
+  <reference>
+    <citation>Sandberg D, Tolmachev V, Velikyan I, Olofsson H, Wennborg A, Feldwisch J, Carlsson J, Lindman H, Sorensen J. Intra-image referencing for simplified assessment of HER2-expression in breast cancer metastases using the Affibody molecule ABY-025 with PET and SPECT. Eur J Nucl Med Mol Imaging. 2017 Aug;44(8):1337-1346. doi: 10.1007/s00259-017-3650-3. Epub 2017 Mar 6.</citation>
+    <PMID>28261749</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Rimma Axelsson</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>68-Ga ABY-025</keyword>
+  <keyword>HER2 PET</keyword>
+  <keyword>PET/CT</keyword>
+  <keyword>Gastroesophageal cancer</keyword>
+  <keyword>Metastatic breast cancer</keyword>
+  <keyword>HER2 low</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

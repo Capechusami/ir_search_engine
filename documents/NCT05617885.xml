@@ -1,0 +1,606 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617885</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-422</org_study_id>
+    <nct_id>NCT05617885</nct_id>
+  </id_info>
+  <brief_title>Neo-DAB: Darolutamide and Abemaciclib in Prostate Cancer</brief_title>
+  <official_title>A Phase 1/2 Study of Darolutamide and Abemaciclib in High-Risk Prostate Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Praful Ravi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study is trying to determine the safety and efficacy of the combination of two&#xD;
+      oral drugs, abemaciclib and darolutamide, with androgen deprivation therapy (ADT) in the&#xD;
+      treatment of metastatic, non-metastatic, and advanced prostate cancers. The first phase of&#xD;
+      the study is to establish a recommended dose for the second phase.&#xD;
+&#xD;
+      The names of the study drugs and interventions involved in this study are:&#xD;
+&#xD;
+        -  Darolutamide&#xD;
+&#xD;
+        -  Abemaciclib&#xD;
+&#xD;
+        -  Androgen deprivation therapy (ADT) - this includes several different treatments,&#xD;
+           including Gonadotropin-Releasing Hormone (GnRH) antagonists and agonists&#xD;
+&#xD;
+      It is expected that about 93 people will take part in the research study.&#xD;
+&#xD;
+      Treatment is expected to last 6 months with a follow up period of up to 4.5 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This research study is a Phase I/II clinical trial to determine the safety and efficacy of&#xD;
+      the combination of abemaciclib and darolutamide with androgen deprivation therapy (ADT) in&#xD;
+      the treatment of metastatic and non-metastatic castration-resistance prostate cancer (CRPC)&#xD;
+      and for participants with high-risk, localized prostate cancer who will be undergoing radical&#xD;
+      prostatectomy (RP). A Phase I/II clinical trial tests the safety of investigational drugs&#xD;
+      with a lead-in phase and attempts to define the maximum tolerated dose of the investigational&#xD;
+      drugs to use for the second phase. &quot;Investigational&quot; means that the drugs are being studied&#xD;
+      together for the first time.&#xD;
+&#xD;
+      The names of the study drugs and interventions involved in this study are:&#xD;
+&#xD;
+        -  Darolutamide&#xD;
+&#xD;
+        -  Abemaciclib&#xD;
+&#xD;
+        -  Androgen deprivation therapy (ADT) - this includes several different treatments,&#xD;
+           including Gonadotropin-Releasing Hormone (GnRH) agonists, Leuprolide and Goserelin, and&#xD;
+           GnRH antagonist, Degarelix&#xD;
+&#xD;
+      In Phase I, participants will receive abemaciclib in combination with darolutamide and ADT at&#xD;
+      different dosages.&#xD;
+&#xD;
+      In Phase II, participants will be randomized into two groups of treatment: abemaciclib,&#xD;
+      darolutamide, and ADT versus darolutamide and ADT. Randomization means that participants are&#xD;
+      placed into one of the treatment groups by chance, like flipping a coin.&#xD;
+&#xD;
+      The U.S Food and Drug Administration (FDA) has approved androgen deprivation therapy as a&#xD;
+      treatment for prostate cancer. The FDA has not approved abemaciclib for prostate cancer but&#xD;
+      it has been approved for other uses. Abemaciclib is approved for use in advanced breast&#xD;
+      cancer. The FDA has approved darolutamide as a treatment option in men with non-metastatic&#xD;
+      CRPC but it is not approved in men with metastatic CRPC or localized prostate cancer.&#xD;
+      Research procedures include screening for eligibility, study treatment including evaluations,&#xD;
+      blood collection, and radiology scans of the prostate.&#xD;
+&#xD;
+      It is expected about 93 participants will take part in this research study.&#xD;
+&#xD;
+      Treatment is expected to last 6 months with a follow up period of up to 4.5 years.&#xD;
+&#xD;
+      Lilly is supporting this research study by providing funding and the study drug, abemaciclib.&#xD;
+      Bayer is supporting the study by providing the study drug, darolutamide.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">June 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1 - Maximum Tolerated Dose (MTD)</measure>
+    <time_frame>28 days/Cycle 1, up to 6 months</time_frame>
+    <description>The Maximum Tolerated Dose (MTD) for the study drug combination is defined as the maximum dose combination at which &lt;33% of patients experience a Dose limiting toxicity (DLT) during Cycle 1 (the DLT-evaluation period). If a DLT is observed in 1 of 3 patients, then 3 additional patients will be enrolled at that same dose level. Dose escalation will continue to a dose of abemaciclib 200mg bid, which is the maximal dose levels. If DLTs are seen in 0-1 of 6 patients at dose level +1 (darolutamide 600mg bid and abemaciclib 200mg bid), then this will be the RP2D; otherwise the maximally tolerated dose (MTD) will be the RP2D.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1 - Dose Limiting Toxicity (DLT)</measure>
+    <time_frame>28 days/Cycle 1, up to 6 months</time_frame>
+    <description>Dose Limiting Toxicity (DLT) for Phase 1 is defined as an adverse event that is related to Darolutamide and Abemaciclib with an attribution of possible, probable or definite and occurs during and/or begins during the first 28 days of the study treatment, using NCI CTCAE criteria version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1 - Recommended Phase 2 Dose (RP2D)</measure>
+    <time_frame>28 days/Cycle 1, up to 6 months</time_frame>
+    <description>RP2D will be determined after an Maximum Tolerated Dose (MTD) is identified or the maximum planned dose is achieved. Recommended Phase 2 Dose (RP2D) is defined as no more than 0-1 patients with dose limiting toxicity out of 6 at maximal dose level. Otherwise, the maximally tolerated dose will be used.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 - Pathological Response Rate</measure>
+    <time_frame>Disease evaluated from baseline to Pre-Radical Prostatectomy (RP), up to 6 months</time_frame>
+    <description>Pathologic response is defined as achieving either a complete response (pCR) or minimal residual disease (MRD, defined as ≤5mm residual tumor) at Radical Prostatectomy (RP) in both arms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1 - Objective Response Rate (ORR)</measure>
+    <time_frame>Disease evaluated every 12 weeks, up to 6 months</time_frame>
+    <description>The objective response rate (ORR) is defined as the proportion of participants achieving complete response (CR) or partial response (PR) based on RECIST 1.1 criteria on treatment. Per RECIST 1.1 for target lesions: CR is complete disappearance of all target lesions and PR is at least a 30% decrease in the sum of longest diameter (LD) of target lesions, taking as reference baseline sum LD. PR or better overall response assumes at a minimum incomplete response/stable disease (SD) for the evaluation of non-target lesions and absence of new lesions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1 - Median Radiographic Progression-Free Survival (rPFS)</measure>
+    <time_frame>Evaluated every 12 weeks, up to 6 months</time_frame>
+    <description>Radiographic Progression-Free Survival (rPFS) is defined as the time from protocol treatment initiation to the earlier of progression by PCWG3 criteria73 or death due to any cause. PCWG3 progression is defined as when it is felt by the treating physician that the patient is &quot;no longer clinically benefiting&quot; (NLCB) from therapy. Per RECIST 1.1 criteria: progressive disease (PD) is at least a 20% increase in the sum of longest diameter (LD) of target lesions taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions. PD for the evaluation of non-target lesions is the appearance of one or more new lesions and/or unequivocal progression of non-target lesions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1 &amp; 2 - Grade 3 or Higher Treatment-Related Toxicity Rate</measure>
+    <time_frame>28 days, up to 6 months</time_frame>
+    <description>Defined as all grade 3 or higher adverse events (AE) with treatment attribution of possibly, probably or definite based on CTCAEv5 as reported on case report forms were counted. Rate is the proportion of treated participants experiencing at least one treatment-related grade 3 or higher AE of any type during the time of observation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 - Frequency of Certain Adverse Event (AE)</measure>
+    <time_frame>28 days, up to 6 months</time_frame>
+    <description>Certain Adverse Event (AE) includes frequency of positive surgical margins, extracapsular extension, seminal vesicle invasion and lymph node positivity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 - Change in Prostate Specific Antigen (PSA)</measure>
+    <time_frame>PSA is measured day 1 of each cycle, up to 6 months. Each cycle is 28 days.</time_frame>
+    <description>A prostate-specific antigen (PSA) test is a blood test that measures the level of PSA in a sample of blood. PSA test will be done by local institutional labs and reported as nanograms of PSA per milliliter (ng/mL) of blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 - 3-year biochemical progression-free survival (bPFS) Rate</measure>
+    <time_frame>at 3 years</time_frame>
+    <description>3-year bPFS rate is the proportion of participants remaining alive and free of biochemical progression at 3 years. Biochemical progression is defined as a PSA rising to &gt;0.1ng/mL after surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 - 5-year progression-free survival (bPFS) Rate</measure>
+    <time_frame>at 5 years</time_frame>
+    <description>5-year bPFS rate is the proportion of participants remaining alive and free of biochemical progression at 5 years. Biochemical progression is defined as a PSA rising to &gt;0.1ng/mL after surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 - Proportion free from Prostate Cancer Therapy</measure>
+    <time_frame>at 2, 3, and 5 years.</time_frame>
+    <description>Proportion free from further prostate cancer therapy will be estimated from the Kaplan Meier methodology by each arm. Further prostate cancer therapy includes salvage radiotherapy and/or ADT.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">93</enrollment>
+  <condition>Metastatic Prostate Cancer</condition>
+  <condition>Non-metastatic Prostate Cancer</condition>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Phase 1 Lead In in CRPC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard 3+3 dose escalation scheme with 3 dose levels of abemaciclib and a constant dose of darolutamide, per protocol, for 6, 28-day cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide and ADT prior to Radical Prostatectomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>per protocol, for 6, 28-day cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide, Ademaciclib, and ADT prior to Radical Prostatectomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>per protocol, for 6, 28-day cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Darolutamide</intervention_name>
+    <description>Tablet administered orally, per protocol, 2 x daily. Darolutamide is an orally administered molecular drug therapy that blocks the action of testosterone, the male sex hormone which can stimulate growth of prostate cancer.</description>
+    <arm_group_label>Phase 1 Lead In in CRPC</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide and ADT prior to Radical Prostatectomy</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide, Ademaciclib, and ADT prior to Radical Prostatectomy</arm_group_label>
+    <other_name>Nubeqa</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abemaciclib</intervention_name>
+    <description>Tablet administered orally, per protocol, 2 x daily. Abemaciclib is an orally administered molecular drug therapy that is called a &quot;CDK4/6 inhibitor&quot;. CDK4 and CDK6 are enzymes that are involved in helping healthy and cancerous cells divide and blocking these enzymes can stop cancerous cells from growing.</description>
+    <arm_group_label>Phase 1 Lead In in CRPC</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide, Ademaciclib, and ADT prior to Radical Prostatectomy</arm_group_label>
+    <other_name>Verzenio</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GNRH-A Leuprolide Acetate</intervention_name>
+    <description>Administered via intramuscular injection, per standard of care. GnRH agonist is a hormonal therapy drug.</description>
+    <arm_group_label>Phase 1 Lead In in CRPC</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide and ADT prior to Radical Prostatectomy</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide, Ademaciclib, and ADT prior to Radical Prostatectomy</arm_group_label>
+    <other_name>Eligard</other_name>
+    <other_name>Lupron Depot</other_name>
+    <other_name>Lupron Depot-Ped</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GNRH-A Goserelin</intervention_name>
+    <description>Administered via subcutaneous injection, per standard of care. GnRH agonist is a hormonal therapy drug.</description>
+    <arm_group_label>Phase 1 Lead In in CRPC</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide and ADT prior to Radical Prostatectomy</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide, Ademaciclib, and ADT prior to Radical Prostatectomy</arm_group_label>
+    <other_name>Zoladex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Degarelix</intervention_name>
+    <description>Administered via subcutaneous injection, per standard of care. GnRH antagonist is a hormonal therapy drug.</description>
+    <arm_group_label>Phase 1 Lead In in CRPC</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide and ADT prior to Radical Prostatectomy</arm_group_label>
+    <arm_group_label>Phase 2 - Neoadjuvant Darolutamide, Ademaciclib, and ADT prior to Radical Prostatectomy</arm_group_label>
+    <other_name>Firmagon</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria For Phase 1:&#xD;
+&#xD;
+          -  Provision of signed informed consent prior to any study specific procedures, or have a&#xD;
+             legally authorized representative sign on the participant's behalf.&#xD;
+&#xD;
+          -  Ability to swallow oral medications and comply with study procedures and requirements.&#xD;
+&#xD;
+          -  Males ≥18 years&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed adenocarcinoma of the prostate without&#xD;
+             histologic variants (including neuroendocrine differentiation, small cell,&#xD;
+             sarcomatoid, ductal adenocarcinoma, squamous or transitional cell carcinoma)&#xD;
+             comprising &gt;50% of the sample as determined by academic medical center pathology&#xD;
+             review; men without histologic confirmation are eligible provided there is unequivocal&#xD;
+             evidence of prostate cancer (eg. very high PSA) in the view of the treating physician.&#xD;
+&#xD;
+          -  M0 or M1 (by CT/MRI and bone scans) CRPC with evidence of progression at study entry&#xD;
+             demonstrated during continuous androgen deprivation therapy (LHRH/GnRH&#xD;
+             agonists/antagonists/post orchiectomy) and castrate level of serum testosterone (≤50&#xD;
+             ng/dl). Progression is defined as one or more of the following:&#xD;
+&#xD;
+               -  Sequence of at least 2 rising PSA values at a minimum of 1-week intervals with&#xD;
+                  the last result being at least 1.0 ng/mL if confirmed PSA rise is the only&#xD;
+                  indication of progression. Patients who received an anti-androgen (flutamide,&#xD;
+                  bicalutamide or nilutamide) must have PSA progression ≥4 weeks after the last&#xD;
+                  dose.&#xD;
+&#xD;
+               -  Radiographic progression per RECIST 1.1 for soft tissue and/or per PCWG3 for bone&#xD;
+                  (i.e., appearance of ≥2 new bone lesions), with or without PSA progression.&#xD;
+&#xD;
+          -  Serum testosterone level must be ≤50 ng/dL (1.73 nmol/L) at the screening visit.&#xD;
+             Participants who have not undergone bilateral orchiectomy are required to continue&#xD;
+             LHRH/GnRH agonists/antagonists) throughout the study.&#xD;
+&#xD;
+          -  ECOG performance status ≤2 (Karnofsky ≥60%, see Appendix A).&#xD;
+&#xD;
+          -  Participants must have adequate organ and marrow function as below:&#xD;
+&#xD;
+               -  System Laboratory Value&#xD;
+&#xD;
+               -  Hematologic&#xD;
+&#xD;
+               -  ANC ≥1.5×109/L&#xD;
+&#xD;
+               -  Platelets ≥100×109/L&#xD;
+&#xD;
+               -  Hemoglobin ≥9g/dL (≥90g/L) independent of transfusions&#xD;
+&#xD;
+               -  Hepatic&#xD;
+&#xD;
+               -  Total Bilirubin ≤1.5 × ULN OR &lt;2 × ULN if known or suspected Gilbert's syndrome&#xD;
+&#xD;
+               -  ALT and AST ≤3 × ULN OR ≤5 × ULN if liver metastases present&#xD;
+&#xD;
+               -  Renal&#xD;
+&#xD;
+               -  eGFR ≥30 mL/min/1.73 m2 (based on Cockcroft-Gault formula [Appendix D] OR 24 hour&#xD;
+                  urine collection.&#xD;
+&#xD;
+               -  Abbreviations: ALT = alanine aminotransferase; AST = aspartate aminotransferase;&#xD;
+                  ANC = absolute neutrophil count; eGFR = estimated glomerular filtration rate; ULN&#xD;
+                  = upper limit of normal.&#xD;
+&#xD;
+          -  The effects of darolutamide and abemaciclib on the developing human fetus are unknown.&#xD;
+             Participants and their partners must agree to use an effective contraception method&#xD;
+             (hormonal or barrier method of birth control, or abstinence) during the study and for&#xD;
+             3 weeks after the last dose of study treatment (darolutamide and/or abemaciclib) if&#xD;
+             engaged in sex with a woman of childbearing potential, and participants must not&#xD;
+             donate sperm during this period. Should a woman become pregnant or suspect she is&#xD;
+             pregnant while her partner is participating in this study, she should inform her&#xD;
+             treating physician immediately.&#xD;
+&#xD;
+        Inclusion Criteria for Phase 2:&#xD;
+&#xD;
+          -  Provision of signed informed consent prior to any study specific procedures, or have a&#xD;
+             legally authorized representative sign on the participant's behalf.&#xD;
+&#xD;
+          -  Ability to swallow oral medications and comply with study procedures and requirements.&#xD;
+&#xD;
+          -  Males ≥18 years.&#xD;
+&#xD;
+          -  Histologically confirmed adenocarcinoma of the prostate without histologic variants&#xD;
+             (including neuroendocrine differentiation, small cell, sarcomatoid, ductal&#xD;
+             adenocarcinoma, squamous or transitional cell carcinoma) comprising &gt;50% of the sample&#xD;
+             as determined by academic medical center pathology review.&#xD;
+&#xD;
+          -  ≥3 biopsy cores (either systematic or targeted, or a combination) involved with&#xD;
+             prostate cancer. Prostate biopsy must have been performed within 6 months of&#xD;
+             screening. &lt;3 biopsy cores with cancer are allowed if the patient has &gt;1cm of tumor or&#xD;
+             ≥cT3 disease on MRI prostate.&#xD;
+&#xD;
+          -  Participants must have at least 1 biopsy core with either:&#xD;
+&#xD;
+               -  Gleason ≥8 OR&#xD;
+&#xD;
+               -  Gleason 4+3=7 AND at least one of the following:&#xD;
+&#xD;
+                    -  PSA &gt;20ng/dL&#xD;
+&#xD;
+                    -  ≥cT3 disease by MRI&#xD;
+&#xD;
+                    -  Evidence of EPE on biopsy&#xD;
+&#xD;
+          -  No evidence of metastatic disease as determined by radionuclide bone scan and CT/MRI,&#xD;
+             and/or PSMA-PET. Pelvic lymph nodes &lt;2cm in short axis are permitted. If PSMA-PET does&#xD;
+             not show evidence of metastatic disease, CT/MRI and bone scan is not required.&#xD;
+&#xD;
+        Either PSMA-PET or CT/MRI abdomen and bone scan is required before C1D1. NOTE: participants&#xD;
+        with possible evidence of bone, nodal or visceral metastatic disease on PSMA-PET imaging at&#xD;
+        baseline (but not CT/MRI or bone scan) are eligible and their participation is encouraged.&#xD;
+        All participants treated at DFCI must undergo PSMA-PET at baseline or within 28 days of&#xD;
+        C1D1 (per institutional practice) and will also undergo a research-only PSMA-PET after&#xD;
+        completion of therapy and prior to RP.&#xD;
+&#xD;
+          -  Participants must be candidates for RP and be considered surgically resectable by a&#xD;
+             Urologist.&#xD;
+&#xD;
+          -  ECOG performance status ≤1 (Karnofsky ≥70%, see Appendix A).&#xD;
+&#xD;
+          -  Participants must have adequate organ and marrow function as defined below:&#xD;
+&#xD;
+               -  System Laboratory Value&#xD;
+&#xD;
+               -  Hematologic&#xD;
+&#xD;
+               -  ANC ≥1.5×109/L&#xD;
+&#xD;
+               -  Platelets ≥100×109/L&#xD;
+&#xD;
+               -  Hemoglobin≥9g/dL (≥90g/L) independent of transfusions&#xD;
+&#xD;
+               -  Hepatic&#xD;
+&#xD;
+               -  Total Bilirubin ≤1.5 × ULN, &lt;2 × ULN if known or suspected Gilbert's syndrome&#xD;
+&#xD;
+               -  ALT and AST ≤3 × ULN&#xD;
+&#xD;
+               -  Renal&#xD;
+&#xD;
+               -  eGFR ≥30 mL/min/1.73 m2 (based on Cockcroft-Gault formula [Appendix D] OR 24 hour&#xD;
+                  urine collection.&#xD;
+&#xD;
+               -  Abbreviations: ALT = alanine aminotransferase; AST = aspartate aminotransferase;&#xD;
+                  ANC = absolute neutrophil count; eGFR = estimated glomerular filtration rate; ULN&#xD;
+                  = upper limit of normal.&#xD;
+&#xD;
+          -  The effects of darolutamide and abemaciclib on the developing human fetus are unknown.&#xD;
+             Participants and their partners must agree to use an effective contraception method&#xD;
+             (hormonal or barrier method of birth control, or abstinence) during the study and for&#xD;
+             3 weeks after the last dose of study treatment (darolutamide and/or abemaciclib) if&#xD;
+             engaged in sex with a woman of childbearing potential, and participants must not&#xD;
+             donate sperm during this period. Should a woman become pregnant or suspect she is&#xD;
+             pregnant while her partner is participating in this study, she should inform her&#xD;
+             treating physician immediately.&#xD;
+&#xD;
+        Exclusion Criteria for Phase 1:&#xD;
+&#xD;
+          -  Participants who have had chemotherapy or radiotherapy within 4 weeks prior to planned&#xD;
+             cycle 1 day 1 of study treatment.&#xD;
+&#xD;
+          -  Participants who have received anti-neoplastic intervention or experimental&#xD;
+             antineoplastic therapy within 14 days of planned cycle 1 day 1 of study therapy.&#xD;
+&#xD;
+          -  Participants who are receiving any other investigational agents.&#xD;
+&#xD;
+          -  Participants who have previously received darolutamide, abemaciclib or another CDK4/6&#xD;
+             inhibitor.&#xD;
+&#xD;
+          -  Participants who have not recovered from adverse events due to prior anti-cancer&#xD;
+             therapy (i.e. have residual toxicities ≥Grade 2) with the exception of alopecia.&#xD;
+&#xD;
+          -  Any of the following within 6 months before planned cycle 1 day 1 of study therapy:&#xD;
+&#xD;
+               -  Stroke&#xD;
+&#xD;
+               -  Myocardial infarction&#xD;
+&#xD;
+               -  Severe/unstable angina pectoris&#xD;
+&#xD;
+               -  Coronary/peripheral artery bypass graft&#xD;
+&#xD;
+               -  Congestive heart failure New York Heart Association (NYHA) Class III or IV.&#xD;
+&#xD;
+          -  Known or suspected contraindications, hypersensitivity or allergy to darolutamide or&#xD;
+             abemaciclib or to any of their excipients.&#xD;
+&#xD;
+          -  Participants with hepatitis C, hepatitis B or human immunodeficiency (HIV) who are on&#xD;
+             anti-viral therapy that has the potential to interact with darolutamide or&#xD;
+             abemaciclib.&#xD;
+&#xD;
+          -  Participants with untreated brain metastases. Participants with treated brain&#xD;
+             metastases are eligible if follow-up brain imaging at least 4 weeks after central&#xD;
+             nervous system (CNS)-directed therapy shows no evidence of progression and ongoing&#xD;
+             corticosteroids are not required. Participants with new or progressive brain&#xD;
+             metastases (active brain metastases) or leptomeningeal disease are eligible if the&#xD;
+             treating physician determines that immediate CNS specific treatment is not required&#xD;
+             and is unlikely to be required during the first cycle of therapy.&#xD;
+&#xD;
+          -  Participants treated with drugs known to be strong inhibitors and/or inducers of&#xD;
+             cytochrome P450 3A4 (CYP3A4) and the treatment cannot be discontinued or switched to a&#xD;
+             different medication at least 5 half-lives prior to starting study drug.&#xD;
+&#xD;
+        NOTE: precaution is warranted with concomitant use of agents with a narrow therapeutic&#xD;
+        index that are substrates of P-gp, BCRP and OCT1.&#xD;
+&#xD;
+        Because the lists of these agents are constantly changing, it is important to regularly&#xD;
+        consult a frequently-updated medical reference. As part of the enrollment/informed consent&#xD;
+        procedures, the participant will be counseled on the risk of interactions with other&#xD;
+        agents, and what to do if new medications need to be prescribed or if the participant is&#xD;
+        considering a new over-the-counter medicine or herbal product.&#xD;
+&#xD;
+          -  The participant has serious and/or uncontrolled preexisting medical condition(s) that,&#xD;
+             in the judgment of the investigator, would preclude participation in this study (for&#xD;
+             example, interstitial lung disease, severe dyspnea at rest or requiring oxygen&#xD;
+             therapy, severe renal impairment [e.g. estimated creatinine clearance &lt;30ml/min],&#xD;
+             history of major surgical resection involving the stomach or small bowel, or&#xD;
+             preexisting Crohn's disease or ulcerative colitis or a preexisting chronic condition&#xD;
+             resulting in baseline Grade 2 or higher diarrhea).&#xD;
+&#xD;
+          -  Concurrent active malignancy whose natural history or treatment has the potential to&#xD;
+             interfere with safety or efficacy assessment of the investigational regimen. Patients&#xD;
+             with non-melanomatous skin cancer, superficial bladder cancer, cancer not needing&#xD;
+             active therapy for at least 2 years, cancer for which the treating investigator deems&#xD;
+             the subject to be in remission, or any prior malignancy that was treated with curative&#xD;
+             intent (no evidence of disease for at least 3 years) are permitted to enroll.&#xD;
+&#xD;
+        Exclusion Criteria for Phase 2:&#xD;
+&#xD;
+          -  3.4.1 Prior radiotherapy, bilateral orchiectomy, investigational therapy or systemic&#xD;
+             therapy (including LHRH/GnRH agonists/antagonists, anti-androgens, CYP17 inhibitors,&#xD;
+             AR antagonists) for prostate cancer. LHRH/GnRH agonists/antagonists are permitted if&#xD;
+             begun within 4 weeks of day 1; up to 4 weeks of bicalutamide is permitted if it is&#xD;
+             stopped 2 weeks prior to day 1. Prior therapy with 5-⍺-reductase inhibitors is allowed&#xD;
+             but must be stopped 2 weeks prior to day 1.&#xD;
+&#xD;
+          -  Hypogonadism or severe androgen deficiency as defined by screening serum testosterone&#xD;
+             &lt; 200ng/dL. Patients who have a low screening testosterone due to prior ADT (per&#xD;
+             3.4.1) will still be allowed to enroll on study if they do not have a known history of&#xD;
+             hypogonadism or severe androgen deficiency.&#xD;
+&#xD;
+          -  Major surgery or radiotherapy within 4 weeks of start of treatment.&#xD;
+&#xD;
+          -  Any of the following within 6 months before randomization:&#xD;
+&#xD;
+               -  Stroke&#xD;
+&#xD;
+               -  Myocardial infarction&#xD;
+&#xD;
+               -  Severe/unstable angina pectoris&#xD;
+&#xD;
+               -  Coronary/peripheral artery bypass graft&#xD;
+&#xD;
+               -  Congestive heart failure New York Heart Association (NYHA) Class III or IV.&#xD;
+&#xD;
+          -  Known or suspected contraindications, hypersensitivity or allergy to darolutamide or&#xD;
+             abemaciclib or to any of their excipients.&#xD;
+&#xD;
+          -  Participants with hepatitis C, hepatitis B or human immunodeficiency (HIV) who are on&#xD;
+             anti-viral therapy that has the potential to interact with darolutamide or&#xD;
+             abemaciclib.&#xD;
+&#xD;
+          -  Patient treated with drugs known to be moderate or strong inhibitors or inducers of&#xD;
+             cytochrome P450 3A4 (CYP3A4) and the treatment cannot be discontinued or switched to a&#xD;
+             different medication at least 5 half-lives prior to starting study drug.&#xD;
+&#xD;
+        NOTE: precaution is warranted with concomitant use of agents with a narrow therapeutic&#xD;
+        index that are substrates of CYP3A4, P-gp, BCRP and OCT1.&#xD;
+&#xD;
+        Because the lists of these agents are constantly changing, it is important to regularly&#xD;
+        consult a frequently-updated medical reference. As part of the enrollment/informed consent&#xD;
+        procedures, the participant will be counseled on the risk of interactions with other&#xD;
+        agents, and what to do if new medications need to be prescribed or if the participant is&#xD;
+        considering a new over-the-counter medicine or herbal product.&#xD;
+&#xD;
+          -  The participant has serious and/or uncontrolled preexisting medical condition(s) that,&#xD;
+             in the judgment of the investigator, would preclude participation in this study (for&#xD;
+             example, interstitial lung disease, severe dyspnea at rest or requiring oxygen&#xD;
+             therapy, severe renal impairment [e.g. estimated creatinine clearance &lt;30ml/min] or&#xD;
+             history of renal transplant, history of major surgical resection involving the stomach&#xD;
+             or small bowel, or preexisting Crohn's disease or ulcerative colitis or a preexisting&#xD;
+             chronic condition resulting in baseline Grade 2 or higher diarrhea).&#xD;
+&#xD;
+          -  Concurrent active malignancy whose natural history or treatment has the potential to&#xD;
+             interfere with safety or efficacy assessment of the investigational regimen. Patients&#xD;
+             with non-melanomatous skin cancer, superficial bladder cancer, cancer not needing&#xD;
+             active therapy for at least 2 years, cancer for which the treating investigator deems&#xD;
+             the subject to be in remission, or any prior malignancy that was treated with curative&#xD;
+             intent (no evidence of disease for at least 3 years) are permitted to enroll.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Praful Ravi, MB BChir, MRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Praful Ravi, MB BChir, MRCP</last_name>
+    <phone>617-632-3466</phone>
+    <email>praful_ravi@dfci.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Praful Ravi, MB BChir, MRCP</last_name>
+      <phone>617-632-3466</phone>
+      <email>praful_ravi@dfci.harvard.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Praful Ravi</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Prostate Cancer</keyword>
+  <keyword>Hormone Therapy</keyword>
+  <keyword>Androgen Deprivation Therapy</keyword>
+  <keyword>Metastatic Prostate Cancer</keyword>
+  <keyword>Non-metastatic Prostate Cancer</keyword>
+  <keyword>Radical Prostatectomy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leuprolide</mesh_term>
+    <mesh_term>Goserelin</mesh_term>
+    <mesh_term>Prolactin Release-Inhibiting Factors</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Belfer Office for Dana-Farber Innovations (BODFI) at innovation@dfci.harvard.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

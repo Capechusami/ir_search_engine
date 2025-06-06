@@ -1,0 +1,158 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627297</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WentaoKong</org_study_id>
+    <nct_id>NCT05627297</nct_id>
+  </id_info>
+  <brief_title>Applying Artificial Intelligence to Optimize Early-stage Hepatocellular Carcinoma Treatment Based on Multi-modal Image</brief_title>
+  <acronym>AI-HCC</acronym>
+  <official_title>Artificial Intelligence to Optimize Early-stage Hepatocellular CarcinomaTreatment Based on Multi-modal Image</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study intends to establish two prognostic models based on contrast-enhanced ultrasound&#xD;
+      (CEUS) and dynamic enhanced magnetic resonance (DE-MRI) multimodal images: prognostic model&#xD;
+      of liver cancer patients after hepatectomy and prognostic model of liver cancer patients&#xD;
+      after radiofrequency ablation. Combined with artificial intelligence imaging omics,&#xD;
+      traditional imaging omics and clinical information, to predict and compare the prognosis of&#xD;
+      two different treatment methods for early liver cancer, so as to realize the individual&#xD;
+      selection of treatment methods for early liver cancer patients&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2022</start_date>
+  <completion_date type="Anticipated">November 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Good/Poor overall survival</measure>
+    <time_frame>2022/12/01-2025/12/01</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>SR</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RFA</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CEUS and CEMRI</intervention_name>
+    <description>contrast-enhanced ultrasound and contrast-enhanced MRI examination</description>
+    <arm_group_label>RFA</arm_group_label>
+    <arm_group_label>SR</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        200&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Primary single hepatocellular carcinoma confirmed by histology or cytology, with a&#xD;
+             maximum diameter ≤5.0 cm;&#xD;
+&#xD;
+               -  Good liver function, Child-Pugh grade A;&#xD;
+&#xD;
+                    -  No serious dysfunction of heart, lung, kidney and other important organs ④&#xD;
+                       Liver resection or radiofrequency ablation was performed in our hospital,&#xD;
+                       and the study protocol and follow-up procedure were followed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who cannot perform DCE-MRI examination due to metal implants in the body ②&#xD;
+             Patients who had received other treatment before DCE-MRI or CEUS;&#xD;
+&#xD;
+               -  Invisible lesions, diffuse lesions or poor DCE-MRI/CEUS image quality under CEUS;&#xD;
+                  ④ Drug abuse, clinical or psychological or social factors that make informed&#xD;
+                  consent or study implementation affected.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wentao Kong</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Wentao Kong</last_name>
+    <phone>13815897824</phone>
+    <email>breezewen@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Han Liu</last_name>
+    <phone>13058328870</phone>
+    <email>liuhanDEonly@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nanjing Drum Tower Hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wentao Kong, Dr</last_name>
+      <phone>13815897824</phone>
+      <email>breezewem@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>November 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

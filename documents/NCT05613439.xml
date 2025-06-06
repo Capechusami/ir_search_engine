@@ -1,0 +1,426 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613439</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FC-1</org_study_id>
+    <nct_id>NCT05613439</nct_id>
+  </id_info>
+  <brief_title>The Fast-track Centre for Hip and Knee Replacement Database</brief_title>
+  <acronym>FCD</acronym>
+  <official_title>The Fast-track Centre for Hip and Knee Replacement Prospective Database on Preoperative Patientcharacteristics and Postoperative Complications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Novo Nordic Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gødstrup Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sygehus Lillebaelt</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Svendborg Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Gentofte, Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Naestved Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bispebjerg Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aalborg University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hvidovre University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Region of Southern Denmark</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective study-registry on preoperative patient characteristics and&#xD;
+      postoperative complications in patients having fast-track hip and knee replacement surgery in&#xD;
+      8 Danish dedicated arthroplasty departments from all five health regions in Denmark. The&#xD;
+      registry consists of detailed patient and physician reported preoperative characteristics and&#xD;
+      including prescribed medication and lab results. Follow-up is based on electronical medical&#xD;
+      records by dedicated nurses with physician backup and includes Clavien-Dindo and&#xD;
+      Comprehensive Complication Index scoring. All patients having day-surgery also completes a&#xD;
+      patient reported questionaire on health-care utilization and return to work by day 30.&#xD;
+      Finally, a machine-learning algorithm for identification of &quot;high-risk&quot; patients based on he&#xD;
+      preoperative data is included.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study registry is intended for further detailed research on postoperative morbidity,&#xD;
+      feasibility and safety of day surgery and functional outcomes after fast-track hip and knee&#xD;
+      replacement in 8 dedicated Danish arthroplasty wards across all five health care regions in&#xD;
+      Denmark. The work is a continuation of the Lundbeck Foundation Centre Database on Hip and&#xD;
+      Knee Replacement also registered in ClinicalTrials but ceased enrolling in august 2017.&#xD;
+&#xD;
+      The aim of the registry is to provide standardized and comprehensive information on&#xD;
+      preoperative patient characteristics and postoperative complications, patient reported&#xD;
+      outcome measures and health-care utilization in fast-track hip and knee replacement within a&#xD;
+      socialized health-care system. Each department have dedicated research personel assuring&#xD;
+      registration and follow-up supervised by a datamanager, and with database-support from the&#xD;
+      Danish health Region of Southern Denmark.&#xD;
+&#xD;
+      All departments have similar established fast-track protocols as standard of care, but with&#xD;
+      focus on dividing patients into day-surgery, main fast-track group and high-risk cohorts.&#xD;
+&#xD;
+      Preoperative data includes information on prescribed medication, Clinical Frailty Score using&#xD;
+      CFS v.1, evaluation of Pain Catastrophizing Scale as well as laboratory testing of&#xD;
+      hemoglobin, kidney function, Hb1Ac in diabetics and C-reactive protein level. On the basis of&#xD;
+      the collected preoperative data a machine-learning algorithm for identifying the &quot;high-risk&quot;&#xD;
+      patients is being refined and with planned induction in the database.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Fraction of unselected patients able to undergo day-surgery procedures</measure>
+    <time_frame>7 days postoperatively</time_frame>
+    <description>The fraction patients eligible for day-surgery who are discharged on day of surgery.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>postoperative morbidity</measure>
+    <time_frame>90 days postoperatively</time_frame>
+    <description>postoperative morbidity resulting in prolonged (&gt;2 days) hospitalisation, readmissions or mortality 90 days after surgery.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>postoperative morbidity Clavien-Dindo</measure>
+    <time_frame>90 days postoperatively</time_frame>
+    <description>Postoperative morbidity resulting in prolonged (&gt;2 days) hospitalisation, readmissions or mortality 90 days after surgery according to the Clavien-Dindo index.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>postoperative morbidity CCI</measure>
+    <time_frame>90 days postoperatively</time_frame>
+    <description>Postoperative morbidity resulting in prolonged (&gt;2 days) hospitalisation, readmissions or mortality 90 days after surgery according to the Comprehensive Complication Index</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Healthcare utilisation in day-surgery</measure>
+    <time_frame>30 days postoperatively</time_frame>
+    <description>Registration of emergency room visits, visits to general practitioners and use of medical emergency services within 30 days after having hip or knee replacement as day-surgery procedure.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>return to work in day-surgery</measure>
+    <time_frame>30 days postoperatively</time_frame>
+    <description>changes in work status and time to return to work in day-surgery procedures</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>patient satisfaction and patient reported outcome measures1</measure>
+    <time_frame>Baseline, 90 and 365 days postoperatively</time_frame>
+    <description>collection of data on patient satisfaction and function after surgery using the EQ-5D-5L (score from 0-100 with increasing score indicating better health)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>patient satisfaction and patient reported outcome measures, THA only.</measure>
+    <time_frame>Baseline, 90 and 365 days postoperatively</time_frame>
+    <description>collection of data on patient satisfaction and function after surgery using the Oxford Hip Score (range from 0-48 with increasing score indicating better function).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>patient satisfaction and patient reported outcome measures, TKA only.</measure>
+    <time_frame>Baseline, 90 and 365 days postoperatively</time_frame>
+    <description>collection of data on patient satisfaction and function after surgery using the Oxford Knee score (range from 0-48 with increasing score indicating better function).</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Hip</condition>
+  <condition>Knee</condition>
+  <condition>Fast-track Surgery</condition>
+  <condition>Enhanced Recovery After Surgery</condition>
+  <condition>Perioperative Medicine</condition>
+  <condition>Ambulatory Surgical Procedures</condition>
+  <condition>Perioperative/Postoperative Complications</condition>
+  <condition>Patient Satisfaction</condition>
+  <arm_group>
+    <arm_group_label>Day-surgery group</arm_group_label>
+    <description>Patients having hip or knee replacement as day-surgery with successful discharge to own home on day of surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-risk patients</arm_group_label>
+    <description>Patients evaluated to be at increased risk of postoperative complications. These patients will receive relevant additional attention based on type of comorbidity. I.e. preoperative evaluation of iron status and i.v. iron treatment in case of preoperative anaemia, increased focus on avoidance of NSAIDs and adequate fluid therapy in patients with renal disease etc.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Main group</arm_group_label>
+    <description>Patients who are not scheduled for day-surgery and without comorbidities qualifying as &quot;high-risk&quot;. These patients go through a standard fast-track procedure with discharge to own home when fulfilling functional discharge criteria.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Day-surgery</intervention_name>
+    <description>Standard surgical procedure but with planned discharge on day of surgery</description>
+    <arm_group_label>Day-surgery group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>High-risk patient</intervention_name>
+    <description>Standard fast-track procedure but with additional perioperative measures dependent on risk-profile.</description>
+    <arm_group_label>High-risk patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Main Group</intervention_name>
+    <description>Standard fast-track procedure according to usual standard of care and discharge when fulfilling functional discharge criteria</description>
+    <arm_group_label>Main group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The participating dedicated arthroplasty departments are placed in either large university&#xD;
+        or regional hospitals. The departments cover all five healthcare regions in Denmark and are&#xD;
+        estimated to contribute with about 40% of the annual hip and knee replacements in Denmark.&#xD;
+        Thus, the population is representative of the general Danish arthroplasty population.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age &gt;18 years&#xD;
+&#xD;
+          -  non-malignant surgery&#xD;
+&#xD;
+          -  danish social security number&#xD;
+&#xD;
+          -  elective procedure&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  unwilling to provide informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Henrik Kehlet, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Section for Surgical Pathophysiology, Rigshospitalet, University of Copenhagen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christoffer C Jorgensen, M.D.</last_name>
+    <phone>+48 29 66 59</phone>
+    <email>christoffer.calov.joergensen@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Henrik Kehlet, M.D.</last_name>
+    <phone>+45 35 45 35 45</phone>
+    <email>henrik.kehlet@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bispebjerg University Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <state>Capital Region</state>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Søren Overgaard, MD</last_name>
+      <phone>+45 38 63 50 00</phone>
+      <email>soeren.overgaard@regionh.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Søren Overgaard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gentofte University Hospital</name>
+      <address>
+        <city>Gentofte</city>
+        <state>Capital Region</state>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mikkel R Andersen, M.D.</last_name>
+      <phone>+45 38 67 38 67</phone>
+      <email>mikkel.rathsach.andersen@regionh.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Mikkel Rathsach, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hvidovre Hospital</name>
+      <address>
+        <city>Hvidovre</city>
+        <state>Capital Region</state>
+        <zip>2650</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kirill Gromov, M.D.</last_name>
+      <phone>+45 38 62 38 62</phone>
+      <email>Kirill.Gromov@regionh.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Kirill Gromov, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gødstrup Hospital</name>
+      <address>
+        <city>Herning</city>
+        <state>Region Of Middle Judland</state>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aalborg University Hospital, Farsø</name>
+      <address>
+        <city>Farsø</city>
+        <state>Region Of Northern Judland</state>
+        <zip>9640</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Jakobsen, M.D.</last_name>
+      <phone>+45 97 66 00 00</phone>
+      <email>thomas.jakobsen@rn.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas Jakobsen, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lillebaelt Hospital, Vejle</name>
+      <address>
+        <city>Vejle</city>
+        <state>Region Of Sourthern Denmark</state>
+        <zip>7100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claus Varnum, M.D.</last_name>
+      <phone>+45 76 36 20 00</phone>
+      <email>Claus.Varnum@rsyd.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Claus Varnum, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Svendborg</name>
+      <address>
+        <city>Svendborg</city>
+        <state>Region Of Southern Denmark</state>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Lindberg-Larsen, M.D.</last_name>
+      <phone>+45 63 20 20 00</phone>
+      <email>Martin.Lindberg-Larsen@rsyd.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Martin Lindberg-Larsen, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Næstved Hospital</name>
+      <address>
+        <city>Næstved</city>
+        <state>Region Seeland</state>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kim P Sperling, MD</last_name>
+      <phone>+45 56 51 20 00</phone>
+      <email>kpsp@regionsjaelland.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Christoffer Joergensen</investigator_full_name>
+    <investigator_title>Database manager</investigator_title>
+  </responsible_party>
+  <keyword>Hip Replacement</keyword>
+  <keyword>Knee Replacement</keyword>
+  <keyword>Perioperative Medicine</keyword>
+  <keyword>Enhanced Recovery After Surgery</keyword>
+  <keyword>Perioperative/Postoperative Complications</keyword>
+  <keyword>Ambulatory Surgical Procedures</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Postoperative Complications</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

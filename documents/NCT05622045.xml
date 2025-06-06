@@ -1,0 +1,230 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622045</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5220330</org_study_id>
+    <nct_id>NCT05622045</nct_id>
+  </id_info>
+  <brief_title>Does Personality Predict Patient Adherence, Health Behaviors, and Weight Loss Outcomes During the Latino Crossover Semaglutide Study (LCSS)? (Story-LCSS Project)</brief_title>
+  <acronym>StoryLCSS</acronym>
+  <official_title>Does Personality Predict Patient Adherence, Health Behaviors, and Weight Loss Outcomes During the Latino Crossover Semaglutide Study (LCSS)? (Story-LCSS Project)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Loma Linda University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Scaled Insights</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Loma Linda University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this observational study is to learn about the personality attributes and values&#xD;
+      of people living with obesity that are part of the Latino community, and how these&#xD;
+      personality attributes and values can help to predict success during a weight loss program.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        -  What are the personality attributes and values of people living with obesity that sign&#xD;
+           up to the LCSS-Latino Crossover Semaglutide Study trial?&#xD;
+&#xD;
+        -  Can behavioral artificial intelligence (a computer formula) predict which patients will&#xD;
+           complete the LCSS-Latino Crossover Semaglutide Study trial?&#xD;
+&#xD;
+        -  How do behavioral artificial Intelligence predictions (a computer formula) compare to&#xD;
+           clinician predictions of patient success?&#xD;
+&#xD;
+        -  Can behavioral artificial intelligence (a computer formula) predict patient weight loss,&#xD;
+           calorie consumption and physical activity levels during the LCSS-Latino Crossover&#xD;
+           Semaglutide Study trial? Participants will be recorded in English and Spanish while&#xD;
+           responding to a question regarding participation in a weight loss study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2023</start_date>
+  <completion_date type="Anticipated">March 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Predicted patient weight change success</measure>
+    <time_frame>The voice data measurement will take place at baseline and take about 10-15 minutes for collection to take place.</time_frame>
+    <description>Predicted patient weight change as determined by Scaled Insights Behavioural Artificial Intelligence based on subject voice data. Weight loss exceeding 5-10 pounds over 6 months will be considered to be successful. Predicted weight change will be compared to the weight change measured in a separate clinical trial [Latino Crossover Semaglutide Study (LCSS) NCT05087342]. Similar weight change values between the predicted and measured outcomes will indicate that the Scaled Insights Behavioural Artificial Intelligence is good predictor.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinician predictions</measure>
+    <time_frame>The clinician judgement will be measured during the second month of the subject's weight loss study.</time_frame>
+    <description>Clinician (physician) judgement of patient weight loss success during a weight loss study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Predicated patient calorie intake</measure>
+    <time_frame>The voice data measurement will take place during the subject's initial clinic visit and take about 10-15 minutes for collection to take place.</time_frame>
+    <description>Predicted patient calorie intake as determined by Scaled Insights Behavioural Artificial Intelligence based on subject voice data. Predicted calorie intake will be compared to the calorie intake measured in a separate clinical trial [Latino Crossover Semaglutide Study (LCSS) NCT05087342]. Similar calorie values between the predicted and measured outcomes will indicate that the Scaled Insights Behavioural Artificial Intelligence is good predictor.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Predicated patient physical activity level</measure>
+    <time_frame>The voice data measurement will take at baseline and take about 10-15 minutes for collection to take place.</time_frame>
+    <description>Predicted patient physical activity level as determined by Scaled Insights Behavioural Artificial Intelligence based on subject voice data. Predicted physical activity will be compared to the physical activity measured in a separate clinical trial [Latino Crossover Semaglutide Study (LCSS) NCT05087342]. Similar physical activity level values between the predicted and measured outcomes will indicate that the Scaled Insights Behavioural Artificial Intelligence is good predictor.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Personality attributes and values</measure>
+    <time_frame>The voice data measurement will take place at baseline and take about 10-15 minutes for collection to take place.</time_frame>
+    <description>Extrapolated personality attributes and values as determined by Scaled Insights Behavioural Artificial Intelligence based on subject voice data. These are qualitative non-numerical descriptors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Predicted patient attrition rate</measure>
+    <time_frame>The voice data measurement will take place at baseline and take about 10-15 minutes for collection to take place.</time_frame>
+    <description>Predicted patient attrition rate from the weight loss study as determined by Scaled Insights Behavioural Artificial Intelligence based on subject voice data. Predicted patient attrition rate will be compared to the attrition rate occurring during the weight loss study. Similar attrition rates between the predicted and actual rates will indicate that the Scaled Insights Behavioural Artificial Intelligence is good predictor.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Obesity</condition>
+  <condition>Body Weight Changes</condition>
+  <arm_group>
+    <arm_group_label>Story-LCSS</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Voice data</intervention_name>
+    <description>Recorded response to a question about their participation in a weight loss study.</description>
+    <arm_group_label>Story-LCSS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hispanic men and women, 18 to 74 years of age, with obesity, residing in Southern&#xD;
+        California, who are taking part in the LCSS-Latino Crossover Semaglutide Study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participation in the LCSS-Latino Crossover Semaglutide Study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not a participant of the LCSS-Latino Crossover Semaglutide Study at the point of data&#xD;
+             collection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Celine Heskey, DrPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Loma Linda University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Celine Heskey, DrPH</last_name>
+    <phone>909-558-1000</phone>
+    <phone_ext>47181</phone_ext>
+    <email>cheskey@llu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amandeep Kaur, MPH</last_name>
+    <phone>909-558-4300</phone>
+    <phone_ext>47169</phone_ext>
+    <email>akaur1@llu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nutrition Research Center, School of Public Health, Loma Linda University</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92350</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amandeep Kaur</last_name>
+      <phone>909-558-4300</phone>
+      <phone_ext>47169</phone_ext>
+      <email>akaur1@llu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Celine Heskey, DrPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Alberga AS, Russell-Mayhew S, von Ranson KM, McLaren L. Weight bias: a call to action. J Eat Disord. 2016 Nov 7;4:34. doi: 10.1186/s40337-016-0112-4. eCollection 2016.</citation>
+    <PMID>27826445</PMID>
+  </reference>
+  <reference>
+    <citation>Dalle Grave R, Calugi S, Compare A, El Ghoch M, Petroni ML, Tomasi F, Mazzali G, Marchesini G. Weight Loss Expectations and Attrition in Treatment-Seeking Obese Women. Obes Facts. 2015;8(5):311-8. doi: 10.1159/000441366. Epub 2015 Oct 8.</citation>
+    <PMID>26444382</PMID>
+  </reference>
+  <reference>
+    <citation>Flint SW, Leaver M, Griffiths A, Kaykanloo M. Disparate healthcare experiences of people living with overweight or obesity in England. EClinicalMedicine. 2021 Sep 15;41:101140. doi: 10.1016/j.eclinm.2021.101140. eCollection 2021 Nov.</citation>
+    <PMID>34585130</PMID>
+  </reference>
+  <reference>
+    <citation>Flint SW, Piotrkowicz A, Watts K. Use of Artificial Intelligence to understand adults' thoughts and behaviours relating to COVID-19. Perspect Public Health. 2022 May;142(3):167-174. doi: 10.1177/1757913920979332. Epub 2021 Jan 21.</citation>
+    <PMID>33472547</PMID>
+  </reference>
+  <reference>
+    <citation>Hardcastle SJ, Taylor AH, Bailey MP, Harley RA, Hagger MS. Effectiveness of a motivational interviewing intervention on weight loss, physical activity and cardiovascular disease risk factors: a randomised controlled trial with a 12-month post-intervention follow-up. Int J Behav Nutr Phys Act. 2013 Mar 28;10:40. doi: 10.1186/1479-5868-10-40.</citation>
+    <PMID>23537492</PMID>
+  </reference>
+  <reference>
+    <citation>Puhl RM, Phelan SM, Nadglowski J, Kyle TK. Overcoming Weight Bias in the Management of Patients With Diabetes and Obesity. Clin Diabetes. 2016 Jan;34(1):44-50. doi: 10.2337/diaclin.34.1.44. No abstract available.</citation>
+    <PMID>26807008</PMID>
+  </reference>
+  <reference>
+    <citation>Wilding JPH, Batterham RL, Calanna S, Davies M, Van Gaal LF, Lingvay I, McGowan BM, Rosenstock J, Tran MTD, Wadden TA, Wharton S, Yokote K, Zeuthen N, Kushner RF; STEP 1 Study Group. Once-Weekly Semaglutide in Adults with Overweight or Obesity. N Engl J Med. 2021 Mar 18;384(11):989-1002. doi: 10.1056/NEJMoa2032183. Epub 2021 Feb 10.</citation>
+    <PMID>33567185</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>March 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Loma Linda University</investigator_affiliation>
+    <investigator_full_name>Celine Heskey</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>artificial intelligence</keyword>
+  <keyword>obesity</keyword>
+  <keyword>weight loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Body Weight</mesh_term>
+    <mesh_term>Weight Loss</mesh_term>
+    <mesh_term>Body Weight Changes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>There is not plan currently to share IPD outside of the collaborators that are part of the study. It is possible that requests may be made by students later on to use data for secondary data analysis as part of their academic research projects, and the research collaborators will decide if unidentified IPD would be shared at such a time.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

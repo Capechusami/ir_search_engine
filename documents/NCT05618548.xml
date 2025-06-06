@@ -1,0 +1,243 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618548</url>
+  </required_header>
+  <id_info>
+    <org_study_id>cev004</org_study_id>
+    <nct_id>NCT05618548</nct_id>
+  </id_info>
+  <brief_title>Vaccination Against COVID-19 in Pregnant and Lactating Women in Belgium</brief_title>
+  <acronym>PREGCOVAC</acronym>
+  <official_title>Vaccination Against COVID-19 in Pregnant and Lactating Women in Belgium: a Non-commercial Multicenter Academic Prospective Cohort Study in Pregnant and Lactating Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universiteit Antwerpen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Vrije Universiteit Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sciensano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Université Libre de Bruxelles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universiteit Antwerpen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate whether pregnant and lactating women can develop similar&#xD;
+      protective immunity as non-pregnant women against Coronavirus Infectious Disease 2019&#xD;
+      (COVID-19) upon vaccination, without safety issues. Immunogenicity and safety of all&#xD;
+      currently licensed COVID-19 vaccines that are administered to pregnant and lactating women in&#xD;
+      Belgium will be studied.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project will compare vaccination of pregnant women with age-matched non-pregnant women&#xD;
+      and women vaccinated in the postpartum period during lactation. The primary objectives are to&#xD;
+      assess the immune responses (humoral immunity, cellular immunity, mucosal immunity) and&#xD;
+      safety after either administration of the Comirnaty COVID-19 vaccine (mRNA, Pfizer BioNtech),&#xD;
+      the COVID-19 Moderna vaccine (mRNA, Moderna), the COVID-19 vaccine Vaxzevria (Viral Vector,&#xD;
+      Astra Zeneca) or any other vaccine that will become available for the Belgian population.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 specific IgG antibody immune response after COVID-19 vaccination</measure>
+    <time_frame>Day 28 after the second COVID-19 vaccine dose</time_frame>
+    <description>Measurement of anti-SARS-CoV-2 antibodies on day 28 after being fully vaccinated in pregnant women and postpartum lactating women. Serum samples taken on day 28 after complete vaccination will be taken and analyzed in the laboratory. IgG antibodies against COVID-19 will be measured.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety of COVID-19 vaccines: number of participants with vaccine-related side effects as assessed by GAIA criteria</measure>
+    <time_frame>Through the complete study period</time_frame>
+    <description>Investigation of the safety of COVID-19 vaccines in pregnant and lactating women, both immediate and long term safety. Information about possible adverse events will be gathered by a diary filled in by each participant after each dose of vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of immune response</measure>
+    <time_frame>Day 7/28 after second dose; month 6 after first dose</time_frame>
+    <description>Measure antibody based immune responses on day 7 and day 28 after the second dose as well as 6 months after the first dose.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The efficacy of immune response: the incidence of (PCR-confirmed) SARS-CoV-2 infections after being vaccinated</measure>
+    <time_frame>Through the complete study period</time_frame>
+    <description>The efficacy of immune response will be measured by the COVID-19 infection rate based on information collected through questionnaires on incidence of (PCR-confirmed) SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The influence of COVID-19 vaccination on breast milk composition: the presence of IgG antibodies against COVID-19 in breast milk</measure>
+    <time_frame>Day 1 after first dose, Day 7 and 28 after second dose, Month 6 after first dose (postpartum lactating women); Week 4/8/12 postpartum (pregnant women)</time_frame>
+    <description>The measurement of IgG antibodies against COVID-19 in breast milk in women who are vaccinated during pregnancy or during the postpartum period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The amount of transported antibodies to spike protein S in the offspring.</measure>
+    <time_frame>At delivery</time_frame>
+    <description>During delivery, cord blood will be taken to measure the IgG transport from the mother to the baby.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV2 specific T-cell response and its evolution and longevity</measure>
+    <time_frame>Day 7 and Day 28 after the second vaccine dose</time_frame>
+    <description>The measurement of the SARS-CoV2 specific T-cell response after COVID-19 vaccination in pregnant and lactating women and its evolution and longevity by sampling blood at different timepoints.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV2 specific B-cell response and its evolution and longevity</measure>
+    <time_frame>Day 7 and Day 28 after the second vaccine dose</time_frame>
+    <description>The measurement of the SARS-CoV2 specific B-cell response after COVID-19 vaccination in pregnant and lactating women and its evolution and longevity by sampling blood at different timepoints.</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Actual">110</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cohort A: Pregnant women vaccinated with a mRNA COVID-19 vaccine</arm_group_label>
+    <description>Pregnant women who will be offered a mRNA COVID-19 vaccine (brand will depend on the vaccine available at the time of inclusion). Gestational age at vaccination will depend on the timing when the vaccine is offered to the specific participant, this being subject to the national recommendations for vaccination of priority groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B: Pregnant women vaccinated with an adenoviral vector COVID-19 vaccine</arm_group_label>
+    <description>Pregnant women who will be offered an adenoviral vector COVID-19 vaccine (Astra Zeneca). Gestational age at vaccination will depend on the timing when the vaccine is offered to the specific participant, this being subject to the national recommendations for vaccination of priority groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort C: Postpartum lactating women vaccinated with a mRNA COVID-19 vaccine</arm_group_label>
+    <description>Non-pregnant women during lactation (postpartum) will be offered a mRNA COVID-19 vaccine (brand will depend on the vaccine available at the time of inclusion). Duration of lactation at vaccination will depend on the timing when the vaccine is offered to the specific participant, this being subject to the national recommendations for vaccination of priority groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort D: Postpartum lactating women vaccinated with an adenoviral vector COVID-19 vaccine (N=40)</arm_group_label>
+    <description>Non-pregnant women during lactation (postpartum) will be offered an adenviral vector COVID-19 vaccine (brand will depend on the vaccine available at the time of inclusion). Duration of lactation at vaccination will depend on the timing when the vaccine is offered to the specific participant, this being subject to the national recommendations for vaccination of priority groups.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 vaccine</intervention_name>
+    <description>COVID-19 vaccine available at the moment of vaccination: either the Comirnaty vaccine (mRNA, Pfizer BioNtech), the Moderna vaccine (mRNA, Moderna), the Vaxzevria vaccine (Viral Vector, Astra Zeneca).</description>
+    <arm_group_label>Cohort A: Pregnant women vaccinated with a mRNA COVID-19 vaccine</arm_group_label>
+    <arm_group_label>Cohort B: Pregnant women vaccinated with an adenoviral vector COVID-19 vaccine</arm_group_label>
+    <arm_group_label>Cohort C: Postpartum lactating women vaccinated with a mRNA COVID-19 vaccine</arm_group_label>
+    <arm_group_label>Cohort D: Postpartum lactating women vaccinated with an adenoviral vector COVID-19 vaccine (N=40)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples, saliva samples and breast milk samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        To evaluate the immune response and safety after vaccination against COVID-19 in pregnant&#xD;
+        and lactating women, four cohorts will be included (Cohort A-D). An additional cohort of&#xD;
+        lactating women (Cohort E) will be included in the study. In this cohort, only the effect&#xD;
+        of COVID-19 vaccination on breast milk composition will be evaluated.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female population older than 18 years.&#xD;
+&#xD;
+          -  Ability to provide informed consent.&#xD;
+&#xD;
+          -  Willing to be vaccinated with a COVID-19 vaccine.&#xD;
+&#xD;
+          -  Intend to be available for follow-up visits through one year postvaccination.&#xD;
+&#xD;
+          -  Influenza and pertussis vaccination during pregnancy (as per Belgian recommendations)&#xD;
+             is allowed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Serious underlying immunological condition (e.g. immunosuppressive disease or therapy,&#xD;
+             human immunodeficiency virus (HIV) infection…).&#xD;
+&#xD;
+          -  Systemic treatment with immune suppressive medication, including chronic steroid use&#xD;
+             of &gt; 10 mg prednisone or equivalent.&#xD;
+&#xD;
+          -  Anything in the opinion of the investigator that would prevent volunteers from&#xD;
+             completing the study or put the volunteer at risk.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elke Leuridan, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universiteit Antwerpen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kirsten Maertens, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universiteit Antwerpen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Larissa De Brabandere, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universiteit Antwerpen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centre for the Evaluation of Vaccination</name>
+      <address>
+        <city>Antwerp</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>May 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universiteit Antwerpen</investigator_affiliation>
+    <investigator_full_name>Elke Leuridan, MD, PhD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Vaccination</keyword>
+  <keyword>Pregnancy</keyword>
+  <keyword>Lactating women</keyword>
+  <keyword>Breast milk</keyword>
+  <keyword>Humoral immune response</keyword>
+  <keyword>Cellular immune response</keyword>
+  <keyword>Maternal antibodies</keyword>
+  <keyword>Transplacental transmission</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

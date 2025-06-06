@@ -1,0 +1,215 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626439</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UP0104</org_study_id>
+    <nct_id>NCT05626439</nct_id>
+  </id_info>
+  <brief_title>A Relative Bioavailability Study of Staccato Alprazolam Versus Oral Alprazolam in Healthy Study Participants</brief_title>
+  <official_title>An Open-Label, Randomized, Single-Dose, 2-Way Crossover Study to Evaluate The Relative Bioavailability of Staccato Alprazolam Compared to Oral Alprazolam in Healthy Study Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Biopharma SRL</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to evaluate the relative bioavailability of alprazolam in plasma&#xD;
+      following a single dose of Staccato alprazolam compared to a single dose of oral alprazolam&#xD;
+      under fasted conditions&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 28, 2022</start_date>
+  <completion_date type="Actual">February 22, 2023</completion_date>
+  <primary_completion_date type="Actual">February 22, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under the plasma concentration-time curve from time 0 to infinity (AUC) of alprazolam</measure>
+    <time_frame>Plasma samples will be collected from Baseline (Day 1 predose) at predefined time points (up to Day 3)</time_frame>
+    <description>AUC = Area under the plasma concentration-time curve from time zero to infinity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the plasma concentration-time curve from time 0 to the last quantifiable concentration (AUC(0-t)) of alprazolam</measure>
+    <time_frame>Plasma samples will be collected from Baseline (Day 1 predose) at predefined time points (up to Day 3)</time_frame>
+    <description>AUC(0-t) = Area under the plasma concentration-time curve from time 0 to the last quantifiable concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum plasma concentration (Cmax) of alprazolam</measure>
+    <time_frame>Plasma samples will be collected from Baseline (Day 1 predose) at predefined time points (up to Day 3)</time_frame>
+    <description>Cmax = Maximum plasma concentration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of study participants with treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>From Baseline (Day 1) of Treatment Period 1 to the end of Safety Follow-Up (up to 25 days)</time_frame>
+    <description>An Adverse Event (AE) is any untoward medical occurrence in a patient or clinical study participant, temporally associated with the use of study medication, whether or not considered related to the study medication.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of study participants with serious treatment-emergent adverse events (serious TEAEs)</measure>
+    <time_frame>From Baseline (Day 1) of Treatment Period 1 to the end of Safety Follow-Up (up to 25 days)</time_frame>
+    <description>A serious adverse event (SAE) is defined as any untoward medical occurrence that, at any dose:&#xD;
+Results in death Is life-threatening Requires inpatient hospitalization or prolongation of existing hospitalization Results in persistent disability/incapacity Is a congenital anomaly/birth defect Important medical events referred to in the Protocol.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">21</enrollment>
+  <condition>Healthy Participants</condition>
+  <arm_group>
+    <arm_group_label>Treatment Sequence AB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study participants randomized into this arm will receive single dose of Staccato alprazolam followed by single dose of oral alprazolam at pre-specified time points in the sequence AB.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence BA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study participants randomized into this arm will receive single dose of oral alprazolam followed by single dose of Staccato alprazolam at pre-specified time points in the sequence BA.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Staccato alprazolam</intervention_name>
+    <description>Study participants will receive single dose of Staccato alprazolam by inhalation at pre-specified time points.</description>
+    <arm_group_label>Treatment Sequence AB</arm_group_label>
+    <arm_group_label>Treatment Sequence BA</arm_group_label>
+    <other_name>UCB7538</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oral alprazolam</intervention_name>
+    <description>Study participants will receive single dose of oral alprazolam at pre-specified time points.</description>
+    <arm_group_label>Treatment Sequence AB</arm_group_label>
+    <arm_group_label>Treatment Sequence BA</arm_group_label>
+    <other_name>Xanax</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants are overtly healthy as determined by medical evaluation, including&#xD;
+             medical history, physical examination, laboratory tests, and cardiac monitoring, at&#xD;
+             the Screening Visit or on Day -1 of the first Treatment Period&#xD;
+&#xD;
+          -  Participant has a body weight of at least 45 kg (female) and 50 kg (male) and body&#xD;
+             mass index (BMI) within the range 18 to 35 kg/m^2 (inclusive) at the Screening Visit&#xD;
+             or on Day -1 of the first Treatment Period&#xD;
+&#xD;
+          -  Participants may be male or female:&#xD;
+&#xD;
+        A male participant must agree to use contraception as detailed in the protocol during the&#xD;
+        Treatment Periods and for at least 7 days after the second Investigational Medicinal&#xD;
+        Product (IMP) administration and must refrain from donating sperm during this period.&#xD;
+&#xD;
+        A female participant is eligible to participate if she is not pregnant, not breastfeeding,&#xD;
+        and at least 1 of the following conditions applies:&#xD;
+&#xD;
+          -  Not a woman of childbearing potential (WOCBP) as defined in the protocol OR A WOCBP&#xD;
+             who agrees to follow the contraceptive guidance in the protocol during the Treatment&#xD;
+             Periods and for at least 30 days after the second IMP administration&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participant has any medical or psychiatric condition that, in the opinion of the&#xD;
+             Investigator, could jeopardize or would compromise the study participant's ability to&#xD;
+             participate in this study&#xD;
+&#xD;
+          -  Participant has a history or present condition of cardiovascular, respiratory,&#xD;
+             hepatic, renal, gastrointestinal, endocrinological, hematological, neurological,&#xD;
+             cerebrovascular, or other major disorders capable of significantly altering the&#xD;
+             absorption, metabolism, or elimination of Investigational Medicinal Product (IMP);&#xD;
+             constituting a risk when taking the IMP; or interfering with the interpretation of&#xD;
+             data&#xD;
+&#xD;
+          -  Participant has abnormal blood pressure (BP) or heart rate (HR) at the Screening Visit&#xD;
+             or on Day -1 of the first Treatment Period (as stated in the protocol). Study&#xD;
+             participants must have BP and HR within normal range in the supine position after 5&#xD;
+             minutes of rest (systolic BP [SBP]: 90 mmHg to 140 mmHg, diastolic BP [DBP]: 50 mmHg&#xD;
+             to 90 mmHg, HR: 50 beats per minute to 100 beats per minute (bpm). In case of an&#xD;
+             out-of-range result, 1 repeat will be allowed. If the readings are out of range again,&#xD;
+             the study participant will not be included&#xD;
+&#xD;
+          -  Participant has a lifetime history of suicide attempt (including an actual attempt,&#xD;
+             interrupted attempt, or aborted attempt) or has had suicidal ideation in the past 6&#xD;
+             months as indicated by a positive response (&quot;Yes&quot;) to either Question 4 or Question 5&#xD;
+             of the &quot;Screening/Baseline&quot; version of the Columbia Suicide Severity Rating Scale&#xD;
+             (C-SSRS) at the Screening Visit&#xD;
+&#xD;
+          -  Participant has had a positive test for Severe acute respiratory syndrome coronavirus&#xD;
+             type 2 (SARS-CoV-2) or clinical signs/symptoms consistent with coronavirus disease&#xD;
+             2019 (COVID-19) such as fever, persistent cough, shortness of breath, fatigue, and&#xD;
+             loss or change to senses of smell or taste during the 4 weeks prior to the Screening&#xD;
+             Visit or Day -1 of the first Treatment Period&#xD;
+&#xD;
+          -  Participant has a condition for which oral alprazolam is contraindicated (eg,&#xD;
+             myasthenia gravis, severe respiratory insufficiency, sleep apnea syndrome, and severe&#xD;
+             hepatic insufficiency)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Cares</last_name>
+    <role>Study Director</role>
+    <affiliation>001 844 599 2273 (UCB)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Up0104 1001</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>February 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy participants</keyword>
+  <keyword>Bioavailability</keyword>
+  <keyword>Phase 1</keyword>
+  <keyword>Staccato alprazolam</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alprazolam</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Due to the small sample size in this trial, IPD cannot be adequately anonymized i.e., there is a reasonable likelihood that individual participants could be re-identified. For this reason, data from this trial cannot be shared.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

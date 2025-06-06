@@ -1,0 +1,323 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628922</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Remodel 1.0</org_study_id>
+    <nct_id>NCT05628922</nct_id>
+  </id_info>
+  <brief_title>Modulation Therapy for Locally Advanced NPC Based on Plasma EBV DNA Level Post-ICT</brief_title>
+  <official_title>Response-adapted Modulation Therapy for Locally Advanced Nasopharyngeal Carcinoma Based on Circulating Epstein-Barr Virus DNA Level Post Induction Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fudan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fudan University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Nasopharyngeal carcinoma is biologically different from traditional head and neck squamous&#xD;
+      cell carcinoma. The mainstay treatment for locally advanced nasopharyngeal carcinoma is&#xD;
+      cisplatin-based concurrent chemoradiation. Recent phase III randomized control trials have&#xD;
+      demonstrated that induction chemotherapy plus concurrent chemoradiation further improved&#xD;
+      progression-free survival.&#xD;
+&#xD;
+      However, not every patient has good response to induction chemotherapy. Evidence has&#xD;
+      accumulated that those with poor response to induction chemotherapy, or those with detectable&#xD;
+      Epstein-Barr Virus (EBV) DNA post induction chemotherapy, correlated with poorer&#xD;
+      progression-free survival. Huang CL et al. (Int J Radiat Oncol Bio Phys. 2019) reported that&#xD;
+      plasma EBV DNA load at completion of induction chemotherapy was an independent and earlier&#xD;
+      predictor for progression-free survival and overall survival in locally advanced&#xD;
+      nasopharyngeal carcinoma. Lv J et al. (Nat Commun. 2019) demonstrated that real-time&#xD;
+      monitoring of plasma EBV DNA response added prognostic information, and had the potential&#xD;
+      uitility for risk-adapted treatment intensification in nasopharyngeal carcinoma.&#xD;
+&#xD;
+      Therefore, investigators selects those with poor plasma EBV DNA response during and after&#xD;
+      induction chemotherapy, and intensifies the treatment with combination of anti-PD-1 antibody,&#xD;
+      in order to improve progression-free survival in locally advanced nasopharyngeal carcinoma,&#xD;
+      according to response-adapted strategy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this study, investigators enroll patients with locally advanced nasopharyngeal carcinoma.&#xD;
+      All the patients recieve GP-based induction chemotherapy. After one cycle of induction&#xD;
+      chemotherapy, plasma EBV DNA and head and neck MR are performed.&#xD;
+&#xD;
+      Based on clinical efficacy and changes of plasma EBV DNA, patients with good response will&#xD;
+      directly receive concurrent chemoradiation (CCRT). Patients with intermediate response will&#xD;
+      be randomized to immunotherapy group (GP combined with toripalimab for two additional cycles&#xD;
+      then CCRT) and standard group (GP for two additional cycles then CCRT). Patients with poor&#xD;
+      response will be switched to TP regimen combined with toripalimab, followed by CCRT. The main&#xD;
+      endpoint is 2 year progression-free survival rate.&#xD;
+&#xD;
+      The aim of this study is to clarify whether response-adapted strategy based on clinical&#xD;
+      efficacy and EBV DNA response confers survival benefit to patients with locally advanced&#xD;
+      nasopharyngeal carcinoma.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 2, 2022</start_date>
+  <completion_date type="Anticipated">July 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>2 year</time_frame>
+    <description>the time from the date of enrollment to progression of disease</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>2 year</time_frame>
+    <description>the time from the date of enrollment to death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Locoregional recurrence-free survival</measure>
+    <time_frame>2 year</time_frame>
+    <description>the time from date of enrollment to locoregional recurrence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distant metastasis-free survival</measure>
+    <time_frame>2 year</time_frame>
+    <description>the time from date of enrollment to distant metastasis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>up to 2 year</time_frame>
+    <description>evaluated according to CTCAE 5.0 version</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life</measure>
+    <time_frame>up to 2 year</time_frame>
+    <description>evaluated according to EORTC QLQ-C30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life</measure>
+    <time_frame>up to 2 year</time_frame>
+    <description>evaluated according to EORTC QLQ-H&amp;N35</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">198</enrollment>
+  <condition>Nasopharyngeal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Early Responders</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>those with undetectable plasma EBV DNA after first cycle of induction chemotherapy (GP regimen)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intermediate Responders</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>those with detectable plasma EBV DNA after first cycle of induction chemotherapy (GP regimen), and undetectable plasma EBV DNA at completion of induction chemotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Late Responders</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>those with detectable plasma EBV DNA after first cycle and at completion of induction chemotherapy (GP regimen)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Toripalimab</intervention_name>
+    <description>Early Responders: They receive the second and third cycle of induction chemotherapy (GP regimen), followed by cisplatin-based concurrent chemoradiation.&#xD;
+Intermediate Responders: they received the second and third cycle of induction chemotherapy (GP regimen) with combination of toripalimap (240mg d1, q3w * 2 cycles), followed by cisplatin-based concurrent chemoradiation.&#xD;
+Late responders: they received the second and third cycle of induction chemotherapy (GP regimen) with combination of toripalimap (240mg d1, q3w * 2 cycles), followed by cisplatin-based concurrent chemoradiation. At 4-6 weeks post-chemoradiation, they received adjuvant capecitabine and toripalimab for 6 months.</description>
+    <arm_group_label>Intermediate Responders</arm_group_label>
+    <arm_group_label>Late Responders</arm_group_label>
+    <other_name>JS001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Induction chemotherapy and concurrent chemoradiation</intervention_name>
+    <description>Induction chemotherapy (GP regimen) and cisplatin-based concurrent chemoradiation.&#xD;
+GP regimen: Gemcitabine 1.0 g d1,d8, cisplatin 25mg/m2 d1-3 q3w Cisplatin based chemotherapy: cisplatin 80mg/m2 given in three consecutive days, q3w * 2 cycles.</description>
+    <arm_group_label>Early Responders</arm_group_label>
+    <arm_group_label>Intermediate Responders</arm_group_label>
+    <arm_group_label>Late Responders</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects must sign the informed consent form, and must be willing and able to comply&#xD;
+             with the visits, treatment regimen, laboratory tests and other requirements specified&#xD;
+             in the study protocol;&#xD;
+&#xD;
+          2. Age at diagnosis: 18-70 years old;&#xD;
+&#xD;
+          3. Firstly diagnosed, pathologically confirmed primary nasopharyngeal carcinoma with&#xD;
+             &quot;non-keratinizing carcinoma (WHO criteria)&quot;;&#xD;
+&#xD;
+          4. Locally advanced nasopharyngeal carcinoma (T3-4N0-1M0, TanyN2-3M0), staged according&#xD;
+             to the American Joint Committee on Cancer (AJCC) 8th edition clinical staging system;&#xD;
+&#xD;
+          5. Pretreatment EBV DNA &gt;0;&#xD;
+&#xD;
+          6. ECOG score: 0-1 points;&#xD;
+&#xD;
+          7. Does not receive any treatment after the diagnosis of nasopharyngeal carcinoma;&#xD;
+&#xD;
+          8. Normal bone marrow function: white blood cell &gt;4*109/L, neutrophil count &gt;1.5*109/L,&#xD;
+             hemoglobin concentration &gt; 90g/L, platelet count &gt;100*109/L;&#xD;
+&#xD;
+          9. Normal liver and kidney function: total bilirubin ≤1.5 times the upper limit of&#xD;
+             normal; aspartate aminotransferase and/or alanine aminotransferase ≤ 2.5 times the&#xD;
+             upper limit of normal; creatinine clearance ≥ 60mL/min;&#xD;
+&#xD;
+         10. For those with hepatitis B infection, the HBV DNA load must be &lt; 2500 copies/ml at the&#xD;
+             time of screening; For those with anti-hepatitis C virus antibody, HCV RNA must be&#xD;
+             negative at the time of screening;&#xD;
+&#xD;
+         11. Female subjects of childbearing potential and male subjects with partners of&#xD;
+             childbearing potential must agree to use reliable contraception (e.g. condoms, regular&#xD;
+             contraceptives as directed) from screening through 1 year after treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pathologically confirmed primary nasopharyngeal carcinoma with &quot;keratinizing carcinoma&#xD;
+             or basaloid squamous cell carcinoma&quot;;&#xD;
+&#xD;
+          2. Previous or current other malignancy other than adequately treated non-melanoma skin&#xD;
+             cancer, carcinoma in situ of the cervix, and papillary thyroid carcinoma;&#xD;
+&#xD;
+          3. Pretreatment plasma EBV DNA undetectable;&#xD;
+&#xD;
+          4. History of radiation therapy prior to standard therapy (except for non-melanoma skin&#xD;
+             cancer, and the previous radiation field did not overlap with the current treatment&#xD;
+             for nasopharyngeal carcinoma);&#xD;
+&#xD;
+          5. Patients who received surgical treatment (except for diagnostic biopsy), biological&#xD;
+             therapy, chemotherapy or immunotherapy before enrollment;&#xD;
+&#xD;
+          6. Conditions mentioned below: 1) Currently enrolled in other interventional clinical&#xD;
+             trial; 2) Systemic hormonal or other immunosuppressive therapy with an equivalent dose&#xD;
+             of &gt; 10mg prednisone/day within 28 days prior to informed consent; 3) Receipt of live&#xD;
+             vaccines within 30 days prior to enrollment; 4) Surgery or trauma within 30 days prior&#xD;
+             to enrollment;&#xD;
+&#xD;
+          7. Uncontrolled heart disease, such as :1) heart failure, NYHA ≥ 2; 2) unstable angina;&#xD;
+             3) history of myocardial infarction within 1 year; 4) supraventricular or ventricular&#xD;
+             arrhythmia requiring treatment or intervention;&#xD;
+&#xD;
+          8. History of stroke within 6 months;&#xD;
+&#xD;
+          9. Patients with severe active infection within 30 days prior to enrollment, that must be&#xD;
+             treated with systemic antibacterial, antifungal or antiviral therapy;&#xD;
+&#xD;
+         10. Active autoimmune disease (including but not limited to uveitis, enteritis, hepatitis,&#xD;
+             pituitary disease, nephritis, vasculitis, hyperthyroidism, etc.). Except for type I&#xD;
+             diabetes, hypothyroidism requiring hormone replacement therapy, and vitiligo not&#xD;
+             requiring systemic treatment, inactive childhood asthma that does not require&#xD;
+             treatment as an adult;&#xD;
+&#xD;
+         11. Positive anti-HIV antibody or diagnosis of other innate or acquired immunodeficient,&#xD;
+             immunosuppressive disease, history of organ transplantation;&#xD;
+&#xD;
+         12. Interstitial lung disease or pneumonia requiring oral or intravenous steroid therapy&#xD;
+             within 1 year;&#xD;
+&#xD;
+         13. Active tuberculosis infection, or previous lung tuberculosis infection within 1 year,&#xD;
+             or previous lung tuberculosis infection more than 1 year prior to enrollment but did&#xD;
+             not receive standard anti-tuberculosis treatment;&#xD;
+&#xD;
+         14. Positive hepatitis B surface antigen and hepatitis B virus DNA ≥ 2500 copies/ml or&#xD;
+             Positive hepatitis C RNA;&#xD;
+&#xD;
+         15. Pregnant or lactating women (pregnancy test should be considered for sexually active&#xD;
+             women of childbearing age);&#xD;
+&#xD;
+         16. Other conditions that may jeopardize patient safety or compliance as assessed by&#xD;
+             investigator, such as serious illness (including psychiatric disorders) requiring&#xD;
+             prompt treatment, severely abnormal test results, and other family or social risk&#xD;
+             factors.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chao-su Hu, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fudan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chao-su Hu, M.D.</last_name>
+    <phone>+862164175590</phone>
+    <phone_ext>81400</phone_ext>
+    <email>hucsu62@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Xiaomin Ou, M.D.</last_name>
+    <phone>+862164175590</phone>
+    <phone_ext>81400</phone_ext>
+    <email>0456218@fudan.edu.cn</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fudan Universtiy Shanghai Cancer Centre</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chaosu Hu, M.D.</last_name>
+      <phone>+8621-64175590</phone>
+      <phone_ext>81400</phone_ext>
+      <email>hucsu62@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>June 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fudan University</investigator_affiliation>
+    <investigator_full_name>Chaosu Hu</investigator_full_name>
+    <investigator_title>M.D., Professor</investigator_title>
+  </responsible_party>
+  <keyword>Epstein-Barr virus DNA</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>Programmed Cell Death 1 antibody</keyword>
+  <keyword>Induction chemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nasopharyngeal Neoplasms</mesh_term>
+    <mesh_term>Nasopharyngeal Carcinoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

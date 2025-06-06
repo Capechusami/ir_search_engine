@@ -1,0 +1,245 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079399</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11656</org_study_id>
+    <nct_id>NCT05079399</nct_id>
+  </id_info>
+  <brief_title>Biomarker of Diabetic Retinopathy</brief_title>
+  <official_title>Biomarker of Diabetic Retinopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Diabetic retinopathy (DR) is a complication of diabetes in which blood vessels supplying&#xD;
+      blood to the back of the eye (retina) are dysfunctional. This can lead to an improper supply&#xD;
+      of oxygen and nutrients to the retinal tissue, or it may trigger the formation of new blood&#xD;
+      vessels in response to the oxygen/nutrient deficiency. Ultimately affecting the normal&#xD;
+      vision. There is no known marker that will provide information on the health status of&#xD;
+      retinal blood vessels. Using highly specialized cells in the blood, this study will try to&#xD;
+      discover a marker of DR.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>mRNA and miRNA sequencing of circulating angiogenic cells isolated from study participants</measure>
+    <time_frame>Baseline and change in RNA signature in follow up visit (between 3-5 years)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Surface marker expression of inflammatory markers using flow cytometry</measure>
+    <time_frame>Baseline</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>miRNA expression</measure>
+    <time_frame>Baseline</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Epigenetic changes in circulating angiogenic cells with different severities of diabetic retinopathy</measure>
+    <time_frame>Baseline</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Early Treatment Diabetic Retinopathy Study (ETDRS) clinical scoring in wide-field fundus photography</measure>
+    <time_frame>Baseline and follow up visit (between 3-5 years)</time_frame>
+    <description>The scoring will be between 10 (no retinopathy) and 85 (advanced proliferative diabetic retinopathy). Higher score means worst outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence or absence of neovascularization and total area of non-perfusion in fluorescein angiography (FA)</measure>
+    <time_frame>Baseline and follow up visit (between 3-5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in vessel density in optical coherence tomography angiography (OCT-A)</measure>
+    <time_frame>Baseline and follow up visit (between 3-5 years)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in retinal thickness in optical coherence tomography angiography (OCT-A)</measure>
+    <time_frame>Baseline and follow up visit (between 3-5 years)</time_frame>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">192</enrollment>
+  <condition>Diabetic Retinopathy</condition>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Diabetes but no retinopathy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild non proliferative diabetic retinopathy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate non proliferative diabetic retinopathy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe non proliferative diabetic retinopathy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Proliferative diabetic retinopathy</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood draw</intervention_name>
+    <description>Blood samples will be collected via venipuncture</description>
+    <arm_group_label>Diabetes but no retinopathy</arm_group_label>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <arm_group_label>Mild non proliferative diabetic retinopathy</arm_group_label>
+    <arm_group_label>Moderate non proliferative diabetic retinopathy</arm_group_label>
+    <arm_group_label>Proliferative diabetic retinopathy</arm_group_label>
+    <arm_group_label>Severe non proliferative diabetic retinopathy</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Ribonucleic acid (RNA)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We will recruit type 2 diabetes individuals with different severities of diabetic&#xD;
+        retinopathy and non-diabetes controls.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to cooperate with imaging procedures.&#xD;
+&#xD;
+          -  Health status: established type 2 diabetes&#xD;
+&#xD;
+          -  No history of panretinal photocoagulation (PRP)&#xD;
+&#xD;
+          -  No history of treatment with intravitreal agents for past 12 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous or current malignancy&#xD;
+&#xD;
+          -  Acute or chronic infection (HIV, hepatitis B or C, tuberculosis)&#xD;
+&#xD;
+          -  Cerebral vascular accident or cerebral vascular procedure&#xD;
+&#xD;
+          -  Current pregnancy&#xD;
+&#xD;
+          -  History of organ transplantation&#xD;
+&#xD;
+          -  Presence of a graft (to avoid any effect of the graft)&#xD;
+&#xD;
+          -  History of previous vitrectomy&#xD;
+&#xD;
+          -  Subjects with a history of age-related macular degeneration age-related macular&#xD;
+             degeneration (AMD), glaucoma, uveitis, and branched or central vein occlusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ashay D Bhatwadekar, PhD, RPh</last_name>
+    <phone>3172785075</phone>
+    <email>abhatwad@iupui.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amir R Hajrasouliha, MD</last_name>
+    <phone>3179441154</phone>
+    <email>amhajras@iu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Spring Mill Clinic</name>
+      <address>
+        <city>Carmel</city>
+        <state>Indiana</state>
+        <zip>46920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amir R Hajrasouliha, MD</last_name>
+      <email>amhajras@iu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Eskenazi Eye Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amir R Hajrasouliha, MD</last_name>
+      <email>amhajras@iu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Glick Eye Institute</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amir R Hajrasouliha, MD</last_name>
+      <phone>317-944-1154</phone>
+      <email>amhajras@iu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>September 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>February 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Ashay Bhatwadekar, PhD, RPh</investigator_full_name>
+    <investigator_title>Associate Professor Ophthalmology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Retinal Diseases</mesh_term>
+    <mesh_term>Diabetic Retinopathy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

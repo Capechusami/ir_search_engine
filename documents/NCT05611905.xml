@@ -1,0 +1,190 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611905</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00179210</org_study_id>
+    <secondary_id>R01HL131829</secondary_id>
+    <nct_id>NCT05611905</nct_id>
+  </id_info>
+  <brief_title>Biodistribution and Pathophysiology Study of 11C-para-aminobenzoic Acid</brief_title>
+  <official_title>Phase 1 Biodistribution and Pathophysiology Study of 11C-para-aminobenzoic Acid (11C-PABA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will perform radionuclide PET scans in subjects with infectious diseases to&#xD;
+      assess whether radio-labeled PABA (11C-PABA) is effective for infection imaging.&#xD;
+&#xD;
+      Tomographic imaging can be used to evaluate disease processes deep within the body,&#xD;
+      noninvasively and relatively rapidly. The goal is to see if this imaging technique can help&#xD;
+      differentiate infections from non-infectious processes and also provide information on the&#xD;
+      causative bacterial class.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">June 30, 2023</start_date>
+  <completion_date type="Anticipated">November 26, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 26, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathophysiology of 11C-PABA in diseased subjects</measure>
+    <time_frame>Up to 3 hours</time_frame>
+    <description>Reconstruction of the PET data will be performed by means of iterative reconstruction (IR) by the ordered subset-expectation-maximization (OSEM) method with CT attenuation correction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biodistribution of 11C-PABA in diseased subjects</measure>
+    <time_frame>Up to 3 hours</time_frame>
+    <description>Reconstruction of the PET data will be performed by means of iterative reconstruction (IR) by the ordered subset-expectation-maximization (OSEM) method with CT attenuation correction.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Renal Excretion</condition>
+  <condition>Bacterial Infections</condition>
+  <condition>Inflammatory Disease</condition>
+  <condition>Oncologic Disease</condition>
+  <arm_group>
+    <arm_group_label>11C-para-aminobenzoic acid PET/CT</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>11C-para-aminobenzoic acid PET/CT</intervention_name>
+    <description>A bolus of 20 mCi of 11C-PABA followed by PET/CT</description>
+    <arm_group_label>11C-para-aminobenzoic acid PET/CT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Probenecid</intervention_name>
+    <description>Oral dose of 500 mg (tablet) 2 hours before IV dose of 11C-PABA will be administered.</description>
+    <arm_group_label>11C-para-aminobenzoic acid PET/CT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with bacterial infections or non-infectious processes such as inflammatory /&#xD;
+        oncologic diseases will be enrolled. Males and female members of all races and ethnic&#xD;
+        groups are eligible for this trial and encouraged to participate.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female ≥18 years of age at the time of consent and imaging&#xD;
+&#xD;
+          2. Those with confirmed diagnosis of infection at any body site OR clinical and imaging&#xD;
+             evidence of suspected infection in any body site OR confirmed inflammatory oncologic&#xD;
+             disease.&#xD;
+&#xD;
+          3. Assessed to be in stable condition to participate in the study&#xD;
+&#xD;
+          4. Subject is judged by the investigator to have the initiative and means to be compliant&#xD;
+             with the protocol.&#xD;
+&#xD;
+          5. Subjects or their legal representatives must have the ability to read, understand and&#xD;
+             provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnancy&#xD;
+&#xD;
+          2. Lactating females&#xD;
+&#xD;
+          3. History of significant renal or hepatobiliary diseases&#xD;
+&#xD;
+          4. Inadequate venous access&#xD;
+&#xD;
+          5. Administered a radioisotope within 5 physical half-lives prior to study enrollment&#xD;
+&#xD;
+          6. Treated with an investigational drug / biologic / therapeutic device within 30 days&#xD;
+             prior to study&#xD;
+&#xD;
+          7. Determined to have prior (external) radiation exposure of 5 rems in past year&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Sanjay K Jain, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sanjay K Jain, MD</last_name>
+    <phone>4105028241</phone>
+    <email>sjain5@jhmi.ed</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins Medical Institutions</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sanjay K Jain, MD</last_name>
+      <phone>410-502-8241</phone>
+      <email>sjain5@jhmi.ed</email>
+    </contact>
+    <investigator>
+      <last_name>Sanjay K Jain, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>March 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PET/CT</keyword>
+  <keyword>Probenecid</keyword>
+  <keyword>11C-PABA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bacterial Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Probenecid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

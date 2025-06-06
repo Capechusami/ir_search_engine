@@ -1,0 +1,272 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614349</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTO 4133</org_study_id>
+    <nct_id>NCT05614349</nct_id>
+  </id_info>
+  <brief_title>Canadian Adaptive Platform Trial of Treatments for COVID-19 in Community Settings</brief_title>
+  <acronym>CanTreatCOVID</acronym>
+  <official_title>Canadian Adaptive Platform Trial of Treatments for COVID-19 in Community Settings</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Unity Health Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Health Canada</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Unity Health Toronto</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CanTreatCOVID is an open-label, individually randomized, multi-centre, national trial.&#xD;
+      CanTreatCOVID aims to establish an adaptive platform trial aimed at evaluating the clinical-&#xD;
+      and cost-effectiveness, practical challenges, and outcomes of therapeutics for SARS-CoV-2 for&#xD;
+      non-hospitalized patients in Canada. Participants will be randomized to receive usual care&#xD;
+      (i.e. supportive care and symptom relief) or a study therapeutic, which will be determined by&#xD;
+      the Canadian COVID-19 Out-Patient Therapeutics Committee. The primary outcomes being&#xD;
+      evaluated is hospitalization and/or death at 28 days, as well as time to recovery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      While public health measures and vaccines have reduced the impact of SARS-CoV-2 on&#xD;
+      hospitalization and death, most scientists predict this virus will become endemic and new&#xD;
+      variants will continue to emerge. Effective and affordable therapeutics for SARS-CoV-2 that&#xD;
+      can be easily used in community settings are needed to accelerate recovery, prevent&#xD;
+      hospitalizations and deaths, and to minimize the development of post-acute sequelae of&#xD;
+      SARS-CoV-2 (&quot;long COVID&quot;). Most randomized controlled trials (RCT) of therapeutics to date&#xD;
+      have included participants who have not been vaccinated and who did not have previous&#xD;
+      infections. The Canadian Adaptive Platform Trial of Treatments for COVID in Community&#xD;
+      Settings (CanTreatCOVID) will evaluate the clinical effectiveness and cost-effectiveness of&#xD;
+      therapeutics for SARS-CoV-2 in non-hospitalized patients. Adaptive platform trials (APTs) are&#xD;
+      designed to compare multiple therapies in an efficient manner and allow us to respond to the&#xD;
+      dynamic nature of the COVID-19 pandemic. Therapeutics to be evaluated will be identified&#xD;
+      through a transparent Canadian COVID-19 Out-Patient Therapeutics Committee. The co-primary&#xD;
+      outcomes are all-cause hospitalization and/or death at 28 days as well as time to recovery,&#xD;
+      and key secondary outcomes include, symptom severity, incidence of post-acute sequelae of&#xD;
+      SARS-CoV-2, quality of life, and cost-effectiveness of each therapeutic. CanTreatCOVID uses&#xD;
+      numerous approaches to recruit participants to the study, including a multi-faceted public&#xD;
+      communication strategy and outreach through primary care, out-patient clinics, and EDs.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 16, 2023</start_date>
+  <completion_date type="Anticipated">January 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause hospitalization or death rate</measure>
+    <time_frame>Day 28</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>Days 0-14</time_frame>
+    <description>Defined as the first instance that a participant reports feeling fully recovered after entolment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symptom severity</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Symptoms severity will be assessed using the questions: &quot;How well are you feeling today? Please rate how you are feeling now using a scale of 1 - 4, where 1 is no symptoms, and 4 is very severe symptoms&quot; and by rating symptoms, if present, as &quot;No problem, mild problem, moderate problem, or major problem.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Post-acute sequelae of SARS-CoV-2</measure>
+    <time_frame>90 days and 36 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life</measure>
+    <time_frame>Baseline, 21 days, 28 days, 90 days, and 36 weeks</time_frame>
+    <description>Measured by EQ-5D-5L questionnaire on a 5-component scale including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. This scale is numbered from 0 to 100. 100 means the best health you can imagine. 0 means the worst health you can imagine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Early discontinuation and severe adverse events</measure>
+    <time_frame>Days 0-28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment costs</measure>
+    <time_frame>12 and 24 months</time_frame>
+    <description>Cost-utility analysis will be calculated as the incremental cost per QALY gained.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">12000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Paxlovid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nirmatrelvir/ritonavir (Paxlovid™) BD x 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Usual care (i.e., supportive care and symptom relief)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other Emerging Interventions (arm 3)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Additional treatment regimens will be decided by the Canadian COVID-19 Out-Patient Therapeutics Committee based on doses and durations studied in past trials and the latest evidence</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other Emerging Interventions (arm 4)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Additional treatment regimens will be decided by the Canadian COVID-19 Out-Patient Therapeutics Committee based on doses and durations studied in past trials and the latest evidence</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paxlovid</intervention_name>
+    <description>This adaptive platform trial will assess therapeutics for SARS-CoV-2 in out-patient settings. The first intervention arm is Paxlovid.</description>
+    <arm_group_label>Paxlovid</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Other</intervention_name>
+    <description>As this trial progresses, therapeutics for SARS-CoV-2 in out-patient settings to be evaluated will be determined by the Canadian COVID-19 Out-Patient Therapeutics Committee, which will evaluate the latest evidence on new therapeutics and makes recommendations to the Steering Committee.</description>
+    <arm_group_label>Other Emerging Interventions (arm 3)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Other</intervention_name>
+    <description>As this trial progresses, therapeutics for SARS-CoV-2 in out-patient settings to be evaluated will be determined by the Canadian COVID-19 Out-Patient Therapeutics Committee, which will evaluate the latest evidence on new therapeutics and makes recommendations to the Steering Committee.</description>
+    <arm_group_label>Other Emerging Interventions (arm 4)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 50 years and older or 18-49 with 1 or more chronic high-risk medical conditions,&#xD;
+             and/or immunosuppression: chronic respiratory disease (including COPD, cystic fibrosis&#xD;
+             and asthma requiring at least daily use of preventative and/or reliever medication);&#xD;
+             chronic heart or vascular disease; chronic kidney disease; chronic liver disease;&#xD;
+             chronic neurological disease (including dementia, stroke, epilepsy); severe and&#xD;
+             profound learning disability; Down's syndrome; diabetes (Type 1 or Type 2);&#xD;
+             immunosuppression: primary (e.g. inherited immune disorders resulting from genetic&#xD;
+             mutations) or secondary due to disease or treatment (e.g. sickle cell, HIV, cancer,&#xD;
+             chemotherapy); solid organ, bone marrow and stem cell transplant recipients; morbid&#xD;
+             obesity (BMI &gt;35); severe mental illness; care home resident.&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 by nucleic acid testing or rapid antigen testing with proof of a&#xD;
+             positive test provided via a picture of the result&#xD;
+&#xD;
+          -  Able to be enrolled and begin the study therapeutic within 5 days of onset of symptoms&#xD;
+             associated with SARS-CoV-2 infection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Admitted to hospital or in an ED for more than 24 hours&#xD;
+&#xD;
+          -  Previously randomized to CanTreatCOVID&#xD;
+&#xD;
+          -  Currently participating in a clinical trial of a therapeutic agent for acute&#xD;
+             SARS-CoV-2 infection that is not/suspected not compatible with the study therapeutics&#xD;
+&#xD;
+          -  Already taking a study therapeutic or contraindication to a study therapeutic&#xD;
+&#xD;
+          -  Inability for participant or caregiver to provide informed consent&#xD;
+&#xD;
+        Paxlovid Exclusion Criteria:&#xD;
+&#xD;
+          -  History of clinically significant hypersensitivity to the active substances in&#xD;
+             Paxlovid™ (nirmatrelvir /ritonavir) or to any of its excipients.&#xD;
+&#xD;
+          -  Patients with known rare hereditary problems of galactose intolerance, total lactase&#xD;
+             deficiency or glucose-galactose malabsorption.&#xD;
+&#xD;
+          -  Patients with known current severe liver impairment (characterized by severe ascites,&#xD;
+             encephalopathy, jaundice, or prolonged INR. People with liver disease without any of&#xD;
+             these features are eligible).&#xD;
+&#xD;
+          -  Patients with known moderate or severe renal disease (defined as CKD stage 3, 4 or 5&#xD;
+             or current acute kidney injury or most recent eGFR in the past 6 months &lt;60 ml/min).&#xD;
+&#xD;
+          -  Currently taking Paxlovid™.&#xD;
+&#xD;
+          -  Clinical requirement to continue taking a drug which is contraindicated or not&#xD;
+             recommended for administration with Paxlovid™ in the context of CanTreatCOVID or is&#xD;
+             taking a drug which in the opinion of the investigator would put the subject at&#xD;
+             unacceptable risk.&#xD;
+&#xD;
+          -  Has a known or suspected pregnancy.&#xD;
+&#xD;
+          -  Is breastfeeding.&#xD;
+&#xD;
+          -  Is of childbearing potential and is not willing to use a highly effective&#xD;
+             contraceptive&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Unity Health Toronto</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benita Hosseini, PhD</last_name>
+      <phone>+14163604000</phone>
+      <email>benita.hosseini@unityhealth.to</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Pinto, MD FRCPC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>https://cantreatcovid.org/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>February 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Unity Health Toronto</investigator_affiliation>
+    <investigator_full_name>Andrew Pinto</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

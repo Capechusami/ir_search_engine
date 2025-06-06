@@ -1,0 +1,272 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790460</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UPCC 22522</org_study_id>
+    <secondary_id>P50CA271338</secondary_id>
+    <secondary_id>852857</secondary_id>
+    <nct_id>NCT05790460</nct_id>
+  </id_info>
+  <brief_title>Telehealth Based Synchronous Navigation to Improve Molecularly-Informed Care for Patients With Lung Cancer</brief_title>
+  <acronym>TESTING</acronym>
+  <official_title>Telehealth Based Synchronous Navigation to Improve Molecularly-Informed Care for Patients With Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abramson Cancer Center at Penn Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Abramson Cancer Center at Penn Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this trial is to design and test a telehealth nurse navigation intervention for&#xD;
+      patients with suspected locally advanced/metastatic NSCLC to improve timely&#xD;
+      molecularly-informed treatment recommendations through early integration of concurrent&#xD;
+      molecular testing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The overarching goal of this pilot trial is to design and test a nurse navigation&#xD;
+      intervention delivered via telehealth for patients with suspected locally advanced/metastatic&#xD;
+      NSCLC to improve timely molecularly-informed treatment recommendations through early&#xD;
+      integration of concurrent molecular testing (i.e., tumor tissue and plasma-based molecular&#xD;
+      testing or plasma only when tumor tissue is insufficient/unavailable). The central hypothesis&#xD;
+      is that providing telehealth nurse navigation to support completion of concurrent molecular&#xD;
+      testing will result in higher rates of comprehensive testing, improved timeliness of&#xD;
+      molecularly-informed treatment recommendations (primary endpoint), earlier initiation of&#xD;
+      molecularly-informed treatment, more meaningful patient-clinician communication, and higher&#xD;
+      levels of overall satisfaction among patients and clinicians. Drawing from systematic&#xD;
+      evidence on the role of navigation for coordination of cancer care and informed by insights&#xD;
+      from communication science and behavioral economics, the specific telehealth strategy to be&#xD;
+      tested is synchronous telehealth nurse navigation in combination with default ordering of&#xD;
+      plasma-based testing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">September 20, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 20, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Molecularly-informed treatment recommendations</measure>
+    <time_frame>Measured up to 6 weeks from randomization</time_frame>
+    <description>Receipt of a molecularly-informed treatment recommendation for patients with metastatic NSq NSCLC at the time of the patient's initial oncology visit.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of telehealth visit completion</measure>
+    <time_frame>Measured up to 3 weeks from randomization</time_frame>
+    <description>Telehealth visit completion defined as successful completion of a telehealth visit prior to in-person consultation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of completion of comprehensive molecular testing (tissue and/or plasma testing) prior to initiation of first line therapy</measure>
+    <time_frame>Measured up to 12 weeks from randomization</time_frame>
+    <description>Rate of completion of comprehensive molecular testing (tissue and/or plasma testing) prior to initiation of first line therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identification of one or more targetable mutations</measure>
+    <time_frame>Measured up to 12 weeks from randomization</time_frame>
+    <description>Identification of one or more targetable mutations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Timeliness of molecularly-informed treatment recommendation</measure>
+    <time_frame>Measured up to 12 weeks from randomization</time_frame>
+    <description>Time from randomization to recommendation of a molecularly-informed treatment, as documented in the EMR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Measured up to 1 year from the time of randomization to death from any cause</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intervention costs</measure>
+    <time_frame>Measured at the time of initiation of first line therapy</time_frame>
+    <description>Intervention costs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with diagnosis other than metastatic nonsquamous NSCLC (Telehealth arm only)</measure>
+    <time_frame>Measured at 12 weeks from randomization</time_frame>
+    <description>Proportion of patients with diagnosis other than metastatic nonsquamous NSCLC (Telehealth arm only)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">138</enrollment>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Telehealth</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the intervention arm will be scheduled for an enhanced synchronous telehealth visit with a trained lung cancer nurse navigator prior to tissue biopsy. The enhanced synchronous telehealth visit will ideally occur between the initial clinical appointment and diagnostic biopsy (typically a period between two and seven days). In addition to the activities conducted as part of usual care, the nurse navigator will: 1) provide more detailed and individualized education on lung cancer and the rationale for comprehensive molecular testing, including plasma-based tests; and 2) if the patient agrees to testing, pend a default order for plasma-based molecular testing (if not already ordered) for the clinician to sign and arrange for phlebotomy to be performed at the time of the patient's tissue biopsy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in the usual care arm will receive a telephone call from a trained lung cancer nurse navigator after biopsy, as is typical at Penn Medicine, to 1) review the roles of clinicians on the medical oncology care team; 2) provide brief education on lung cancer; and 3) review the patient's diagnostic history and coordinate collection or completion of imaging required for guideline-recommended cancer staging. At the initial in-person oncology visit, the oncologist may choose to order plasma-based testing if appropriate (and if not already ordered or pending).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Telehealth</intervention_name>
+    <description>Enhanced synchronous telehealth nurse navigation, compared to usual care nurse navigation, to increase timely molecularly-informed treatment recommendations through early integration of concurrent molecular testing.</description>
+    <arm_group_label>Telehealth</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 18 years or older&#xD;
+&#xD;
+          -  Based on cross-sectional imaging, suspected to have locally advanced/metastatic NSCLC&#xD;
+             (as determined by the evaluating clinician)&#xD;
+&#xD;
+          -  Scheduled for an appointment in the lung cancer evaluation clinic&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Are not suspected to have locally advanced/metastatic NSCLC&#xD;
+&#xD;
+          -  Have a concurrent active malignancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charu Aggarwal, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer Steltz</last_name>
+    <phone>215-573-2593</phone>
+    <email>jennifer.steltz@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jocelyn Wainwright, MS</last_name>
+    <phone>215-615-4226</phone>
+    <email>jocelyn.wainwright@pennmedicine.upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Charu Aggarwal</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charu Aggarwal, MD, MPH</last_name>
+      <phone>215-662-6318</phone>
+    </contact>
+    <investigator>
+      <last_name>Charu Aggarwal, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jeffrey Thompson, MD, MTR</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anil Vachani, MD, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Justin Bekelman, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shivan Mehta, MD, MBA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Katharine Rendle, PhD,MSW,MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marilyn Schapira, MD, MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alisa Stephens-Shields, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andy Tan, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Megan Roy, MSN, RN, OCN</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christoph Hutchinson, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David DiBardino, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrew Haas, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anthony Lanfranco, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>February 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>May 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Estimate">May 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Abramson Cancer Center at Penn Medicine</investigator_affiliation>
+    <investigator_full_name>Charu Aggarwal</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Molecular Testing</keyword>
+  <keyword>Lung Cancer</keyword>
+  <keyword>Telehealth</keyword>
+  <keyword>Liquid Biopsy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

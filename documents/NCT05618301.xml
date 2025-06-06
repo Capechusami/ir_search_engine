@@ -1,0 +1,307 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618301</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202302190</org_study_id>
+    <nct_id>NCT05618301</nct_id>
+  </id_info>
+  <brief_title>Motixafortide and Natalizumab to Mobilize CD34+ Hematopoietic Stem Cells for Gene Therapies in Sickle Cell Disease (SCD)</brief_title>
+  <official_title>A Pilot Safety and Feasibility Study to Evaluate Motixafortide (CXCR4/SDF-1 Inhibition) and Natalizumab (VLA-4/VCAM-1 Inhibition) as a Novel Regimen to Mobilize CD34+ Hematopoietic Stem Cells for Gene Therapies in Sickle Cell Disease (SCD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BioLineRx, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Biogen</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hematopoietic stem cell (HSC)-based gene therapies now offer curative potential for patients&#xD;
+      with sickle cell disease (SCD), with decreased toxicity compared to allogeneic hematopoietic&#xD;
+      cell transplantation. However, effective HSC-based gene therapy depends on collecting&#xD;
+      sufficient HSCs to generate the therapeutic product, and currently available mobilization&#xD;
+      regimens carry unacceptable risk for patients with SCD or do not reliably yield optimal&#xD;
+      numbers of HSCs for gene therapy.&#xD;
+&#xD;
+      The investigators hypothesize that HSC mobilization with motixafortide (CXCR4i) alone and the&#xD;
+      combination of motixafortide plus natalizumab (VLA-4i) will be safe and tolerable in SCD&#xD;
+      patients. In addition, the investigators hypothesize that combined CXCR4 and VLA-4 blockade&#xD;
+      with motixafortide plus natalizumab will result in a rapid, robust, and synergistic increase&#xD;
+      in HSC mobilization to peripheral blood (PB) in patients with SCD, when compared to&#xD;
+      motixafortide alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 30, 2023</start_date>
+  <completion_date type="Anticipated">October 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and tolerability as assessed by the incidence of dose-limiting toxicities (DLTs)</measure>
+    <time_frame>Through 28 days following administration of either motixafortide and/or natalizumab (estimated to be 8 weeks and 4 days)</time_frame>
+    <description>All toxicities will be graded using NCI-CTCAE Version 5.0&#xD;
+A DLT is an event occurring during the DLT period of 28 days following administration of either motixafortide and/or natalizumab that is considered to be at least possibly, probably or definitely related to study treatment by the investigator, and that meets the criteria below:&#xD;
+Hematologic criteria&#xD;
+Any Grade 5 adverse event&#xD;
+Any Grade 4 adverse event, excluding Grade 4 hemolysis, bilirubin increase, leukocytosis, erythrocytosis, thrombocytosis, anemia, leukopenia, or febrile neutropenia&#xD;
+Non-hematologic criteria&#xD;
+Any Grade 4 or 5 adverse event.&#xD;
+Any Grade 3 or higher arterial or venous thromboembolic event&#xD;
+Any Grade 2 or 3 adverse event that does not resolve within 4 weeks; with the exception of &lt;grade 2 injection site reactions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of CD34+ hematopoietic stem and progenitor cells (HSPCs) mobilized via leukapheresis per liter (L) of total volume (tV) processed following motixafortide alone and motixafortide + natalizumab</measure>
+    <time_frame>Day 2 and Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of CD34+ hematopoietic stem and progenitor cells (HSPCs) mobilized via leukapheresis per liter (L) of adjusted volume (aV) processed, following motixafortide alone and motixafortide + natalizumab</measure>
+    <time_frame>Day 2 and Day 60</time_frame>
+    <description>-The adjusted volume will be calculated as the total volume (tV) processed minus the volumes processed to establish/re-establish the HSC collection interface (iV) to yield an adjusted volume (aV) (i.e. tV-iV=aV). The number of apheresis alarms along with the amount of time, flow rate and volumes processed to establish the interface will be recorded during apheresis and entered into the eCRF. Use of aV will control for the effect of any apheresis alarms; which pause the centrifuge leading to loss of the collection interface.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in kinetics of CD34+ HSC mobilization in response to motixafortide alone and motixafortide + natalizumab in SCD patients, as assessed by CD34+ cells/ul in peripheral blood</measure>
+    <time_frame>From baseline through Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of adverse events</measure>
+    <time_frame>From start of treatment through 8 weeks following completion of all treatment (estimated to be 16 weeks and 4 days)</time_frame>
+    <description>-All adverse events will be graded using NCI-CTCAE Version 5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in peak CD34+ HSC mobilization in response to motixafortide alone and motixafortide + natalizumab in SCD patients, as assessed by CD34+ cells/ul in peripheral blood</measure>
+    <time_frame>From baseline through Day 60</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">5</enrollment>
+  <condition>Sickle Cell Disease</condition>
+  <arm_group>
+    <arm_group_label>Motixafortide followed by Motixafortide + Natalizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Consenting and eligible patients will receive a single subcutaneous injection of motixafortide, followed by leukapheresis. Patient will then be followed for 8 weeks for adverse event monitoring.&#xD;
+Following the 8-week monitoring period, patients will receive a single IV infusion natalizumab, then approximately 32 hours later, a single subcutaneous injection of motixafortide, followed by leukapheresis. Patients will then be followed for 8 weeks for adverse event monitoring.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Motixafortide</intervention_name>
+    <description>Motixafortide is to be administered as a subcutaneous injection at a dose of 1.25 mg/kg</description>
+    <arm_group_label>Motixafortide followed by Motixafortide + Natalizumab</arm_group_label>
+    <other_name>BL-8040</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Natalizumab</intervention_name>
+    <description>Natalizumab will be administered as an IV infusion at a flat dose of 300 mg</description>
+    <arm_group_label>Motixafortide followed by Motixafortide + Natalizumab</arm_group_label>
+    <other_name>Tysabri</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Leukapheresis</intervention_name>
+    <description>Leukapheresis consisting of a 1 Blood Volume procedure</description>
+    <arm_group_label>Motixafortide followed by Motixafortide + Natalizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients aged 18-40 years old&#xD;
+&#xD;
+          -  Diagnosis of sickle cell disease (hemoglobin SS or Sβ0 genotype)&#xD;
+&#xD;
+          -  Receiving automated RBC exchanges via apheresis-capable central venous access&#xD;
+&#xD;
+          -  Able to hold hydroxyurea, voxelotor, and/or crizanlizumab for at least 60 days prior&#xD;
+             to mobilization&#xD;
+&#xD;
+          -  Able to hold iron chelation for at least 7 days prior to mobilization&#xD;
+&#xD;
+          -  ECOG performance status ≤ 1&#xD;
+&#xD;
+          -  Normal bone marrow and organ function at screening as defined below:&#xD;
+&#xD;
+               -  Leukocytes ≥ 2,000/uL&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1,500/uL&#xD;
+&#xD;
+               -  Platelets ≥ 75,000/uL&#xD;
+&#xD;
+               -  AST(SGOT)/ALT(SGPT) ≤ 3.0 x IULN at time of screening&#xD;
+&#xD;
+               -  Creatinine clearance ≥ 30 mL/min by Cockcroft-Gault&#xD;
+&#xD;
+               -  Baseline oxygen saturation ≥ 92% on room air&#xD;
+&#xD;
+               -  Left ventricular ejection fraction (LVEF) ≥ 45% (Of note, transthoracic&#xD;
+                  echocardiogram (TTE) will not be required for study. However, if the treating&#xD;
+                  physician has clinical concerns for active cardiac disease for which a TTE is&#xD;
+                  clinically warranted as standard of care, then an EF of ≥ 45% will be required).&#xD;
+&#xD;
+          -  The effects of motixafortide and natalizumab on the developing human fetus are&#xD;
+             unknown. For this reason, women of childbearing potential and men must agree to use&#xD;
+             adequate contraception (hormonal or barrier method of birth control, abstinence) prior&#xD;
+             to study entry and for the duration of study participation, and 3 months after&#xD;
+             completion of the study. Should a woman become pregnant or suspect she is pregnant&#xD;
+             while participating in this study, she must inform her treating physician immediately.&#xD;
+             Men treated or enrolled on this protocol must also agree to use adequate contraception&#xD;
+             prior to the study, for the duration of the study, and 3 months after completion of&#xD;
+             the study.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign an IRB approved written informed consent&#xD;
+             document (or that of legally authorized representative, if applicable).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients may not have a history of receiving the following therapies: prior HCT or&#xD;
+             prior gene therapy&#xD;
+&#xD;
+          -  Currently receiving concomitant immunosuppressants including 6-mercaptopurine,&#xD;
+             azathioprine, cyclosporine, methotrexate or concomitant inhibitors of TNF-α.&#xD;
+&#xD;
+          -  Patient may not have a history of significant alloantibodies which, in the opinion of&#xD;
+             the treating physician and study investigator, significantly increase the risk of&#xD;
+             participation in this clinical trial.&#xD;
+&#xD;
+          -  Currently receiving any other investigational agents.&#xD;
+&#xD;
+          -  A history of progressive multifocal leukoencephalopathy&#xD;
+&#xD;
+          -  A history of allergic reactions attributed to compounds of similar chemical or&#xD;
+             biologic composition to motixafortide or natalizumab.&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active&#xD;
+             infection (including but not limited to HIV, active/untreated Hepatitis C and/or&#xD;
+             active/untreated Hepatitis B), ongoing/active vaso-occlusive pain crisis or&#xD;
+             uncontrolled SCD-related symptoms, symptomatic congestive heart failure,&#xD;
+             cerebrovascular accident, unstable angina pectoris, or cardiac arrhythmia.&#xD;
+&#xD;
+          -  Pregnant and/or breastfeeding. Women of childbearing potential must have a negative&#xD;
+             serum/urine pregnancy test within 7 days of study entry and prior to each study agent&#xD;
+             administration/HSC mobilization.&#xD;
+&#xD;
+          -  Determined by the investigator to be unable or unlikely to comply with the study&#xD;
+             procedures included in this protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zachary Crees, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zachary Crees, M.D.</last_name>
+    <phone>314-747-8076</phone>
+    <email>zcrees@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Zachary Crees, M.D.</last_name>
+      <phone>314-747-8076</phone>
+      <email>zcrees@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Zachary Crees, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John DiPersio, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Allison King, M.D., MPH, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Rettig, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Reyka Jayasinghe, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brenda Grossman, M.D., MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fei Wan, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>April 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sickle cell disease</keyword>
+  <keyword>gene therapy</keyword>
+  <keyword>hematopoietic stem cell mobilization</keyword>
+  <keyword>CXCR4 inhibition</keyword>
+  <keyword>VLA4 inhibition</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Natalizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

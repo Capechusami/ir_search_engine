@@ -1,0 +1,167 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-10-891</org_study_id>
+    <nct_id>NCT05614570</nct_id>
+  </id_info>
+  <brief_title>SSVEP Evaluation of Brain Function</brief_title>
+  <official_title>SSVEP Evaluation of Brain Function</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Headsafe MFG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Headsafe MFG</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigational device used in this clinical investigation, the Nurochek Headset, is a&#xD;
+      portable electroencephalogram (EEG) headset which delivers a visual stimulus and measures a&#xD;
+      VEP. The visual stimulus is delivered to the subjects' eyes via light-emitting diodes, and&#xD;
+      the EEG measures the user's visual-evoked potential. This headset communicates with an&#xD;
+      application on a smartphone which processes the signals and transmits them to a secure cloud&#xD;
+      server for analysis and storage of the data.&#xD;
+&#xD;
+      The primary objective of this clinical investigation was to evaluate the performance of the&#xD;
+      investigation device (NCII) against clinical diagnosis and SCAT 5, in the accurate detection&#xD;
+      of mild traumatic brain injury (mTBI). The primary endpoint outlined for this study was set&#xD;
+      at the collection of 100 valid investigational device readings from individuals with&#xD;
+      concussion&#xD;
+&#xD;
+      The aim of this study was to collect data from 100 readings from individuals with concussion.&#xD;
+      It was estimate that approximately 10-20% of baselined players would suffer a concussion&#xD;
+      during the season. There it was estimated there would be a need to baseline 500-1000&#xD;
+      individuals in order to achieve the number of concussions required. The initial assumption&#xD;
+      was that sites would provide players pre-season and make players available for testing&#xD;
+      post-concussion. In practice, some sites provided player data only post-concussion event&#xD;
+      (such as medical clinics). Participants were required from sporting clubs, medical clinicals&#xD;
+      and schools.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2019</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Steady State Visual Evoked Potential</measure>
+    <time_frame>30 days</time_frame>
+    <description>A measure of the steady state visual evoked potential (SSVEP) from the device</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SCAT5 Score</measure>
+    <time_frame>30 days</time_frame>
+    <description>The score from the SCAT5 as determined at Step 6.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Mild Traumatic Brain Injury</condition>
+  <arm_group>
+    <arm_group_label>Baseline</arm_group_label>
+    <description>This cohort contains individuals tested at baseline, usually in the pre-season of their sporting season</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Concussed</arm_group_label>
+    <description>This cohort contains individuals who have had a concussion, diagnosed by a doctor.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>SSVEP Device</intervention_name>
+    <description>Non-invasive, non-interventional SSVEP sensor device</description>
+    <arm_group_label>Baseline</arm_group_label>
+    <arm_group_label>Concussed</arm_group_label>
+    <other_name>Nurochek</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>SCAT5</intervention_name>
+    <description>The Sport Concussion Assessment Tool version 5</description>
+    <arm_group_label>Baseline</arm_group_label>
+    <arm_group_label>Concussed</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population contained individuals 14 years or older who play sport. They were&#xD;
+        requited from a large variety of sport types and facilities including local clubs, medical&#xD;
+        centres and schools.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals aged 14 years and older, participating in sport-related activities.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals were excluded if they had a history of seizures, history of epilepsy,&#xD;
+             structural brain injuries, legal blindness, or sensitivity to flashing lights.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Craig Donaldson, MBBS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Principal Investigator</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Headsafe</name>
+      <address>
+        <city>Sydney</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 6, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 6, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mild Traumatic brain injury</keyword>
+  <keyword>Concussion</keyword>
+  <keyword>Steady state visual evoked potential</keyword>
+  <keyword>Electroencephalography</keyword>
+  <keyword>Sports Concussion</keyword>
+  <keyword>Sports Medicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Brain Concussion</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

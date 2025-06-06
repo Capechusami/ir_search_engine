@@ -1,0 +1,664 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078047</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UC-IMM-2101</org_study_id>
+    <nct_id>NCT05078047</nct_id>
+  </id_info>
+  <brief_title>Study Comparing the Standard Administration of IO Versus the Same IO Administered Each 3 Months in Patients With Metastatic Cancer in Response After 6 Months of Standard IO</brief_title>
+  <acronym>MOIO</acronym>
+  <official_title>Randomized Phase III Trial of Standard Immunotherapy (IO) by Checkpoint Inhibitors, Versus Reduced Dose Intensity of IO in Patients With Metastatic Cancer in Response After 6 Months of Standard IO</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNICANCER</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UNICANCER</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Immunotherapy (IO), such as treatment with anti-PD-1, PD-L1, or CTLA-4 inhibitors, is a&#xD;
+      rapidly expanding treatment for multiple metastatic cancers with improved survival for&#xD;
+      certain cancers. However, the optimal duration of immunotherapies is currently unknown. Our&#xD;
+      hypothesis is that a reduced dose intensity of IO could be as effective as the current&#xD;
+      standard treatment in term of prevention of the disease progression. If proved right, this&#xD;
+      study will have a positive medico-economic impact by reduction of the costs associated with&#xD;
+      the treatment and the toxicity, and an increase of the patients' quality of life.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Immunotherapy (IO) is a rapidly expanding treatment for multiple metastatic cancers with&#xD;
+      improved survival for certain cancers. For currently approved immunotherapies such as PD-1 /&#xD;
+      PD-L1 inhibitors and anti-CTLA-4, the rhythm and duration of treatment are recommended until&#xD;
+      disease progression or unacceptable toxicity. However, the optimal duration of these&#xD;
+      treatments is currently unknown.&#xD;
+&#xD;
+      No major dose-dependent effect of anti-PD-1 have been observed and whether the frequency of&#xD;
+      infusion of IO could improve response or maintain efficacy. Moreover, phase I studies have&#xD;
+      shown that saturation of the target (PD-1 or PD-L1) can persist far beyond the serum&#xD;
+      half-life of the IO and 3-monthly infusions of an anti-PD-1 antibody could potentially&#xD;
+      generate the same level of activity as infusions administered every 2 weeks.&#xD;
+&#xD;
+      In silico modeling studies have suggested that alternate scheduling with IO couldn't&#xD;
+      compromise the efficacy of the treatment. Indeed, prolonged half-lives of IO drugs,&#xD;
+      time-varying clearance plus plasma concentrations far above the threshold associated with&#xD;
+      maximal target-engagement, suggest that the rhythm of administration of IO could be slowed&#xD;
+      down.&#xD;
+&#xD;
+      Without substantial international data for responding patients, apart metastatic melanoma in&#xD;
+      complete response, patients and physicians are afraid of stopping treatment, by fear of&#xD;
+      relapse. Over-treatment with IO may be toxic and inefficient. The rising cost of cancer care&#xD;
+      in the era of immunotherapy is of great concern for public and private payers around the&#xD;
+      world.&#xD;
+&#xD;
+      Chronic administration has important consequences for patients and health systems, with&#xD;
+      multiple medical visits and the risk of chronic, progressive and sometimes fatal toxicities&#xD;
+      induced by immunotherapy.&#xD;
+&#xD;
+      This is a pragmatic and strategic study challenging the routine practice which compares for&#xD;
+      the first time in a randomized phase III study, the standard administration of IO versus the&#xD;
+      same agent administered each three months in patients with metastatic cancer in partial or&#xD;
+      complete response after 6 months of standard IO ( except melanoma in CR).&#xD;
+&#xD;
+      If our hypothesis of non-inferiority of PFS with a reduced dose intensity of IO is verified,&#xD;
+      this could replace standard treatment and have a positive medico-economic impact, allowing,&#xD;
+      on the one hand, a reduction of the costs associated with the treatment and the toxicity, and&#xD;
+      on the other hand, an increase of the patients' quality of life.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2022</start_date>
+  <completion_date type="Anticipated">March 7, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 7, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized 1:1 into two arms:&#xD;
+• Experimental arm: Reduced dose intensity of IO&#xD;
+IO will be administered every 3 months (at the same dose levels) until disease progression, unacceptable toxicity, death or patient's choice or investigator's decision.&#xD;
+• Control arm: Standard IO&#xD;
+Continuation of IO at the same dose levels and rhythmicity until disease progression, unacceptable toxicity, death or patient's choice.&#xD;
+Random allocation will be stratified by tumour type, by response status (partial response versus complete response) evaluated 6 months after the initiation of standard IO, by treatment line (first line vs others), and by type of IO</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>From randomization to disease progression or death, up to 3 years</time_frame>
+    <description>The progression-free survival is the length of time during and after the treatment of a disease that a patient lives with the disease but it does not get worse.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cost-effectiveness analysis of the proposed therapeutic strategy</measure>
+    <time_frame>3 years</time_frame>
+    <description>Incremental cost-effectiveness ratio (ICER) expressed as a cost per quality-adjusted life year (QALY) gained at 36 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune progression-free survival (iPFS)</measure>
+    <time_frame>From randomization to disease progression or death, up to 3 years</time_frame>
+    <description>The progression-free survival is the length of time during and after the treatment of a disease that a patient lives with the disease but it does not get worse (Immune disease progression (iPD)). iPD will be determined locally by the investigator through the use of iRECIST in case of lesions identified at Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>From randomization to 12 and 24 months post-randomization</time_frame>
+    <description>Objective response rate (ORR) defined as the percentage of patients with a confirmed complete response (CR) or partial response (PR) as assessed by the investigator using RECIST v1.1 at 12 and 24 months post-randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From randomization to death from any cause, up to 3 years</time_frame>
+    <description>The overall survival is the length of time from randomization that patients enrolled in the study are still alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>From randomization to disease progression or death, up to 3 years</time_frame>
+    <description>Duration of response (DoR) defined as the time from randomization to first documented response until disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life questionnaire - Core 30 (QLQ-C30)</measure>
+    <time_frame>At inclusion visit (pre-randomization) and 3, 6, 9, 12, 15, 18, 24, and 36 months post-randomization</time_frame>
+    <description>Developed by the EORTC, this self-reported questionnaire assesses the health-related quality of life of cancer patients in clinical trials.&#xD;
+The questionnaire includes five functional scales (physical, everyday activity, cognitive, emotional, and social), three symptom scales (fatigue, pain, nausea and vomiting), a health/quality of life overall scale, and a number of additional elements assessing common symptoms (including dyspnea, loss of appetite, insomnia, constipation, and diarrhea), as well as, the perceived financial impact of the disease.&#xD;
+All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher response level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Developed 5-level version of EQ-5D (EQ-5D-5L) questionnaire</measure>
+    <time_frame>At inclusion visit (pre-randomization) and 3, 6, 9, 12, 15, 18, 24, and 36 months post-randomization</time_frame>
+    <description>Developed by the EuroQol group, the self-reported questionnaire assesses the health-related quality of life of cancer patients in clinical trials consists of a descriptive system and a visual analogue scale (VAS).&#xD;
+The EQ-5D-5L descriptive system comprises five dimensions (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression), each dimension has 5 levels. This questionnaire provide a 5-digit score which generate a health state profile. The VAS records the patient's self-rated health on a vertical visual analogue scale where the score range from 100 (Best imaginable health state) to 0 (Worst imaginable health state). The VAS is used as a quantitative measure of health outcome that reflects the patient's own judgement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital anxiety and depression scale (HADS)</measure>
+    <time_frame>At inclusion visit (pre-randomization) and 3, 6, 9, 12, 15, 18, 24, and 36 months post-randomization</time_frame>
+    <description>The HADS is a 14 items questionnaire: 7 items related to anxiety and 7 items related to depression scored on a scale. Scores for items in each subscale of the HADS are summed to produce an anxiety score (HADS-A) or a depression score (HADS-D), or can be added to produce a total score corresponding to emotional distress (HADS-T). Each item is rated on a 4-point Likert scale (1 = &quot;not at all&quot;, 2 = &quot;a little&quot;, 3 = &quot;quite a bit&quot;, and 4 = &quot;very much&quot;), for a total score ranging from 0-21 for each subscale. The entire scale (emotional distress) range from 0 to 42, with higher scores indicating more distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fear of relapse questionnaire</measure>
+    <time_frame>At inclusion visit (pre-randomization) and 3, 6, 9, 12, 15, 18, 24, and 36 months post-randomization</time_frame>
+    <description>The Fear of relapse questionnaire is a self-reported questionnaire aiming to better understand how these concerns of fear of relapse by patients manifest themselves.&#xD;
+The questionnaire contains 32 items rated on a five-point Likert-type scale (0 = &quot;never&quot;, 1 = &quot;seldom &quot;, 2 = &quot;sometimes&quot;, 3 = &quot;often&quot;, and 4 = &quot;always&quot;). For all items, higher scores indicate more severe fear of relapse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety profile</measure>
+    <time_frame>At 12 months and 3 years post-randomization</time_frame>
+    <description>The National Cancer Institute-Common Terminology Criteria for Adverse Events version 5 (NCI-CTCAE v5) is widely accepted in the community of oncology research as the leading rating scale for adverse events. This scale, divided into 5 grades (1 = &quot;mild&quot;, 2 = &quot;moderate&quot;, 3 = &quot;severe&quot;, 4 = &quot;life-threatening&quot;, and 5 = &quot;death&quot;) determined by the investigator, will make it possible to assess the severity of the disorders.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">646</enrollment>
+  <condition>Lung Cancer Metastatic</condition>
+  <condition>Renal Cell Carcinoma</condition>
+  <condition>Head and Neck Cancer</condition>
+  <condition>Bladder Cancer</condition>
+  <condition>Triple Negative Breast Cancer</condition>
+  <condition>Merkel Cell Carcinoma</condition>
+  <condition>Hepatocellular Carcinoma</condition>
+  <condition>Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Reduced dose intensity of IO:&#xD;
+IO will be administered every 3 months (at the same dose levels) until disease progression, unacceptable toxicity, death or patient's choice or investigator's decision</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard IO:&#xD;
+Continuation of IO at the same dose levels and rhythmicity until disease progression, unacceptable toxicity, death or patient's choice.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Reduced dose intensity of IO</intervention_name>
+    <description>After 6 months of treatment with standard IO, IO will be administered every 3 months (at the same dose levels) until disease progression, unacceptable toxicity, death or patient's choice or investigator's decision</description>
+    <arm_group_label>Experimental arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients must have signed a written informed consent form prior to any trial specific&#xD;
+             procedures.&#xD;
+&#xD;
+          2. Patient aged ≥18 years old.&#xD;
+&#xD;
+          3. Initial metastatic disease histologically confirmed including: lung cancer, renal cell&#xD;
+             cancer, head and neck cancer, bladder cancer, triple negative breast cancer, Merkel&#xD;
+             cancer, hepatocellular carcinoma, and melanoma.&#xD;
+&#xD;
+          4. Patients in partial or complete response after 6 months of standard immunotherapy&#xD;
+             (whatever the line of therapy) according to the RECIST (confirmed by local&#xD;
+             radiological assessment). For metastatic melanoma only patients in partial response.&#xD;
+&#xD;
+          5. Eligible to maintain the same standard IO treatment.&#xD;
+&#xD;
+          6. Patient with Eastern cooperative oncology group (ECOG) performance status ≤1.&#xD;
+&#xD;
+          7. Patients with brain metastases are allowed, provided they are stable according to the&#xD;
+             following definitions: treated with surgery or stereotactic radiosurgery and without&#xD;
+             evidence of progression prior to randomization and have no evidence of new or&#xD;
+             enlarging brain metastases.&#xD;
+&#xD;
+          8. Patients treated by IO previously combined with chemotherapy are allowed.&#xD;
+&#xD;
+          9. Patients with Tyrosine Kinase Inhibitor (TKI)-IO or pemetrexed-IO or bevacizumab-IO&#xD;
+             are allowed.&#xD;
+&#xD;
+         10. Evidence of post-menopausal status, or negative urinary or serum pregnancy test for&#xD;
+             pre-menopausal patients.&#xD;
+&#xD;
+         11. Both sexually active women of childbearing potential and males (and their female&#xD;
+             partners) patients must agree to use adequate contraception method for the duration of&#xD;
+             the study treatment and after completing treatment according to the most recent&#xD;
+             version of the IO Summary of product characteristics (SmPC).&#xD;
+&#xD;
+         12. Patient is willing and able to comply with the protocol for the duration of the trial&#xD;
+             including undergoing treatment and scheduled visits, and examinations including&#xD;
+             follow-up.&#xD;
+&#xD;
+         13. Patient must be affiliated to a Social Security System.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Metastatic melanoma in complete response.&#xD;
+&#xD;
+          2. Metastatic renal cell carcinoma with International Metastatic Renal Cell Carcinoma&#xD;
+             Database (IMDC) favourable-risk treated TKI/IO combination.&#xD;
+&#xD;
+          3. Hematologic malignancies (leukaemia, myeloma, lymphoma…)&#xD;
+&#xD;
+          4. Active infection requiring systemic therapy.&#xD;
+&#xD;
+          5. Patients enrolled in another therapeutic study within 30 days before the inclusion in&#xD;
+             and during MOIO study.&#xD;
+&#xD;
+          6. Patient unable to comply with study obligations for geographic, social, or physical&#xD;
+             reasons, or who is unable to understand the purpose and procedures of the study.&#xD;
+&#xD;
+          7. Person deprived of their liberty or under protective custody or guardianship.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gwenaëlle GRAVIS-MESCAM, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institut Paoli-Calmettes, Marseille</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clotilde SIMON</last_name>
+    <phone>+33 (0) 1 73 79 79 11</phone>
+    <email>c-simon@unicancer.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institut de cancérologie de l'Ouest</name>
+      <address>
+        <city>Angers</city>
+        <zip>49055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elouen BOUGHALEM</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Sainte Catherine</name>
+      <address>
+        <city>Avignon</city>
+        <zip>84918</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Werner HILGERS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de la Côte Basque</name>
+      <address>
+        <city>Bayonne</city>
+        <zip>64109</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Louis FRANCOIS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Besançon</name>
+      <address>
+        <city>Besançon</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hamadi ALMOTLAK</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre François Baclesse</name>
+      <address>
+        <city>Caen</city>
+        <zip>14076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pierre-Emmanuel BRACHET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Jean Perrin</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maureen BERNADACH</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Isabelle MONNET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolina SALDANA</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Georges François Leclerc</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alice HERVIEU</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Chenieux</name>
+      <address>
+        <city>Limoges</city>
+        <zip>87000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sabrina FALKOWSKI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospices Civils de Lyon</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Denis MAILLET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital La Timone -APHM</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jean-Laurent DEVILLE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne</name>
+      <address>
+        <city>Nice</city>
+        <zip>06189</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Delphine BORCHIELLINI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Curie</name>
+      <address>
+        <city>Paris</city>
+        <zip>75005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christophe LE TOURNEAU</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Saint Louis</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hélène GAUTHIER</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Pitié Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luca CAMPEDEL</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Européen Georges Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yann VANO</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Poitiers</name>
+      <address>
+        <city>Poitiers</city>
+        <zip>86000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nicolas ISAMBERT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Insitut Godinot</name>
+      <address>
+        <city>Reims</city>
+        <zip>51726</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amélie LEMOINE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Eugene Marquis</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurence CROUZET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Curie</name>
+      <address>
+        <city>Saint-Cloud</city>
+        <zip>92210</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christophe LE TOURNEAU</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de cancérologie de l'Ouest</name>
+      <address>
+        <city>Saint-Herblain</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith RAIMBOURG</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ICANS</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philippe BARTHELEMY</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Foch</name>
+      <address>
+        <city>Suresnes</city>
+        <zip>92151</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raffaele RATTA</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IUCT</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Iphigénie KORAKIS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mathilde CANCEL</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>September 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>June 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Immunotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Merkel Cell</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Unicancer will share de-identified individual data that underlie the results reported. A decision concerning the sharing of other study documents, including protocol and statistical analysis plan will be examined upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>The data shared will be limit to that required for independent mandated verification of the published results, the applicant will need authorization from Unicancer for personal access, and data will only be transferred after signing of a data access agreement.</ipd_time_frame>
+    <ipd_access_criteria>Unicancer will consider access to study data upon written detailed request sent to Unicancer, from 6 months until 5 years after publication of summary data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

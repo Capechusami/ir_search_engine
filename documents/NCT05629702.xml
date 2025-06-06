@@ -1,0 +1,547 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629702</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RG_21-001</org_study_id>
+    <secondary_id>2021-005214-34</secondary_id>
+    <secondary_id>ISRCTN</secondary_id>
+    <nct_id>NCT05629702</nct_id>
+  </id_info>
+  <brief_title>ARISTOCRAT: Blinded Trial of Temozolomide +/- Cannabinoids</brief_title>
+  <acronym>ARISTOCRAT</acronym>
+  <official_title>A Randomised Controlled Phase II Trial of Temozolomide With or Without Cannabinoids in Patients With Recurrent Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Leeds</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Brain Tumour Charity</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jazz Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Birmingham</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ARISTOCRAT is a phase II, multi-centre, double-blind, placebo-controlled, randomised trial to&#xD;
+      compare the cannabinoid Sativex with placebo in patients with recurrent MGMT methylated&#xD;
+      glioblastoma (GBM) treated with temozolomide (TMZ).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase II, multi-centre, double-blind, placebo-controlled, randomised trial to&#xD;
+      compare the cannabinoid Sativex with placebo in patients with recurrent MGMT methylated&#xD;
+      glioblastoma treated with temozolomide (TMZ). The trial will randomise a target number of 234&#xD;
+      patients on a 2:1 basis to receive either Sativex or Sativex-matched placebo, in combination&#xD;
+      with standard TMZ.&#xD;
+&#xD;
+      Patients will be followed up at 4-weekly assessments for a minimum of 52 weeks from the start&#xD;
+      of trial treatment or until death, whichever is sooner. MRI scanning will be performed at&#xD;
+      screening, week 10, week 22, week 30, then 3-monthly after commencing trial treatment as per&#xD;
+      standard practice.&#xD;
+&#xD;
+      The trial includes an initial feasibility study of 40 patients to confirm safety, compliance&#xD;
+      and achievability of planned target recruitment. There are no formal criteria for evaluation&#xD;
+      of feasibility but once 40 patients have been recruited, the independent Data Monitoring&#xD;
+      Committee will review the adverse event data, details on protocol treatment received, monthly&#xD;
+      recruitment rates and projected recruitment in order to make recommendations on trial&#xD;
+      continuation.&#xD;
+&#xD;
+      The current phase II trial design will enable potential expansion of recruitment into a phase&#xD;
+      III trial, should the emerging phase II results warrant this development.&#xD;
+&#xD;
+      The trial will be linked to the Tessa Jowell BRAIN MATRIX (TJBM) programme; utilising TJBM&#xD;
+      infrastructure, opening the same participating sites, and aligning the data collection and&#xD;
+      Quality of Life assessments already embedded in TJBM. This collaboration will allow data&#xD;
+      sharing within the platform thereby streamlining patient entry and provide additional&#xD;
+      oversight through TJBM. Patients recruited to TJBM who are potentially eligible for&#xD;
+      ARISTOCRAT may be identified and suggested to sites for consideration to the trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 3, 2023</start_date>
+  <completion_date type="Anticipated">February 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival time (OS)</measure>
+    <time_frame>Time in whole days from date of randomisation to the date of death from any cause, assessed at a minimum of 12 months..</time_frame>
+    <description>To establish whether the addition of cannabinoids (Sativex) to standard TMZ treatment improves overall survival time (OS) in MGMT methylated recurrent GBM compared to the addition of placebo to TMZ.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival at 12 months (OS12) (and 6 and 24 months)</measure>
+    <time_frame>6, 12 and 24 months</time_frame>
+    <description>Of particular clinical relevance is the overall survival at 12 months from date of randomisation, i.e. whether the participant is alive or not at that time point. Overall survival at 6 months and 24 months will also be of interest.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival time (PFS)</measure>
+    <time_frame>Time in whole days from the date of randomisation to the date of the first documented evidence of disease progression or death (from any cause), whichever came first, assessed at a minimum of 12 months.</time_frame>
+    <description>Measured using Response Assessment for Neuro-Oncology (RANO) criteria at screening, weeks 10, 22, 30 then 3 monthly (as per standard of care) for up to a minimum of 52 weeks from the start of trial treatment. PFS includes radiological progression assessed in accordance with RANO criteria and clinical progression where radiological progression is not possible.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life (HRQoL) as assessed by EORTC QLQ-C30</measure>
+    <time_frame>Baseline (Week 0), Week 8, Week 16, End of Treatment (Week 24)</time_frame>
+    <description>Generic Health-related quality of life (HRQoL) will be assessed with the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire Core 30 (QLQ-C30) consisting of function, symptom and global health status scales, scored 1-4 with lower scores indicating better outcomes..</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Baseline (Week 0), Week 4, Week 8, Week 12, Week 16, Week 20, End of Treatment (Week 24)</time_frame>
+    <description>Assessment of AEs according to the current NCI-CTCAE v5.0 criteria. Acute AE will be defined as those occurring up to 12 weeks post-end of treatment. Late AE will be defined as those occurring after 12 weeks post-end of treatment. The end of treatment will be the date of the final chemotherapy cycle.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">234</enrollment>
+  <condition>Glioblastoma</condition>
+  <condition>Brain Tumor</condition>
+  <condition>Cannabis</condition>
+  <condition>Brain Tumor, Recurrent</condition>
+  <arm_group>
+    <arm_group_label>Standard Temozolomide with Sativex</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Temozolomide 150mg/m2 for cycle 1, increasing to 200mg/m2 for subsequent cycles, once daily for days 1-5, orally, at the start of each 28 day cycle, up to a maximum of 6 cycles.&#xD;
+Sativex up to 12 oromucosal sprays per day up to a maximum of 6 cycles; self titrated over days 1-14 in cycle 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Temozolomide with Sativex-matched placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Temozolomide 150mg/m2 for cycle 1, increasing to 200mg/m2 for subsequent cycles, once daily for days 1-5, orally, at the start of each 28 day cycle, up to a maximum of 6 cycles.&#xD;
+Sativex-matched placebo up to 12 oromucosal sprays per day up to a maximum of 6 cycles; self titrated over days 1-14 in cycle 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sativex</intervention_name>
+    <description>Oromucosal spray</description>
+    <arm_group_label>Standard Temozolomide with Sativex</arm_group_label>
+    <other_name>nabiximols</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>Oral capsule</description>
+    <arm_group_label>Standard Temozolomide with Sativex</arm_group_label>
+    <arm_group_label>Standard Temozolomide with Sativex-matched placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sativex-matched placebo</intervention_name>
+    <description>Sativex-matched placebo oromucosal spray</description>
+    <arm_group_label>Standard Temozolomide with Sativex-matched placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histological diagnosis of MGMT promoter methylated, IDH wild type (WT) GBM with&#xD;
+             consistent local molecular pathology (repeat biopsy at recurrence is NOT required).&#xD;
+&#xD;
+          -  First recurrence of GBM planned for systemic treatment as determined by local&#xD;
+             Multidisciplinary Team (MDT), including agreement of a Consultant Neuro-Radiologist&#xD;
+             that imaging changes are most in keeping with recurrence and not pseudo-progression&#xD;
+             and patient is planned for systemic treatment. Patients with a prior recurrence&#xD;
+             treated by surgical resection alone are eligible at time of first recurrence planned&#xD;
+             for systemic treatment.&#xD;
+&#xD;
+          -  Patients must have received initial first-line treatment with standard dose&#xD;
+             conventionally fractionated radiotherapy (i.e. 54-60 Gy in 28-33 fractions) with&#xD;
+             concomitant and adjuvant TMZ (STUPP regime).&#xD;
+&#xD;
+               -  A minimum of 3 cycles of adjuvant TMZ must have been received.&#xD;
+&#xD;
+               -  A minimum of SD (or PR/CR) at the end of first-line treatment.&#xD;
+&#xD;
+          -  ≥4 months since day 28 of the last cycle of TMZ.&#xD;
+&#xD;
+          -  Karnofsky Performance Status ≥60.&#xD;
+&#xD;
+          -  Adequate hematologic, renal, and hepatic function within 14 days prior to&#xD;
+             randomisation:&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥1.5 x 109/L&#xD;
+&#xD;
+               -  Platelet count ≥100 x 109/L&#xD;
+&#xD;
+               -  Serum creatinine clearance (measured or eGFR) &gt;30ml/min&#xD;
+&#xD;
+               -  Total serum bilirubin ≤1.5 x upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Liver transaminases &lt;2.5 x ULN&#xD;
+&#xD;
+          -  If surgery has been performed for first recurrence then the wound must be adequately&#xD;
+             healed and there must be residual enhancing disease on MRI within 21 days of surgery&#xD;
+             or new enhancement at later follow up deemed suitable for systemic treatment.&#xD;
+&#xD;
+          -  Recovered from previous treatment side-effects ≤ Grade 2.&#xD;
+&#xD;
+          -  If on systemic steroids, must be on stable (≥7 days) or decreasing dose of steroids.&#xD;
+&#xD;
+          -  Willing and able to provide trial-specific informed consent.&#xD;
+&#xD;
+          -  Willing and able to comply with trial requirements.&#xD;
+&#xD;
+          -  Age ≥16.&#xD;
+&#xD;
+          -  Able to start treatment within 28 days of randomisation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pathology inconsistent with IDH WT GBM (e.g. patients with molecular features of PXA&#xD;
+             or BRAF mutation (on original pathology) will be excluded).&#xD;
+&#xD;
+          -  Prior invasive malignancy (except non-melanoma skin cancer), unless disease free for a&#xD;
+             minimum of one year.&#xD;
+&#xD;
+          -  Prior treatment with stereotactic radiotherapy, brachytherapy or Convection Enhanced&#xD;
+             Delivery (CED) of any agent.&#xD;
+&#xD;
+          -  Prior treatment, apart from debulking surgery, for first recurrence of GBM.&#xD;
+&#xD;
+          -  Any active co-morbidity making patient unsuitable for trial treatment in the view of&#xD;
+             the Investigator.&#xD;
+&#xD;
+          -  Personal history of schizophrenia, other psychotic illness, severe personality&#xD;
+             disorder or other significant psychiatric diagnosis other than depression associated&#xD;
+             with their underlying glioma condition.&#xD;
+&#xD;
+          -  Prior allergic reaction or significant toxicity (≥Grade 3 CTCAE) related to TMZ&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Current or recent cannabis or cannabinoid-based medications within 30 days of&#xD;
+             randomisation and/or unwilling to abstain for the duration of the trial.&#xD;
+&#xD;
+          -  Women who are pregnant, breastfeeding or a woman of childbearing potential who is&#xD;
+             unwilling to use effective contraceptive methods during trial treatment and for 6&#xD;
+             months after completion of trial treatment.&#xD;
+&#xD;
+             o Women of childbearing age must have a negative pregnancy test within 7 days prior to&#xD;
+             randomisation.&#xD;
+&#xD;
+          -  Men who are sexually active and unwilling/unable to use medically acceptable forms of&#xD;
+             contraception during trial treatment or for 6 months after completion of trial&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Contra-indication to MRI or gadolinium.&#xD;
+&#xD;
+          -  Hereditary galactose intolerance, total lactase deficiency or glucose-galactose&#xD;
+             malabsorption.&#xD;
+&#xD;
+          -  Known hypersensitivity to cannabinoids or excipients of the IMP.&#xD;
+&#xD;
+          -  Known history of current or prior alcohol or drug dependence.&#xD;
+&#xD;
+          -  Known Hepatitis B (HBV), Cytomegalovirus (CMV) or opportunistic infection.&#xD;
+&#xD;
+          -  Has received a live vaccine within 28 days prior to randomisation.&#xD;
+&#xD;
+          -  Unable to administer oromucosal medication due to mucosal lesions or other issues.&#xD;
+&#xD;
+          -  Participation in another therapeutic clinical trial whilst taking part in this trial.&#xD;
+&#xD;
+          -  Any psychological, familial, sociological or geographical condition hampering protocol&#xD;
+             compliance.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susan Short</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Leeds</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rhys Mant</last_name>
+    <phone>0121 414 6788</phone>
+    <email>aristocrat@trials.bham.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joshua Savage</last_name>
+    <email>j.savage.1@bham.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Belfast City Hospital, Belfast Health and Social Care Trust</name>
+      <address>
+        <city>Belfast</city>
+        <zip>BT9 7AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital Birmingham, University Hospital Birmingham NHS Foundation Trust</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Sara Meade</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bristol Haematology &amp; Oncology Centre, University Hospitals Bristol &amp; Weston NHS Foundation Trust</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Christopher Herbert</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Fiona Harris</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velindre Cancer Centre, Velindre University NHS Trust</name>
+      <address>
+        <city>Cardiff</city>
+        <zip>CF15 7QZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Jillian MacLean</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Western General Hospital, NHS Lothian</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Sara Erridge</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beatson West of Scotland Cancer Centre, NHS Greater Glasgow &amp; Clyde</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G12 0YN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Stefan Nowicki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St James's University Hospital, Leeds Teaching Hospitals NHS Trust</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Fiona Collinson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Guy's Hospital, Guy's and St Thomas' NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Lucy Brazil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charing Cross Hospital, Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Matthew Williams</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie Hospital, The Christie NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Catherine McBain</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>City Hospital, Nottingham University Hospitals NHS Trust</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Karen Foweraker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Radcliffe Hospital, Oxford University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 9DU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southampton General Hospital, University Hospital Southampton NHS Foundation Trust</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clatterbridge Cancer Centre, The Clatterbridge Cancer Centre NHS Foundation Trust</name>
+      <address>
+        <city>Wirral</city>
+        <zip>CH63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Shaveta Mehta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://www.birmingham.ac.uk/aristocrat</url>
+    <description>Trial Website</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>April 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cannabinoid</keyword>
+  <keyword>GBM</keyword>
+  <keyword>temozolomide</keyword>
+  <keyword>sativex</keyword>
+  <keyword>nabiximols</keyword>
+  <keyword>cannabis</keyword>
+  <keyword>glioblastoma</keyword>
+  <keyword>brain</keyword>
+  <keyword>recurrent</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Nabiximols</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Scientifically sound proposals from appropriately qualified researchers will be considered for data sharing. Requests should be made by returning a Data Sharing Request Form to newbusiness@trials.bham.ac.uk; this captures the research requirements, statistical analysis plan, and intended publication schedule. Requests will be reviewed by the Cancer Research UK Clinical Trials Unit (CRCTU) Directors in discussion with the Chief Investigator (CI), Trial Management Group (TMG) and independent Trial Steering Committee (TSC). They will consider the scientific validity of the request, qualifications of the researchers, CI, TMG &amp; TSC views, consent arrangements, practicality of anonymizing the requested data &amp; contractual obligations. If supportive of the request, and where not already obtained, Sponsor consent for data transfer will be sought before notifying applicants of the outcome. It is anticipated that applicants will be notified within 3 months of receipt of the original request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

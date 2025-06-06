@@ -1,0 +1,280 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625737</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HMPL-013-CC-GC003</org_study_id>
+    <nct_id>NCT05625737</nct_id>
+  </id_info>
+  <brief_title>Fruquintinib Combined With Sintilimab as Second-line Therapy for Gastric or Gastro-esophageal Junction Adenocarcinoma</brief_title>
+  <official_title>A Single-center, Single-arm, Open-label, Exploratory Study Evaluating Fruquintinib Combined With Sintilimab in Second-line Treatment of Patients With Advanced Gastric or Gastro-esophageal Junction Adenocarcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wuhan Union Hospital, China</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This was a single-arm, prospective study to investigate the efficacy and safety of&#xD;
+      fruquintinib combined with sintilimab in the second-line treatment of Chinese patients with&#xD;
+      advanced gastric/GEJ adenocarcinoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with adenocarcinoma of the gastro-esophageal junction or the stomach who have&#xD;
+      documented progression after being treated with a 1st line chemotherapy can be included. All&#xD;
+      patients will receive a second line therapy with fruquintinib and sintilimab, a checkpoint&#xD;
+      inhibitor. Clinical and radiographic assessment will be performed regularly. Patients will be&#xD;
+      treated until disease progression, untolerable toxicity or withdrawal of consent.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2022</start_date>
+  <completion_date type="Anticipated">September 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>from date of randomization until the date of progressive disease or EOT due to any cause, assessed up to 1 year</time_frame>
+    <description>ORR is defined as percentage of participants achieving assessed complete response (CR) and partial response (PR) by the investigator according to the RECIST 1.1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 1 year</time_frame>
+    <description>PFS is defined as the time from randomization to the first documented disease progression or death due to any cause, whichever occurs first. Responses are according to the Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) as assessed by investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>from date of randomization until the date of death due to any cause, assessed up to 2 years</time_frame>
+    <description>OS is defined as the time from randomization to death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>from date of randomization until the date of progressive disease or EOT due to any cause, assessed up to 1 year</time_frame>
+    <description>DCR is defined as the percentage of participants who have a confirmed complete response（CR） or partial response（PR） or stable disease（SD） per RECIST 1.1 as assessed by investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>from date of the first documentation of response to the date of the first documentation of objective tumor progression or death due to any cause, whichever came first, assessed up to 1 year</time_frame>
+    <description>DoR is defined as the time how long response lasts</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Event (AEs)</measure>
+    <time_frame>from the date of first dose to the 30 days post the last dose</time_frame>
+    <description>Safety will be evaluated by incidence, severity and outcomes of adverse events (AEs) and categorized by severity in accordance with the NCI CTC AE Version 5.0.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoint</measure>
+    <time_frame>from date of randomization until the date of progressive disease or EOT due to any cause, assessed up to 1 year</time_frame>
+    <description>To identify the correlation between PD-L1 expression and inflammatory factor score with clinical outcomes</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">29</enrollment>
+  <condition>Stomach Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Fruquintinib plus Sintilimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Fruquintinib combined with sintilimab. Fruquintinib: 4 mg/d, qd, po, d1-14, q3w; Sintilimab: 200 mg/d, ivgtt, d1, q3w.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fruquintinib</intervention_name>
+    <description>Fruquintinib will be administrated as 4mg orally, once daily for 2 weeks on/1 week off.</description>
+    <arm_group_label>Fruquintinib plus Sintilimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sintilimab</intervention_name>
+    <description>Sintilimab will be administrated as 200mg once every 3 weeks.</description>
+    <arm_group_label>Fruquintinib plus Sintilimab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed the Informed Consent Form&#xD;
+&#xD;
+          -  Ages: 18-75 Years (concluding 18 and 75 Years)&#xD;
+&#xD;
+          -  Pathologically confirmed unresectable advanced gastric/gastroesophageal junction&#xD;
+             adenocarcinoma&#xD;
+&#xD;
+          -  Failure to 1st line therapy, completed at least 28 days before enrollment&#xD;
+&#xD;
+          -  HER2-negative&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-2&#xD;
+&#xD;
+          -  Life expectancy greater than 3 months&#xD;
+&#xD;
+          -  At least one measurable lesion (larger than 10 mm in diameter by spiral CT scan,&#xD;
+             larger than 20 mm in diameter by conventional CT scan) according to RECIST1.1&#xD;
+&#xD;
+          -  Sufficient organ functions as follows (any blood transfusion or cell growth factor use&#xD;
+             within 14 days before enrollment is not allowed):&#xD;
+&#xD;
+        Absolute Neutrophil Count (ANC) ≥1.5×109/L Platelet Count of ≥175×109/L; Hemoglobin≥90g/L;&#xD;
+        Total Bilirubin (TBIL) ≤1.5 x ULN; ALT and /or AST&lt;1.5 x ULN; If there is liver metastasis,&#xD;
+        then ALT and/or AST&lt;3.0 x ULN; Serum Creatinine (SCr) ≤1.5×ULN; Endogenous creatinine&#xD;
+        clearance rate ≥50ml / min；&#xD;
+&#xD;
+          -  Man and woman who childbearing potential agrees to use adequate contraception&#xD;
+&#xD;
+          -  Willingness to provide enough tumor tissues for PD-L1 expression test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients could not obey the study protocol.&#xD;
+&#xD;
+          -  Previous therapy with VEGFR Inhibitor.&#xD;
+&#xD;
+          -  Other malignancy within 5 years prior to study enrolment, except for cervical&#xD;
+             carcinoma in situ, basal or squamous cell skin cancer.&#xD;
+&#xD;
+          -  Known brain or CNS metastases.&#xD;
+&#xD;
+          -  Patients with any active autoimmune disease or a documented history of autoimmune&#xD;
+             disease within 4 weeks prior to enrollment.&#xD;
+&#xD;
+          -  Prior allogeneic bone marrow transplantation or prior solid organ transplantation.&#xD;
+&#xD;
+          -  Uncontrolled malignant ascites.&#xD;
+&#xD;
+          -  Clinically significant cardiovascular diseases, including but not limited to acute&#xD;
+             myocardial infarction, severe / unstable angina pectoris or coronary artery bypass&#xD;
+             grafting within 6 months before enrollment; Congestive heart failure, New York Heart&#xD;
+             Association (NYHA) grade &gt; 2; ventricular arrhythmia requiring drug treatment; LVEF&#xD;
+             (left ventricular ejection fraction) &lt; 50%.&#xD;
+&#xD;
+          -  Known allergy or hypersensitivity to any of the study drugs or any of the study drug&#xD;
+             excipients.&#xD;
+&#xD;
+          -  Participation in another clinical trial with any experimental drug within 4 weeks&#xD;
+             prior to enrollment.&#xD;
+&#xD;
+          -  Clinically significant electrolyte abnormalities judged by researchers.&#xD;
+&#xD;
+          -  Systolic blood pressure &gt; 140mmHg or diastolic blood pressure &gt; 90mmHg regardless of&#xD;
+             any antihypertensive drugs.&#xD;
+&#xD;
+          -  Poorly controlled diabetes before enrollment.&#xD;
+&#xD;
+          -  Any factors that influence the usage of oral administration and patients cannot take&#xD;
+             fruquintinib orally.&#xD;
+&#xD;
+          -  Active gastric and duodenal ulcer, ulcerative colitis or uncontrolled hemorrhage in&#xD;
+             GI, or other conditions that may cause GI bleeding and perforation as determined by&#xD;
+             the investigator.&#xD;
+&#xD;
+          -  Patients with obvious evidence of bleeding tendency or medical history within 3 months&#xD;
+             before enrollment, hemoptysis or thromboembolism within 12 months.&#xD;
+&#xD;
+          -  Active infection or serious infection that is uncontrolled by drug (NCI CTCAE v. 5.0&#xD;
+             Grade ≥ 2).&#xD;
+&#xD;
+          -  History of clinically significant hepatic disease, including hepatitis B virus (HBV)&#xD;
+             infection with HBV DNA positive (copies ≥1×104/ml or &gt;2000IU/ml); known hepatitis C&#xD;
+             virus infection with HCV RNA positive (copies ≥1×103/ml).&#xD;
+&#xD;
+          -  Persisting toxicity related to prior therapy (NCI CTCAE v. 5.0 Grade &gt; 1).&#xD;
+&#xD;
+          -  Pregnant or breastfeeding female patient.&#xD;
+&#xD;
+          -  Receive blood transfusion, blood products and hematopoietic factors such as albumin&#xD;
+             and granulocyte colony stimulating factor (G-CSF) within 14 days prior to enrollment.&#xD;
+&#xD;
+          -  Other severe acute or chronic medical conditions including metabolic disorder,&#xD;
+             physical examination or laboratory abnormalities that may increase the risk associated&#xD;
+             with study participation or study treatment administration or may interfere with the&#xD;
+             interpretation of study results and, in the judgment of the investigator, would make&#xD;
+             the patient inappropriate for entry into this study.&#xD;
+&#xD;
+          -  Urinary protein ≥ ++, and the 24-hour urine protein quantification is greater than 1.0&#xD;
+             g.&#xD;
+&#xD;
+          -  Use of immunosuppressive medication, or systemic/local immunosuppressive&#xD;
+             corticosteroids for complication.&#xD;
+&#xD;
+          -  Patients considered unsuitable for inclusion in this study by the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hongli Liu, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wuhan Union Hospital, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hongli Liu, PhD</last_name>
+    <phone>+86-027-85871962</phone>
+    <email>hongli_liu@hust.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jieying Zhang, MD</last_name>
+    <phone>+86-027-85871962</phone>
+    <email>whxhzjy@hust.edu.cn</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Wuhan Union Hospital, China</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jieying Zhang, MD</last_name>
+      <phone>+8613554281983</phone>
+      <email>whxhzjy@hust.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>November 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wuhan Union Hospital, China</investigator_affiliation>
+    <investigator_full_name>Hongli Liu</investigator_full_name>
+    <investigator_title>Director, Head of GI Department , Principal Investigator, Clinical Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

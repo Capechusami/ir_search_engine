@@ -1,0 +1,204 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625802</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00219913</org_study_id>
+    <nct_id>NCT05625802</nct_id>
+  </id_info>
+  <brief_title>Erector Spinae Plane Block for Uncomplicated Renal Colic</brief_title>
+  <official_title>Erector Spinae Plane Block for Uncomplicated Renal Colic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study is to determine how well the Erector Spinae Plane Block (ESPB) works for&#xD;
+      kidney stone pain and any possible side effects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 8, 2023</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single site two-stage open label phase 2 clinical trial with one treatment arm and one external control arm</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients receiving a second parenteral pain medication in the Emergency Department (ED)</measure>
+    <time_frame>At ED discharge, approximately 1 day</time_frame>
+    <description>Data for this outcome will be collected via electronic health record query.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in pain</measure>
+    <time_frame>Baseline, 60 minutes following procedure</time_frame>
+    <description>Pain ranked on a visual analog scale 1-10 where 10 indicates the most pain. Change is defined as the last pain score minus first pain score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of admission to hospital</measure>
+    <time_frame>Up to 30-days</time_frame>
+    <description>Data for this outcome will be collected via electronic health record query.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of 72-hour return to the Emergency Department (ED)</measure>
+    <time_frame>3 days</time_frame>
+    <description>Data for this outcome will be collected via electronic health record query.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Renal Colic</condition>
+  <condition>Kidney Stone</condition>
+  <arm_group>
+    <arm_group_label>Erector Spinae Plane Block (ESPB)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>External control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Erector Spinae Plane Block (ESPB)</intervention_name>
+    <description>Up to 30 Cubic Centimeter (cc) of 0.5% ropivacaine administered by local injection into the erector spinae plane under ultrasound guidance</description>
+    <arm_group_label>Erector Spinae Plane Block (ESPB)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ropivacaine</intervention_name>
+    <description>0.5% ropivacaine</description>
+    <arm_group_label>Erector Spinae Plane Block (ESPB)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Imaging confirmation of urolithiasis on the index encounter or prior encounter within&#xD;
+             7 days&#xD;
+&#xD;
+          -  Patient received one dose of parenteral pain medication in the emergency department&#xD;
+             (ED)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+&#xD;
+          -  Prisoner or incarcerated individual&#xD;
+&#xD;
+          -  Therapeutic anticoagulation or coagulopathy.&#xD;
+&#xD;
+          -  Active treatment for urinary tract infection (either acute infection or chronic&#xD;
+             therapy)&#xD;
+&#xD;
+          -  Prior spinal surgery in the thoracic region&#xD;
+&#xD;
+          -  Allergy to local anesthetic or prior local anesthetic&#xD;
+&#xD;
+          -  Soft tissue infection overlying the injection site&#xD;
+&#xD;
+          -  Positive for coronavirus&#xD;
+&#xD;
+          -  Inability to communicate verbally or read/write in English&#xD;
+&#xD;
+          -  Currently taking strong CYP1A2 inhibitor (fluvoxamine, amiodarone, fluoroquinolones,&#xD;
+             etc.)&#xD;
+&#xD;
+          -  Glucose-6-phosphate dehydrogenase deficiency (G6PD)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chris Fung</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carmen Colmenero Mahmood</last_name>
+    <phone>734-647-0574</phone>
+    <email>cico@med.umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chris Fung</last_name>
+    <phone>734-763-6370</phone>
+    <email>chfung@med.umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carmen Colmenero Mahmood</last_name>
+      <phone>734-647-0574</phone>
+      <email>cico@med.umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Chris Fung</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>February 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Christopher Fung</investigator_full_name>
+    <investigator_title>Assistant Professor in Emergency Medicine - Adult</investigator_title>
+  </responsible_party>
+  <keyword>erector spinae plane block</keyword>
+  <keyword>Emergency Department</keyword>
+  <keyword>ropivacaine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Calculi</mesh_term>
+    <mesh_term>Colic</mesh_term>
+    <mesh_term>Renal Colic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ropivacaine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

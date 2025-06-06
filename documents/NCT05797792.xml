@@ -1,0 +1,545 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797792</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHOICE 2</org_study_id>
+    <nct_id>NCT05797792</nct_id>
+  </id_info>
+  <brief_title>CHemical OptImization of Cerebral Embolectomy 2 (CHOICE 2).</brief_title>
+  <acronym>CHOICE2</acronym>
+  <official_title>CHemical OptImization of Cerebral Embolectomy in Patients With Acute Stroke Treated With Mechanical Thrombectomy 2 (CHOICE 2 TRIAL)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Clinic of Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Instituto de Salud Carlos III</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundacion Clinic per a la Recerca Biomédica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Clinic of Barcelona</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multi-center, randomized, parallel-group, superiority study to compare the efficacy of&#xD;
+      adjunct intra-arterial rt-PA versus not adjunct intra-arterial rt-PA in the improvement of&#xD;
+      the efficacy of mechanical thrombectomy in patients with large vessel occlusion acute&#xD;
+      ischemic stroke.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study objective is to validate whether the administration of intra-arterial rt-PA is&#xD;
+      efficient as an add-on to mechanical thrombectomy in patients with acute ischemic stroke and&#xD;
+      complete or near-complete recanalization of a proximal vessel occlusion and successful brain&#xD;
+      reperfusion on cerebral angiogram (corresponding to modified treatment in cerebral infarct&#xD;
+      (mTICI) score 2b/3). Patients with symptomatic large vessel occlusion (LVO) in the anterior&#xD;
+      circulation treated with MT resulting in a mTICI score 2b/3 on cerebral angiography will be&#xD;
+      enrolled in the angiosuite by interventionalists or neurologists once a mTICI 2b/3 is&#xD;
+      confirmed on cerebral angiography. Each included patient will be followed up to 90 days from&#xD;
+      the stroke. The primary outcome is the proportion of patients with microvascular&#xD;
+      hypoperfusion on CT Perfusion at 36±24h. The key secondary outcome is the proportion of&#xD;
+      patients with a mRS 0 to 1 at 90 days&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">May 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multicenter, prospective, randomized, open, blinded end-point assessment phase III trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The evaluation of the primary outcome measure (microvascular hypoperfusion on CTP) will be conducted at the Imaging Central Core Laboratory by blinded evaluators. The evaluation of key clinical outcome at 3 months will be conducted by central blinded evaluators following a structured questionnaire of the modified Rankin Scale (mRS</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Microvascular hypoperfusion on brain CT Perfusion</measure>
+    <time_frame>36±24hours post treatment</time_frame>
+    <description>Proportion of patients with abnormal microvascular hypoperfusion on brain CTPerfusion at 36±24hours post Mechanical Thrombectomy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>modified Rankin Scale (mRS) score</measure>
+    <time_frame>90 days post MT</time_frame>
+    <description>Proportion of patients with a mRS 0 to 1 (min value 0, max value 6, higher score worse outcome)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of microvascular hypoperfusion on follow-up brain CTP</measure>
+    <time_frame>36±24hours post treatment</time_frame>
+    <description>Volume of hypoperfusion on brain CTP at 36h±24hours post MT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infarct Expansion Ratio (IER): Final infarct to initial ischemic tissue volumes on brain CTP</measure>
+    <time_frame>36±24hours post treatment</time_frame>
+    <description>Infarct Expansion Ratio (IER): Final infarct to initial ischemic tissue volumes on brain CTP at 36±24hours post MT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Barthel Scale score</measure>
+    <time_frame>day 90 post treatment</time_frame>
+    <description>Barthel Scale score of 95 to 100, (min value 0, max value 100, higher score better outcome)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EuroQol Group 5-Dimension Self-Report Questionnaire (EQ-5D-3L)</measure>
+    <time_frame>day 90 post treatment</time_frame>
+    <description>Quality of life measured with the EuroQol Group 5-Dimension Self-Report Questionnaire (EQ-5D-3L) The score has five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 3 levels: no problems, some problems, and extreme problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shift analysis of the modified Rankin Scale (mRS)</measure>
+    <time_frame>day 90 post treatment</time_frame>
+    <description>Shift analysis of the modified Rankin Scale (mRS), at day 90 (min value 0, max value 6, higher score worse outcome)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>SAFETY OUTCOME: Mortality at 90 days</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Mortality at 90 days</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SAFETY OUTCOME: symptomatic intracerebral hemorrahge (sICH ) rate at 24 hours.</measure>
+    <time_frame>24hours post MT</time_frame>
+    <description>Symptomatic ICH will be classified as per the European Cooperative Acute Stroke Study (ECASS) 3 criteria</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">440</enrollment>
+  <condition>Stroke, Acute Ischemic</condition>
+  <condition>Stroke, Acute</condition>
+  <arm_group>
+    <arm_group_label>Intraarterial alteplase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All the patients will be given a 15 minutes IA infusion of alteplase (Actylise®) at a drug concentration of 1.0 mg/ml. At 15 minutes of IA treatment onset, the infusion will be stopped and the angiographic score assessed. Study drug will be prepared according to the following steps: 1/ Dilute 2 vials of 10 mgs (rt-PA) in 20 cc of sterile water for injection (SWI), to attain a 20 ml solution at a concentration of 1mg/ml; 2. Calculate the volume of cc of infusion and therefore the total dose as per the formula: (Patient's weight in Kgs multiplied by 0.225). A patient of 89 Kgs or more will receive 20.0 cc of infusion for 15 min, totaling a dose of 20.0 mg of rt-PA.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No intervention</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients allocated to this arm will receive a similar care to patients allocated to IA alteplase except the thrombolytic</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intraarterial alteplase</intervention_name>
+    <description>See arm/group descriptions.</description>
+    <arm_group_label>Intraarterial alteplase</arm_group_label>
+    <other_name>Intraarterial recombinant tissue plasminogen activator (rt-PA)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with symptomatic large vessel occlusion (LVO) in the anterior circulation&#xD;
+             (ICA, ACA or MCA) treated with MT resulting in a mTICI score 2b/3 at end of the&#xD;
+             procedure. Patients with a mTICI score 2b/3 on the diagnostic cerebral angiography&#xD;
+             before the onset of MT are also eligible for the study.&#xD;
+&#xD;
+          -  Estimated delay to onset of rescue intraarterial rt-PA administration &lt;24 hours from&#xD;
+             symptom onset, defined as the point in time the patient was last seen well.&#xD;
+&#xD;
+          -  No significant pre-stroke functional disability (modified Rankin scale 0-1), or mRS &gt;1&#xD;
+             that according to the investigator is not related to neurological disease (i.e.,&#xD;
+             amputation, blindness)&#xD;
+&#xD;
+          -  Age ≥18&#xD;
+&#xD;
+          -  ASPECTS &gt;6 on non-contrast CT (NCCT) scan if symptoms lasting &lt;4.5 hours of last seen&#xD;
+             well. In patients with &gt;4.5h of last seen well, a CT-perfusion (Flow maps) or&#xD;
+             MRI-perfusion should be considered instead of NCCT, especially if &gt;9h have elapsed, or&#xD;
+             in seriously ill patients (i.e., NIHSS&gt;17). Nonetheless, if a perfusion study is not&#xD;
+             available, NCCT can still be used as long as it is confirmed without a doubt that the&#xD;
+             ASPECTS is &gt; 6.&#xD;
+&#xD;
+          -  Informed consent, obtained from patient or acceptable patient surrogate, or Differed&#xD;
+             Informed Consent (DIC) to avoid any delay in the initiation of the mechanical&#xD;
+             thrombectomy and the i.a thrombolysis. The DIC will be signed by the patient or&#xD;
+             acceptable patient surrogate at any time after the tPA treatment is started.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  NIHSS score on admission &gt;25&#xD;
+&#xD;
+          -  Contraindication to IV t-PA as per local national guidelines (except time to therapy)&#xD;
+&#xD;
+          -  Use of carotid artery stents during the endovascular procedure requiring dual&#xD;
+             antiplatelet therapy during the first 24h&#xD;
+&#xD;
+          -  Need of more than 3 passes (per vessel) or more than a total of 5 passes (in more than&#xD;
+             one vessel) to complete the endovascular procedure&#xD;
+&#xD;
+          -  Female who is pregnant or lactating or has a positive pregnancy test at time of&#xD;
+             admission&#xD;
+&#xD;
+          -  Current participation in another investigation drug or device treatment study&#xD;
+&#xD;
+          -  Known hereditary or acquired hemorrhagic diathesis, coagulation factor deficiency&#xD;
+&#xD;
+          -  Known coagulopathy, INR &gt; 1.7&#xD;
+&#xD;
+          -  Platelets &lt; 50,000&#xD;
+&#xD;
+          -  Renal Failure as defined by a serum creatinine &gt; 3.0 mg/dl (or 265.2 μmol/l) or&#xD;
+             glomerular Filtration Rate [GFR] &lt; 30&#xD;
+&#xD;
+          -  Subject who requires hemodialysis or peritoneal dialysis, or who have a&#xD;
+             contraindication to an angiogram for whatever reason&#xD;
+&#xD;
+          -  Any hemorrhage on CT/MRI&#xD;
+&#xD;
+          -  Clinical presentation suggests a subarachnoid hemorrhage, even if initial CT or MRI&#xD;
+             scan is normal&#xD;
+&#xD;
+          -  Suspicion of aortic dissection&#xD;
+&#xD;
+          -  Subject currently uses or has a recent history of illicit drug(s) or abuses alcohol&#xD;
+&#xD;
+          -  History of life-threatening allergy (more than rash) to contrast medium&#xD;
+&#xD;
+          -  SBP &gt;185 mmHg or DBP &gt;110 mmHg refractory to treatment&#xD;
+&#xD;
+          -  Serious, advanced, terminal illness with anticipated life expectancy &lt; 6 months&#xD;
+&#xD;
+          -  Pre-existing neurological or psychiatric disease that would confound evaluation&#xD;
+&#xD;
+          -  Presumed vasculitis or septic embolization&#xD;
+&#xD;
+          -  Unlikely to be available for 90-day follow-up (i.e., no fixed home address, visitor&#xD;
+             from overseas)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Angel Chamorro, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Comprehensive Stroke Center, Hospital Clinic Barcelona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arturo Renú, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Comprehensive Stroke Center, Hospital Clinic Barcelona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Juan F Arenillas, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario de Valladolid</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>María del Mar Freijo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario de Cruces</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maite Alonso, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario de Donostia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>María D Fernandez, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario de A Coruña</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pedro Vega, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario Central de Asturias</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lluis Morales, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Univesitario y Politénico La Fe</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Laura Dorado, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Germans Trías i Pujol</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pol Camps, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mikel Terceño, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Josep Trueta</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ana Morales, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario Virgen de la Arrixaca</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elisa Cuadrado, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital del Mar</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Martha Vargas, PhD</last_name>
+    <phone>0034-93 227 54 00</phone>
+    <phone_ext>2118</phone_ext>
+    <email>mvargas@clinic.cat</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Arturo Renú, MD</last_name>
+    <phone>0034-93 227 54 00</phone>
+    <phone_ext>2118</phone_ext>
+    <email>arenu@clinic.cat</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Germans Trías i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laura Dorado, MD</last_name>
+      <phone>934 65 12 00</phone>
+      <email>ldorado.germanstrias@gencat.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Arturo Renu, MD</last_name>
+      <phone>932275414</phone>
+      <phone_ext>5414</phone_ext>
+      <email>arenu@clinic.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pol Camps, MD</last_name>
+      <phone>935 53 71 45</phone>
+      <email>PCamps@santpau.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elisa Cuadrado</last_name>
+      <phone>932 48 30 00</phone>
+      <email>ecuadrado@psmar.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Cruces</name>
+      <address>
+        <city>Bilbao</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>María del Mar Freijo, MD</last_name>
+      <phone>946 00 60 00</phone>
+      <email>MARIADELMAR.FREIJOGUERRERO@osakidetza.eus</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de A Coruña</name>
+      <address>
+        <city>Coruña</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>María D Fernandez, MD</last_name>
+      <phone>981 17 80 00</phone>
+      <email>ma.dolores.fernandez.couto@sergas.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Josep Trueta</name>
+      <address>
+        <city>Girona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mikel Terceño</last_name>
+      <phone>972 94 02 00</phone>
+      <email>mikelterceno@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de la Arrixaca</name>
+      <address>
+        <city>Murcia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ana Morales, MD</last_name>
+      <phone>968 36 95 00</phone>
+      <email>amoralesortiz@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Central de Asturias</name>
+      <address>
+        <city>Oviedo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pedro Vega, MD</last_name>
+      <phone>985 10 80 00</phone>
+      <email>peveval@yahoo.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Donostia</name>
+      <address>
+        <city>San Sebastián</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maitane Alonso, MD</last_name>
+      <phone>943 00 70 00</phone>
+      <email>malonsolacabe@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univesitario y Politénico La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lluis Morales, MD</last_name>
+      <phone>961 24 40 00</phone>
+      <email>lluismoralescaba@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Valladolid</name>
+      <address>
+        <city>Valladolid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Juan F Arenillas, MD</last_name>
+      <phone>983 42 00 00</phone>
+      <email>juanfrancisco.arenillas@uva.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Chamorro A, Blasco J, Lopez A, Amaro S, Roman LS, Llull L, Renu A, Rudilosso S, Laredo C, Obach V, Urra X, Planas AM, Leira EC, Macho J. Complete reperfusion is required for maximal benefits of mechanical thrombectomy in stroke patients. Sci Rep. 2017 Sep 14;7(1):11636. doi: 10.1038/s41598-017-11946-y.</citation>
+    <PMID>28912596</PMID>
+  </reference>
+  <reference>
+    <citation>Davalos A, Cobo E, Molina CA, Chamorro A, de Miquel MA, Roman LS, Serena J, Lopez-Cancio E, Ribo M, Millan M, Urra X, Cardona P, Tomasello A, Castano C, Blasco J, Aja L, Rubiera M, Gomis M, Renu A, Lara B, Marti-Fabregas J, Jankowitz B, Cerda N, Jovin TG; REVASCAT Trial Investigators. Safety and efficacy of thrombectomy in acute ischaemic stroke (REVASCAT): 1-year follow-up of a randomised open-label trial. Lancet Neurol. 2017 May;16(5):369-376. doi: 10.1016/S1474-4422(17)30047-9. Epub 2017 Mar 16.</citation>
+    <PMID>28318984</PMID>
+  </reference>
+  <reference>
+    <citation>Jovin TG, Chamorro A, Cobo E, de Miquel MA, Molina CA, Rovira A, San Roman L, Serena J, Abilleira S, Ribo M, Millan M, Urra X, Cardona P, Lopez-Cancio E, Tomasello A, Castano C, Blasco J, Aja L, Dorado L, Quesada H, Rubiera M, Hernandez-Perez M, Goyal M, Demchuk AM, von Kummer R, Gallofre M, Davalos A; REVASCAT Trial Investigators. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med. 2015 Jun 11;372(24):2296-306. doi: 10.1056/NEJMoa1503780. Epub 2015 Apr 17.</citation>
+    <PMID>25882510</PMID>
+  </reference>
+  <reference>
+    <citation>Renu A, Blasco J, Millan M, Marti-Fabregas J, Cardona P, Oleaga L, Macho J, Molina C, Roquer J, Amaro S, Davalos A, Zarco F, Laredo C, Tomasello A, Guimaraens L, Barranco R, Castano C, Vivas E, Ramos A, Lopez-Rueda A, Urra X, Muchada M, Cuadrado-Godia E, Camps-Renom P, Roman LS, Rios J, Leira EC, Jovin T, Torres F, Chamorro A; CHOICE Investigators. The Chemical Optimization of Cerebral Embolectomy trial: Study protocol. Int J Stroke. 2021 Jan;16(1):110-116. doi: 10.1177/1747493019895656. Epub 2019 Dec 18.</citation>
+    <PMID>31852410</PMID>
+  </reference>
+  <reference>
+    <citation>Renu A, Millan M, San Roman L, Blasco J, Marti-Fabregas J, Terceno M, Amaro S, Serena J, Urra X, Laredo C, Barranco R, Camps-Renom P, Zarco F, Oleaga L, Cardona P, Castano C, Macho J, Cuadrado-Godia E, Vivas E, Lopez-Rueda A, Guimaraens L, Ramos-Pachon A, Roquer J, Muchada M, Tomasello A, Davalos A, Torres F, Chamorro A; CHOICE Investigators. Effect of Intra-arterial Alteplase vs Placebo Following Successful Thrombectomy on Functional Outcomes in Patients With Large Vessel Occlusion Acute Ischemic Stroke: The CHOICE Randomized Clinical Trial. JAMA. 2022 Mar 1;327(9):826-835. doi: 10.1001/jama.2022.1645.</citation>
+    <PMID>35143603</PMID>
+  </reference>
+  <reference>
+    <citation>Laredo C, Rodriguez A, Oleaga L, Hernandez-Perez M, Renu A, Puig J, Roman LS, Planas AM, Urra X, Chamorro A. Adjunct Thrombolysis Enhances Brain Reperfusion following Successful Thrombectomy. Ann Neurol. 2022 Nov;92(5):860-870. doi: 10.1002/ana.26474. Epub 2022 Aug 23.</citation>
+    <PMID>36054449</PMID>
+  </reference>
+  <reference>
+    <citation>Chamorro A, Torres F. Intra-arterial Alteplase vs Placebo After Successful Thrombectomy and Functional Outcomes in Patients With Large Vessel Occlusion Acute Ischemic Stroke-Reply. JAMA. 2022 Jun 28;327(24):2456. doi: 10.1001/jama.2022.7430. No abstract available.</citation>
+    <PMID>35763000</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Clinic of Barcelona</investigator_affiliation>
+    <investigator_full_name>Angel Chamorro, M.D., Ph.D.</investigator_full_name>
+    <investigator_title>Director, Comprehensive Stroke Center</investigator_title>
+  </responsible_party>
+  <keyword>Mechanical Thrombectomy</keyword>
+  <keyword>Recanalization</keyword>
+  <keyword>Reperfusion</keyword>
+  <keyword>Alteplase</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+    <mesh_term>Plasminogen</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified individual participant data on outcome measures will be published along with the main results of the trial.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The data will become available after publication of main study results.</ipd_time_frame>
+    <ipd_access_criteria>The IPD will be available from the Sponsor of the trial on reasonable request.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

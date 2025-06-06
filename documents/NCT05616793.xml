@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05616793</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OPGx-LCA5-1001</org_study_id>
+    <nct_id>NCT05616793</nct_id>
+  </id_info>
+  <brief_title>Safety and Tolerability Subretinal OPGx-001 for LCA5-Associated Inherited Retinal Degeneration (LCA5-IRD)</brief_title>
+  <official_title>An Open Label, Dose Exploration, Safety and Tolerability Study of a Subretinal Injection of an OPGx-001 Gene Vector to Participants With LCA5-Associated Inherited Retinal Degeneration (LCA5-IRD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Opus Genetics, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Opus Genetics, Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evaluate the safety and preliminary efficacy of&#xD;
+      subretinal gene therapy with OPGx-001 in patients with inherited retinal degeneration due to&#xD;
+      biallelic mutations in the LCA5 gene.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a non-randomized, open-label, phase 1/2 dose-escalation study evaluating two doses of&#xD;
+      OPGx-001 for the treatment of LCA5-IRD.&#xD;
+&#xD;
+      Enrollment will begin with a low-dose of OPGx-001 delivered via single, unilateral subretinal&#xD;
+      injection (Cohort 1) and proceed to an intermediate dose (Cohort 2) and subsequent high dose&#xD;
+      (Cohort 3). Escalation to each next cohort will proceed only after review of all data and&#xD;
+      upon recommendation by an independent data monitoring committee (IDMC).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 31, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of dose limiting toxicities</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of adverse events related to OPGx-001</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of procedure-related adverse events</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in retinal thickness (as measured by OCT)</measure>
+    <time_frame>1 year</time_frame>
+    <description>Changes from baseline in total retinal thickness and outer retinal thickness (in microns)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to month 12 in retinal sensitivity as measured by full-field stimulus testing (FST)</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to month 12 in best corrected visual acuity (BCVA)</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to month 12 in oculomotor control and fixation stability</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to month 12 in dark-adapted transient pupillary light reflexes (TPLR)</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to month 12 in visual functioning questionnaire</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">9</enrollment>
+  <condition>LCA5</condition>
+  <arm_group>
+    <arm_group_label>Dose Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single, unilateral subretinal administration of a low dose of OPGx-001 to adult participants at least 18 years of age</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single, unilateral subretinal administration of an intermediate dose of OPGx-001 to adult participants at least 18 years of age</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single, unilateral subretinal administration of a high dose of OPGx-001 to adult participants at least 18 years of age</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AAV8.hLCA5</intervention_name>
+    <description>Adeno-associated virus vector expressing human LCA5 gene</description>
+    <arm_group_label>Dose Group 1</arm_group_label>
+    <arm_group_label>Dose Group 2</arm_group_label>
+    <arm_group_label>Dose Group 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Are willing and able to provide written informed consent (ICF) and, where appropriate,&#xD;
+             willing to sign an assent prior to any study procedures.&#xD;
+&#xD;
+          2. Are willing to adhere to the clinical protocol and able to perform testing procedures.&#xD;
+&#xD;
+          3. Participants must be at least 18 years of age at consent.&#xD;
+&#xD;
+          4. Carry disease-causing biallelic LCA5 gene mutations determined by a Clinical&#xD;
+             Laboratory Improvement Amendments (CLIA) certified laboratory.&#xD;
+&#xD;
+          5. Visual acuity: BCVA &lt; 20/80 on the Early Treatment of Diabetic Retinopathy Study&#xD;
+             (ETDRS) visual acuity chart (modified for low vision participants) in the eye to be&#xD;
+             treated&#xD;
+&#xD;
+          6. Show evidence of detectable photoreceptors by Spectral Domain Optical Coherence&#xD;
+             Tomography (SD-OCT)&#xD;
+&#xD;
+          7. Participant is a good candidate for surgery per investigator judgement&#xD;
+&#xD;
+          8. Participant agrees to follow direction of investigator regarding restrictions&#xD;
+             post-surgery.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Individuals of childbearing potential (male and female) who are pregnant or unwilling&#xD;
+             to use effective contraception for the duration of the study, including barrier&#xD;
+             methods for the first year after investigational product (IP) administration.&#xD;
+&#xD;
+          2. Pre-existing eye conditions or complicating systemic diseases that would preclude the&#xD;
+             planned surgery. This includes individuals who are immunocompromised.&#xD;
+&#xD;
+          3. History of intraocular surgery for either eye within 6 months prior to planned IP&#xD;
+             administration.&#xD;
+&#xD;
+          4. Have previously received gene therapy.&#xD;
+&#xD;
+          5. Have used any investigational drug or device within 90 days or 5 estimated half-lives&#xD;
+             of treatment, whichever is longer or plan to participate in another study of drug or&#xD;
+             device during the study period.&#xD;
+&#xD;
+          6. History of disease which may preclude the participant from participation, or which may&#xD;
+             interfere with outcome measure testing or test results.&#xD;
+&#xD;
+          7. Incapable of performing visual function testing (e.g., FST testing) for reasons other&#xD;
+             than poor vision.&#xD;
+&#xD;
+          8. Any absolute contraindication to a course of oral steroids.&#xD;
+&#xD;
+          9. Any other condition that would not allow the potential participant to complete&#xD;
+             follow-up examinations during the study and, in the opinion of the Investigator, makes&#xD;
+             the potential participant unsuitable for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>November 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>LCA</keyword>
+  <keyword>Retinal Degeneration</keyword>
+  <keyword>IRD</keyword>
+  <keyword>adeno associated virus</keyword>
+  <keyword>gene therapy</keyword>
+  <keyword>LCA5</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Retinal Degeneration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,196 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794087</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro2022002024</org_study_id>
+    <secondary_id>R01ES004738</secondary_id>
+    <nct_id>NCT05794087</nct_id>
+  </id_info>
+  <brief_title>The Role of Macrophage Activation in Lung Injury Following Ozone Exposure</brief_title>
+  <official_title>Activated Macrophages and Ozone Toxicity II</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rutgers, The State University of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Environmental Health Sciences (NIEHS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rutgers, The State University of New Jersey</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to better understand the mechanisms of lung injury from ozone&#xD;
+      exposure. Subjects will participate in two exposure sessions: filtered air and 0.2 ppm ozone.&#xD;
+      The exposure visits will be at least 2 weeks apart. Subjects will be asked to produce sputum&#xD;
+      through coughing after each exposure. The samples will be analyzed for macrophage activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects will be asked to come to the Rutgers EOHSI clinical center (Piscataway, NJ) for 5&#xD;
+      study visits. A physical exam to determine eligibility will be done at the first study visit.&#xD;
+      If the subject is healthy and able to produce a sputum sample, he/she will then be scheduled&#xD;
+      for 2 3-hour exposure visits, at least 2 weeks apart. One exposure will be to clean air and&#xD;
+      the other exposure will be to 0.2 ppm ozone. During the exposures, subjects will be requested&#xD;
+      to ride an exercise bicycle intermittently (approximately every 15 minutes). A follow-up&#xD;
+      visit for sputum collection will be scheduled either 24, 48, or 72 hours after each exposure&#xD;
+      visit. Blood and exhaled breath samples will also be collected at each visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 7, 2023</start_date>
+  <completion_date type="Anticipated">June 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Subjects will be randomly assigned to either clean air or ozone for the first exposure then crossed over to the alternate arm for the second exposure.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Subjects and laboratory personnel will not be informed of the type of exposure.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Metabolic activity of inflammatory cells in induced sputum</measure>
+    <time_frame>Within 3 days of exposure</time_frame>
+    <description>The metabolic activity of inflammatory cells in sputum will be assessed by the measurement of ATP production. The measurement will be made on an Agilent Seahorse using a Mitoplate Assay.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Air Pollution</condition>
+  <arm_group>
+    <arm_group_label>Clean Air, Then Ozone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be exposed to clean air for 3 hours at the first exposure visit and 0.2ppm ozone for 3 hours at the second exposure visit. The visits will be at least 2 weeks apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ozone, Then Clean Air</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be exposed to 0.2 ppm ozone for 3 hours at the first exposure visit and clean air for 3 hours at the second exposure visit. The visits will be at least 2 weeks apart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clean Air</intervention_name>
+    <description>Subjects will have the clean air exposure first, followed by the ozone exposure.</description>
+    <arm_group_label>Clean Air, Then Ozone</arm_group_label>
+    <arm_group_label>Ozone, Then Clean Air</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Ozone</intervention_name>
+    <description>Subjects will have the ozone exposure first, followed by the clean air exposure.</description>
+    <arm_group_label>Clean Air, Then Ozone</arm_group_label>
+    <arm_group_label>Ozone, Then Clean Air</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Vaccinated against COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cardiovascular disease&#xD;
+&#xD;
+          -  Respiratory disease&#xD;
+&#xD;
+          -  Recent (within 4 weeks) respiratory or COVID-19 symptoms&#xD;
+&#xD;
+          -  Diabetes&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  HIV Infection&#xD;
+&#xD;
+          -  History of smoking within the past 5 years.&#xD;
+&#xD;
+          -  Orthopedic or rheumatologic conditions which would interfere with cycle use&#xD;
+&#xD;
+          -  Inability to produce a sputum plug at screening&#xD;
+&#xD;
+          -  Daily use of antioxidant supplements, excluding those in a multivitamin. These&#xD;
+             supplements include Vitamin C or E, selenium, beta-carotene, lycopene, lutein,&#xD;
+             zeaxanthin and ginkgo biloba. Supplements taken less frequently but at least once a&#xD;
+             week will be reviewed by the principal investigator for eligibility determination.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Howard M Kipen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rutgers School of Public Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kathleen Black, PhD</last_name>
+    <phone>8484456049</phone>
+    <email>kgblack@eohsi.rutgers.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adriana De Resende</last_name>
+    <phone>848-445-0178</phone>
+    <email>ad998@eohsi.rutgers.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rutgers - EOHSI</name>
+      <address>
+        <city>Piscataway</city>
+        <state>New Jersey</state>
+        <zip>08854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathy Black, PhD</last_name>
+      <phone>848-445-6049</phone>
+      <email>kgblack@eohsi.rutgers.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Adriana De Resende</last_name>
+      <phone>848-445-0178</phone>
+      <email>ad998@eohsi.rutgers.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>
+    <investigator_full_name>Howard M. Kipen, MD, MPH</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Macrophage</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

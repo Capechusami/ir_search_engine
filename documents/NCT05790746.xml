@@ -1,0 +1,204 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790746</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OMU KAEK 11.07.2019/533</org_study_id>
+    <nct_id>NCT05790746</nct_id>
+  </id_info>
+  <brief_title>The Learning Curve for Retroperitoneoscopic Donor Nephrectomy</brief_title>
+  <official_title>The Learning Curve for Pure Retroperitoneoscopic Donor Nephrectomy by Using Cumulative Sum Analysis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsun Liv Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Samsun Liv Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose: The aim of the study is to identify a precise learning curve for pure&#xD;
+      retroperitoneoscopic donor nephrectomy (RDN).&#xD;
+&#xD;
+      Methods: Data from 172 consecutive kidney donors who underwent pure RDN between January 2010&#xD;
+      and July 2019 were prospectively collected and evaluated. CUSUM (cumulative sum) analysis was&#xD;
+      used for testing the operation time. Changepoints were determined by using the R program and&#xD;
+      BinSeg method. The cohort was divided into three groups. Group 1 refers to competence&#xD;
+      including the first 10 cases, group 2: 11- 48 cases as proficiency, and group 3: the&#xD;
+      subsequent 124 cases as expert level. Continuous variables were evaluated using one-way&#xD;
+      ANOVA, and categorical data were evaluated using the Chi-square test&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The prospectively collected data of 172 consecutive kidney donors undergoing pure RDN for&#xD;
+      transplantation at Ondokuz Mayıs University from January 2010 to July 2019 were evaluated&#xD;
+      retrospectively. Tc-99m mercaptoacetyltriglycine (MAG3) renal scintigraphy was performed to&#xD;
+      evaluate for split renal function. Three-dimensional computed tomography was performed to&#xD;
+      evaluate kidney anatomy and vasculature. The final decision for the laterality of surgery was&#xD;
+      based on the conviction that the better kidney remains with the donor. If both kidneys have&#xD;
+      equal functional characteristics, the left kidney or the kidney with simpler vascular anatomy&#xD;
+      was procured based on the transplantation medical review board's decision. The demographic&#xD;
+      data including age, gender, body mass index (BMI), preoperative renal function, number of&#xD;
+      renal arteries and veins were recorded. Perioperative variables such as operation time (OT),&#xD;
+      warm ischemia time (WIT), estimated blood loss (EBL), perioperative and postoperative&#xD;
+      complications were also recorded. Furthermore, the outcomes of renal recipients including&#xD;
+      graft function, complications and follow-up were recorded as well. In our previously&#xD;
+      published article provides a thorough description of the surgical procedure and details for&#xD;
+      the right and left sides of pure RDN. All RNDs were performed by a single surgeon with&#xD;
+      experience in retroperitoneoscopic laparoscopic surgery and kidney transplantation.&#xD;
+&#xD;
+      Learning curve analysis The CUSUM analysis and BinSeg (Binary Segmentation) method Although&#xD;
+      the CUSUM analysis was first built to evaluate industrial sector performance, it has been&#xD;
+      adopted in medicine to interpret many surgical techniques learning curve. In a timeline, it&#xD;
+      calculates the sum of the existing differences between individual operation times and the&#xD;
+      mean of all operation times. Its main use of in medicine is that calculates the sum of the&#xD;
+      existing differences between individual operation times and the mean of all operation times&#xD;
+      in a timeline. The next step is to identify significant change points to determine the&#xD;
+      development. The &quot;changepoint&quot; package was used in the R program to determine the change&#xD;
+      points. The changepoints were determined according to the mean variation. BinSeg methods were&#xD;
+      used to identify two exchange points. Penalty methods were not used to determine surgical&#xD;
+      time change points. The &quot;Normal&quot; method was used as the test statistic for the surgical time.&#xD;
+      According to the learning curve analysis methods that are mentioned above, the whole cohort&#xD;
+      was divided into three groups. Inspired by the Dreyfus model of skill acquisition in the&#xD;
+      naming of the groups. Thus, group 1 represents competence, group 2 is proficiency level, and&#xD;
+      group 3 is the expert level.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 1, 2019</start_date>
+  <completion_date type="Actual">September 9, 2020</completion_date>
+  <primary_completion_date type="Actual">November 3, 2019</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Opertaion time</measure>
+    <time_frame>during the surgery (minute)</time_frame>
+    <description>From first trocar incision to closure of all incisions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Estimeted blood loss</measure>
+    <time_frame>during the surgery (mL)</time_frame>
+    <description>perioperative estimated blood loss</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>warm ischemia time</measure>
+    <time_frame>during the surgery (second)</time_frame>
+    <description>Its starts when the renal artery and vein are controlled and it ends when reperfusion of the graft kidney starts on the back table</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Learning curve</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Number of cases required to achieve reduction in operative time, warm ischemia time, and estimated blood loss.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">172</enrollment>
+  <condition>Transplant;Failure,Kidney</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The prospectively collected data of 172 consecutive kidney donors undergoing pure&#xD;
+        retroperitoneoscopic donor nephrectomy for renal transplantation at Ondokuz Mayıs&#xD;
+        University, Faculty of Medicine, Department of Urology from January 2010 to July 2019 were&#xD;
+        evaluated retrospectively.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients with complete data&#xD;
+&#xD;
+          -  patients with consent&#xD;
+&#xD;
+          -  Patients &gt; 18 year-old&#xD;
+&#xD;
+          -  The surgeries performed by the surgeon EO&#xD;
+&#xD;
+          -  Patients who underwent retroperitoneoscopic donor nephrectomy at Ondokuz Mayıs&#xD;
+             University, Department of Urology&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Missing data&#xD;
+&#xD;
+          -  patients without consent&#xD;
+&#xD;
+          -  patients who underwent open of transperitoneal laparoscopic donor nephrectomy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ender Ozden, Prof.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Ondokuz Mayıs University, Faculty of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ondokuz Mayıs University, Department of Urology</name>
+      <address>
+        <city>Samsun</city>
+        <zip>55020</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32208049/</url>
+    <description>Surgical technique</description>
+  </link>
+  <results_reference>
+    <citation>Pal BC, Modi PR, Rizvi SJ, Chauhan R, Kumar S, Nagarajan R, Kaushal D, Kute VB, Trivedi HL. The Learning Curve of Pure Retroperitoneoscopic Donor Nephrectomy. Int J Organ Transplant Med. 2017;8(4):180-185. Epub 2017 Nov 1.</citation>
+    <PMID>29321833</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kudsi OY, Gokcal F, Bou-Ayash N, Crawford AS. Learning curve of robotic transversus abdominis release in ventral hernia repair: a cumulative sum (CUSUM) analysis. Surg Endosc. 2022 May;36(5):3480-3488. doi: 10.1007/s00464-021-08669-7. Epub 2021 Sep 7.</citation>
+    <PMID>34494150</PMID>
+  </results_reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Samsun Liv Hospital</investigator_affiliation>
+    <investigator_full_name>Mehmet N. Mercimek, MD, FEBU</investigator_full_name>
+    <investigator_title>Associate Professor, MD, FEBU</investigator_title>
+  </responsible_party>
+  <keyword>retroperitoneoscopy</keyword>
+  <keyword>donor nephrectomy</keyword>
+  <keyword>Learning curve</keyword>
+  <keyword>CUSUM analysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Renal Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

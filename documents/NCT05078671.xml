@@ -1,0 +1,293 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078671</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PROACTIVE</org_study_id>
+    <nct_id>NCT05078671</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetic Boosting of Olaparib to Improve Exposure, Tolerance and Cost-effectiveness</brief_title>
+  <acronym>PROACTIVE</acronym>
+  <official_title>Pharmacokinetic Boosting of Olaparib to Improve Exposure, Tolerance and Cost-effectiveness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radboud University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Radboud University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Olaparib is a poly-adenosine diphosphate ribose polymerase (PARP) inhibitor, originally used&#xD;
+      for the maintenance treatment of women with platinum-sensitive relapsed breast cancer gene&#xD;
+      (BRCA)-mutated high grade serious epithelial ovarian, fallopian tube, or peritoneal cancer,&#xD;
+      who are in response to platinum-based chemotherapy. Over the last two years, several&#xD;
+      therapeutic indications have been added to the drug label, such as first-line&#xD;
+      platinum-sensitive BRCA-mutated high grade serious epithelial ovarian, fallopian tube, or&#xD;
+      peritoneal cancer, germline BRCA1/2-mutated, human epidermal growth factor 2 (HER2-)negative,&#xD;
+      locally advanced or metastatic breast cancer and BRCA1/2-mutated metastatic&#xD;
+      castration-resistant prostate cancer, who have progressed following prior therapy. Since&#xD;
+      olaparib is very expensive, this increase of treatment population will have a significant&#xD;
+      impact on health care expenditures.&#xD;
+&#xD;
+      To keep healthcare affordable and accessible for all patients, innovative strategies are&#xD;
+      warranted to reduce the dose of expensive drugs, without reduction of efficacy. For olaparib,&#xD;
+      pharmacokinetic (PK) boosting can be applied. PK boosting is the lay term for administering a&#xD;
+      non-therapeutic active strong inhibitor of a metabolic enzyme, for example the cytochrome&#xD;
+      p450 enzyme 3A (CYP3A), together with a therapeutic drug that is metabolized by the same&#xD;
+      enzyme. Boosting thus increases the concentration of the therapeutic drug and allows lower&#xD;
+      doses to be administered to patients. Hence, coadministration of a reduced dose of olaparib&#xD;
+      with cobicistat, a non-therapeutic, strong inhibitor of the CYP3A can lead to equivalent&#xD;
+      exposure to olaparib. Furthermore, inhibition of CYP3A could lead to less PK variability&#xD;
+      since metabolic capacity is a prominent cause for (intra- and inter-individual) variability&#xD;
+      in systemic exposure. Predictable olaparib exposure will reduce the number of patients who&#xD;
+      are unintentionally under- or overtreated. Lastly, tumor tissue itself may express CYP3A as a&#xD;
+      detoxification or resistance mechanism. Theoretically, PK boosting may also overcome&#xD;
+      CYP3A-mediated drug resistance.&#xD;
+&#xD;
+      The purpose of this study is to establish the efficacy, safety and feasibility of&#xD;
+      co-administering olaparib with the PK booster cobicistat with the aim to implement boosting&#xD;
+      approach for olaparib in routine practice. The study is subdivided in two parts. In part A of&#xD;
+      the study the equivalent exposure of boosted low dose olaparib is determined compared to the&#xD;
+      normal dose. In part B of the study, non-inferiority of the boosted olaparib regimen will be&#xD;
+      confirmed.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Part A: cross-over normal olaparib versus boosted olaparib. Part B: normal olaparib versus boosted olaparib in two patient groups.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: Olaparib AUC0-12h</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The Area-Under-the-Curve (AUC) 0-12h of olaparib.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Progression-free survival (PFS)</measure>
+    <time_frame>12 months</time_frame>
+    <description>PFS is defined as time from randomization until the date of either objective radiological disease progression, or biochemical progression combined with clinical progression or death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Dose reductions</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of patients who require a dose reduction due to toxicity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part A: Inter- and intrapatient variability of AUC0-12h</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Inter- and intrapatient variability of AUC0-12h in olaparib as calculated with non-compartmental analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A: Adverse events</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Number of patients with treatment-related adverse events as assessed by CTCAE v5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Health status</measure>
+    <time_frame>12 months</time_frame>
+    <description>Health status as assessed with the EuroQol 5 dimensions with 5 levels questionnaire (EQ-5D-5L).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Patient satisfaction</measure>
+    <time_frame>12 months</time_frame>
+    <description>Patient satisfaction as assessed with the Cancer Therapy Satisfaction Questionnaire (CTSQ).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: ctDNA</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Cell-free tumor nucleic acids (ctDNA) in plasma as pharmacodynamic biomarker.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Adverse events</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of patients with treatment-related adverse events as assessed by CTCAE v5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Productivity costs</measure>
+    <time_frame>From date of randomization until the date of end-of-treatment, assessed up to 12 months</time_frame>
+    <description>Productivity costs as assessed by the iMTA Productivity Costs Questionnaire (iPCQ).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Medical consumption</measure>
+    <time_frame>From date of randomization until the date of end-of-treatment, assessed up to 12 months</time_frame>
+    <description>Medical consumption as assessed by the iMTA Medical Consumption Questionnaire (iMCQ).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Part A: Patient preference</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Treatment preference on a 7-point Likert scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part B: Intratumoral olaparib</measure>
+    <time_frame>At 8 weeks after start treatment and at the moment of progression</time_frame>
+    <description>Intratumoral olaparib concentration in tumor biopsy samples.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Standard olaparib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Olaparib 300mg twice daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Boosted olaparib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Olaparib 100mg twice daily + cobicistat 150mg twice daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Olaparib</intervention_name>
+    <description>olaparib treatment</description>
+    <arm_group_label>Boosted olaparib</arm_group_label>
+    <arm_group_label>Standard olaparib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cobicistat</intervention_name>
+    <description>Pharmacokinetic booster</description>
+    <arm_group_label>Boosted olaparib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who are able and willing to provide written informed consent prior to&#xD;
+             screening;&#xD;
+&#xD;
+          -  Age of 18 years or older;&#xD;
+&#xD;
+          -  Able to measure the outcome of the study in this subject.&#xD;
+&#xD;
+        Part A:&#xD;
+&#xD;
+          -  Subjects who start or are on treatment with olaparib tablets 300mg twice daily,&#xD;
+             according to the drug label and physician's discretion;&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.&#xD;
+&#xD;
+        Part B:&#xD;
+&#xD;
+          -  Subjects who start on treatment with olaparib tablets 300mg twice daily, according to&#xD;
+             the drug label and physician's discretion;&#xD;
+&#xD;
+          -  Expected to be on olaparib treatment for ≥ 3 months;&#xD;
+&#xD;
+          -  ECOG performance status of 0-3.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Concurrent use of other anti-cancer therapies;&#xD;
+&#xD;
+          -  Concurrent use of potent inducers or inhibitors of the cytochrome p450 enzyme 3A3&#xD;
+             (CYP3A4) as assessed with the Dutch drug database &quot;G-Standaard&quot; of the Royal Dutch&#xD;
+             Pharmacists Association(KNMP);&#xD;
+&#xD;
+          -  Known contra-indications for treatment with cobicistat in line with the summary of&#xD;
+             product characteristics;&#xD;
+&#xD;
+          -  Subjects with renal insufficiency defined as estimated glomerular filtration rate &lt; 50&#xD;
+             ml/min.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nielka van Erp, prof. PharmD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Radboud University Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joanneke K Overbeek, PharmD</last_name>
+    <phone>+31-24-3617744</phone>
+    <email>joanneke.overbeek@radboudumc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Netherlands Cancer Institute-Antoni van Leeuwenhoek</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frans Opdam, MD, PharmD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Radboudumc</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nielka van Erp, prof. PharmD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ErasmusMC</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ron H.J. Mathijssen, prof. MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>October 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 24, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>olaparib</keyword>
+  <keyword>pharmacokinetic enhancement</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cobicistat</mesh_term>
+    <mesh_term>Olaparib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

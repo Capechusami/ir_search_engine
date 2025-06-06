@@ -1,0 +1,230 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623696</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HLS/2021/PH/002</org_study_id>
+    <nct_id>NCT05623696</nct_id>
+  </id_info>
+  <brief_title>Effect of Non-invasive Magnetic Stimulation of the Brain on Breathlessness in Healthy Individuals.</brief_title>
+  <acronym>AHrTMS</acronym>
+  <official_title>Effect of Repetitive Transcranial Magnetic Stimulation (rTMS) of the Dorsolateral Prefrontal Cortex (DLPFC) on Hypercapnic Air Hunger Induced in Healthy Individuals.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oxford Brookes University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oxford Brookes University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to see if the front part of the brain called the &quot;Dorsolateral&#xD;
+      Prefrontal Cortex&quot; (DLPFC) has a role in our ability to feel breathlessness. The experiment&#xD;
+      will use a device that sits on the top of the head which produces a magnetic field that&#xD;
+      penetrates the scalp and excites the brain tissue directly under it. This procedure is called&#xD;
+      repetitive transcranial magnetic stimulation (rTMS), it is a painless procedure and known to&#xD;
+      be safe in healthy individuals. Previous research has shown that the pain felt when&#xD;
+      capsaicin, the active ingredient in 'chilli' powder, is applied to the hand is reduced by&#xD;
+      applying the rTMS on the scalp directly above the DLPFC part of the brain. In this experiment&#xD;
+      we want to see if breathlessness is also reduced. We will use a breathing task that will&#xD;
+      generate a moderate amount of breathlessness by adding a small amount of carbon dioxide to&#xD;
+      the inhaled air, while preventing the increase in the amount of breathing we would normally&#xD;
+      see in response to this. If we find that breathlessness produced by this breathing task is&#xD;
+      reduced after rTMS over the DLPFC, this may lead to new drugs that target this part of the&#xD;
+      brain in patients suffering from breathlessness due to heart or lung disease. The study will&#xD;
+      also improve our knowledge of how the brain enables us to feel breathlessness&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Following a practice session, there will be 3 intervention arms presented in random order on 3 separate days. The three arms will be: (i) 10-20mins of 5Hz rTMS over left DLPFC (Arm 1), (ii) 5Hz rTMS over right DLPFC (Arm 2), (iii) sham rTMS (Arm 3). A standard steady state air hunger test will be conducted before and immediately after each intervention.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Masking will only be applied to the participants in relation to whether they receive sham or actual rTMS.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Air hunger</measure>
+    <time_frame>Average of 4 steady state ratings in the last minute of air hunger tests</time_frame>
+    <description>Visual analog scale ratings of air hunger</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mood assessment</measure>
+    <time_frame>immediately following pre and post intervention air hunger tests</time_frame>
+    <description>Bond Lader Mood questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trait and state anxiety scores</measure>
+    <time_frame>immediately following pre and post intervention air hunger tests</time_frame>
+    <description>Spielberger's State-Trait anxiety inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnoea-12 total, physical and emotion scores</measure>
+    <time_frame>Administered immediately following pre and post intervention air hunger tests in relation to the &quot;test just completed&quot;</time_frame>
+    <description>Multidimensional D12-Questionnaire</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Dyspnea</condition>
+  <arm_group>
+    <arm_group_label>Stimulation of Left DLPFC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention applied to Left DLPFC located by the BeamF3 technique</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stimulation of Right DLPFC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intervention applied to Right DLPFC located by the BeamF3 technique</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham intervention applied to either the left or right DLPFC</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham or actual non-invasive (Magnetic) brain stimulation</intervention_name>
+    <description>5 Hz rTMS applied using an actual or sham coil over the left or right DLPFC</description>
+    <arm_group_label>Sham Stimulation</arm_group_label>
+    <arm_group_label>Stimulation of Left DLPFC</arm_group_label>
+    <arm_group_label>Stimulation of Right DLPFC</arm_group_label>
+    <other_name>MagStim</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        healthy individuals, over 18 years old, with no history of heart, lung or neurological&#xD;
+        conditions&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any history of respiratory problems (including Asthma that involves regular use of&#xD;
+             inhalers)&#xD;
+&#xD;
+          -  Any history of heart or circulatory problems (e.g. palpitations, arrhythmias, angina,&#xD;
+             BP)&#xD;
+&#xD;
+          -  Any history of epilepsy, convulsions or seizures, migraines, or fainting&#xD;
+&#xD;
+          -  Any history of anxiety disorders (e.g. panic attacks)&#xD;
+&#xD;
+          -  Any history of serious head injury or brain surgery&#xD;
+&#xD;
+          -  Any metal parts in the head (except dental wire)&#xD;
+&#xD;
+          -  Any implants (e.g. pacemaker, insulin pump, neurostimulator)&#xD;
+&#xD;
+          -  Pregnancy or problems with alcohol or drug abuse.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shakeeb H Moosavi, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oxford Brookes University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shakeeb H Moosavi, PhD</last_name>
+    <phone>+44 (0)7834 083125</phone>
+    <email>smoosavi@brookes.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sanjay Kumar, PhD</last_name>
+    <phone>+44 (0)1865 483768</phone>
+    <phone_ext>3768</phone_ext>
+    <email>skumar@brookes.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Oxford Brookes University</name>
+      <address>
+        <city>Oxford</city>
+        <state>Oxfordshire</state>
+        <zip>OX3 0BP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shakeeb H Moosavi, PhD</last_name>
+      <phone>+44 (0)1865 4823257</phone>
+      <phone_ext>3257</phone_ext>
+      <email>smoosavi@brookes.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Banzett RB, Moosavi SH. Dyspnea and pain: Similarities and contrasts between two very unpleasant sensations. APS Bulletin. 2001; 11: 1-8.</citation>
+  </reference>
+  <reference>
+    <citation>Brighina F, De Tommaso M, Giglia F, Scalia S, Cosentino G, Puma A, Panetta M, Giglia G, Fierro B. Modulation of pain perception by transcranial magnetic stimulation of left prefrontal cortex. J Headache Pain. 2011 Apr;12(2):185-91. doi: 10.1007/s10194-011-0322-8. Epub 2011 Feb 25.</citation>
+    <PMID>21350791</PMID>
+  </reference>
+  <reference>
+    <citation>Harrison OK, Hayen A, Wager TD, Pattinson KTS. Investigating the specificity of the neurologic pain signature against breathlessness and finger opposition. Pain. 2021 Dec 1;162(12):2933-2944. doi: 10.1097/j.pain.0000000000002327.</citation>
+    <PMID>33990110</PMID>
+  </reference>
+  <reference>
+    <citation>Herigstad M, Hayen A, Evans E, Hardinge FM, Davies RJ, Wiech K, Pattinson KTS. Dyspnea-related cues engage the prefrontal cortex: evidence from functional brain imaging in COPD. Chest. 2015 Oct;148(4):953-961. doi: 10.1378/chest.15-0416.</citation>
+    <PMID>26134891</PMID>
+  </reference>
+  <reference>
+    <citation>Nierat MC, Hudson AL, Chaskalovic J, Similowski T, Laviolette L. Repetitive transcranial magnetic stimulation over the supplementary motor area modifies breathing pattern in response to inspiratory loading in normal humans. Front Physiol. 2015 Sep 29;6:273. doi: 10.3389/fphys.2015.00273. eCollection 2015.</citation>
+    <PMID>26483701</PMID>
+  </reference>
+  <reference>
+    <citation>Yorke J, Moosavi SH, Shuldham C, Jones PW. Quantification of dyspnoea using descriptors: development and initial testing of the Dyspnoea-12. Thorax. 2010 Jan;65(1):21-6. doi: 10.1136/thx.2009.118521. Epub 2009 Dec 8.</citation>
+    <PMID>19996336</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>November 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oxford Brookes University</investigator_affiliation>
+    <investigator_full_name>Dr. Shakeeb H Moosavi</investigator_full_name>
+    <investigator_title>Reader in Clinical Physiology</investigator_title>
+  </responsible_party>
+  <keyword>Air Hunger</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dyspnea</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

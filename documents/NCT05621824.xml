@@ -1,0 +1,277 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621824</url>
+  </required_header>
+  <id_info>
+    <org_study_id>K2341</org_study_id>
+    <nct_id>NCT05621824</nct_id>
+  </id_info>
+  <brief_title>A Cohort Study on Screening and Follow-up of High-risk Population of PDAC Based on EUS</brief_title>
+  <official_title>A Cohort Study on Screening and Follow-up of High-risk Population of Pancreatic Cancer Based on Endoscopic Ultrasonography</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tongji Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First Affiliated Hospital of Xiamen University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study objective: The purpose of this study is to establish a prospective follow-up cohort of&#xD;
+      high-risk groups of pancreatic cancer, screen early pancreatic cancer through EUS and other&#xD;
+      means according to the existing clinical process, and evaluate each risk factors. And to&#xD;
+      prospectively collect biological samples to find molecular markers for early diagnosis of&#xD;
+      pancreatic cancer.&#xD;
+&#xD;
+      Study design: This is a real world, multicenter, prospective, observational cohort study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study intends to conduct pancreatic MR screening for the high-risk population of&#xD;
+      pancreatic cancer who meet the requirements and voluntarily participate in this study (see&#xD;
+      eligibility criteria), and retain baseline information and peripheral blood, dental plaque&#xD;
+      and stool samples.&#xD;
+&#xD;
+      I. For patients with solid mass of the pancreas, continue diagnosis and treatment according&#xD;
+      to the routine clinical path.&#xD;
+&#xD;
+      II. For patients with MPD dilatation but no clear solid pancreatic mass, EUS examination&#xD;
+      should be performed after excluding contraindications. During EUS, duodenal fluid samples&#xD;
+      were collected.&#xD;
+&#xD;
+      III. If solid mass is found in EUS, FNA shall be performed. If the pathological examination&#xD;
+      is positive, the patient shall be diagnosed with PDAC and treated according to the clinical&#xD;
+      routine path of PDAC. If the pathological biopsy sample is negative, repeat FNA after an&#xD;
+      appropriate interval (1 to 3 months later).&#xD;
+&#xD;
+      IV. If no solid mass is found in EUS, follow up the patient every 6-12 months for EUS and/or&#xD;
+      MR examination.&#xD;
+&#xD;
+      V. For patients with cystic lesions, EUS examination is performed after contraindications are&#xD;
+      excluded. During EUS, duodenal fluid samples were collected. If solid components such as&#xD;
+      mural nodules or &quot;worrisome features&quot; are found, FNA will be performed. In order to make a&#xD;
+      clear diagnosis of some cases, FNA+nCLE will be performed at the same time, and cystic fluid&#xD;
+      samples will be taken to continue diagnosis and treatment according to the clinical&#xD;
+      guidelines. If no solid lesions and &quot;worrisome features&quot; are found, follow up the patient&#xD;
+      every 6-12 months and perform EUS and/or MR examinations.&#xD;
+&#xD;
+      VI. Follow up and perform pancreatic MR examination every 12 months for those with no clear&#xD;
+      pancreatic lesions found on pancreatic MR.&#xD;
+&#xD;
+      The main outcome of this study was the discovery of pancreatic T1 PDAC (tumor diameter &lt;&#xD;
+      2cm), or no pancreatic disease was found during the 5-year follow-up period.&#xD;
+&#xD;
+      The secondary outcome of this study was the discovery of other levels of PDAC, IPMN, chronic&#xD;
+      pancreatitis, autoimmune pancreatitis and other pancreatic diseases.&#xD;
+&#xD;
+      The samples involved in this study include baseline and follow-up samples (peripheral blood,&#xD;
+      dental plaque, stool samples), EUS-FNA solid mass aspiration tissue samples or cystic fluid&#xD;
+      samples of cystic lesions, and duodenal fluid samples collected during EUS examination. The&#xD;
+      collected samples were analyzed by transcriptomics, proteomics and next generation sequencing&#xD;
+      to study the clinical characteristics, molecular, flora markers and gene sequences related to&#xD;
+      the diagnosis of early pancreatic cancer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2022</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with T1 PDAC</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with early stage PDAC, which means tumor size &lt; 2cm.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with no clear pancreas lesions</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with no clear pancreas lesions during 5 years follow-up.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with other stages of PDAC</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with any other stages of PDAC except from T1 PDAC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with IPMN</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with IPMN during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with chronic pancreatitis</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with chronic pancreatitis during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with autoimmune pancreatitis</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with autoimmune pancreatitis during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with other pancreas diseases</measure>
+    <time_frame>5 years</time_frame>
+    <description>Patients found with any other pancreas diseases except from listed above during the study.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">900</enrollment>
+  <condition>Carcinoma, Pancreatic Ductal</condition>
+  <arm_group>
+    <arm_group_label>Solid mass</arm_group_label>
+    <description>Patients with solid mass of pancreas during pancreas MR examination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cystic lesions</arm_group_label>
+    <description>Patients with cystic lesions or expansion of MPD during pancreas MR examination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No clear focus</arm_group_label>
+    <description>Patients with no clear focus during pancreas MR examination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Endoscopic ultrasound</intervention_name>
+    <description>Use endoscopic ultrasound to examine the pancreatic lesions.</description>
+    <arm_group_label>Cystic lesions</arm_group_label>
+    <arm_group_label>Solid mass</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>EUS-Fine needle aspiration</intervention_name>
+    <description>If solid mass of pancreas was found during EUS, EUS-FNA shall be conducted for diagnosis.</description>
+    <arm_group_label>Cystic lesions</arm_group_label>
+    <arm_group_label>Solid mass</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Baseline sample includes 20ml blood sample, 1 dental plaque sample and 1 stool sample.&#xD;
+      Follow-up samples include 10mL blood sample, duodenal fluid samples collected during EUS&#xD;
+      examination and remaining samples of pancreatic puncture tissue and/or cyst fluid during EUS.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with high risks for pancreas cancer in Peking Union Medical College Hospital and&#xD;
+        other related research centers in China.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  From the beginning of the study to the end of the study, the 18-80 year old patients&#xD;
+             who were admitted to Peking Union Medical College Hospital and related research&#xD;
+             centers and who met the high-risk population of pancreatic cancer understood and were&#xD;
+             willing to participate in the study and signed the informed consent form.&#xD;
+&#xD;
+          -  In this study, the high-risk population of pancreatic cancer is defined as patients&#xD;
+             who meet any of the following conditions:&#xD;
+&#xD;
+          -  A. Patients with previous history of pancreatitis (acute or chronic).&#xD;
+&#xD;
+          -  B. Patients with pancreatic cancer related genetic background, including immediate&#xD;
+             relatives with a family history of pancreatic cancer. Or genetic syndrome related to&#xD;
+             pancreatic cancer. [including hereditary breast cancer ovarian cancer syndrome&#xD;
+             (HBOCS), carney complex (CNC), familial adenomatous polyps (FAP), hereditary diffuse&#xD;
+             gastric cancer syndrome (HDGC), juvenile polyposis (JPS), cutaneous malignant melanoma&#xD;
+             (CMM), hereditary papillary renal cell carcinoma (HPRCC) and Lynch syndrome]&#xD;
+&#xD;
+          -  C. Patients with continuous or progressive increase of CA19-9 and CEA.&#xD;
+&#xD;
+          -  D. Patients with potential malignant pancreatic tumors, including mucinous cystic&#xD;
+             tumor (MCN) and intraductal papillary myxoma of the pancreas (IPMN).&#xD;
+&#xD;
+          -  E. Newly diagnosed patients with diabetes (within 3 years after diagnosis of&#xD;
+             diabetes).&#xD;
+&#xD;
+          -  F. Other patients who are considered as having high risk factors for pancreatic&#xD;
+             cancer.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A. Those who are not suitable for endoscopic examination, including but not limited&#xD;
+             to: poor general condition, serious heart and lung disease, and difficult to tolerate&#xD;
+             the examination; coagulation disorders; platelets &lt;50 × 10^9/L；those who are not&#xD;
+             suitable for endoscopic examination after interview by an endoscopic physician.&#xD;
+&#xD;
+          -  B. The patient or family member could not understand the conditions and objectives of&#xD;
+             this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xi Wu, M.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Shengyu Zhang, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yuheng Zhang, MD candidate</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xi Wu, M.D.</last_name>
+    <phone>+86 13683296860</phone>
+    <email>wxpumch@163.com</email>
+  </overall_contact>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Peking Union Medical College Hospital</investigator_affiliation>
+    <investigator_full_name>Wu Xi</investigator_full_name>
+    <investigator_title>associate professor</investigator_title>
+  </responsible_party>
+  <keyword>Early Pancreatic Ductal Adenocarcinoma</keyword>
+  <keyword>Endoscopic Ultrasound</keyword>
+  <keyword>HighRisks for Pancreatic Ductal Adenocarcinoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Pancreatic Ductal</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,612 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611931</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XPORT-EC-042</org_study_id>
+    <secondary_id>GOG-3083</secondary_id>
+    <secondary_id>ENGOT-EN20</secondary_id>
+    <nct_id>NCT05611931</nct_id>
+  </id_info>
+  <brief_title>Selinexor in Maintenance Therapy After Systemic Therapy for Participants With p53 Wild-Type, Advanced or Recurrent Endometrial Carcinoma</brief_title>
+  <acronym>XPORT-EC</acronym>
+  <official_title>A Phase 3, Randomized, Placebo-Controlled, Double-Blind, Multicenter Trial of Selinexor in Maintenance Therapy After Systemic Therapy for Patients With p53 Wild-Type, Advanced or Recurrent Endometrial Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karyopharm Therapeutics Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The GOG Foundation, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>European Network of Gynaecological Oncological Trial</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Belgium and Luxembourg Gynaecological Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>North-Eastern German Society of Gynaecologic Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Multicentre Italian Trials in Ovarian Cancer and Gynecologic Malignancies</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Spanish Research Group in Ovarian Cancer</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Central and Eastern European Gynecologic Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Israel Society of Gynecologic Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karyopharm Therapeutics Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of selinexor as a&#xD;
+      maintenance treatment in patients with p53 wt endometrial carcinoma (EC), who have achieved a&#xD;
+      partial response (PR) or complete response (CR) (per Response Evaluation Criteria in Solid&#xD;
+      Tumors version 1.1 [RECIST v 1.1]) after completing at least 12 weeks of platinum-based&#xD;
+      therapy. A total of 220 participants will be enrolled in the study and randomized in a 1:1&#xD;
+      ratio to maintenance therapy with either selinexor or placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">August 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Double blind placebo-controlled study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS) Assessed by Investigator as per RECIST v1.1</measure>
+    <time_frame>Time from randomization until disease progression (PD) or death, whichever occurs first (up to 34 months)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 34 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Treatment-emergent Adverse Events (TEAEs) and Serious TEAEs</measure>
+    <time_frame>From start of study drug administration up to 34 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Clinically Significant Changes in Clinical Laboratory Values, Vital Signs and Physical Examination Reported as an Adverse Event</measure>
+    <time_frame>From start of study drug administration up to 34 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Severity of Adverse Event According to Common Terminology Criteria for Adverse Events (CTCAE) v. 5.0</measure>
+    <time_frame>From start of study drug administration up to 34 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Subsequent Therapy (TFST)</measure>
+    <time_frame>Time from randomization until date of initiation of first therapy after discontinuation of study drug or death, whichever occurs first (up to 34 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Second Subsequent Therapy (TSST)</measure>
+    <time_frame>Time from randomization until date of initiation of second therapy after discontinuation of study drug or death, whichever occurs first (up to 34 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival After Consecutive Treatment (PFS2)</measure>
+    <time_frame>Time from randomization until the second progression event or death due to any cause, whichever occurs first (up to 34 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival (PFS) Assessed by a Blinded Independent Central Review (BICR), per RECIST v1.1</measure>
+    <time_frame>Time from randomization until PD or death, whichever occurs first (up to 34 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire EuroQol-5 Dimensions-5 Levels (EQ-5D-5L)</measure>
+    <time_frame>Baseline up to 34 months</time_frame>
+    <description>EQ-5D-5L is a generic measure of health status. For purposes of this study, the EQ-5D-5L will be used to generate utility scores for use in cost-effectiveness analyses. The EQ-5D-5L is a 5-item questionnaire that assesses 5 domains including mobility, self-care, usual activities, pain/discomfort and anxiety/depression plus a visual analog scale rating &quot;health today&quot; with anchors ranging from 0 (worst imaginable health state) to 100 (best imaginable health state).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Endometrial Cancer</condition>
+  <arm_group>
+    <arm_group_label>Selinexor</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a fixed dose of selinexor 60 milligrams (mg) oral tablets once weekly (QW) on Days 1, 8, 15, and 22 of each 28-day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive matching placebo for selinexor oral tablets QW on Days 1, 8, 15, and 22 of each 28-day cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selinexor</intervention_name>
+    <description>Dose: 60 mg (3 tablets); Dosage form: film-coated, immediate-release tablet of 20 mg each; Route of administration: oral</description>
+    <arm_group_label>Selinexor</arm_group_label>
+    <other_name>KPT-330</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matching Placebo for selinexor</intervention_name>
+    <description>Dose:60 mg (3 tablets); Dosage form: film-coated, immediate-release tablet of 20 mg each; Route of administration: oral</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  At least 18 years of age at the time of signing informed consent.&#xD;
+&#xD;
+          -  Histologically confirmed EC including: endometrioid, serous, undifferentiated, and&#xD;
+             carcinosarcoma.&#xD;
+&#xD;
+          -  TP53 wt assessed by next generation sequencing (NGS), evaluated by a central vendor.&#xD;
+&#xD;
+          -  Completed a single line, at least 12 weeks of platinum-based therapy (not including&#xD;
+             adjuvant or neoadjuvant therapy for Stage I-III disease) and achieved confirmed&#xD;
+             partial or complete response (PR or CR) by imaging, according to RECIST version 1.1.&#xD;
+             The participants should have received treatment for:&#xD;
+&#xD;
+        Primary Stage IV disease, defined as:&#xD;
+&#xD;
+          -  had a primary or later debulking surgery during first-line platinum-based therapy with&#xD;
+             R0 resection (R0 resection indicates a macroscopic complete resection of all visible&#xD;
+             tumor) and achieved CR after at least 12 weeks platinum-based therapy, OR&#xD;
+&#xD;
+          -  had a primary or later debulking surgery during first-line platinum-based therapy with&#xD;
+             R1 resection (R1 resection indicates incomplete removal of all macroscopic disease)&#xD;
+             and achieved PR or CR after at least 12 weeks platinum-based chemotherapy, OR&#xD;
+&#xD;
+          -  had no surgery and achieved PR or CR after at least 12 weeks platinum-based&#xD;
+             chemotherapy&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+        At first relapse (i.e., relapse after primary therapy including surgery and/or chemotherapy&#xD;
+        and/or immunotherapy for Stage I-IV disease), defined as:&#xD;
+&#xD;
+          -  had Stage I - III disease at diagnosis and received, at initial diagnosis, adjuvant&#xD;
+             chemotherapy and relapsed later. Participants should have PR or CR after at least 12&#xD;
+             weeks of platinum-based chemotherapy compared with the start of this chemotherapy at&#xD;
+             the time of relapse,&#xD;
+&#xD;
+          -  had Stage I-III disease at diagnosis and did not receive adjuvant chemotherapy at&#xD;
+             initial diagnosis and relapsed later. Participants should have PR or CR after at least&#xD;
+             12 weeks of platinum-based chemotherapy compared with the start of this chemotherapy&#xD;
+             at the time of relapse, OR&#xD;
+&#xD;
+          -  had Stage IV disease at diagnosis and received initially chemotherapy with or without&#xD;
+             surgery and relapsed later. At the time of relapse, participants should have PR or CR&#xD;
+             after at least 12 weeks of platinum-based chemotherapy compared with the start of this&#xD;
+             chemotherapy at the time of relapse.&#xD;
+&#xD;
+               -  Previous treatment with anti-programmed cell death protein 1(PD-1) or&#xD;
+                  anti-programmed death-ligand 1(PD-L1) monoclonal antibody and concomitant&#xD;
+                  biologic agents (e.g., bevacizumab, trastuzumab) is allowed.&#xD;
+&#xD;
+               -  Must be able to initiate study drug 3 to 8 weeks after completion of their final&#xD;
+                  dose of chemotherapy.&#xD;
+&#xD;
+               -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.&#xD;
+&#xD;
+               -  Participants must have adequate bone marrow function and organ function within 2&#xD;
+                  weeks before starting study drug as defined by the following laboratory criteria:&#xD;
+&#xD;
+          -  Hepatic function: total bilirubin up to less than (&lt;) 3*upper limit of normal (ULN);&#xD;
+             alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less than or equal&#xD;
+             to (&lt;=) 2.5*ULN in participants without liver metastasis. For participants with known&#xD;
+             liver involvement of their tumor: AST and ALT (&lt;=) 5*ULN&#xD;
+&#xD;
+          -  Hematopoietic function within 1 week: Absolute neutrophil count (ANC) greater than or&#xD;
+             equal to (&gt;=) 1.5*10^9/liter (L); platelet count &gt;= 100*10^9/L; hemoglobin &gt;= 9.0 gram&#xD;
+             per deciliter (g/dL) per local laboratory results&#xD;
+&#xD;
+          -  Renal function: estimated creatinine clearance (CrCl) of &gt;= 20 milliliter per minute&#xD;
+             (mL/min), calculated using the standard local formula, as applicable&#xD;
+&#xD;
+             - In the opinion of the Investigator, the participant must:&#xD;
+&#xD;
+          -  Have a life expectancy of at least 12 weeks, and&#xD;
+&#xD;
+          -  Be fit to receive investigational therapy&#xD;
+&#xD;
+               -  Premenopausal females of childbearing potential must have a negative pregnancy&#xD;
+                  test (serum β-human chorionic gonadotropin test) prior to the first dose of study&#xD;
+                  drug. Female participants of childbearing potential must agree to use highly&#xD;
+                  effective methods of contraception throughout the study and for 90 days following&#xD;
+                  the last dose of study drug.&#xD;
+&#xD;
+               -  Written informed consent signed in accordance with federal, local, and&#xD;
+                  institutional guidelines prior to the first screening procedure.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants meeting any of the following exclusion criteria are not eligible to&#xD;
+             enroll in this study:&#xD;
+&#xD;
+          -  Has any uterine sarcomas (carcinosarcomas - not excluded), clear cell or small cell&#xD;
+             carcinoma with neuroendocrine differentiation&#xD;
+&#xD;
+          -  Received a blood or platelet transfusion during the 2 weeks prior to Cycle 1 Day 1&#xD;
+             (C1D1). Participants' hemoglobin must be assessed within 2 weeks of screening and at&#xD;
+             least 1 week post transfusion&#xD;
+&#xD;
+          -  Concurrent systemic steroid therapy higher than physiologic dose (&gt; 10 milligram per&#xD;
+             day [mg/day] of prednisone or equivalent). Systemic steroid therapy as pre-medication&#xD;
+             for taxane is allowed&#xD;
+&#xD;
+          -  Insufficient time since or not recovered from procedures or anti-cancer therapy,&#xD;
+             defined as:&#xD;
+&#xD;
+               -  Not recovered from major surgery &lt;= 28 days prior to Day 1 dosing. Minor&#xD;
+                  procedures, such as biopsies, dental work, or placement of a port or intravenous&#xD;
+                  (IV) line for infusion are permitted&#xD;
+&#xD;
+          -  Having ongoing clinically significant anti-cancer therapy-related toxicities CTCAE&#xD;
+             Grade &gt; 1, with the exception of alopecia. In specific cases, participants whose&#xD;
+             toxicity has stabilized or with Grade 2 non-hematologic toxicities can be allowed&#xD;
+             following documented approval by the Sponsor's Medical Monitor&#xD;
+&#xD;
+          -  Palliative radiotherapy within 14 days of the intended C1D1. Palliative radiotherapy&#xD;
+             may be permitted for symptomatic control of pain from bone metastases, provided that&#xD;
+             the radiotherapy does not involve target lesions, and the reason for the radiotherapy&#xD;
+             does not reflect evidence of disease progression.&#xD;
+&#xD;
+          -  Any gastrointestinal dysfunctions that could interfere with the absorption of&#xD;
+             selinexor (e.g., bowel obstruction, inability to swallow tablets, malabsorption&#xD;
+             syndrome, unresolved nausea, vomiting, diarrhea CTCAE v 5.0 &gt; grade 1).&#xD;
+&#xD;
+          -  Participants unable to tolerate two forms of antiemetics for at least 2 cycles will&#xD;
+             not be eligible for the trial.&#xD;
+&#xD;
+          -  Active, ongoing or uncontrolled active infection requiring parenteral antibiotics,&#xD;
+             antivirals, or antifungals within 1 week of screening.&#xD;
+&#xD;
+          -  Serious psychiatric or medical condition that could interfere with participation in&#xD;
+             the study or in the opinion of the Investigator would make study involvement&#xD;
+             unreasonably hazardous.&#xD;
+&#xD;
+          -  Previous treatment with an XPO1 inhibitor.&#xD;
+&#xD;
+          -  Stable disease or PD on the post-chemotherapy scan or clinical evidence of progression&#xD;
+             prior to randomization.&#xD;
+&#xD;
+          -  Participants who received any systemic anticancer therapy including investigational&#xD;
+             agents &lt;= 3 weeks (or &lt;= 5 half-lives of the drug [whichever is shorter]) prior to&#xD;
+             C1D1.&#xD;
+&#xD;
+          -  Major injuries or surgery within 14 days prior to C1D1 and/or planned major surgery&#xD;
+             during the on-treatment study period.&#xD;
+&#xD;
+          -  Other malignant disease with disease-free &lt;= 3 years except: curatively treated&#xD;
+             carcinoma in situ of the cervix, basal cell carcinoma of the skin, or ductal carcinoma&#xD;
+             in situ (DCIS) of the breast.&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to selinexor, or other agents used in the study.&#xD;
+&#xD;
+          -  Active brain metastases (e.g., stable for &lt; 8 weeks, no adequate previous treatment&#xD;
+             with radiotherapy and/or surgery, symptomatic, requiring treatment with&#xD;
+             anti-convulsant therapy. Corticoid therapy is allowed if administered as stable dose&#xD;
+             for at least 1 month before randomization).&#xD;
+&#xD;
+          -  Females who are pregnant or lactating.&#xD;
+&#xD;
+          -  Any other life-threatening illness, active medical condition, organ system&#xD;
+             dysfunction, or serious active psychiatric issue which, in the Investigator's opinion,&#xD;
+             could compromise the participant's safety or the participant's ability to remain&#xD;
+             compliant with study procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Karyopharm Medical Information</last_name>
+    <phone>(888) 209-9326</phone>
+    <email>clinicaltrials@karyopharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Mount Sinai Comprehensive Cancer Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Krystal Olivera</last_name>
+      <phone>305-674-2625</phone>
+      <email>Krystal.Olivera@msmc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Brian Slomovitz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent Hospital</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cynthia Cruz Rivera</last_name>
+      <phone>317-415-6747</phone>
+      <email>cynthia.cruzrivera@ascension.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Callahan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Trials365, LLC</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carrie Kay</last_name>
+      <phone>318-408-1198</phone>
+      <email>c.kay@trials365.org</email>
+    </contact>
+    <investigator>
+      <last_name>Destin Black</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Dominic's Gynecologic Oncology</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Khadijra Lockwood</last_name>
+      <phone>601-200-4479</phone>
+      <email>khadijra.lockwood@fmolhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Christen Haygood</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center Of Hope</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shannon Pierpoint</last_name>
+      <phone>775-327-4673</phone>
+      <email>spierpoint@cohreno.com</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Lim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Women's Cancer Care Associates, LLC</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolina Suriano</last_name>
+      <phone>518-458-1390</phone>
+      <email>nsuriano@womenscancercareassociates.com</email>
+    </contact>
+    <investigator>
+      <last_name>Joyce Barlin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Hospital-Long Island</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Estok</last_name>
+      <phone>212-404-4434</phone>
+      <email>karen.estok@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Bhavana Pothuri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Perlmutter Cancer Center at NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keith Kallas</last_name>
+      <phone>929-455-2433</phone>
+      <email>keith.kallas@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Bhavana Pothuri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chattanooga's Program in Women's Oncology</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Donelson</last_name>
+      <phone>423-266-3636</phone>
+      <email>Kimberly.Donelson@erlanger.org</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen DePasquale</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wolfson Medical Center</name>
+      <address>
+        <city>Holon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gali Borntnik</last_name>
+      <phone>+972-52-2358460</phone>
+      <email>scurology@wmc.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Tally Levy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Center</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rivka Ashlem</last_name>
+      <phone>+972-50-9888604</phone>
+      <email>rivkaas@hasdassah.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Aviad Zick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Revital Levit</last_name>
+      <email>Revital.Levit@sheba.health.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Limor Helpman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>April 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Selinexor</keyword>
+  <keyword>KPT-330</keyword>
+  <keyword>Advanced or Recurrent Endometrial Carcinoma</keyword>
+  <keyword>XPORT-EC</keyword>
+  <keyword>ENGOT-EN20</keyword>
+  <keyword>GOG-3083</keyword>
+  <keyword>XPORT-EC-042</keyword>
+  <keyword>p53 wild-type</keyword>
+  <keyword>Tumor protein 53 wild-type</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Endometrial Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

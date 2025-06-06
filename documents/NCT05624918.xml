@@ -1,0 +1,350 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624918</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BTCRC GI21-500</org_study_id>
+    <nct_id>NCT05624918</nct_id>
+  </id_info>
+  <brief_title>A Study of Peri-Operative Tumor Treating Fields (NovoTTF-200T) in Combination With Gemcitabine and Nab-Paclitaxel for Resectable Pancreatic Adenocarcinoma</brief_title>
+  <official_title>A Phase II Study of Peri-Operative NovoTTF-200T in Combination With Gemcitabine and Nab-Paclitaxel for Resectable Pancreatic Adenocarcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ashish Manne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NovoCure GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Big Ten Cancer Research Consortium</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single arm phase II study. Patients who meet eligibility criteria will receive&#xD;
+      therapy as depicted in the schema in the protocol. All patients will receive 3 cycles of the&#xD;
+      treatment of nab-paclitaxel (Days 1, 8 and 15), gemcitabine (Days 1, 8 and 15), and TTFields&#xD;
+      (worn every day for at least 18 hours). Following the initial 3 cycles of&#xD;
+      gemcitabine/nab-paclitaxel/TTFields treatment, patients will undergo restaging by CT or MRI.&#xD;
+      Patients with stable disease or better will undergo surgery for resection within 8 weeks&#xD;
+      following completion of initial chemotherapy although enrolling sites are encouraged to&#xD;
+      perform resection within 4 weeks of Cycle 3 D15 of therapy. If resection yields R0 or R1,&#xD;
+      patients will begin an additional 3 cycles of gemcitabine/nab-paclitaxel/TTFields treatment&#xD;
+      within 8 weeks of surgery. Based on available literature, it is expected that a percentage of&#xD;
+      patients will not undergo resection either due to disease progression or due to toxicities/&#xD;
+      complications of the neoadjuvant segment of therapy. These patients will be included in the&#xD;
+      evaluable patients for both co-primary endpoints as well as the secondary endpoints including&#xD;
+      ORR, adverse events, and OS.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>2 Year Overall Survival (OS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Determine the two-year OS rate. Two-year (2-Y) OS will be calculated as the percentage of patients who remain alive at the 2 year mark from the registration date.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of Resection</measure>
+    <time_frame>4 years</time_frame>
+    <description>Determine the rate of resection following the neoadjuvant treatment with TTFields in combination with chemotherapy. Resectability rate will be calculated as the proportion of evaluable patients undergoing R0 or R1 resection following the neoadjuvant segment of therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess adverse events</measure>
+    <time_frame>3 months, 5 months, and 10 months</time_frame>
+    <description>Assess frequency and severity of adverse events when TTFields is added to gemcitabine and nab-paclitaxel chemotherapy using CTCAE v5 criteria. Adverse Events (AE): AEs and the maximum grade for each type of adverse events will be summarized for each patient separately for the following three periods:&#xD;
+During perioperative therapy&#xD;
+Complications during surgery and post-operative period for 30 days&#xD;
+During adjuvant therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>4 years</time_frame>
+    <description>Determine ORR. Overall response rate will include confirmed complete response (CR) + confirmed partial response (PR) and will be determined as per RECIST v1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post Resection Disease Free Survival (DFS)</measure>
+    <time_frame>4 years</time_frame>
+    <description>Estimate the post resection DFS. DFS will be estimated in patients undergoing resection and will be defined as the date of resection to the date of first documentation of recurrence (loco-regional or distant) or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>4 years</time_frame>
+    <description>Estimate the median OS is defined as the time from initiation of therapy to death from any cause. OS will be assessed from date of registration till death from any cause on an intention to treat basis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Major Histological Response</measure>
+    <time_frame>4 years</time_frame>
+    <description>Assess the patterns and rate of major histological response.Pathologic response will be evaluated after the patient has had surgery, and will be based on local pathology review of the resected surgical specimen, according to the following (Treatment effect assessment will be per &quot;College of American Pathology Protocol for the Examination of Specimens From Patients With Carcinoma of the Exocrine Pancreas&quot;)&#xD;
+Tumor Regression Grade:&#xD;
+0: Complete response - no residual tumor&#xD;
+1: Moderate response - minimal residual cancer (single cells or small groups of cancer cells)&#xD;
+2: Minimal response - residual cancer outgrown by fibrosis&#xD;
+3: Poor or no response - no definite response identified (minimal or no tumor kill; Extensive residual cancer)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patterns of Recurrence</measure>
+    <time_frame>4 years</time_frame>
+    <description>Describe the patterns of recurrence. Pattern of recurrence will be assessed for patients undergoing resection and will be categorized into local vs distant. Loco-regional recurrence will be defined as any evidence of new disease within the pancreatic tumor bed based on surveillance scans. The pancreatic tumor bed includes:&#xD;
+Superior mesenteric artery and vein lymph nodes&#xD;
+Lymph nodes in porta hepatis (bile duct, portal vein, hepatic artery lymph nodes)&#xD;
+Lymph nodes around left renal vein, inferior vena cava or aorta&#xD;
+Celiac axis lymph nodes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Locoregional Recurrence (TLR)</measure>
+    <time_frame>4 years</time_frame>
+    <description>Evaluate TLR. TLR is defined as the time from the date of registration to the date of locoregional recurrence after resection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Distant Metastases (TDM)</measure>
+    <time_frame>4 years</time_frame>
+    <description>Evaluate TDM. Time to Distant Metastases (TDM): TDM is defined as the time from the date of registration to the date of metastases prior to surgery, metastases detected during surgery, or distant recurrence after resection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chemotherapy relative dose intensity</measure>
+    <time_frame>4 years</time_frame>
+    <description>Chemotherapy relative dose intensity delivered per agent is defined as the total cumulative dose (both perioperative and adjuvant) the patient received divided by total dose planned per protocol, times 100%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TTFields Compliance Rate</measure>
+    <time_frame>4 years</time_frame>
+    <description>Evaluate compliance with TTFields. The device will be inspected either by the investigator or by a Novocure representative on a monthly basis to assess patient compliance with therapy. Average number of daily hours will be calculated.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">38</enrollment>
+  <condition>Pancreatic Adenocarcinoma</condition>
+  <condition>Resectable Pancreatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Investigational Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nab-paclitaxel + gemcitabine + NovoTTF-200T for 3 cycles (28 day cycles)&#xD;
+Participants who have stable disease or better after the first 3 cycles of treatment will undergo pancreatectomy within 8 weeks of receiving treatment. If the surgery yields R0 or R1 then patient will receive another 3 cycles of treatment regimen (within 8 weeks of surgery).&#xD;
+Those who do not undergo surgery will still be included in the evaluable patients for the objectives</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nab paclitaxel</intervention_name>
+    <description>125 mg/m^2 IV over 30 minutes or per site standard on days 1, 8, and 15 of a 28 day cycle</description>
+    <arm_group_label>Investigational Group</arm_group_label>
+    <other_name>Abraxane</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>1000 mg/m^2 IV over 30 minutes or per site standard on days 1, 8, and 15 of a 28 day cycle</description>
+    <arm_group_label>Investigational Group</arm_group_label>
+    <other_name>Gemzar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NovoTTF-200T</intervention_name>
+    <description>Worn &gt; 18 hr /day starting C1D1 until completion of cycle 3</description>
+    <arm_group_label>Investigational Group</arm_group_label>
+    <other_name>TTFields</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        -Written informed consent and HIPAA authorization for release of personal health&#xD;
+        information.&#xD;
+&#xD;
+        NOTE: HIPAA authorization may be included in the informed consent or obtained separately.&#xD;
+&#xD;
+          -  Male or non-pregnant, non-lactating female age ≥ 18 years at the time of consent.&#xD;
+&#xD;
+          -  Karnofsky Performance Status (KPS) of ≥70% within 7 days prior to registration.&#xD;
+&#xD;
+          -  Histological or cytological evidence of pancreatic adenocarcinoma.&#xD;
+&#xD;
+          -  Patients must have resectable primary tumor per NCCN definitions version 2.2021 based&#xD;
+             on contrast-enhanced CT or MRI (CT or MRI without contrast as part of PET/CT or&#xD;
+             PET/MRI is NOT acceptable; CT or MRI with contrast as part of PET/CT or PET/MRI is&#xD;
+             acceptable) of the chest, abdomen, and pelvis, where resectable is defined as all of&#xD;
+             the following:&#xD;
+&#xD;
+               -  No involvement of the celiac artery, common hepatic artery, and superior&#xD;
+                  mesenteric artery (and, if present, replaced right hepatic artery).&#xD;
+&#xD;
+               -  No involvement, or &lt; 180° interface between tumor and vessel wall, of the portal&#xD;
+                  vein and/or superior mesenteric vein; and patent portal vein/splenic vein&#xD;
+                  confluence.&#xD;
+&#xD;
+               -  No evidence of metastatic disease. NOTE: To minimize ineligible patients, an&#xD;
+                  institutional checklist, identical to the one used by the central radiologist at&#xD;
+                  the end of the study, will be mandated for completion by the enrolling site&#xD;
+                  investigator or radiologist. The 6-point checklist will include visible&#xD;
+                  pancreatic mass; measurable disease; absence of arterial interface; venous&#xD;
+                  interface of less than or equal to 180°; patent portal-splenic confluence; and&#xD;
+                  absence of metastatic disease, including lymphadenopathy outside the surgical&#xD;
+                  basin.&#xD;
+&#xD;
+          -  Measurable disease according to RECIST v1.1 for solid tumors within 28 days prior to&#xD;
+             registration.&#xD;
+&#xD;
+          -  Patients must not have received prior surgery, radiation therapy, chemotherapy,&#xD;
+             targeted therapy, or any investigational therapy for pancreatic cancer.&#xD;
+&#xD;
+          -  Demonstrate adequate organ function as defined in the table below; all screening labs&#xD;
+             to be obtained within 28 days prior to registration.&#xD;
+&#xD;
+               -  Hematological&#xD;
+&#xD;
+                    -  Absolute Neutrophil Count (ANC) ≥ 1.5 K/mm3&#xD;
+&#xD;
+                    -  Hemoglobin (Hgb) ≥ 8.0 g/dL&#xD;
+&#xD;
+                    -  Platelets ≥100,000/mm3&#xD;
+&#xD;
+               -  Renal&#xD;
+&#xD;
+                  ---Calculated creatinine clearance ≥ 30 cc/min using the Cockcroft-Gault formula&#xD;
+&#xD;
+               -  Hepatic&#xD;
+&#xD;
+                    -  Bilirubin ≤ 1.5 × upper limit of normal (ULN)&#xD;
+&#xD;
+                    -  Aspartate aminotransferase (AST) ≤ 3 × ULN&#xD;
+&#xD;
+                    -  Alanine aminotransferase (ALT) ≤ 3 × ULN&#xD;
+&#xD;
+          -  Females of childbearing potential must have a negative pregnancy test (serum or urine)&#xD;
+             within 3 days prior to registration. See the protocol for definition of childbearing&#xD;
+             potential.&#xD;
+&#xD;
+          -  Females of childbearing potential must be willing to abstain from vaginal intercourse&#xD;
+             or use an effective method(s) of contraception from the time of informed consent,&#xD;
+             during the study, and for 6 months after the last dose of study drug(s). Males must be&#xD;
+             willing to abstain from vaginal intercourse or to use an effective method(s) of&#xD;
+             contraception from initiation of treatment, during the study, and for 3 months after&#xD;
+             the last dose of study drug(s). See also the protocol (contraception).&#xD;
+&#xD;
+          -  As determined by the enrolling physician or protocol designee, ability of the subject&#xD;
+             to understand and comply with study procedures for the entire length of the study&#xD;
+&#xD;
+          -  HIV-infected patients on effective anti-retroviral therapy with undetectable viral&#xD;
+             load within 6 months of registration are eligible for this trial.&#xD;
+&#xD;
+          -  Patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral&#xD;
+             load must be undetectable on suppressive therapy, if indicated. Patients with a&#xD;
+             history of hepatitis C virus (HCV) infection must have been treated and cured. For&#xD;
+             patients with HCV infection who are currently on treatment, the HCV viral load must be&#xD;
+             undetectable to be eligible for this trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of distant metastasis&#xD;
+&#xD;
+          -  Patients with an electrical implantable device in the torso. Examples of electrical&#xD;
+             implanted medical devices include spinal cord stimulators, vagus nerve stimulators,&#xD;
+             pacemakers, and defibrillators.&#xD;
+&#xD;
+          -  History of significant uncontrolled cardiovascular disease. Significant cardiac&#xD;
+             disease includes second/third degree heart block; significant ischemic heart disease;&#xD;
+             poorly controlled hypertension; congestive heart failure of the New York Heart&#xD;
+             Association (NYHA) Class II or worse (slight limitation of physical activity;&#xD;
+             comfortable at rest, but ordinary activity results in fatigue, palpitation or&#xD;
+             dyspnea).&#xD;
+&#xD;
+          -  History of arrhythmia that is symptomatic or requires treatment. Patients with atrial&#xD;
+             fibrillation or flutter controlled by medication are not excluded from participation&#xD;
+             in the trial -Known allergy to medical adhesives or conductive hydrogel (gel used on&#xD;
+             electrocardiogram (ECG) stickers or transcutaneous electrical nerve stimulation (TENS)&#xD;
+             electrodes).&#xD;
+&#xD;
+          -  Pregnant or breastfeeding (NOTE: breast milk cannot be stored for future use while the&#xD;
+             mother is being treated on study).&#xD;
+&#xD;
+          -  Patients with a prior or concurrent malignancy whose natural history or treatment has&#xD;
+             the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen are not eligible for this trial.&#xD;
+&#xD;
+          -  Patient has any other concurrent severe and/or uncontrolled medical condition that&#xD;
+             would, in the investigator's judgment, cause unacceptable safety risks, contraindicate&#xD;
+             patient participation in the clinical study or compromise compliance with the&#xD;
+             protocol: (e.g., chronic pancreatitis, chronic active hepatitis, active untreated or&#xD;
+             uncontrolled fungal, bacterial or viral infections, etc.)&#xD;
+&#xD;
+          -  No prior malignancy is allowed except for adequately treated basal (or squamous cell)&#xD;
+             skin cancer, in situ cervical cancer or other cancer for which the patient has been&#xD;
+             disease and treatment-free for two years.&#xD;
+&#xD;
+          -  Patient is unwilling or unable to comply with study procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ashish Manne, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Ohio State University Comprehensive Cancer Center- Arthur G. James Cancer Hospital and Richard J. Solove Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ashish Manne, MD</last_name>
+    <phone>614-293-9863</phone>
+    <email>ashish.manne@osumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ahran Lee</last_name>
+    <phone>317-634-5842</phone>
+    <phone_ext>14</phone_ext>
+    <email>alee@hoosiercancer.org</email>
+  </overall_contact_backup>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>December 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Big Ten Cancer Research Consortium</investigator_affiliation>
+    <investigator_full_name>Ashish Manne</investigator_full_name>
+    <investigator_title>Sponsor-Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

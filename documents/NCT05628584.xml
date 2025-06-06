@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628584</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FODMAPMet</org_study_id>
+    <nct_id>NCT05628584</nct_id>
+  </id_info>
+  <brief_title>High FODMAP Diet With Metformin in preDM</brief_title>
+  <official_title>The Impact of High or Low FODMAP Diets on Postprandial Glucose Response and Gut Microbiota in Individuals With Prediabetes Treated With Metformin: A Randomized Crossover Controlled-Feeding Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Elaine Chow</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck KGaA, Darmstadt, Germany</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Chinese University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, double blinded, randomised cross over feeding trial examine high or&#xD;
+      low FODMAP diet in combination with metformin on postprandial glucose responses and&#xD;
+      gastrointestinal tolerability and gut microbiota profiles.&#xD;
+&#xD;
+      The trial will compare high or low FODMAP diet, each of 10 days duration in combination with&#xD;
+      5 days metformin, separated by a washout period of at least 2 weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2022</start_date>
+  <completion_date type="Anticipated">October 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Differences in postprandial glycemia</measure>
+    <time_frame>10 days</time_frame>
+    <description>incremental area under curve on continuous glucose monitoring post meal</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Glucose response to 75g oral glucose tolerance test</measure>
+    <time_frame>10 days</time_frame>
+    <description>fasting and postchallenge plasma glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin response to 75g oral glucose tolerance test</measure>
+    <time_frame>10 days</time_frame>
+    <description>insulin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in alpha diversity of gut microbiota</measure>
+    <time_frame>10 days</time_frame>
+    <description>Changes in alpha diversity in gut microbiota</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in beta diversity of gut microbiota</measure>
+    <time_frame>10 days</time_frame>
+    <description>Changes in beta diversity in gut microbiota</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body weight</measure>
+    <time_frame>10 days</time_frame>
+    <description>Differences in body weight between arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastrointestinal symptoms</measure>
+    <time_frame>10 days</time_frame>
+    <description>Measured on visual analogue scale 1-10 for each item, higher score indicates worse symptoms</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>PreDiabetes</condition>
+  <condition>Impaired Glucose Tolerance</condition>
+  <arm_group>
+    <arm_group_label>High FODMAP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LOW FODMAP</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>High FODMAP diet with metformin</intervention_name>
+    <description>Controlled High FODMAP diet (15g/day) from day 1-10, metformin XR 1000mg daily day 6-10 for each treatment period</description>
+    <arm_group_label>High FODMAP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Low FODMAP diet with metformin</intervention_name>
+    <description>Controlled low FODMAP diet (3g/day) from day 1-10, metformin XR 1000mg daily day 6-10 for each treatment period</description>
+    <arm_group_label>LOW FODMAP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18-70 years&#xD;
+&#xD;
+          2. Body mass index 18 to 40 kg/m 2&#xD;
+&#xD;
+          3. Prediabetes defined as impaired fasting PG 5.6-6.9 mmol/l and/or impaired glucose&#xD;
+             tolerance with 2-hour PG 7.8-11.1 mmol/l on 75g oral glucose tolerance test (OGTT)&#xD;
+             and/or HbA1c 5.7-6.4% at screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Currently pregnant, lactating, as demonstrated by a positive pregnancy test at&#xD;
+             screening or planning pregnancy&#xD;
+&#xD;
+          2. Known current diabetes&#xD;
+&#xD;
+          3. Current or previous use of glucose-lowering or weight loss drugs in 3 months prior to&#xD;
+             screening&#xD;
+&#xD;
+          4. Concurrent participation in other weight loss or lifestyle intervention programmes&#xD;
+&#xD;
+          5. Current use or recent exposure to any medication that in the opinion of the&#xD;
+             investigator could have an influence on the patient's ability to participate in this&#xD;
+             study or on the performance of the test device.&#xD;
+&#xD;
+          6. Recent intake of prebiotic/probiotic or antibiotic, immunosuppressants (within 8 weeks&#xD;
+             of randomisation)&#xD;
+&#xD;
+          7. Extensive skin changes/diseases that preclude wearing the FGM on normal skin at the&#xD;
+             proposed application sites (e.g., extensive psoriasis, recent burns or severe sunburn,&#xD;
+             extensive eczema, extensive scarring, extensive tattoos, dermatitis herpetiformis).&#xD;
+&#xD;
+          8. Known uncontrolled thyrotoxicosis&#xD;
+&#xD;
+          9. Known vitamin B deficiency&#xD;
+&#xD;
+         10. Known irritable bowel syndrome or gastrointestinal disorders&#xD;
+&#xD;
+         11. Estimated glomerular filtration rate (eGFR) &lt;45 ml/min/1.73m2 at screening&#xD;
+&#xD;
+         12. Current use of steroids&#xD;
+&#xD;
+         13. Have a known allergy to medical-grade adhesives&#xD;
+&#xD;
+         14. Known current or recent alcohol or drug abuse&#xD;
+&#xD;
+         15. Hypersensitivity to metformin&#xD;
+&#xD;
+         16. Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without&#xD;
+             coma within 3 months of randomisation&#xD;
+&#xD;
+         17. Currently participating in another investigational study protocol where the testing or&#xD;
+             results may interfere with study compliance, diagnostic results, or data collection.&#xD;
+&#xD;
+         18. An identified protected vulnerable patient (including but not limited to those in&#xD;
+             detention, or a prisoner).&#xD;
+&#xD;
+         19. Participants who are on a vegetarian or vegan diet as their habitual diet at&#xD;
+             screening.&#xD;
+&#xD;
+         20. Participants with clinically significant food allergy to components of the study diet&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elaine Chow, MBChB</last_name>
+    <phone>852 35051549</phone>
+    <email>e.chow@cuhk.edu.hk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Natural Chu, PhD</last_name>
+    <email>naturalchu@cuhk.edu.hk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Sha Tin</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Elaine Chow</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prediabetic State</mesh_term>
+    <mesh_term>Glucose Intolerance</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

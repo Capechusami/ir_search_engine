@@ -1,0 +1,325 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CaReTeens</org_study_id>
+    <nct_id>NCT05790161</nct_id>
+  </id_info>
+  <brief_title>Consequences of Caffeine Intake in Sleep Restricted Teenagers</brief_title>
+  <official_title>Consequences of Caffeine Intake in Teenagers: Effects on Sleep, Reward Processing, Risk Taking, and Underlying Cerebral Mechanisms Under Conditions of Sleep Restriction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Psychiatric Hospital of the University of Basel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Basel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Basel, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Liege</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Psychiatric Hospital of the University of Basel</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to systematically investigate two prominent factors in&#xD;
+      teenagers' daily life: Caffeine and sleep restriction (SR) and their combined influence on&#xD;
+      sleep, cognition, and behavior in healthy adolescents. The main questions it aims to answer&#xD;
+      are:&#xD;
+&#xD;
+      The effects of caffeine under conditions of SR and SE:&#xD;
+&#xD;
+        -  on sleep pressure and sleep continuity.&#xD;
+&#xD;
+        -  on BOLD activity differences in reward related areas during a reward task (monetary&#xD;
+           incentive delay task) and on reaction times (behavioral aspect) in the same task.&#xD;
+&#xD;
+        -  on BOLD activity differences during a risk taking task (wheel of fortune task) and on&#xD;
+           risky decision-making (behavioral aspect) in the same task.&#xD;
+&#xD;
+      Participants will be either in the SR or SE condition (between-subject). The protocol&#xD;
+      consists of 2x of approximately one week in which a participant will receive caffeine or&#xD;
+      placebo (within-subject) at the last two evenings.&#xD;
+&#xD;
+      The experiment consists of an ambulatory and a laboratory phase:&#xD;
+&#xD;
+        -  The ambulatory phase consists of 5 nights, including 3 stabilization nights (8h sleep&#xD;
+           opportunity) prior to 2 nights consisting of either SR with 6h sleep opportunity or SE&#xD;
+           with 9.5h sleep opportunity. Participants will wear an actiwatch and fill out sleep&#xD;
+           diaries during this period.&#xD;
+&#xD;
+        -  The laboratory phase will be the 6th evening, night and morning of the protocol and will&#xD;
+           be spent in our lab. Participants will do the following:&#xD;
+&#xD;
+        -  treatment (caffeine vs. placebo) intake&#xD;
+&#xD;
+        -  saliva sampling&#xD;
+&#xD;
+        -  drug screening&#xD;
+&#xD;
+        -  cognitive tests, including risk-taking and reward task&#xD;
+&#xD;
+        -  filling in questionnaires (sleep diary, sleep quality, sleepiness, mood, expectancy)&#xD;
+&#xD;
+        -  waking and sleep with EEG&#xD;
+&#xD;
+      The next day, participants will undergo an fMRI scan, including the following:&#xD;
+&#xD;
+        -  resting-state scan&#xD;
+&#xD;
+        -  structural scan&#xD;
+&#xD;
+        -  arterial spin labeling scan&#xD;
+&#xD;
+        -  reward task scan&#xD;
+&#xD;
+        -  risk-taking task scan&#xD;
+&#xD;
+      Around the scan, participants will fill out/undergo:&#xD;
+&#xD;
+        -  saliva sampling&#xD;
+&#xD;
+        -  questionnaires (reward task, mood, sleepiness, expectancy)&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Within-Design regarding treatment (caffeine vs. placebo). Between-Design regarding sleep manipulation (sleep restriction vs. sleep manipulation)</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>doubleblind regarding treatment no blinding regarding sleep manipulation</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nighttime Sleep SWA</measure>
+    <time_frame>Laboratory night week 1</time_frame>
+    <description>Sleep at night will be quantified by polysomnographic recordings. Data will be scored epoch by epoch according to standard criteria to assign sleep stages. Spectral analysis will be performed by applying fast Fourier transformation. The key marker of sleep pressure will be slow wave activity (SWA) during NREM sleep (i.e., stage 2+3) defined as EEG power density between 0.75-4.5 Hz. To specify potential effects on SWA more precisely we will additionally conduct separate analyses within this band and with separate (0.5 Hz) bins. To characterize the effects of the experimental manipulation on sleep more comprehensively, we will also conduct analyses on different time bins within one night (e.g. time bin of the first 5 hours of sleep), and on different sleep stages (including wakefulness and latency to sleep), and bands other than SWA. If our resources allow, we will also explore the effects of our experimental manipulation on slow wave energy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Nighttime Sleep SWA</measure>
+    <time_frame>Laboratory night week 2</time_frame>
+    <description>Sleep at night will be quantified by polysomnographic recordings. Data will be scored epoch by epoch according to standard criteria to assign sleep stages. Spectral analysis will be performed by applying fast Fourier transformation. The key marker of sleep pressure will be slow wave activity (SWA) during NREM sleep (i.e., stage 2+3) defined as EEG power density between 0.75-4.5 Hz. To specify potential effects on SWA more precisely we will additionally conduct separate analyses within this band and with separate (0.5 Hz) bins. To characterize the effects of the experimental manipulation on sleep more comprehensively, we will also conduct analyses on different time bins within one night (e.g. time bin of the first 5 hours of sleep), and on different sleep stages (including wakefulness and latency to sleep), and bands other than SWA. If our resources allow, we will also explore the effects of our experimental manipulation on slow wave energy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>BOLD activity during reward processing</measure>
+    <time_frame>fMRI session week 1</time_frame>
+    <description>BOLD activity will be measured with a 3T MRT scanner. Brain responses will be modeled in an event-related design using a GLM for each subject at each voxel/trial. Regressors of no interest include motion parameters &amp; amount of gain or loss. At a within-subject level, we contrast BOLD activity in caffeine vs placebo conditions (&amp; vice versa). We focus on BOLD activity differences in reward-related regions between anticipation of reward vs neutral events. At the random effects level, we test for the effects of SR vs SE (&amp; vice versa) and the interaction with caffeine vs placebo. We report whole-brain results. Corrections for multiple comparisons will be made accordingly. Connectivity analyses to characterize brain activity underlying reward processing may be done. We measure RTs to expected rewards, losses, and neutral trials. Task difficulty is individually adapted throughout the task. We compare intra- &amp; interindividual changes in RT during reward/loss anticipation vs neutral trials.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>BOLD activity during reward processing</measure>
+    <time_frame>fMRI session week 2</time_frame>
+    <description>BOLD activity will be measured with a 3T MRT scanner. Brain responses will be modeled in an event-related design using a GLM for each subject at each voxel/trial. Regressors of no interest include motion parameters &amp; amount of gain or loss. At a within-subject level, we contrast BOLD activity in caffeine vs placebo conditions (&amp; vice versa). We focus on BOLD activity differences in reward-related regions between anticipation of reward vs neutral events. At the random effects level, we test for the effects of SR vs SE (&amp; vice versa) and the interaction with caffeine vs placebo. We report whole-brain results. Corrections for multiple comparisons will be made accordingly. Connectivity analyses to characterize brain activity underlying reward processing may be done. We measure RTs to expected rewards, losses, and neutral trials. Task difficulty is individually adapted throughout the task. We compare intra- &amp; interindividual changes in RT during reward/loss anticipation vs neutral trials.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>BOLD activity during risk-decision making (RDM)</measure>
+    <time_frame>fMRI session week 1</time_frame>
+    <description>BOLD activity/brain responses will be measured as above. Regressors of no interest additionally include risk probability, indicated amount of gain &amp; difference in expected value between safe and risky option. At within-subject level, we contrast BOLD activity in caffeine vs placebo conditions (&amp;vice versa). If number of events is sufficient, we focus on BOLD activity differences in regions related to RDM between safe/risky choices. At the random effects level, we test for effects of SR vs SE (&amp;vice versa) &amp; the interaction with caffeine vs placebo. We report whole-brain results. Corrections for multiple comparisons are made accordingly. Connectivity analyses to characterize brain activity underlying RDM are planned. Evaluating RDM: a)Risk-taking propensity represents the number of gambles chosen. b)Suboptimal RDM represents number of choices resulting in the lower of the expected values of the paired options. c)Irrational RDM represents the number of suboptimal gamble choices.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>BOLD activity during risk-decision making (RDM)</measure>
+    <time_frame>fMRI session week 2</time_frame>
+    <description>BOLD activity/brain responses will be measured as above. Regressors of no interest additionally include risk probability, indicated amount of gain &amp; difference in expected value between safe and risky option. At within-subject level, we contrast BOLD activity in caffeine vs placebo conditions (&amp;vice versa). If number of events is sufficient, we focus on BOLD activity differences in regions related to RDM between safe/risky choices. At the random effects level, we test for effects of SR vs SE (&amp;vice versa) &amp; the interaction with caffeine vs placebo. We report whole-brain results. Corrections for multiple comparisons are made accordingly. Connectivity analyses to characterize brain activity underlying RDM are planned. Evaluating RDM: a)Risk-taking propensity represents the number of gambles chosen. b)Suboptimal RDM represents number of choices resulting in the lower of the expected values of the paired options. c)Irrational RDM represents the number of suboptimal gamble choices.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Resting state(rs) functional connectivity (FC)</measure>
+    <time_frame>fMRI session week 1; fMRI session week 2</time_frame>
+    <description>Rs-FC will be ascertained via BOLD measured with MRI in a 3T Siemens scanner (Prisma; Siemens AG, Erlangen, Germany) using a 24-channel head coil. The standard three-dimensional magnetization-prepared rapid acquisition (MPRAGE) sequence with gradient echo (1x1x1mm, TR=2000ms, TI= 1000ms, TE=3.37ms, FA=8°) will obtain T1-weighted images to depict morphological aspects of the brain. To depict BOLD activity during resting T2*-weighted echo-planar image (EPI) sequences (TR = 2000, TE = 35ms, FOV = 216mm, voxel size = 2.4 mm3, matrix size 90*90, 50 slices) will be performed twice for 6-minutes. Foam and inflatable pads will be used to reduce head motion. Participants will be required to have eyes open and stare at a fixation cross to provide greater reliability of within-network connections and reduce experimental variability. Heart rate and respiration will be recorded by Siemens MRI scanner installed hardware.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BOLD activity during reward feedback</measure>
+    <time_frame>fMRI session week 1; fMRI session week 2</time_frame>
+    <description>BOLD activity will be measured with a 3T MRT scanner. Brain responses will first be modeled in an event-related design using a GLM for each subject at each voxel and each trial. Regressors of no interest include motion parameters and indicated amount of gain or loss (high vs low) and the type of feedback. At a within-subject level, we contrast BOLD activity in caffeine vs placebo (and vice versa). We focus on differences in reward-related regions between feedback of successful reward trials vs successful neutral trials. We may run analyses contrasting feedback of successful reward trials vs feedback of neutral trials. At the second (random effects) level, we test for the effects of SR vs SE (and vice versa) and the interaction with caffeine vs placebo. We correct for multiple comparisons within reward-related regions. We report whole-brain results, corrected for multiple comparisons over the entire brain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vigilance</measure>
+    <time_frame>Laboratory evening (3 times) and morning (1 time SE &amp; 2 times SR) week 1; Laboratory evening (3 times) and morning (1 time SE &amp; 2 times SR) week 2</time_frame>
+    <description>Vigilance performance will be quantified by mean 1/RT for all reaction times in the Psychometric Vigilance Task. We may also report the number of lapses (trials with RT &gt; 500ms) if meaningful and may explore the effects of our experimental manipulation on other typical outcome variables of the PVT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Working Memory</measure>
+    <time_frame>LaboratoryLaboratory evening (1 time) and morning (1 time) week 1; Laboratory evening (1 time) and morning (1 time) week 2</time_frame>
+    <description>Working Memory will be quantified by RT, number of n-back reached, and accuracy (number of missings, number of hits) in an adaptive n-back task. The n-back task is a computer-based task to assess working memory performance. The participant is presented with a sequence of stimuli and must indicate when the current stimulus matches the one from n steps earlier in the sequence. We will use an adaptive n-back version where the n steps adapt to individual performance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inihibition</measure>
+    <time_frame>Laboratory evening (2 times) and morning (1 time SE &amp; 2 times SR) week 1; Laboratory evening (2 times) and morning (1 time SE &amp; 2 times SR) week 2</time_frame>
+    <description>Inhibition performance will be quantified by the number of commission and omission errors in a go/nogo task. We will also report RTs. The participants will be asked to press a button in response to visually presented stimuli, but to avoid responding to a rarer nontarget.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective Sleepiness</measure>
+    <time_frame>Laboratory evening (7 times) and morning (2 times SE &amp; 4 times SR ) week 1; Laboratory evening (7 times) and morning (2 times SE &amp; 4 times SR ) week 2</time_frame>
+    <description>Subjective sleepiness will be quantified by the Karolinska Sleepiness Scale (KSS). This is a 9-point scale (1 = extremely, alert, 3 = alert, 5 = neither alert nor sleepy, 7 = sleepy - but no difficulty remaining awake, and 9 = extremely sleepy - fighting sleep) which the participants are asked to fill in.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circadian timing (DLMO)</measure>
+    <time_frame>laboratory phase week 1 (9 samples SE &amp; 11 samples SR) &amp; fMRI Session week 1 (3 samples) ;laboratory phase week 2 (9 samples SE &amp; 11 samples SR) &amp; fMRI Session week 2 (3 samples)</time_frame>
+    <description>We will measure melatonin levels in saliva samples using biochemical analysis. We will report melatonin levels and melatonin suppression. Dim-light melatonin onset (DLMO) will be the indicator for the onset of the biological night and quantified using the hockey-stick method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Sleepiness</measure>
+    <time_frame>Laboratory evening (3 times) and morning (1 time SE &amp; 2 times SR) week 1; Laboratory evening (2 times) and morning (1 time) week 2</time_frame>
+    <description>We will quantify sleepiness objectively via EEG delta and theta activity (ranges ~0.5-8 Hz) in a 3-minute Waking-EEG where participants will be asked to stare at a fixation cross or during task performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective Sleep Quality</measure>
+    <time_frame>Laboratory morning week 1 (1 time); Laboratory morning (1 time) week 2</time_frame>
+    <description>To measure subjective sleep quality, we use the Leeds Sleep Evaluation Questionnaire (LSEQ) administered in the morning after wake-up. The questionnaire results in values on the four dimensions: Getting to Sleep, Quality of Sleep, Awake Following Sleep, and Behaviour Following Wakening.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Caffeine</condition>
+  <condition>Insufficient Sleep</condition>
+  <arm_group>
+    <arm_group_label>Sleep Restriction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 nights with 6h sleep opportunity each.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sleep Extension</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 nights with 9,5h sleep opportunity each.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Caffeine</intervention_name>
+    <description>2mg/kg, once before night 6 and once before the scan (either on week 1 or 2, alternating with placebo)</description>
+    <arm_group_label>Sleep Extension</arm_group_label>
+    <arm_group_label>Sleep Restriction</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 14 and ≤ 17&#xD;
+&#xD;
+          -  Clinically healthy&#xD;
+&#xD;
+          -  Signed consent form of participant and legal guardian&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to operate tasks or understand the study information&#xD;
+&#xD;
+          -  Participation in other clinical trials &lt;3 months prior to any possible study start&#xD;
+             date&#xD;
+&#xD;
+          -  BMI P3 &lt; BMI-PC &lt; P97&#xD;
+&#xD;
+          -  Any general health concerns or disorders (previous diagnosis of&#xD;
+             heart/cardiovascular/nephrological/endocrinological/diabetic/metabolic/chronobiologic/&#xD;
+             psychiatric/neurological [particularly epilepsy and parasomnia] conditions) which may&#xD;
+             make participants vulnerable to potential negative effects of SR or caffeine or which&#xD;
+             may affect outcome measures&#xD;
+&#xD;
+          -  Unavailability to complete the two study protocol weeks within a three-month period&#xD;
+&#xD;
+          -  Trans meridian travel (&gt;2 time zones) &lt;1 month before any possible study start date&#xD;
+&#xD;
+          -  Shift work &lt;3 months prior to any possible study start date&#xD;
+&#xD;
+          -  Extreme chronotype MSFSC &lt; 3:00 / MSFSC &gt; 6:00 according to MCTQ&#xD;
+&#xD;
+          -  Subjective sleep duration on school days &lt;7h or &gt;9h according to MCTQ&#xD;
+&#xD;
+          -  Metallic prosthesis, metallic implants, or non-removable objects in the body (e.g.,&#xD;
+             splinters, piercings) which affect MRI safety&#xD;
+&#xD;
+          -  Tattoos with larger diameter than 10cm or above shoulder area, affecting MRI safety&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Difficulties or problems in physical well-being and mental health based on the Swiss&#xD;
+             norm (T&lt; 35) for all genders aged 12-18 according to KIDSCREEN-27&#xD;
+&#xD;
+          -  Daily nicotine use&#xD;
+&#xD;
+          -  Use of medications or drugs that have contraindications and/or effects on outcome&#xD;
+             measures or use of specific drugs indicated in drug test&#xD;
+&#xD;
+          -  Use of alcohol to an extent that it is likely to have contraindications and/or effects&#xD;
+             on outcome measures&#xD;
+&#xD;
+          -  Any indication of previous withdrawal or oversensitivity to caffeine&#xD;
+&#xD;
+          -  Sleep quality &gt;5 according to PSQI&#xD;
+&#xD;
+          -  Problems of EEG compatibility&#xD;
+&#xD;
+          -  Sleep efficiency &lt;70%&#xD;
+&#xD;
+          -  Identification of sleep disorders&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Deviation from the stabilisation sleep-wake schedule by +-60 mins&#xD;
+&#xD;
+          -  Deviation from protocol sleep-wake schedule by +-30 mins&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Psychiatric Hospital of the University of Basel</investigator_affiliation>
+    <investigator_full_name>Carolin Reichert</investigator_full_name>
+    <investigator_title>Deputy Head</investigator_title>
+  </responsible_party>
+  <keyword>adolescence</keyword>
+  <keyword>sleep</keyword>
+  <keyword>caffeine</keyword>
+  <keyword>Risk-Taking</keyword>
+  <keyword>reward</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Deprivation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Caffeine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

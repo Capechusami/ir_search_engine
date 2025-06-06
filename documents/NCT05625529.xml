@@ -1,0 +1,275 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625529</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BioDyn-011</org_study_id>
+    <nct_id>NCT05625529</nct_id>
+  </id_info>
+  <brief_title>ExoLuminate Study for Early Detection of Pancreatic Cancer</brief_title>
+  <official_title>Exoluminate Study: Observational Registry Study to Assess Exo-PDAC Assay Performance for Detection of Pancreatic Adenocarcinoma (PDAC) in High-Risk or Clinically Suspicious Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biological Dynamics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medical College of Wisconsin</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Biological Dynamics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ExoLuminate is a nationally-enrolling registry study designed for earlier detection of cancer&#xD;
+      in those patients that are at an elevated risk or clinically-suspicious for pancreatic ductal&#xD;
+      adenocarcinoma (PDAC).&#xD;
+&#xD;
+      Those with elevated risk for PDAC can include individuals with intraductal papillary mucinous&#xD;
+      neoplasms, a family history of pancreatic cancer, germline mutations in genes known to be&#xD;
+      associated with cancer, a personal or family history of pancreatitis, or new onset diabetes&#xD;
+      after age 50.&#xD;
+&#xD;
+      The goal of the study is to compare the performance of ExoVerita™ assay in early detection of&#xD;
+      PDAC to current standard-of-care methods of surveillance.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Biological Dynamics, Inc. has developed a non-invasive blood test (&quot;liquid biopsy&quot; ) that can&#xD;
+      identify early-stage disease with high sensitivity and specificity. The proprietary&#xD;
+      ExoVerita™ assay uses alternating current electric (ACE) field to isolate extracellular&#xD;
+      vesicles (EVs) for differentiated multiomics applications and includes an optimized machine&#xD;
+      learning algorithm to identify a panel of EV-bound protein biomarkers in patient's plasma in&#xD;
+      order to detect PDAC at earlier stages.&#xD;
+&#xD;
+      ExoLuminate is a prospective, multi-center, observational registry study designed to evaluate&#xD;
+      the non-inferiority of the performance of the ExoVerita™ assay in detecting pancreatic ductal&#xD;
+      adenocarcinoma (PDAC) in high-risk or clinically-suspicious populations in comparison to&#xD;
+      standard-of-care methods.&#xD;
+&#xD;
+      The study is planned to recruit a minimum of 1000 U.S. adults over 2-years (with a 1-year&#xD;
+      follow-up for data collection).&#xD;
+&#xD;
+      The test will be ordered through providers. Eligible subjects will be evaluated using the&#xD;
+      ExoVerita™ assay through blood donation(s) at specified time intervals. Overall, this study&#xD;
+      poses minimal risk to subject.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 19, 2022</start_date>
+  <completion_date type="Anticipated">January 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2026</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Clinical performance of ExoVerita™ assay</measure>
+    <time_frame>24 months or until diagnostic resolution</time_frame>
+    <description>Specificity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical performance of ExoVerita™ assay</measure>
+    <time_frame>24 months or until diagnostic resolution</time_frame>
+    <description>Sensitivity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stage Shift</measure>
+    <time_frame>24 months or until diagnostic resolution</time_frame>
+    <description>Evaluation of stage distribution (SEER) at diagnosis</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Pancreas Cancer</condition>
+  <condition>Exosomes</condition>
+  <condition>Extracellular Vesicles</condition>
+  <condition>Pancreatic Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1: High-Risk Population</arm_group_label>
+    <description>Intraductal papillary mucinous neoplasms (IPMNs)&#xD;
+Family member(s) who have at least one first-degree relative (FDR) affected by pancreatic cancer,&#xD;
+Germline mutations in genes known to be associated with cancer, including BRCA1, BRCA2, PALB2, CDKN2A, ATM, TP53, STK11, MLH1, MSH2, MSH6, PMS2, PRSS1, EPCAM.&#xD;
+Personal or family history of pancreatitis&#xD;
+New-onset Diabetes (NOD)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2: Clinically-suspicious PDAC or Pathologically-confirmed</arm_group_label>
+    <description>Clinical findings suspicious for early stage PDAC&#xD;
+Biopsy-proven, clinical stage I-IV PDAC</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Double-spun plasma, EDTA tubes&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Cohort 1 -&#xD;
+&#xD;
+          1. IPMN lesions, any age.&#xD;
+&#xD;
+          2. Family member(s) who have at least one FDR affected by PDAC, Age ≥50 (or 10 years&#xD;
+             earlier than youngest afflicted relative)&#xD;
+&#xD;
+          3. STK11 (Peutz-Jeghers syndrome), any age.&#xD;
+&#xD;
+          4. CDKN2A, p16 (Familial atypical multiple mole and melanoma; FAMMM), any age.&#xD;
+&#xD;
+          5. BRCA1, BRCA2, ATM, PALB2, ≥45 (or 10 years earlier than youngest afflicted relative)&#xD;
+&#xD;
+          6. MLH1, MSH2, MSH6, PMS2, EPCAM, TP53 (HNPCC), Age ≥50 (or 10 years earlier than&#xD;
+             youngest afflicted relative)&#xD;
+&#xD;
+          7. Hereditary Pancreatitis with confirmed PRSS1. Age ≥40&#xD;
+&#xD;
+          8. Acute, Chronic, or Hereditary Pancreatitis, any age.&#xD;
+&#xD;
+          9. New-onset diabetes, age ≥50&#xD;
+&#xD;
+        Cohort 2 -&#xD;
+&#xD;
+          1. Clinical findings suspicious for early stage PDAC OR&#xD;
+&#xD;
+          2. Biopsy-proven, clinical stage I-IV PDAC&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥18 years old&#xD;
+&#xD;
+          -  Cohort 1 or Cohort 2&#xD;
+&#xD;
+          -  Capable of giving informed consent&#xD;
+&#xD;
+          -  Able to provide a blood sample&#xD;
+&#xD;
+          -  Tested for the presence of deleterious germline mutations associated with PDAC or&#xD;
+             willing to provide samples for germline genetic analysis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  &lt; 18 years old&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Undergoing any active treatment from of an active cancer diagnosis (except for skin&#xD;
+             malignancies).&#xD;
+&#xD;
+          -  History of fainting or other adverse effects when blood is drawn.&#xD;
+&#xD;
+          -  Unwilling to provide germline mutation information or samples for germline genetic&#xD;
+             analysis&#xD;
+&#xD;
+          -  Any condition that, in the opinion of the investigator, should preclude enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Harmeet Dhani, MD, M.Sc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Biological Dynamics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Harmeet Dhani, MD, M.Sc</last_name>
+    <phone>858-202-6150</phone>
+    <email>exoluminate@biologicaldynamics.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Biological Dynamics</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Harmeet Dhani, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bhanu Visvalingam</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bhanu Visvalingam, MD</last_name>
+    </contact>
+    <contact_backup>
+      <phone>386-304-7070</phone>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://biologicaldynamics.com/</url>
+    <description>Biological Dynamics, Inc. Website</description>
+  </link>
+  <link>
+    <url>https://www.ExoLuminate.com</url>
+    <description>ExoLuminate Study Website for Providers</description>
+  </link>
+  <reference>
+    <citation>Hinestrosa JP, Kurzrock R, Lewis JM, Schork NJ, Schroeder G, Kamat AM, Lowy AM, Eskander RN, Perrera O, Searson D, Rastegar K, Hughes JR, Ortiz V, Clark I, Balcer HI, Arakelyan L, Turner R, Billings PR, Adler MJ, Lippman SM, Krishnan R. Early-stage multi-cancer detection using an extracellular vesicle protein-based blood test. Commun Med (Lond). 2022 Mar 17;2:29. doi: 10.1038/s43856-022-00088-6. eCollection 2022.</citation>
+    <PMID>35603292</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>May 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Biological Dynamics</investigator_affiliation>
+    <investigator_full_name>Harmeet Dhani</investigator_full_name>
+    <investigator_title>Medical Director</investigator_title>
+  </responsible_party>
+  <keyword>Early Detection</keyword>
+  <keyword>Exosomes</keyword>
+  <keyword>Extracellular Vesicles</keyword>
+  <keyword>IPMN</keyword>
+  <keyword>PDAC</keyword>
+  <keyword>Pancreatic Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,238 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05072808</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-19-09-1259</org_study_id>
+    <nct_id>NCT05072808</nct_id>
+  </id_info>
+  <brief_title>Improving Asthma Referrals Following Emergency Department Evaluation</brief_title>
+  <official_title>Improving Asthma Referrals Following Emergency Department Evaluation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wayne State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wayne State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Asthma is the most common chronic condition among children and many children seek emergency&#xD;
+      department (ED) care. A key aspect of ED asthma management at the time of discharge is&#xD;
+      appropriate outpatient referral. Part of the challenge for ED providers is determining which&#xD;
+      patients require intensive outpatient support as ED providers often do not have the time or&#xD;
+      familiarity with the asthma guidelines to appropriately stratify asthma severity. Thus, the&#xD;
+      aim of this study is to determine whether the proportion of children referred to outpatient&#xD;
+      asthma care can be improved by incorporating a previously validated tool [the Pediatric&#xD;
+      Asthma Control and Communication Instrument for the Emergency Department (PACCI- ED)] into ED&#xD;
+      clinical care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Emergency department (ED) physicians play an important role in the management of pediatric&#xD;
+      asthma through acute intervention, family education, and appropriate referral to outpatient&#xD;
+      resources. However, time constraints in the ED limit physicians' ability to appropriately&#xD;
+      stratify both asthma severity and outpatient referrals. The Pediatric Asthma Control and&#xD;
+      Communication Instrument for the Emergency Department (PACCI-ED) improves ED providers&#xD;
+      assessment of asthma control and disease burden. We hypothesize that implementation of the&#xD;
+      PACCI-ED at the point of care may help to facilitate appropriate referrals to outpatient&#xD;
+      asthma care.&#xD;
+&#xD;
+      ED providers will be randomized to the control or intervention group. Providers in the&#xD;
+      intervention group will receive the results of the parent-completed PACCI-ED accompanied by a&#xD;
+      one page summary of referral recommendations aligned with asthma guidelines and based upon&#xD;
+      asthma severity. Providers in the control group will not receive this information and will&#xD;
+      provide 'usual care'. All providers will complete a brief demographic questionnaire.&#xD;
+      School-aged children with a history of asthma presenting to the ED for an asthma exacerbation&#xD;
+      and discharged home who consent to participate will be assigned to the control or the&#xD;
+      intervention group based upon the ED provider caring for the patient during their ED&#xD;
+      encounter. Parents will complete a brief demographic questionnaire, the PACCI-ED, and answer&#xD;
+      two short qualitative audio-recorded questions about barriers to asthma care during their ED&#xD;
+      visit. Following the ED visit, additional data will be abstracted from the electronic medical&#xD;
+      record including outpatient referrals placed at the time of ED discharge and follow-up with&#xD;
+      the referrals within a one-month time-frame.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of referrals</measure>
+    <time_frame>Eight months</time_frame>
+    <description>Proportion of referrals for outpatient asthma care placed in the electronic medical record.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subspecialty referrals</measure>
+    <time_frame>Eight months</time_frame>
+    <description>Proportion of subspecialty referrals for outpatient asthma care (e.g. allergy/immunology, pulmonology) placed in the electronic medical record.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient and provider characteristics</measure>
+    <time_frame>Eight months</time_frame>
+    <description>Patient (e.g. age, asthma history) and provider (e.g. training, years in practice) self-reported demographics.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completed outpatient clinic visits following a referral</measure>
+    <time_frame>30 days following the ED visit</time_frame>
+    <description>Number of patients attending the outpatient clinic visit within 30 days of the referral requested in the electronic medical record at the time of the ED visit.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>Asthma in Children</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>ED Providers randomized to the Intervention Group will be able to view the results of the parent-completed questionnaire, the Pediatric Asthma Control and Communication Instrument for the Emergency Department (PACCI-ED), and outpatient referral recommendations aligned with asthma severity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>ED providers randomized to the Control Group will neither receive the results of the parent-completed PACCI-ED or specific recommendations for outpatient referrals. Patients randomized to the control group will receive usual care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>View PACCI-ED and referral recommendations</intervention_name>
+    <description>Results of parent completed PACCI-ED and referral recommendations</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Presenting to Children's Hospital of Michigan (CHM), Detroit, Emergency Department&#xD;
+             (ED) for an acute asthma exacerbation&#xD;
+&#xD;
+          -  History of asthma as reported by parents&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Transfer from outside ED for a higher level of care&#xD;
+&#xD;
+          -  Admitted to the hospital following pediatric ED evaluation&#xD;
+&#xD;
+          -  Significant co-morbidity (pulmonary, cardiac, or other systemic disease)&#xD;
+&#xD;
+          -  Hemodynamic instability&#xD;
+&#xD;
+          -  Non-English speaking&#xD;
+&#xD;
+          -  Previously enrolled in this study&#xD;
+&#xD;
+          -  Patients without their primary caregiver at ED presentation&#xD;
+&#xD;
+          -  Not under the care of CHM ED provider who has consented to be a part of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>11 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amy M DeLaroche, MBBS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Detroit Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amy M DeLaroche, MBBS</last_name>
+    <phone>(313) 745-5260</phone>
+    <email>ADeLaroc@dmc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Priya Spencer, MPH</last_name>
+    <phone>(313) 745-0631</phone>
+    <email>PSpencer2@dmc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Children's Hospital of Michigan</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy M DeLaroche, MBBS</last_name>
+      <phone>313-745-5260</phone>
+      <email>ADeLaroc@dmc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Priya Spencer, MPH</last_name>
+      <phone>(313) 745-0631</phone>
+      <email>PSpencer2@@dmc.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Akinbami LJ, Moorman JE, Simon AE, Schoendorf KC. Trends in racial disparities for asthma outcomes among children 0 to 17 years, 2001-2010. J Allergy Clin Immunol. 2014 Sep;134(3):547-553.e5. doi: 10.1016/j.jaci.2014.05.037. Epub 2014 Aug 1.</citation>
+    <PMID>25091437</PMID>
+  </reference>
+  <reference>
+    <citation>Rachelefsky GS, Kennedy S, Stone A. Enhancing the role of the emergency department in the identification and management of childhood asthma. Pediatrics. 2006 Apr;117(4 Pt 2):S57-62. doi: 10.1542/peds.2005-2000b. No abstract available.</citation>
+    <PMID>16777838</PMID>
+  </reference>
+  <reference>
+    <citation>Goldberg EM, Laskowski-Kos U, Wu D, Gutierrez J, Bilderback A, Okelo SO, Garro A. The Pediatric Asthma Control and Communication Instrument for the Emergency Department (PACCI-ED) improves physician assessment of asthma morbidity in pediatric emergency department patients. J Asthma. 2014 Mar;51(2):200-8. doi: 10.3109/02770903.2013.859267. Epub 2013 Dec 4.</citation>
+    <PMID>24219842</PMID>
+  </reference>
+  <reference>
+    <citation>Wu DJ, Hipolito E, Bilderback A, Okelo SO, Garro A. Predicting future emergency department visits and hospitalizations for asthma using the Pediatric Asthma Control and Communication Instrument - Emergency Department version (PACCI-ED). J Asthma. 2016;53(4):387-91. doi: 10.3109/02770903.2015.1115520. Epub 2016 Jan 22.</citation>
+    <PMID>26667853</PMID>
+  </reference>
+  <reference>
+    <citation>Pade KH, Agnihotri NT, Vangala S, Thompson LR, Wang VJ, Okelo SO. Asthma specialist care preferences among parents of children receiving emergency department care for asthma. J Asthma. 2020 Feb;57(2):188-195. doi: 10.1080/02770903.2019.1565768. Epub 2019 Jan 21.</citation>
+    <PMID>30663904</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>May 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wayne State University</investigator_affiliation>
+    <investigator_full_name>Amy Delaroche</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Asthma</keyword>
+  <keyword>Emergency Department</keyword>
+  <keyword>Children</keyword>
+  <keyword>Referral</keyword>
+  <keyword>Pediatric Asthma Control and Communication Instrument for the Emergency Department</keyword>
+  <keyword>PACCI-ED</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Asthma</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

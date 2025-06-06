@@ -1,0 +1,738 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077254</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAIT COVID19-TB-03</org_study_id>
+    <secondary_id>U01AI138897</secondary_id>
+    <secondary_id>NIAID CRMS ID#: 38892</secondary_id>
+    <nct_id>NCT05077254</nct_id>
+  </id_info>
+  <brief_title>COVID Protection After Transplant-Immunosuppression Reduction</brief_title>
+  <acronym>CPAT-ISR</acronym>
+  <official_title>A Randomized Study to Evaluate Antibody Response to an Additional Dose of SARS-CoV-2 Vaccination With and Without Immunosuppression Reduction in Kidney and Liver Transplant Recipients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>PPD</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will enroll individuals who have:&#xD;
+&#xD;
+        -  Completed a primary series of either the Moderna messenger RNA (mRNA) based coronavirus&#xD;
+           infectious disease 19 (COVID-19) vaccine or the Pfizer-BioNTech mRNA based COVID-19&#xD;
+           vaccine, and&#xD;
+&#xD;
+        -  An antibody response ≤ 2500 U/mL measured at least 30 days after the last dose of&#xD;
+           vaccine.&#xD;
+&#xD;
+      This group of patients is at high risk for severe COVID-19 disease due to pharmacologic&#xD;
+      immunosuppression and a high prevalence of non-transplant risk factors such as obesity and&#xD;
+      diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a randomized, open-label multi-site trial designed to induce an enhanced&#xD;
+      antibody response to severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2) in&#xD;
+      kidney and liver transplant recipients who have ≤ 2500 U/mL anti-spike antibody (as measured&#xD;
+      by the Roche Elecsys® anti-SARS-CoV-2 S assay) after a completed primary series (3 doses) of&#xD;
+      mRNA COVID-19 vaccines.&#xD;
+&#xD;
+      Participants will be randomized to either:&#xD;
+&#xD;
+        1. Receive a study dose of mRNA based COVID-19 vaccine (booster) with no change in their&#xD;
+           immunosuppressive regimen, or&#xD;
+&#xD;
+        2. Undergo a temporary, prescribed reduction in their maintenance immunosuppression (IS)&#xD;
+           regimen and receive a study dose (booster) of mRNA-based COVID-19 vaccine.&#xD;
+&#xD;
+      Protocol Version 6.0 will include a booster dose of either Pfizer Bivalent COVID-19 Vaccine&#xD;
+      or Moderna Bivalent COVID-19 Vaccine, with or without IS reduction.&#xD;
+&#xD;
+      Duration of study participation for interested and eligible individuals: 13 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 6, 2021</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to:&#xD;
+A study dose of bivalent mRNA COVID-19 vaccine only, or&#xD;
+Immunosuppression (IS) reduction plus a study dose of bivalent mRNA COVID-19 vaccine. IS reduction will be based on the participant's IS regimen upon study entry, in accordance with the study's protocol.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary endpoint is the -fold increase in antibody titer (using the Roche Elecsys® anti-SARS-CoV-2 S assay) from before receiving the study dose of vaccine to 30 days after the study dose of vaccine.</measure>
+    <time_frame>Day 30 After Study Vaccination</time_frame>
+    <description>Serum antibody titer will be measured using the Roche Elecsys®) severe acute respiratory syndrome coronavirus type 2 serological (anti-SARS-CoV-2) S assay.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Solicited Local Reactogenicity Adverse Events (AEs) to the mRNA-Based COVID-19 Vaccine</measure>
+    <time_frame>Through Day 7 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Solicited Local Allergic Reaction Adverse Events (AEs) to the mRNA-Based COVID-19 Vaccine</measure>
+    <time_frame>Through Day 7 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Solicited Systemic Reactogenicity Adverse Events (AEs) to the mRNA-Based COVID-19 Vaccine</measure>
+    <time_frame>Through Day 7 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Solicited Systemic Allergic Reaction Adverse Events (AEs) to the mRNA-Based COVID-19 Vaccine</measure>
+    <time_frame>Through Day 7 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Serious Adverse Events (SAEs)</measure>
+    <time_frame>Through Day 30 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>Through Day 30 Post Study Vaccination</time_frame>
+    <description>Safety measure. An AE associated with the receipt of the study's COVID-19 mRNA vaccine and/or study mandated procedures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Serious Adverse Events (SAEs)</measure>
+    <time_frame>Through Day 60 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Serious Adverse Events (SAEs)</measure>
+    <time_frame>Through Day 365 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Any Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>Through Day 365 Post Study Vaccination</time_frame>
+    <description>Safety measure. An AE associated with the receipt of of the study's COVID-19 mRNA vaccine and/or study mandated procedures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Treated for Acute Cell-Mediated and/or Antibody-Mediated Allograft Rejection</measure>
+    <time_frame>Through Day 60 Post Study Vaccination</time_frame>
+    <description>Safety measure post receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants who Develop de Novo Donor-Specific Anti-Human Leukocyte Antigens (HLA) Antibody</measure>
+    <time_frame>Through Day 60 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants with Graft Loss</measure>
+    <time_frame>Through Day 60 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Death Among Participants</measure>
+    <time_frame>Through Day 60 Post Study Vaccination</time_frame>
+    <description>Safety measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Positive SARS-CoV-2 Test Results Using Real-Time Polymerase Chain Reaction (RT-PCR)</measure>
+    <time_frame>Baseline (Day 0, Prior to Study Vaccination), Month 1, 3, 6, 9 and 12</time_frame>
+    <description>A nasal mid-turbinate swab for SARS-CoV-2 PCR testing will be collected prior to administration of the COVID-19, at specified timepoints after receipt of vaccination and, in any case of suspected COVID-19 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Symptomatic COVID-19</measure>
+    <time_frame>Through Day 365 Post Study Vaccination</time_frame>
+    <description>Efficacy measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of COVID-19 Requiring Hospitalization</measure>
+    <time_frame>Through Day 365 Post Study Vaccination</time_frame>
+    <description>Efficacy measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Anti-SARS-CoV-2 Antibody Levels at Day 30</measure>
+    <time_frame>Baseline (Day 0, Prior to Study Vaccination),Day 30 After Study Vaccination</time_frame>
+    <description>Efficacy measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in SARS-CoV-2 Antibody Levels</measure>
+    <time_frame>From Baseline (Day 0, Prior to Study Vaccination) to Day 365 Post Study Vaccination</time_frame>
+    <description>Efficacy measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold Increase in SARS-CoV-2 Antibody Levels: Limited to Participants With Detectable Antibody Levels at Baseline (Day 0)</measure>
+    <time_frame>Baseline (Day 0, Prior to Receipt of COVID-19 Study Vaccination), Day 30 After Study Vaccination</time_frame>
+    <description>Efficacy measure after receipt of the study's COVID-19 mRNA vaccine.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Kidney Transplant Recipients</condition>
+  <condition>Liver Transplant Recipients</condition>
+  <arm_group>
+    <arm_group_label>Pfizer-BioNTech Bivalent COVID-19 Vaccine + SOC IS Regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a study dose (1 dose) of the Pfizer-BioNTech Bivalent COVID-19 vaccine and will continue to take their standard of care transplant immunosuppressive medications without alterations in schedule and dosing.&#xD;
+SOC IS: Standard of Care transplant immunosuppression regimen</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pfizer-BioNTech Bivalent COVID-19 Vaccine +SOC IS Reduction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive an additional dose (1 dose) of the Pfizer-BioNTech Bivalent COVID-19 vaccine, with concurrent reduction of their standard of care transplant immunosuppression regimen (IS), per protocol.&#xD;
+SOC IS Reduction: Standard of Care transplant immunosuppression regimen reduction, per protocol</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderna Bivalent COVID-19 Vaccine + SOC IS Regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive an additional dose (1 dose) of the Moderna COVID-19 Vaccine and will continue to take their standard of care transplant immunosuppressive medications without alterations in schedule and dosing.&#xD;
+SOC IS: Standard of Care transplant immunosuppression regimen</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderna Bivalent COVID-19 Vaccine +SOC IS Reduction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a study dose (1 dose) of the Moderna Bivalent COVID-19 vaccine, with concurrent reduction of their standard of care transplant immunosuppression regimen (IS), per protocol.&#xD;
+SOC IS Reduction: Standard of Care transplant immunosuppression regimen reduction, per protocol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pfizer-BioNTech Bivalent COVID-19 Vaccine</intervention_name>
+    <description>Administration: One dose administered intramuscularly.</description>
+    <arm_group_label>Pfizer-BioNTech Bivalent COVID-19 Vaccine + SOC IS Regimen</arm_group_label>
+    <arm_group_label>Pfizer-BioNTech Bivalent COVID-19 Vaccine +SOC IS Reduction</arm_group_label>
+    <other_name>mRNA COVID-19 vaccine</other_name>
+    <other_name>BNT162b2 mRNA COVID-19 vaccine</other_name>
+    <other_name>SARS-CoV-2 RNA vaccine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Moderna Bivalent COVID-19 Vaccine</intervention_name>
+    <description>Administration: One dose administered intramuscularly.</description>
+    <arm_group_label>Moderna Bivalent COVID-19 Vaccine + SOC IS Regimen</arm_group_label>
+    <arm_group_label>Moderna Bivalent COVID-19 Vaccine +SOC IS Reduction</arm_group_label>
+    <other_name>mRNA COVID-19 vaccine</other_name>
+    <other_name>Moderna COVID-19 vaccine</other_name>
+    <other_name>SARS-CoV-2 vaccine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SOC IS Regimen</intervention_name>
+    <description>Participants will continue to take their prescribed immunosuppression (IS) medications without alterations in schedule and dosing, per protocol instruction.</description>
+    <arm_group_label>Moderna Bivalent COVID-19 Vaccine + SOC IS Regimen</arm_group_label>
+    <arm_group_label>Pfizer-BioNTech Bivalent COVID-19 Vaccine + SOC IS Regimen</arm_group_label>
+    <other_name>Standard of Care transplant immunosuppression regimen</other_name>
+    <other_name>Immunosuppression (IS)</other_name>
+    <other_name>mycophenolate mofetil (MMF) or equivalent</other_name>
+    <other_name>tacrolimus</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SOC IS Reduction</intervention_name>
+    <description>Participants will reduce their standard of care immunosuppression medications (IS) before and after the COVID-19 vaccine booster (1 dose), per protocol instruction.</description>
+    <arm_group_label>Moderna Bivalent COVID-19 Vaccine +SOC IS Reduction</arm_group_label>
+    <arm_group_label>Pfizer-BioNTech Bivalent COVID-19 Vaccine +SOC IS Reduction</arm_group_label>
+    <other_name>Standard of Care (SOC) transplant immunosuppression regimen</other_name>
+    <other_name>Immunosuppression (IS) Reduction</other_name>
+    <other_name>mycophenolate mofetil (MMF) or equivalent</other_name>
+    <other_name>tacrolimus</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Individuals who meet all the following criteria are eligible for enrollment as study&#xD;
+        participants-&#xD;
+&#xD;
+          1. Able to understand and provide informed consent&#xD;
+&#xD;
+          2. Individual ≥18 years of age.&#xD;
+&#xD;
+          3. Recipient of a kidney or liver transplant ≥12 months prior to enrollment, without&#xD;
+             allograft rejection in the 6 months preceding enrollment&#xD;
+&#xD;
+          4. Negative for anti-donor human leukocyte antigens (HLA) antibodies at screening&#xD;
+             (Central Lab Test Determination).&#xD;
+&#xD;
+          5. Currently taking one of the following tacrolimus-based immunosuppressive regimens:&#xD;
+&#xD;
+               -  Tacrolimus plus Mycophenolate Mofetil (MMF) or Mycophenolic Acid (MPA), with or&#xD;
+                  without a corticosteroid&#xD;
+&#xD;
+               -  Tacrolimus with trough ≥ 5ng/mL with or without ≤5 mg of prednisone or equivalent&#xD;
+&#xD;
+          6. Received a minimum of 3 doses of either the Moderna coronavirus infectious disease 19&#xD;
+             (COVID-19) vaccine or Pfizer-BioNTech COVID-19 vaccine&#xD;
+&#xD;
+          7. Participant must be ≥ 60 days after completion of primary vaccination or receipt of&#xD;
+             the most recent booster dose with any authorized or approved monovalent COVID-19&#xD;
+             vaccine at the time of study vaccine.&#xD;
+&#xD;
+          8. Serum antibody negative or low (titer ≤ 2500 U/mL) at ≥ 30 days from the last dose of&#xD;
+             mRNA COVID-19 vaccine and ≥ 30 days following receipt of a monoclonal antibody product&#xD;
+             or convalescent plasma for COVID-19, measured using the Roche Elecsys® anti-SARS-CoV-2&#xD;
+             S assay.&#xD;
+&#xD;
+          9. Participant's transplant physician or midlevel practitioner who is clinically licensed&#xD;
+             to prescribe and manage immunosuppression must confirm the participant's eligibility&#xD;
+             based on medical history.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Individuals who meet any of these criteria are not eligible for enrollment as study&#xD;
+        participants-&#xD;
+&#xD;
+          1. Currently on an immunosuppressive regimen different from the three regimens described&#xD;
+             in the Inclusion Criteria, for example (but not limited to) those including sirolimus,&#xD;
+             everolimus, belatacept, or azathioprine&#xD;
+&#xD;
+          2. Recipient of any allograft other than a kidney or liver&#xD;
+&#xD;
+          3. Participant is pregnant&#xD;
+&#xD;
+          4. Any past history of Donor Specific Antibody (DSA) using local site standards&#xD;
+&#xD;
+          5. Prior receipt of the Moderna Bivalent COVID-19 Vaccine or Pfizer-BioNTech Bivalent&#xD;
+             COVID-19 Vaccine.&#xD;
+&#xD;
+          6. Currently taking any systemic immunosuppressive agent, other than their prescribed&#xD;
+             transplant immunosuppression&#xD;
+&#xD;
+          7. Known history of severe allergic reaction to any component of an authorized or&#xD;
+             licensed COVID-19 vaccine&#xD;
+&#xD;
+          8. Thrombotic events, myocarditis, or pericarditis temporally associated with a prior&#xD;
+             dose of COVID-19 vaccine&#xD;
+&#xD;
+          9. History of heparin-induced thrombocytopenia&#xD;
+&#xD;
+         10. Any change in transplant immunosuppression regimen (drug or dose) in response to&#xD;
+             suspected or proven rejection within the last 6 months&#xD;
+&#xD;
+         11. More than minimal graft dysfunction, in accordance with study definition&#xD;
+&#xD;
+         12. Receipt of any cellular depleting agent (e.g. antithymocyte globulins (ATG),&#xD;
+             rituximab, alemtuzumab, Cyclophosphamide) within 12 months preceding enrollment&#xD;
+&#xD;
+         13. Concurrent autoimmune disease at risk for exacerbation with immunosuppression&#xD;
+             reduction&#xD;
+&#xD;
+         14. Any untreated active infection including BK viremia &gt;10^4 copies&#xD;
+&#xD;
+         15. Infection with human immunodeficiency virus (HIV)&#xD;
+&#xD;
+         16. Recent (within one year) or ongoing treatment for malignancy with the exception of:&#xD;
+&#xD;
+               -  Non- melanomatous skin cancer definitively treated by local therapy, and&#xD;
+&#xD;
+               -  Definitively treated carcinoma-in-situ of the cervix (Stage 0 cervical cancer)&#xD;
+&#xD;
+         17. Treatment or prophylaxis of COVID-19 with a monoclonal antibody product or&#xD;
+             convalescent plasma within 6 months preceding enrollment, or&#xD;
+&#xD;
+         18. Any past or current medical problems, treatments, or findings which, in the opinion of&#xD;
+             the investigator, may:&#xD;
+&#xD;
+               -  pose additional risks from participation in the study,&#xD;
+&#xD;
+               -  interfere with the candidate's ability to comply with study requirements, or&#xD;
+&#xD;
+               -  impact the quality or interpretation of the data obtained from the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorry L. Segev, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Transplant Surgery, Johns Hopkins University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter S. Heeger, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Translational Transplant Research Center, Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Christian P. Larsen, MD, DPhil</last_name>
+    <role>Study Chair</role>
+    <affiliation>Emory Transplant Center, Emory University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California, San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeff Mills</last_name>
+      <phone>619-786-2854</phone>
+      <email>jhmills@health.ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Saima Aslam, MBBS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco Health</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meena Pamula</last_name>
+      <phone>415-476-4862</phone>
+      <email>meenakshi.pamula@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Monica Fung, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Healthcare</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Ferry</last_name>
+      <phone>404-712-1816</phone>
+      <email>Elizabeth.ferry@emoryhealthcare.org</email>
+    </contact>
+    <investigator>
+      <last_name>Stephanie M. Pouch, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois Health</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amr Elfert</last_name>
+      <phone>312-355-1914</phone>
+      <email>aelfert@uic.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Scott A. Borgetti, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debra Pfab</last_name>
+      <phone>319-356-4848</phone>
+      <email>recruitvaccineres@healthcare.uiowa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Dilek Ince, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Health</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katherine Downs</last_name>
+      <phone>866-624-7637</phone>
+      <email>Idresearch@ochsner.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan M. Hand, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Institute for Clinical and Translational Research: Broadway Adult Outpatient Clinical Research Unit</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maggie Chahoud</last_name>
+      <phone>860-810-6019</phone>
+      <email>mchahou1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>William A. Werbel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Transplant Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Perry Hotchkis</last_name>
+      <email>Perry.Hotchkis@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Henry Neuman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mt. Sinai Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gina Carrara</last_name>
+      <phone>212-659-8046</phone>
+      <email>Gina.Carrara@mountsinai.org</email>
+    </contact>
+    <investigator>
+      <last_name>Meena M. Rana, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Salsgiver</last_name>
+      <phone>212-746-4089</phone>
+      <email>els7021@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Catherine Small, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maryann Najdzinowicz</last_name>
+      <phone>215-662-4007</phone>
+      <email>maryann.najdzinowicz@pennmedicine.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Emily Blumberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kailey Hughes</last_name>
+      <phone>412-648-6453</phone>
+      <email>hugheskl4@upmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ghady Haidar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Darrel Cleere</last_name>
+      <phone>713-441-6232</phone>
+      <email>dwcleere@houstonmethodist.org</email>
+    </contact>
+    <investigator>
+      <last_name>Osama Gaber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin-Madison</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kaelin Grant</last_name>
+      <email>SurgeryResearch@surgery.wisc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jacqueline Garonzik-Wang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.niaid.nih.gov/</url>
+    <description>National Institute of Allergy and Infectious Diseases</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/about/dait</url>
+    <description>Division of Allergy, Immunology, and Transplantation</description>
+  </link>
+  <reference>
+    <citation>Werbel WA, Boyarsky BJ, Ou MT, Massie AB, Tobian AAR, Garonzik-Wang JM, Segev DL. Safety and Immunogenicity of a Third Dose of SARS-CoV-2 Vaccine in Solid Organ Transplant Recipients: A Case Series. Ann Intern Med. 2021 Sep;174(9):1330-1332. doi: 10.7326/L21-0282. Epub 2021 Jun 15. No abstract available.</citation>
+    <PMID>34125572</PMID>
+  </reference>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>October 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mRNA COVID-19 vaccines</keyword>
+  <keyword>SARS-CoV-2 antibody response</keyword>
+  <keyword>immunosuppression (IS)</keyword>
+  <keyword>coronavirus infectious disease 19</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>severe acute respiratory syndrome coronavirus type 2</keyword>
+  <keyword>SARS-CoV-2 protection</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mycophenolic Acid</mesh_term>
+    <mesh_term>Vaccines</mesh_term>
+    <mesh_term>Tacrolimus</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The plan is to share data upon completion of the study in: Immunology Database and Analysis Portal (ImmPort), a long-term archive of clinical and mechanistic data from DAIT-funded grants and contracts.</ipd_description>
+    <ipd_time_frame>On average, within 24 months after database lock for the trial.</ipd_time_frame>
+    <ipd_access_criteria>Open access.</ipd_access_criteria>
+    <ipd_url>https://www.immport.org/home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

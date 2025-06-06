@@ -1,0 +1,482 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625087</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UC-GMP-2206</org_study_id>
+    <secondary_id>EU CT</secondary_id>
+    <nct_id>NCT05625087</nct_id>
+  </id_info>
+  <brief_title>Detection of Tumor DNA in the Blood of Patients Receiving Standard Therapy for Hormone Receptor-positive (HR+) Non-HER2 Expressing (HER2-) Metastatic Breast Cancer as a Tool to Select Those Who May Benefit From the Next Course of Fulvestrant in Combination With Alpelisib or Ribociclib</brief_title>
+  <acronym>SAFIR 03</acronym>
+  <official_title>A ctDNA Screening Program in Patients With HR+, HER2- Metastatic Breast Cancer for Detection of High-risk Relapse Patients on Any CDK4/6 Inhibitor and a Randomised Phase II Study Comparing Alpelisib Combined With Fulvestrant to Ribociclib Combined With Fulvestrant, in Patients With Persistent Targetable PIK3CA Mutations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNICANCER</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Breast Cancer Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UNICANCER</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      After an initial screening phase (SAFIR 03 - SCREENING) to identify patients with blood&#xD;
+      circulating mutated-PIK3CA tumours persistent, patients will be enrolled in the treatment&#xD;
+      phase of SAFIR 03 (SAFIR 03 - ARRIBA) that was designed as a randomised, open-label,&#xD;
+      multicentre, phase II study, for comparison of alpelisib to ribociclib in combination with&#xD;
+      fulvestrant (as the continuation of the CDK4/6 inhibitor-fulvestrant strategy) in terms of&#xD;
+      progression-free survival (PFS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INDICATION The population eligible to the screening phase is composed of all women or men&#xD;
+      with HR+, HER2- metastatic breast cancer who are eligible for first-line treatment with a&#xD;
+      cyclin-dependent kinases (CDK) 4/6 inhibitor combined with fulvestrant (and a luteinizing&#xD;
+      hormone realeasing hormone (LH-RH) analogue in men and premenopausal women) in the context of&#xD;
+      the standard healthcare management. The screening will identify patients with high risk of&#xD;
+      relapse on any CDK4/6 inhibitor thanks to ctDNA kinetic between baseline and 4 weeks of&#xD;
+      treatment. The purpose is to early adapt the therapeutic intervention for ctDNA no drop&#xD;
+      patient to prevent from relapse. This study will propose an intervention for PIK3CA mutated&#xD;
+      patients with alpelisib vs. ribociclib. Other therapeutic approaches might be proposed to&#xD;
+      patients with wild type PIK3CA through other protocols.&#xD;
+&#xD;
+      The randomised study phase will include patients with persistent mutations on exons 4, 9 or&#xD;
+      20* of PIK3CA ctDNA after 4 weeks of treatment with any CDK4/6 inhibitor-fulvestrant in&#xD;
+      first-line setting.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">June 2030</completion_date>
+  <primary_completion_date type="Anticipated">July 2028</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>After an initial screening phase (SAFIR 03 - SCREENING) to identify patients with blood circulating mutated-PIK3CA tumours persistent, patients will be enrolled in the treatment phase of SAFIR 03 (SAFIR 03 - ARRIBA) that was designed as a randomised, open-label, multicentre, phase II study, for comparison of alpelisib to ribociclib in combination with fulvestrant (as the continuation of the CDK4/6 inhibitor-fulvestrant strategy)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-Free Survival in the study groups</measure>
+    <time_frame>From randomization to disease progression or death, up to 5 years</time_frame>
+    <description>The PFS is the length of time during and after the treatment of a disease that a patient lives with the disease but it does not get worse.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival in the study groups</measure>
+    <time_frame>From randomization to death, up to 5 years</time_frame>
+    <description>Overall survival (OS) is the length of time from randomization that patients enrolled in the study are still alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response Rate (ORR) in the study groups</measure>
+    <time_frame>5 years</time_frame>
+    <description>Objective response rate (ORR) is the percentage of patients with a best response during treatment being either complete response (CR) or partial response (PR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response in the study groups</measure>
+    <time_frame>5 years</time_frame>
+    <description>Duration of response (DoR) is defined as the time interval from the date of first documented CR or PR to the date of first documented disease progression or death, from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate in the study groups</measure>
+    <time_frame>5 years</time_frame>
+    <description>Clinical benefit rate (CBR) is defined as the proportion of patients with a best overall response of CR, PR, or stable disease during treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response in the study groups</measure>
+    <time_frame>From randomization to death, up to 5 years</time_frame>
+    <description>Time to response (TTR) is defined, for subjects with an objective response (OR), as the time from randomisation to the first documentation of OR which is subsequently confirmed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To validate that randomised patients with residual PIK3CA on ctDNA present a poor outcome compare to non-randomised patient</measure>
+    <time_frame>From the date of initiation of standard of care to death, up to 5 years</time_frame>
+    <description>For this outcome, PFS is defined as the time interval between the date of initiation of standard of care to the date of the first documented disease progression or death, whatever the cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety in each study groups.</measure>
+    <time_frame>Throughout study completion, up to 5 years</time_frame>
+    <description>The National Cancer Institute-Common Terminology Criteria for Adverse Events version 5 (NCI-CTCAE v5) is widely accepted in the community of oncology research as the leading rating scale for adverse events. This scale, divided into 5 grades (1 = &quot;mild&quot;, 2 = &quot;moderate&quot;, 3 = &quot;severe&quot;, 4 = &quot;life-threatening&quot;, and 5 = &quot;death&quot;) determined by the investigator, will make it possible to assess the severity of the disorders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS) in non-randomised patients</measure>
+    <time_frame>From the date of initiation of standard of care to death of any cause, up to 5 years</time_frame>
+    <description>For non-randomised patients, OS is the length of time from the date of initiation of standard of care that patients enrolled in the study are still alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS) in non-randomised patients</measure>
+    <time_frame>From randomization to death, up to 5 years</time_frame>
+    <description>For non-randomised patients, PFS is the length of time during and after the treatment of a disease with the standard of care that a patient lives with the disease but it does not get worse.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">162</enrollment>
+  <condition>Breast Cancer Stage IV</condition>
+  <arm_group>
+    <arm_group_label>ALPELISIB ARM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral alpelisib (300 mg daily, in 28-day cycle) and fulvestrant as per standard practice. Moreover, men and premenopausal women will receive an LH-RH analogue (goserelin, leuprorelin, or triptorelin) every 28 days ±3 days, as per standard practice</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RIBOCICLIB ARM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Oral ribociclib (600 mg daily, 3 weeks on, then 1 week off treatment in 28-day cycles) and fulvestrant as per standard practice. Moreover, men and premenopausal women will receive an LH-RH analogue (goserelin, leuprorelin, or triptorelin) every 28 days ±3 days, as per standard practice.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alpelisib</intervention_name>
+    <description>Alpelisib 300 mg once daily + fulvestrant 500 mg every 28 days</description>
+    <arm_group_label>ALPELISIB ARM</arm_group_label>
+    <other_name>Fulvestrant</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ribociclib</intervention_name>
+    <description>Ribocilcib 600 mg once daily 3 weeks on/1 week off + fulvestrant 500 mg every 28 days</description>
+    <arm_group_label>RIBOCICLIB ARM</arm_group_label>
+    <other_name>Fulvestrant</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        SCREENING PHASE (SAFIR 03 - SCREENING)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient must have signed a written informed consent prior to any study-specific&#xD;
+             screening procedures (the consent form specifically for the screening phase must be&#xD;
+             signed).&#xD;
+&#xD;
+          2. Patient is ≥18 years of age.&#xD;
+&#xD;
+          3. Patient has an histologically or cytologically confirmed metastatic breast cancer.&#xD;
+&#xD;
+          4. Patient has a HER2- breast cancer (without HER2 overexpression according to the&#xD;
+             ASCO-CAP 2018 guidelines).&#xD;
+&#xD;
+          5. Patient has hormone receptor-positive (HR+) breast cancer, defined as having oestrogen&#xD;
+             receptor (ER) and/or progesterone receptor (PR) expression in ≥10% of tumour cells.&#xD;
+&#xD;
+          6. Patient had a metastatic relapse during or within 1 year after termination of the&#xD;
+             adjuvant endocrine therapy.&#xD;
+&#xD;
+          7. Patient has not yet been treated in the metastatic breast cancer setting.&#xD;
+&#xD;
+          8. Patient is eligible for a first-line treatment with a marketed CDK4/6 inhibitor&#xD;
+             (palbociclib, ribociclib, or abemaciclib) in combination with fulvestrant, according&#xD;
+             to its marketing authorisation.&#xD;
+&#xD;
+          9. Eastern Cooperative Oncology Group (ECOG) performance status is ≤1.&#xD;
+&#xD;
+         10. Patient has an adequate bone marrow and organ function.&#xD;
+&#xD;
+         11. Measurable or evaluable disease according to response evaluation criteria in solid&#xD;
+             tumors version 1.1 (RECIST v1.1).&#xD;
+&#xD;
+         12. Patients must be willing and able to comply with the protocol for the duration of the&#xD;
+             study including scheduled visits, treatment plan, laboratory tests and other study&#xD;
+             procedures.&#xD;
+&#xD;
+         13. Patient must be affiliated to the national social security (or equivalent).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Prior exposure to PIK3CA-AKT or CDK4/6 inhibitors.&#xD;
+&#xD;
+          2. Patient that has initiated the CDK4/6 inhibitor treatment.&#xD;
+&#xD;
+          3. Patient with spinal cord compression and/or symptomatic or progressive brain&#xD;
+             metastases (unless asymptomatic or treated and stable off steroids for ≥30 days before&#xD;
+             initiating the study treatment).&#xD;
+&#xD;
+          4. Participant with an established diagnosis of diabetes mellitus type I or not&#xD;
+             controlled type II (based on FG and HbA1c).&#xD;
+&#xD;
+          5. Patient unable to swallow tablets.&#xD;
+&#xD;
+          6. Patient with known hypersensitivity to any of the study treatment excipients, in&#xD;
+             particular patients with allergies to soya or peanuts.&#xD;
+&#xD;
+          7. Patients with a history of malabsorption syndrome or other condition that may&#xD;
+             interfere with enteral absorption: including but not limited to active intestine&#xD;
+             inflammation (e.g., Crohn's disease or ulcerative colitis) requiring immunosuppressive&#xD;
+             therapy.&#xD;
+&#xD;
+          8. Patient with any condition/disease for which the investigator considers that&#xD;
+             participating in the study is inappropriate or that may jeopardize treatment and&#xD;
+             protocol compliance.&#xD;
+&#xD;
+          9. Patient deprived of liberty or under the authority of a tutor.&#xD;
+&#xD;
+        RANDOMISED PHASE ( SAFIR 03 -ARRIBA)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient must have signed a written informed consent prior to any procedures for the&#xD;
+             randomised study phase (the consent form specifically for the randomised study phase&#xD;
+             must be signed).&#xD;
+&#xD;
+          2. Patient has a circulating PIK3CA level of exon 4, 9 or 20 mutant* of PIK3CA ctDNA&#xD;
+             determined by circulating tumour DNA (ctDNA) assay after 4 weeks of treatment with any&#xD;
+             CDK4/6 inhibitor combined with fulvestrant.&#xD;
+&#xD;
+          3. Patient must have discontinued CDK4/6 inhibitor (palbociclib, ribociclib, or&#xD;
+             abemaciclib) at least 7 days before randomisation.&#xD;
+&#xD;
+          4. ECOG performance status is ≤1.&#xD;
+&#xD;
+          5. Patient's life expectancy is deemed ≥3 months.&#xD;
+&#xD;
+          6. Patient has an adequate bone marrow and organ function as defined by the following&#xD;
+             laboratory values:&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥1500/mm³,&#xD;
+&#xD;
+               -  Platelet count ≥100,000/mm³,&#xD;
+&#xD;
+               -  Haemoglobin ≥9.0 g/dL,&#xD;
+&#xD;
+               -  International normalised ratio (INR) ≤1.5 (unless the participant is receiving&#xD;
+                  anticoagulants and the INR is within the therapeutic range of intended use for&#xD;
+                  that anticoagulant within 7 days prior to the first dose of study drug),&#xD;
+&#xD;
+               -  Serum creatinine ≤1.5 × upper limit of normal (ULN) or creatinine clearance ≥50&#xD;
+                  mL/min,&#xD;
+&#xD;
+               -  Total bilirubin ≤2× ULN (&lt;3 ULN with documented Gilbert's disease) or direct&#xD;
+                  bilirubin ≤ 1.5 × ULN,&#xD;
+&#xD;
+               -  aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤2.5 × ULN,&#xD;
+                  or &lt;5.0 x ULN if patient has liver metastasis,&#xD;
+&#xD;
+               -  Fasting Serum amylase ≤ 2 × ULN,&#xD;
+&#xD;
+               -  Fasting Serum lipase ≤ ULN,&#xD;
+&#xD;
+               -  Fasting plasma glucose (FPG) ≤140 mg/dL (or ≤7.7 mmol/L) and glycosylated&#xD;
+                  haemoglobin (HbA1c) ≤6.4%.&#xD;
+&#xD;
+          7. Participant must have the following laboratory values within normal limits or&#xD;
+             corrected to within normal limits with supplements before randomisation&#xD;
+&#xD;
+               -  Potassium&#xD;
+&#xD;
+               -  Magnesium&#xD;
+&#xD;
+               -  Total Calcium (corrected for serum albumin)&#xD;
+&#xD;
+          8. Patient with parameters of standard 12-lead ECG (defined as the mean of triplicate&#xD;
+             ECGs performed) as follows, before randomisation:&#xD;
+&#xD;
+               -  QTcF interval &lt;450ms (using Fridericia's correction),&#xD;
+&#xD;
+               -  Resting heart rate between 50-90 bpm.&#xD;
+&#xD;
+          9. Women of childbearing potential must have a negative serum pregnancy test result&#xD;
+             within 14 days of enrolment in the randomised trial phase.&#xD;
+&#xD;
+         10. Men or Women of childbearing potential must agree to the use of effective&#xD;
+             contraceptive for the study duration and for at least 2 year after the last dose of&#xD;
+             study treatment for women, and at least 21 days for men.&#xD;
+&#xD;
+         11. Patients must be willing and able to comply with the protocol for the duration of the&#xD;
+             study including scheduled visits, treatment plan, laboratory tests and other study&#xD;
+             procedures.&#xD;
+&#xD;
+               -  Also numbered exon 5, 10 and 21 according to recent classification: Ensembl&#xD;
+                  Transcript ID: ENST00000263967.4, RefSeq: NM_006218.4.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patient is eligible to chemotherapy because of visceral crisis.&#xD;
+&#xD;
+          2. Pregnant or lactating women.&#xD;
+&#xD;
+          3. Patient has received more than 2 cycles of the ongoing CDK4/6 inhibitor treatment&#xD;
+             combined with fulvestrant before randomisation.&#xD;
+&#xD;
+          4. Patient has interrupted the ongoing CDK4/6 inhibitor treatment for more than 14 days&#xD;
+             before randomisation.&#xD;
+&#xD;
+          5. Patient has evidence of clinical or radiological disease progression before&#xD;
+             randomisation.&#xD;
+&#xD;
+          6. Patient has unresolved adverse events (grade ≥1), except alopecia and grade ≥2&#xD;
+             unresolved adverse events related to fulvestrant or the LH-RH analogue which are&#xD;
+             acceptable to randomisation.&#xD;
+&#xD;
+          7. Patient is considered at high medical risk because of severe or uncontrolled systemic&#xD;
+             disease, including but not limited to diabetes mellitus, clinically significant&#xD;
+             pulmonary disease, clinically significant neurological disorder, chronic pancreatitis,&#xD;
+             chronic active hepatitis, active untreated/uncontrolled fungal, bacterial, or viral&#xD;
+             infections, as well as known active viral infections with hepatitis B, hepatitis C, or&#xD;
+             human immunodeficiency virus (HIV).&#xD;
+&#xD;
+          8. Participant has currently documented pneumonitis/interstitial lung disease (the chest&#xD;
+             CT scan performed before start of study treatment for the purpose of tumour assessment&#xD;
+             should be reviewed to confirm that there are no relevant pulmonary complications&#xD;
+             present).&#xD;
+&#xD;
+          9. Participant has a history of severe cutaneous reaction, such as Stevens-Johnson&#xD;
+             Syndrome (SJS), Erythema Multiforme (EM), Toxic Epidermal Necrolysis (TEN), or Drug&#xD;
+             Reaction with Eosinophilia and Systemic Symptoms (DRESS)&#xD;
+&#xD;
+         10. Participant with unresolved osteonecrosis of the jaw.&#xD;
+&#xD;
+         11. Clinically significant, uncontrolled heart disease and/or cardiac repolarization&#xD;
+             abnormalities including any of the following:&#xD;
+&#xD;
+               -  Uncontrolled hypertension,&#xD;
+&#xD;
+               -  Symptomatic congestive heart failure: New York Heart Association (NYHA) class ≥2,&#xD;
+&#xD;
+               -  Unstable angina pectoris,&#xD;
+&#xD;
+               -  Stroke or myocardial infarction within the 6 months before randomisation,&#xD;
+&#xD;
+               -  Serious cardiac arrhythmia requiring treatment, except treated atrial&#xD;
+                  fibrillation and paroxysmal supraventricular tachycardia, or conduction&#xD;
+                  abnormality for which the patient is no longer at risk of serious arrhythmia&#xD;
+                  (e.g., Patient with Wolff-Parkinson-White syndrome treated with surgical&#xD;
+                  ablation),&#xD;
+&#xD;
+               -  Left ventricular ejection fraction (LVEF) &lt;50% by multiple gated acquisition&#xD;
+                  (MUGA) scan or echocardiogram (ECHO) before randomisation.&#xD;
+&#xD;
+               -  Long QT syndrome or family history of idiopathic sudden death or congenital long&#xD;
+                  QT syndrome, or any of the following before randomisation:&#xD;
+&#xD;
+                    -  Presence of risk factors for Torsades de Pointe, including uncorrected&#xD;
+                       hypokalaemia or hypomagnesemia, history of cardiac failure, or history of&#xD;
+                       clinically significant/symptomatic bradycardia,&#xD;
+&#xD;
+                    -  Concomitant use of medication(s) known to prolong the QT interval and/or&#xD;
+                       known to cause Torsades de Pointe that cannot be discontinued (within 5&#xD;
+                       half-lives or 7 days prior to initiating the study treatment) or cannot be&#xD;
+                       replaced by a safe alternative,&#xD;
+&#xD;
+                    -  Unable to determine the QTcF (using Fridericia's correction),&#xD;
+&#xD;
+               -  Systolic blood pressure (SBP) &gt;160 mmHg or &lt;90 mmHg.&#xD;
+&#xD;
+         12. Patient who has received radiotherapy ≤4 weeks or limited field radiation for&#xD;
+             palliation ≤2 weeks prior to starting study drug, or who has not recovered to grade 1&#xD;
+             or better from related side effects of such therapy (exceptions include alopecia)&#xD;
+             and/or in whom ≥ 25% of the bone marrow was irradiated&#xD;
+&#xD;
+         13. Patient is currently consuming any of the following foods, supplements, herbal&#xD;
+             preparations or medications that cannot be discontinued within 7 days of initiating&#xD;
+             the study treatment:&#xD;
+&#xD;
+               -  Known strong inducers or inhibitors of CYP3A4/5 (including grapefruits),&#xD;
+&#xD;
+               -  Medications predominantly metabolised through CYP3A4/5, with a narrow therapeutic&#xD;
+                  window,&#xD;
+&#xD;
+         14. Patient has known hypersensitivity to any of the study treatment excipients, in&#xD;
+             particular patients with allergies to soya or peanuts.&#xD;
+&#xD;
+         15. Patient is or plans to participate in another interventional therapeutic clinical&#xD;
+             trial. Concurrent participation in an observational study is acceptable.&#xD;
+&#xD;
+         16. Patient has malignancies, other than that under study, except for adequately treated&#xD;
+             cone-biopsied in situ carcinoma of the cervix and basal or squamous cell carcinoma of&#xD;
+             the skin. Cancer survivors, who have undergone potentially curative therapy for a&#xD;
+             prior malignancy, with no evidence of relapse/recurrence within ≥5 years, and at&#xD;
+             negligible risk for recurrence are eligible for the study.&#xD;
+&#xD;
+         17. Patient has any condition/disease, for which the investigator considers that&#xD;
+             participating in the trial is inappropriate or that may jeopardize treatment and&#xD;
+             protocol compliance.&#xD;
+&#xD;
+         18. Patient deprived of liberty or under the authority of a tutor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fabrice ANDRE</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gustave Roussy, Cancer Campus, Grand Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fabrice ANDRE</last_name>
+    <phone>+33 (0)1 42 11 43 71</phone>
+    <email>fabrice.andre@gustaveroussy.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>François LEGRAND</last_name>
+    <email>safir03@unicancer.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>March 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>metastatic Breast Cancer</keyword>
+  <keyword>HER2-</keyword>
+  <keyword>RH+</keyword>
+  <keyword>PIK3CA mutated</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fulvestrant</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

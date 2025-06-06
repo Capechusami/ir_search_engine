@@ -1,0 +1,645 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05074420</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18253</org_study_id>
+    <secondary_id>I4V-MC-KHAB</secondary_id>
+    <secondary_id>2021-001338-21</secondary_id>
+    <nct_id>NCT05074420</nct_id>
+  </id_info>
+  <brief_title>A Study of Baricitinib (LY3009104) in Children With COVID-19</brief_title>
+  <acronym>COV-BARRIER</acronym>
+  <official_title>A Multicenter, Open-Label, Pharmacokinetic and Safety Study of Baricitinib in Pediatric Patients From 1 Year to Less Than 18 Years Old Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose for this study is to determine if the study drug baricitinib is effective and&#xD;
+      safe in hospitalized pediatric participants with Coronavirus disease 2019 (COVID -19) and to&#xD;
+      confirm the dose.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 21, 2021</start_date>
+  <completion_date type="Anticipated">August 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 14, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK): Area Under Concentration Curve (AUC) of Baricitinib</measure>
+    <time_frame>Day 1 and Day 4</time_frame>
+    <description>PK: AUC of Baricitinib in pediatric participants with COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK: Maximum Concentration (Cmax) of Baricitinib</measure>
+    <time_frame>Day 1 and Day 4</time_frame>
+    <description>PK: Cmax of Baricitinib in pediatric participants with COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Require Noninvasive Ventilation/high-flow oxygen or Invasive Mechanical Ventilation (including extracorporeal membrane oxygenation [ECMO])</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Percentage of participants who require noninvasive ventilation/high-flow oxygen or invasive mechanical ventilation (including ECMO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Die or Require Non-Invasive Ventilation/High-Flow Oxygen or Invasive Mechanical Ventilation (including ECMO)</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Percentage of Participants who Die or Require Non-Invasive Ventilation/High-Flow Oxygen or Invasive Mechanical Ventilation (including ECMO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with at Least 1-Point Improvement on National Institute of Allergy and Infectious Diseases Ordinal Scale (NIAID-OS) or Live Discharge from Hospital</measure>
+    <time_frame>Day 4, Day 7, Day 10, Day 14, and Day 28</time_frame>
+    <description>Percentage of Participants with at Least 1-Point Improvement on NIAID-OS or Live Discharge from Hospital. The NIAID-OS scale ranges from 1 - 8 (worse outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Ventilator-Free Days</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Number of Ventilator-Free Days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Recovery</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Recovery assessed by the NIAID-OS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall improvement on the NIAID-OS</measure>
+    <time_frame>Day 4, Day 7, Day 10, Day 14, and Day 28</time_frame>
+    <description>Overall improvement on the NIAID-OS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Duration of Hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality</measure>
+    <time_frame>Day 1 to Day 28 and Day 60</time_frame>
+    <description>All-Cause Mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Stay in the Intensive Care Unit (ICU) in Days</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Duration of Stay in the ICU in Days</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Baricitinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Baricitinib given orally to participants daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Baricitinib</intervention_name>
+    <description>Given Orally</description>
+    <arm_group_label>Baricitinib</arm_group_label>
+    <other_name>LY3009104</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized with coronavirus (SARS-CoV-2) infection.&#xD;
+&#xD;
+          -  Male or female participants from 1 to &lt;18 years of age.&#xD;
+&#xD;
+          -  Requires supplemental oxygen and have chest imaging findings to confirm respiratory&#xD;
+             disease due to COVID-19 within 72 hours of study entry and enrollment.&#xD;
+&#xD;
+          -  Supplemental oxygen including but not limited to: nasal cannula, mask, high flow&#xD;
+             devices, CPAP/BiPAP, invasive mechanical ventilation as well as ECMO.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Are receiving biologic treatments (such as Tumor Necrosis Factor [TNF] inhibitors,&#xD;
+             interleukin inhibitors, T-cell or B-cell targeted therapies, interferon, or Janus&#xD;
+             kinase (JAK) inhibitors); or are receiving other immunosuppressants such that, in the&#xD;
+             opinion of the investigator, participating in the study would put the participant at&#xD;
+             an unacceptable risk of immunosuppression.&#xD;
+&#xD;
+        Note: A washout period is required prior to screening.&#xD;
+&#xD;
+          -  Are receiving strong inhibitors of Organic Anion Transporter 3 (OAT3) (such as&#xD;
+             probenecid) that cannot be discontinued at study entry.&#xD;
+&#xD;
+          -  Have diagnosis of current active tuberculosis (TB) or, if known, latent TB treated for&#xD;
+             less than 4 weeks with appropriate anti-tuberculosis therapy per local guidelines (by&#xD;
+             history only, no screening tests required).&#xD;
+&#xD;
+          -  Suspected serious, active bacterial, fungal, viral, or other infection (besides&#xD;
+             COVID-19) that in the opinion of the investigator could constitute a risk when taking&#xD;
+             investigational product.&#xD;
+&#xD;
+          -  Have received any live vaccine within 4 weeks before screening, or intend to receive a&#xD;
+             live vaccine during the study. Note: Use of non-live (inactivated) vaccinations are&#xD;
+             allowed for all participants.&#xD;
+&#xD;
+          -  Require invasive mechanical ventilation, including extracorporeal membrane oxygenation&#xD;
+             (ECMO) at study entry.&#xD;
+&#xD;
+          -  Current diagnosis of active malignancy that, in the opinion of the investigator, could&#xD;
+             constitute a risk when taking investigational product.&#xD;
+&#xD;
+          -  Have a history of venous thromboembolism (VTE) (deep vein thrombosis [DVT] and/or&#xD;
+             pulmonary embolism [PE]) or considered high risk of VTE (DVT/PE).&#xD;
+&#xD;
+          -  Anticipated discharge from the hospital, or transfer to another hospital (or another&#xD;
+             unit), which is not a study site within 72 hours after study entry.&#xD;
+&#xD;
+          -  Have neutropenia (absolute neutrophil count &lt;1000 cells/microliters).&#xD;
+&#xD;
+          -  Have lymphopenia (absolute lymphocyte count &lt;200 cells/microliters).&#xD;
+&#xD;
+          -  Have alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt;5 times&#xD;
+             AAULN.&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) (Modification of Diet in Renal Disease&#xD;
+             [MDRD]) &lt;40 milliliter/minute/1.73 meters squared.&#xD;
+&#xD;
+          -  Have a known hypersensitivity to baricitinib or any of its excipients.&#xD;
+&#xD;
+          -  Are currently enrolled in any other clinical study involving an investigation product&#xD;
+             or any other type of medical research judged not to be scientifically or medically&#xD;
+             compatible with this study. Note: The participant should not be enrolled (started) in&#xD;
+             another clinical trial for the treatment of COVID-19 or SARS CoV-2 through Day 28.&#xD;
+&#xD;
+          -  Are pregnant, or intend to become pregnant or breastfeed during the study.&#xD;
+&#xD;
+          -  Are, in the opinion of the investigator or sponsor, at risk of immunosuppression or&#xD;
+             otherwise unsuitable for inclusion in the study.&#xD;
+&#xD;
+          -  Are using or will use extracorporeal blood purification (EBP) device to remove&#xD;
+             proinflammatory cytokines from the blood such as a cytokine absorption or filtering&#xD;
+             device, for example, CytoSorb®.&#xD;
+&#xD;
+          -  Are, in the opinion of the investigator, unlikely to survive for at least 48 hours&#xD;
+             after screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arnold Palmer Hospital for Children</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>3218417360</phone>
+    </contact>
+    <investigator>
+      <last_name>Federico Ricardo Laham</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Michigan</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jocelyn Ang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>6019845206</phone>
+    </contact>
+    <investigator>
+      <last_name>Roberto Parulan Santos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Ankita Desai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>904-236-2847</phone>
+    </contact>
+    <investigator>
+      <last_name>Lemuel Aigbivbalu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health System</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>434-924-9141</phone>
+    </contact>
+    <investigator>
+      <last_name>Debbie Shirley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MultiCare Health System</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>253-403-5279</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary Fairchok</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Regional de la Citadelle</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+32 471786358</phone>
+    </contact>
+    <investigator>
+      <last_name>Benoit FLORKIN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Eduardo Sprinz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisa Sao Lucas</name>
+      <address>
+        <city>Campinas</city>
+        <state>São Paulo</state>
+        <zip>13034-685</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>551933438511</phone>
+    </contact>
+    <investigator>
+      <last_name>Maria Patelli Juliani Souza Lima</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Pesquisa clinica de Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <state>São Paulo</state>
+        <zip>13060-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>1932670023</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Francisco Kerr Saraiva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CECIP - Centro de Estudos do Interior Paulista</name>
+      <address>
+        <city>Jaú</city>
+        <state>São Paulo</state>
+        <zip>17201130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>551436220500</phone>
+    </contact>
+    <investigator>
+      <last_name>Priscila Paulin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pesquisare Saude</name>
+      <address>
+        <city>Santo André</city>
+        <state>São Paulo</state>
+        <zip>09080-110</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>551144273339</phone>
+    </contact>
+    <investigator>
+      <last_name>Rita de Cassia Pellegrini</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Pesquisa PENSI</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>São Paulo</state>
+        <zip>01227-200</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>551121559386</phone>
+    </contact>
+    <investigator>
+      <last_name>Regina Grigolli Cesar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Pediatria</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Distrito Federal</state>
+        <zip>04530</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>5510840900</phone>
+    </contact>
+    <investigator>
+      <last_name>MIguel Angel Rodriguez Weber</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infantil de Mexico Federico Gomez</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Distrito Federal</state>
+        <zip>6720</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>5551717237</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarbelio Moreno Espinosa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0034848429896</phone>
+    </contact>
+    <investigator>
+      <last_name>Mercedes Herranz Aguirre</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0034913303553</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Tomas Ramos Amador</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0034615513222</phone>
+    </contact>
+    <investigator>
+      <last_name>PABLO ROJO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0034620780002</phone>
+    </contact>
+    <investigator>
+      <last_name>Ana Mendez-Echevarria</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Araba (HUA)- Hospital Txagorritxu</name>
+      <address>
+        <city>Vitoria-Gasteiz</city>
+        <zip>01009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0034945007374</phone>
+    </contact>
+    <investigator>
+      <last_name>Lizar Aguirre</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>India</country>
+  </removed_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/72fLdGUeljAByodL5KJkIu</url>
+    <description>A Study of Baricitinib (LY3009104) in Children With COVID-19 (COV-BARRIER-PEDS)</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>October 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>April 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and EU, whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

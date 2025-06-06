@@ -1,0 +1,555 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618028</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M23-324</org_study_id>
+    <nct_id>NCT05618028</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Adverse Events and Change in Disease Activity in Adult Participants With B-Cell Malignancies Receiving Oral ABBV-525 Tablets</brief_title>
+  <official_title>A First-in-Human Study of ABBV-525 (MALT1 Inhibitor) in B-Cell Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      B-cell malignancies are a group of cancers of B lymphocytes, a type of white blood cell&#xD;
+      responsible for fighting infections. The purpose of this study is to assess safety,&#xD;
+      tolerability, pharmacokinetics and preliminary efficacy of ABBV-525 as a monotherapy.&#xD;
+&#xD;
+      ABBV-525 is an investigational drug being developed for the treatment of B-Cell Malignancies.&#xD;
+      Study doctors put the participants in groups called treatment arms. Participants will receive&#xD;
+      ABBV-525 at different doses. Approximately 100 adult participants will be enrolled in the&#xD;
+      study across sites worldwide.&#xD;
+&#xD;
+      In part 1 (dose escalation), participants will receive escalating oral doses of ABBV-525. In&#xD;
+      part 2 (dose optimization), participants will receive one of two oral doses of ABBV-525,&#xD;
+      until the recommended phase 2 dose (RP2D) is determined. In part 3 (dose expansion),&#xD;
+      participants will receive the RP2D oral dose of ABBV-525. The estimated duration of the study&#xD;
+      is up to 64 months.&#xD;
+&#xD;
+      There may be higher treatment burden for participants in this trial compared to their&#xD;
+      standard of care. Participants will attend regular visits during the study at a hospital or&#xD;
+      clinic and may require frequent medical assessments, blood tests, and scans.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 4, 2023</start_date>
+  <completion_date type="Anticipated">July 2, 2027</completion_date>
+  <primary_completion_date type="Anticipated">July 2, 2027</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events (AE)</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant or clinical investigation participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. A serious adverse event (SAE) is defined as any untoward medical occurrence, whether associated with study drug or not, that results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, is a congenital anomaly/birth defect, or is an important medical event requiring medical or surgical intervention to prevent serious outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Dose-Limiting Toxicities (DLT)</measure>
+    <time_frame>Up to Approximately 28 Days</time_frame>
+    <description>A DLT is defined as any AE for which a clear alternative cause cannot be established (eg, attributed to the disease under study, another disease, or to a concomitant medication by the study investigators or medical monitor).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Tumor Lysis Syndrome (TLS)</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>TLS is confirmed by evaluation of electrolyte and fluid status and renal status including urine output.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinically Significant Changes From Baseline in Clinical Laboratory Parameters</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>Clinical laboratory parameters included tests of hematology, chemistry, urinalysis and prolactin. The investigator will assess the results for clinical significance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinically Significant Changes From Baseline in Vital Sign Parameters</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>Vital sign parameters included body temperature, systolic and diastolic blood pressure, pulse rate, and respiratory rate. The investigator will assess the results for clinical significance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinically Significant Changes From Baseline in Electrocardiograms (ECG)</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>A standard 12-lead ECG will be performed. The investigator will assess the results for clinical significance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax) of ABBV-525</measure>
+    <time_frame>Up to 12 Months</time_frame>
+    <description>Maximum observed plasma concentration of ABBV-525.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Cmax (Tmax) of ABBV-525</measure>
+    <time_frame>Up to 12 Months</time_frame>
+    <description>Time to Cmax of ABBV-525.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Plasma Concentration-Time Curve (AUC) of ABBV-525</measure>
+    <time_frame>Up to 12 Months</time_frame>
+    <description>Area under the plasma concentration-time curve of ABBV-525.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>ORR is defined as the percentage of participants with a best overall response (BOR) of complete response (CR)/very good partial response (VGPR)/partial response (PR) in participants receiving at least 1 dose of study drug.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>Up to Approximately 64 Months</time_frame>
+    <description>DOR is defined for participants achieving CR/VGPR/PR as the time from the initial response per Investigator review to disease progression or death of any cause, whichever occurs earlier.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Diffuse Large B-Cell Lymphoma</condition>
+  <condition>Chronic Lymphocytic Leukemia</condition>
+  <condition>B Cell Malignancies</condition>
+  <condition>Non-Hodgkin's Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>ABBV-525 Dose Escalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive escalating doses of ABBV-525 until doses for optimization are determined, as part of an approximately 64 month study period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ABBV-525 Dose Optimization</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive one of two doses of ABBV-525 until the recommended phase 2 dose (RP2D) is determined, as part of an approximately 64 month study period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ABBV-525 Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the RP2D dose of ABBV-525, as part of an approximately 64 month study period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABBV-525</intervention_name>
+    <description>Oral; Tablet</description>
+    <arm_group_label>ABBV-525 Dose Escalation</arm_group_label>
+    <arm_group_label>ABBV-525 Dose Expansion</arm_group_label>
+    <arm_group_label>ABBV-525 Dose Optimization</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Dose Escalation (Part 1) Only: Participants with a documented diagnosis of one of the&#xD;
+             following third line or later of treatment (3L)+ mature B-cell malignancies, from the&#xD;
+             World Health Organization (WHO)-defined histologies as defined in the protocol.&#xD;
+&#xD;
+          -  Dose Optimization (Part 2) Only: Participants with documented diagnosis of chronic&#xD;
+             lymphocytic leukemia (CLL) who are 3L+, +/- cysteine-to-serine point mutation at&#xD;
+             residue 481 of BTK-domain active site (C481S with histology based on WHO criteria,&#xD;
+             with measurable disease requiring treatment as defined by the International Workshop&#xD;
+             on Chronic Lymphocytic Leukemia (iwCLL).&#xD;
+&#xD;
+          -  Dose Expansion (Part 3) Only: Participants with documented diagnosis of non-germinal&#xD;
+             center B cell (GCB) Diffuse large B-cell lymphoma (DLBCL) who are 3L+ chimeric antigen&#xD;
+             receptor T-cells (CAR-T)/Hematopoietic cell transplant (HCT) relapsed/refractory (R/R)&#xD;
+             and/or ineligible with histology based on WHO criteria, with measurable disease&#xD;
+             requiring treatment.&#xD;
+&#xD;
+          -  Participant has an Eastern Cooperative Oncology Group (ECOG) Performance Status (PS)&#xD;
+             of 0 or 1.&#xD;
+&#xD;
+          -  Participant has a life expectancy &gt;= 12 weeks.&#xD;
+&#xD;
+          -  Adequate hematological and hepatic function as defined in the protocol.&#xD;
+&#xD;
+          -  Must have archival or freshly collected tumor tissue for correlative studies before&#xD;
+             study enrollment.&#xD;
+&#xD;
+          -  Participants with prior central nervous system (CNS) disease that has been effectively&#xD;
+             treated may be eligible.&#xD;
+&#xD;
+          -  Participants with resolved coronavirus disease 2019 (COVID-19) infection are eligible.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known active CNS disease, or primary CNS lymphoma.&#xD;
+&#xD;
+          -  Known bleeding disorders.&#xD;
+&#xD;
+          -  Known history of stroke or intracranial hemorrhage within 12 months prior to first&#xD;
+             dose of study treatment.&#xD;
+&#xD;
+          -  Uncontrolled active systemic infection, or active cytomegalovirus infection.&#xD;
+&#xD;
+          -  Active hepatitis B or C infection.&#xD;
+&#xD;
+          -  Known history of human immunodeficiency virus (HIV).&#xD;
+&#xD;
+          -  Known active COVID-19 infection. Participant must not have signs/symptoms associated&#xD;
+             with COVID-19 infection or known exposure to a confirmed case of COVID-19 infection&#xD;
+             during screening. If participant has signs/symptoms suggestive of COVID-19 infection,&#xD;
+             the participant must have a negative molecular (eg, polymerase chain reaction) test or&#xD;
+             3 negative antigen test results at least 24 hours apart.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ABBVIE INC.</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ABBVIE CALL CENTER</last_name>
+    <phone>844-663-3742</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Mount Sinai Medical Center-Miami Beach /ID# 248251</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140-2948</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Healthcare /ID# 246362</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207-4700</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Cancer Center Clinic /ID# 249586</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer &amp; Hematology Centers /ID# 252359</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center-Koch Center /ID# 245459</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065-6007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Ins, Carolina Me /ID# 246363</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas MD Anderson Cancer Center /ID# 245463</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research Woden /ID# 247859</name>
+      <address>
+        <city>Phillip</city>
+        <state>Australian Capital Territory</state>
+        <zip>2606</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Health /ID# 248592</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Monash University /ID# 246366</name>
+      <address>
+        <city>Clayton</city>
+        <zip>3168</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent /ID# 246462</name>
+      <address>
+        <city>Gent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Leuven /ID# 246461</name>
+      <address>
+        <city>Leuven</city>
+        <state>Vlaams-Brabant</state>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Lille - Hopital Claude Huriez /ID# 252054</name>
+      <address>
+        <city>Lille</city>
+        <state>Hauts-de-France</state>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse /ID# 252193</name>
+      <address>
+        <city>Toulouse</city>
+        <state>Occitanie</state>
+        <zip>31300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charite Universitaetsklinikum Berlin - Campus Virchow /ID# 252062</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cologne /ID# 246646</name>
+      <address>
+        <city>Cologne</city>
+        <zip>50923</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Chaim Sheba Medical Center /ID# 251442</name>
+      <address>
+        <city>Ramat Gan</city>
+        <state>Tel-Aviv</state>
+        <zip>5265601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Center-Hebrew University /ID# 251441</name>
+      <address>
+        <city>Jerusalem</city>
+        <state>Yerushalayim</state>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Vall d'Hebron /ID# 245475</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona /ID# 246543</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Catala d'Oncologia -Hospital Duran i Reynals /ID# 246537</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramon y Cajal /ID# 246540</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre /ID# 246538</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Leeds Teaching Hospitals NHS Trust /ID# 245470</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Marsden NHS Foundation Trust /ID# 250324</name>
+      <address>
+        <city>London</city>
+        <zip>SW3 6JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Israel</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.abbvieclinicaltrials.com/study/?id=M243-324</url>
+    <description>Related Info.</description>
+  </link>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>April 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diffuse Large B-Cell Lymphoma</keyword>
+  <keyword>B-cell Malignancies</keyword>
+  <keyword>Chronic Lymphocytic Leukemia</keyword>
+  <keyword>Non-Hodgkin's Lymphoma</keyword>
+  <keyword>ABBV-525</keyword>
+  <keyword>Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

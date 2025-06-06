@@ -1,0 +1,472 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05071885</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HS25163 (H2021:335)</org_study_id>
+    <nct_id>NCT05071885</nct_id>
+  </id_info>
+  <brief_title>Computer Game-based Exercise Program Targeting Manual Dexterity for People With Spinal Cord Injury or Stroke.</brief_title>
+  <official_title>Computer Game-based Exercise Program Targeting Manual Dexterity for People With Spinal Cord Injury or Stroke.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>First Steps Wellness Centre, Winnipeg</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>First Steps Wellness Centre, Regina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Manitoba</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recovery programs of the upper extremity can be extensive, for many adults with neurological&#xD;
+      disorders/injuries, including maintenance exercises that need to be done continually to&#xD;
+      maintain function and to prevent secondary disabilities. However increasing demands and&#xD;
+      shrinking funds are making it harder to meet the rehabilitation needs of Manitobans and&#xD;
+      Canadians with chronic disabilities. There is a need for innovation to improve the&#xD;
+      accessibility and engagement of rehabilitation programs for adults with upper extremity (UE)&#xD;
+      motor impairments due to spinal cord and acquired brain injuries.&#xD;
+&#xD;
+      The purpose of this research proposal is the further development and validation of a&#xD;
+      multipurpose plug-n-play rehab gaming system for use in community centers, in particular, at&#xD;
+      First Step Wellness center. It's no sleight of hand our gaming system provides a basis for&#xD;
+      repetitive, task-specific therapy focused on manual dexterity; object handling and&#xD;
+      manipulation for adults with spinal cord and acquired brain injuries. It was designed to&#xD;
+      transition engaging, highly effective and personalized rehabilitation programs to function in&#xD;
+      community centers , and with automated monitoring (tele monitoring), which to manage and&#xD;
+      progress outreach programs.&#xD;
+&#xD;
+      The gaming system consist of hardware and software components the hardware includes a&#xD;
+      low-cost, portable smart exercise manipulanduu device (EMD), with assistive technology. The&#xD;
+      EMD is designed as a HID compliant plug-n-play computer input device that emulates a standard&#xD;
+      optical computer mouse. Therefore these devices can be used with most any common/ modern&#xD;
+      computer video game that function by mouse control. Inclusion of &quot;fun&quot; gaming elements is&#xD;
+      intended to provide extra motivation for the patients in the form of a challenge and a more&#xD;
+      enjoyable means of encouraging them to follow tedious, repetitive movements that are often a&#xD;
+      part of the rehabilitation process. Therapeutic value can be derived from both the types of&#xD;
+      object manipulation tasks (use of the EMD), as well as the choice of computer games. Many&#xD;
+      inexpensive and readily available common computer games exist that require different levels&#xD;
+      of movement amplitude, speeds, accuracy repetition, cognitive enhancements, and offer&#xD;
+      sufficient diversity to appeal to a broad range of individual preferences (both children and&#xD;
+      adults).&#xD;
+&#xD;
+      A purpose-built Rehabilitation game (RTP game) has also been developed and validated. It was&#xD;
+      designed to gather event data and synchronize it with patient movements while they practice a&#xD;
+      range of game-based exercises with the hand and arm. This will provide; a) automated&#xD;
+      monitoring, assessment embedded into treatment, b) Immediate feedback to client, and c)&#xD;
+      electronic outcome measures to quantify and track client's performance over time Clinical&#xD;
+      support of outreach programs with protocols that can be easily updated will help create&#xD;
+      better-targeted and personalized solutions for patients and achieve the desired&#xD;
+      rehabilitation outcomes.&#xD;
+&#xD;
+      The innovation of this approach comes from the implementation of well-designed, yet&#xD;
+      inexpensive and easy-to-use hardware and computer software (i.e. in essence a computer mouse&#xD;
+      and a computer game). It can be judged in terms of the fact that the proposed system would&#xD;
+      provide highly effective exercise programs with embedded assessment and timely&#xD;
+      feedback/support for use in community centers and ultimately the home (tele rehabilitation).&#xD;
+      This research will contribute to the development and validation of promising, new&#xD;
+      technologies that have he capacity to become widely adopted as a viable, affordable eHealth&#xD;
+      tool that will support the quality of life and participation of Canadians living with chronic&#xD;
+      disabilities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Many adults with neuromuscular impairments affecting the upper extremity (UE) have&#xD;
+      deficits in fine motor skills [1-3]. Manual dexterity involving handling and manipulating&#xD;
+      objects is essential for many daily life activities, and social life. These activities&#xD;
+      require manipulation of objects with a wide range of physical properties and functional&#xD;
+      demands which often require a high degree of precision.&#xD;
+&#xD;
+      Constraint-induced movement therapy (CIMT [4-6]. are promising rehabilitation programs for&#xD;
+      restoration of hand-arm function. These treatment approaches stress that functional recovery&#xD;
+      reflects learning achieved through generating real experiences, applying focused attention,&#xD;
+      simulating close-to-normal movements, and repetition 12-14 Supervised task-specific therapies&#xD;
+      is preferred, but is challenging to deliver due to early discharge of patients, increasing&#xD;
+      demands for rehabilitation services by an aging population, as well as financial AND travel&#xD;
+      distance pressures. To overcome these challenges, we need feasible and cost effective methods&#xD;
+      to increase accessibility. Ideally, effective therapy programs should be made available in&#xD;
+      community centers and ultimately in patient homes.&#xD;
+&#xD;
+      In addition to increasing accessibility, there is a need to improve compliance of exercise&#xD;
+      regimes. An emerging approach to engage clients in therapy is to incorporate computer games&#xD;
+      [7-8].&#xD;
+&#xD;
+      Activities in computer games can provide a behavioral, ecologically valid, and adaptive&#xD;
+      environment. In addition they can provide immediate feedback as well as, electronic records&#xD;
+      to assess and assist in THE progression of interventions. Several gaming systems have been&#xD;
+      used in rehabilitation of the upper extremity. These include, commercial entertainment gaming&#xD;
+      systems like the Wii [9], Kinect [10], Leaps motion sensor [11], and sensor-equipped glove es&#xD;
+      [12]. These gaming systems can detect arm segment motions or finger motions-and in&#xD;
+      real-time-the motion signals are used to control the position and motion of virtual&#xD;
+      avatars/objects, or to control a game paddle for play. However, these systems are limited,&#xD;
+      because they do not target object handling and manipulation. Therefore, there is no&#xD;
+      consideration of sensory processing of skin tactile sensory information required to maintain&#xD;
+      object stability during movement, and to detect and minimize slip of the moving object [13,&#xD;
+      14]. It is crucial to create experiences that improve the brain's ability to learn, and for&#xD;
+      manual dexterity this is best achieved by performing precise object manipulation tasks&#xD;
+      through guided and assisted repetition [15].&#xD;
+&#xD;
+      Based on the above considerations a low cost computer game based rehabilitation platform was&#xD;
+      developed that combines fine manipulation and gross movement exercises with &quot;fun&quot; computer&#xD;
+      video game activities appropriate for young children and adults with acquired brain and&#xD;
+      spinal cord injuries [16-19). Finger-hand function was targeted to extend the utility beyond&#xD;
+      gross reaching or transport movements since the ability to perform manual dexterity skills&#xD;
+      with the hands is very much an integral part of everyday life.&#xD;
+&#xD;
+      Several principles of motor learning are incorporated in this game-based application [20, 21]&#xD;
+      which include goal-oriented, task-specific training of object handling and manipulation,&#xD;
+      speed-accuracy, multisensory stimulation, and implicit feedback and knowledge of performance.&#xD;
+&#xD;
+      Exercise Manipulandum Device (EMD) Most rehab exercise gaming systems are passive system and&#xD;
+      cannot provide movement assistance for patients with limited range of movement or poor&#xD;
+      movement control) speed-accuracy. Thus we have developed and pilot tested a portable,&#xD;
+      low-cost &quot;Rehabilitation Manipulandum Device&quot; (EMD). The EMD includes an integrated&#xD;
+      controller and motor to produce forces that can assist voluntary movements required during&#xD;
+      game-based exercises. Therefore, it can accommodate patients with limited movement control&#xD;
+      and those who have limited active range of motion.&#xD;
+&#xD;
+      The EMD consists of a compact, one-piece 3D printed chassis that houses the interfacing&#xD;
+      board, actuator, power train and rotary drive shaft. A variety of 3D printed &quot;therapy&quot;&#xD;
+      handles of different shapes and sizes have been produced that Snap-On to the EMD rotary drive&#xD;
+      shaft. These are designed to practice a broad range of manual dexterity skills involving (a)&#xD;
+      thumb/finger, (b) wrist (extension-flexion), (c) wrist ulnar-radial deviation, (d)&#xD;
+      pronation-supination, and (e) elbow/shoulder functions. An optical encoder records shaft&#xD;
+      rotation. The rotation of the EMD shaft (i.e., respective handle motions) precisely controls&#xD;
+      the motion of a computer cursor or game sprite of any single axis computer game. In this&#xD;
+      regard, the absolute shaft rotation angle (optical encoder signal) will be mapped to pixel&#xD;
+      coordinates on the display. An Arduino Leonardo microprocessor is used to interface the EMD&#xD;
+      with the computer and games. It is programmed to read the optical encoder and produce cursor&#xD;
+      control (full mouse emulation). The Arduino Leonardo IDE is capable of acting as a mouse via&#xD;
+      the built-in libraries. The following mouse control parameters are configurable: (a) game&#xD;
+      play orientation mouse horizontal vs vertical motion, (b) working range, ability to select&#xD;
+      any rotation angle range and map to full screen mouse position, i.e., it will be possible to&#xD;
+      select any active range of motion for exercise (e.g. from wrist neutral to 10, 20 or 30&#xD;
+      degrees of extension depending on patient needs), and (c) mouse sensitivity to adjust&#xD;
+      movement amplitude needed to move the mouse through a full display range of motion.&#xD;
+&#xD;
+      The EMD is capable of several assistive force feedback schemes. One includes a simple&#xD;
+      unidirectional force field' mode in this case a constant force is applied to the output shaft&#xD;
+      in one direction. (Magnitude and direction is configurable). For many patients, finger and&#xD;
+      writs function is more impaired in one direction of motion, for example limited finger and&#xD;
+      wrist extension. Thus inability to position and open the hand in order to grasp objects of&#xD;
+      varying diameters. These patients would benefit from the movement assistance provided by a&#xD;
+      constant force. The opposite movement direction (e.g. flexion) would receive a resistive&#xD;
+      force. A second scheme is a more advanced closed-loop, smart assistive control scheme this&#xD;
+      requires real-time communications between the EMD Arduino interface and a purpose-built RTP&#xD;
+      game [16, 17]. This is required to determine the direction and magnitude of the force&#xD;
+      required to rotate the handle and assist the user in moving the game paddle to successfully&#xD;
+      interact with the random presentation of game target objects. This context-dependent&#xD;
+      assistive mode can amplify even limited and small voluntary movements of those severely&#xD;
+      affected, while allowing opportunities for a progression of exercise with increased demand in&#xD;
+      movement requirements. Even for cases where the range of movements are slight, scaling and&#xD;
+      filtering of the closed-loop controller will allows translation into larger movements better&#xD;
+      and importantly accessible even for those with disabilities that may not have been able to&#xD;
+      take advantage of this type of system otherwise.&#xD;
+&#xD;
+      The EMD functions as a responsive USB plug and play computer mouse and this allows common and&#xD;
+      modern computer games to be used and enjoyed as part of a personalized exercise program.&#xD;
+      Inclusion of a gaming element is intended to provide extra motivation for the patients in the&#xD;
+      form of a challenge and a more enjoyable means of encouraging them to follow tedious,&#xD;
+      repetitive movements that are often a part of the rehabilitation process. Specific&#xD;
+      therapeutic value can be derived from Both the types of object manipulation tasks, as well as&#xD;
+      the choice of computer game. Different commercial games require different levels of movement&#xD;
+      amplitude, speeds, accuracy and repetition and offer sufficient diversity to appeal to a&#xD;
+      broad range of individual preferences. Updating and progressing the games and difficulty&#xD;
+      levels regularly, to sustain the challenge and provide new experiences, will facilitate the&#xD;
+      psychological feedback required to maintain interest and participation. Many&#xD;
+      commercially-available games also involve multi-tasking. Hence, the tasks also engage key&#xD;
+      attentional, perceptual, and cognitive skills. Appendix 1 shows a list and description of&#xD;
+      common computer games that have been thoroughly tested with the EMD by several patients&#xD;
+      (children with cerebral palsy and adult spinal cord injured and stroke patients).&#xD;
+&#xD;
+      Objective: To conduct an exploratory randomized clinical trial (RCT) with embedded&#xD;
+      qualitative analysis to; a) evaluate the implementation, usability and acceptability of the&#xD;
+      GAMING system for rehabilitation of manual dexterity of spinal cord and stroke clients who&#xD;
+      are attending First Step Wellness center for Cardio fitness and strength training, b) provide&#xD;
+      an estimate of the effectiveness and effect size of a 10 week intervention using the GAMING&#xD;
+      system. This will provide the information needed to direct a future full-scale RCT.&#xD;
+&#xD;
+      The clinical trial will be conducted at two &quot;sister&quot; &quot;centers 1. First Step Wellness Centre&#xD;
+      in Winnipeg Shane Hartje, Executive Director, shane@fswcwpg.ca 2, First Step Wellness Centre&#xD;
+      in Regina, Executive Director Owen Carlson., info@fswcregina.ca See letters of collaboration&#xD;
+      attached from Shane Hartje and Owen Carlson. The two centers will be provided with the EMD&#xD;
+      and 30 readily available computer video games. The EMD will include several interchangeable&#xD;
+      3D printed handles to exercise a broad range of functions, including thumb-finger and wrist&#xD;
+      motions, as well as arm movements that involve a combination of elbow and shoulder motions.&#xD;
+&#xD;
+      Anuprita Kanitkar, Post Doc fellow for this project, will conduct and coordinate the&#xD;
+      exploratory RCT on spinal cord injured clients and stroke clients attending First Step&#xD;
+      Wellness Centre in Winnipeg and will coordinate the same at Saskatchewan ( 15 clients at each&#xD;
+      site).&#xD;
+&#xD;
+      Each participant will receive two, one-hour supervised exercise sessions each week for 10&#xD;
+      weeks. The experimental group (XG) will receive; a) the experimental game-based intervention&#xD;
+      for 30 minutes, and b) their usual upper extremity range of motion and strength and exercise&#xD;
+      program, for 30 min. The active control group (CG) will receive their usual upper extremity&#xD;
+      range of motion strength exercises for the entire one-hour session.&#xD;
+&#xD;
+      We expect it will take 18 months to recruit 32 spinal cord injured and 32 stroke clients&#xD;
+      (i.e. 16 at each site.&#xD;
+&#xD;
+      In addition we would offer the game-based exercise program to participants in the CG group&#xD;
+      once they have completed their 10 week intervention.&#xD;
+&#xD;
+      Inclusion criteria will include:&#xD;
+&#xD;
+        1. Age 20-70, year&#xD;
+&#xD;
+        2. six months following a stroke or SCI Less than two hears following a stroke of SCI&#xD;
+&#xD;
+        3. Actively extend at least ten degrees at the metacarpophalangeal and interphalangeal&#xD;
+           joints, extend ten degrees at the wrist and had at least 30 degrees of active&#xD;
+           flexion-extension of the elbow and shoulder.&#xD;
+&#xD;
+        4. Adequate vision to see the required images on a standard computer monitor. E) Able to&#xD;
+           provide informed consent&#xD;
+&#xD;
+      Exclusion criteria will include:&#xD;
+&#xD;
+        1. excessive spasticity (grade three and above on the Ashworth scale) (11),&#xD;
+&#xD;
+        2. any significant cognitive impairment (Montreal Cognitive Assessment scores less than 25)&#xD;
+           (12)&#xD;
+&#xD;
+        3. Any other neurological disorder with the exception of a single stroke prior to testing.&#xD;
+&#xD;
+      The initial exercise protocol for each participant will be established based on both the&#xD;
+      individual goals, the level of impairment, and functional status. A typical session will&#xD;
+      involve; 4-5 selected object manipulation tasks, 4-5 different EMD handles, and several&#xD;
+      computer games. These tasks represent a wide range of physical properties requiring different&#xD;
+      modes of manipulation and functional demands.&#xD;
+&#xD;
+      Each EMD handle-game combination will be practiced for 2-3 minute intervals and repeated 2-3&#xD;
+      times. Participants will be instructed on how to perform the various tasks with the desired&#xD;
+      hand and arm segment motions and not to substitute them with associated movements. Computer&#xD;
+      games will be chosen based on the following game properties: a) movement amplitude required&#xD;
+      to move the game paddle, b) game speed, and c) game precision requirement. Many inexpensive&#xD;
+      arcade-style computer games are readily available online and can be downloaded from websites&#xD;
+      such as bigfishgames.com (see Appendix 5 for a list of computer games used in the present&#xD;
+      study).&#xD;
+&#xD;
+      The following features of the EMD and object manipulation tasks and types of computer games&#xD;
+      will be updated as tolerated to increase the challenge and progress the exercise program.&#xD;
+      Objects with different size shape weight and surface friction were used to increase the&#xD;
+      physical demands of the tasks. Game speed and then movement precision (size of target objects&#xD;
+      and game paddle) were increased (i.e. Speed accuracy relationship). Movement amplitude was&#xD;
+      increased by adjusting mouse sensitivity. Task difficulty will also be adjusted by increasing&#xD;
+      the assistive and resistive forces applied to the EMD handles. Progression was also achieved&#xD;
+      by using a variety of commercial computer video&#xD;
+&#xD;
+      Active control group (CG) will continue with their usual stretching, range of motion and&#xD;
+      strength training program as set out by training staff at the First Step Wellness center.&#xD;
+&#xD;
+      Quantitative Analysis The following outcome measures will be obtained pre and&#xD;
+      post-intervention&#xD;
+&#xD;
+        1. Upper extremity motor ability will be measured by the Wolf motor function test (WMFT)&#xD;
+           [22]. Participants will be asked to complete 15 tasks of the WMFT as quick as possible.&#xD;
+           The time taken to complete each task will be recorded. Movement quality of each task was&#xD;
+           also graded using an ordinal scale of 0 to 5, where 0 indicates did not perform at all,&#xD;
+           and five indicates performed with normal movement. The final WMFT scores were; (a) the&#xD;
+           total time taken for the 15 tasks and (b) The summed movement quality grades of the 15&#xD;
+           tasks.&#xD;
+&#xD;
+        2. Computer game-based Upper Extremity (CUE) assessment of manual dexterity. See references&#xD;
+           16, 17, 23 for details of the test procedures, data analysis, and reliability. The IB&#xD;
+           mouse will be secured to several test objects with different physical properties and&#xD;
+           anatomical demands. All manipulation tasks required finger-thumb or hand palmer surface&#xD;
+           contacts, and involved various combinations of precision wrist, elbow and shoulder&#xD;
+           motions... This includes rolling a cylinder and a soccer ball forward and backward;&#xD;
+           Rotating a coffee mug using pronation-supination; whole hand and 2-finger fine precision&#xD;
+           rotation tasks... The RTP software computes several performance outcome measures based&#xD;
+           on multi-event analysis procedures from the Motor Skill game module. As an example, for&#xD;
+           a game session of two minutes and with game event duration set to two seconds then there&#xD;
+           would be 60 game movement responses made by the patient 30 in each direction. For the&#xD;
+           present study outcome measure of manual dexterity will include:&#xD;
+&#xD;
+           a) Success rate or goal attainment average of several game events, b) Movement Onset&#xD;
+           Time c), magnitude of Movement Errors, d) Movement variation and consistency computed&#xD;
+           from several repeated game movement responses, and f) Others will be developed and&#xD;
+           validated over the course to the Post Doc.&#xD;
+&#xD;
+      Qualitative Analysis&#xD;
+&#xD;
+      On completion of the 10 -week exercise program, all participants will be invited to take part&#xD;
+      in an interview. The following open-ended questions will be asked of all participants, and&#xD;
+      their responses were recorded:&#xD;
+&#xD;
+        1. When you agreed to participate, how did you hope you would benefit from the therapy&#xD;
+           program?&#xD;
+&#xD;
+        2. Were there things about the game or exercise program you liked and things you did not&#xD;
+           like?&#xD;
+&#xD;
+        3. What did you think about the computer games that you were asked to play? Did you enjoy&#xD;
+           the game? Were there games that you did not enjoy?&#xD;
+&#xD;
+        4. Did you feel that this therapy program helped you?&#xD;
+&#xD;
+        5. If you were provided with the right settings, would you continue with these exercises?&#xD;
+           Participants will be encouraged to describe and explain their ideas, thoughts, opinions,&#xD;
+           and personal experiences. The analytical framework of interpretive description was used&#xD;
+           for thematic interpretation [24, 25].&#xD;
+&#xD;
+      All interviews will be audiotaped and later transcribed into a written format. Translated&#xD;
+      transcripts will be read by Anuprita Kanitkar who will the coding system by paraphrasing,&#xD;
+      generalizing, and abstracting the written transcripts of each interview. A second researcher&#xD;
+      assistant scrutinized the coded data and identified any additional unique responses and&#xD;
+      codes. The two reviewers will meet to compare their analyses and to resolve disagreements in&#xD;
+      a final code system organized into final themes and subthemes [.&#xD;
+&#xD;
+      Statistical Analysis The normality of the data will be checked using the Shapiro-Wilk test.&#xD;
+      SS S, MB W. An Analysis of Variance Test for Normality. Biometrika. 1965;67(337):52.&#xD;
+&#xD;
+      The effects of Time (pre- to post-intervention), Group (experimental and control), and&#xD;
+      Time*Group interaction on the Wolf Motor Function Test scores and CUE outcome measures will&#xD;
+      be evaluated using a mixed model ANOVA with repeated measures. The significance level will be&#xD;
+      set at 0.05 and statistical analysis will be conducted using SPSS (Version 24) (SPSS Science,&#xD;
+      Chicago).&#xD;
+&#xD;
+      A custom computer simulation will be used to calculate statistical power for the repeated&#xD;
+      measures models, with the present study data providing estimates of the treatment effect&#xD;
+      sizes. A random-intercepts linear mixed-effects model will be used and 128 datasets with&#xD;
+      randomly generated observations will be generated for each combination of sample size, number&#xD;
+      of visits, and effect size. For all simulations, the treatment allocation for experimental&#xD;
+      intervention and active control arm was assumed to be 1:1 (balanced design). Each data set&#xD;
+      will be analyzed by a linear mixed model with a group, time, and Time*Group interaction.&#xD;
+      Power will be calculated as the fraction of models with a significant (p &lt; 0.05) Time*Group&#xD;
+      interaction term which quantifies the difference in slopes between the two groups over time.&#xD;
+      SAS PROX MIXED version 9.4 will be used to perform the simulations. Significant results are&#xD;
+      adequately powered at 80% for the observed Time*Group effect sizes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2021</start_date>
+  <completion_date type="Anticipated">August 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2023</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Game-based Exercise program</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Computer game-based Upper Extremity (CUE) assessment of manual dexterity</measure>
+    <time_frame>10 weeks</time_frame>
+    <description>goal attainment average of several game events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Wolf motor function test (WMFT)</measure>
+    <time_frame>10 weeks</time_frame>
+    <description>Upper extremity motor ability</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Stroke, Spinal Cord Injury</condition>
+  <arm_group>
+    <arm_group_label>Game-based Exercise program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each exercise session would last 45 minutes and supervised by study staff at First Step Wellness center you will be shown how to handle and move the joystick and how to play a group of computer games. The game activities will require you to move the joystick at various speeds, movement' amplitudes and in different directions. Each game will be played for 2-3 minutes.&#xD;
+A variety of therapy&quot; handles of different shapes and sizes have been produced that Snap-On to joystick handle. These are designed to practice a broad range of manual dexterity skills involving the thumb, fingers, wrist and elbow, o Different games will also be used to vary the movement types and precision levels. To note you will be able to choose the types of movement exercises and games to use.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Range of motion and Strength Exercise program.</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This will involve stretching, range of motion and strength exercises as set out by training staff at the First Step Wellness center.&#xD;
+On completion of the ten week exercise program, you will be invited to take part in a 30-minute interview to discuss the experiences you had on receiving the specific hand exercise program. The whole interview session will be audio taped. Your identity will be protected and your privacy will be maintained. All the information discussed and shared during the interview will be kept confidential and safely protected.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>games based exercise</intervention_name>
+    <description>Range of motion and strengthening exercises</description>
+    <arm_group_label>Game-based Exercise program</arm_group_label>
+    <arm_group_label>Range of motion and Strength Exercise program.</arm_group_label>
+    <other_name>conventional exercise</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Inclusion criteria will include:&#xD;
+&#xD;
+               1. Age 20-70, year&#xD;
+&#xD;
+               2. six months following a stroke or SCI Less than two hears following a stroke of&#xD;
+                  SCI&#xD;
+&#xD;
+               3. Actively extend at least ten degrees at the metacarpophalangeal and&#xD;
+                  interphalangeal joints, extend ten degrees at the wrist and had at least 30&#xD;
+                  degrees of active flexion-extension of the elbow and shoulder.&#xD;
+&#xD;
+               4. Adequate vision to see the required images on a standard computer monitor. E)&#xD;
+                  Able to provide informed consent&#xD;
+&#xD;
+                  Exclusion Criteria:&#xD;
+&#xD;
+               1. excessive spasticity (grade three and above on the Ashworth scale) (11),&#xD;
+&#xD;
+               2. any significant cognitive impairment (Montreal Cognitive Assessment scores less&#xD;
+                  than 25) (12)&#xD;
+&#xD;
+               3. Any other neurological disorder with the exception of a single stroke prior to&#xD;
+                  testing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tony Szturm, PhD</last_name>
+    <phone>204 787 4794</phone>
+    <email>tony.szturm@umanitoba.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anuprita Kanitkar, PhD</last_name>
+    <phone>2048813112</phone>
+    <email>anuprita.kan@gmail.com</email>
+  </overall_contact_backup>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>September 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Spinal Cord Injuries</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

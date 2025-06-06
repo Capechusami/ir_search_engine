@@ -1,0 +1,269 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626725</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2023-1190</org_study_id>
+    <nct_id>NCT05626725</nct_id>
+  </id_info>
+  <brief_title>Safety and Effectiveness of Automated Insulin Delivery (AID) Systems in Physically Active Adults With Type 1 Diabetes</brief_title>
+  <acronym>AIDE-1</acronym>
+  <official_title>An Observational Study to Assess the Safety and Effectiveness of Automated Insulin Delivery (AID) Systems in Physically Active Adults With Type 1 Diabetes in Free-living Conditions (AIDE-1)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut de Recherches Cliniques de Montreal</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institut de Recherches Cliniques de Montreal</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Despite recent medical and technological advances, optimal glycemic control (time in range;&#xD;
+      TIR) and prevention of hypoglycemia remain significant challenges for people living with type&#xD;
+      1 diabetes (T1DM). Automated insulin delivery systems (AIDs) combine an insulin pump coupled&#xD;
+      via an algorithm with a continuous glucose monitor (CGM), allowing constant adjustment of&#xD;
+      insulin doses according to blood glucose levels. Despite the significant improvement in blood&#xD;
+      glucose parameters and quality of life with these systems, they are not available to everyone&#xD;
+      and more and more people with diabetes are resorting to home-made or do-it-yourself (DIY)&#xD;
+      systems to access this technology. DIY systems are not approved or regulated by Health&#xD;
+      Canada, despite the growing interest. There have been no studies looking at this type of&#xD;
+      system in active people living with DbT1, including the risk of exercise-induced&#xD;
+      hypoglycemia.&#xD;
+&#xD;
+      The primary objective of this study is to evaluate the safety and efficacy of IDA systems in&#xD;
+      physically active individuals living with type 1 diabetes.This is a real-life observational&#xD;
+      study in people with commercial IDA (control group) and IDA-DIY. This study includes only one&#xD;
+      inclusion visit (which may be virtual) and the observation period is 6 weeks.&#xD;
+&#xD;
+      Participants will be required to wear their own artificial pancreas system and give us access&#xD;
+      to blood glucose and insulin data at the end of the study. They will be required to wear a&#xD;
+      watch to record physical activity (FitBit). We will ask them to complete information about&#xD;
+      their diet at least twice a week for a whole day (Keenoa application).&#xD;
+&#xD;
+      Finally, participants will be asked to complete a physical activity diary to complete data&#xD;
+      (carbohydrates in prevention of activity, insulin suspension, hypoglycemia during or after&#xD;
+      exercise, etc.).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in blood glucose levels from start of exercise to nadir during or up to 30 min post exercise.</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>nadir: the lowest point on a glucose curve</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hypoglycemic events (n) 120-min before, during and 120-min after recorded structured PA sessions</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Number of hypoglycemic events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypoglycemic events (n) during (at least 15-min) of habitual PA and 30-min after</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Number of hypoglycemic events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time in range 120-min before, during and 120-min after recorded structured PA sessions</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Time (min and percentage) with glucose levels a. between 3.9 and 10.0 mmol/L; b. below 3.9 mmol/L; c. below 3.0 mmol/L; d. above 10.0 mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time in range during (at least 15-min) of habitual PA and 30-min after</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Time (min and percentage) with glucose levels a. between 3.9 and 10.0 mmol/L; b. below 3.9 mmol/L; c. below 3.0 mmol/L; d. above 10.0 mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CHO intake 120-min before, during and 120-min after recorded structured PA sessions</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Carbohydrate intake (g), timing and purpose of CHO intake prior to, during and within 30-min following PA.mmol/L; b. below 3.9 mmol/L; c. below 3.0 mmol/L; d. above 10.0 mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CHO intake during (at least 15-min) of habitual PA and 30-min after</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Carbohydrate intake (g), timing and purpose of CHO intake prior to, during and within 30-min following PA.mmol/L; b. below 3.9 mmol/L; c. below 3.0 mmol/L; d. above 10.0 mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose variability 120-min before, during and 120-min after recorded structured PA sessions</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Glucose variability: Standard deviation (SD) and coefficient of variance (CV) of glucose levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose variability during (at least 15-min) of habitual PA and 30-min after</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Glucose variability: Standard deviation (SD) and coefficient of variance (CV) of glucose levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total insulin delivery 120-min before, during and 120-min after recorded structured PA sessions</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Insulin delivery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total insulin delivery during (at least 15-min) of habitual PA and 30-min after</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Insulin delivery</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Observationnal cohort</arm_group_label>
+    <description>Patients with type 1 diabetes and using an AID system.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Automated insulin delivery system</intervention_name>
+    <description>This is an outpatient prospective observational study to evaluate the effect of DIY-AID use on maintaining glucose levels in physically active adult people living with T1D.</description>
+    <arm_group_label>Observationnal cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Type 1 diabetes using an AID system; Physically active&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males and females aged ≥ 18 years old.&#xD;
+&#xD;
+          2. Clinical diagnosis of type 1 diabetes or latent autoimmune diabetes in adults (LADA)&#xD;
+             for at least one year. (The diagnosis of type 1 diabetes is based on the&#xD;
+             investigator's judgment; C peptide level and antibody determinations are not needed.)&#xD;
+&#xD;
+          3. Using automated insulin delivery systems (Commercial or DIY) for at least 3 months.&#xD;
+&#xD;
+          4. Willing to share CGM data and insulin pump data with the research team. This access&#xD;
+             will be limited to the study period.&#xD;
+&#xD;
+          5. Exercising at least twice weekly (Questionnaire assessment MAQ) or willing to exercise&#xD;
+             at least twice weekly during the study period.&#xD;
+&#xD;
+          6. Willing to share physical activity tracker data with the research team and if&#xD;
+             applicable, data about the menstrual cycle.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Do not understand French or English&#xD;
+&#xD;
+          2. Anticipated therapeutic change (including change of insulin type [switching to&#xD;
+             biosimilar is acceptable] and/or type of CGM sensor) between admission and end of the&#xD;
+             study.&#xD;
+&#xD;
+          3. Anticipated need to use acetaminophen (dose above 1g every 6 hours) or vitamin C (dose&#xD;
+             above 500mg DIE) between admission and end of the study.&#xD;
+&#xD;
+          4. Pregnancy (ongoing or current attempt to become pregnant).&#xD;
+&#xD;
+          5. Breastfeeding.&#xD;
+&#xD;
+          6. Uncontrolled thyroid disease (recent less than 5 months TSH should be in target range&#xD;
+             and treatment stable for at least 6 weeks).&#xD;
+&#xD;
+          7. Severe hypoglycemic episode within two weeks of screening.&#xD;
+&#xD;
+          8. Severe hyperglycemic episodes requiring hospitalization in the last 3 months&#xD;
+&#xD;
+          9. Current use of glucocorticoid medication (except low stable dose and inhaled steroids&#xD;
+             and stable adrenal insufficiency treatment e.g., Cortef®).&#xD;
+&#xD;
+         10. Current use of adjunct therapy such as SGLT-2 inhibitors or GLP_1 receptor analog&#xD;
+             unless at a stable dose for at least 3 months, without anticipated change during the&#xD;
+             study and appropriate ketone testing is performed in case of off-label SGLT2 usage.&#xD;
+&#xD;
+         11. Anticipated radiologic examination incompatible with CGM wear for more than 10 days&#xD;
+             between admission and end of the study (e.g., repeated MRI).&#xD;
+&#xD;
+         12. Physically inactive participants (see inclusion criteria #5).&#xD;
+&#xD;
+         13. People with professional activities involving night shifts, as it may influence&#xD;
+             glycemic profiles differently compared to people working days and sleeping nights.&#xD;
+&#xD;
+         14. In the opinion of the investigator, a participant who is unable or unwilling to&#xD;
+             complete the study (e.g., recent injury, foot wound, etc.).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rémi Rabasa-Lhoret, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCM</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Valérie Boudreau, PhD</last_name>
+    <phone>5149875643</phone>
+    <email>valerie.boudreau@ircm.qc.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joséphine Molveau, Msc</last_name>
+    <email>josephine.molveau@ircm.qc.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institut de Recherches Cliniques de Montréal (IRCM)</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2W 1R7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>September 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>January 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 11, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Institut de Recherches Cliniques de Montreal</investigator_affiliation>
+    <investigator_full_name>Rémi Rabasa-Lhoret</investigator_full_name>
+    <investigator_title>MD, PhD, PROMD platform director, Clinic VP</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Insulin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

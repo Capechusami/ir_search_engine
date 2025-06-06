@@ -1,0 +1,216 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621980</url>
+  </required_header>
+  <id_info>
+    <org_study_id>23989</org_study_id>
+    <secondary_id>22-2459</secondary_id>
+    <secondary_id>1R21HD105874-01</secondary_id>
+    <nct_id>NCT05621980</nct_id>
+  </id_info>
+  <brief_title>Finger Movement Training After Stroke</brief_title>
+  <official_title>A Multimodal Intervention to Improve Manual Dexterity in Subacute Stroke Survivors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>North Carolina State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>North Carolina State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Human development as a species has been strongly associated with the ability to dexterously&#xD;
+      manipulate objects and tools. Unfortunately, current therapy efforts typically fail to&#xD;
+      restore fine manual control after stroke. The goal of this study is to evaluate a new&#xD;
+      intervention that would combine targeted electrical stimulation of selected nerves with use a&#xD;
+      soft, pneumatically actuated hand exoskeleton to enhance repetitive practice of independent&#xD;
+      movements of the fingers and thumb in order to improve rehabilitation of hand function after&#xD;
+      stroke.&#xD;
+&#xD;
+      The investigators will recruit stroke survivors in the subacute phase of recovery (2-6 months&#xD;
+      post-stroke). These participants will be involved in a 6-week intervention involving 18&#xD;
+      training sessions. During these sessions, participants will train independent movement of the&#xD;
+      digits of the paretic hand. Evaluation of motor control of the paretic hand will occur prior&#xD;
+      to initiation of training, at the midpoint of the training period, after completion of&#xD;
+      training, and one month later.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of Jebsen-Taylor Hand Function Test (JTHFT)</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>A standardized and objective measure of fine and gross motor hand function using simulated activities of daily living.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of Individuated fingertip force</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>The participant will will rest each fingertip and thumb tip against a 6-DOF load cell and create individuated fingertip force and finger movement. An electrode array will be placed around the forearm during these tasks to measure muscle activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Individuated finger movement</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>The participant will will rest each fingertip and thumb tip against a 6-DOF load cell and create individuated fingertip force and finger movement. An electrode array will be placed around the forearm during these tasks to measure muscle activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Muscle activity</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>The participant will will rest each fingertip and thumb tip against a 6-DOF load cell and create individuated fingertip force and finger movement. An electrode array will be placed around the forearm during these tasks to measure muscle activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Lateral pinch strength</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>Force produced when the thumb pinches against the radial side of the index finger as if holding a key.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of 3-point pinch strength</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>Force produced when thumb pinches against the tips of the index and middle fingers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Touch sensitivity</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>Touch sensitivity will be measured with von Frey hairs (Aesthesio®).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Box and Blocks Test (BBT)</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>A quick, simple and inexpensive test to measures unilateral gross manual dexterity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of 9-Hole Peg Test (9PHT)</measure>
+    <time_frame>Change of value from before the intervention to immediately after the intervention.</time_frame>
+    <description>A standardized, quantitative assessment used to measure finger dexterity.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>FES + AVK group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will use the AVK system in combination with targeted FES to provide training of independent movement of each digit of the paretic hand. This training has two modes: Key Combination and Song. In the Key Combination mode, the subject will attempt to play the discrete key or key combinations specified on the computer screen to practice difficult movements and combinations. In the Song mode, sequential, rhythmic movements will be practiced as the participant is guided to play a series of keys, specified as falling keys, constituting five-note songs. Key Combination will be employed at the beginning and end of each training session to practice discrete movements that proved troubling during the current or previous session. Most of the session will be spent in the Song mode to emphasize the transitions from one movement to the next. In both modes the AVK system will trigger FES for the finger matching the desired key and signal the PneuGlove to resist movement of other digits.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OT Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>An occupational therapist will provide therapy of matching duration to the OT subject group. This will consist of 10 minutes of stretching of the finger muscles, particularly of the extrinsic finger flexors. This stretching will be followed by two 20-minute sessions of therapy focused on active task practice, object manipulation, and individuated movement of the digits. The Canadian Occupational Performance Measure (COPM) will be administered to identify goals that incorporate dexterous use of the paretic hand. Part of each training session will be used to practice these tasks, while the remainder will be used to practice component skills. Active practice will be followed by a final 10 minutes of stretching of muscles of the digits.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Actuated Virtual Keyboard (AVK) system</intervention_name>
+    <description>The participant controls an avatar hand by the movement of their own digits. Each avatar digit corresponds to a given virtual key. &quot;Sufficient&quot; digit flexion results in &quot;playing&quot; of that key, with visual and auditory feedback of key strike. Participants will wear a soft exoskeleton, the PneuGlove, with embedded bend sensors to provide real-time measurement of digit flexion. Pneumatic resistance to flexion can be applied to each digit independently, along with extension assistance, through air chambers running through the glove. The FES is intended to assist finger flexion by activating extrinsic finger flexor muscles. A high-density 2×8 stimulation electrode grid will be placed over the median and ulnar nerves at the medial side of the upper arm. The stimulator can deliver electrical stimulation to any pair of electrodes. At the beginning of each session, the investigators will identify the electrode pairs which best produce flexion of each digit with minimal discomfort.</description>
+    <arm_group_label>FES + AVK group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Occupational Therapy</intervention_name>
+    <description>Traditional occupational therapy training sessions.</description>
+    <arm_group_label>OT Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A single, unilateral stroke 2-6 months prior to enrollment&#xD;
+&#xD;
+          -  Moderate to mild hand impairment, as determined by a rating of Stage 4-6 on the Stage&#xD;
+             of Hand section of the Chedoke-McMaster Stroke Assessment&#xD;
+&#xD;
+          -  Visual capacity to discern specific shapes on the computer screen&#xD;
+&#xD;
+          -  Capacity to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Rigid contractures in the joints of the upper limbs, or orthopedic issues precluding&#xD;
+             joint movement&#xD;
+&#xD;
+          -  Hemispatial neglect (as assessed by the Behavioral Inattention Test)&#xD;
+&#xD;
+          -  Excessive pain in the paretic upper limb (visual analog scale of shoulder pain &lt; 70)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Derek G Kamper, PhD</last_name>
+    <phone>7735201233</phone>
+    <email>dgkamper@ncsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mohammad Ghassemi, PhD</last_name>
+    <phone>3125365014</phone>
+    <email>mghasse@ncsu.edu</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Connelly L, Jia Y, Toro ML, Stoykov ME, Kenyon RV, Kamper DG. A pneumatic glove and immersive virtual reality environment for hand rehabilitative training after stroke. IEEE Trans Neural Syst Rehabil Eng. 2010 Oct;18(5):551-9. doi: 10.1109/TNSRE.2010.2047588. Epub 2010 Apr 8.</citation>
+    <PMID>20378482</PMID>
+  </reference>
+  <reference>
+    <citation>Thielbar KO, Lord TJ, Fischer HC, Lazzaro EC, Barth KC, Stoykov ME, Triandafilou KM, Kamper DG. Training finger individuation with a mechatronic-virtual reality system leads to improved fine motor control post-stroke. J Neuroeng Rehabil. 2014 Dec 26;11:171. doi: 10.1186/1743-0003-11-171.</citation>
+    <PMID>25542201</PMID>
+  </reference>
+  <reference>
+    <citation>Shin H, Hu X. Flexibility of Finger Activation Patterns Elicited through Non-invasive Multi-Electrode Nerve Stimulation. Annu Int Conf IEEE Eng Med Biol Soc. 2018 Jul;2018:1428-1431. doi: 10.1109/EMBC.2018.8512479.</citation>
+    <PMID>30440660</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>North Carolina State University</investigator_affiliation>
+    <investigator_full_name>Derek Kamper</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>stroke</keyword>
+  <keyword>FES</keyword>
+  <keyword>virtual reality</keyword>
+  <keyword>rehabilitation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>In accordance with the specifications and limitations outlined by the Institutional Review Boards at North Carolina State University and the University of North Carolina at Chapel Hill, behavioral and performance data will be made available to other investigators upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>The deidentified data will become available after the completion of the study and remain available for three years.</ipd_time_frame>
+    <ipd_access_criteria>Data will be made available to other researchers for scientific purposes.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

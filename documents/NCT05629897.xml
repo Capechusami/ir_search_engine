@@ -1,0 +1,305 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629897</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COPERIA-COG</org_study_id>
+    <nct_id>NCT05629897</nct_id>
+  </id_info>
+  <brief_title>Randomised Clinical Trial to Evaluate the Efficacy of an Online Cognitive Rehabilitation Programme (COPERIA-COG) for Patients With Persistent COVID-19</brief_title>
+  <acronym>COPERIA-COG</acronym>
+  <official_title>Randomised Clinical Trial to Evaluate the Efficacy of an Online Cognitive Rehabilitation Programme (COPERIA-COG) for Patients With Persistent COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacin Biomedica Galicia Sur</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centro de Investigación Biomédica en Red de Salud Mental</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Galician South Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundacin Biomedica Galicia Sur</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The pandemic caused by SARS-CoV-2 infection has led to the emergence of diffuse and&#xD;
+      heterogeneous persistent symptoms in addition to the well-known acute symptoms, which have&#xD;
+      come to be referred to as persistent COVID. In particular, one of the frequent complaints of&#xD;
+      patients with a previous diagnosis of COVID is impaired cognitive ability.&#xD;
+&#xD;
+      Various cognitive rehabilitation programmes have benefited from incorporating the methodology&#xD;
+      of so-called &quot;serious games&quot; are designed to train or change behaviour while entertaining&#xD;
+      players. The design of the online rehabilitation programme (COPERIA-COG) took into account&#xD;
+      the principles of neuropsychological rehabilitation (neuropsychological pre-assessment,&#xD;
+      operational goal setting, task prioritisation and continuous feedback system) and combined&#xD;
+      different individual techniques, such as restitution and compensation. Patients treated with&#xD;
+      COPERIA-COG will show neuropsychological improvements in verbal memory compared to the&#xD;
+      waiting list group.&#xD;
+&#xD;
+      The main objective is to identify differences in long-term memory in patients treated with&#xD;
+      COPERIA-COG vs. patients on the waiting list. For this purpose, both groups will be evaluated&#xD;
+      through RAVLT, taking the long-term memory subtest as a reference, comparing the results&#xD;
+      before and after the active group performs the online training with COPERIA-COG.&#xD;
+&#xD;
+      The COPERIA platform is a cloud platform that provides a range of ICT tools for monitoring&#xD;
+      and aiding the recovery of patients with persistent COVID. To achieve this goal, the platform&#xD;
+      will store patient data to which Artificial Intelligence techniques will be applied to&#xD;
+      perform an assessment of the affected person.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 14, 2022</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Intervention or waiting list</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The investigator performing the analysis will be blinded to which group is the active intervention group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RAVLT Rey Auditory Verbal Learning Test</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>An instrument that has proven useful in assessing verbal learning and memory. Easily administered test that assesses immediate memory span, new learning, susceptibility to interference and recognition memory.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subtests of the Number Key, Symbol Search and Digit Search Scale for Measuring Adult and Adolescent Intelligence (WAIS III)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>They allow the calculation of the processing speed index. The Spanish adaptation of the WAIS-III was used. Reliability coefficients (two halves) range from .77 to .96.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail Making Test (TMT)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The test consists of two parts, A and B. Part A assesses sustained attention, processing speed, motor skills and visuospatial visual search skills. Part B assesses alternating attention and cognitive flexibility. Its reliability is between 0.86% and 0.94% and its reliability is .66. Neuronorm scales are used in Spain</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Verbal fluency tests</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The investigators will use the phonemic fluency test, a task of oral production of words before phonetic commands (P-M-R) and the semantic fluency test (animals), a task of linguistic production that requires the implementation of the mechanisms of access to the lexicon. Neuronorm scales are used in Spain. The scale is made with scalar scores from 2 to 18, where 2 is the worst score and 18 is the best.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Memory Failures Everyday-30 (MFE-30)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>It is a 30-item questionnaire that explores the relationships between the occurrence of memory complaints, prefrontal symptomatology and perceived stress.&#xD;
+The scale has values between 0-120. Where 120 is indicative of more severe impairment in daily functioning and 0 indicates optimal functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Anxiety and Depression Scale (HADS Scale)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The Hospital Anxiety and Depression Scale was originally designed as a screening instrument for the detection of patients with affective disorders in response to the drawbacks of widely used instruments such as the GHQ. It consists of two sets of seven items -one representing the anxiety subscale and the other the depression subscale- both of which are psychopathological concepts of anxiety and depression independent.&#xD;
+There are two subscales (anxiety and depression) with a score from 0 to 21 each. Scores greater than 10 are considered indicative of morbidity, scores between 8-10 are considered bordeline and scores less than 8 indicate no significant morbidity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to online treatment</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Number of games played and total time of use will be extracted from the platform, analysing whether there are differences by age or gender or severity.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Age</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Years</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sex</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Male, Female</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Level of education attained</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>School, High school, College, Superior</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Employment status</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Employed, unemployed, retired</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Current treatment</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Treatment taken by the patient at the time of the study.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Date of the SARS-CoV-2 PCR+</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>DD-MMM-YYYY</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Epidemic wave</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Of the 7 waves of COVID-19 that have occurred in Spain, a description will be given of the wave to which the infection of each patient included belonged. First, second, third, fourth, fifth, sixth, seventh, eighth, ninth or tenth wave.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vaccination status at the time of infection</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Number of vaccine doses at the time of infection</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Neuro-Degenerative Disease</condition>
+  <condition>Psychological</condition>
+  <condition>SARS CoV 2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>They will perform an initial test of processing speed, attentional span and executive control. After this test, they will start the training programme. It consists of 40 sessions of cognitive stimulation, distributed over 8 weeks of treatment with a frequency of five sessions per week. In the last session, a final test will be performed, the same as the initial one.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Waiting list</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>They will perform an initial test of processing speed, attentional span and executive control. In the last session, 8 weeks after the initial test, a final test will be performed, the same as the initial one.&#xD;
+They will have the opportunity to perform the same training as the experimental group after performing the final test. At 8 weeks, patients on the waiting list will be taught, if the wish, how to use the platform to perform the stimulation. They will be offered cognitive training with COPERIA-COG under the same conditions, periodicity, automatic reminders and calls from the psychologist as in the intervention group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sessions of cognitive stimulation</intervention_name>
+    <description>40 sessions of cognitive stimulation of approximately 20 minutes duration per session are carried out, using the COPERIA platform.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥18 and ≤70 years old.&#xD;
+&#xD;
+          2. Read and write.&#xD;
+&#xD;
+          3. Diagnosis of persistent COVID according to WHO criteria.&#xD;
+&#xD;
+          4. The patient reports cognitive dysfunction with self-assessed impact of at least grade&#xD;
+             2 on the Post-Covid Functional Status (Chile) (Klok et al., 2020, Lorca et al., 2021).&#xD;
+&#xD;
+          5. The patient does not present cognitive dysfunction to a degree equal to or greater&#xD;
+             than 1.5 SD assessed in the psychology consultation by means of the following&#xD;
+             instruments: RAVLT Rey Auditory Verbal Learning Test (Schmidt, 1996). Subtests of the&#xD;
+             Number Key, Symbol Search and Digit Span of the Scale for Measuring Adult and&#xD;
+             Adolescent Intelligence (WAIS III) (Wechsler, 1999). TMT Stroke Test (Reitan &amp;&#xD;
+             Wolfson, 1993). Verbal fluency tests (Benton et al., 1989). In case of scores above&#xD;
+             1.5 SD below the normative mean, they will be excluded from the study and referred for&#xD;
+             treatment to the Brain Injury Unit (Winblad et al., 2004).&#xD;
+&#xD;
+          6. Patients with capacity to consent and agree to participate in the study.&#xD;
+&#xD;
+          7. Patients who know how to use and have a Smartphone or Tablet and an Internet&#xD;
+             connection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Minors or persons legally incapacitated.&#xD;
+&#xD;
+          2. Previous neurological or psychiatric pathology involving neuropsychological&#xD;
+             compromise.&#xD;
+&#xD;
+          3. Active Covid19 infection.&#xD;
+&#xD;
+          4. Home oxygen therapy &gt; 16 hours or home CPAP-BiPAP.&#xD;
+&#xD;
+          5. Be undergoing another cognitive rehabilitation process at the time of inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alejandro García Caballero, MD</last_name>
+    <phone>988 38 55 00</phone>
+    <email>alejandro.alberto.garcia.caballero@sergas.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Galicia Sur Health Research Institute (IISGS) - Hospital Álvaro Cunqueiro</name>
+      <address>
+        <city>Vigo</city>
+        <state>Pontevedra</state>
+        <zip>36213</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complexo Hospitalario Universitario de Ourense</name>
+      <address>
+        <city>Ourense</city>
+        <zip>32002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alejandro García Caballero, MD</last_name>
+      <email>alejandro.alberto.garcia.caballero@sergas.es</email>
+    </contact>
+    <investigator>
+      <last_name>Alejandro García Caballero, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Bustillo Casado, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Dolores Díaz López, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pablo López Mato, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luis Docasar Bertolo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Beatriz Gómez Gómez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 18, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 28, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cognitive rehabilitation</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID</keyword>
+  <keyword>Long-term memory</keyword>
+  <keyword>Verbal learning</keyword>
+  <keyword>RAVLT</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

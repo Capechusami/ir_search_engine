@@ -1,0 +1,273 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628038</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FDRT-2022-289-3006</org_study_id>
+    <nct_id>NCT05628038</nct_id>
+  </id_info>
+  <brief_title>The Combination of Hypofractionated Radiotherapy and Immunotherapy in Locally Recurrent Rectal Cancer</brief_title>
+  <acronym>TORCH-R</acronym>
+  <official_title>Hypofractionated Radiotherapy Combined With Chemotherapy and Toripalimab for Locally Recurrent Rectal Cancer: a Single-arm, Phase II Trial (TORCH-R)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fudan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fudan University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a prospective, single-center, single-arm phase II clinical trial to evaluate the&#xD;
+      combination of preoperative (re)irradiation, chemotherapy and immunotherapy in locally&#xD;
+      recurrent rectal cancer. The primary endpoint is the R0 resection rate of pelvic recurrent&#xD;
+      tumour. The secondary endpoints include the overall response rate (ORR), progression-free&#xD;
+      survival (PFS), local recurrence free survival (LRFS), overall survival (OS), safety and&#xD;
+      tolerability.&#xD;
+&#xD;
+      The enrolled patients will receive 25-40Gy/5Fx irradiation or 15-30Gy/5Fx reirradiation&#xD;
+      (pelvic radiation history), 6 cycles of toripalimab and CAPOX, and followed by&#xD;
+      multidisciplinary team (MDT) for decision: radical surgery, sustained treatment until&#xD;
+      resectable or exit. The study protocol was approved by the Ethics Committee of FUSCC. All&#xD;
+      patients provided written informed consent before recruitment. Shanghai Junshi Biomedical&#xD;
+      Technology Co., Ltd. Provides the first three cycles of toripalimab for free and has&#xD;
+      purchased liability insurance for clinical trial subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>R0 resection rate</measure>
+    <time_frame>up to 1 year</time_frame>
+    <description>To estimate, among patients with locally recurrent rectal cancer, the proportion in whom R0 resection (microscopic margin-negative) of recurrent tumor is achieved after neoadjuvant therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>up to 1 year</time_frame>
+    <description>The percentage of patients with objective response in the irradiated local recurrence or metastatic lesions. Objective response is defined as complete response (CR) or partial response (PR) per response evaluation criteria (RECIST v1.1) and the immune related response criteria (iRECIST) after treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival</measure>
+    <time_frame>up to 3 year</time_frame>
+    <description>Defined as the time from the date of start treatment until the date of local recurrence or distant metastases or censored at last follow-up or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>up to 3 year</time_frame>
+    <description>Defined as the time from the date of start treatment until the date of death from any cause or censored at last follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Toxicity</measure>
+    <time_frame>up to 1 year</time_frame>
+    <description>The percentage of patients with treatment-related acute toxicities as assessed by NCI CTCAE v5.0, from treatment initiation until 90 days upon completion of immunotherapy.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Recurrent Rectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Treatment Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 75 locally treatment naive recurrent rectal cancer (LRRC) patients will be recruited and receive 25-40Gy/5Fx irradiation or 15-25Gy/5Fx reirradiation, 6 cycles of CAPOX and toripalimab, followed by multidisciplinary team (MDT) for decision: radical surgery, sustained treatment until resectable or exit.&#xD;
+A total of one-year toripalimab is scheduled including perioperative treatment and postoperative maintenance treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PD-1 antibody</intervention_name>
+    <description>PD-1 antibody (Toripalimab): 240mg d1 q3w</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+    <other_name>Toripalimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>Capecitabine: 1000mg/m2 d1-14 q3w</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+    <other_name>Xeloda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>Oxaliplatin: 130 mg/m^2 d1 q3w</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy</intervention_name>
+    <description>25-40Gy/5Fx irradiation or 15-30Gy/5Fx reirradiation (pelvic radiation history)</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged over 18 years old, regardless of gender.&#xD;
+&#xD;
+          -  Histologically or cytologically or iconography confirmed locally recurrent rectal&#xD;
+             cancer with or without distant metastasis (UICC 8th version).&#xD;
+&#xD;
+          -  No prior radiotherapy within 6 month.&#xD;
+&#xD;
+          -  Distant metastasis lesions are resectable by MDT evaluation.&#xD;
+&#xD;
+          -  Has at least 1 measurable oligometastatic lesions on imaging (RECIST version 1.1).&#xD;
+&#xD;
+          -  ECOG performance status 0-1.&#xD;
+&#xD;
+          -  Has an investigator determined life expectancy of at least 24 weeks.&#xD;
+&#xD;
+          -  Demonstrate adequate organ function (bone marrow, liver, kidney and clotting function)&#xD;
+             within 7 days before the first administration without using blood products or&#xD;
+             hematopoietic stimulating factors.&#xD;
+&#xD;
+          -  Non pregnant or lactating patients. Effective contraceptive methods should be used&#xD;
+             during the study and within 6 months of the last administration.&#xD;
+&#xD;
+          -  Fully informed and willing to provide written informed consent for the trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Neutrophil &lt; 1.5×10^9/L, PLT &lt; 100×10^9/L (PLT &lt; 80×10^9/L in patients with liver&#xD;
+        metastasis), or Hb &lt; 90g/L; blood transfusion within 2 weeks before enrollment is not&#xD;
+        allowed to meet the enrollment criteria.&#xD;
+&#xD;
+          -  TBIL &gt; 1.5 ULN, or TBIL &gt; 2.5 ULN in patients with liver metastasis.&#xD;
+&#xD;
+          -  AST or ALT &gt; 2.5 ULN, or ALT and / or AST &gt; 5 ULN in patients with liver metastasis.&#xD;
+&#xD;
+          -  Cr &gt; 1.5 ULN, or creatinine clearance &lt; 50ml / min (calculated according to Cockcroft&#xD;
+             Gault formula).&#xD;
+&#xD;
+          -  APTT &gt; 1.5 ULN, PT &gt; 1.5 ULN (subject to the normal value of the clinical trial&#xD;
+             research center).&#xD;
+&#xD;
+          -  Serious electrolyte abnormalities.&#xD;
+&#xD;
+          -  Urinary protein ≥ 2+, or 24-hour urine protein ≥1.0g/24h.&#xD;
+&#xD;
+          -  Uncontrolled hypertension: SBP &gt;140mmHg or DBP &gt; 90mmHg.&#xD;
+&#xD;
+          -  The presence of gastrointestinal diseases such as gastric or duodenal active ulcers,&#xD;
+             ulcerative colitis or unresected tumours with active bleeding; or other conditions&#xD;
+             likely to cause gastrointestinal bleeding or perforation; or unhealed gastrointestinal&#xD;
+             perforation or gastrointestinal fistula after surgical treatment.&#xD;
+&#xD;
+          -  A history of arterial thrombosis or deep vein thrombosis within 6 months; a history of&#xD;
+             bleeding or evidence of bleeding tendency within 2 months.&#xD;
+&#xD;
+          -  A history of heart disease within 6 months (including congestive heart failure, acute&#xD;
+             myocardial infarction, severe/unstable angina, coronary artery bypass grafting,&#xD;
+             cardiac insufficiency ≥ NYHA grade 2 and LVEF&lt;50%).&#xD;
+&#xD;
+          -  Uncontrolled malignant pleural effusion, ascites, or pericardial effusion.&#xD;
+&#xD;
+          -  History of anti-PD-1, PD-L1, PD-L2, CTLA-4 or any other specific T cell co-stimulation&#xD;
+             or checkpoint pathway targeted therapy.&#xD;
+&#xD;
+          -  Receiving anti-VEGF or anti-EGFR therapy within 4 weeks.&#xD;
+&#xD;
+          -  The presence of a clinically detectable second primary malignancy, or history of other&#xD;
+             malignancies within 5 years excluding adequately treated non-melanoma skin cancer,&#xD;
+             carcinoma in situ of cervix and superficial bladder tumour (non-invasive tumour, or&#xD;
+             carcinoma in situ, or T1).&#xD;
+&#xD;
+          -  A history of liver disease including, but not limited to HBV infection or HBV DNA&#xD;
+             positive(≥1×10^4/ml), HCV infection or HCV DNA positive(≥1×10^3/ml) and liver&#xD;
+             cirrhosis.&#xD;
+&#xD;
+          -  Pregnant or lactating women or women who may be pregnant have a positive pregnancy&#xD;
+             test before the first medication; Or the female participants themselves and their&#xD;
+             partners who were unwilling to implement strict contraception during the study period.&#xD;
+&#xD;
+          -  The investigator considers that the subject is not suitable to participate in this&#xD;
+             clinical study due to any clinical or laboratory abnormalities or compliance problems.&#xD;
+&#xD;
+          -  Serious mental abnormalities.&#xD;
+&#xD;
+          -  The diameter of brain metastasis is greater than 3cm or the total volume is greater&#xD;
+             than 30cc.&#xD;
+&#xD;
+          -  Clinical or radiological evidence of spinal cord compression, or tumours within 3 mm&#xD;
+             of the spinal cord on MRI.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhen Zhang, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fudan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhen Zhang, MD PhD</last_name>
+    <phone>18801735029</phone>
+    <email>zhen_zhang@fudan.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fudan University Shanghai Cancer Center</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fudan University</investigator_affiliation>
+    <investigator_full_name>Zhen Zhang</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rectal Neoplasms</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

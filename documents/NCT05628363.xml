@@ -1,0 +1,359 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628363</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202211121</org_study_id>
+    <nct_id>NCT05628363</nct_id>
+  </id_info>
+  <brief_title>Adaptive Stereotactic Body Radiation Therapy to the Prostate and Pelvic Nodes With Simultaneous Integrated Boost to the MR-detected Nodule for Patients With High-risk and Unfavorable Intermediate-risk Prostate Cancer</brief_title>
+  <official_title>Adaptive Stereotactic Body Radiation Therapy to the Prostate and Pelvic Nodes With Simultaneous Integrated Boost to the MR-detected Nodule for Patients With High-risk and Unfavorable Intermediate-risk Prostate Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Varian Medical Systems</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is a prospective clinical trial designed to demonstrate the safety and feasibility&#xD;
+      of whole-pelvis adaptive prostate stereotactic body radiation therapy (SBRT) with a tumor&#xD;
+      boost to the magnetic resonance (MR)-detected sites of disease. The hypothesis is that this&#xD;
+      treatment approach will be safe and feasible with &lt;15% of patients experiencing an acute&#xD;
+      CTCAEv5 grade ≥3 genitourinary (GU) or gastrointestinal (GI) adverse event.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 18, 2023</start_date>
+  <completion_date type="Anticipated">January 31, 2030</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of acute grade ≥3 GI and GU adverse events</measure>
+    <time_frame>From start of radiotherapy through 90 days after start of radiotherapy</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in patient-reported quality of life as measured by EPIC-26</measure>
+    <time_frame>At screening, end of radiotherapy (week 5), 3 months after start of radiotherapy, and every 3 months until month 24</time_frame>
+    <description>-The EPIC-26 is used to assess health related quality of life among persons with prostate cancer. It contains 5 domains of urinary incontinence, urinary irritability/obstructive, bowel, sexual, and hormonal. Response options for each EPIC item form a Likert scale, and multi-item scale scores are transformed linearly to a 0-100 scale, with higher scores representing better health related quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in global function as measured by EQ-5D-5L</measure>
+    <time_frame>At screening, end of radiotherapy (week 5), 3 months after start of radiotherapy, and every 3 months until month 24</time_frame>
+    <description>-The EQ-5D-5L is a commonly used and reliable questionnaire used to assess patient perception of their current health state. Patients are asked about their levels of difficulty with mobility, self-care, and usual activities, and about their pain/discomfort and anxiety/depression levels on a 5-point scale where the response &quot;I have no problems&quot; = 1 and &quot;I am unable/have extreme&quot; = 5.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of late GI and GU adverse events</measure>
+    <time_frame>From day 91 after the start of radiotherapy until completion of follow-up at month 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of acute grade ≥3 adverse events at least possibly related to radiotherapy</measure>
+    <time_frame>From start of radiotherapy through 90 days after start of radiotherapy</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of acute &lt;grade 3 GI and GU adverse events</measure>
+    <time_frame>From start of radiotherapy through 90 days after start of radiotherapy</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of late grade ≥3 adverse events at least possibly related to radiotherapy</measure>
+    <time_frame>From day 91 after the start of radiotherapy until completion of follow-up at month 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Failure-free survival</measure>
+    <time_frame>From start of radiotherapy until completion of follow-up (estimated to be 60 months)</time_frame>
+    <description>-Time from start of radiotherapy to biochemical relapse, radiographic recurrence with development of local, regional or distant metastases, or death to due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical recurrence free-survival</measure>
+    <time_frame>From start of radiotherapy until completion of follow-up (estimated to be 60 months)</time_frame>
+    <description>Biochemical recurrence free survival: Defined as a &gt;2 ng/mL rise in the PSA above the nadir post initial treatment or evidence of radiographic progression.&#xD;
+Time from start of radiotherapy to recurrence of prostate cancer by PSA criteria or radiographically)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Metastasis-free survival</measure>
+    <time_frame>From start of radiotherapy until completion of follow-up (estimated to be 60 months)</time_frame>
+    <description>-Time from start of radiotherapy treatment to radiographic diagnosis of metastatic disease (M1 disease) or death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prostate cancer-specific mortality</measure>
+    <time_frame>From start of radiotherapy until completion of follow-up (estimated to be 60 months)</time_frame>
+    <description>-Time from start of radiotherapy to death due to prostate cancer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>From start of radiotherapy until completion of follow-up (estimated to be 60 months)</time_frame>
+    <description>-Time from start of radiotherapy to death from any cause</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Prostate Cancer</condition>
+  <condition>Cancer of the Prostate</condition>
+  <arm_group>
+    <arm_group_label>Adaptive stereotactic body radiotherapy (SBRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment consists of adaptive dose-escalated stereotactic body radiotherapy (SBRT) to the pelvic nodes to 25 Gy in 5 weekly fractions with simultaneous integrated boosts (SIB) to the prostate and proximal seminal vesicles to 36.25 Gy in 5 fractions (full seminal vesicles if involved), to the prostate to 40 Gy in 5 fractions, and to the involved MR-detected nodule(s) to up to 50 Gy in 5 fractions.&#xD;
+Androgen deprivation therapy (ADT) will be administered to study patients according to institutional standard. Unfavorable Intermediate-risk Disease: Patients should receive a minimum of 4 months of ADT. Patients can receive longer duration of ADT at the discretion of the treating physician. High-risk disease: Patients should receive a minimum of 1 year of ADT. Patients can receive up to 2 years of ADT at the discretion of the treating physician.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ethos Varian treatment system</intervention_name>
+    <description>Device that will be used to administer radiotherapy</description>
+    <arm_group_label>Adaptive stereotactic body radiotherapy (SBRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Adaptive stereotactic body radiotherapy</intervention_name>
+    <description>Radiotherapy interruptions are acceptable as long as treatments are no more than 16 days apart.</description>
+    <arm_group_label>Adaptive stereotactic body radiotherapy (SBRT)</arm_group_label>
+    <other_name>SBRT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Androgen deprivation therapy</intervention_name>
+    <description>Androgen deprivation therapy (ADT) will be administered to study patients according to institutional standard. Patients should initiate ADT beginning no sooner than 60 days prior to start of radiation. ADT is defined as a GnRH agonist/antagonist (leuprolide, goserelin, degarelix, or relugolix). Patients treated with leuprolide, goserelin, or degarelix should also receive an androgen receptor antagonist (flutamide or bicalutamide) for 30 days from the start of GnRH agonist/antagonist or until the end of radiation, depending on institutional standard and physician preference.&#xD;
+Agent selection is per treating physician discretion and will be administered per institutional standard and FDA-approved labeling.</description>
+    <arm_group_label>Adaptive stereotactic body radiotherapy (SBRT)</arm_group_label>
+    <other_name>ADT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Pathologically proven adenocarcinoma of the prostate with NCCN high-risk disease or&#xD;
+             NCCN unfavorable intermediate-risk disease.&#xD;
+&#xD;
+          -  Patients with unfavorable intermediate-risk disease must meet the following criteria:&#xD;
+&#xD;
+               -  At least one intermediate risk factor (IRF):&#xD;
+&#xD;
+                    -  PSA 10-20 ng/mL&#xD;
+&#xD;
+                    -  cT2b-c (AJCC 8th ed.)&#xD;
+&#xD;
+                    -  Gleason score 7&#xD;
+&#xD;
+               -  At least one &quot;unfavorable&quot; intermediate-risk identifier:&#xD;
+&#xD;
+                    -  &gt; 1 IRF&#xD;
+&#xD;
+                    -  Gleason score 4+3&#xD;
+&#xD;
+                    -  ≥ 50% of biopsy cores positive&#xD;
+&#xD;
+               -  NO high-risk features&#xD;
+&#xD;
+               -  Predicted risk of lymph node involvement ≥ 10% using the Memorial Sloan-Kettering&#xD;
+                  prostate cancer nomogram (Appendix A) OR high-risk Decipher score (0.60 - 1.0).&#xD;
+                  For patients with &lt;10% risk of lymph node involvement by the MSKCC nomogram,&#xD;
+                  Decipher testing is required.&#xD;
+&#xD;
+          -  Patients with high-risk disease must meet at least one of the following criteria:&#xD;
+&#xD;
+               -  cT3a-T3b&#xD;
+&#xD;
+               -  PSA &gt; 20&#xD;
+&#xD;
+               -  Gleason score ≥ 8&#xD;
+&#xD;
+          -  3T MRI scan of the prostate with at least one MR-detectable lesion in the&#xD;
+             prostate/seminal vesicles (PIRADS 4 or 5) or at least one MR-detectable PIRADS 3&#xD;
+             lesion provided there is pathologic correlation from the prostate biopsy.&#xD;
+&#xD;
+          -  Planning to undergo concurrent whole-pelvis SBRT and androgen deprivation therapy&#xD;
+             (ADT). ADT may be initiated at any time per institutional standard, so long as ADT&#xD;
+             begins within 60 days of the start of radiotherapy.&#xD;
+&#xD;
+          -  At least 18 years of age.&#xD;
+&#xD;
+          -  ECOG performance status ≤ 1&#xD;
+&#xD;
+          -  Agreement to adhere to Lifestyle Considerations throughout study duration&#xD;
+&#xD;
+          -  Able to complete relevant patient-reported quality-of-life questionnaires in the&#xD;
+             opinion of the treating physician.&#xD;
+&#xD;
+          -  Able to understand and willing to sign an IRB approved written informed consent&#xD;
+             document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Definitive radiologic evidence of nodal (cN+) or metastatic (cM1) disease on&#xD;
+             conventional imaging (bone scan) or prostate cancer-specific PET/CT scan (NaF PET/CT,&#xD;
+             Axumin PET/CT, fluciclovine, choline, or PSMA PET/CT scan). Patients with lymph nodes&#xD;
+             ≥ 1 cm on short axis are ineligible unless the lymph node is read as benign by&#xD;
+             Radiology.&#xD;
+&#xD;
+          -  Prior androgen deprivation therapy. (If the onset of androgen ablation is ≤ 60 days&#xD;
+             prior to treatment start, the patient is eligible.) Baseline PSA and testosterone must&#xD;
+             be obtained prior to start of treatment.&#xD;
+&#xD;
+          -  Systemic chemotherapy within 3 years prior to treatment start.&#xD;
+&#xD;
+          -  Prior radical prostatectomy, pelvic lymph node dissection, prostate cryotherapy, or&#xD;
+             high-intensity focused ultrasound (HIFU) to the prostate.&#xD;
+&#xD;
+          -  Prior pelvic radiotherapy.&#xD;
+&#xD;
+          -  Presence of baseline CTCAE grade ≥ 2 GI or GU toxicity that does not resolve to grade&#xD;
+             1 or less with appropriate intervention.&#xD;
+&#xD;
+          -  cT4 disease.&#xD;
+&#xD;
+          -  American Urologic Association (AUA) urinary symptom score &gt; 15&#xD;
+&#xD;
+          -  Prostate gland measuring &gt;90 cc.&#xD;
+&#xD;
+          -  Unable to get a prostate MRI.&#xD;
+&#xD;
+          -  Unable to get prostate fiducial markers placed for image guided radiation treatment.&#xD;
+             Rectal hydrogel is optional and is left to the discretion of the treating physician.&#xD;
+&#xD;
+          -  More than 50% of the prostate is involved with cancer on MRI as determined by the&#xD;
+             treating physician.&#xD;
+&#xD;
+          -  Patients with only PIRADS score of 3 lesions and no MR-fusion biopsy pathologic&#xD;
+             correlation.&#xD;
+&#xD;
+          -  Hip prosthetic.&#xD;
+&#xD;
+          -  Prior malignancy (except for non-melanoma skin cancer) unless disease-free for at&#xD;
+             least 2 years. Patients are not eligible if they have had a prior pelvic malignancy&#xD;
+             (e.g. bladder cancer, rectal cancer).&#xD;
+&#xD;
+          -  Prior transurethral resection of the prostate (TURP) within 3 months prior to&#xD;
+             registration.&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness precluding RT and/or ADT including, but not limited&#xD;
+             to, seizures, myocardial infarction in the past 6 months, current severe or unstable&#xD;
+             angina pectoris, congestive heart failure requiring hospitalization in the past 6&#xD;
+             months, uncontrolled active infection, uncontrolled hypertension, or any condition&#xD;
+             that in the opinion of the investigator would preclude participation in the study.&#xD;
+&#xD;
+          -  History of inflammatory bowel disease, including ulcerative colitis and Crohn's&#xD;
+             disease.&#xD;
+&#xD;
+          -  Presence of anal fissure or history of bowel or bladder fistula.&#xD;
+&#xD;
+          -  Scleroderma. Patients who are moderately symptomatic from other autoimmune diseases or&#xD;
+             patients on biologic therapies for autoimmune diseases are also excluded.&#xD;
+&#xD;
+          -  Known history of HIV or chronic hepatitis B or C. Testing to evaluate for the presence&#xD;
+             of HIV and/or hepatitis B or C is not required in patients who do not carry the&#xD;
+             diagnosis.&#xD;
+&#xD;
+          -  Poorly visualized bladder and bowel on diagnostic CT or CT simulation (either due to&#xD;
+             body habitus or artifact).&#xD;
+&#xD;
+          -  Unable to spend 30 minutes lying on the radiation therapy treatment couch due to&#xD;
+             significant urinary frequency/urgency or other comorbidities.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hiram Gay, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hiram Gay, M.D.</last_name>
+    <phone>314-362-8502</phone>
+    <email>hiramgay@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hiram Gay, M.D.</last_name>
+      <phone>314-362-8502</phone>
+      <email>hiramgay@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hiram Gay, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eric Laugeman, M.S.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jeff Michalski, M.D., MBA, FASTRO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yi Huang, M.S.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>April 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Prostate cancer</keyword>
+  <keyword>stereotactic body radiation therapy</keyword>
+  <keyword>SBRT</keyword>
+  <keyword>whole pelvis prostate SBRT</keyword>
+  <keyword>adaptive radiation</keyword>
+  <keyword>tumor-directed boost</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Androgens</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

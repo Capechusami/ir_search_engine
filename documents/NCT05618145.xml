@@ -1,0 +1,1016 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618145</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PSC_Database</org_study_id>
+    <nct_id>NCT05618145</nct_id>
+  </id_info>
+  <brief_title>National Database on Primary Sclerosing Cholangitis (PSC)</brief_title>
+  <official_title>Multicenter, Nationwide, Observational, Prospective Study Based on the Development of a Primary Sclerosing Cholangitis Patient's Database Linked to a Biological Sample Storage</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Milano Bicocca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Milano Bicocca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary sclerosing cholangitis (PSC) a rare, chronic fibroinflammatory disease of the liver.&#xD;
+&#xD;
+      No data about the disease epidemiology exist in Italy. Therefore this study aims to develop a&#xD;
+      national PSC patient database linked to a biological sample storage.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary sclerosing cholangitis is a chronic fibroinflammatory disease of the liver&#xD;
+      characterized by chronic inflammation and sclerosis of the intrahepatic and/or extrahepatic&#xD;
+      bile ducts, and a risk for progression to liver failure and development of colorectal and&#xD;
+      hepatobiliary cancer 1. Both children and adults are affected. Patients with PSC have a&#xD;
+      diminished life expectancy with a median survival of 17 years after diagnosis. PSC is the&#xD;
+      leading indication for transplantation in some European countries. Epidemiological studies&#xD;
+      have found the highest prevalence rates of PSC in Northern European countries and North&#xD;
+      America (United States and Canada) ranging between 3.85 to 16.2 per 100,000 persons. In&#xD;
+      Italy, the estimates is of 0.8 per 100,000 persons but these figures underestimate the real&#xD;
+      disease burden 2.&#xD;
+&#xD;
+      Liver transplantation is currently the only life-extending accepted therapy for patients with&#xD;
+      end-stage liver disease (ESLD) secondary to PSC, and patients with PSC complicated by CCA who&#xD;
+      meet specific criteria. PSC recurs in the transplanted liver in up to 40% of patients. Taken&#xD;
+      together and combined with patients' debilitating quality of life issues, these data&#xD;
+      highlight the considerable disease burden and clinical impact of PSC on patients' outcomes.&#xD;
+      There is a strong, yet poorly understood, relationship between PSC and IBD; nearly 70%-80% of&#xD;
+      PSC patients have IBD, mainly ulcerative colitis.&#xD;
+&#xD;
+      Despite the high mortality associated with PSC and the efforts to optimize its management,&#xD;
+      there is no medical therapy proven to halt the progression of PSC or prevent its serious&#xD;
+      complications.&#xD;
+&#xD;
+      There have been no epidemiologic studies in PSC carried out in Italy, with the exception of&#xD;
+      the report of prevalence from the National registry of rare disease which provided an&#xD;
+      underestimated prevalence of 500 patients across the country. However, this study is limited&#xD;
+      by the nature of the registry which has administrative purposes and has a high rate of&#xD;
+      underreported cases.&#xD;
+&#xD;
+      The aim of the study is to implement a nationwide data collection on this rare disease to&#xD;
+      describe incidence and prevalence of PSC in Italy; identify and define distinct phenotypes&#xD;
+      and sub-phenotypes of PSC patients; identify factors influencing the progression of PSC and&#xD;
+      affecting mortality; assess safety and long-term efficacy of novel therapies.&#xD;
+&#xD;
+      The investigators will recruit patients and organise the collection of important clinical&#xD;
+      information and laboratory investigation, together with biological samples. Data will be&#xD;
+      collected in the form of electronic Case Report Forms (REDCap cloud) that will be completed&#xD;
+      by clinicians at baseline and thereafter on an annual basis. The clinical information will&#xD;
+      allow us to identify patients' clinical profiles. The biological samples will allow to&#xD;
+      understand key aspects of people's make up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 21, 2022</start_date>
+  <completion_date type="Anticipated">October 21, 2032</completion_date>
+  <primary_completion_date type="Anticipated">October 21, 2032</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Identify and define distinct phenotypes and sub-phenotypes of PSC patients at higher risk of disease progression.</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>Identify and define distinct phenotypes and sub-phenotypes of PSC patients at higher risk of disease progression.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identification of factors associated with response to therapies;</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>Identification of factors associated with response to therapies;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identification of biomarkers influencing the progression of PSC and affecting mortality</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>Identification of biomarkers influencing the progression of PSC and affecting mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of safety and long-term efficacy of novel therapies</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>Assessment of safety and long-term efficacy of novel therapies</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>Primary Sclerosing Cholangitis</condition>
+  <arm_group>
+    <arm_group_label>PSC population residing in Italy</arm_group_label>
+    <description>All PSC patients living in Italy and aged at least 17 years can be included in the database.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clinical information</intervention_name>
+    <description>The investigators will recruit PSC patients and collect important clinical information and laboratory investigation, together with biological samples.</description>
+    <arm_group_label>PSC population residing in Italy</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Biological samples are collected at time of recruitment (blood, urine and liver tissue).The&#xD;
+      collection of liver tissue depends on the specific procedures that are performed based on&#xD;
+      clinical needs.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All PSC patients living in Italy and aged at least 17 years can be included in the&#xD;
+        database. Willing and able to give informed consent prior to any study specific procedure&#xD;
+        being performed; Diagnosis of PSC according to the most recent published guidelines (EASL).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to give informed consent prior to any study specific procedure being&#xD;
+             performed;&#xD;
+&#xD;
+          -  Diagnosis of PSC according to the most recent published guidelines (EASL);&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject unwilling to participate at the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>17 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pietro Invernizzi, MD</last_name>
+    <phone>039 233 2187</phone>
+    <email>pietro.invernizzi@unimib.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marco Carbone, MD</last_name>
+    <phone>02 6448 8139</phone>
+    <email>marco.carbone@unimib.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ospedali riuniti di Ancona</name>
+      <address>
+        <city>Ancona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marco Marzioni</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico di Bari</name>
+      <address>
+        <city>Bari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Antonino Castellaneta</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Bergamo ovest</name>
+      <address>
+        <city>Bergamo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Silvia Colombo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Papa Giovanni XXIII</name>
+      <address>
+        <city>Bergamo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stefano Fagiuoli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Sant'Orsola Malpighi</name>
+      <address>
+        <city>Bologna</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luigi Muratori</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico S. Orsola Malpighi</name>
+      <address>
+        <city>Bologna</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francesco Azzaroli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda sanitaria dell'Alto Adige</name>
+      <address>
+        <city>Bolzano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andrea Mega</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spedali civili</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chiara Ricci</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Unità epatologica ed ecografia internistica a valenza dipartimentale, Fondazione Ospedaliera Poliambulanza</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Massimo Graffeo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico universitario Monserrato</name>
+      <address>
+        <city>Cagliari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luchino Chessa</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero San Michele ARNAS G. Brotzu</name>
+      <address>
+        <city>Cagliari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Teresa Zolfino</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Osp. &quot;S de Bellis&quot; - IRCCS</name>
+      <address>
+        <city>Castellana Grotte</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francesco Losito</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UO epatologia Ospedale Garibaldi</name>
+      <address>
+        <city>Catania</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maurizio Russello</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Mater Domini</name>
+      <address>
+        <city>Catanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ludovico Abenavoli, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria- Mater Domini</name>
+      <address>
+        <city>Catanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Benedetto Caroleo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Valduce</name>
+      <address>
+        <city>Como</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natalia Terreni</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Unità operativa complessa di medicina interna- Azienda ospedaliera di Cosenza</name>
+      <address>
+        <city>Cosenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rossana De Marco</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST di Cremona</name>
+      <address>
+        <city>Cremona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ilaria Cavalli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale santa croce</name>
+      <address>
+        <city>Cuneo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alberto Mattalia</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero di Faenza (RA)</name>
+      <address>
+        <city>Faenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lucia Napoli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria di Ferrara</name>
+      <address>
+        <city>Ferrara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Loredana Simone</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda ospedaliera universitaria careggi Firenze</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Fabio Marra</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda ospedaliera universitaria Careggi</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andrea Galli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro C.U.R.E. Centro Universitario per la ricerca e la Cura delle Malattie Epatiche</name>
+      <address>
+        <city>Foggia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francesco Bellanti</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Casa Sollievo della Sofferenza</name>
+      <address>
+        <city>Foggia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Grazia Niro</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Valle Olona</name>
+      <address>
+        <city>Gallarate</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cinzia Simoni</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico San Martino</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Edoardo Giovanni Giannini</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presìdio Ospedaliero &quot;Giovanni Paolo II&quot;</name>
+      <address>
+        <city>Lamezia Terme</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lorenzo Antonio Surace</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Lecco</name>
+      <address>
+        <city>Lecco</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roberta Pozzi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UO di epatologia clinica e biomolecolare. Università degli studi di Messina</name>
+      <address>
+        <city>Messina</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Giovanni Raimondo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Az. Ospedaliera San Paolo- Polo universitario</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Piermaria Battezzati</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto scientifico universitario San Raffaele</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Massimo Memoli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Niguarda Ca' Granda</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luca Belli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giuseppe</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mauro Viganò</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico di Milano</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pietro Lampertico</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dipartimento Ospedaliero di Medicina Interna</name>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pietro Andreone, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Monza</name>
+      <address>
+        <city>Monza</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pietro Invernizzi, MD</last_name>
+      <email>pietro.invernizzi@unimib.it</email>
+    </contact>
+    <investigator>
+      <last_name>Pietro Invernizzi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Evangelica Villa Betania, Ospedale generale di Zona</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ernesto Claar</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale policlinico Federico II di Napoli</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Filomena Morisco</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Università della Campania Luigi Vanvitelli</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alessandro Federico</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale maggiore della carità</name>
+      <address>
+        <city>Novara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cristina Rigamonti</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera di Padova</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luca Fabris</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Gastroenterologia Azienda ospedaliera di Padova</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nora Cazzagon</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Paolo Giaccone</name>
+      <address>
+        <city>Palermo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vincenza Calvaruso</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda ospedaliero universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gabriele Missale</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Clinico Città di Pavia-Gruppo Sandonato</name>
+      <address>
+        <city>Pavia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Guido Poggi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda ospedaliera di Perugia</name>
+      <address>
+        <city>Perugia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olivia Morelli</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Day Hospital Internistico e ambulatorio di Epatologia, ASL Pescara</name>
+      <address>
+        <city>Pescara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Valeria Pace Palitti</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aou pisana Cisanello</name>
+      <address>
+        <city>Pisa</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maurizia Brunetto</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Pordenone AS FO</name>
+      <address>
+        <city>Pordenone</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anna Baragiotta</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Carlo</name>
+      <address>
+        <city>Potenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nello Buccianti</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda unità sanitaria locale della Romagna</name>
+      <address>
+        <city>Rimini</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Giorgio Bellardini</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale A. Gemelli</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luca Miele</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Umberto I</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Domentico MD Alvaro</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico universitario campus bio-medico</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Umberto Vespasiani Gentilucci</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universita' di Roma Tor Vergata</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Leonardo Baiocchi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto clinico Humanitas</name>
+      <address>
+        <city>Rozzano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ana Lleo De Nalda</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Università degli studi di Salerno</name>
+      <address>
+        <city>Salerno</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marcello Persico</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria Molinette</name>
+      <address>
+        <city>Torino</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ester Vanni</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda provinciale per i servizi sanitari</name>
+      <address>
+        <city>Trento</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Giovanni Vettori</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Cattinara, ASU GI</name>
+      <address>
+        <city>Trieste</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Saveria Crocè</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASU FC</name>
+      <address>
+        <city>Udine</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pierluigi Tonitutto</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Sette Laghi</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sergio Segato</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Primary Sclerosing Cholangitis</keyword>
+  <keyword>Disease phenotypes</keyword>
+  <keyword>National Database</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cholangitis</mesh_term>
+    <mesh_term>Cholangitis, Sclerosing</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

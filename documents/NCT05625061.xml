@@ -1,0 +1,380 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-0170</org_study_id>
+    <secondary_id>1R01HL161373</secondary_id>
+    <nct_id>NCT05625061</nct_id>
+  </id_info>
+  <brief_title>Just-in-time Adaptive Intervention Messaging in a Digital Weight Loss Intervention for Young Adults</brief_title>
+  <acronym>Nudge</acronym>
+  <official_title>A Micro-randomized Trial of JITAI Messaging to Improve Adherence to Multiple Weight Loss Behaviors in Young Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of North Carolina, Chapel Hill</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of North Carolina, Chapel Hill</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this micro-randomized trial is to evaluate the effects of 7 types of&#xD;
+      intervention messages targeting specific behavior change techniques (i.e., BCT messages)&#xD;
+      delivered in &quot;just-in-time&quot; (JIT) moments on daily achievement of weight-related behavioral&#xD;
+      goals among n=201 young adults with overweight and obesity, participating in a digital,&#xD;
+      mobile comprehensive lifestyle intervention. &quot;Just-in-time adaptive interventions&quot; (JITAIs)&#xD;
+      are an alternative to the &quot;one size fits all&quot; approach of mobile intervention development&#xD;
+      that can provide tailored, real-time messaging and support for young adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      An estimated 1 in 2 US adults will have obesity by 2030, which is a major cause of morbidity&#xD;
+      and mortality. The highest risk of weight gain is among young adults ages 18-35 years.&#xD;
+      In-person behavioral interventions generally produce clinically significant weight losses,&#xD;
+      but cost and reduced reach limit their ability to impact obesity at a population level.&#xD;
+      Web-based interventions that mimic the structure of weekly face-to-face treatment have proven&#xD;
+      a viable alternative, though weight losses are generally smaller than in-person treatment.&#xD;
+      Mobile treatments have the potential for high reach, but have been less effective, producing&#xD;
+      1-3 kgs over 6 months. Newer digital intervention approaches called &quot;just-in-time adaptive&#xD;
+      interventions&quot; (JITAIs) promise to improve upon mobile outcomes by offering adaptive,&#xD;
+      personalized feedback on behavior, which consists of providing the &quot;right type of support&quot; at&#xD;
+      &quot;the right time&quot; rather than on a fixed schedule. This &quot;just-in- time,&quot; or JIT, approach is&#xD;
+      made possible by the emergence of low-cost and widely available digital health tools that&#xD;
+      allow for the collection of continually updated health data. However, to date, no JITAIs have&#xD;
+      successfully targeted multiple weight-related behaviors (weighing, activity, and diet), and&#xD;
+      there has been no systematic examination of what types of messaging interventions best&#xD;
+      promote adherence to these three weight loss behaviors, for whom they are effective, and&#xD;
+      under what conditions. To address this problem, a micro-randomized trial will be used to&#xD;
+      evaluate the effects of 7 types of intervention messages targeting specific behavior change&#xD;
+      techniques (i.e., BCT messages) delivered in JIT moments on daily achievement of behavioral&#xD;
+      goals among n=201 young adults with overweight and obesity. All participants will receive a&#xD;
+      6-month behavioral weight loss intervention using our Nudge mobile app, which includes&#xD;
+      evidence-based weekly lessons, tailored feedback, self-monitoring, and daily BCT messages.&#xD;
+      Participants will receive a wireless scale, activity tracker, and track &quot;red&quot; foods&#xD;
+      (high-calorie foods) in the app and have 3 goals: weigh daily, a daily active minutes goal&#xD;
+      that gradually increases if met, and a daily red foods limit. At 3 decision points per day,&#xD;
+      participants will be micro-randomized to receive or not receive 1 of 7 types of BCT messages.&#xD;
+      Each intervention message has unique decision rules for availability. Candidate intervention&#xD;
+      message options have been carefully selected from empirical evidence, tested in our prior&#xD;
+      studies, or are from our pilot micro-randomized trial. Assessments will occur daily, and at&#xD;
+      0, 3 and 6 months, to accomplish the following specific aims: 1) Evaluate the effects of each&#xD;
+      behavior change technique message (i.e., BCT message) on daily adherence to weight loss&#xD;
+      behaviors; 2) Determine whether the effects of BCT messages on proximal outcomes change over&#xD;
+      time; and 3) Assess whether the effects of BCT messages on proximal outcomes are moderated by&#xD;
+      participants' contextual factors. Findings will guide how adaptive, behaviorally- and&#xD;
+      contextually-dependent messages are incorporated into future JITAIs for weight loss.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">April 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This is a micro-randomized trial, a form of a sequential, factorial trial. At every time point, a participant is micro-randomized to receive or not receive an intervention message.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Met daily weighing goal</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Wireless scales will be used to collect daily weight measurements, which are transmitted directly to the study app servers in real time. Participants are instructed to weigh each day. On the day of randomization, a dichotomous outcome of whether a participant weighed or did not weigh is assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Met daily active minutes goal</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Activity trackers will be used to collect daily active minutes, which are minutes of moderate-to-vigorous intensity physical activity accumulated in bouts of at least 10 minutes. On the day of randomization, a dichotomous outcome of whether a participant met or exceeded their daily active minutes goal or not is assessed. Days with no tracker wear are counted as not meeting the goal.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>At or under daily red foods limit</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Participants will record red foods in the study app; data sync with study servers in real time from the participants' app. On the day of randomization, a dichotomous outcome of whether a participant stayed at or under their red foods limit or not is assessed. Days without complete red food tracking are counted as not meeting the red foods limit.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Weight change</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+    <description>Absolute weight change (kg) from baseline to 6 months. Weight will be objectively measured on a digital scale in the participant's home.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent weight change</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+    <description>Change in weight (%) from baseline to 6 months. Weight will be objectively measured on a digital scale in the participant's home. Percent weight change at 6 months is calculated as ((weight (kg) at 6 months - weight (kg) at baseline)/(weight (kg) at baseline))*100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of days met daily weighing goal</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Calculation of the proportion of study days weighed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of daily active minutes goal met</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Calculation of the proportion of daily active minutes goal met using activity tracker data.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of daily red foods limit</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Calculation of the proportion of the daily red foods limit recorded in the study app.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of active minutes</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Total number of active minutes on the day of message randomization (at the participant-day level) across the 6 month study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of red foods</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Total number of red foods on the day of message randomization (at the participant-day level) across the 6 month study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Met daily weighing goal tomorrow</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Wireless scales will be used to collect daily weight measurements, which are transmitted directly to the study app servers in real time. Participants are instructed to weigh each day. On the day after randomization, a dichotomous outcome of whether a participant weighed or did not weigh is assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Met daily active minutes goal tomorrow</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Activity trackers will be used to collect daily active minutes, which are minutes of moderate-to-vigorous intensity physical activity accumulated in bouts of at least 10 minutes. On the day after randomization, a dichotomous outcome of whether a participant met or exceeded their daily active minutes goal or not is assessed. (Days with no tracker wear are counted as not meeting the goal).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>At or under daily red foods limit tomorrow</measure>
+    <time_frame>Daily throughout the study, a total of up to 24 weeks</time_frame>
+    <description>Participants will record red foods in the study app; data sync with study servers in real time from the participants' app. On the day after randomization, a dichotomous outcome of whether a participant stayed at or under their red foods limit or not is assessed. Days without complete red food tracking are counted as not meeting the red foods limit.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">201</enrollment>
+  <condition>Obesity</condition>
+  <condition>Overweight</condition>
+  <condition>Overweight and Obesity</condition>
+  <arm_group>
+    <arm_group_label>Core Behavioral Weight Loss (BWL) Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Behavioral weight loss core intervention, includes activity tracker, wireless scale, daily self-weighing, and smartphone app with weekly behavioral lessons, food tracking log, weekly tailored feedback summary, and daily weight-related behavioral goals. Core intervention component is combined with each of the 7 intervention messages to be tested repeatedly over time.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 1 Message (Action Planning)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Action Planning&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 2 Message (Discrepancy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Discrepancy Between Current Behavior and Goal&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 3 Message (Feedback on Outcome of Behavior)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Feedback on Outcome of Behavior&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 4 Message (Social Support)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Social Support&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 5 Message (Social Comparison)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Social Comparison&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 6 Message (Social Reward)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Social Reward&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core BWL Intervention + BCT 7 Message (Focus on Past Success)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core BWL Intervention + Message testing the Behavior Change Technique &quot;Focus on Past Success&quot;</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Core Behavioral Weight Loss (BWL) Intervention</intervention_name>
+    <description>All participants receive a mobile behavioral weight loss intervention delivered through a study smartphone app with weekly behavioral lessons, food tracking log, weekly tailored feedback, and daily weight-related behavioral goals; a connected physical activity tracker and wireless scale. As micro-randomized trials are sequential, full factorial experiments, this core intervention component is combined with each of the 7 intervention messages (i.e., Behavior Change Technique (BCT) messages) to be tested repeatedly over time.&#xD;
+Participants will be evaluated at each of 3 decision points (morning, midday, evening) on each day of the study, and if eligible then micro-randomized, to receive or not receive, 1 of 7 types of daily intervention messages promoting achievement of proximal weight-related behavioral goals.</description>
+    <arm_group_label>Core Behavioral Weight Loss (BWL) Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 1 Message (Action Planning)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app prompts detailed planning of performance of one of the 3 target behaviors (daily weighing, active minutes, red food intake).</description>
+    <arm_group_label>Core BWL Intervention + BCT 1 Message (Action Planning)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 2 Message (Discrepancy between Current Behavior and Goal)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app provides feedback on each of the 3 target behaviors (daily weighing, active minutes, red food intake) in the form of information drawing attention to discrepancies between participants' current behavior and participants' daily goals.</description>
+    <arm_group_label>Core BWL Intervention + BCT 2 Message (Discrepancy)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 3 Message (Feedback on Outcome of Behavior)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app provides participants with feedback on their weight change, relating it to their performance on one of the 3 target behaviors (daily weighing, active minutes, red food intake).</description>
+    <arm_group_label>Core BWL Intervention + BCT 3 Message (Feedback on Outcome of Behavior)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 4 Message (Social Support)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app advises participants on eliciting the provision of social support from their existing network related to one of the 3 target behaviors (daily weighing, active minutes, red food intake).</description>
+    <arm_group_label>Core BWL Intervention + BCT 4 Message (Social Support)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 5 Message (Social Comparison)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app systematically induces comparison of participants' behavioral performance with other participants, including general, upward (i.e., comparison to participants doing better: weighing more, engaging in more activity, staying within red food limits), and downward comparisons (to participants doing worse).</description>
+    <arm_group_label>Core BWL Intervention + BCT 5 Message (Social Comparison)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 6 Message (Social Reward)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app reinforces participants' effort or progress in performing one of the 3 target behaviors (daily weighing, active minutes, red food intake).</description>
+    <arm_group_label>Core BWL Intervention + BCT 6 Message (Social Reward)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavior Change Technique 7 Message (Focus on Past Success)</intervention_name>
+    <description>Core BWL Intervention + Message in smartphone app advises participants to think about or list previous successes related to performing one of the 3 target behaviors (daily weighing, active minutes, red food intake).</description>
+    <arm_group_label>Core BWL Intervention + BCT 7 Message (Focus on Past Success)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body mass index (BMI) of 25 - 45 kg/m^2 at baseline&#xD;
+&#xD;
+          -  English-speaking, reading, and writing&#xD;
+&#xD;
+          -  Own a smartphone with a data and text messaging plan&#xD;
+&#xD;
+          -  Achieve fewer than 210 minutes/week of moderate to vigorous intensity physical&#xD;
+             activity at baseline&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Type 1 diabetes or currently receiving medical treatment for Type 2 diabetes&#xD;
+&#xD;
+          -  Report a heart condition, chest pain during periods of activity or rest, or loss of&#xD;
+             consciousness on the Physical Activity Readiness Questionnaire (PAR-Q; items 1-4).&#xD;
+&#xD;
+          -  Other health problems which may influence the ability to walk for physical activity or&#xD;
+             be associated with unintentional weight change, including cancer treatment within the&#xD;
+             past 5 years or tuberculosis&#xD;
+&#xD;
+          -  Lost 10 lbs. or more of body weight (and kept it off) in the last 3 months&#xD;
+&#xD;
+          -  Past diagnosis of or receiving treatment for a clinically diagnosed eating disorder&#xD;
+             (anorexia nervosa or bulimia nervosa) or any compensatory behaviors within the&#xD;
+             previous 3 months&#xD;
+&#xD;
+          -  Current symptoms of alcohol or substance dependence&#xD;
+&#xD;
+          -  Currently pregnant, pregnant within the past 6 months, or planning to become pregnant&#xD;
+             within the next 6 months&#xD;
+&#xD;
+          -  Untreated thyroid disease or any changes (type or dose) in thyroid medication in last&#xD;
+             6 months&#xD;
+&#xD;
+          -  Hospitalization for depression or other psychiatric disorder within the past 12 months&#xD;
+&#xD;
+          -  History of psychotic disorder or bipolar disorder&#xD;
+&#xD;
+          -  Currently participating in a weight loss, nutrition, or physical activity study or&#xD;
+             program or other study that would interfere with this study&#xD;
+&#xD;
+          -  Currently using prescription medications with known effects on appetite or weight&#xD;
+             (e.g., oral steroids, weight loss medications), with the exception of individuals on a&#xD;
+             stable dose of Selective Serotonin Reuptake Inhibitors (SSRIs) for 3 months)&#xD;
+&#xD;
+          -  Previous surgical procedure for weight loss or planned weight loss surgery in the next&#xD;
+             year&#xD;
+&#xD;
+          -  Another member of the household is a participant or staff member on this trial&#xD;
+&#xD;
+          -  Reason to suspect that the participant would not adhere to the study intervention&#xD;
+&#xD;
+          -  Reside outside of the United States&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carmina G. Valle, PhD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistant Professor</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Karen E Hatley, MPH, RD</last_name>
+    <phone>919-966-5853</phone>
+    <email>keericks@email.unc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karen E Hatley, MPH, RD</last_name>
+      <phone>919-491-1895</phone>
+      <email>keericks@email.unc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>November 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mobile intervention</keyword>
+  <keyword>Diet</keyword>
+  <keyword>Physical Activity</keyword>
+  <keyword>Behavioral weight loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified individual data that supports the results will be shared beginning 12 to 36 months following publication provided the investigator who proposes to use the data has submitted a written proposal to the Principal Investigator describing the intended use of the data and approval from an Institutional Review Board (IRB), Independent Ethics Committee (IEC), or Research Ethics Board (REB), as applicable, and executes a data use/sharing agreement with UNC. The release of specific data may be delayed if data are part of an analysis being prepared for a separate publication.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>beginning at 12 and continuing for 36 months following publication</ipd_time_frame>
+    <ipd_access_criteria>Investigator has UNC PI-approved proposal, institutional IRB, IEC, or REB approval and an executed data use/sharing agreement with UNC</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

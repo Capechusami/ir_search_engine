@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611164</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P002-SP002</org_study_id>
+    <nct_id>NCT05611164</nct_id>
+  </id_info>
+  <brief_title>Evaluation of SiD's System for Improving Assisted Reproduction Treatments</brief_title>
+  <official_title>SiD, an Assistant for Sperm Selection During Intracytoplasmic Sperm Injection in Medically Assisted Reproduction: Effect on Fertilization, Blastocyst Formation, Early Pregnancy Loss, and Consistent Practice. A Prospective Pilot Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IVF 2.0 Limited</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>New Hope Fertility Center Mexico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>IVF 2.0 Limited</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      According to the WHO, infertility affects 15% of reproductive age couples worldwide. Among&#xD;
+      the assisted reproductive technologies available for patients with infertility,&#xD;
+      intracytoplasmic sperm injection (ICSI) has become one of the most widely employed and is now&#xD;
+      thought to be the most common method for oocyte insemination outside of the human body.&#xD;
+&#xD;
+      ICSI entails the selection of an individual sperm cell and its injection directly into an&#xD;
+      oocyte. Usually, an embryologist performs the selection of the individual sperm cell to&#xD;
+      inject by subjectively observing the morphology and progression of the candidate&#xD;
+      spermatozoon. Subjectivity and time constrains, however, suggest the best possible candidate&#xD;
+      might not always be selected. Further optimization of ICSI technology remains a significant&#xD;
+      goal, yet the majority of approaches proposed in the literature have returned mixed results.&#xD;
+      The deployment of an artificial intelligence (AI) software capable of detecting and&#xD;
+      non-invasively predicting the value of individual spermatozoa in real time could&#xD;
+      significantly improve ICSI.&#xD;
+&#xD;
+      SiD (IVF 2.0 Ltd, London, UK) is a software designed to identify, evaluate, and assist in the&#xD;
+      spermatozoon selection process ahead of ICSI. SID uses a mathematical model to evaluate&#xD;
+      individual spermatozoa in real-time according to their motility patterns (for instance&#xD;
+      velocity, linearity, straightness) and their morphology. The software has been developed by&#xD;
+      making use of retrospective data analysis, but its prospective evaluation is still pending.&#xD;
+&#xD;
+      With the above in mind, this study intends to address the following question: can the use of&#xD;
+      a software assistant for the selection of individual sperm cells for injection (SiD), improve&#xD;
+      ICSI outcomes (oocyte fertilization, embryo development and quality, embryo ploidy,&#xD;
+      pregnancy, and live birth)? Patients with a clinical indication for undergoing ICSI will be&#xD;
+      prospectively enrolled into the study. Following ovarian stimulation, the oocytes retrieved&#xD;
+      from each patient will be randomly split into two groups and inseminated by ICSI using sperm&#xD;
+      selected either subjectively by an embryologist (control group) or by the software assistant&#xD;
+      SiD (experimental group). Embryos will be allowed to develop for up to six days and until&#xD;
+      blastocyst formation assessments are completed. Embryos might be subjected to cytogenetic&#xD;
+      screening or used for embryo transfer according to patient needs. The recorded outcomes will&#xD;
+      be anonymized prior to statistical analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2022</start_date>
+  <completion_date type="Actual">October 31, 2022</completion_date>
+  <primary_completion_date type="Actual">September 5, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Fertilization rate</measure>
+    <time_frame>16-18 hours after ICSI</time_frame>
+    <description>Rate of oocytes that present two pronuclei or cell division</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blastocyst formation rate</measure>
+    <time_frame>around 120 hours after ICSI</time_frame>
+    <description>Rate of oocytes that have a defined trophectoderm and inner cell mass</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Usable blastocyst formation rate</measure>
+    <time_frame>around 120 hours after ICSI</time_frame>
+    <description>Rate of oocytes that have a blastocyst that is transferable accoring to its quality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ploidy status</measure>
+    <time_frame>trophectoderm biopsy is performed around 120 hours after ICSI</time_frame>
+    <description>euploid rate (when available)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical pregnancy</measure>
+    <time_frame>2 weeks after blastocyst transference</time_frame>
+    <description>human beta chorionic gonadotropin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical pregnancy</measure>
+    <time_frame>6 weeks after blastocyst transference</time_frame>
+    <description>Presence of heartbeat</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Infertility</condition>
+  <arm_group>
+    <arm_group_label>Sperm selected by embryologist without software assistance</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>For each patient, oocytes collected following one ovarian stimulation cycle are randomly distributed in two groups (&quot;no intervention&quot; and &quot;experimental&quot; arms), in a sibling oocyte study design. In the &quot;no intervention&quot; arm, the individual spermatozoa for injection are selected subjectively by the embryologist.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sperm selected with AI assistant SiD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For each patient, oocytes collected following one ovarian stimulation cycle are randomly distributed in two groups (&quot;no intervention&quot; and &quot;experimental&quot; arms), in a sibling oocyte study design. In the &quot;experimental&quot; arm, the spermatozoa selection for injection is performed based on the recommendation of the AI assistant SiD.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Software assisted selection of individual spermatozoa for intracytoplasmic sperm injection</intervention_name>
+    <description>Half of the oocytes will be injected with a sperm selected with SiD's assistance</description>
+    <arm_group_label>Sperm selected with AI assistant SiD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant's age between 18 and 40 years of age.&#xD;
+&#xD;
+          -  Informed consent signed by the patient before treatment.&#xD;
+&#xD;
+          -  IVF treatments with medical or embryology indication to perform ICSI.&#xD;
+&#xD;
+          -  Cycles with at least 2 oocytes in Metaphase II.&#xD;
+&#xD;
+          -  Fresh ejaculated motile sperm.&#xD;
+&#xD;
+          -  Fresh oocytes.&#xD;
+&#xD;
+          -  Selection of sperm using a 7% or 10% PVP solution.&#xD;
+&#xD;
+          -  Presence of motile sperm at the time of sperm selection for ICSI.&#xD;
+&#xD;
+          -  Videos recorded with a total magnification of 200x.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients diagnosed with recurrent pregnancy loss.&#xD;
+&#xD;
+          -  Spermatozoa extracted by testicular biopsy.&#xD;
+&#xD;
+          -  Frozen/thawed spermatozoa.&#xD;
+&#xD;
+          -  Frozen/thawed oocytes in any case.&#xD;
+&#xD;
+          -  That the recommendations for use of SiD have not been fully followed.&#xD;
+&#xD;
+          -  Poor quality of saved ICSI video.&#xD;
+&#xD;
+          -  Inability to reliably trace sperm-oocyte-embryo throughout the process.&#xD;
+&#xD;
+          -  Oocytes that are not in Metaphase II.&#xD;
+&#xD;
+          -  Patients with immotile sperm&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>New Hope Fertility Center</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44630</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Hope Fertility Center</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>11000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>November 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

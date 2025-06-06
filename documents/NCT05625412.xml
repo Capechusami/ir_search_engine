@@ -1,0 +1,867 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625412</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IM043-004</org_study_id>
+    <secondary_id>2022-500930-27</secondary_id>
+    <nct_id>NCT05625412</nct_id>
+  </id_info>
+  <brief_title>A Study of BMS-986360/CC-90001 Alone and in Combination With Chemotherapy or Nivolumab in Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1, Open-label, Multicenter Study of BMS-986360/CC-90001 Alone and in Combination With Chemotherapy or Nivolumab in Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to assess the safety and tolerability of BMS-986360 as monotherapy&#xD;
+      and in combination with chemotherapy or nivolumab in participants with advanced solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 9, 2022</start_date>
+  <completion_date type="Anticipated">July 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with Adverse Events (AEs)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with Dose-Limiting Toxicities (DLTs)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with AEs leading to discontinuation</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of deaths</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum observed plasma concentration (Cmax)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of maximum observed plasma concentration (Tmax)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration-time curve (AUC)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 1: Objective response rate (ORR) based on Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: ORR based on RECIST v1.1 by blinded independent central review (BICR) assessment</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 1: Duration of Response (DOR) based on RECIST v1.1 by investigator</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: DOR based on RECIST v1.1 by BICR assessment</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Advanced Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>BMS-986360</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BMS-986360 + Docetaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BMS-986360 + Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BMS-986360 + Capecitabine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BMS-986360</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>BMS-986360</arm_group_label>
+    <arm_group_label>BMS-986360 + Capecitabine</arm_group_label>
+    <arm_group_label>BMS-986360 + Docetaxel</arm_group_label>
+    <arm_group_label>BMS-986360 + Nivolumab</arm_group_label>
+    <other_name>CC-90001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>BMS-986360 + Docetaxel</arm_group_label>
+    <other_name>Taxotere®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>BMS-986360 + Nivolumab</arm_group_label>
+    <other_name>Opdivo®</other_name>
+    <other_name>BMS-936558</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>BMS-986360 + Capecitabine</arm_group_label>
+    <other_name>Xeloda®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants in Part 1 must have histologic or cytologic confirmation of non-small&#xD;
+             cell lung cancer (NSCLC), metastatic triple negative breast cancer (mTNBC), squamous&#xD;
+             cell carcinoma of head and neck (SCCHN), pancreatic adenocarcinoma (PAAD), renal cell&#xD;
+             carcinoma (RCC), microsatellite-stable colorectal carcinoma (MSS CRC), or sarcoma,&#xD;
+             that is advanced (metastatic, recurrent, and/or unresectable) with measurable disease&#xD;
+             per RECIST v1.1. In Part 2, only participants with histologic confirmation of advanced&#xD;
+             NSCLC or mTNBC with measurable disease per RECIST v1.1 are eligible.&#xD;
+&#xD;
+          -  In Part 2, archival biopsy collected within 3 months of screening with no intervening&#xD;
+             therapy (formalin-fixed, paraffin embedded [FFPE] blocks or a minimum of 20 freshly&#xD;
+             cut unstained FFPE slides with an associated pathological report) or fresh biopsy&#xD;
+             collection at Screening and fresh biopsy collection at cycle 3 day 1 (C3D1) (± 5 days)&#xD;
+             are mandatory, while it is strongly encouraged but optional at progression. Therefore,&#xD;
+             the participant in Part 2 must have a suitable tumor lesion for the biopsy procedure,&#xD;
+             as judged by the investigator, in order to be eligible for the study.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.&#xD;
+&#xD;
+          -  Participants resistant/refractory to or intolerant of existing standard therapies&#xD;
+             known to provide clinical benefit (in addition, participants with NSCLC must be&#xD;
+             resistant or refractory to anti-PD-(L)1-based immunotherapy)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with primary central nervous system (CNS) disease, or tumors with CNS&#xD;
+             metastases as the only disease site, will be excluded. Participants with controlled&#xD;
+             brain metastases, however, will be allowed to enroll. Controlled brain metastases are&#xD;
+             defined as no radiographic progression for at least 4 weeks following radiation and/or&#xD;
+             surgical treatment (or 4 weeks of observation if no intervention is clinically&#xD;
+             indicated), no longer taking steroids for at least 2 weeks prior to first dose of&#xD;
+             study intervention, and with no new or progressive neurological signs and symptoms.&#xD;
+&#xD;
+          -  Participants with a condition requiring systemic treatment with corticosteroids (&gt; 10&#xD;
+             mg daily prednisone equivalent) within 14 days or other immunosuppressive medications&#xD;
+             within 30 days of randomization. Inhaled or topical steroids and adrenal replacement&#xD;
+             steroid doses &gt; 10 mg daily prednisone equivalent are permitted in the absence of&#xD;
+             active autoimmune disease.&#xD;
+&#xD;
+          -  Participants with concurrent malignancy or history of prior malignancy active within 2&#xD;
+             years (except history of early-stage basal/squamous cell skin cancer or non-invasive&#xD;
+             or in situ cancers who have undergone definitive treatment) are excluded unless&#xD;
+             treatment was completed at least 2 years before randomization and the participant has&#xD;
+             no evidence of disease.&#xD;
+&#xD;
+          -  Participants with NSCLC with known or not tested for epidermal growth factor receptor&#xD;
+             (EGFR) or V-raf murine sarcoma viral oncogene homolog B1 (BRAF) V600E mutations, or&#xD;
+             anaplastic lymphoma kinase (ALK) or receptor tyrosine kinase (ROS1) translocations&#xD;
+             sensitive to available targeted inhibitor therapy&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BMS Study Connect Contact Center www.BMSStudyConnect.com</last_name>
+    <phone>855-907-3286</phone>
+    <email>Clinical.Trials@bms.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>First line of the email MUST contain the NCT# and Site #.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Angeles Clinic and Research Institute - West Los Angeles Office</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Omid Hamid, Site 0029</last_name>
+      <phone>310-231-2121</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Valkyrie Clinical Trials</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90067</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Berz, Site 0051</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Medical Center - Jefferson Highway</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniel Johnson, Site 0026</last_name>
+      <phone>504-842-3910</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>John Theurer Cancer Center at Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Gutierrez, Site 0001</last_name>
+      <phone>551-996-5863</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Carolina BioOncology Institute</name>
+      <address>
+        <city>Huntersville</city>
+        <state>North Carolina</state>
+        <zip>28078</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Powderly, Site 0018</last_name>
+      <phone>704-654-0485</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology Nashville</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Melissa Johnson, Site 0028</last_name>
+      <phone>615-329-7274</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>South Texas Accelerated Research Therapeutics (START)</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Drew Rasco, Site 0027</last_name>
+      <phone>210-593-5250</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>START Mountain Region</name>
+      <address>
+        <city>West Valley City</city>
+        <state>Utah</state>
+        <zip>84119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Justin Call, Site 0046</last_name>
+      <phone>801-907-4750</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Virginia</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mohamad Salkeni, Site 0014</last_name>
+      <phone>513-558-3845</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0033</name>
+      <address>
+        <city>Ciudad autónoma de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>1280</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0033</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0032</name>
+      <address>
+        <city>ABB</city>
+        <state>Ciudad Autónoma De Buenos Aires</state>
+        <zip>C1199ABB</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0032</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0030</name>
+      <address>
+        <city>Caba</city>
+        <state>Ciudad Autónoma De Buenos Aires</state>
+        <zip>C1430EGF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0030</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0031</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <zip>1426</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0031</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0010</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0010</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0061</name>
+      <address>
+        <city>St Leonards</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0061</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0008</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4120</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0008</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0063</name>
+      <address>
+        <city>Frankston</city>
+        <state>Victoria</state>
+        <zip>3199</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0063</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0003</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0003</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0005</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0005</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0047</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana De Santiago</state>
+        <zip>6900941</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0047</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0034</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana De Santiago</state>
+        <zip>8420383</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0034</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0049</name>
+      <address>
+        <city>Marseille</city>
+        <state>Provence-Alpes-Côte-d'Azur</state>
+        <zip>13273</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0049</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0052</name>
+      <address>
+        <city>Villejuif</city>
+        <state>Val-de-Marne</state>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0052</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0048</name>
+      <address>
+        <city>Paris</city>
+        <zip>75248</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0048</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0050</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0050</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0057</name>
+      <address>
+        <city>Rozzano</city>
+        <state>Milano</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0057</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0058</name>
+      <address>
+        <city>Rome</city>
+        <state>Roma</state>
+        <zip>00144</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0059</name>
+      <address>
+        <city>Candiolo</city>
+        <state>Torino</state>
+        <zip>10060</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0059</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0065</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0065</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0038</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Distrito Federal</state>
+        <zip>03100</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0038</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0036</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Distrito Federal</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0036</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0041</name>
+      <address>
+        <city>Zapopan</city>
+        <state>Jalisco</state>
+        <zip>45070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0041</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0039</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo León</state>
+        <zip>66460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0039</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0037</name>
+      <address>
+        <city>Puebla</city>
+        <zip>72424</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0037</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0053</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalunya [Cataluña]</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0053</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0055</name>
+      <address>
+        <city>Madrid</city>
+        <state>Madrid, Comunidad De</state>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0055</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0056</name>
+      <address>
+        <city>Madrid</city>
+        <state>Madrid, Comunidad De</state>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0056</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0054</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0054</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0064</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0064</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>https://www.bmsstudyconnect.com/s/US/English/USenHome</url>
+    <description>BMS Clinical Trial Patient Recruiting</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>May 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Solid tumors</keyword>
+  <keyword>Nivolumab</keyword>
+  <keyword>Chemotherapy</keyword>
+  <keyword>BMS-986360</keyword>
+  <keyword>CC-90001</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>BMS will provide access to individual anonymized participant data upon request from qualified researchers, and subject to certain criteria. Additional information regarding Bristol Myers Squibb's data sharing policy and process can be found at: https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosurecommitment.html</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

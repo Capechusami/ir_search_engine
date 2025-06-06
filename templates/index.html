@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IR System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        body.light {
+            background-color: #fff;
+            color: #333;
+        }
+
+        body.dark {
+            background-color: #121212;
+            color: #fff;
+        }
+
+        .container {
+            margin-top: 100px;
+        }
+
+        .logo {
+            font-size: 36px;
+            color: #4285f4;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: inline-block;
+            width: 60%;
+        }
+
+        input[type="text"] {
+            width: 80%;
+            padding: 14px 20px;
+            font-size: 18px;
+            border: 1px solid #dcdcdc;
+            border-radius: 24px;
+            box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+            outline: none;
+        }
+
+        input[type="text"]:focus {
+            border-color: #4285f4;
+        }
+
+        input[type="submit"] {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 25px;
+            background-color: #4285f4;
+            color: white;
+            cursor: pointer;
+        }
+
+        .result {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fefefe;
+            padding: 20px;
+            text-align: left;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+
+        body.dark .result {
+            background: #2a2a2a;
+            color: #fff;
+            border: 1px solid #444;
+        }
+
+        button {
+            margin-top: 10px;
+            padding: 6px 12px;
+            background-color: #f8f9fa;
+            border: 1px solid #dcdcdc;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #e8e8e8;
+        }
+
+        h2 {
+            color: #202124;
+            font-size: 24px;
+            margin-top: 60px;
+        }
+
+        body.dark h2 {
+            color: #fff;
+        }
+
+        .result-meta {
+            font-size: 14px;
+            color: #555;
+            margin-top: 10px;
+        }
+
+        .result-meta span {
+            margin-right: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f5f5f5;
+        }
+
+        body.dark th {
+            background-color: #333;
+        }
+
+        body.dark td, body.dark th {
+            border-color: #555;
+        }
+
+        .toggle-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 25px;
+            background-color: #4285f4;
+            color: white;
+            cursor: pointer;
+        }
+
+        .toggle-btn:hover {
+            background-color: #357ae8;
+        }
+
+    </style>
+</head>
+
+<script>
+    function toggleTheme() {
+        const currentTheme = document.body.classList.contains("dark") ? "dark" : "light";
+        document.body.classList.remove(currentTheme);
+        document.body.classList.add(currentTheme === "light" ? "dark" : "light");
+        localStorage.setItem("theme", currentTheme === "light" ? "dark" : "light");
+    }
+
+    window.onload = function () {
+        const savedTheme = localStorage.getItem("theme") || "light";
+        document.body.classList.add(savedTheme);
+    };
+
+    function toggleContent(docId) {
+        const contentDiv = document.getElementById("content-" + docId);
+        contentDiv.style.display = (contentDiv.style.display === "none") ? "block" : "none";
+    }
+</script>
+
+<body>
+<div class="toggle-btn" onclick="toggleTheme()">Dark Mode</div>
+
+<div class="container">
+    <div class="logo">Search Engine</div>
+    <form method="POST">
+        <input type="text" name="query" placeholder="Search here..." required>
+        <input type="submit" value="Search">
+    </form>
+</div>
+
+{% if results %}
+    <h2>Search Results</h2>
+
+    {% for doc_id, score in results %}
+        <div class="result">
+            <h3>{{ headers[doc_id] }}</h3>
+            <div class="result-meta">
+                <span><strong>Cosine Similarity:</strong> {{ '%.4f' % score }}</span>
+                <span><strong>Document Length:</strong> {{ stats.doc_lengths[doc_id] }}</span>
+            </div>
+            <p><strong>Snippet:</strong> {{ snippets[doc_id] }}
+                <button onclick="toggleContent('{{ doc_id }}')">More</button>
+            </p>
+
+            <div id="content-{{ doc_id }}" style="display:none;">
+                <p><strong>Full Content:</strong> {{ documents[doc_id] }}</p>
+
+                <h4>Term Statistics</h4>
+                <table style="width: 100%; border-collapse: collapse; margin-top: 15px;">
+                    <thead>
+                        <tr style="background-color: #f5f5f5;">
+                            <th style="padding: 8px; border: 1px solid #ddd;">Term</th>
+                            <th style="padding: 8px; border: 1px solid #ddd;">TF</th>
+                            <th style="padding: 8px; border: 1px solid #ddd;">IDF</th>
+                            <th style="padding: 8px; border: 1px solid #ddd;">TF-IDF</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for term in stats.query_terms %}
+                        <tr>
+                            <td style="padding: 8px; border: 1px solid #ddd;">{{ term }}</td>
+                            <td style="padding: 8px; border: 1px solid #ddd;">{{ stats.TF.get(doc_id, {}).get(term, 0) }}</td>
+                            <td style="padding: 8px; border: 1px solid #ddd;">{{ '%.4f' % stats.IDF.get(term, 0.0) }}</td>
+                            <td style="padding: 8px; border: 1px solid #ddd;">{{ '%.4f' % stats.TFIDF.get(doc_id, {}).get(term, 0.0) }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    {% endfor %}
+{% endif %}
+</body>
+</html>

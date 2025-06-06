@@ -1,0 +1,200 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARI-11-20</org_study_id>
+    <nct_id>NCT05620953</nct_id>
+  </id_info>
+  <brief_title>Severe Acute Respiratory Infections (SARI) in Belgium (2011-2020)</brief_title>
+  <acronym>SARIpreSC2</acronym>
+  <official_title>Severe Acute Respiratory Infections Surveillance in Belgium (2011-2020, Prior to COVID-19 Pandemic)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sciensano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Belgian Federal Public Service, Food Chain Safety and Environment</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier Universitaire Saint Pierre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AZ Sint-Jan AV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitair Ziekenhuis Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Grand Hôpital de Charleroi</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jessa Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier Universitaire Dinant Godinne - UCL Namur</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sciensano</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Belgian Severe Acute Respiratory Infections network (BELSARI-net) was implemented during&#xD;
+      the influenza season 2011-2012 following the recommendations of the World Health Organization&#xD;
+      (WHO) to monitor severity of influenza viruses in hospitals. The network is composed of 6&#xD;
+      hospitals throughout the country, two in each administrative region (Flanders, Wallonia and&#xD;
+      Brussels-Capital), and operates during the influenza epidemic period (from the last week of&#xD;
+      December or first/second week of January to the third/last week of April, depending on when&#xD;
+      influenza virus circulation is detected by the general population, based on the&#xD;
+      Influenza-like illness (ILI) network of general practitioners).&#xD;
+&#xD;
+      Enrollment is performed for all cases matching the SARI case definition (based on WHO's case&#xD;
+      definition) and accepting to take part. A respiratory specimen is sampled systematically from&#xD;
+      each participant, and detailed clinico-epidemiological data, such as information on age, sex,&#xD;
+      symptoms and potential risk factors such as pregnancy or comorbidities (chronic respiratory&#xD;
+      diseases, asthma, chronic cardiovascular diseases, renal insufficiency, obesity, diabetes,&#xD;
+      hepatic or renal insufficiency, immunodeficiency, neuromuscular disease, pregnancy) is also&#xD;
+      collected. Participants are followed up during hospitalization for the occurrence of&#xD;
+      complications (detection of pneumonia based on chest radiography, development of acute&#xD;
+      respiratory distress syndrome (ARDS), requirement for respiratory assistance and/or for&#xD;
+      extracorporeal membrane oxygenation (ECMO), admission in intensive care unit (ICU)), or death&#xD;
+      (all-cause death).&#xD;
+&#xD;
+      The current project includes all the samples received by the Belgian National Influenza&#xD;
+      Centre (NIC) during the influenza seasons 2011-2012 till 2019-2020.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 20, 2012</start_date>
+  <completion_date type="Actual">April 2, 2020</completion_date>
+  <primary_completion_date type="Actual">April 2, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants positive for influenza viruses</measure>
+    <time_frame>within 10 days after symptom onset</time_frame>
+    <description>result of influenza PCR detection test (typing and subtyping)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants positive for non-influenza viruses</measure>
+    <time_frame>within 10 days after symptom onset (only routinely tested since influenza season 2015-2016)</time_frame>
+    <description>results of non-influenza multiplex PCR detection test (16 targets)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who died during hospitalization</measure>
+    <time_frame>from date of hospital admission until date of death during hospitalization or date of hospital exit</time_frame>
+    <description>alive or dead</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with at least one known risk factor</measure>
+    <time_frame>on date of hospital admission</time_frame>
+    <description>existence of co-morbidities or known risk factors among a list provided on form</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experienced at least one complication</measure>
+    <time_frame>from date of hospital admission until date of death during hospitalization or date of hospital exit</time_frame>
+    <description>occurence of complications (among a list provided on form) during hospitalisation stay</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">12145</enrollment>
+  <condition>Influenza Viral Infections</condition>
+  <condition>Respiratory Viral Infection</condition>
+  <condition>Severe Acute Respiratory Infection</condition>
+  <arm_group>
+    <arm_group_label>SARI case</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>respiratory specimen</intervention_name>
+    <description>nasopharyngeal swab or nasal aspiration or broncho-alveolar lavage</description>
+    <arm_group_label>SARI case</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      respiratory specimens (mainly nasopharyngeal swabs, but a few nasal aspirates and&#xD;
+      broncho-alveolar lavages)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to one of the 6 participating hospital during the season surveillance&#xD;
+        dates.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All pediatric and adult patients admitted to one of the 6 sentinel hospitals during&#xD;
+             the active surveillance and fulfilling the case definition of acute respiratory&#xD;
+             infection with onset within the last ten days, with history of fever or measured fever&#xD;
+             of ≥38°C, with cough and/or dyspnea, and overnight hospitalization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  nosocomial infection, i.e. symptoms appearing after admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <results_reference>
+    <citation>Subissi L, Bossuyt N, Reynders M, Gerard M, Dauby N, Lacor P, Daelemans S, Lissoir B, Holemans X, Magerman K, Jouck D, Bourgeois M, Delaere B, Quoilin S, Van Gucht S, Thomas I, Barbezange C. Spotlight influenza: Extending influenza surveillance to detect non-influenza respiratory viruses of public health relevance: analysis of surveillance data, Belgium, 2015 to 2019. Euro Surveill. 2021 Sep;26(38):2001104. doi: 10.2807/1560-7917.ES.2021.26.38.2001104.</citation>
+    <PMID>34558405</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fischer N, Dauby N, Bossuyt N, Reynders M, Gerard M, Lacor P, Daelemans S, Lissoir B, Holemans X, Magerman K, Jouck D, Bourgeois M, Delaere B, Quoilin S, Van Gucht S, Thomas I, Barbezange C, Subissi L. Monitoring of human coronaviruses in Belgian primary care and hospitals, 2015-20: a surveillance study. Lancet Microbe. 2021 Mar;2(3):e105-e114. doi: 10.1016/S2666-5247(20)30221-4. Epub 2021 Jan 27.</citation>
+    <PMID>33937883</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Subissi L, Bossuyt N, Reynders M, Gerard M, Dauby N, Bourgeois M, Delaere B, Quoilin S, Van Gucht S, Thomas I, Barbezange C. Capturing respiratory syncytial virus season in Belgium using the influenza severe acute respiratory infection surveillance network, season 2018/19. Euro Surveill. 2020 Oct;25(39):1900627. doi: 10.2807/1560-7917.ES.2020.25.39.1900627.</citation>
+    <PMID>33006303</PMID>
+  </results_reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sciensano</investigator_affiliation>
+    <investigator_full_name>Cyril Barbezange</investigator_full_name>
+    <investigator_title>scientist</investigator_title>
+  </responsible_party>
+  <keyword>sentinel surveillance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

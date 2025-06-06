@@ -1,0 +1,569 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624606</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VAV00020</org_study_id>
+    <secondary_id>U1111-1275-1516</secondary_id>
+    <nct_id>NCT05624606</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of Quadrivalent Influenza mRNA Vaccine MRT5410 in Adult Participants 18 Years of Age and Older</brief_title>
+  <official_title>Safety and Immunogenicity of Quadrivalent Influenza mRNA Vaccine MRT5410 in Adults Aged 18 Years and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi Pasteur, a Sanofi Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and immunogenicity of a single&#xD;
+      intramuscular (IM) injection of up to 3 dose levels of Quadrivalent Influenza mRNA Vaccine&#xD;
+      MRT5410 compared to an active control (QIV SD, QIV HD [adults ≥ 65 years of age only], or&#xD;
+      RIV4) in adults 18 years of age and older.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Approximately 12 months&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 28, 2022</start_date>
+  <completion_date type="Anticipated">March 14, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 14, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Sentinel Cohort: Open label&#xD;
+Main Cohort:&#xD;
+Open label (Sponsor, except laboratory testing personnel)&#xD;
+Blinded (Sites, except for those preparing/administering study intervention)</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This is a parallel-group prevention study with up to 6 arms that will be blinded to participants, investigators / sub-investigators, outcomes assessors, and laboratory personnel (with the exception of the sentinel safety portion of the study, which will be open-label). The Sponsor study staff will be unblinded (except laboratory testing personnel).</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with immediate adverse events (AEs)</measure>
+    <time_frame>Within 30 minutes after injection</time_frame>
+    <description>Unsolicited systemic AEs that occur within 30 minutes after vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with solicited injection site reactions or systemic reactions</measure>
+    <time_frame>Within 7 days after injection</time_frame>
+    <description>Adverse reactions pre-listed in the protocol and case report form (CRF) Injection site reactions: pain, redness, swelling, hardening, bruising Systemic reactions: fever, headache, malaise, myalgia, arthralgia, chills</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with unsolicited AEs</measure>
+    <time_frame>Within 28 days after injection</time_frame>
+    <description>AEs that do not fulfill the conditions of solicited reactions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with medically attended adverse events (MAAE)s</measure>
+    <time_frame>Within 180 days after injection</time_frame>
+    <description>AEs with a new onset or a worsening of a condition that prompts the participant or participant to seek unplanned medical advice at a physician's office or Emergency Department</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with serious adverse events (SAEs)</measure>
+    <time_frame>From Day 1 until Day 366</time_frame>
+    <description>SAEs reported throughout the study</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with out-of-range biological test results</measure>
+    <time_frame>Within 8 days after injection</time_frame>
+    <description>Out-of-range biological test results (including shift from baseline values)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual Hemagglutination inhibition (HAI) titer</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+    <description>Antibody titers are expressed as GMTs at baseline and post-baseline</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with detectable antibody HAI titers greater than or equal to (≥) 10 [1/dil]</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual HAI titer ratio</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+    <description>Ratios of antibody titers measured by HAI in each group before and after vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants archiving HAI seroconversion against Antigens</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+    <description>Number of participants with titer &lt; 10 [1/dil] at Day 1 and post-vaccination titer ≥ 40 [1/dil] at Day 29, or titer ≥ 10 [1/dil] at Day 1 and a ≥ 4-fold-rise in titer [1/dil] at Day 29</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with antibody HAI titers greater than or equal to (≥) 40 [1/dil]</measure>
+    <time_frame>Day 29</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with 2-fold and 4-fold rise in HAI titers</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Ab titers</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+    <description>Neutralizing Ab titers expressed as GMTs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual neutralizing antibodies titer ratio</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with 2-fold and 4-fold increase in neutralizing titers</measure>
+    <time_frame>Day 1 and Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual HAI Ab titer ratio</measure>
+    <time_frame>Day 1, Day 91, Day 181 and Day 366</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with antibody HAI titers greater than or equal to (≥) 40 [1/dil]</measure>
+    <time_frame>Day 91, Day 181 and Day 366</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual antibodies HAI titer ratio</measure>
+    <time_frame>Day 1, Day 91, Day 181 and Day 366</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">683</enrollment>
+  <condition>Influenza Immunization</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Quadrivalent Influenza mRNA Vaccine MRT5410 low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants will receive a single dose (low) of QIV mRNA vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Quadrivalent Influenza mRNA Vaccine MRT5410 medium dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants will receive a single dose (medium) of QIV mRNA vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: Quadrivalent Influenza mRNA Vaccine MRT5410 high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants will receive a single dose (high) of QIV mRNA vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4: RIV4</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants will receive a single dose of RIV4 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5: QIV-SD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants will receive a single dose of QIV-SD vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 6: QIV-HD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants will receive a single dose of QIV -HD vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Quadrivalent Influenza mRNA Vaccine MRT5410</intervention_name>
+    <description>Pharmaceutical form: Liquid frozen solution for injection in a vial Route of administration: Intramuscular</description>
+    <arm_group_label>Group 1: Quadrivalent Influenza mRNA Vaccine MRT5410 low dose</arm_group_label>
+    <arm_group_label>Group 2: Quadrivalent Influenza mRNA Vaccine MRT5410 medium dose</arm_group_label>
+    <arm_group_label>Group 3: Quadrivalent Influenza mRNA Vaccine MRT5410 high dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Quadrivalent Recombinant Influenza vaccine RIV4</intervention_name>
+    <description>Pharmaceutical form: Liquid suspension for injection in prefilled syringe Route of administration: Intramuscular</description>
+    <arm_group_label>Group 4: RIV4</arm_group_label>
+    <other_name>Flublok Quadrivalent®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Quadrivalent Inactivated Influenza Standard Dose QIV-SD</intervention_name>
+    <description>Pharmaceutical form: Liquid suspension for injection in prefilled syringe Route of administration: Intramuscular</description>
+    <arm_group_label>Group 5: QIV-SD</arm_group_label>
+    <other_name>Fluzone Quadrivalent®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Quadrivalent Inactivated Influenza High Dose QIV-HD</intervention_name>
+    <description>Pharmaceutical form: Liquid suspension for injection in prefilled syringe Route of administration: Intramuscular</description>
+    <arm_group_label>Group 6: QIV-HD</arm_group_label>
+    <other_name>Fluzone High-Dose Quadrivalent®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 18 years on the day of inclusion (US) and aged 21 years on the day of inclusion&#xD;
+             (Puerto Rico)&#xD;
+&#xD;
+          -  A female participant is eligible to participate if she is not pregnant or&#xD;
+             breastfeeding and one of the following conditions applies:&#xD;
+&#xD;
+        Is of non-childbearing potential. To be considered of non-childbearing potential, a female&#xD;
+        must be postmenopausal for at least 1 year, or surgically sterile OR Is of childbearing&#xD;
+        potential and agrees to use an effective contraceptive method or abstinence from at least 4&#xD;
+        weeks prior to study intervention administration until at least 12 weeks after study&#xD;
+        intervention administration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known or suspected congenital or acquired immunodeficiency; or receipt of&#xD;
+             immunosuppressive therapy, such as anti-cancer chemotherapy or radiation therapy,&#xD;
+             within the preceding 6 months; or long-term systemic corticosteroid therapy&#xD;
+             (prednisone or equivalent for more than 2 consecutive weeks within the past 3 months)&#xD;
+&#xD;
+          -  Previous history of myocarditis, pericarditis, and / or myopericarditis&#xD;
+&#xD;
+          -  Self-reported thrombocytopenia, contraindicating IM vaccination based on&#xD;
+             Investigator's judgment&#xD;
+&#xD;
+          -  Bleeding disorder, or receipt of anticoagulants in the 3 weeks preceding inclusion,&#xD;
+             contraindicating IM vaccination based on Investigator's judgment&#xD;
+&#xD;
+          -  Moderate or severe acute illness / infection (according to Investigator's judgment) or&#xD;
+             febrile illness (temperature ≥ 38.0°C [≥ 100.4°F]) on the day of vaccination. A&#xD;
+             prospective participant should not be included in the study until the condition has&#xD;
+             resolved or the febrile event has subsided&#xD;
+&#xD;
+          -  Self-reported or documented seropositivity for human immunodeficiency virus, hepatitis&#xD;
+             B virus, or hepatitis C virus NOTE: The above information is not intended to contain&#xD;
+             all considerations relevant to a patient's potential participation in a clinical&#xD;
+             trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Joint Clinical Trials Huntington Park-Site Number:8400032</name>
+      <address>
+        <city>Huntington Park</city>
+        <state>California</state>
+        <zip>90255</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Clinical Trials-Site Number:8400056</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, North Hollywood-Site Number:8400063</name>
+      <address>
+        <city>North Hollywood</city>
+        <state>California</state>
+        <zip>91606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Research Foundation-Site Number:8400001</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123-1881</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SIMEDHealth, LLC-Site Number:8400042</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research and Health Center-Site Number:8400002</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Centers of America-Site Number:8400011</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida International Research Center-Site Number:8400009</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33173</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Research Center-Site Number:8400041</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research-Site Number:8400024</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brengle Family Medicine-Site Number:8400040</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AMR Lexington-Site Number:8400035</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research-Site Number:8400017</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Nebraska</state>
+        <zip>68701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research-Site Number:8400034</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>WR-CRCN, LLC-Site Number:8400060</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Coastal Carolina Research Center - N Charleston-Site Number:8400007</name>
+      <address>
+        <city>North Charleston</city>
+        <state>South Carolina</state>
+        <zip>29405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ClinSearch-Site Number:8400013</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AMR Knoxville-Site Number:8400021</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37919</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Elligo Health Research, Inc.-Site Number:8400037</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78738</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research, Inc-Site Number:8400051</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas, Inc. - PPDS-Site Number:8400043</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research - Sugar Land-Site Number:8400045</name>
+      <address>
+        <city>Sugar Land</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research-Site Number:8400046</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Martin Diagnostic Clinic-Site Number:8400058</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :6300002</name>
+      <address>
+        <city>Barrio Sabana</city>
+        <zip>00694</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :6300001</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00909</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

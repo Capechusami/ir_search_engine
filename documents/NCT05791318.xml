@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05791318</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VYD222-1-001</org_study_id>
+    <nct_id>NCT05791318</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate the Safety, Tolerability, and Pharmacokinetics of the Monoclonal Antibody VYD222 in Healthy Adult Participants</brief_title>
+  <official_title>A Phase 1, Randomized, Triple-Blind, Placebo-Controlled, Single Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of the Monoclonal Antibody VYD222 in Healthy Adult Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Invivyd, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novotech (Australia) Pty Limited</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Invivyd, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study to investigate the safety, tolerability, and pharmacokinetics of the monoclonal&#xD;
+      antibody VYD222 in healthy adult participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase I, first-in-human, randomized, triple blind, single escalating dose study to&#xD;
+      evaluate the safety and tolerability of VYD222, a monoclonal antibody targeting SARS-CoV-2,&#xD;
+      in healthy adult volunteers.&#xD;
+&#xD;
+      The primary objective is to evaluate the safety and tolerability of multiple dose levels of&#xD;
+      VYD222 after a single administration in healthy participants. The secondary objective is to&#xD;
+      evaluate the plasma pharmacokinetics and immunogenicity of VYD222 after administration in&#xD;
+      healthy participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 28, 2023</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Randomized, triple blind, placebo controlled</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of TEAEs (including AEs and SAEs)</measure>
+    <time_frame>Through 12 Months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ADAs against VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: area under the concentration-time curve from time zero extrapolated to infinity for VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: area under the concentration-time curve from time zero to the last measurable concentration for VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: area under the concentration-time curve from time zero to t for VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Cmax (maximum serum concentration)</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Tmax (time to reach maximum serum concentration)</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Clearance of VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Half-life of VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: volume of distribution at steady state of VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: volume of distribution during terminal phase of VYD222</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 total participants Cohort 1. 8 participants on VYD222 2 participants on placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 total participants Cohort 2. 8 participants on VYD222 2 participants on placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 total participants Cohort 3. 8 participants on VYD222 2 participants on placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VYD222</intervention_name>
+    <description>Monoclonal antibody</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching Placebo</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <other_name>0.9% sodium chloride</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has a body mass index 18.5 to 32.0 kg/m2, inclusive.&#xD;
+&#xD;
+          -  Negative for current SARS-CoV-2 infection by rapid antigen test on Day -1.&#xD;
+&#xD;
+          -  Is seropositive to N and/or S SARS-CoV-2 antigens at Screening.&#xD;
+&#xD;
+          -  For participants assigned female sex at birth: Is not of childbearing potential OR is&#xD;
+             of childbearing potential and practicing highly effective contraception.&#xD;
+&#xD;
+          -  Is able and willing to provide written informed consent.&#xD;
+&#xD;
+          -  NOTE: Other protocol defined inclusion/exclusion criteria apply&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Intends to receive a COVID-19 vaccine/booster within 3 months of Day 1.&#xD;
+&#xD;
+          -  Is pregnant, breastfeeding, or seeking pregnancy while on study.&#xD;
+&#xD;
+          -  Has a history of a malignancy (or active malignancy), except for participants with&#xD;
+             basal cell carcinoma, squamous cell carcinoma, or carcinoma in situ of the cervix who&#xD;
+             have been treated and cured.&#xD;
+&#xD;
+          -  Has had any symptoms of acute respiratory illness (e.g., cough, shortness of breath,&#xD;
+             sore throat, fatigue, loss of smell, fever), or other febrile illness within 2 weeks&#xD;
+             prior to dosing.&#xD;
+&#xD;
+          -  Has evidence of active infection with HIV, HBV, or HCV.&#xD;
+&#xD;
+          -  Has donated more than 500 mL of blood within 60 days before the scheduled dose of&#xD;
+             study drug.&#xD;
+&#xD;
+          -  Had major surgery within 30 days prior to study drug dosing or planned surgeries&#xD;
+             within 12 months after planned study drug dosing.&#xD;
+&#xD;
+          -  Received any investigational drug or biologic within 30 days or 5 half-lives&#xD;
+             (whichever is longer) prior to Screening or planned administration of any&#xD;
+             investigational drug or biologic during the study period.&#xD;
+&#xD;
+          -  Received immunoglobulin or blood products within 6 months prior to Screening.&#xD;
+&#xD;
+          -  Previously received a mAb within 6 months or 5 half-lives (whichever is longer) prior&#xD;
+             to Screening.&#xD;
+&#xD;
+          -  NOTE: Other protocol defined inclusion/exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Study Inquiry</last_name>
+    <phone>+1 781-819-0080</phone>
+    <email>ClinicalTrials@invivyd.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Linear Clinical Research</name>
+      <address>
+        <city>Joondalup</city>
+        <state>Western Australia</state>
+        <zip>6027</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

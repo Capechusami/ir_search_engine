@@ -1,0 +1,1980 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05070858</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R3918-MG-2018</org_study_id>
+    <secondary_id>2020-003272-41</secondary_id>
+    <nct_id>NCT05070858</nct_id>
+  </id_info>
+  <brief_title>A Study to Examine the Efficacy and Safety of Pozelimab and Cemdisiran Combination Therapy in Adult Patients With Symptomatic Generalized Myasthenia Gravis</brief_title>
+  <acronym>NIMBLE</acronym>
+  <official_title>Efficacy and Safety of Pozelimab and Cemdisiran Combination Therapy in Patients With Symptomatic Generalized Myasthenia Gravis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Regeneron Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Regeneron Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is:&#xD;
+&#xD;
+      To evaluate the effect of pozelimab + cemdisiran on daily functioning that is impacted by&#xD;
+      signs and symptoms in patients with symptomatic generalized myasthenia gravis (gMG)&#xD;
+&#xD;
+      The secondary objectives of the study are:&#xD;
+&#xD;
+        -  To evaluate the effect of pozelimab + cemdisiran (ie, combination) and cemdisiran&#xD;
+           monotherapy on:&#xD;
+&#xD;
+             -  Clinician-assessed signs of myasthenia gravis (MG) and muscle strength&#xD;
+&#xD;
+             -  Daily functioning that is impacted by signs and symptoms in patients with&#xD;
+                symptomatic gMG (cemdisiran monotherapy only).&#xD;
+&#xD;
+             -  Proportion of patients with improvements in daily function that is impacted by&#xD;
+                signs and symptoms of MG&#xD;
+&#xD;
+             -  Proportion of patients that have improvements in clinician-assessed signs of MG and&#xD;
+                muscle strength&#xD;
+&#xD;
+             -  Health related quality of life&#xD;
+&#xD;
+             -  Proportion of patients with minimal MG symptoms&#xD;
+&#xD;
+             -  Patient- and clinician-reported signs and symptoms of MG&#xD;
+&#xD;
+        -  To evaluate the safety and tolerability of pozelimab + cemdisiran and cemdisiran&#xD;
+           monotherapy&#xD;
+&#xD;
+        -  To assess the concentration of total pozelimab in serum&#xD;
+&#xD;
+        -  To assess the concentrations of cemdisiran and its metabolites in plasma&#xD;
+&#xD;
+        -  To assess the immunogenicity of pozelimab&#xD;
+&#xD;
+        -  To assess the concentration of total C5 in plasma&#xD;
+&#xD;
+        -  To assess the immunogenicity of cemdisiran&#xD;
+&#xD;
+        -  To study the effect of pozelimab + cemdisiran and cemdisiran monotherapy on complement&#xD;
+           activation&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      DBTP- Double blind treatment plan (24 weeks) ETP - Extension treatment plan (28 weeks) OLTP-&#xD;
+      Open label treatment plan (68 weeks) Off-treatment follow up period (52 weeks)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 14, 2021</start_date>
+  <completion_date type="Anticipated">May 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">August 14, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Myasthenia Gravis-Activities of Daily Living (MG-ADL) total score</measure>
+    <time_frame>From baseline to week 24</time_frame>
+    <description>The total MG-ADL score ranges from 0 to 24 points, with higher scores indicating greater functional impairment and disability</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Quantitative Myasthenia Gravis (QMG) score</measure>
+    <time_frame>Week 24</time_frame>
+    <description>QMG total scores range from 0 to 39, with higher scores representing greater impairment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients responding on the MG-ADL</measure>
+    <time_frame>From baseline to week 24</time_frame>
+    <description>≥3-point improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients responding on the QMG</measure>
+    <time_frame>From baseline to week 24</time_frame>
+    <description>≥5-point improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with consistent response on the MG-ADL</measure>
+    <time_frame>From baseline to week 24</time_frame>
+    <description>At least a 2-point MG-ADL improvement on 2 or more consecutive assessments spanning 4 or more weeks during the DBTP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with minimal symptom expression (MSE)</measure>
+    <time_frame>Week 24</time_frame>
+    <description>Score of 0 to 1 on the MG-ADL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the Myasthenia Gravis Composite (MGC) total score</measure>
+    <time_frame>Week 24</time_frame>
+    <description>MGC score ranges from 0 to 50, with higher score indicating higher impairment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Myasthenia Gravis Quality of Life (MG QOL15r) total score</measure>
+    <time_frame>Week 24</time_frame>
+    <description>Total score ranges from 0 to 30 points; a higher score represents greater impairment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with improvement point thresholds on MG-ADL</measure>
+    <time_frame>From baseline to week 24</time_frame>
+    <description>≥2, 4, 5, 6, 7, 8, 9, or 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with improvement point thresholds on QMG</measure>
+    <time_frame>From baseline to week 24</time_frame>
+    <description>≥3, 4, 6, 7, 8, 9, or 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of treatment-related adverse events (TEAEs) in patients treated with pozelimab + cemdisiran or placebo</measure>
+    <time_frame>Through week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of serious adverse events (SAEs) in patients treated with pozelimab + cemdisiran or placebo</measure>
+    <time_frame>Through week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of adverse events of special interest (AESIs) in patients treated with pozelimab + cemdisiran or placebo</measure>
+    <time_frame>Through week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentrations of total pozelimab in serum</measure>
+    <time_frame>Through study duration, approximate 172 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentrations of cemdisiran and its metabolites in plasma</measure>
+    <time_frame>Through study duration, approximate 172 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent anti-drug antibodies (ADAs) to pozelimab over time</measure>
+    <time_frame>Through study duration, approximately 172 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent ADAs to cemdisiran over time</measure>
+    <time_frame>Through study duration, approximate 172 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CH50 over time</measure>
+    <time_frame>Through study duration, approximately 172 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in CH50 over time</measure>
+    <time_frame>Through study duration, approximately 172 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">235</enrollment>
+  <condition>Generalized Myasthenia Gravis</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo in DBTP; Re-randomized to Combination or Cemdisiran in ETP and OLTP</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination regimen throughout the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cemdisiran throughout the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pozelimab monotherapy in DBTP followed by combination in ETP and OLTP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pozelimab + Cemdisiran</intervention_name>
+    <description>Subcutaneous administration as described in the protocol</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cemdisiran</intervention_name>
+    <description>SC administration as described in the protocol</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+    <other_name>ALN-CC5</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>SC administration as described in the protocol</description>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pozelimab</intervention_name>
+    <description>SC administration as described in the protocol</description>
+    <arm_group_label>Group 4</arm_group_label>
+    <other_name>REGN3918</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female patients ≥18 years of age at screening (or ≥ legal age of adulthood&#xD;
+             based on local regulations, whichever is older)&#xD;
+&#xD;
+          2. Patient with documented diagnosis of myasthenia gravis (MG) based on medical history&#xD;
+             and supported by previous evaluations as described in the protocol&#xD;
+&#xD;
+          3. Documented prior history of positive serologic test or a positive result during&#xD;
+             screening of anti-acetylcholine receptor (AChR) antibodies or anti-LRP4 antibodies.&#xD;
+&#xD;
+          4. Myasthenia Gravis Foundation of America (MGFA) Clinical Classification Class II to IVa&#xD;
+             at screening&#xD;
+&#xD;
+          5. Myasthenia Gravis-Activities of Daily Living (MG-ADL) score ≥6 at screening. Ocular&#xD;
+             items should not contribute more than 50% of MG-ADL total score&#xD;
+&#xD;
+          6. Currently receiving an acetylcholinesterase inhibitor or documented reason for not&#xD;
+             using acetylcholinesterase inhibitor therapy per investigator 7. Currently receiving&#xD;
+             an immunosuppressive therapy (IST) for MG, or documented reason why the patient is not&#xD;
+             taking an IST per investigator&#xD;
+&#xD;
+        8. If currently receiving an IST, not anticipated to have IST dosage changed before&#xD;
+        randomization or during double-blind treatment period (DBTP).&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with antibody profile that is only positive for muscle specific tyrosine&#xD;
+             kinase (MuSK) (MuSK positivity is based on a documented prior history of positive&#xD;
+             serologic test for antibodies to MuSK or a positive result during screening&#xD;
+&#xD;
+          2. History of thymectomy within 12 months prior to screening or planned during the study&#xD;
+&#xD;
+          3. History of malignant thymoma (patients with stage 1 may be enrolled), or history of&#xD;
+             cancer within the past 5 years, except for adequately treated basal cell skin cancer,&#xD;
+             squamous cell skin cancer, or in situ cervical cancer&#xD;
+&#xD;
+          4. Myasthenic crisis or Myasthenia Gravis Foundation of America (MGFA) Class V within 1&#xD;
+             month of screening&#xD;
+&#xD;
+          5. No documented meningococcal vaccination within 5 years prior to screening visit unless&#xD;
+             vaccination will be administered during the screening period and prior to initiation&#xD;
+             of study treatment&#xD;
+&#xD;
+          6. Known contraindication to meningococcal vaccines (group ACWY conjugate and group B&#xD;
+             vaccines) as described in the protocol&#xD;
+&#xD;
+          7. Patients who require antibiotics for meningococcal prophylaxis and have a&#xD;
+             contraindication, warning, or precaution precluding the use of penicillin class and&#xD;
+             penicillin-alternative antibiotics planned to be used for prophylaxis, or a history of&#xD;
+             intolerance leading to the discontinuation of these antibiotics&#xD;
+&#xD;
+          8. Positive hepatitis B surface antigen or hepatitis C virus ribonucleic acid (RNA)&#xD;
+             during screening. NOTE: Cases with unclear interpretation should be discussed with the&#xD;
+             medical monitor&#xD;
+&#xD;
+          9. History of HIV infection or a positive test at screening per local requirements&#xD;
+&#xD;
+        NOTE: Other protocol-defined Inclusion/ Exclusion Criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trial Management</last_name>
+    <role>Study Director</role>
+    <affiliation>Regeneron Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trials Administrator</last_name>
+    <phone>844-734-6643</phone>
+    <email>clinicaltrials@regeneron.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>HonorHealth Neurology</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Todd Levine</last_name>
+      <phone>480-258-2863</phone>
+      <email>neuroscienceresearch@honorhealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Todd Levine</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Irvine</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Said Beydoun</last_name>
+      <phone>323-442-6221</phone>
+      <email>salma.akhter@med.usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Said Beydoun</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Colorado Springs Neurological Associates</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907-5307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurence Adams</last_name>
+      <phone>719-473-3272</phone>
+      <email>ladams@csneuro.com</email>
+    </contact>
+    <investigator>
+      <last_name>Laurence Adams</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SFM Clinical Research, LLC</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33487</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Feinberg</last_name>
+      <phone>561-939-0313</phone>
+      <email>research@sfneurology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Marc Feinberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Diverse Clinical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Collier Neurologic Specialists LLC</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34105-8523</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William Justiz</last_name>
+      <phone>239-529-6780</phone>
+      <email>william@aqualaneresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Services of Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806-6264</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medsol Clinical Research Center Inc</name>
+      <address>
+        <city>Port Charlotte</city>
+        <state>Florida</state>
+        <zip>33952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tuan Vu</last_name>
+      <phone>813-974-9413</phone>
+      <email>tvu6@usf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Tuan Vu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University Health System</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201-3137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandru Barboi</last_name>
+      <phone>847-503-4333</phone>
+      <email>rvazquez@northshore.org</email>
+    </contact>
+    <investigator>
+      <last_name>Alexandru Barboi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prairie Education and Research Cooperative</name>
+      <address>
+        <city>O'Fallon</city>
+        <state>Illinois</state>
+        <zip>62269</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raghav Govindarajan</last_name>
+      <phone>618-641-5803</phone>
+      <email>Raghav.govindarajan@hshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Raghav Govindarajan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Neurology Ltd. - Clinedge - PPDS</name>
+      <address>
+        <city>Rolling Meadows</city>
+        <state>Illinois</state>
+        <zip>60008-3154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University School of Medicine</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jacob Rube</last_name>
+      <phone>313-966-9407</phone>
+      <email>xjia@med.wayne.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medicine - Peripheral Neuropathy Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Vo</last_name>
+      <phone>212-746-6757</phone>
+      <email>mlv9002@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mary Vo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Atrium Health Neurosciences Institute Charlotte, a facility of Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton center for neurological disorders</name>
+      <address>
+        <city>Centerville</city>
+        <state>Ohio</state>
+        <zip>45459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Cincinnati Gardner Neuroscience institute</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Penn Medicine University City</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Institute for Neurological Disorders - Arlington</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bhagya Boggaram</last_name>
+      <phone>903-893-5141</phone>
+      <phone_ext>4924</phone_ext>
+      <email>murbina@texasneurologyinstitute.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Neuromuscular Center</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78759</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yessar Hussain</last_name>
+      <phone>512-920-0140</phone>
+      <email>yessar@austinneuromuscle.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yessar Hussain</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nerve and Muscle Center of Texas</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aziz Shaibani</last_name>
+      <phone>713-795-0033</phone>
+      <email>ataher@aol.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aziz Shaibani</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Neurology</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lyell McEwin Hospital</name>
+      <address>
+        <city>Elizabeth Vale</city>
+        <state>South Australia</state>
+        <zip>5112</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Deborah Field</last_name>
+      <phone>08 8282 0631</phone>
+      <email>Vanessa.Maxwell@sa.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincents Hospital Melbourne</name>
+      <address>
+        <city>Fitzroy</city>
+        <state>Victoria</state>
+        <zip>3065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fiona Stanley Hospital</name>
+      <address>
+        <city>Murdoch</city>
+        <zip>6150</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Merrilee Needham</last_name>
+      <phone>61412169436</phone>
+      <email>susan.walters@health.wa.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <state>Antwerpen</state>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alicia Alonso-Jiménez</last_name>
+      <phone>3238214423</phone>
+      <phone_ext>3978</phone_ext>
+      <email>alicia.alonso@uza.be</email>
+    </contact>
+    <investigator>
+      <last_name>Alicia Alonso-Jiménez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Charleroi</name>
+      <address>
+        <city>Lodelinsart</city>
+        <state>Hainaut</state>
+        <zip>6042</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Sint-Lucas</name>
+      <address>
+        <city>Gent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan De Bleecker</last_name>
+      <phone>3292246530</phone>
+      <email>jan.debleecker@azstlucas.be</email>
+    </contact>
+    <investigator>
+      <last_name>Jan De Bleecker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Université Libre de Bruxelles - Hôpital Erasme</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 2X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5A5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto General Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vera Bril</last_name>
+      <phone>416-340-3898</phone>
+      <email>Eduardo.ng@uhn.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de l'Universite de Montreal (CHUM)</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2X-0J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni Nemocnice Brno</name>
+      <address>
+        <city>Brno</city>
+        <state>Jihomoravsky Kraj</state>
+        <zip>625 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Ostrava</name>
+      <address>
+        <city>Ostrava</city>
+        <state>Moravskoslezský Kraj</state>
+        <zip>708 52</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aalborg Universitetshospital</name>
+      <address>
+        <city>Aalborg</city>
+        <state>Nordjylland</state>
+        <zip>9100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Izabella Obal</last_name>
+      <phone>4597666896</phone>
+      <email>anpp@rn.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Izabella Obal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Aarhus University Hospital</name>
+      <address>
+        <city>Aarhus N</city>
+        <zip>8200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henning Andersen</last_name>
+      <phone>4578454250</phone>
+      <email>hennanden@rm.dk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Copenhagen Neuromuscular Clinic at Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>3050</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Vissing</last_name>
+      <phone>4535452562</phone>
+      <email>john.vissing@regionh.dk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Odense Universitetshospital - Infektionsmedicinsk Afdeling</name>
+      <address>
+        <city>Odense</city>
+        <zip>05000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire (CHU) de Nice</name>
+      <address>
+        <city>Nice</city>
+        <state>Alpes-Maritimes</state>
+        <zip>6002</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Bicêtre</name>
+      <address>
+        <city>Le Kremlin-Bicêtre</city>
+        <zip>94275</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital de la Pitié Salpétrière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie Demeret</last_name>
+      <phone>sophie.demeret@aphp.fr</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Regional Universitaire (CHRU) de Nancy</name>
+      <address>
+        <city>Vandoeuvre Les Nancy</city>
+        <zip>54511</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Israeli-Georgian Medical Research Clinic HEALTHYCORE</name>
+      <address>
+        <city>T'bilisi</city>
+        <zip>0112</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LTD New Hospitals</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0114</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pineo Medical Ecosystem</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0114</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LTD Academician N. Kipshidze Central University Clinic</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0160</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Multiprofile Clinic Consilium Medulla</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0186</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Friedrich-Baur-Institute Dep. of Neurology Klinikum Munchen</name>
+      <address>
+        <city>Munchen</city>
+        <state>Bayern</state>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Munster</name>
+      <address>
+        <city>Munster</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jan Lünemann</last_name>
+      <phone>+49 251 83 48165</phone>
+      <email>MS-Studienambulanz@ukmuenster.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <state>Sachsen</state>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Florian Then Berg</last_name>
+      <phone>+493419724320</phone>
+      <email>studienambulauz.neurologie@medizin.uni-leipzig.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charite - Universitatsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Essen, Dep. of Neurology</name>
+      <address>
+        <city>Essen</city>
+        <zip>45127</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Jena</name>
+      <address>
+        <city>Jena</city>
+        <zip>07747</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Government General Hospital, Guntur</name>
+      <address>
+        <city>Guntur</city>
+        <state>Andhra Pradesh</state>
+        <zip>522001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>N.V. Sundarachary</last_name>
+      <phone>9440257675</phone>
+      <email>sundarachary@yahoo.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institute Of NeuroSciences</name>
+      <address>
+        <city>Surat</city>
+        <state>Gujarat</state>
+        <zip>395001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nizam's Institute of Medical Sciences (NIMS)</name>
+      <address>
+        <city>Panjagutta</city>
+        <state>Hyderabad</state>
+        <zip>500082</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amrita Institute of Medical Sciences (AIMS) and Research Centre</name>
+      <address>
+        <city>Kochi</city>
+        <state>Kerela</state>
+        <zip>682041</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sudheeran Kannoth</last_name>
+      <phone>+91-9947340695</phone>
+      <email>sudheerank@aims.amrita.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Deenanath Mangeshkar Hospital and Research Centre</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rahul Kulkarni</last_name>
+      <phone>+91 9822012588</phone>
+      <email>rahulneuro@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seth G.S. Medical College &amp; K.E.M. Hospital, Mumbai</name>
+      <address>
+        <city>Parel</city>
+        <state>Mumbai</state>
+        <zip>400012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sangeeta Ravat</last_name>
+      <phone>9967325639</phone>
+      <email>kemneurology@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>City Neuro Centre, Hyderabad</name>
+      <address>
+        <city>Hyderabad</city>
+        <state>Telangana</state>
+        <zip>500034</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rukmini Mridula</last_name>
+      <phone>9966449650</phone>
+      <email>saisrimeka@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)</name>
+      <address>
+        <city>Lucknow</city>
+        <state>Uttar Pradesh</state>
+        <zip>226014</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bangalore Medical College and Research Institute (BMCRI) - Victoria Hospital</name>
+      <address>
+        <city>Bangalore</city>
+        <zip>560002</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Praveen Kumar</last_name>
+      <phone>+919844252189</phone>
+      <email>Harryraykar@yahoo.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Postgraduate Institute of Medical Education &amp; Research</name>
+      <address>
+        <city>Chandigarh</city>
+        <zip>160012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Manish Modi</last_name>
+      <phone>+91 7087572688</phone>
+      <email>priya7chd@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kasturba Medical College (KMC) - Udupi</name>
+      <address>
+        <city>Karnataka</city>
+        <zip>576104</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>All India Institute of Medical Sciences New Delhi</name>
+      <address>
+        <city>New Delhi</city>
+        <zip>110029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vishnu Vy</last_name>
+      <phone>011 2658 9999</phone>
+      <email>vishnuvy16@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universita' Degli Studi La Sapienza</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00185</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maurizio Inghilleri</last_name>
+      <phone>390649914122</phone>
+      <email>maurizio.inghilleri@uniroma1.it</email>
+    </contact>
+    <investigator>
+      <last_name>Maurizio Inghilleri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Sant'andrea</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00189</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelangelo Maestri</last_name>
+      <phone>39050995519</phone>
+      <email>m.maestri@ao-pisa.toscana.it</email>
+    </contact>
+    <investigator>
+      <last_name>Michelangelo Maestri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Di Rilievo Nazionale Istituto Nazionale Neurologico Carlo Besta</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renato Mantegazza</last_name>
+      <phone>390223942282</phone>
+      <phone_ext>2255</phone_ext>
+      <email>renato.mantegazza@istituto-besta.it</email>
+    </contact>
+    <investigator>
+      <last_name>Renato Mantegazza</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Mondino Foundation</name>
+      <address>
+        <city>Pavia</city>
+        <state>Lombardia</state>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <state>Toscana</state>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Papa Giovanni XXIII</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AORN Cardarelli Napoli</name>
+      <address>
+        <city>Naples</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kobe City Medical Center General Hospital</name>
+      <address>
+        <city>Kobe</city>
+        <state>Hyogo</state>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michi Kawamoto</last_name>
+      <phone>+80 78 302 4321</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kochi Medical School Hospital</name>
+      <address>
+        <city>Nankoku-shi</city>
+        <state>Koti</state>
+        <zip>783-8505</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Okinawa National Hospital</name>
+      <address>
+        <city>Ginowan-Shi</city>
+        <state>Okinawa</state>
+        <zip>901-2214</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saitama Medical University, Saitama Medical Center</name>
+      <address>
+        <city>Kawagoe</city>
+        <state>Saitama</state>
+        <zip>350-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Showa General Hospital</name>
+      <address>
+        <city>Kodaira</city>
+        <state>Tokoyo</state>
+        <zip>187-0002</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Hospital of Tokyo Medical and Dental University</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8519</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Yoichiro Nishida</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nihon University Itabashi Hospital</name>
+      <address>
+        <city>Itabashi-ku</city>
+        <state>Tokyo</state>
+        <zip>173-8610</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Medical University Hospital</name>
+      <address>
+        <city>Shinjuku ku</city>
+        <state>Tokyo</state>
+        <zip>160-0023</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yamaguchi University Hospital</name>
+      <address>
+        <city>Ube</city>
+        <state>Yamaguchi</state>
+        <zip>755-8505</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chiba University Hospital</name>
+      <address>
+        <city>Chiba</city>
+        <zip>260-8677</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hiroshima City Hiroshima Citiz</name>
+      <address>
+        <city>Hiroshima</city>
+        <zip>730-8518</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka Red Cross Hospital - Neurology</name>
+      <address>
+        <city>Osaka</city>
+        <zip>543-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Okinawa Prefectural Nanbu Medical Center and Children's Medical Center</name>
+      <address>
+        <city>Shimajiri-Gun</city>
+        <zip>901-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center - PPDS</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul Teugbyeolsi</state>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyungpook National University Chilgok Hospital</name>
+      <address>
+        <city>Daegu</city>
+        <zip>41404</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Neurologii Klinicznej, Krakowska Akademia Neurologii</name>
+      <address>
+        <city>Kraków</city>
+        <state>Malopolskie</state>
+        <zip>31-505</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersyteckie Centrum Kliniczne WUM, Centralny Szpital Kliniczny</name>
+      <address>
+        <city>Warszawa</city>
+        <state>Mazowieckie</state>
+        <zip>02-097</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gdanski Uniwersytet Medyczny</name>
+      <address>
+        <city>Gdansk</city>
+        <state>Pomorskie</state>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Center Spólka z Ograniczona Odpowiedzialnoscia, Medic-R Spólka Komandytowa</name>
+      <address>
+        <city>Poznań</city>
+        <state>Wielkopolskie</state>
+        <zip>61-731</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Clinical Center of Serbia - PPDS</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stojan Peric</last_name>
+      <email>stojanperic@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Clinical Centre Nis</name>
+      <address>
+        <city>Nis</city>
+        <zip>700461</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gordana Djordjevic</last_name>
+      <phone>3811841584</phone>
+      <email>gordanadjor@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de La Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Cortes Vicente</last_name>
+      <phone>34935537115</phone>
+      <email>mvidalf@santpau.cat</email>
+    </contact>
+    <investigator>
+      <last_name>Elena Cortes Vicente</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz - PPDS</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francisco Javier Rodriguez de Rivera</last_name>
+      <phone>34917277444</phone>
+      <email>frriveragarrido@salud.madrid.org</email>
+    </contact>
+    <investigator>
+      <last_name>Francisco Javier Rodriguez de Rivera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politecnic La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Foundation Kaohsiung Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nai-Wen Tsai</last_name>
+      <phone>886929106337</phone>
+      <email>sandy.liu1022@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Nai-Wen Tsai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>404</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuh-Cherng Guo</last_name>
+      <phone>886912364490</phone>
+      <email>eddysue0703@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yuh-Cherng Guo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital</name>
+      <address>
+        <city>Tainan City</city>
+        <zip>701</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuan Ting Sun</last_name>
+      <phone>88662353535</phone>
+      <phone_ext>3978</phone_ext>
+      <email>lyctw2016@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yuan Ting Sun</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shin Kong Wu Ho Su Memorial Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>111</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jiann-Horng Yeh</last_name>
+      <phone>886984160500</phone>
+      <email>m001074@ms.skh.org.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Jiann-Horng Yeh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Long-Sun Ro</last_name>
+      <phone>886963676066</phone>
+      <email>cgrols333@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Long-Sun Ro</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dokuz Eylul University Medical Faculty</name>
+      <address>
+        <city>Balcova</city>
+        <state>Izmir</state>
+        <zip>35340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli University Hospital</name>
+      <address>
+        <city>Umuttepe</city>
+        <state>Van</state>
+        <zip>41380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hüsnü EFENDİ</last_name>
+      <phone>0(532) 573 70 21</phone>
+      <email>husnuefendi@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ondokuz Mayis Universitesi Tip Fakultesi Hastanesi</name>
+      <address>
+        <city>Samsun</city>
+        <zip>55239</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Murat Terzi</last_name>
+      <phone>905323156884</phone>
+      <email>mterzi@omu.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Murat Terzi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Karadeniz Technical University Farabi Hospital</name>
+      <address>
+        <city>Trabzon</city>
+        <zip>61080</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Teaching Hospital NHS Foundation Trust</name>
+      <address>
+        <city>Sheffield</city>
+        <state>South Yorkshire</state>
+        <zip>511 9NE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Channa Hewamadduma</last_name>
+      <phone>01142711900</phone>
+      <email>c.hewamadduma@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Czechia</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Georgia</country>
+    <country>Germany</country>
+    <country>India</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Serbia</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>May 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myasthenia Gravis</mesh_term>
+    <mesh_term>Muscle Weakness</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All Individual Patient Data (IPD) that underlie publicly available results will be considered for sharing</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>When Regeneron has received marketing authorization from major health authorities (e.g., FDA, European Medicines Agency (EMA), Pharmaceuticals and Medical Devices Agency (PMDA), etc.) for the product and indication, has made the study results publicly available (e.g., scientific publication, scientific conference, clinical trial registry), has the legal authority to share the data, and has ensured the ability to protect participant privacy.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers can submit a proposal for access to individual patient or aggregate level data from a Regeneron-sponsored clinical trial through Vivli. Regeneron's Independent Research Request Evaluation Criteria can be found at: https://www.regeneron.com/sites/default/files/Regeneron-External-Data-Sharing-Policy-and-Independent-Research-Request-Evaluation-Criteria.pdf</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

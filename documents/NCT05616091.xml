@@ -1,0 +1,218 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05616091</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11/2019</org_study_id>
+    <nct_id>NCT05616091</nct_id>
+  </id_info>
+  <brief_title>Intra- and Inter-individual Differences of Pain</brief_title>
+  <official_title>Brain Mechanisms of Intra- and Inter-individual Differences in the Perception of Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Technical University of Munich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>German Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Technical University of Munich</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pain is a highly subjective and variable phenomenon. Different persons perceive objectively&#xD;
+      identical nociceptive stimuli differently. Moreover, the same person may perceive objectively&#xD;
+      identical stimuli differently in different situations, or even from one moment to another. In&#xD;
+      the brain, the processing of pain is associated with different neuronal responses originating&#xD;
+      from an extended network of brain areas. These responses include evoked activity as well as&#xD;
+      neuronal oscillations at alpha (8-13 Hz), beta (14-30 Hz) and gamma (30-100 Hz) frequencies.&#xD;
+      All these responses covary with moment-to-moment variations of pain within subjects&#xD;
+      (intra-subject variability). However, only the gamma response correlates with variations of&#xD;
+      pain between subjects (inter-subject variability). To date, it has remained unknown whether&#xD;
+      these relationships remain stable and reproducible across longer periods of time&#xD;
+      (inter-session-variability). Thus, the current project aims to systematically characterize&#xD;
+      how different pain-associated brain responses encode intra-individual, inter-individual, and&#xD;
+      inter-session variations of pain perception. To this end, the investigators will record&#xD;
+      pain-associated brain responses of 155 healthy participants at two different points in time.&#xD;
+      Each time, short painful stimuli will be applied to the participants' hand and they will be&#xD;
+      asked to verbally rate the perceived pain intensity, while pain-associated brain responses&#xD;
+      will be recorded using electroencephalography (EEG). This will allow to investigate the&#xD;
+      relationships between pain-associated brain responses and intra-individual and&#xD;
+      inter-individual variations of pain and to compare these measures and their relationships&#xD;
+      between sessions. In order to quantify the influence of demographic and psychological&#xD;
+      factors, i.e. age, mood and sleep quality / quantity on pain variability, established&#xD;
+      questionnaires will be used. In order to compare the functional significance of brain&#xD;
+      responses to other pain-associated neuronal responses, pain-associated responses of the&#xD;
+      autonomic system will be recorded and related to pain variability. Results of the project&#xD;
+      promise to elucidate the neuronal mechanisms underlying intra-individual, inter-individual&#xD;
+      and inter-session variability of pain. Such knowledge provides the basis for the development&#xD;
+      of a biomarker for pain, which might reasonably complement the self-assessment of pain.&#xD;
+      Moreover, as pain perception and objective stimulation tend to dissociate in pathological&#xD;
+      pain, the current project promises insights into the neuronal mechanisms of chronic pain.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 10, 2019</start_date>
+  <completion_date type="Actual">December 15, 2022</completion_date>
+  <primary_completion_date type="Actual">December 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Each participant will participate in two identical experimental sessions. Sessions will be separated from each other by one month. During each session, participants will undergo an experimental paradigm of about 15 min duration. In this paradigm, 80 experimental painful stimuli of different intensities will be applied using a laser device (DEKA Stimul 1340, Calenzano, Italy). Participants will be asked to verbally rate the intensity of every stimulus on a scale ranging from 0 ('no pain') to 100 ('maximally tolerable pain'). At the same time, brain responses will be recorded by using electroencephalography (EEG). Autonomic responses will be operationalized by the recording of skin conductance responses (SCRs).</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants will not be informed about the intensities of the nociceptive stimuli administered during the experimental paradigm.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Verbal pain rating (NRS; 0: 'no pain' to 100: 'maximal tolerable pain')</measure>
+    <time_frame>During procedure (15 min experimental paradigm in each session)</time_frame>
+    <description>Eighty painful stimuli will be applied to the participants' left hand. Participants will be instructed to verbally rate the perceived pain intensity of each stimulus on a numerical rating scale (see above).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain-associated brain responses</measure>
+    <time_frame>During procedure (15 min experimental paradigm in each session)</time_frame>
+    <description>A 64-channel electroencephalogram (EEG) will be recorded. In offline analyses, Laser-evoked potentials (LEPs) will be quantified with regard to amplitudes and latencies. In addition, power of oscillatory brain activity will be quantified in the alpha (8-13 Hz), beta (14-30 Hz) and gamma (30-100 Hz) frequency bands.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>skin conductance response (µS)</measure>
+    <time_frame>During procedure (15 min experimental paradigm in each session)</time_frame>
+    <description>Skin conductance responses will be recorded using two electrodes attached to the index and middle finger of the left hand.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Customized protocol</measure>
+    <time_frame>At the beginning of each session</time_frame>
+    <description>Demographic and psychological factors which might potentially influence the intra- and inter-individual variability of pain perception will be quantified at the beginning of each session using established and customized questionnaires. These include a customized protocol quantifying the alcohol-, nicotine- and caffeine-consumption, the sleep quality during the previous night as well as, in case of female participants, the day of the menstrual cycle.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>German version of the Pittsburgh Sleep Quality Index (PSQI)</measure>
+    <time_frame>At the beginning of each session</time_frame>
+    <description>The German version of the established Pittsburgh Sleep Quality Index will be included to quantify the sleep quality during the previous four weeks. The PSQI comprises a total of 18 items which are assigned to seven components. The total score results from the summation of the component scores and can vary from 0 to 21, with a higher score corresponding to reduced sleep quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>German version of the Hospital Anxiety and Depression Scale (HADS)</measure>
+    <time_frame>At the beginning of each session</time_frame>
+    <description>The German version of the Hospital Anxiety and Depression Scale will be included to quantify levels of anxiety and depression. The HADS comprises 14 items of which seven are assigned to the anxiety- and the other seven to the depression-subscale. The score ranges from 0 - 21 for each subscale, with a higher score corresponding to higher levels of anxiety or depression, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>German version of the Positive and Negative Affect Scale (PANAS)</measure>
+    <time_frame>At the beginning of each session</time_frame>
+    <description>The German version of the Positive and Negative Affect Scale will be included to quantify momentary levels of positive and negative affect. The PANAS comprises 20 items of which 10 are assigned to the dimension positive or negative affect, respectively. The score ranges from 0 - 50 for each dimension, with a higher score corresponding to higher levels of positive or negative affect, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>German version of the Pain Sensitivity Questionnaire (PSQ)</measure>
+    <time_frame>At the beginning of each session</time_frame>
+    <description>The German version of the Pain Sensitivity Questionnaire will be included to quantify individual pain sensitivity. The PSQ comprises 17 items. The total score ranges from 0 - 170, with a higher score corresponding to higher individual pain sensitivity.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">162</enrollment>
+  <condition>Experimental Pain in Healthy Human Subjects</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>painful stimulation by using a laser device (DEKA Stimul 1340, Calenzano, Italy)</intervention_name>
+    <description>In each of the two sessions, 80 experimental painful stimuli of different intensities (2.5 J, 3 J, 3.5 J, 4 J) will be applied using the laser device listed above.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  aged 18 years or above&#xD;
+&#xD;
+          -  Right-handedness&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Neurological or psychiatric diseases (e.g. epilepsy, stroke, depression, anxiety&#xD;
+             disorders)&#xD;
+&#xD;
+          -  Severe general illnesses (e.g. tumors, diabetes)&#xD;
+&#xD;
+          -  Skin diseases (e.g. dermatitis, psoriasis or eczema)&#xD;
+&#xD;
+          -  Current or recurrent pain&#xD;
+&#xD;
+          -  (Regular) intake of centrally acting, antibiotic or analgesic medication&#xD;
+&#xD;
+          -  Surgical procedures involving the brain or spinal cord&#xD;
+&#xD;
+          -  Head trauma followed by impairment of consciousness&#xD;
+&#xD;
+          -  Past fainting spells or syncopes&#xD;
+&#xD;
+          -  Side-effects following previous electrical or magnetic stimulation&#xD;
+&#xD;
+          -  Side-effects following previous thermal stimulation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Markus Ploner, Prof. Dr. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Neurology, Klinikum rechts der Isar, Technische Universität München</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Neurology, Klinikum rechts der Isar, Technical University of Munich</name>
+      <address>
+        <city>Munich</city>
+        <state>Bavaria</state>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>January 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Technical University of Munich</investigator_affiliation>
+    <investigator_full_name>Markus Ploner</investigator_full_name>
+    <investigator_title>Professor of Human Pain Research</investigator_title>
+  </responsible_party>
+  <keyword>pain</keyword>
+  <keyword>variability</keyword>
+  <keyword>intra-individual</keyword>
+  <keyword>inter-individual</keyword>
+  <keyword>inter-session</keyword>
+  <keyword>electroencephalography</keyword>
+  <keyword>laser-evoked potentials</keyword>
+  <keyword>neuronal oscillations</keyword>
+  <keyword>alpha</keyword>
+  <keyword>gamma</keyword>
+  <keyword>brain</keyword>
+  <keyword>EEG</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pseudonymized individual participant data sets will be made available at the OSF online repository [https://osf.io/] upon publication.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

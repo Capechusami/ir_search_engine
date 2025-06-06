@@ -1,0 +1,164 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PUMCH-MIRC213</org_study_id>
+    <nct_id>NCT05622240</nct_id>
+  </id_info>
+  <brief_title>99mTc-MIRC213 SPECT/CT for the Detection of HER2-positive Breast Cancer</brief_title>
+  <official_title>99mTc-MIRC213 SPECT/CT for the Detection of HER2-positive Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label single photon emission tomography/computed tomography (SPECT/CT) study&#xD;
+      to investigate the imaging performance of 99mTc-MIRC213 in breast cancer patients. A single&#xD;
+      dose of 11.1-14.8Mega-Becquerel (MBq) per kilogram body weight 99mTc-MIRC213 will be injected&#xD;
+      intravenously. Visual and semiquantitative method will be used to assess the SPECT/CT images.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      99mTc-MIRC213 is an nano affibody probe targeting HER2. The investigators will determine the&#xD;
+      use of 99mTc-MIRC213 SPECT/CT in the detection of HER2- positive breast cancer, and to&#xD;
+      compare its diagnostic value with routine immunohistochemistry (IHC) pathological staining.&#xD;
+      HER2 imaging, specifically to HER2 receptor expressed on malignant breast cancer cell&#xD;
+      surface, might help for targeted therapy with monoclonal antibody such as trastuzumab in&#xD;
+      breast cancer, and may improve the treatment strategy of breast cancer. The investigator will&#xD;
+      determine the use of 99mTc-MIRC213 SPECT/CT in stratifying breast cancer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 7, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dosimetric distribution of radiopharmaceuticals</measure>
+    <time_frame>2 months</time_frame>
+    <description>Input the data of 5-6 patients into HERMES software, and analyze the dose distribution of radioactive drugs in human body through HERMES software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standardized uptake value</measure>
+    <time_frame>1 year</time_frame>
+    <description>The semiquantitative analysis will be performed by the same person for all the cases, and the standardized uptake value (SUV) of the tracer in breast tumor will be measured. SUV were obtained by a self-made software and referring to phantom study.If the SUV value cannot be obtained, the COUNTS of target organ/background ratio between the lesion and surrounding tissues shall be used for calculation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events collection</measure>
+    <time_frame>1 year</time_frame>
+    <description>Adverse events within 1 week after the injection and scanning of patients and patients will be followed and assessed</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>99mTc-MIRC213 Dosimetry study</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>about 6 patients were injected with 11.1-14 (MBq) per kilogram body weight of 99mTc-MIRC213 in one dose intravenously and underwent wholebody scan at 5min、20min、40min、60min、90min、120min、180min、240min, then analysis of dosimetric distribution of radiopharmaceuticals in human body by HERMES software.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>99mTc-MIRC213 wholebody and SPECT/CT scan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>About 30 patients were injected with 11.1-14 (MBq) per kilogram body weight of 99mTc-MIRC213 in one dose intravenously and underwent wholebody scan 1 \2\3h later and underwent SPECT/CT scan at 2h.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>99mTc-MIRC213</intervention_name>
+    <description>99mTc-MIRC213 were intravenous injected into the patients before the wholebody and SPECT/CT scans</description>
+    <arm_group_label>99mTc-MIRC213 Dosimetry study</arm_group_label>
+    <arm_group_label>99mTc-MIRC213 wholebody and SPECT/CT scan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients in suspicion of breast cancer by mammography or ultrasonography,and being&#xD;
+             able to provide basic information and sign the written informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The exclusion criteria included claustrophobia, pregnancy, breastfeeding, kidney or&#xD;
+             liver failure, inability to fulfill the study, and undergoing any preceding local or&#xD;
+             systemic therapies that might interfere with HER2 binding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhaohui Zhu, Dr</last_name>
+    <role>Study Chair</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rongxi Wang, Dr</last_name>
+    <phone>+8615584172170</phone>
+    <email>zhzwrx.123@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Zhaohui Zhu, Dr</last_name>
+    <phone>+8619800370331</phone>
+    <email>pumch_jacobwong@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Peking Union Medical College Hospital, Chinese Academy of Medical Science and Peking Union Medical College</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhaohui Zhu, Dr</last_name>
+      <phone>+8619800370331</phone>
+      <email>pumch_jacobwong@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SPECT/CT</keyword>
+  <keyword>HER2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

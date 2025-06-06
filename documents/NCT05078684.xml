@@ -1,0 +1,190 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078684</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A-21-25</org_study_id>
+    <nct_id>NCT05078684</nct_id>
+  </id_info>
+  <brief_title>GANGlion Stellate Block for Treatment of Electric storRm (GANGSTER Trial)</brief_title>
+  <acronym>GANGSTER</acronym>
+  <official_title>Ganglion Stellate Block for Treatment of Electric Storm - a Randomized Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute for Clinical and Experimental Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institute for Clinical and Experimental Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the acute effect of ultrasound-navigated left ganglion stellate&#xD;
+      block to suppress ventricular arrhythmia in patients with arrhythmic storm.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      -  The study will include patients with drug-refractory arrhythmic storm indicated for left&#xD;
+           ganglion stellate block (LGSB) before or after catheter ablation.&#xD;
+&#xD;
+        -  Included participants will be dived based on the need for mechanical ventilation and&#xD;
+           catheter ablation performed &lt;5 days before the study&#xD;
+&#xD;
+        -  Subsequently, the participants will be randomized to LGSB or to a sham (placebo)&#xD;
+           procedure.&#xD;
+&#xD;
+        -  The primary endpoint will be a reduction of the burden of clinical arrhythmia &gt;50% 24&#xD;
+           hours after LGSB without escalation of antiarrhythmic therapy.&#xD;
+&#xD;
+        -  The study will include 80 patients over 4 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 21, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization 1:1 for active treatment vs. sham procedure</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>Patients, attending staff, and outcome assessors will not know whether the patient received the actual LGSB or a sham (placebo) procedure. The sham procedure will consist of subcutaneous application of a small amount (1ml) of the local anesthetic drug to the region of expected LGSB procedure.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the number of episodes of sustained VT/VF</measure>
+    <time_frame>2-24 hours after LGSB. The first 2 hours after the LGSB will not be considered in the evaluation (i.e., blanking period)</time_frame>
+    <description>Change by &gt;50% of the number of episodes of sustained ventricular tachycardia/fibrillation compared to 24 hours before LGSB, without escalation of antiarrhythmic therapy during 24 hours after LGSB (deep sedation requiring mechanical ventilation, addition of another antiarrhythmic drug, implantation of mechanical circulatory support, unplanned emergent catheter ablation)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in arrhythmia burden quantified by Holter ECG</measure>
+    <time_frame>2-24 hours after LGSB. The first 2 hours after the LGSB will not be considered in the evaluation (i.e., blanking period)</time_frame>
+    <description>Change of the percent of QRS complexes with ventricular tachycardia by &gt;50% on Holter ECG, as compared to 24 hours before LGSB, without escalation of antiarrhythmic therapy during 24 hours after LGSB (deep sedation requiring mechanical ventilation, addition of another antiarrhythmic drug, implantation of mechanical circulatory support, unplanned emergent catheter ablation).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Ventricular Arrythmia</condition>
+  <condition>Ventricular Tachycardia</condition>
+  <condition>Ventricular Fibrillation</condition>
+  <condition>Arrhythmic Storm</condition>
+  <condition>Block</condition>
+  <arm_group>
+    <arm_group_label>Actual LGSB</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The patients will receive an actual LGSB procedure:&#xD;
+Using ultrasound navigation and an echo-contrast needle, 8ml of bupivacain (5%) will be applied to the site of the left ganglion stellate through an anterolateral approach in the neck region.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham procedure</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>The procedure will be performed using the same instruments and anesthetic drug as the actual LGSB. However, the operator will apply only 0.5-1ml of the anesthetic drug and only subcutaneously to the site where an actual LGSB would be performed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Left ganglion stellate block</intervention_name>
+    <description>Ultrasound-guided anesthetic block of left ganglion stellate using 8ml of 5% bupivacaine.</description>
+    <arm_group_label>Actual LGSB</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Sham left ganglion stellate block</intervention_name>
+    <description>Subcutaneous application of 0.5-1ml of 5% bupivacaine to the site of expected LGSB</description>
+    <arm_group_label>Sham procedure</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. arrhythmic storm &lt;24 hours before inclusion:&#xD;
+&#xD;
+               -  3 or more episodes of sustained ventricular tachycardia (VT) or ventricular&#xD;
+                  fibrillation (VF) terminated by external or internal shock,&#xD;
+&#xD;
+               -  or incessant VT lasting &gt;30 minutes,&#xD;
+&#xD;
+               -  or very frequent nonsustained or sustained VT leading to hemodynamic instability&#xD;
+                  with the need of escalation of the therapy&#xD;
+&#xD;
+          2. clinical indication for LBGS based on the judgment of the physician, independent of&#xD;
+             the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. known allergy to bupivacaine&#xD;
+&#xD;
+          2. prior LBGS performed &lt;7 days before the study&#xD;
+&#xD;
+          3. known reversible provoking trigger of the arrhythmias&#xD;
+&#xD;
+          4. ventricular arrhythmias triggered by premature ectopic beats during bradycardia&#xD;
+&#xD;
+          5. hemodynamically tolerated idiopathic VT in patients without structural heart disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Marek Sramko, MD, PhD</last_name>
+    <phone>+420776246127</phone>
+    <email>marek.sramko@ikem.cz</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institute for Clinical and Experimental Medicine (IKEM)</name>
+      <address>
+        <city>Prague</city>
+        <zip>14059</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marek Sramko, MD, PhD</last_name>
+      <phone>+420731682681</phone>
+      <email>marek.sramko@ikem.cz</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Czechia</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>October 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Institute for Clinical and Experimental Medicine</investigator_affiliation>
+    <investigator_full_name>Marek Sramko, MD, PhD</investigator_full_name>
+    <investigator_title>Head of the Department of Acute Cardiology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tachycardia</mesh_term>
+    <mesh_term>Tachycardia, Ventricular</mesh_term>
+    <mesh_term>Ventricular Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

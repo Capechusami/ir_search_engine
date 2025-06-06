@@ -1,0 +1,183 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Dnr 2021-06283-02</org_study_id>
+    <nct_id>NCT05629780</nct_id>
+  </id_info>
+  <brief_title>Temporal Changes of Lactate in CLASSIC Patients</brief_title>
+  <official_title>Temporal Changes in Plasma Lactate Concentration in Critically Ill Patients With Septic Shock Treated With Restrictive Compared to Standard Fluid Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Collabortation for Research in Intensive Care (CRIC)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>European Society of Intensive Care Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Region Stockholm</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Scandinavian Society of Anaesthesiology and Intensive Care Medicine (SSAI)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aim to examine if randomization to different treatment strategies had any effect&#xD;
+      on the time to normalization of lactate in intensive care patients treated for septic shock.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a retrospective analysis of a subset of patients included in the Conservative versus&#xD;
+      Liberal Approach to fluid therapy of Septic Shock in Intensive Care (CLASSIC) trial.&#xD;
+&#xD;
+      In the CLASSIC trial patients with septic shock were randomized to either traditional&#xD;
+      (liberal) strategy for fluid treatment or a more conservative regimen. The study was an&#xD;
+      international multicenter clinical trial (clinicaltrials.gov NCT03668236), and results were&#xD;
+      published in New England Journal of Medicine in June 2022 (DOI: 10.1056/NEJMoa2202707).&#xD;
+&#xD;
+      In this substudy the investigator extract all lactate values for the study period from all&#xD;
+      patients included from Karolinska University Hospital, Sundsvall and Södersjukhuset (Sweden),&#xD;
+      participating centers on Zealand (Denmark), and Plzen University Hospital (Czech Republic).&#xD;
+      Baseline data, treatment allocation and amount of fluids administered are collected as well&#xD;
+      as outcome from CLASSIC study.&#xD;
+&#xD;
+      Primary outcome is time to lactate normalization (&lt;1.6 mmol/L). Secondary outcomes are time&#xD;
+      to resolution of shock (Lactate &lt; 2mmol/L) and differences in lactate concentration over the&#xD;
+      first 72 hours (as peak lactate for the time intervals 0-3, 3-6, 6-12, 12-24 and then each&#xD;
+      12h-period between 24 and 72 hours).&#xD;
+&#xD;
+      The subgroup with blood lactate &gt; 4mmol/L will be analyzed separately for the same end&#xD;
+      points.&#xD;
+&#xD;
+      Factors associated with time to lactate normalization will be examined through regression&#xD;
+      analysis. Factors that show a relationship on univariate analysis will be included in a&#xD;
+      multivariate analysis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 29, 2022</start_date>
+  <completion_date type="Actual">November 1, 2022</completion_date>
+  <primary_completion_date type="Actual">September 29, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a retrospective analysis of patients recruited to an interventional multicenter trial.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>All patients are included and analyzed for outcomes in the CLASSIC trial. The allocation and amount of fluids received for the included subjects are blinded for the investigator at the time point of analysis.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to lactate normalization</measure>
+    <time_frame>72 hours</time_frame>
+    <description>Blood lactate &lt; 1.6 mmol/L</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of shock</measure>
+    <time_frame>72 hours</time_frame>
+    <description>Blood lactate &lt; 2mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate concentration</measure>
+    <time_frame>72 hours</time_frame>
+    <description>Difference in blood lactate at during the first 72h from enrollment</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">784</enrollment>
+  <condition>Septic Shock</condition>
+  <arm_group>
+    <arm_group_label>Conservative</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Resuscitation fluids were only given under certain pre-defined criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Traditional (liberal)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients were treated with standard of care for each site with regards to recuscitation fluids.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Resuscitation fluid</intervention_name>
+    <description>Cristalloid fluids given as a resuscitational intervention</description>
+    <arm_group_label>Conservative</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participation in CLASSIC trial in any of the participating centres&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lack of sufficient data for analysis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <results_reference>
+    <citation>Meyhoff TS, Hjortrup PB, Wetterslev J, Sivapalan P, Laake JH, Cronhjort M, Jakob SM, Cecconi M, Nalos M, Ostermann M, Malbrain M, Pettila V, Moller MH, Kjaer MN, Lange T, Overgaard-Steensen C, Brand BA, Winther-Olesen M, White JO, Quist L, Westergaard B, Jonsson AB, Hjortso CJS, Meier N, Jensen TS, Engstrom J, Nebrich L, Andersen-Ranberg NC, Jensen JV, Joseph NA, Poulsen LM, Herlov LS, Solling CG, Pedersen SK, Knudsen KK, Straarup TS, Vang ML, Bundgaard H, Rasmussen BS, Aagaard SR, Hildebrandt T, Russell L, Bestle MH, Schonemann-Lund M, Brochner AC, Elvander CF, Hoffmann SKL, Rasmussen ML, Martin YK, Friberg FF, Seter H, Aslam TN, Adnoy S, Seidel P, Strand K, Johnstad B, Joelsson-Alm E, Christensen J, Ahlstedt C, Pfortmueller CA, Siegemund M, Greco M, Radej J, Kriz M, Gould DW, Rowan KM, Mouncey PR, Perner A; CLASSIC Trial Group. Restriction of Intravenous Fluid in ICU Patients with Septic Shock. N Engl J Med. 2022 Jun 30;386(26):2459-2470. doi: 10.1056/NEJMoa2202707. Epub 2022 Jun 17.</citation>
+    <PMID>35709019</PMID>
+  </results_reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Jonathan Grip</investigator_full_name>
+    <investigator_title>Principal Investigator, PhD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Shock, Septic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

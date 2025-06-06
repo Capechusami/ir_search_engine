@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624528</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB22-1729</org_study_id>
+    <nct_id>NCT05624528</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial of Tolcapone in Obsessive Compulsive Disorder</brief_title>
+  <official_title>A Double-Blind, Randomized, Placebo-Controlled Study of Tolcapone for OCD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of the present study is to examine the efficacy and safety of tolcapone in&#xD;
+      adults with moderate to severe OCD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Based on the mechanism of action and our previous pilot data, the primary aim of the present&#xD;
+      study is to examine the efficacy and safety of 8-week treatment with tolcapone vs. placebo in&#xD;
+      adults with moderate to severe OCD, as indicated by a score of at least 21 on the Yale Brown&#xD;
+      Obsessive Compulsive Scale (YBOCS), a scale of illness severity, at the baseline visit. We&#xD;
+      hypothesize that tolcapone will significantly improve symptoms of OCD compared to placebo.&#xD;
+&#xD;
+      A secondary aim of the proposed study is to examine the cognitive effects of tolcapone in&#xD;
+      OCD, by conducting objective neuropsychological tasks pre- and post-pharmacological trial.&#xD;
+      The rationale for this approach is that: dopamine plays a key role in cognition; cognitive&#xD;
+      effects of tolcapone are likely to be relevant in explaining symptomatic effects; and&#xD;
+      cognitive dysfunction constitutes an important treatment target in OCD that is not generally&#xD;
+      ameliorated by current first-line interventions. We hypothesize that any symptomatic benefit&#xD;
+      with tolcapone would also be associated with improvement in executive functions including&#xD;
+      cognitive flexibility.&#xD;
+&#xD;
+      Another secondary aim of the proposed study is to evaluate whether the single nucleotide&#xD;
+      polymorphism (SNP) Val-158-Met polymorphism significantly relates to changes in symptoms and&#xD;
+      cognition observed with tolcapone. Prior data indicate cognitive effects of tolcapone are&#xD;
+      affected by this SNP. We hypothesize that the val/val COMT variant will be associated with&#xD;
+      significantly higher tolcapone-related improvements in cognition and symptoms, since this is&#xD;
+      linked to lower cortical dopamine function.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">July 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Yale Brown Obsessive Compulsive Scale (YBOCS)</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+    <description>A measure of OCD illness severity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CANTAB Cognitive Testing</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+    <description>Neuropsychological tasks that measure cognition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Val-158-Met polymorphism</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+    <description>Evaluating whether the single nucleotide polymorphism (SNP) Val-158-Met polymorphism significantly relates to changes in symptoms and cognition observed with tolcapone.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life Inventory</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+    <description>A self-report measure assessing perceived quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Montgomery-Asberg Depression Rating Scale</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+    <description>A 10-item clinical rated scale measuring depression severity.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">85</enrollment>
+  <condition>Obsessive-Compulsive Disorder</condition>
+  <condition>OCD</condition>
+  <arm_group>
+    <arm_group_label>Tolcapone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100mg of tolcapone twice daily for two weeks, then 200mg tolcapone twice daily for the remaining six weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>100mg of placebo twice daily for two weeks, then 200mg of placebo twice daily for the remaining six weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tolcapone</intervention_name>
+    <description>catechol-O-methyl transferase inhibitor</description>
+    <arm_group_label>Tolcapone</arm_group_label>
+    <other_name>Tasmar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Pill that contains no medicine</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men and women age 18-65 years&#xD;
+&#xD;
+          2. Primary diagnosis of OCD&#xD;
+&#xD;
+          3. YBOCS score of at least 21 at baseline (moderate or higher severity)&#xD;
+&#xD;
+          4. Ability to understand and sign the consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unstable medical illness based on history or clinically significant abnormalities on&#xD;
+             baseline physical examination&#xD;
+&#xD;
+          2. Current pregnancy or lactation, or inadequate contraception in women of childbearing&#xD;
+             potential&#xD;
+&#xD;
+          3. Subjects considered an immediate suicide risk based on the Columbia Suicide Severity&#xD;
+             rating Scale (C-SSRS) (www.cssrs.columbia.edu/docs)&#xD;
+&#xD;
+          4. History of psychosis or bipolar disorder based on DSM-5 criteria&#xD;
+&#xD;
+          5. Alcohol/substance use disorder and/or illegal substance use based on urine toxicology&#xD;
+&#xD;
+          6. Initiation of psychological interventions within 3 months of screening (those who are&#xD;
+             continuing with CBT will be included)&#xD;
+&#xD;
+          7. Use of any new psychotropic medication within 3 months of study entry (stable doses of&#xD;
+             psychotropics will be allowed)&#xD;
+&#xD;
+          8. Major cognitive impairment that interferes with the capacity to understand and&#xD;
+             self-administer medication or provide written informed consent&#xD;
+&#xD;
+          9. Abnormal liver function tests at baseline&#xD;
+&#xD;
+         10. MADRS &gt;30 at baseline&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jon E Grant, MD, JD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Madison P Collins, BA</last_name>
+    <phone>773-834-3778</phone>
+    <email>mcollins4@bsd.uchicago.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eve K Chesivoir, BA</last_name>
+    <phone>773-702-9066</phone>
+    <email>chesivoir@bsd.uchicago.edu</email>
+  </overall_contact_backup>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>May 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Compulsive Personality Disorder</mesh_term>
+    <mesh_term>Obsessive-Compulsive Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tolcapone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,192 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078762</url>
+  </required_header>
+  <id_info>
+    <org_study_id>iVRBronch</org_study_id>
+    <nct_id>NCT05078762</nct_id>
+  </id_info>
+  <brief_title>Immersive Virtual Reality in Simulation-based Bronchoscopy Training</brief_title>
+  <official_title>Immersive Virtual Reality in Simulation-based Bronchoscopy Training - a Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Copenhagen Academy for Medical Education and Simulation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Copenhagen Academy for Medical Education and Simulation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this single-center randomized study is to investigate whether bronchoscopy&#xD;
+      training in an immersive Virtual Reality (iVR) environment will make the surgeon better at&#xD;
+      handling distractions and increase the quality of the bronchoscopy.&#xD;
+&#xD;
+      The participants will be stratified according to gender and randomized into two groups. Both&#xD;
+      groups will initially train on the bronchoscopy simulator without VR. Afterwards the&#xD;
+      intervention group will train in an iVR environment with Virtual Reality Goggles while using&#xD;
+      the bronchoscopy simulator, while the control group will train without VR goggles.&#xD;
+&#xD;
+      Afterwards both groups will be tested in the iVR environment in a test scenario&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 4, 2021</start_date>
+  <completion_date type="Actual">February 28, 2022</completion_date>
+  <primary_completion_date type="Actual">January 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization is performed online using SealedEnvelope™ (Sealed Envelope ltd, London, UK) before the start of the trial. The participants are stratified by sex (man/woman) as this has been seen to influence skills acquisition during the early part of in the learning curve</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>The participants will not be blinded to the main investigator, as this is impossible due to the nature of the trial. The statistical analysis will be performed blinded and by someone other than the principal investigator.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Structured Progress</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>The systematic visualization and structured passage through the bronchial tree measured in points (0-18 points)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Procedure time</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>Time (seconds) from passing the vocal cords to retraction of the endoscope.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Motor Bronchoscopy Skill Score</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>Objective and automatic composite score based on lower arm movement, measured with an Inertial Measurement Unit, and electromyography findings of hand and finger movement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic completeness</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>The fraction in percent (%) of visited bronchial segments</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart Rate Variability(LF/HF ratio)</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>The fraction between the low frequency and high frequency heart rate, measured as R-R intervals on an electrocardiogram for five minutes (17) Kubios HRV version 2.216 (Biosignal Analysis and Medical Group, Kuopio, Finland)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eye movement measurements</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>Gaze direction (vector)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eye movement measurements</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>Saccadic eye movements (gaze direction/time)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eye movement measurements</measure>
+    <time_frame>From beginning to end of each procedure, aprox. 30 minutes</time_frame>
+    <description>Pupillary dilation (mm)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Virtual Reality</condition>
+  <condition>Medical Education</condition>
+  <arm_group>
+    <arm_group_label>iVR</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention group will train on a bronchoscopy simulator in an iVR environment with Virtual Reality Goggles (HTC IVE Pro Eye, HTC corporation, Taiwan) while using the bronchoscopy simulator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non iVR</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group will train on a bronchoscopy simulator without VR goggles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Immersive Virtual Reality</intervention_name>
+    <description>Training in an iVR environment with Virtual Reality Goggles while using the bronchoscopy simulator, while the control group will train without VR goggles.</description>
+    <arm_group_label>iVR</arm_group_label>
+    <other_name>iVR</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Residents working in Denmark in thoracic surgery and pulmonary medicine&#xD;
+&#xD;
+          -  Participants are required to have a medical license.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous participation in trials involving bronchoscopy training.&#xD;
+&#xD;
+          -  Experience with independent bronchoscopy.&#xD;
+&#xD;
+          -  No informed consent.&#xD;
+&#xD;
+          -  Unable to speak Danish on a conversational level.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Based on a self-report form</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lars Konge, Professor, MD, PHD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Copenhagen Academy for Medical Education and Simulation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Flemming Bjerrum, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Copenhagen Academy for Medical Education and Simulation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Annarita G Andersen, BMed</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Copenhagen Academy for Medical Education and Simulation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Copenhagen Academy for Medical Education and Simulation</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>March 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Copenhagen Academy for Medical Education and Simulation</investigator_affiliation>
+    <investigator_full_name>Annarita Ghosh Andersen</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Bronchoscopy Training</keyword>
+  <keyword>Immersive Simulation Training</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,552 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799118</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1</org_study_id>
+    <nct_id>NCT05799118</nct_id>
+  </id_info>
+  <brief_title>Study of the Role of Genetic Modifiers in Hemoglobinopathies</brief_title>
+  <acronym>INHERENT</acronym>
+  <official_title>Study of the Role of Genetic Modifiers in Hemoglobinopathies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cyprus Institute of Neurology and Genetics</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cyprus Institute of Neurology and Genetics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate the role of genetic modifiers in hemoglobinopathies through a&#xD;
+      large-scale, multi-ethnic genome-wide association study (GWAS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hemoglobinopathies, including sickle cell disease (SCD) and beta-thalassemia, are prevalent&#xD;
+      diseases with variable clinical manifestation and severity that are thought to be governed,&#xD;
+      in part, by genetic modifiers. Despite the identification and characterization of a few&#xD;
+      putative genetic modifiers by previous studies, these are as yet insufficient to guide&#xD;
+      treatment recommendations or risk-stratify patients reliably. Also, it is expected that many&#xD;
+      additional genetic variants exist that can modify disease and its severity. This large-scale&#xD;
+      genome-wide association study (GWAS) will utilize SNP chips to investigate the genetic&#xD;
+      profile of individuals with hemoglobinopathies, thereby addressing the challenges of previous&#xD;
+      studies related to small sample sizes and low statistical power, while promoting the&#xD;
+      participation of diverse populations worldwide. The study aims to i) discover new genetic&#xD;
+      modifiers of hemoglobinopathies, ii) validate previously reported genetic modifiers, iii)&#xD;
+      pool and analyze existing genomic data, iv) standardize phenotypic descriptions, v) develop a&#xD;
+      research resource of disease-specific data generated in INHERENT, including genomic,&#xD;
+      phenotypic, and functional data, and vi) develop risk scores that can be used for patient&#xD;
+      stratification.&#xD;
+&#xD;
+      The main endpoints include:&#xD;
+&#xD;
+        1. Worldwide demography, including numbers of patients, main genotypes, and overall disease&#xD;
+           severity/burden in participating centres&#xD;
+&#xD;
+        2. Genetic modifiers affecting clinical or laboratory phenotypes of hemoglobinopathies,&#xD;
+           including&#xD;
+&#xD;
+             1. overall survival in SCD and/or thalassemia,&#xD;
+&#xD;
+             2. stroke and/or decreased neurocognitive function in SCD and/or thalassemia,&#xD;
+&#xD;
+             3. renal impairment in SCD and/or thalassemia,&#xD;
+&#xD;
+             4. leg ulcers in SCD,&#xD;
+&#xD;
+             5. priapism in SCD,&#xD;
+&#xD;
+             6. mild or severe acute pain and/or chronic pain syndromes in SCD,&#xD;
+&#xD;
+             7. pulmonary hypertension in SCD and/or thalassemia,&#xD;
+&#xD;
+             8. hyperhemolysis in SCD and/or thalassemia,&#xD;
+&#xD;
+             9. fetal hemoglobin levels,&#xD;
+&#xD;
+            10. degree of ineffective erythropoiesis,&#xD;
+&#xD;
+            11. hepatic fibrosis/cirrhosis and/or cardiac siderosis,&#xD;
+&#xD;
+        3. Genetic modifiers affecting response to treatment, including&#xD;
+&#xD;
+             1. response to hydroxyurea,&#xD;
+&#xD;
+             2. response to iron chelation treatment,&#xD;
+&#xD;
+             3. response to emerging therapeutic agents&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Genetic modifiers in haemoglobinopathies through GWAS</measure>
+    <time_frame>5 years</time_frame>
+    <description>Number of genetic variants (SNPs) associated with disease-specific phenotypes</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30000</enrollment>
+  <condition>Sickle Cell Disease</condition>
+  <condition>Thalassemia, Beta</condition>
+  <condition>Thalassemia Alpha</condition>
+  <condition>Hemoglobinopathies</condition>
+  <arm_group>
+    <arm_group_label>Cohort</arm_group_label>
+    <description>Individuals with hemoglobinopathies</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>GWAS</intervention_name>
+    <description>The study will perform a GWAS experiments for all recruited subjects. The blood sample will be collected during routine clinical visits, only if DNA is not already available in existing biobanks. All individuals will provide consent for participation in the study.</description>
+    <arm_group_label>Cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals diagnosed with an inherited hemoglobinopathy and are under regular follow-up in&#xD;
+        the participating centers&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinical diagnosis of an inherited hemoglobinopathy, including sickle cell disease&#xD;
+             (SCD), β-thalassemia, and α-thalassemia; all genotypes will be considered.&#xD;
+&#xD;
+          -  Age ≥ 2 years old at the time of the collection of the phenotypic data.&#xD;
+&#xD;
+          -  There will be no limits on study participants in terms of gender, ethnicity,&#xD;
+             morbidities.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients treated with stem cell transplantation or genetic therapy.&#xD;
+&#xD;
+          -  Age &lt; 2 years old at the time of the collection of the phenotypic data.&#xD;
+&#xD;
+          -  Patient or legal representative for minors unwilling or unable to give consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Petros Kountouris, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cyprus Institute of Neurology and Genetics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Petros Kountouris, PhD</last_name>
+    <phone>22392623</phone>
+    <phone_ext>357</phone_ext>
+    <email>admin@inherentnetwork.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natasha Archer, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Buenos Aires</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Karen Scheps, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Veerle Labarque, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universiti Brunei Darussalam</name>
+      <address>
+        <city>Brunei</city>
+        <country>Brunei Darussalam</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mas Rina Wati Abdul Hamid</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Monkole</name>
+      <address>
+        <city>Kinshasa</city>
+        <country>Congo, The Democratic Republic of the</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Leon Tshilolo, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Larnaca General Hospital</name>
+      <address>
+        <city>Larnaca</city>
+        <country>Cyprus</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Sitarou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Limassol General Hospital</name>
+      <address>
+        <city>Limassol</city>
+        <country>Cyprus</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Hadjigavriel, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Archbishop Makarios III Hospital</name>
+      <address>
+        <city>Nicosia</city>
+        <country>Cyprus</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Soteroula Christou</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Paphos General Hospital</name>
+      <address>
+        <city>Paphos</city>
+        <country>Cyprus</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Dimitriou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andreas Birkedal Glenthøj, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Laiko General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maria Dimopoulou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National and Kapodistrian University of Athens</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joanne Traeger-Synodinos, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Larissa</name>
+      <address>
+        <city>Larissa</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michael Diamantidis, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Emek Medical Centre</name>
+      <address>
+        <city>Afula</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ariel Koren, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Turin</name>
+      <address>
+        <city>Turin</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Giorgia Mandrile, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ampang Hospital</name>
+      <address>
+        <city>Ampang</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Veena Selvaratnam, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universiti Kebangsaan Malaysia</name>
+      <address>
+        <city>Bangi</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Raja Zahratul Azma, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universiti Sains Malaysia</name>
+      <address>
+        <city>Kota Bharu</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bin Alwi Zilfalil, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Abuja</name>
+      <address>
+        <city>Abuja</city>
+        <country>Nigeria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Obiageli E Nnodu, mD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kaduna State University</name>
+      <address>
+        <city>Kaduna</city>
+        <country>Nigeria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Livingstone Dogara, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ahmadu Bello University</name>
+      <address>
+        <city>Zaria</city>
+        <country>Nigeria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Aliyu Waziri, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Lahore</name>
+      <address>
+        <city>Lahore</city>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ahmed Bilal, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Hospitalar e Universitário de Coimbra</name>
+      <address>
+        <city>Coimbra</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Celeste Bento, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paloma Ropero, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elena Cela, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Belgium</country>
+    <country>Brunei Darussalam</country>
+    <country>Congo, The Democratic Republic of the</country>
+    <country>Cyprus</country>
+    <country>Denmark</country>
+    <country>Greece</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Malaysia</country>
+    <country>Nigeria</country>
+    <country>Pakistan</country>
+    <country>Portugal</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://inherentnetwork.org</url>
+    <description>Official INHERENT website</description>
+  </link>
+  <reference>
+    <citation>Kountouris P, Stephanou C, Archer N, Bonifazi F, Giannuzzi V, Kuo KHM, Maggio A, Makani J, Manu-Pereira MDM, Michailidou K, Nkya S, Nnodu OE, Trompeter S, Tshilolo L, Wonkam A, Zilfalil BA, Inusa BPD, Kleanthous M; on behalf of the International Hemoglobinopathy Research Network (INHERENT). The International Hemoglobinopathy Research Network (INHERENT): An international initiative to study the role of genetic modifiers in hemoglobinopathies. Am J Hematol. 2021 Nov 1;96(11):E416-E420. doi: 10.1002/ajh.26323. Epub 2021 Aug 30. No abstract available.</citation>
+    <PMID>34406671</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>April 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cyprus Institute of Neurology and Genetics</investigator_affiliation>
+    <investigator_full_name>Petros Kountouris, PhD</investigator_full_name>
+    <investigator_title>Associate Scientist, Lead of the Biomedical and Translational Informatics Group, Molecular Genetics Thalassaemia Department</investigator_title>
+  </responsible_party>
+  <keyword>GWAS</keyword>
+  <keyword>thalassemia</keyword>
+  <keyword>sickle cell disease</keyword>
+  <keyword>genetic modifiers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+    <mesh_term>Thalassemia</mesh_term>
+    <mesh_term>Hemoglobinopathies</mesh_term>
+    <mesh_term>beta-Thalassemia</mesh_term>
+    <mesh_term>alpha-Thalassemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

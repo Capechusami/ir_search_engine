@@ -1,0 +1,449 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05075161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PIONEER</org_study_id>
+    <secondary_id>2020-005306-25</secondary_id>
+    <nct_id>NCT05075161</nct_id>
+  </id_info>
+  <brief_title>Pirfenidone to Prevent Fibrosis in Ards.</brief_title>
+  <acronym>PIONEER</acronym>
+  <official_title>Pirfenidone to Prevent Fibrosis in ARDS. A Randomized Controlled Trial - PIONEER</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Università Vita-Salute San Raffaele</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Università Vita-Salute San Raffaele</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute respiratory distress syndrome (ARDS) is a severe form of acute lung injury and a major&#xD;
+      cause of Intensive Care Unit (ICU) admission worldwide. Despite a large number of randomized&#xD;
+      clinical trials, a specific and effective pharmacological approach for patients with ARDS is&#xD;
+      still lacking.&#xD;
+&#xD;
+      Fibroproliferation is a crucial part of the host defence response, and severe fibrotic lung&#xD;
+      disease affects ARDS patients even years after acute phase resolution.&#xD;
+&#xD;
+      Pirfenidone is an oral anti-fibrotic drug, approved and largely used for treatment of&#xD;
+      idiopathic pulmonary fibrosis (IPF). The effect of Pirfenidone in ARDS has been evaluated&#xD;
+      only in animal models.&#xD;
+&#xD;
+      This is a randomized controlled study to evaluate for the first time the efficacy of&#xD;
+      Pirfenidone in ARDS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute respiratory distress syndrome (ARDS) is an acute inflammatory lung injury, associated&#xD;
+      with increased pulmonary vascular permeability, increased lung weight, and loss of aerated&#xD;
+      lung tissue.&#xD;
+&#xD;
+      ARDS represents 10.4% of total ICU admissions and 23.4% of all patients requiring mechanical&#xD;
+      ventilation and the hospital mortality rate remains as high as 40%.&#xD;
+&#xD;
+      Optimal care for patients with ARDS includes PEEP, muscle relaxation, protective ventilation,&#xD;
+      prone position, conservative fluid strategy.&#xD;
+&#xD;
+      Pharmacological interventions focused on dampening the pro-inflammatory response in the&#xD;
+      initial phase of ARDS, on reduction of pulmonary oedema and on improvement of repair&#xD;
+      mechanisms. Besides treatment with glucocorticosteroids, none of the other pharmacological&#xD;
+      interventions tested so far in clinical trials showed a significant reduction in morbidity&#xD;
+      and mortality.&#xD;
+&#xD;
+      Many ARDS patients survive the acute inflammation phase but develop remarkable pulmonary&#xD;
+      fibrosis. In hospital mortality is significantly lower (24%) than 1-y mortality after&#xD;
+      hospital discharge (41%) regardless of the etiology of ARDS. Although a protective&#xD;
+      ventilation strategy can improve short-term survival in ARDS subjects, there is no difference&#xD;
+      in pulmonary function compared with standard ventilation treatment up to 2 years after the&#xD;
+      acute-phase resolution.&#xD;
+&#xD;
+      Pulmonary fibrosis was observed in 53% of ventilated patients who had ARDS for five days and&#xD;
+      their mortality rate was 57% compared with 0% in patients without pulmonary fibrosis.&#xD;
+&#xD;
+      The purpose of this study is to provide a large multicenter RCT with an adequate size to&#xD;
+      explore the efficacy of Pirfenidone in ARDS patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2022</start_date>
+  <completion_date type="Anticipated">October 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The number of ventilator free days (VFD) at day 28.</measure>
+    <time_frame>28 days</time_frame>
+    <description>The primary outcome will be calculated following these rules:&#xD;
+the total number of days from day 1 to 28 post randomization on which a patient is alive and receives no assistance from mechanical ventilation, if any period of ventilator liberation lasts at least 48 consecutive hours.&#xD;
+study day 1 is the day of enrolment.&#xD;
+if patients are on mechanical ventilation they will be classified as being on mechanical ventilation for that entire study day.&#xD;
+to be considered liberated from mechanical ventilation, the patient will need to have at least 48 consecutive hours without mechanical ventilation.&#xD;
+non-invasive mechanical ventilation will not be considered assistance if it is provided by face or nasal mask.&#xD;
+patients dead before weaning will be allocated the value of 0 ventilator free days. Any patient who dies after weaning from mechanical ventilation but before day 28 will not have the days after their death until day 28 considered as a VFD.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free days at day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days from randomization to day 28 (or death) in which the subject is outside the ICU. For any discharge lasting less than 48h, no ICU-free days will be computed. Re-admission lasting less than 24 hours will not reduce ICU-fd. Patients that will not survive outside ICU for at least 48 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative SOFA-free point at day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Sequential organ failure assessment score to describe the extent of a patient's organ function and the rate of failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay.</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>The total number of days of hospital stay or until dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibroproliferative changes on high-resolution CT performed at ICU discharge</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>High-resolution CT (HRCT) scan will be performed at ICU discharge. HRCT scans will be evaluated by two independent observers - radiologists with experience and will be unaware of patient condition. According to specific interpretation guidelines, the presence and extent of areas of ground-glass attenuation, air-space consolidation, traction bronchiectasis, traction bronchiolectasis and honeycombing will be assessed. (Am J Respir Crit Care Med. 2017 May 1;195(9):1253-1263).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at ICU/hospital discharge</measure>
+    <time_frame>28 days or until discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life assessment at follow-up (6 12 months) with SF-36 .</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>The SF-36 assesses health across eight dimensions using 36 items, such as physical functioning, social functioning and vitality. The SF-36 produces one reported score on a 0-100 scale from the combination of different measurements.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life assessment at follow-up (6 12 months) with EQ-5D score.</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>The EQ-5D is the most widely used generic preference- based measure of health-related quality of life.&#xD;
+It is based on five dimension (mobility, self-care, usual activity, pain/discomfort and anxiety/depression) and 3 levels (no problems, some problems, extreme problems)which combined, create 243 potential health states.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in the spirometric values, such as FEV1 (% and L/min), FVC (% and L/min) and DLCO (%).</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>FEV1-Forced expiratory volume in one second; the volume of air exhaled in the first second under force after a maximal inhalation. It will be used as a baseline pulmonary function parameter. It will be performed via standard office spirometry. It will be calculated as an absolute value (in liters) and as a percentage (compared to the normal population data) FVC- Forced Vital Capacity; the total volume of air that can be exhaled during a maximal forced expiration effort. It will be calculated as an absolute value (in liters) and as a percentage (compared to the normal population data) DLCO-Diffusion Lung Carbon monOxide. It describes the lung capacity of gas exchange.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who develop right and/or left heart dysfunction</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>Percentage change in the echocardiographic parameters from the baseline to the discharge.&#xD;
+Tricuspid regurgitation (scored from 1 to 4) in the absence of organic tricuspid valve pathology.&#xD;
+Tricuspid annular plane systolic excursion (TAPSE), reflects longitudinal shortening of the RV, measured in mm.&#xD;
+Tissue doppler Index-S' (TDI) reflects the longitudinal velocity of the tricuspid annulus during systole. Measured in cm/sec.&#xD;
+Pulmonary artery systolic pressure (PAPs) has a reasonable accuracy to diagnose exercise-induced pulmonary hypertension. Measured in mmHg.&#xD;
+Telediastolic Diameter (TDD) meaning the measurement of the internal diameter of left ventricle in diastole. Measured in mm.&#xD;
+Ejection Fraction (EF) calculated by dividing the volume of blood pumped from the left ventricle per beat, by the volume of blood collected in the left ventricle at the end of diastolic filling.&#xD;
+Regional Wall Motion Abnormalities (RWMA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse event rate</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>Number of patients who experience at least one adverse event and number of total adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of rescue therapies for severe hypoxaemia</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>Inhaled nitric oxide, inhaled prostacyclin, prone position, high frequency oscillatory ventilation and extracorporeal membrane ventilation (ECMO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Broncoalveolar lavage fluid (BAL) speciments</measure>
+    <time_frame>28 days or until discharge</time_frame>
+    <description>Cell biology of pulmonary sputum or tissue</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Acute Respiratory Distress Syndrome (ARDS)</condition>
+  <arm_group>
+    <arm_group_label>Pirfenidone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to Pirfernidone Group will receive tables of 267 mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients randomized to Placebo Group will receive 5 ml of Water</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pirfenidone</intervention_name>
+    <description>From days 1-7: 801mg/day; from days 8-14:1602mg/day, from day 15 to ICU discharge 2403 mg/day. All drugs will be delivered by a nasogastric tube divided in 3 daily doses.</description>
+    <arm_group_label>Pirfenidone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>All drugs will be delivered by a nasogastric tube divided in 3 daily doses.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Concomitant presence of:&#xD;
+&#xD;
+          -  ARDS (moderate and severe) - Berlin definition&#xD;
+&#xD;
+               1. Within 1 week of a known clinical insult or new or worsening respiratory symptoms&#xD;
+&#xD;
+               2. Bilateral opacities on CXR which are not fully explained by effusions, lobar/lung&#xD;
+                  collapse or nodules&#xD;
+&#xD;
+               3. Respiratory failure not fully explained by cardiac failure or fluid overload&#xD;
+&#xD;
+               4. PaO2/FiO2&lt;200 mmHg with PEEP&lt;=5 cmH2O (invasive mechanical ventilation)&#xD;
+&#xD;
+          -  Inflammatory ARDS phenotype (28), defined by at least one of the following:&#xD;
+&#xD;
+               1. High plasma levels of inflammatory biomarkers&#xD;
+&#xD;
+               2. Vasopressor dependence&#xD;
+&#xD;
+               3. Lower serum bicarbonate or increased serum lactate&#xD;
+&#xD;
+          -  Informed consent expressed by the patient or by legal representative or on the Ethical&#xD;
+             Committee indication.&#xD;
+&#xD;
+          -  Age &gt;=18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Intubated and mechanically ventilated via an endotracheal or tracheostomy tube (&gt;7&#xD;
+             days) up to the time of randomization&#xD;
+&#xD;
+          -  ARDS severe or moderate for more than 36 hours&#xD;
+&#xD;
+          -  Untreated pulmonary embolism, pleural effusion or pneumothorax as the primary cause of&#xD;
+             ARF&#xD;
+&#xD;
+          -  ARF fully explained by left ventricular failure or fluid overload&#xD;
+&#xD;
+          -  Consent declined&#xD;
+&#xD;
+          -  Severe chronic respiratory disease requiring domiciliary ventilation&#xD;
+&#xD;
+          -  Clinical suspicion for significant restrictive lung disease&#xD;
+&#xD;
+          -  Pregnant women or women of childbearing potential who are sexually active&#xD;
+&#xD;
+          -  Known allergy to pirfenidone&#xD;
+&#xD;
+          -  Concomitant use of fluvoxamine&#xD;
+&#xD;
+          -  Known severe hepatic failure&#xD;
+&#xD;
+          -  Known severe renal failure or necessity of dialysis not related to acute disease&#xD;
+&#xD;
+          -  Little chance of survival (SAPS II score&gt;75)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giovanni Landoni, Professor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Vita-Salute San Raffaele University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nora Di Tomasso, MD</last_name>
+    <phone>+39022643</phone>
+    <phone_ext>7722</phone_ext>
+    <email>ditomasso.nora@hsr.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Giacomo Monti, MD</last_name>
+    <phone>+39022643</phone>
+    <phone_ext>2222</phone_ext>
+    <email>monti.giacomo@hsr.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele Scientific Institute</name>
+      <address>
+        <city>Milan</city>
+        <state>MI</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nora Di Tomasso, MD</last_name>
+      <phone>+39022643</phone>
+      <phone_ext>7722</phone_ext>
+      <email>ditomasso.nora@hsr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.R San Carlo</name>
+      <address>
+        <city>Potenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gianluca Paternoster, MD</last_name>
+      <email>paternostergianluca@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>ARDS Definition Task Force; Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.</citation>
+    <PMID>22797452</PMID>
+  </reference>
+  <reference>
+    <citation>Bellani G, Laffey JG, Pham T, Fan E, Brochard L, Esteban A, Gattinoni L, van Haren F, Larsson A, McAuley DF, Ranieri M, Rubenfeld G, Thompson BT, Wrigge H, Slutsky AS, Pesenti A; LUNG SAFE Investigators; ESICM Trials Group. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA. 2016 Feb 23;315(8):788-800. doi: 10.1001/jama.2016.0291. Erratum In: JAMA. 2016 Jul 19;316(3):350. JAMA. 2016 Jul 19;316(3):350.</citation>
+    <PMID>26903337</PMID>
+  </reference>
+  <reference>
+    <citation>Bos LD, Martin-Loeches I, Schultz MJ. ARDS: challenges in patient care and frontiers in research. Eur Respir Rev. 2018 Jan 24;27(147):170107. doi: 10.1183/16000617.0107-2017. Print 2018 Mar 31.</citation>
+    <PMID>29367411</PMID>
+  </reference>
+  <reference>
+    <citation>Gao Smith F, Perkins GD, Gates S, Young D, McAuley DF, Tunnicliffe W, Khan Z, Lamb SE; BALTI-2 study investigators. Effect of intravenous beta-2 agonist treatment on clinical outcomes in acute respiratory distress syndrome (BALTI-2): a multicentre, randomised controlled trial. Lancet. 2012 Jan 21;379(9812):229-35. doi: 10.1016/S0140-6736(11)61623-1. Epub 2011 Dec 11.</citation>
+    <PMID>22166903</PMID>
+  </reference>
+  <reference>
+    <citation>Davidson WJ, Dorscheid D, Spragg R, Schulzer M, Mak E, Ayas NT. Exogenous pulmonary surfactant for the treatment of adult patients with acute respiratory distress syndrome: results of a meta-analysis. Crit Care. 2006;10(2):R41. doi: 10.1186/cc4851.</citation>
+    <PMID>16542488</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Ding S, Li C, Wang Y, Chen Z, Wang Z. Effects of N-acetylcysteine treatment in acute respiratory distress syndrome: A meta-analysis. Exp Ther Med. 2017 Oct;14(4):2863-2868. doi: 10.3892/etm.2017.4891. Epub 2017 Aug 7.</citation>
+    <PMID>28928799</PMID>
+  </reference>
+  <reference>
+    <citation>Iwata K, Doi A, Ohji G, Oka H, Oba Y, Takimoto K, Igarashi W, Gremillion DH, Shimada T. Effect of neutrophil elastase inhibitor (sivelestat sodium) in the treatment of acute lung injury (ALI) and acute respiratory distress syndrome (ARDS): a systematic review and meta-analysis. Intern Med. 2010;49(22):2423-32. doi: 10.2169/internalmedicine.49.4010. Epub 2010 Nov 15.</citation>
+    <PMID>21088343</PMID>
+  </reference>
+  <reference>
+    <citation>Paine R 3rd, Standiford TJ, Dechert RE, Moss M, Martin GS, Rosenberg AL, Thannickal VJ, Burnham EL, Brown MB, Hyzy RC. A randomized trial of recombinant human granulocyte-macrophage colony stimulating factor for patients with acute lung injury. Crit Care Med. 2012 Jan;40(1):90-7. doi: 10.1097/CCM.0b013e31822d7bf0.</citation>
+    <PMID>21926600</PMID>
+  </reference>
+  <reference>
+    <citation>Agrawal A, Zhuo H, Brady S, Levitt J, Steingrub J, Siegel MD, Soto G, Peterson MW, Chesnutt MS, Matthay MA, Liu KD. Pathogenetic and predictive value of biomarkers in patients with ALI and lower severity of illness: results from two clinical trials. Am J Physiol Lung Cell Mol Physiol. 2012 Oct 15;303(8):L634-9. doi: 10.1152/ajplung.00195.2012. Epub 2012 Aug 3.</citation>
+    <PMID>22865551</PMID>
+  </reference>
+  <reference>
+    <citation>Calfee CS, Delucchi K, Parsons PE, Thompson BT, Ware LB, Matthay MA; NHLBI ARDS Network. Subphenotypes in acute respiratory distress syndrome: latent class analysis of data from two randomised controlled trials. Lancet Respir Med. 2014 Aug;2(8):611-20. doi: 10.1016/S2213-2600(14)70097-9. Epub 2014 May 19.</citation>
+    <PMID>24853585</PMID>
+  </reference>
+  <reference>
+    <citation>Famous KR, Delucchi K, Ware LB, Kangelaris KN, Liu KD, Thompson BT, Calfee CS; ARDS Network. Acute Respiratory Distress Syndrome Subphenotypes Respond Differently to Randomized Fluid Management Strategy. Am J Respir Crit Care Med. 2017 Feb 1;195(3):331-338. doi: 10.1164/rccm.201603-0645OC. Erratum In: Am J Respir Crit Care Med. 2018 Dec 15;198(12):1590. Am J Respir Crit Care Med. 2019 Sep 1;200(5):649.</citation>
+    <PMID>27513822</PMID>
+  </reference>
+  <reference>
+    <citation>Meduri GU, Headley S, Kohler G, Stentz F, Tolley E, Umberger R, Leeper K. Persistent elevation of inflammatory cytokines predicts a poor outcome in ARDS. Plasma IL-1 beta and IL-6 levels are consistent and efficient predictors of outcome over time. Chest. 1995 Apr;107(4):1062-73. doi: 10.1378/chest.107.4.1062.</citation>
+    <PMID>7705118</PMID>
+  </reference>
+  <reference>
+    <citation>Wang CY, Calfee CS, Paul DW, Janz DR, May AK, Zhuo H, Bernard GR, Matthay MA, Ware LB, Kangelaris KN. One-year mortality and predictors of death among hospital survivors of acute respiratory distress syndrome. Intensive Care Med. 2014 Mar;40(3):388-96. doi: 10.1007/s00134-013-3186-3. Epub 2014 Jan 17.</citation>
+    <PMID>24435201</PMID>
+  </reference>
+  <reference>
+    <citation>Acute Respiratory Distress Syndrome Network; Brower RG, Matthay MA, Morris A, Schoenfeld D, Thompson BT, Wheeler A. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med. 2000 May 4;342(18):1301-8. doi: 10.1056/NEJM200005043421801.</citation>
+    <PMID>10793162</PMID>
+  </reference>
+  <reference>
+    <citation>Orme J Jr, Romney JS, Hopkins RO, Pope D, Chan KJ, Thomsen G, Crapo RO, Weaver LK. Pulmonary function and health-related quality of life in survivors of acute respiratory distress syndrome. Am J Respir Crit Care Med. 2003 Mar 1;167(5):690-4. doi: 10.1164/rccm.200206-542OC. Epub 2002 Dec 18.</citation>
+    <PMID>12493646</PMID>
+  </reference>
+  <reference>
+    <citation>Masclans JR, Roca O, Munoz X, Pallisa E, Torres F, Rello J, Morell F. Quality of life, pulmonary function, and tomographic scan abnormalities after ARDS. Chest. 2011 Jun;139(6):1340-1346. doi: 10.1378/chest.10-2438. Epub 2011 Feb 17.</citation>
+    <PMID>21330382</PMID>
+  </reference>
+  <reference>
+    <citation>Linden VB, Lidegran MK, Frisen G, Dahlgren P, Frenckner BP, Larsen F. ECMO in ARDS: a long-term follow-up study regarding pulmonary morphology and function and health-related quality of life. Acta Anaesthesiol Scand. 2009 Apr;53(4):489-95. doi: 10.1111/j.1399-6576.2008.01808.x. Epub 2009 Feb 18.</citation>
+    <PMID>19226296</PMID>
+  </reference>
+  <reference>
+    <citation>Cooper AB, Ferguson ND, Hanly PJ, Meade MO, Kachura JR, Granton JT, Slutsky AS, Stewart TE. Long-term follow-up of survivors of acute lung injury: lack of effect of a ventilation strategy to prevent barotrauma. Crit Care Med. 1999 Dec;27(12):2616-21. doi: 10.1097/00003246-199912000-00002.</citation>
+    <PMID>10628599</PMID>
+  </reference>
+  <reference>
+    <citation>Papazian L, Doddoli C, Chetaille B, Gernez Y, Thirion X, Roch A, Donati Y, Bonnety M, Zandotti C, Thomas P. A contributive result of open-lung biopsy improves survival in acute respiratory distress syndrome patients. Crit Care Med. 2007 Mar;35(3):755-62. doi: 10.1097/01.CCM.0000257325.88144.30.</citation>
+    <PMID>17255856</PMID>
+  </reference>
+  <reference>
+    <citation>Martin C, Papazian L, Payan MJ, Saux P, Gouin F. Pulmonary fibrosis correlates with outcome in adult respiratory distress syndrome. A study in mechanically ventilated patients. Chest. 1995 Jan;107(1):196-200. doi: 10.1378/chest.107.1.196.</citation>
+    <PMID>7813276</PMID>
+  </reference>
+  <reference>
+    <citation>King TE Jr, Bradford WZ, Castro-Bernardini S, Fagan EA, Glaspole I, Glassberg MK, Gorina E, Hopkins PM, Kardatzke D, Lancaster L, Lederer DJ, Nathan SD, Pereira CA, Sahn SA, Sussman R, Swigris JJ, Noble PW; ASCEND Study Group. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med. 2014 May 29;370(22):2083-92. doi: 10.1056/NEJMoa1402582. Epub 2014 May 18. Erratum In: N Engl J Med. 2014 Sep 18;371(12):1172.</citation>
+    <PMID>24836312</PMID>
+  </reference>
+  <reference>
+    <citation>Conte E, Gili E, Fagone E, Fruciano M, Iemmolo M, Vancheri C. Effect of pirfenidone on proliferation, TGF-beta-induced myofibroblast differentiation and fibrogenic activity of primary human lung fibroblasts. Eur J Pharm Sci. 2014 Jul 16;58:13-9. doi: 10.1016/j.ejps.2014.02.014. Epub 2014 Mar 12.</citation>
+    <PMID>24613900</PMID>
+  </reference>
+  <reference>
+    <citation>Schaefer CJ, Ruhrmund DW, Pan L, Seiwert SD, Kossen K. Antifibrotic activities of pirfenidone in animal models. Eur Respir Rev. 2011 Jun;20(120):85-97. doi: 10.1183/09059180.00001111.</citation>
+    <PMID>21632796</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Y, Lu F, Kang L, Wang Z, Wang Y. Pirfenidone attenuates bleomycin-induced pulmonary fibrosis in mice by regulating Nrf2/Bach1 equilibrium. BMC Pulm Med. 2017 Apr 18;17(1):63. doi: 10.1186/s12890-017-0405-7.</citation>
+    <PMID>28420366</PMID>
+  </reference>
+  <reference>
+    <citation>Fan E, Del Sorbo L, Goligher EC, Hodgson CL, Munshi L, Walkey AJ, Adhikari NKJ, Amato MBP, Branson R, Brower RG, Ferguson ND, Gajic O, Gattinoni L, Hess D, Mancebo J, Meade MO, McAuley DF, Pesenti A, Ranieri VM, Rubenfeld GD, Rubin E, Seckel M, Slutsky AS, Talmor D, Thompson BT, Wunsch H, Uleryk E, Brozek J, Brochard LJ; American Thoracic Society, European Society of Intensive Care Medicine, and Society of Critical Care Medicine. An Official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med. 2017 May 1;195(9):1253-1263. doi: 10.1164/rccm.201703-0548ST. Erratum In: Am J Respir Crit Care Med. 2017 Jun 1;195(11):1540.</citation>
+    <PMID>28459336</PMID>
+  </reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>May 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>December 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Università Vita-Salute San Raffaele</investigator_affiliation>
+    <investigator_full_name>Giovanni Landoni</investigator_full_name>
+    <investigator_title>MD, Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>ARDS</keyword>
+  <keyword>Pulmonary Fibrosis</keyword>
+  <keyword>Mechanical Ventilation</keyword>
+  <keyword>Antifibrotic drug</keyword>
+  <keyword>Intensive Care Unit</keyword>
+  <keyword>ICU discharge</keyword>
+  <keyword>Mortality</keyword>
+  <keyword>Spirometry</keyword>
+  <keyword>Quality of life</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pirfenidone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

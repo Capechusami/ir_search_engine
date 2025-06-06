@@ -1,0 +1,349 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079620</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-004-02</org_study_id>
+    <nct_id>NCT05079620</nct_id>
+  </id_info>
+  <brief_title>Early Antibiotics After Aspiration in ICU Patients</brief_title>
+  <official_title>Antibiotic Prophylaxis in Critically Ill Patients After Suspected Aspiration</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UConn Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UConn Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the use of early antibiotics in ICU patients who&#xD;
+      appear to have aspirated, to help determine whether this improves outcomes by reducing the&#xD;
+      later incidence of pneumonia and other negative consequences.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ICU patients with signs of aspiration on imaging and a clinical history supportive of&#xD;
+      aspiration, but with no clear signs of infectious pneumonia, will be randomized to receive&#xD;
+      either 5 days of empiric antibiotics or supportive care only. They will be followed for 30&#xD;
+      days with a primary outcome of ICU length-of-stay and various secondary outcomes including&#xD;
+      mortality, ventilator days, and antibiotic days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 30, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ICU-free days</measure>
+    <time_frame>From admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days</measure>
+    <time_frame>From admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free days</measure>
+    <time_frame>From admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic-free days</measure>
+    <time_frame>Days with no antibiotics from admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intubated after enrollment</measure>
+    <time_frame>Between admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tracheostomy after enrollment</measure>
+    <time_frame>Between admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Developed pneumonia after enrollment</measure>
+    <time_frame>Between admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no, by criteria: 2 or more present simultaneously of temperature &gt;38c, WBC &gt;11k, S/F ratio &lt;215, and purulent secretions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days before developing pneumonia criteria</measure>
+    <time_frame>Between admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>By criteria: 2 or more present simultaneously of temperature &gt;38c, WBC &gt;11k, S/F ratio &lt;215, and purulent secretions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Additional antibiotics prescribed</measure>
+    <time_frame>Between admission to 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no. Excluding prophylactic antibiotics and excluding perioperative prophylactic antibiotics.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive sputum culture with presumed pathogen</measure>
+    <time_frame>Between enrollment and 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Any positive culture with organism resistant to prophylactic antibiotics</measure>
+    <time_frame>Between admission and 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive C. Difficile stool toxin assay after enrollment</measure>
+    <time_frame>Between enrollment and 30 days, death, or hospital discharge, whichever occurs first</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Temperature &gt;38 centigrade on day 3</measure>
+    <time_frame>Day 3 after enrollment</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White blood cell count &gt;11k on day 3</measure>
+    <time_frame>Day 3 after enrollment</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial oxygen saturation / Fraction of inspired oxygen (S/F) &lt;215 on day 3</measure>
+    <time_frame>Day 3 after enrollment</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Purulent secretions</measure>
+    <time_frame>Day 3 after enrollment</time_frame>
+    <description>Yes/no</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Aspiration</condition>
+  <condition>Aspiration Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Antibiotics</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 days of empiric antibiotics selected from a guideline-appropriate regimen. Alternate agents may be selected by the treating team if allergies or other patient factors mandate, but are still recommended for a 5 day course. Supportive care including oxygen and ventilation can be offered ad libitum.&#xD;
+Options include ceftriaxone, Augmentin, cefepime, vancomycin, levofloxacin.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No initial antibiotic therapy unless clinical picture changes or worsens. Supportive care including oxygen and ventilation can be offered ad libitum.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ceftriaxone</intervention_name>
+    <description>If there is low risk for P. aeruginosa and/or methicillin-resistant staphylococcus aureus (MRSA), as deemed by the treating team: Ceftriaxone 2 g IV, every 24 hours for 5 days</description>
+    <arm_group_label>Antibiotics</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amoxicillin clavulanic acid</intervention_name>
+    <description>At any point after 24 hours, clinicians may (but are not required to) transition stable patients on ceftriaxone to the oral agent Amoxicillin + clavulanate (Augmentin) 875 mg PO or per feeding tube, twice daily for the remainder of 5 days</description>
+    <arm_group_label>Antibiotics</arm_group_label>
+    <other_name>Augmentin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cefepime</intervention_name>
+    <description>If there is significant risk of P. aeruginosa and/or MRSA as deemed by the treating team: Cefepime 2 g IV, every 8 hours for 5 days, plus vancomycin</description>
+    <arm_group_label>Antibiotics</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vancomycin</intervention_name>
+    <description>If there is significant risk of P. aeruginosa and/or MRSA as deemed by the treating team: Vancomycin IV, dosed by trough or AUC/MIC (area under the curve/minimum inhibitory concentration) monitoring for 5 days, plus cefepime. Order nasal MRSA swab and consider discontinuing vancomycin if MRSA swab is negative.</description>
+    <arm_group_label>Antibiotics</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levofloxacin</intervention_name>
+    <description>At any point after 24 hours, clinicians may (but are not required to) transition stable patients on cefepime to levofloxacin PO or per feeding tube, 750 mg every 24 hours for the remainder of 5 days</description>
+    <arm_group_label>Antibiotics</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Admitted to the ICU within the last 24 hours, or with a witnessed aspiration event in&#xD;
+             the last 24 hours while in the ICU&#xD;
+&#xD;
+          -  Radiographic findings on chest x-ray or CT deemed by the treating ICU team to be&#xD;
+             consistent with aspiration (e.g. dependent infiltrates or intraluminal airway debris)&#xD;
+&#xD;
+          -  Clinical history consistent with possible aspiration (e.g. cardiac arrest, found&#xD;
+             unconscious, or with a witnessed aspiration event).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Already received 3 or more doses of any antibiotic since hospital presentation, unless&#xD;
+             the last dose was greater than 1 week before enrollment&#xD;
+&#xD;
+          -  Requires antibiotic therapy for the treatment of other infections&#xD;
+&#xD;
+          -  Patient &quot;comfort measures only&quot; at time of screening&#xD;
+&#xD;
+          -  Currently participating in other trials using investigational drugs or interventions&#xD;
+&#xD;
+          -  Currently pregnant&#xD;
+&#xD;
+          -  Currently a prisoner&#xD;
+&#xD;
+          -  The consenting party (patient or their legally authorized representative) is unable to&#xD;
+             understand or read English at a fifth-grade level.&#xD;
+&#xD;
+          -  2 or more of the following are present at the time of screening:&#xD;
+&#xD;
+          -  White blood cell count: ≥ 11.0&#xD;
+&#xD;
+          -  Temperature ≥ 38.0C (100.4F)&#xD;
+&#xD;
+          -  Purulent secretions&#xD;
+&#xD;
+          -  S/F (pulse oximetry saturation to FiO2) ratio ≤ 215&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brandon Oto</last_name>
+    <role>Study Director</role>
+    <affiliation>UConn Health, Adult Critical Care</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Brandon Oto, PA-C</last_name>
+    <phone>860-679-3107</phone>
+    <email>oto@uchc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mark Metersky, MD</last_name>
+    <phone>860-679-3582</phone>
+    <email>metersky@uchc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UConn Health, John Dempsey Hospital</name>
+      <address>
+        <city>Farmington</city>
+        <state>Connecticut</state>
+        <zip>06030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brandon Oto, PA-C</last_name>
+      <phone>860-679-3107</phone>
+      <email>oto@uchc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mark Metersky, MD</last_name>
+      <email>metersky@uchc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Dragan V, Wei Y, Elligsen M, Kiss A, Walker SAN, Leis JA. Prophylactic Antimicrobial Therapy for Acute Aspiration Pneumonitis. Clin Infect Dis. 2018 Aug 1;67(4):513-518. doi: 10.1093/cid/ciy120.</citation>
+    <PMID>29438467</PMID>
+  </reference>
+  <reference>
+    <citation>Acquarolo A, Urli T, Perone G, Giannotti C, Candiani A, Latronico N. Antibiotic prophylaxis of early onset pneumonia in critically ill comatose patients. A randomized study. Intensive Care Med. 2005 Apr;31(4):510-6. doi: 10.1007/s00134-005-2585-5. Epub 2005 Mar 8.</citation>
+    <PMID>15754197</PMID>
+  </reference>
+  <reference>
+    <citation>DiBardino DM, Wunderink RG. Aspiration pneumonia: a review of modern trends. J Crit Care. 2015 Feb;30(1):40-8. doi: 10.1016/j.jcrc.2014.07.011. Epub 2014 Jul 22.</citation>
+    <PMID>25129577</PMID>
+  </reference>
+  <reference>
+    <citation>El-Solh AA, Pietrantoni C, Bhat A, Aquilina AT, Okada M, Grover V, Gifford N. Microbiology of severe aspiration pneumonia in institutionalized elderly. Am J Respir Crit Care Med. 2003 Jun 15;167(12):1650-4. doi: 10.1164/rccm.200212-1543OC. Epub 2003 Apr 10.</citation>
+    <PMID>12689848</PMID>
+  </reference>
+  <reference>
+    <citation>Francois B, Cariou A, Clere-Jehl R, Dequin PF, Renon-Carron F, Daix T, Guitton C, Deye N, Legriel S, Plantefeve G, Quenot JP, Desachy A, Kamel T, Bedon-Carte S, Diehl JL, Chudeau N, Karam E, Durand-Zaleski I, Giraudeau B, Vignon P, Le Gouge A; CRICS-TRIGGERSEP Network and the ANTHARTIC Study Group. Prevention of Early Ventilator-Associated Pneumonia after Cardiac Arrest. N Engl J Med. 2019 Nov 7;381(19):1831-1842. doi: 10.1056/NEJMoa1812379.</citation>
+    <PMID>31693806</PMID>
+  </reference>
+  <reference>
+    <citation>Lascarrou JB, Lissonde F, Le Thuaut A, Bachoumas K, Colin G, Henry Lagarrigue M, Vinatier I, Fiancette M, Lacherade JC, Yehia A, Joret A, Lebert C, Bourdon S, Martin Lefevre L, Reignier J. Antibiotic Therapy in Comatose Mechanically Ventilated Patients Following Aspiration: Differentiating Pneumonia From Pneumonitis. Crit Care Med. 2017 Aug;45(8):1268-1275. doi: 10.1097/CCM.0000000000002525.</citation>
+    <PMID>28594680</PMID>
+  </reference>
+  <reference>
+    <citation>Metlay JP, Waterer GW, Long AC, Anzueto A, Brozek J, Crothers K, Cooley LA, Dean NC, Fine MJ, Flanders SA, Griffin MR, Metersky ML, Musher DM, Restrepo MI, Whitney CG. Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019 Oct 1;200(7):e45-e67. doi: 10.1164/rccm.201908-1581ST.</citation>
+    <PMID>31573350</PMID>
+  </reference>
+  <reference>
+    <citation>Marik PE. Aspiration syndromes: aspiration pneumonia and pneumonitis. Hosp Pract (1995). 2010 Feb;38(1):35-42. doi: 10.3810/hp.2010.02.276.</citation>
+    <PMID>20469622</PMID>
+  </reference>
+  <reference>
+    <citation>Marik PE, Careau P. The role of anaerobes in patients with ventilator-associated pneumonia and aspiration pneumonia: a prospective study. Chest. 1999 Jan;115(1):178-83. doi: 10.1378/chest.115.1.178.</citation>
+    <PMID>9925081</PMID>
+  </reference>
+  <reference>
+    <citation>Rebuck JA, Rasmussen JR, Olsen KM. Clinical aspiration-related practice patterns in the intensive care unit: a physician survey. Crit Care Med. 2001 Dec;29(12):2239-44. doi: 10.1097/00003246-200112000-00001.</citation>
+    <PMID>11801813</PMID>
+  </reference>
+  <reference>
+    <citation>Sirvent JM, Torres A, El-Ebiary M, Castro P, de Batlle J, Bonet A. Protective effect of intravenously administered cefuroxime against nosocomial pneumonia in patients with structural coma. Am J Respir Crit Care Med. 1997 May;155(5):1729-34. doi: 10.1164/ajrccm.155.5.9154884.</citation>
+    <PMID>9154884</PMID>
+  </reference>
+  <reference>
+    <citation>Valles J, Peredo R, Burgueno MJ, Rodrigues de Freitas AP, Millan S, Espasa M, Martin-Loeches I, Ferrer R, Suarez D, Artigas A. Efficacy of single-dose antibiotic against early-onset pneumonia in comatose patients who are ventilated. Chest. 2013 May;143(5):1219-1225. doi: 10.1378/chest.12-1361.</citation>
+    <PMID>23715136</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>December 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>UConn Health</investigator_affiliation>
+    <investigator_full_name>Mark Metersky</investigator_full_name>
+    <investigator_title>Chief, Division of Pulmonary, Critical Care and Sleep Medicine</investigator_title>
+  </responsible_party>
+  <keyword>ventilator associated pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Aspiration</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Amoxicillin</mesh_term>
+    <mesh_term>Vancomycin</mesh_term>
+    <mesh_term>Levofloxacin</mesh_term>
+    <mesh_term>Ceftriaxone</mesh_term>
+    <mesh_term>Amoxicillin-Potassium Clavulanate Combination</mesh_term>
+    <mesh_term>Clavulanic Acids</mesh_term>
+    <mesh_term>Clavulanic Acid</mesh_term>
+    <mesh_term>Cefepime</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

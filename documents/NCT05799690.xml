@@ -1,0 +1,379 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799690</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GR-2021-12374005</org_study_id>
+    <nct_id>NCT05799690</nct_id>
+  </id_info>
+  <brief_title>Comparison of Different Rehabilitation Protocols in Parkinson's Disease With Postural Instability and Gait Disorders</brief_title>
+  <official_title>Multiparametric Biomarkers to Predict the Response to Different Protocols of Motor-cognitive Rehabilitation in Parkinson's Disease Subjects With Postural Instability and Gait Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prof. Massimo Filippi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Azienda Ospedaliera Universitaria Integrata Verona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>IRCCS San Raffaele</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to compare the effects of 2 different dosages and modalities of&#xD;
+      motor-cognitive rehabilitation in Parkinson's disease with postural instability and gait&#xD;
+      disorders (PD-PIGD) on clinical features, neuroimaging and blood-based biomarkers at&#xD;
+      short-term (2 months) and long-term (7 months) follow-up. Fifty subjects with PD-PIGD will be&#xD;
+      randomized in 2 training groups: DUAL-TASK+AOT-MI and the DUAL-TASK groups. The&#xD;
+      DUAL-TASK+AOT-MI group will perform a dual-task gait/balance training consisting of action&#xD;
+      observation training (AOT) and motor imagery (MI) combined with practicing the&#xD;
+      observed-imagined exercises; DUAL-TASK group will perform the same exercises combined with&#xD;
+      watching landscape videos. The training will last 6 weeks, 3 times/week, 1 hour per session.&#xD;
+&#xD;
+      Before and after training (W6), all the patients will undergo neurological, gait/balance,&#xD;
+      cognitive/behavioral, magnetic resonance imaging (MRI) and serum biomarkers evaluations.&#xD;
+      Neurological, gait/balance, cognitive/behavioral assessments and serum biomarkers will be&#xD;
+      also repeated at the 14-week follow-up (W14) to assess maintenance of results.&#xD;
+&#xD;
+      Patients of both DUAL-TASK+AOT-MI and DUAL-TASK groups will be further randomized to repeat&#xD;
+      the training (6 weeks, 3 times/week, 1 hour each session) starting at W14&#xD;
+      (DUAL-TASK+AOT-MI_DOUBLE and DUAL-TASK_DOUBLE groups). After six weeks (W20) all the subjects&#xD;
+      repeating the training will be evaluated (neurological, gait/balance, cognitive/behavioral&#xD;
+      assessments). At 28-week follow-up (W28), the whole sample of patients will be assessed with&#xD;
+      neurological, gait/balance, cognitive/behavioral, MRI and serum biomarkers evaluations. All&#xD;
+      MRI scans will be acquired at least 12 hours after last dopaminergic therapy administration&#xD;
+      to mitigate the pharmacological effects on neural activity. Twenty age- and sex-matched&#xD;
+      healthy controls will be recruited to perform gait/balance and cognitive/behavioral&#xD;
+      assessments, blood sample and brain MRI acquisition at baseline. The secondary aims of the&#xD;
+      study are to define the neuroimaging and blood-based biomarkers of PD-PIGD patients&#xD;
+      presenting different clinical features (e.g. presence of mild cognitive impairment, freezing&#xD;
+      of gait, falls and mood disturbances) and to evaluate the role of blood-based and&#xD;
+      neuroimaging biomarkers, together with clinical characteristics, in predicting the response&#xD;
+      to different dosages of rehabilitation in PD-PIGD throughout the development of a&#xD;
+      machine-learning algorithm.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 10, 2023</start_date>
+  <completion_date type="Anticipated">April 10, 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 10, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single-blind randomized controlled trial. Fifty PD patients are randomly divided into two groups: 25 in DUAL-TASK+AOT-MI (experimental) and 25 in the DUAL-TASK (active comparator). Half of the patients are further randomized to repeat the treatment (DUAL-TASK+AOT-MI_DOUBLE and DUAL-TASK_DOUBLE). The assessors are blinded to the group allocation. In addition, a group of 20 healthy age- and sex-matched control is included at baseline</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Physiotherapist, neurologists, neuropsychologists and radiologist assessing the patients are blinded to group allocation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total execution time of Timed Up and Go test with cognitive dual-task (TUG-COG)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Changes in time taken to complete the timed up and go test with cognitive dual-task: patients are asked to stand up from a chair, walk for three meters, turn and walk back to the chair while counting backwards by 3 starting from 100. Assessment during ON medication phase.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total execution time of Timed Up and Go test (TUG)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Changes in time taken to complete the timed up and go test: patients are asked to stand up from a chair, walk for three meters, turn, and walk back to the chair. Assessment during ON medication phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total execution time of Timed Up and Go test with manual dual-task (TUG-MAN)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Changes in time taken to complete the timed up and go test with manual dual-task: patients are asked to stand up from a chair, walk for three meters, turn, and walk back to the chair while holding a glass full of water. Assessment during ON medication phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Movement Disorders Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS) score</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>MDS-UPDRS evaluates various aspects of Parkinson's disease including non-motor and motor experiences of daily living and motor complications. The MDS-UPDRS contains 65 items divided in four parts (Part I - &quot;non-motor experiences of daily living&quot;, Part II - &quot;motor experiences of daily living&quot;, Part III - &quot;motor examination&quot;, Part IV - &quot;motor complications. Each item is assessed with a 0 to 4 rating system. The total score ranges from 0 to 260 with higher score indicating more severe symptoms.&#xD;
+Assessment during ON medication. Only part III assessed also without medication (OFF).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brain functional changes during functional magnetic resonance imaging (MRI) tasks</measure>
+    <time_frame>Baseline, week 6 and week 28</time_frame>
+    <description>Changes in functional MRI brain activity assessed during a motor task, a cognitive task and a dual-task. Assessment during OFF medication phase, at least 12 hours after last medication assumption.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Neurofilament light chain (NfL)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Glial Fibrillary Acid Protein (GFAP)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Phosphorylated Tau (P-Tau)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Tau</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of B42</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of B40</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Alpha-synuclein</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Brain Derived Neurotrophic Factor (BDNF)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28.</time_frame>
+    <description>Serum biomarker of neuroprotection/neurodegeneration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activity Balance Confidence questionnaire (ABC) score</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>This questionnaire assesses patient-referred balance confidence during 16 daily tasks. Subjects rate their confidence while doing each activity from 0 (no confidence) to 100 (full confidence).&#xD;
+Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>10-meter walk test (10MWT) time</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Time taken to walk 10 straight meters. Test performed at comfortable and maximal speed. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini Balance Evaluation System Test (MiniBESTest) score</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Assessment of different balance systems (anticipatory, reactive postural control, sensory orientation, dynamic gait). MiniBESTest includes 14 items with a score from 0 (severe/unable) to 2 (normal). The maximum score is 28 and a higher score indicates a better balance.&#xD;
+Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Five-time sit-to-stand (5STS) time</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>This test measures the amount of time it takes for a patient to stand up and sit down five times in a row, as quickly as possible with arms folded across their chest. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parkinson's Disease Questionnaire (PDQ-39) score</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Parkinson's Disease Questionnaire investigates the quality of life of PD patients. It includes 39 questions with 5 possible answers (never, occasionally, sometimes, often, always) and 8 sub-items related to mobility, activities of daily living, emotional well-being, signs of discouragement, social support, cognitions, communication and bodily discomfort. The maximum score is 100 and a low score is an indicator of a good quality of life. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stride length</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Gait parameter obtained using wearable motion sensors. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gait velocity</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients repeating the training.</time_frame>
+    <description>Gait parameter obtained using wearable motion sensors. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cambridge Neuropsychological Test Automated Battery (CANTAB)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients</time_frame>
+    <description>This battery of cognitive tests assesses executive functions, memory and visuospatial abilities.&#xD;
+Each subtest of the CANTAB battery provides outcome measures in terms of accuracy (right answers, errors and/or missing answers) and reaction times (highest scores are worse) for every condition within the subtest (the different conditions present with different levels of cognitive load). Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kinesthetic and Visual Imagery Questionnaire (KVIQ)</measure>
+    <time_frame>Baseline, week 6 and week 28.</time_frame>
+    <description>This questionnaire assesses motor imagery abilities. The Kinesthetic and Visual Imagery Questionnaire (KVIQ) includes 10 items assessing the clarity of the image and the intensity of the sensations that the subject is able to imagine from the first-person perspective (both right and left sides) on a five-point ordinal scale. Total score ranges from 0 to 50 with higher score indicating better motor imagery abilities. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New Freezing of Gait Questionnaire (NFoG-Q)</measure>
+    <time_frame>Baseline, week 6, week 14 and week 28. At week 20 only for patients</time_frame>
+    <description>This is a self-reported questionnaire that measures freezing of gait. It consists of 9 items with a total score ranging from 0 (no freezing) to 28. Higher score indicates worse freezing. Assessment during ON medication phase.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Parkinson Disease</condition>
+  <arm_group>
+    <arm_group_label>DUAL-TASK+AOT-MI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dual-task gait and balance training with cognitive facilitations (action observation and motor imagery) for six weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DUAL-TASK</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dual-task gait and balance training with vision of landscape videos for six weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DUAL-TASK+AOT-MI_DOUBLE</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dual-task gait and balance training with cognitive facilitations (action observation and motor imagery) repeated two times (twelve weeks: 6 + 6).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DUAL-TASK_DOUBLE</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dual-task gait and balance training with vision of landscape videos repeated two times (twelve weeks: 6 + 6).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy subjects</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Age- and sex-matched healthy subjects recruited to compare gait, neuropsychological, serum and functional magnetic resonance imaging characteristics at baseline.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gait and balance training with dual-task + action observation and motor imagery (six weeks)</intervention_name>
+    <description>Increasingly difficult gait and balance exercises up to include dual-task. During each training session, four exercises (5 minutes of execution, two times each) will be proposed. Patients will observe a 2-minute video clip showing a balance or gait task (action observation - AOT) and will imagine the same exercise (motor-imagery - MI) before task execution. Each training session will be proposed with the following modality: 2 minutes of AOT - 5 minutes of task execution - 2 minutes of MI - 5 minutes of task execution. Patients will be explicitly asked to concentrate on how the actions are performed in the videos and to carefully use MI to improve their motor performance. Patients will not be allowed to perform any movement while watching videos or during MI.&#xD;
+1 hour, 3 times a week for six weeks.</description>
+    <arm_group_label>DUAL-TASK+AOT-MI</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gait and balance training with dual-task (six weeks)</intervention_name>
+    <description>Increasingly difficult gait and balance exercises up to include dual-task. During each training session, four exercises (5 minutes of execution, two times each) will be proposed. Patients will observe a 2-minute video clip showing static landscapes before task execution. Each training session will be proposed with the following modality: 2 minutes of videos - 5 minutes of task execution - 2 minutes of videos - 5 minutes of task execution.&#xD;
+1 hour, 3 times a week for six weeks.</description>
+    <arm_group_label>DUAL-TASK</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gait and balance training with dual-task + action observation and motor imagery (twelve weeks: 6 + 6)</intervention_name>
+    <description>Increasingly difficult gait and balance exercises up to include dual-task. During each training session, four exercises (5 minutes of execution, two times each) will be proposed. Patients will observe a 2-minute video clip showing a balance or gait task (action observation - AOT) and will imagine the same exercise (motor-imagery - MI) before task execution. Each training session will be proposed with the following modality: 2 minutes of AOT - 5 minutes of task execution - 2 minutes of MI - 5 minutes of task execution. Patients will be explicitly asked to concentrate on how the actions are performed in the videos and to carefully use MI to improve their motor performance. Patients will not be allowed to perform any movement while watching videos or during MI.&#xD;
+The training protocol will be repeated two times: once starting at baseline, once starting after the first follow-up at week 14 (W14)&#xD;
+1 hour, 3 times a week for twelve weeks (6+6).</description>
+    <arm_group_label>DUAL-TASK+AOT-MI_DOUBLE</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gait and balance training with dual-task (twelve weeks: 6 +6)</intervention_name>
+    <description>Increasingly difficult gait and balance exercises up to include dual-task. During each training session, four exercises (5 minutes of execution, two times each) will be proposed. Patients will observe a 2-minute video clip showing static landscapes before task execution. Each training session will be proposed with the following modality: 2 minutes of videos - 5 minutes of task execution - 2 minutes of videos - 5 minutes of task execution.&#xD;
+The training protocol will be repeated two times: once starting at baseline, once starting after the first follow-up at week 14 (W14)&#xD;
+1 hour, 3 times a week for twelve weeks (6+6).</description>
+    <arm_group_label>DUAL-TASK_DOUBLE</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for PD patients:&#xD;
+&#xD;
+          -  45 years ≤ age ≤ 85 years;&#xD;
+&#xD;
+          -  Idiopathic PD according to the Movement Disorders Society (MDS) diagnostic criteria&#xD;
+&#xD;
+          -  Hoehn &amp; Yahr (H&amp;Y) score &lt;= 4&#xD;
+&#xD;
+          -  PIGD phenotype&#xD;
+&#xD;
+          -  Stable dopaminergic medication for at least 4 weeks and without any changes during the&#xD;
+             observation period (28 weeks)&#xD;
+&#xD;
+          -  No dementia according to Litvan's criteria and Mini-Mental Status Examination score&#xD;
+             (MMSE) &gt;= 24&#xD;
+&#xD;
+          -  No significant tremor/involuntary movements that could determine artifacts during the&#xD;
+             MRI acquisition&#xD;
+&#xD;
+          -  Oral and written informed consent to study participation&#xD;
+&#xD;
+        Inclusion criteria for healthy controls:&#xD;
+&#xD;
+          -  sex-matched and age-matched (age range: mean age of PD years ± 15 years);&#xD;
+&#xD;
+          -  oral and written informed consent to study participation&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Medical conditions or substance abuse that could interfere with cognition;&#xD;
+&#xD;
+          -  Any major systemic, psychiatric, neurological, visual, and musculoskeletal&#xD;
+             disturbances or other causes of walking inability;&#xD;
+&#xD;
+          -  Contraindications to undergoing MRI examination;&#xD;
+&#xD;
+          -  Brain damage at routine MRI, including lacunae and extensive cerebrovascular&#xD;
+             disorders;&#xD;
+&#xD;
+          -  Denied oral and written informed consent to study participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elisabetta Sarasso, MSc, PT</last_name>
+    <phone>0226434685</phone>
+    <phone_ext>0039</phone_ext>
+    <email>sarasso.elisabetta@hsr.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Roberta Balestrino, MD</last_name>
+    <phone>0226436168</phone>
+    <phone_ext>0039</phone_ext>
+    <email>balestrino.roberta@hstr.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele</name>
+      <address>
+        <city>Milan</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Massimo Filippi, Prof, MD</last_name>
+      <phone>0226433054</phone>
+      <phone_ext>0039</phone_ext>
+      <email>filippi.massimo@hsr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Unit, Azienda Ospedaliera Universitaria Integrata di Verona</name>
+      <address>
+        <city>Verona</city>
+        <zip>37126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michele Tinazzi, Prof, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS San Raffaele</investigator_affiliation>
+    <investigator_full_name>Prof. Massimo Filippi</investigator_full_name>
+    <investigator_title>Prof</investigator_title>
+  </responsible_party>
+  <keyword>Parkinson Disease</keyword>
+  <keyword>Gait</keyword>
+  <keyword>Rehabilitation</keyword>
+  <keyword>Biomarkers</keyword>
+  <keyword>Magnetic resonance imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

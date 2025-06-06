@@ -1,0 +1,567 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615870</url>
+  </required_header>
+  <id_info>
+    <org_study_id>274137</org_study_id>
+    <secondary_id>U24OD024957</secondary_id>
+    <nct_id>NCT05615870</nct_id>
+  </id_info>
+  <brief_title>Bronchiolitis Recovery and the Use of High Efficiency Particulate Air (HEPA) Filters</brief_title>
+  <acronym>BREATHE</acronym>
+  <official_title>Bronchiolitis Recovery and the Use of High Efficiency Particulate Air (HEPA) Filters</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IDeA States Pediatric Clinical Trials Network</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Vermont Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Montana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>IDeA States Pediatric Clinical Trials Network</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, parallel, double-blind, randomized controlled clinical trial.&#xD;
+      Children &lt;12 months of age hospitalized with bronchiolitis are randomized 1:1 to receive a&#xD;
+      24-week home intervention with filtration units containing HEPA and carbon filters (in the&#xD;
+      child's sleep space and a common room) to improve indoor air quality (IAQ) or to a control&#xD;
+      group with filtration units without HEPA and carbon filters. The HEPA intervention units and&#xD;
+      control units will be used for 24 weeks after pre-intervention IAQ measurements. Children are&#xD;
+      followed for respiratory outcomes over the pre-intervention and intervention periods.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multi-center, parallel, double-blind, randomized controlled clinical trial. Two&#xD;
+      hundred eighteen children &lt;12 months old with their first hospitalization for bronchiolitis&#xD;
+      will be randomized 1:1 (stratified by site) to receive 24 weeks of home intervention with&#xD;
+      active HEPA filtration units to improve IAQ or to a control group without a HEPA or carbon&#xD;
+      filter inside identical-appearing units. Children will be followed for respiratory symptoms&#xD;
+      during a pre-intervention period of up to two weeks following randomization and during an&#xD;
+      intervention period of 24 weeks.&#xD;
+&#xD;
+      This study is designed to reduce barriers to participation for rural participants in that&#xD;
+      there will be no required study visits to a distant study site, and all study activities and&#xD;
+      data collection will be conducted remotely. Participants will be identified in hospitals in&#xD;
+      ISPCTN states, maximizing the chances that rural and medically underserved populations are&#xD;
+      represented. It is common for rural children with bronchiolitis to be transferred to tertiary&#xD;
+      care centers in urban/suburban locales, so inclusion of urban hospitals will allow for&#xD;
+      recruitment of this population.1 It is important for rural children to be represented in a&#xD;
+      bronchiolitis study in order to increase generalizability. Rural and underserved children&#xD;
+      have a higher risk of decreased access to medical care for symptoms and illness episodes, and&#xD;
+      a higher burden of asthma.83,84 These families may have air pollutant exposure profiles&#xD;
+      distinct from those residing in urban areas. For example, they might experience less exposure&#xD;
+      to traffic-related pollutants but may have more wood stove use or exposure to agricultural&#xD;
+      pollutants or wildfires. With its diversity of sites, the ECHO ISPCTN is well-positioned to&#xD;
+      enroll rural children that might otherwise be excluded.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 7, 2022</start_date>
+  <completion_date type="Anticipated">November 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a multi-center, parallel, double-blind, randomized controlled clinical trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Families will be masked as to whether their Winix units are equipped with or without HEPA/carbon filters.&#xD;
+Study coordinators, investigators, and other team members who interact with participants' parent(s)/guardian(s) to obtain surveys, troubleshoot equipment setup and operation, or have other interactions will remain masked through the duration of the study for individual participants. This includes masking as to which intervention the participants receive and household air quality measurements, including the baseline measurements (separate personnel will need to be on the receiving end for air quality measurement data). This will require more than one study coordinator or additional staff/technician on the study team.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of caregiver-reported symptom-free days (SFDs)</measure>
+    <time_frame>24 Weeks</time_frame>
+    <description>An SFD is defined as a 24-hour period without coughing, wheezing, or trouble breathing</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of hospitalizations, emergency department or urgent care visits or other unscheduled medical visits for respiratory complaints</measure>
+    <time_frame>24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total quality of life (QOL) score</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>QOL score is measured by the PedsQLTM Pediatric Quality of Life Inventory Infants Scales questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average Particulate Matter (PM2.5) levels</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>PM2.5 levels are measured by in-home monitors and scaled to unit of micrograms per cubic meter per week</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">218</enrollment>
+  <condition>Bronchiolitis</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group (Active Filter)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The intervention group will use two Winix 5500-2 HEPA filtration units (Appendix A) (https://winixamerica.com/product/5500-2/). One will be placed in the child's sleep space and one will be placed in another common room with both units running continuously on the &quot;high&quot; (i.e., level 3 / second from highest) setting. Each unit is 8.2 x 15.0 x 23.6 inches, and verified for a 360 sq. foot room. If a home is too small to accommodate 2 Winix units (for example, a single room residence'), one Winix unit may be used for the study. Additional features beyond HEPA and carbon filter, include plasmawave technology to reduce volatile organic compounds and odors. The plasmawave feature will be turned off to avoid ozone production.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group (No Filter)</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>The control group will use identical-appearing Winix 5500-2 units and identical setup procedures as described above, but with no HEPA or carbon filters.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Winix 5500-2 HEPA filtration units</intervention_name>
+    <description>To determine if use of a HEPA filtration unit home intervention reduces the respiratory symptom burden (symptom-free days; SFD) for 24 weeks compared to a use of a control unit.</description>
+    <arm_group_label>Control Group (No Filter)</arm_group_label>
+    <arm_group_label>Intervention Group (Active Filter)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;12 months at hospital admission&#xD;
+&#xD;
+          -  First-time hospitalization for bronchiolitis&#xD;
+&#xD;
+          -  One primary residence (&gt;5 days per week)&#xD;
+&#xD;
+          -  Parent, legal guardian or other legally authorized representative consents to allow&#xD;
+             their child to participate and agrees to participate in all study activities&#xD;
+&#xD;
+          -  Electricity in the home (required to power the study equipment)&#xD;
+&#xD;
+          -  Wireless internet access or cellular service access in the home*&#xD;
+&#xD;
+          -  English or Spanish-speaking parent or guardian&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Chronic airway or respiratory conditions requiring home oxygen, mechanical&#xD;
+             ventilation, or tracheostomy dependence; known immunodeficiency, hemodynamically&#xD;
+             significant cardiac conditions including those requiring medication or oxygen; cystic&#xD;
+             fibrosis; neuromuscular disease; eligible for palivizumab (per AAP guidelines87)&#xD;
+&#xD;
+          -  Use of stand-alone home HEPA filtration other than study-related HEPA units in the&#xD;
+             home&#xD;
+&#xD;
+          -  Household member who smokes (any type), vapes, or uses e-cigarettes&#xD;
+&#xD;
+          -  Intention to move in the next 6 months&#xD;
+&#xD;
+          -  Enrolled or plans to enroll in an interventional clinical trial for treatment of acute&#xD;
+             bronchiolitis or sequelae of bronchiolitis, unless permission given by the PI&#xD;
+&#xD;
+          -  Another child in the household is enrolled in this study (one child per household can&#xD;
+             enroll)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Week</minimum_age>
+    <maximum_age>12 Months</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kelly Cowan, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Vermont Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Erin Semmens, PhD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Montana</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jessica N Snowden, MD,MS,MHPTT</last_name>
+    <phone>501-364-1416</phone>
+    <email>JSnowden@uams.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lora A Lawrence, RN</last_name>
+    <phone>501-364-4693</phone>
+    <email>lawrenceloraa@uams.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Alaska Native Tribal Health Consortium</name>
+      <address>
+        <city>Anchorage</city>
+        <state>Alaska</state>
+        <zip>99508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James Keck, MD, MPH</last_name>
+      <phone>907-729-2455</phone>
+      <email>jwkeck@anthc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rosalyn Singleton, MD,MPH</last_name>
+      <email>risingleton@anthc.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Arkansas Children's Hospital - Little Rock (ACHRI)</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristin Mitchell, MD</last_name>
+      <phone>479-435-4963</phone>
+      <email>KMMitchell2@uams.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tamara Perry, MD</last_name>
+      <email>PerryTamaraT@uams.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Kapi'olani Medical Center for Women and Children</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian WU, MD</last_name>
+      <phone>808-983-6000</phone>
+      <email>brian.wu@@hphmg.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Venkataraman Balaraman, MD</last_name>
+      <email>vbalaraman@kapiolani.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas University Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kirsten Bjorkman, MD</last_name>
+      <phone>316-962-5573</phone>
+      <email>kbjorkman@kumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gretchen Homan, MD</last_name>
+      <email>ghoman@kumc.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40292</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Scott Bickel, MD, MS</last_name>
+      <phone>502-852-3772</phone>
+      <email>scott.bickel@louisville.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sara Watson, MD, MS</last_name>
+      <email>sara.watson@louisville.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane University, Department of Pediatrics</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margot Anderson, MD</last_name>
+      <phone>504-896-9583</phone>
+      <email>manders9@tulane.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miss. Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Josey, MD</last_name>
+      <phone>601-984-5205</phone>
+      <email>djosey@umc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marc Majure, MD</last_name>
+      <email>jmajure@umc.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Montana</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59812</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Smith, DO,FAAP</last_name>
+      <phone>406-243-2571</phone>
+      <email>psmith@communitymed.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Erin Semmens, PhD, MPH</last_name>
+      <email>erin.semmens@mso.umt.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadia Abraham, MD</last_name>
+      <phone>402-955-4496</phone>
+      <email>nadia.abrahamgove@unmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Russel MuCulloh, MD</last_name>
+      <email>russell.mcculloh@unmc.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hospital</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Paulin, MD, MHS</last_name>
+      <phone>603-650-5533</phone>
+      <email>laura.m.paulin@hitchcock.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kelly Corbett, MD</last_name>
+      <email>kelly.corbett@hitchcock.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Health Sciences Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristin Faulk, MD</last_name>
+      <phone>505-272-2345</phone>
+      <email>kmfaulk@salud.unm.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Hengameh Raissy, PharmD</last_name>
+      <email>hraissy@salud.unm.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital OU Medical Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ryan Brown, MD</last_name>
+      <phone>405-271-2429</phone>
+      <email>Ryan-brown@ouhsc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mehtap Abul, MD</last_name>
+      <email>mhaktanirabul@lifespan.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Prisma Health-Midlands</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Knight, MD</last_name>
+      <phone>803-434-8280</phone>
+      <email>Lisa.Knight@uscmed.sc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Avera Research Institute</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jyoti l Angal, MPH,BHMS</last_name>
+      <phone>605-504-3153</phone>
+      <email>jyoti.angal@avera.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicholas Torbert, DO,MA,BS</last_name>
+      <email>nicholas.torbert@avera.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Vermont Medical Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelly Cowan, MD</last_name>
+      <phone>802-847-8600</phone>
+      <email>kelly.cowan@uvmhealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Thomas Lahiri, MD</last_name>
+      <email>thomas.lahiri@uvmhealth.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>West Virginia University</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Saif Al Qatarneh, MD</last_name>
+      <phone>304-293-4451</phone>
+      <email>saif.alqatarneh@hsc.wvu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Philip Saul, MD</last_name>
+      <email>sauljp9@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>February 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Children&lt;12 months of age hospitalized with bronchiolitis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiolitis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The study team will place participant's de-identified data and other limited information, such as race and ethnic group, into one or more centralized database(s). The study team will share this data in compliance with the ISPCTN and NIH data sharing policies</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>NIH Public Access Policy ensures public access to the published results of NIH-funded research. Scientists are required to submit final peer-reviewed journal manuscripts from NIH funds to the digital archive PubMed Central upon publication acceptance.&#xD;
+ECHO ISPCTN Publications and Presentations Policy, ensures accurate, responsible, and efficient communication of findings from ECHO ISPCTN clinical trials. The ECHO ISPCTN Steering Committee has approved and ratified the Publications and Presentations Policy, which includes representatives from all site awardees, as well as representatives from NIH and the DCOC NIH Data Sharing Policy, the policy on the Dissemination of NIH-Funded Clinical Trial Information and the Clinical Trials Registration and Results Information Submission Rule. Trial results will be submitted to ClinicalTrials.gov. Additional plans are to publish results in peer reviewed journals. Researchers may request trial data by contacting Jeannette Lee, PhD, at the DCOC.</ipd_time_frame>
+    <ipd_access_criteria>TBA</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

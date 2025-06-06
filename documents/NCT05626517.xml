@@ -1,0 +1,237 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626517</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R1869/111/2021</org_study_id>
+    <nct_id>NCT05626517</nct_id>
+  </id_info>
+  <brief_title>JARVISDHL Screening Tools</brief_title>
+  <official_title>JARVISDHL Screening Tools</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart Centre Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Singapore Eye Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart Centre Singapore</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to pioneer an easy risk stratification tools, which is&#xD;
+      developed using novel artificial intelligence (AI) algorithms, that will be able to detect&#xD;
+      common and fatal heart diseases easily simply through a picture of the back of the eye, the&#xD;
+      retina. The retinal images will be analysed using a computer application with the risk&#xD;
+      stratification tool to predict health outcome of individual. The study also aims to correlate&#xD;
+      between clinical characteristics, lifestyle (eg. exercise, sleep, erectile dysfunction) and&#xD;
+      diet to retinal and coronary vasculature and clinical outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cardiovascular disease (CVD) is ranked 1st for mortality rate globally. In 2016,&#xD;
+      approximately 17.9 million people died from CVDs, representing 31% of all global deaths.&#xD;
+&#xD;
+      Retinal vasculature has been characterised as the 'window' to the body's circulatory system&#xD;
+      and been correlated with several diseases that perturbate systemic micro- and&#xD;
+      macro-vasculature such as hypertension, stroke and chronic kidney disease.&#xD;
+&#xD;
+      As microvascular changes often precede macrovascular changes, retinal imaging has the&#xD;
+      capability to be an easily available, non-invasive biomarker to screen for multiple vascular&#xD;
+      pathologies. A deep learning system (DLS) is a novel,state-of-art artificial intelligence&#xD;
+      (AI) technology that has achieved robust diagnostic performance for medical imaging analysis.&#xD;
+      The integration of deep learning (DL) into retinal image evaluation has accelerated its&#xD;
+      potential further. Its examination of fundus photographs has demonstrated abilities to detect&#xD;
+      several signs that are undetected by the human eye. With recent correlations being&#xD;
+      established between CAD and retinal vasculature aberrancies such as reduced calibres and&#xD;
+      fractal dimensions, there is a clear niche for AI to predict cardiac diseases with the use of&#xD;
+      retinal fundus photographs.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 30, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AI model and retinal imaging</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>This study will also expand the potential for AI models and retinal imaging as tools to identify systemic micro and macrovascular diseases such as hypertension, stroke and provide an easily available, risk-free tool for physicians to readily evaluate the state of the body's vessels.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>cross sectional performance of Cardiovascular risk stratification tool</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>Evaluate the cross sectional performance of Cardiovascular risk stratification tool, SIVA-DLS and Retina-CAC for cardiovascular risk stratification compared with patients undergoing cardiac CT scan. Low risk is determined to be Agatston calcium score=0 and high risk being Agatston calcium score 100 and above.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>longitudinal major cardiovascular event rate in subjects identified as high risk</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>Evaluate the longitudinal major cardiovascular event rate in subjects identified as high risk using a combination of cardiovascular risk stratification tool, SIVA DLS and Retina-CAC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>major cardiovascular event rate in subjects identified as high risk</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>Evaluate if the major cardiovascular event rate in subjects identified as high risk and placed under medical intervention is lower compared to matched historical controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>vision threatening retinopathy(VTDR) rate and rate of vision loss in subjects identified as high risk for VTDR</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>Evaluate if the vision threatening retinopathy(VTDR) rate and rate of vision loss in subjects identified as high risk for VTDR and placed in a VTDR clinic is lower compare to matched historical controls.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>National Heart Centre Singapore</arm_group_label>
+    <description>At NHCS, patients who have undergone either CTCA or CT CAC scan within past 6 months will be identified. All the consented participants will have a one-off retinal imaging performed at the respective institution by the trained study team member, which should take approximately 15-20 minutes to complete. 3 to 4 questionnaires will also be administered (i.e. EQ5D, International Index of Erectile Function, Pittsburgh Sleep Quality Index, General Questionnaire), depending patient's gender and literacy. Only male patients who are literate in English language will be invited to complete the International Index of Erectile Function questionnaire. Participants have the option to not complete sthe whole IIEF questionnaire or some of the questions if they are not comfortable with answering those questions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Singapore Eye Research Institute</arm_group_label>
+    <description>At SERI, patients who are found to be at high risk for vision threatening diabetic retinopathy will be identified. All the consented participants will have a one-off retinal imaging performed at the respective institution by the trained study team member, which should take approximately 15-20 minutes to complete. 3 to 4 questionnaires will also be administered (i.e. EQ5D, International Index of Erectile Function, Pittsburgh Sleep Quality Index, General Questionnaire), depending patient's gender and literacy. Only male patients who are literate in English language will be invited to complete the International Index of Erectile Function questionnaire. Participants have the option to not complete sthe whole IIEF questionnaire or some of the questions if they are not comfortable with answering those questions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Ocular Imaging</intervention_name>
+    <description>The retinal photography will be acquired from macula-centre and an optic-disc centre for both left and right eye after their cardiac assessment. Patient will be required to focus at a target inside the machine for approximately 5 to 10 seconds, with a flash followed at the end when eye image is captured. Based on patients' eye conditions, additional or less images may be taken. This allows a snapshot of both retinal and coronary vessels at a single point in time, no mydriatic drops will be used. Participants will be given the option to undergo mydriatic photographs of the retina at SNEC/SERI depending on participant eye condition. For mydriatic photograph, images will be obtained after pupil dilation and graded for presence and severity of diabetic retinopathy according to the modified ETDRS system and other retinal abnormalities by trained graders.</description>
+    <arm_group_label>National Heart Centre Singapore</arm_group_label>
+    <arm_group_label>Singapore Eye Research Institute</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>3 to 4 questionnaires will be administered (i.e. EQ5D, International Index of Erectile Function, Pittsburgh Sleep Quality Index, General Questionnaire) to investigate the correlation between clinical characteristics, lifestyle (eg. exercise, sleep, erectile dysfunction) and diet to retinal and coronary vasculature and outcomes.Only male patients who are literate in English language will be invited to complete the International Index of Erectile Function (IIEF) questionnaire. Participants have the option to not complete the whole IIEF questionnaire or some of the questions if they are not comfortable with answering those questions.</description>
+    <arm_group_label>National Heart Centre Singapore</arm_group_label>
+    <arm_group_label>Singapore Eye Research Institute</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants that have recently undergone an investigation for heart in NHCS (such as&#xD;
+        computed tomographic coronary angiography [CTCA] or non-contrast computed tomography&#xD;
+        coronary artery calcium [CAC] imaging) or participants from SERI, who are diagnosed with&#xD;
+        Diabetes for more than or equal to 10 years&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for NHCS:&#xD;
+&#xD;
+          1. 21 years of age or older&#xD;
+&#xD;
+          2. Sufficient language skills in English or Chinese&#xD;
+&#xD;
+          3. Provided informed consent&#xD;
+&#xD;
+          4. Completed CTCA or CT CAC in the past 6 months.&#xD;
+&#xD;
+        Inclusion Criteria for SERI:&#xD;
+&#xD;
+          1. 21 years of age or older&#xD;
+&#xD;
+          2. Sufficient language skills in English or Chinese&#xD;
+&#xD;
+          3. Provided informed consent&#xD;
+&#xD;
+          4. Patient diagnosed with Diabetes for more than or equal to 10 years.&#xD;
+&#xD;
+        Exclusion Criteria for NHCS:&#xD;
+&#xD;
+          1. Patients whose informed consent was not obtained.&#xD;
+&#xD;
+          2. Age &lt;21 years old&#xD;
+&#xD;
+          3. Patients with cardiac event (acute myocardial infarction, Stroke, heart failure,&#xD;
+             angina requiring hospitalization) and/or coronary revascularization (percutaneous&#xD;
+             coronary intervention (PCI) and/or coronary artery bypass grafting (CABG) prior to&#xD;
+             CTCA&#xD;
+&#xD;
+        Exclusion Criteria in SERI:-&#xD;
+&#xD;
+          1. Patient whose informed consent was not obtained.&#xD;
+&#xD;
+          2. Age &lt;21 years old&#xD;
+&#xD;
+          3. Patients with cardiac event (acute myocardial infarction, Stroke, heart failure,&#xD;
+             angina requiring hospitalization) and/or coronary revascularization (percutaneous&#xD;
+             coronary intervention (PCI) and/or coronary artery bypass grafting (CABG) prior to&#xD;
+             CTCA&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gavin Tan Siew Wei</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Singapore National Eye Centre</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Weiting Huang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Heart Centre Singapore</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Weiting Huang</last_name>
+    <phone>9637 0396</phone>
+    <phone_ext>6704 8964</phone_ext>
+    <email>huang.weiting@singhealth.com.sg</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Heart Centre Singapore</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169609</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Weiting Huang</last_name>
+      <phone>9637 0396</phone>
+      <phone_ext>6704 8964</phone_ext>
+      <email>huang.weiting@singhealth.com.sg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>November 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

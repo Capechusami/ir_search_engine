@@ -1,0 +1,1495 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615818</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UC-GMP-2201 - PRODIGE 78</org_study_id>
+    <secondary_id>2022-000190-19</secondary_id>
+    <secondary_id>2022-502403-30-00</secondary_id>
+    <nct_id>NCT05615818</nct_id>
+  </id_info>
+  <brief_title>Personalized Medicine for Advanced Biliary Cancer Patients</brief_title>
+  <acronym>SAFIR-ABC10</acronym>
+  <official_title>Molecular Targeted Maintenance Therapy Versus Standard of Care in Advanced Biliary Cancer: an International, Randomised, Controlled, Open-label, Platform Phase 3 Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNICANCER</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Cancer Research UK &amp; UCL Cancer Trials Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Belgian Group of Digestive Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cancer Research UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Taiho Oncology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Servier</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zymeworks Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Accord Healthcare, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pierre Fabre Medicament</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GlaxoSmithKline Research &amp; Development Limited</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UNICANCER</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The object of this trial is to evaluate whether the introduction of a targeted therapy after&#xD;
+      4 cycles of the current standard-of-care treatment for advanced biliary cancer is superior to&#xD;
+      continuing with the standard treatment.&#xD;
+&#xD;
+      The trial is composed of two phases: (i) An initial screening phase to identify a suitable&#xD;
+      patient population, during which a molecular profile of the patient's tumour will be&#xD;
+      obtained, and (ii) a randomised comparative trial in which patients with disease control&#xD;
+      after 4 cycles of standard treatment, and whose tumour harbours a targetable molecular&#xD;
+      alteration, will be randomised (2:1) to receive either a matched targeted therapy or to&#xD;
+      continue with the standard treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 3, multicentre, randomised, open-label trial to evaluate whether the&#xD;
+      introduction of molecular targeted therapy (MTT) as maintenance after 4 cycles of&#xD;
+      standard-of-care first-line systemic therapy (1L SoC) is superior to continuation of 1L-SoC&#xD;
+      in the treatment of patients with ABC. The trial is composed of two phases: (i) An initial&#xD;
+      screening phase to identify a suitable patient population, and (ii) a randomised comparative&#xD;
+      trial.&#xD;
+&#xD;
+      The aim of the screening phase is to identify a medically suitable population, to obtain a&#xD;
+      molecular profile of the patient's tumour, to collect baseline data concerning patient&#xD;
+      demographics and disease characteristics and to obtain pre-treatment blood and tumour samples&#xD;
+      for further translational research.&#xD;
+&#xD;
+      A genetic profile will be obtained from tumour-derived DNA and RNA samples by next-generation&#xD;
+      sequencing and from circulating tumour DNA. The trial Molecular Tumour Board will determine&#xD;
+      whether each patient harbours a targetable molecular alteration for one or more of the trial&#xD;
+      MTTs.&#xD;
+&#xD;
+      Patients with disease control after 4 cycles of 1L-SoC, who did not experience limiting&#xD;
+      toxicity, and whose tumour harbours at least one targetable molecular alteration, will be&#xD;
+      invited to participate in the randomised phase of the trial in which 159 eligible patients&#xD;
+      will be randomised (2:1) to receive either maintenance therapy with a matched MTT or to&#xD;
+      continue 1L-SoC treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">June 2028</completion_date>
+  <primary_completion_date type="Anticipated">June 2027</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>From randomisation to disease progression or death, up to 5 years.</time_frame>
+    <description>Time from randomisation to the first documented progression of disease (PD) as assessed by the investigator according to RECIST v1.1, or death from any cause, whichever occurs first.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From randomisation to death, up to 5 years.</time_frame>
+    <description>The overall survival is the length of time from randomization that patients enrolled in the study are still alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>From randomisation, up to 5 years.</time_frame>
+    <description>Objective response rate is defined as the proportion of patients achieving complete response (CR) or partial response (PR) (according to RECIST v1.1). Objective response rate will be presented as the best response achieved compared to the disease assessment performed at randomisation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure</measure>
+    <time_frame>From randomisation to treatment failure event, up to 5 years.</time_frame>
+    <description>Time from patient starting their allocated treatment to the date at which a patient first experiences a treatment failure event. The following will be considered as treatment failure events: early treatment discontinuation (regardless of reason), disease progression, death, starting a new treatment after completing scheduled treatment, withdrawal from the study due to any reason or loss to follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival after next line of treatment (PFS2)</measure>
+    <time_frame>From randomisation to second disease progression or death, up to 5 years.</time_frame>
+    <description>Time from randomisation to the date of second disease progression or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>From response to disease progression or death, up to 5 years.</time_frame>
+    <description>Duration of response is defined as the time from first documented response (compared to baseline measurement taken at randomisation) until the date of disease progression, as assessed by the investigator according to RECIST v1.1, or death from any cause whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>From randomisation, up to 5 years.</time_frame>
+    <description>Disease control rate is defined as the proportion of randomised patients achieving CR, PR, stable disease (SD)/no evidence of disease (NED) as assessed by the investigator according to RECIST v1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in tumour size</measure>
+    <time_frame>From randomisation, up to 5 years.</time_frame>
+    <description>Taking the measurements at randomisation as the reference.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Feasibility of molecular screening</measure>
+    <time_frame>Up to 3 months from start of treatment</time_frame>
+    <description>The proportion of patients with an available MTB proposition at the time of the 3-month standard of care treatment evaluation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of life questionnaire - Core 30 (QLQ-C30)</measure>
+    <time_frame>From baseline, every 3 cycles (every 9 weeks) until end of treatment, an average of 1 year</time_frame>
+    <description>Developed by the EORTC, this self-reported questionnaire assesses the health-related quality of life of cancer patients in clinical trials.&#xD;
+The questionnaire includes five functional scales (physical, everyday activity, cognitive, emotional, and social), three symptom scales (fatigue, pain, nausea and vomiting), a health/quality of life overall scale, and a number of additional elements assessing common symptoms (including dyspnea, loss of appetite, insomnia, constipation, and diarrhea), as well as, the perceived financial impact of the disease.&#xD;
+All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher response level.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of life Questionnaire - Biliary tract cancer module (QLQ-BIL21)</measure>
+    <time_frame>From baseline, every 3 cycles (every 9 weeks) until end of treatment, an average of 1 year</time_frame>
+    <description>This EORTC cholangiocarcinoma and gallbladder cancer specific questionnaire is intended to supplement the QLQ-C30.&#xD;
+The QLQ-BIL21 contains 21 items to assess symptoms. All items are rated on a four-point Likert-type scale (1 = &quot;not at all&quot;, 2 = &quot;a little&quot;, 3 = &quot;quite a bit&quot;, and 4 = &quot;very much&quot;), and are linearly transformed to a 0-100 scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EuroQOL EQ-5D-5L questionnaire</measure>
+    <time_frame>From baseline, every 3 cycles (every 9 weeks) until end of treatment, an average of 1 year</time_frame>
+    <description>Developed by the EuroQol group, the self-reported questionnaire assesses the health-related quality of life of cancer patients in clinical trials consists of a descriptive system and a visual analogue scale (VAS).&#xD;
+The EQ-5D-5L descriptive system comprises five dimensions (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression), each dimension has 5 levels (1 = &quot;no problems&quot;, 2 = &quot;slight problems&quot;, 3 = &quot;moderate problems&quot;, 4 = &quot;severe problems&quot;, and 5 = &quot;extreme problems&quot;). This questionnaire provide a 5-digit score which generate a health state profile. The VAS records the patient's self-rated health on a vertical visual analogue scale where the score range from 0 (The best health you can imagine) to 100 (The worst health you can imagine). The VAS is used as a quantitative measure of health outcome that reflects the patient's own judgement.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of Adverse Events</measure>
+    <time_frame>From randomisation, up to 5 years</time_frame>
+    <description>Safety and tolerability of the treatment will be evaluated using the National Cancer Institute-Common Terminology Criteria for Adverse Events version 5 (NCI-CTCAE v5). NCI-CTCAE is widely accepted in the community of oncology research as the leading rating scale for adverse events. This scale, divided into 5 grades (1 = &quot;mild&quot;, 2 = &quot;moderate&quot;, 3 = &quot;severe&quot;, 4 = &quot;life-threatening&quot;, and 5 = &quot;death&quot;) determined by the investigator, will make it possible to assess the severity of the disorders.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Biliary Tract Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molecular targeted therapy matched to genetic alteration carried by the tumour</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Continued standard of care treatment for first-line biliary tract cancer</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Futibatinib</intervention_name>
+    <description>Dose 20 mg once a day (QD)</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivosidenib</intervention_name>
+    <description>Dose 500 mg QD</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Tibsovo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zanidatamab</intervention_name>
+    <description>Dose: Patients &lt; 70 kg: 1800 mg every 3 weeks (Q3W), Patients ≥ 70 kg: 2400 mg Q3W</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trastuzumab</intervention_name>
+    <description>Loading dose 8 mg/kg, then 6 mg/kg Q3W (Combination with neratinib)</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Zercepac</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Neratinib</intervention_name>
+    <description>Dose: 240 mg QD (combination with trastuzumab)</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Nerlynx</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Encorafenib</intervention_name>
+    <description>Dose: 450 mg QD (Combination with binimetinib)</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Braftovi</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Binimetinib</intervention_name>
+    <description>Dose: 45 mg twice a day (BID) (Combination with encorafenib)</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Mektovi</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Niraparib</intervention_name>
+    <description>Dose: 200 mg QD or 300 mg QD</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Zejula</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Dose: 25 mg/m2 IV on days 1 and 8 Q3W (CISGEM)</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>Dose: 1000 mg/m2 IV on days 1 and 8 Q3W (CISGEM)</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        SCREENING PHASE&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed a written informed consent form prior to any trial specific procedures (Consent&#xD;
+             #1)&#xD;
+&#xD;
+          2. Histologically-proven intrahepatic, perihilar or distal cholangiocarcinoma, or&#xD;
+             gallbladder carcinoma (ampullary carcinoma excluded)&#xD;
+&#xD;
+          3. De novo or recurrent, locally advanced (non-resectable) or metastatic disease&#xD;
+&#xD;
+          4. Availability of a suitable archived sample of primary or metastatic tumour tissue&#xD;
+             (frozen, or FFPE) or able to undergo a biopsy to obtain a suitable malignant tissue&#xD;
+             sample&#xD;
+&#xD;
+          5. Aged ≥18 years&#xD;
+&#xD;
+          6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1&#xD;
+&#xD;
+          7. Estimated life expectancy &gt;3 months&#xD;
+&#xD;
+          8. Candidate for standard of care first line (1L-SoC) therapy, or has initiated first&#xD;
+             cycle of 1L-SoC therapy&#xD;
+&#xD;
+          9. Affiliated to a social security system or in possession of equivalent private health&#xD;
+             insurance (according to local country health provision arrangements).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Contraindication to 1L-SoC&#xD;
+&#xD;
+          2. Patients who are candidates for locoregional therapy&#xD;
+&#xD;
+          3. Contraindication to tumour biopsy in the absence of suitable archived sample of tumour&#xD;
+             tissue&#xD;
+&#xD;
+          4. Prior anticancer therapy in the palliative setting. Adjuvant capecitabine allowed if&#xD;
+             completed ≥ 183 days prior to study entry&#xD;
+&#xD;
+          5. Received more than 1 cycle of treatment with 1L-SoC&#xD;
+&#xD;
+          6. Prior treatment with any of the molecular targeted therapies (MTT) under investigation&#xD;
+             in the SAFIR-ABC10 study&#xD;
+&#xD;
+          7. Current malignancies (other than advanced biliary cancer), with the exception of&#xD;
+             adequately treated cone-biopsied in situ carcinoma of the cervix uteri and basal or&#xD;
+             squamous cell carcinoma of the skin. Cancer survivors, who have undergone potentially&#xD;
+             curative therapy for a prior malignancy, have no evidence of that disease for 5 years&#xD;
+             or more and are deemed at negligible risk for recurrence, are eligible for the trial&#xD;
+&#xD;
+          8. Any condition which in the Investigator's opinion makes it undesirable for the subject&#xD;
+             to participate in the trial or which would jeopardize compliance with the protocol&#xD;
+&#xD;
+          9. Patients unwilling or unable to comply with the medical follow-up required by the&#xD;
+             trial because of geographic, familial, social, or psychological reasons&#xD;
+&#xD;
+         10. Individuals deprived of liberty or placed under protective custody or guardianship&#xD;
+&#xD;
+        RANDOMISED TRIAL&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed a written informed consent form prior to any trial specific procedures (Consent&#xD;
+             #2)&#xD;
+&#xD;
+          2. Molecular profile showing the tumour harbours at least one targetable molecular&#xD;
+             alteration with a MTT in the study portfolio (as determined by the trial MTB)&#xD;
+&#xD;
+          3. Disease control (stable or responsive) after 4 cycles of 1L-SoC, compared to a&#xD;
+             pre-treatment disease evaluation, as assessed by the investigator&#xD;
+&#xD;
+          4. ECOG performance status of 0 or 1&#xD;
+&#xD;
+          5. Presence of at least one evaluable lesion according to RECIST v1.1, or complete&#xD;
+             response to 12 weeks 1L-SoC&#xD;
+&#xD;
+          6. Adequate bone marrow function: absolute neutrophil count (ANC) ≥1.5 × 10⁹/L, platelet&#xD;
+             count ≥100 × 10⁹/L, and haemoglobin ≥9 g/dL&#xD;
+&#xD;
+          7. Adequate liver function: total bilirubin level ≤1.5 × the upper limit of normal (ULN)&#xD;
+             range unless the patient has documented Gilbert syndrome, and aspartate&#xD;
+             aminotransferase (AST) and alanine aminotransferase (ALT) levels ≤2.5 × ULN (AST and&#xD;
+             ALT ≤5 ULN when documented tumour liver involvement)&#xD;
+&#xD;
+          8. Adequate renal function: estimated creatinine clearance ≥45 mL/min according to the&#xD;
+             Cockcroft-Gault formula&#xD;
+&#xD;
+          9. Adequate cardiac function: left ventricular ejection fraction ≥50% at baseline as&#xD;
+             determined by either echocardiogram or multigated acquisition scan (MUGA)&#xD;
+&#xD;
+         10. Adequate biliary drainage, with no evidence of ongoing infection&#xD;
+&#xD;
+         11. Men, and women of childbearing potential (WOCBP) must agree to use adequate&#xD;
+             contraception for the duration of trial participation and as required after completing&#xD;
+             study treatment. Men must also agree to not donate sperm and women must agree to not&#xD;
+             donate oocytes during the specified period.&#xD;
+&#xD;
+         12. Women of childbearing potential must have a negative serum pregnancy test performed&#xD;
+             within 3 days before the date of randomisation&#xD;
+&#xD;
+         13. Willing and able to comply with the protocol for the duration of the study including&#xD;
+             scheduled visits, treatment plan, laboratory tests, and other study procedures&#xD;
+&#xD;
+         14. Affiliated to a social security system or in possession of equivalent private health&#xD;
+             insurance (according to local country health provision arrangements)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Disease progression occurring at any time prior randomisation, or toxicity that led to&#xD;
+             the discontinuation of the 1L-SoC before 4 full cycles have been delivered&#xD;
+&#xD;
+          2. Toxicities from 1L-SoC not resolved to Grade ≤ 2 (according to version 5.0 the&#xD;
+             National Cancer Institute - Common terminology criteria for adverse events [NCI-CTCAE&#xD;
+             v5.0]) before randomisation, with the exception of alopecia&#xD;
+&#xD;
+          3. Contraindication or known hypersensitivity to the MTT for the molecular alteration&#xD;
+             found in the patient, or any component in their formulation Note: For patients with&#xD;
+             multiple target alterations, contraindication to one MTT will not warrant exclusion if&#xD;
+             MTT to an alternative target is feasible.&#xD;
+&#xD;
+          4. Microsatellite instability high (MSI-H) or mismatch repair deficient (dMMR) cancers&#xD;
+&#xD;
+          5. Major surgery within 4 weeks of randomisation&#xD;
+&#xD;
+          6. Untreated central nervous system (CNS) metastases, symptomatic CNS metastases, or&#xD;
+             radiation treatment for CNS metastases within 4 weeks of start of study treatment.&#xD;
+             Stable, treated brain metastases are allowed (defined as subjects who are off steroids&#xD;
+             and anticonvulsants and are neurologically stable with no evidence of radiographic&#xD;
+             progression for at least 4 weeks at the time of screening).&#xD;
+&#xD;
+          7. Known leptomeningeal disease. If leptomeningeal disease has been reported&#xD;
+             radiographically on baseline magnetic resonance imaging (MRI), but is not suspected&#xD;
+             clinically by the investigator, the subject must be free of neurological symptoms.&#xD;
+&#xD;
+          8. Concurrent malignancy (other than ABC), with the exception of adequately treated&#xD;
+             cone-biopsied in situ carcinoma of the cervix uteri and basal or squamous cell&#xD;
+             carcinoma of the skin. Cancer survivors, who have undergone potentially curative&#xD;
+             therapy for a prior malignancy, have no evidence of that disease for 5 years or more&#xD;
+             and are deemed at negligible risk for recurrence, are eligible for the trial&#xD;
+&#xD;
+          9. Known active hepatitis B virus or hepatitis C virus infection or human&#xD;
+             immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome&#xD;
+&#xD;
+         10. Any condition which in the Investigator's opinion makes it undesirable for the subject&#xD;
+             to participate in the trial or which would jeopardize compliance with the protocol&#xD;
+&#xD;
+         11. Women who are pregnant or breast-feeding&#xD;
+&#xD;
+         12. Participation in another therapeutic trial within the 30 days prior to entering the&#xD;
+             study. Participation in an observational trial would be acceptable&#xD;
+&#xD;
+         13. Patients unwilling or unable to comply with the medical follow-up required by the&#xD;
+             trial because of geographic, familial, social, or psychological reasons&#xD;
+&#xD;
+         14. Individuals deprived of liberty or placed under protective custody or guardianship&#xD;
+&#xD;
+        ADDITIONAL EXCLUSION CRITERIA FOR SPECIFIC MTTs:&#xD;
+&#xD;
+        Patients assigned to receive oral therapies:&#xD;
+&#xD;
+          1. Inability or unwillingness to swallow pills&#xD;
+&#xD;
+          2. History of malabsorption syndrome or other condition that would interfere with enteral&#xD;
+             absorption. For example, active intestine inflammation (e.g., Crohn's disease or&#xD;
+             ulcerative colitis) requiring immunosuppressive therapy&#xD;
+&#xD;
+        Futibatinib:&#xD;
+&#xD;
+        1. History and/or current evidence of any of the following disorders:&#xD;
+&#xD;
+          1. Non-tumour related alteration of the calcium-phosphorus homeostasis that is considered&#xD;
+             clinically significant in the opinion of the Investigator&#xD;
+&#xD;
+          2. Ectopic mineralization/calcification, including but not limited to soft tissue,&#xD;
+             kidneys, intestine, or myocardia and lung, considered clinically significant in the&#xD;
+             opinion of the Investigator&#xD;
+&#xD;
+          3. Retinal or corneal disorder confirmed by retinal/corneal examination and considered&#xD;
+             clinically significant in the opinion of the Investigator&#xD;
+&#xD;
+        Ivosidenib:&#xD;
+&#xD;
+          1. Patients with history of torsade de pointes&#xD;
+&#xD;
+          2. Concomitant treatment with digoxin where this cannot be substituted for another&#xD;
+             therapy&#xD;
+&#xD;
+          3. Patients with a heart-rate corrected QT interval (using Fridericia's formula) (QTcF) ≥&#xD;
+             450 msec or other factors that increased the risk of QT prolongation or arrhythmic&#xD;
+             events (e.g. heart failure, hypokalemia, family history of long QT interval syndrome)&#xD;
+&#xD;
+        Zanidatamab:&#xD;
+&#xD;
+          1. Treatment with anthracyclines within 90 days before first dose of zanidatamab and/or&#xD;
+             total lifetime load exceeding 360 mg/m2 Adriamycin® or equivalent&#xD;
+&#xD;
+          2. Use of corticosteroids administered at doses equivalent to &gt; 15 mg per day of&#xD;
+             prednisone within 2 weeks of first zanidatamab dosing unless otherwise approved by the&#xD;
+             coordinating investigator. Topical, ocular, intra-articular, intranasal, and/or&#xD;
+             inhalational corticosteroids are permitted&#xD;
+&#xD;
+          3. QTcF &gt; 470 ms&#xD;
+&#xD;
+          4. History of myocardial infarction or unstable angina within 6 months prior to&#xD;
+             enrollment, troponin levels consistent with myocardial infarction, or clinically&#xD;
+             significant cardiac disease, such as ventricular arrhythmia requiring therapy,&#xD;
+             uncontrolled hypertension, or any history of symptomatic congestive heart failure&#xD;
+&#xD;
+          5. Acute or chronic uncontrolled pancreatitis or Child-Pugh Class C liver disease&#xD;
+&#xD;
+          6. Clinically significant infiltrative pulmonary disease not related to lung metastases&#xD;
+&#xD;
+          7. A history of life-threatening hypersensitivity to monoclonal antibodies or recombinant&#xD;
+             proteins&#xD;
+&#xD;
+        Neratinib &amp; trastuzumab:&#xD;
+&#xD;
+          1. Patients with severe hepatic impairment (Child-Pugh Class C)&#xD;
+&#xD;
+          2. Co-administration with the following medical products that are strong inducers of the&#xD;
+             CYP3A4/P-gp isoform of cytochrome P450, such as carbamazepine, phenytoin&#xD;
+             (antiepileptics), St John's wort (Hypericum perforatum) or rifampicin&#xD;
+             (antimycobacterial)&#xD;
+&#xD;
+          3. Patients who are experiencing dyspnoea at rest due to complications of advanced&#xD;
+             malignancy or co-morbidities&#xD;
+&#xD;
+          4. Hypersensitivity to murine proteins&#xD;
+&#xD;
+        Encorafenib &amp; binimetinib:&#xD;
+&#xD;
+          1. Patients with a history or current evidence of retinal vein occlusion or risk factors&#xD;
+             for retinal vein occlusion (e.g., uncontrolled glaucoma or history of hyperviscosity&#xD;
+             or hypercoagulability syndrome)&#xD;
+&#xD;
+          2. Patients with concurrent neuromuscular disorders associated with elevated cytokinin&#xD;
+&#xD;
+          3. Clinically significant cardiovascular disease (recent acute myocardial infarction,&#xD;
+             treated congestive heart failure [2 or above on the New York Heart Association&#xD;
+             functional classification scale], recent thromboembolic or cerebrovascular events&#xD;
+             [within 12 weeks, excepted if related to indwelling catheter], known prolonged QT&#xD;
+             syndrome)&#xD;
+&#xD;
+          4. Current or expected use of a strong inhibitor of CYP3A4&#xD;
+&#xD;
+        Niraparib:&#xD;
+&#xD;
+          1. Hypertension that is inadequately treated or controlled&#xD;
+&#xD;
+          2. Participants receiving corticosteroids who have not been on a stable dose for at least&#xD;
+             4 weeks prior to niraparib&#xD;
+&#xD;
+          3. History of Myelodysplastic Syndrome/Acute Myeloid Leukemia&#xD;
+&#xD;
+          4. History of Reversible Encephalopathy Syndrome&#xD;
+&#xD;
+          5. Current active pneumonitis within 90 days of receiving niraparib or a known history of&#xD;
+             interstitial lung disease, drug-related pneumonitis or radiation pneumonitis requiring&#xD;
+             steroid treatment&#xD;
+&#xD;
+          6. Increased bleeding risk due to concurrent conditions&#xD;
+&#xD;
+          7. Receipt of a live vaccine within 30 days of planned start of therapy&#xD;
+&#xD;
+          8. Radiation encompassing &gt;20% of bone marrow within 2 weeks ; or any radiation therapy&#xD;
+             within 1 week prior to receiving niraparib&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Malka David, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institut Mutualiste Montsouris</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Julien Edeline, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Eugène Marquis</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ivan Borbath, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cliniques universitaires Saint-Luc- Université Catholique de Louvain</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Bridgewater, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University College London Cancer Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Juan W Valle</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Manchester and The Christie NHS Foundation Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marta Jimenez</last_name>
+    <phone>+33 (0) 1 44 23 55 58</phone>
+    <email>m-jimenez@unicancer.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cliniques universitaires Saint-Luc</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ivan BORBATH, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ivan BORBATH, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Amiens Picardie</name>
+      <address>
+        <city>Amiens</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vincent HAUTEFEUILE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Vincent HAUTEFEUILE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carole Vitellius</last_name>
+    </contact>
+    <investigator>
+      <last_name>Carole Vitellius, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut du Cancer Avignon Provence</name>
+      <address>
+        <city>Avignon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Clémence TOULLEC</last_name>
+    </contact>
+    <investigator>
+      <last_name>Clémence TOULLEC, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Besançon</name>
+      <address>
+        <city>Besançon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christophe BORG</last_name>
+    </contact>
+    <investigator>
+      <last_name>Christophe BORG, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux - Hôpital Haut-Leveque</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Frédéric BLANC</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jean-Frédéric BLANC, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre François Baclesse</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stéphane CORBINAIS</last_name>
+    </contact>
+    <investigator>
+      <last_name>Stéphane CORBINAIS, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Jean Perrin</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Florence OSAER-POLYCARPE</last_name>
+    </contact>
+    <investigator>
+      <last_name>Florence OSAER-POLYCARPE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Estaing de Clermont Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Caroline PETORIN, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Caroline PETORIN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hopital Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christophe TOURNIGAND, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Christophe TOURNIGAND, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Dijon</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gael ROTH, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Gael ROTH, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Oscar Lambret</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aurélien CARNOT, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Aurélien CARNOT, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Lille</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anthony TURPIN, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Anthony TURPIN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Dupuytren</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Frédéric THUILLIER, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Frédéric THUILLIER, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Leon Bérard</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Lyon</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Privée Jean Mermoz</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lea CLAVEL, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Lea CLAVEL, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHM - CHU La Timone</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laétitia DAHAN, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Laétitia DAHAN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Paoli Calmettes</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Simon LAUNAY, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Simon LAUNAY, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eric ASSENAT, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Eric ASSENAT, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancer de Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes - Hôtel Dieu</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yann TOUCHEFEU, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Yann TOUCHEFEU, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ludovic EVESQUE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ludovic EVESQUE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Beaujon</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mohamed BOUATTOUR, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Mohamed BOUATTOUR, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Cochin</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Romain CORIAT, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Romain CORIAT, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Saint Antoine</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Helene BOUSSION DESLOGES, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Helene BOUSSION DESLOGES, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Diaconesses Croix Saint-Simon</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier DUBREUIL, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Olivier DUBREUIL, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institute Mutualiste Montsouris</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David MALKA, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>David MALKA, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Privé des Côtes d'Armor</name>
+      <address>
+        <city>Plérin</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jérôme MARTIN-BABAU, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jérôme MARTIN-BABAU, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Poitiers</name>
+      <address>
+        <city>Poitiers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David TOUGERON, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>David TOUGERON, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Reims</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alexandra HEURGUE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alexandra HEURGUE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Jean Godinot</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Damien BOTSEN, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Damien BOTSEN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Eugène Marquis</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julien Edeline</last_name>
+    </contact>
+    <investigator>
+      <last_name>Julien Edeline, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Charles Nicolle</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Frederic DI FIORE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Frederic DI FIORE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancerologie de l'Ouest</name>
+      <address>
+        <city>Saint-Herblain</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ludovic DOUCET, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ludovic DOUCET, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Foch</name>
+      <address>
+        <city>Suresnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jaafar BENNOUNA, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jaafar BENNOUNA, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nadim FARES, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nadim FARES, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU de Nancy</name>
+      <address>
+        <city>Vandœuvre-lès-Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marie MULLER, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Marie MULLER, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Paul Brousse</name>
+      <address>
+        <city>Villejuif</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier ROSMORDUC, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Olivier ROSMORDUC, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Antoine Hollebecque</last_name>
+    </contact>
+    <investigator>
+      <last_name>Antoine Hollebecque, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bristol</name>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stephen FALK, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Stephen FALK, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Addenbrooke's Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pippa CORRIE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Pippa CORRIE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Castle Hill Hospital</name>
+      <address>
+        <city>Cottingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anthony MARAVEYAS, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Anthony MARAVEYAS, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St James's Hospital</name>
+      <address>
+        <city>Leeds</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alan ANTHONEY, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alan ANTHONEY, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clatterbridge Centre for Oncology</name>
+      <address>
+        <city>Liverpool</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniel PALMER, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Daniel PALMER, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Guy's &amp; St Thomas' Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Paul ROSS, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Paul ROSS, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hammersmith Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Harpreet WASAN, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Harpreet WASAN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sheela RAO, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sheela RAO, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University College London</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>John BRIDGEWATER, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>John BRIDGEWATER, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maidstone Hospital</name>
+      <address>
+        <city>Maidstone</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Justin WATERS, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Justin WATERS, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Juan W VALLE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Juan W VALLE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nottingham University Hospital</name>
+      <address>
+        <city>Nottingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aurora ARVIND, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Aurora ARVIND, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oxford</name>
+      <address>
+        <city>Oxford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Kinnari PATEL, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Kinnari PATEL, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield</name>
+      <address>
+        <city>Sheffield</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jonathan WADSLEY, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jonathan WADSLEY, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Southampton General Hospital</name>
+      <address>
+        <city>Southampton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tim IVESON, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Tim IVESON, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>October 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>March 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Biliary Tract Neoplasms</keyword>
+  <keyword>Targeted therapy</keyword>
+  <keyword>Personalised medicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Biliary Tract Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Niraparib</mesh_term>
+    <mesh_term>Ivosidenib</mesh_term>
+    <mesh_term>Futibatinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Unicancer will share de-identified individual data that underlie the results reported. A decision concerning the sharing of other study documents, including protocol and statistical analysis plan will be examined upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Unicancer will consider access to study data upon written detailed request sent to Unicancer, from 6 months until 5 years after publication of summary data.</ipd_time_frame>
+    <ipd_access_criteria>The data shared will be limit to that required for independent mandated verification of the published results, the applicant will need authorization from Unicancer for personal access, and data will only be transferred after signing of a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

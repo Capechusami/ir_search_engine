@@ -1,0 +1,351 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797636</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2106003016</org_study_id>
+    <secondary_id>K99MH125021</secondary_id>
+    <nct_id>NCT05797636</nct_id>
+  </id_info>
+  <brief_title>Criticality, Working Memory, and Effort</brief_title>
+  <official_title>Theta-burst Stimulation Modulates Criticality, Working Memory and Subjective Effort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brown University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brown University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The project examines electroencephalography, MRI, and behavioral measures indexing&#xD;
+      flexibility (critical state dynamics) in the brain when healthy young adults do demanding&#xD;
+      cognitive tasks, and in response to transcranial magnetic stimulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The healthy human brain is a complex, dynamical system which is hypothesized to lie near a&#xD;
+      phase transition at rest - at the boundary between order and chaos. Proximity to this&#xD;
+      critical point is functionally adaptive as it affords maximal flexibility, dynamic range, and&#xD;
+      information handling capacity, with implications for working memory function. Divergence from&#xD;
+      this critical point has become correlated with diverse forms of psychopathology and&#xD;
+      neuropathy suggesting that distance from a critical point is both a potential biomarker of&#xD;
+      disorder and also a target for intervention in disordered brains. The Investigators have&#xD;
+      further hypothesized that subjective cognitive effort is a reflection of sub-criticality&#xD;
+      induced by engagement with demanding tasks.&#xD;
+&#xD;
+      A key control parameter determining distance from criticality in a resting brain is&#xD;
+      hypothesized to be the balance of cortical excitation to inhibition (the &quot;E/I balance&quot;).&#xD;
+      Transcranial magnetic stimulation is a widely used experimental and clinical tool for&#xD;
+      neuromodulation and theta-burst stimulation (TBS) protocols are thought to modulate the E/I&#xD;
+      balance. Here the Investigators test whether cortical dynamics can be systematically&#xD;
+      modulated away from the critical point with continuous theta-burst stimulation (cTBS), which&#xD;
+      is thought to decrease the E/I balance, and thereby impact on working memory function and&#xD;
+      subjective cognitive effort during performance of the working memory tasks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The study will involve two sessions of within-subject, sham-controlled continuous theta burst stimulation delivered either at the left dorsolateral prefrontal cortex or angular gyrus.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The specific session that a participant is in will be known to the experimenter (there is no way for the experimenter not to know since they are administering stimulation). To mitigate the impact on participants, they will be instructed that the brain will be stimulated on two different days, making no reference to possible differential effects across brain regions. The experimental condition will not be explained to the participant until the end of their participation, during debriefing.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Drive to exert cognitive effort</measure>
+    <time_frame>This baseline measurement will be made once, 20 minutes before stimulation, during each participant's first transcranial magnetic stimulation session.</time_frame>
+    <description>Likert ratings of subjective effort dimensions (the Need for Cognition Scale) with scores ranging from 1 to 21 with higher scores indicating a greater propensity to engage with cognitively demanding activities</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Critical dynamics - immediate effects of target stimulation</measure>
+    <time_frame>Change in long-range temporal correlations measured immediately after, versus immediately before target transcranial magnetic stimulation.</time_frame>
+    <description>Long-range temporal correlations quantified by the scaling exponent, which is derived from EEG data, via detrended fluctuation analysis. Scores range from 0.5 (uncorrelated time series) to 1.0 (correlated time series). Higher scores, indicating stronger correlations, are expected before versus immediately after transcranial magnetic stimulation. So, the change score should be negative, indicating a reduction in long-range temporal correlations as a result of transcranial magnetic stimulation, immediately after stimulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Critical dynamics - immediate effects of sham stimulation</measure>
+    <time_frame>Change in long-range temporal correlations measured immediately after, versus immediately before sham transcranial magnetic stimulation.</time_frame>
+    <description>Long-range temporal correlations quantified by the scaling exponent, which is derived from EEG data, via detrended fluctuation analysis. Scores range from 0.5 (uncorrelated time series) to 1.0 (correlated time series). Higher scores, indicating stronger correlations, are expected before versus immediately after transcranial magnetic stimulation. So, the change score should be negative, indicating a reduction in long-range temporal correlations as a result of transcranial magnetic stimulation, immediately after stimulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Critical dynamics - prolonged effects of target stimulation</measure>
+    <time_frame>Change in long-range temporal correlations measured 40 minutes after, versus immediately before target transcranial magnetic stimulation.</time_frame>
+    <description>Long-range temporal correlations quantified by the scaling exponent, which is derived from EEG data, via detrended fluctuation analysis. Exponents range from 0.5 (uncorrelated time series) to 1.0 (correlated time series). Higher exponents, indicating stronger correlations, are expected before versus after transcranial magnetic stimulation, but are expected to recover slowly to pre-stimulation strength over the 1 hour duration of the session, following stimulation. So, the change score should show partially recovered correlations by the 40 minute post-stimulation mark.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Critical dynamics - prolonged effects of sham stimulation</measure>
+    <time_frame>Change in long-range temporal correlations measured 40 minutes after, versus immediately before sham transcranial magnetic stimulation.</time_frame>
+    <description>Long-range temporal correlations quantified by the scaling exponent, which is derived from EEG data, via detrended fluctuation analysis. Exponents range from 0.5 (uncorrelated time series) to 1.0 (correlated time series). Higher exponents, indicating stronger correlations, are expected before versus after transcranial magnetic stimulation, but are expected to recover slowly to pre-stimulation strength over the 1 hour duration of the session, following stimulation. So, the change score should show partially recovered correlations by the 40 minute post-stimulation mark.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Critical dynamics - dissipated effects of target stimulation</measure>
+    <time_frame>Change in long-range temporal correlations measured 1 hour after, versus immediately before target transcranial magnetic stimulation.</time_frame>
+    <description>Long-range temporal correlations quantified by the scaling exponent, which is derived from EEG data, via detrended fluctuation analysis. Exponents range from 0.5 (uncorrelated time series) to 1.0 (correlated time series). Higher exponents, indicating stronger correlations, are expected before versus after transcranial magnetic stimulation, but are expected to recover fully to pre-stimulation strength by the end of the 1 hour duration of the session, following stimulation. So, the change score should show minimal difference between pre-stimulation and the 1 hour post-stimulation time point.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Critical dynamics - dissipated effects of sham stimulation</measure>
+    <time_frame>Change in long-range temporal correlations measured 1 hour after, versus immediately before sham transcranial magnetic stimulation.</time_frame>
+    <description>Long-range temporal correlations quantified by the scaling exponent, which is derived from EEG data, via detrended fluctuation analysis. Exponents range from 0.5 (uncorrelated time series) to 1.0 (correlated time series). Higher exponents, indicating stronger correlations, are expected before versus after transcranial magnetic stimulation, but are expected to recover fully to pre-stimulation strength by the end of the 1 hour duration of the session, following stimulation. So, the change score should show minimal difference between pre-stimulation and the 1 hour post-stimulation time point.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Working memory performance - target versus sham stimulation</measure>
+    <time_frame>Change in accuracy for the task performed immediately after stimulation, for target versus sham stimulation.</time_frame>
+    <description>Accuracy on the N-back working memory task, as quantified by the average discrimination index d-prime across load levels. Typical average d-prime scores of accurate discrimination range from 2.5 to 0.75, with higher scores indicating a higher rate of hits and fewer false alarms. Transcranial magnetic stimulation to the target site (dorsolateral prefrontal cortex) is predicted to undermine working memory performance to a greater extent than the sham stimulation site (angular gyrus). Thus, the average discrimination index scores should be lower following target versus sham stimulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Subjective effort discounting - target versus sham stimulation</measure>
+    <time_frame>Change in area under the discounting curve estimated 45 minutes after stimulation, for target versus sham stimulation.</time_frame>
+    <description>Subjective values as estimated from an effort discounting procedure as an area under the discounting curve measure ranging from 0.0 to 1.0. Lower values indicate that people find subjective effort of the working memory tasks to be more costly. Transcranial magnetic stimulation to the target site (dorsolateral prefrontal cortex) is predicted to amplify subjective effort to a greater extent than the sham stimulation site (angular gyrus). Thus, the area under the discounting curve should be smaller following target versus sham stimulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche size statistics - immediate effects of target stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus immediately after target transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche size statistics described as the power-law exponent estimated from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards smaller avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. So, the change score should be negative, indicating a reduction in the typical avalanche size, following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche size statistics - immediate effects of sham stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus immediately after sham transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche size statistics described as the power-law exponent estimated from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards smaller avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. So, the change score should be negative, indicating a reduction in the typical avalanche size, following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche size statistics - prolonged effects of target stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 40 minutes after target transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche size statistics described as the power-law exponent estimated from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards smaller avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation, but should slowly recover to baseline statistics over the 1 hour following stimulation. So, the change score should reflect a partial recovery to baseline statistics by the 40 minute mark, post-stimulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche size statistics - prolonged effects of sham stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 40 minutes after sham transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche size statistics described as the power-law exponent estimated from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards smaller avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation, but should slowly recover to baseline statistics over the 1 hour following stimulation. So, the change score should reflect a partial recovery to baseline statistics by the 40 minute mark, post-stimulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche size statistics - dissipated effects of target stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 1 hour after target transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche size statistics described as the power-law exponent estimated from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards smaller avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation, but should fully recover to baseline statistics 1 hour following stimulation. So, the change score should reflect minimal change with respect to baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche size statistics - dissipated effects of sham stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 1 hour after sham transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche size statistics described as the power-law exponent estimated from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards smaller avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation, but should fully recover to baseline statistics 1 hour following stimulation. So, the change score should reflect minimal change with respect to baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche duration statistics - immediate effects of target stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus immediately after target transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche duration statistics described as the power-law exponent estimate from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards shorter avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. So, the change score should be negative, indicating a reduction in the typical avalanche duration, following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche duration statistics - immediate effects of sham stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus immediately after sham transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche duration statistics described as the power-law exponent estimate from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards shorter avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. So, the change score should be negative, indicating a reduction in the typical avalanche duration, following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche duration statistics - prolonged effects of target stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 40 minutes after target transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche duration statistics described as the power-law exponent estimate from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards shorter avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. Slopes should slowly recover during the 1-hour session following stimulation. So, the change score should reflect partial recovery of avalanche duration statistics 40 minutes following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche duration statistics - prolonged effects of sham stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 40 minutes after sham transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche duration statistics described as the power-law exponent estimate from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards shorter avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. Slopes should slowly recover during the 1-hour session following stimulation. So, the change score should reflect partial recovery of avalanche duration statistics 40 minutes following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche duration statistics - dissipated effects of target stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 1 hour after target transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche duration statistics described as the power-law exponent estimate from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards shorter avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. Slopes should slowly recover during the 1-hour session following stimulation. So, the change score should reflect full recovery of avalanche duration statistics 1 hour following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Avalanche duration statistics - dissipated effects of sham stimulation</measure>
+    <time_frame>Change in the exponent estimated from EEG data immediately before versus 1 hour after sham transcranial magnetic stimulation.</time_frame>
+    <description>Avalanche duration statistics described as the power-law exponent estimate from the slope of a fit to a log-log plot of avalanche size distributions estimated from EEG data. Steeper slopes, indicating a shift towards shorter avalanches, are expected immediately after versus immediately before transcranial magnetic stimulation. Slopes should slowly recover during the 1-hour session following stimulation. So, the change score should reflect full recovery of avalanche duration statistics 1 hour following transcranial magnetic stimulation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>E/I balance - immediate target stimulation effects</measure>
+    <time_frame>Change in the functional E/I balance immediately after versus immediately before target transcranial magnetic stimulation.</time_frame>
+    <description>Functional excitation-inhibition balance estimated from an EEG-derived measure relating the amplitude of the signal to its fluctuation function. A functional excitation-inhibition ratio of 1.0 implies that excitation and inhibition are balanced. Transcranial magnetic stimulation should promote inhibition, thus lowering the functional excitation-inhibition ratio immediately after stimulation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>E/I balance - immediate sham stimulation effects</measure>
+    <time_frame>Change in the functional E/I balance immediately after versus immediately before sham transcranial magnetic stimulation.</time_frame>
+    <description>Functional excitation-inhibition balance estimated from an EEG-derived measure relating the amplitude of the signal to its fluctuation function. A functional excitation-inhibition ratio of 1.0 implies that excitation and inhibition are balanced. Transcranial magnetic stimulation should promote inhibition, thus lowering the functional excitation-inhibition ratio immediately after stimulation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>E/I balance - prolonged target stimulation effects</measure>
+    <time_frame>Change in the functional E/I balance 40 minutes after versus immediately before target transcranial magnetic stimulation.</time_frame>
+    <description>Functional excitation-inhibition balance estimated from an EEG-derived measure relating the amplitude of the signal to its fluctuation function. A functional excitation-inhibition ratio of 1.0 implies that excitation and inhibition are balanced. Transcranial magnetic stimulation should promote inhibition, thus lowering the functional excitation-inhibition ratio immediately after stimulation. A protracted recovery of excitation-inhibition balance in the hour after stimulation is expected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>E/I balance - prolonged sham stimulation effects</measure>
+    <time_frame>Change in the functional E/I balance 40 minutes after versus immediately before sham transcranial magnetic stimulation.</time_frame>
+    <description>Functional excitation-inhibition balance estimated from an EEG-derived measure relating the amplitude of the signal to its fluctuation function. A functional excitation-inhibition ratio of 1.0 implies that excitation and inhibition are balanced. Transcranial magnetic stimulation should promote inhibition, thus lowering the functional excitation-inhibition ratio immediately after stimulation. A protracted recovery of excitation-inhibition balance in the hour after stimulation is expected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>E/I balance - dissipated effects of target stimulation</measure>
+    <time_frame>Change in the functional E/I balance 1 hour after after versus immediately before target transcranial magnetic stimulation.</time_frame>
+    <description>Functional excitation-inhibition balance estimated from an EEG-derived measure relating the amplitude of the signal to its fluctuation function. A functional excitation-inhibition ratio of 1.0 implies that excitation and inhibition are balanced. Transcranial magnetic stimulation should promote inhibition, thus lowering the functional excitation-inhibition ratio immediately after stimulation. A protracted recovery of excitation-inhibition balance in the hour after stimulation is expected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>E/I balance - dissipated effects of sham stimulation</measure>
+    <time_frame>Change in the functional E/I balance 1 hour after after versus immediately before sham transcranial magnetic stimulation.</time_frame>
+    <description>Functional excitation-inhibition balance estimated from an EEG-derived measure relating the amplitude of the signal to its fluctuation function. A functional excitation-inhibition ratio of 1.0 implies that excitation and inhibition are balanced. Transcranial magnetic stimulation should promote inhibition, thus lowering the functional excitation-inhibition ratio immediately after stimulation. A protracted recovery of excitation-inhibition balance in the hour after stimulation is expected.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Transcranial magnetic stimulation participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants will be recruited into a single arm where, across two sessions they will receive transcranial magnetic stimulation in separate session to either the dorsolateral prefrontal cortex or the angular gyrus. Session order will be counter-balanced across participants, and stimulation target will be blinded to the participants until after their participation is complete.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>transcranial magnetic stimulation</intervention_name>
+    <description>The study intervention is modulation of cortical excitation to inhibition (E/I) balance in the dorsolateral prefrontal cortex (dlPFC) by means of 2 trains of spaced continuous theta burst stimulation (cTBS) using a transcranial magnetic stimulation device. As prior work (Huang et al 2005; Chung et al. 2018) has shown that cTBS reliably decreases the cortical E/I ratio with diverse cortical targets, the Investigators expect to replicate a reduction in E/I balance when applied. The mechanism of action is thought to be an increase in inhibitory neurotransmission across diverse timescales. The endpoint of this stimulation will be a decrease in the local E/I ratio that should last at least 60 minutes post-stimulation (Chung et al., 2018).&#xD;
+In separate sessions, all participants will receive stimulation to either the dorsolateral prefrontal cortex (dlPFC) or to the angular gyrus (AG). The Investigators will contrast the effects of dlPFC cTBS with control cTBS to the AG.</description>
+    <arm_group_label>Transcranial magnetic stimulation participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision of signed and dated informed consent form&#xD;
+&#xD;
+          2. Stated willingness to comply with all study and availability for the duration of the&#xD;
+             study&#xD;
+&#xD;
+          3. Males and females; Ages 18-45&#xD;
+&#xD;
+          4. Healthy, neurologically normal with no diagnosed mental or physical illness&#xD;
+&#xD;
+          5. Willingness to adhere to the MRI and two session stimulation protocol&#xD;
+&#xD;
+          6. Fluent in English&#xD;
+&#xD;
+          7. Normal or corrected to normal vision&#xD;
+&#xD;
+          8. At least twelve years of education (high school equivalent)&#xD;
+&#xD;
+          9. Right-handed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Ongoing drug or alcohol abuse&#xD;
+&#xD;
+          2. Diagnosed psychiatric or mental illness&#xD;
+&#xD;
+          3. Currently taking psychoactive medication&#xD;
+&#xD;
+          4. Prior brain injury&#xD;
+&#xD;
+          5. Metal in body&#xD;
+&#xD;
+          6. History of seizures or diagnosis of epilepsy&#xD;
+&#xD;
+          7. Claustrophobia&#xD;
+&#xD;
+          8. Pregnant or possibly pregnant&#xD;
+&#xD;
+          9. Younger than 18 or older than 45&#xD;
+&#xD;
+         10. Use of medications which potentially lower the usage threshold&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John A Westbrook, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brown University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John A Westbrook, PhD</last_name>
+    <phone>(401) 863-2727</phone>
+    <email>andrew.westbrook@brown.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brown University</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John A Westbrook, PhD</last_name>
+      <phone>401-863-2727</phone>
+      <email>andrew.westbrook@brown.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chung SW, Rogasch NC, Hoy KE, Fitzgerald PB. The effect of single and repeated prefrontal intermittent theta burst stimulation on cortical reactivity and working memory. Brain Stimul. 2018 May-Jun;11(3):566-574. doi: 10.1016/j.brs.2018.01.002. Epub 2018 Jan 8.</citation>
+    <PMID>29352668</PMID>
+  </reference>
+  <reference>
+    <citation>Huang YZ, Edwards MJ, Rounis E, Bhatia KP, Rothwell JC. Theta burst stimulation of the human motor cortex. Neuron. 2005 Jan 20;45(2):201-6. doi: 10.1016/j.neuron.2004.12.033.</citation>
+    <PMID>15664172</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>All anonymized data will be made publicly available at the conclusion of the trial at Rutgers University's (RUresearch) Data Portal.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 21, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/36/NCT05797636/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 21, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/36/NCT05797636/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

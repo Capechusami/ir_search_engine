@@ -1,0 +1,208 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793723</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4949</org_study_id>
+    <nct_id>NCT05793723</nct_id>
+  </id_info>
+  <brief_title>Long-term Respiratory Complications in Infants With Perinatal COVID-19</brief_title>
+  <acronym>COLF</acronym>
+  <official_title>Evaluation of Long-term Respiratory Complications in Infants With Perinatal COVID-19: a Pilot Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study outcomes and endpoints:&#xD;
+&#xD;
+        -  Primary outcome: to assess clinical characteristics of infants with confirmed COVID-19&#xD;
+           infection at birth and to evaluate long-term respiratory consequences of neonatal&#xD;
+           COVID-19 infection.&#xD;
+&#xD;
+        -  Secondary outcome: to evaluate the prevalence and natural history of lung function&#xD;
+           impairment among infants with confirmed COVID-19 compared to infants with no history of&#xD;
+           COVID-19. To this end, infants will undergo pulmonary function testing (PFT) with the&#xD;
+           Exhalyzer D device (Eco Medics, Switzerland).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this prospective, observational longitudinal study, infants will undergo clinical and&#xD;
+      growth assessment at 6 and 12 months' follow-up. Respiratory complications, such as wheezing,&#xD;
+      infections, chronic cough will be recorded along with hospital admissions and drug&#xD;
+      prescription or use.&#xD;
+&#xD;
+      Infants will undergo PFT with the infants in the supine position, during quiet, natural&#xD;
+      sleep, according to American Thoracic Society/European Respiratory Society recommendations&#xD;
+      with measurement of lung volumes, flow, functional residual capacity, time to peak tidal&#xD;
+      expiratory flow/expiratory time ratio (tPTEF/tE)10. Lung ultrasound will be performed to rule&#xD;
+      out lung abnormalities. After allowing adaptation to the mask, the investigators will record&#xD;
+      tidal breathing, flow volume loops for &gt;2 minutes or &gt;20 artifact-free breaths. Using&#xD;
+      commercially available software (Spiroware, Ecomedics), the investigators will extract tidal&#xD;
+      breathing parameters: ratio of time to reach peak tidal expiratory flow to expiratory time&#xD;
+      (tPTEF/tE), tidal volume (VT), and respiratory rate (RR). tPTEF/tE is a reproducible and&#xD;
+      reliable marker of airway obstruction, can detect severe expiratory airway obstruction in&#xD;
+      infants with respiratory complaints and is associated with subsequent wheezing in infancy.&#xD;
+&#xD;
+      Appropriate statistical methods will be used to describe clinical characteristics of patients&#xD;
+      and compare groups (T-test, Mann-Whitney test, chi-squared test, multivariate analysis, mixed&#xD;
+      models depending on data distribution - evaluated with Shapiro-Wilk test - and data&#xD;
+      characteristics).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 7, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 7, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical respiratory consequences of neonatal COVID-19 infection</measure>
+    <time_frame>6 months of life</time_frame>
+    <description>Wheezing, use of bronchodilators, steroids, hospitalizations for respiratory causes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical respiratory consequences of neonatal COVID-19 infection (i.e. wheezing)</measure>
+    <time_frame>12 months of life</time_frame>
+    <description>Wheezing, use of bronchodilators, steroids, hospitalizations for respiratory causes</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Lung function parameters</measure>
+    <time_frame>6 months of life</time_frame>
+    <description>Tidal volume (ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung function parameters</measure>
+    <time_frame>6 months of life</time_frame>
+    <description>Respiratory rate (breaths per minute)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung function parameters</measure>
+    <time_frame>6 months of life</time_frame>
+    <description>Time to peak expiratory flow/expiratory time (ratio)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung function parameters</measure>
+    <time_frame>12 months of life</time_frame>
+    <description>Functional residual capacity (ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung function parameters</measure>
+    <time_frame>12 months of life</time_frame>
+    <description>Lung clearance index 2.5 and 5.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Infant, Newborn, Diseases</condition>
+  <condition>Respiratory Function Tests</condition>
+  <arm_group>
+    <arm_group_label>Cases</arm_group_label>
+    <description>Infants with confirmed neonatal COVID-19 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <description>Infants born to mothers with no history of COVID-19 infection during pregnancy and no neonatal COVID-19 infection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Pulmonary function testing device</intervention_name>
+    <description>Patients will undergo pulmonary function tests with the Exhalyzer D (Ecomedics, Switzerland) device. This device consists of 1) an ultrasonic flow measuring system for measuring flow, volume and molecular mass, 2) a nitrogen washout system to measure functional residual capacity (FRC) and other indices, 3) a carbon dioxide infrared measurement device for monitoring the level of carbon dioxide in exhaled breath.</description>
+    <arm_group_label>Cases</arm_group_label>
+    <arm_group_label>Controls</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        In this prospective, observational longitudinal study, infants with and without history of&#xD;
+        COVID-19 will undergo clinical and growth assessment at 6 and 12 months' follow-up.&#xD;
+        Respiratory complications, such as wheezing, infections, chronic cough will be recorded&#xD;
+        along with hospital admissions and drug prescription or use. Pulmonary function tests will&#xD;
+        be performed during spontaneous, quiet sleep.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  term infants;&#xD;
+&#xD;
+          -  informed consent;&#xD;
+&#xD;
+          -  history of perinatal COVID-19 (confirmed by nasopharyngeal swab tests, study group)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  congenital malformations (particularly airway malformations);&#xD;
+&#xD;
+          -  lack of informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>2 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Stefano Nobile, MD, PhD, MSc</last_name>
+    <phone>+390630151</phone>
+    <email>stefano.nobile@policlinocogemelli.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fondazione Policlinico Gemelli IRCCS</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefano Nobile, MD, PhD, MSc</last_name>
+      <phone>+390630151</phone>
+      <email>stefano.nobile@policlinicogemelli.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>February 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Infant, Newborn, Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

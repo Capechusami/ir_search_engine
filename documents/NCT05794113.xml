@@ -1,0 +1,171 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794113</url>
+  </required_header>
+  <id_info>
+    <org_study_id>#20200591-01H</org_study_id>
+    <nct_id>NCT05794113</nct_id>
+  </id_info>
+  <brief_title>Comparing the Use of a Mobile App for Surveillance of Adverse Events Following Influenza Immunization to a Web-Based Platform</brief_title>
+  <official_title>Comparing the Use of a Mobile App for Surveillance of Adverse Events Following Influenza Immunization to a Web-Based Platform: a Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Ottawa Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Ottawa Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Methods Study Procedures A two-centred randomized control trial (RCT) was conducted to&#xD;
+      evaluate the use of safety reporting via a mobile app compared to safety reporting via&#xD;
+      web-based CANVAS notifications amongst individuals receiving the influenza vaccine from&#xD;
+      October 6 to November 29, 2020 during the seasonal influenza vaccine campaign in Ottawa and&#xD;
+      Vancouver, Canada.&#xD;
+&#xD;
+      Individuals were recruited at the time of receiving their influenza vaccine. Eligibility&#xD;
+      criteria included the ability to speak English or French, having an active email address and&#xD;
+      telephone number, and being immunized with the seasonal influenza vaccine.&#xD;
+&#xD;
+      Randomization After study enrollment, participants were randomized to receive the online&#xD;
+      safety survey either through the mobile app or emailed a link to the online survey using a&#xD;
+      four-block randomization design.&#xD;
+&#xD;
+      Web-based notification arm All participants randomized to the web-based notification arm&#xD;
+      received the following web-based CANVAS notifications. Briefly, participants received an&#xD;
+      email notifying them of their registration in the study. Eight days following their influenza&#xD;
+      vaccine, participants received an email with the survey link asking them to complete their&#xD;
+      online influenza vaccine safety survey. Participants received a reminder email on day 11 if&#xD;
+      they did not complete their survey. Further details on CANVAS surveillance and description of&#xD;
+      the questionnaire can be found here.&#xD;
+&#xD;
+      Mobile app arm Participants randomized to the mobile app arm, received an email asking them&#xD;
+      to download the app and activate their account. Users who did not activate their account&#xD;
+      after 48 hours received a reminder email. Participants who activated their accounts, could&#xD;
+      spontaneously report an adverse event through the app, and were also notified of the day 8&#xD;
+      survey through the app.&#xD;
+&#xD;
+      Eight days following their vaccination mobile app participants who activated their account&#xD;
+      received a push notification on their phone to complete their survey. A reminder push notice&#xD;
+      was sent out on day 11 to participants that had not yet competed the day 8 survey. On&#xD;
+      November 16, 2020 (mid-way through the recruitment period), additional email reminders in the&#xD;
+      mobile app arm were implemented on days 2, 4 and 6 to remind participants to register for the&#xD;
+      app. All participants received a day 8 email directing them to use their CANImmunize account&#xD;
+      to complete their influenza vaccine survey. Access to the survey link also was available in&#xD;
+      the email reminder.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Actual">October 1, 2021</completion_date>
+  <primary_completion_date type="Actual">October 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Useability</measure>
+    <time_frame>through study completion - average of 4 months</time_frame>
+    <description>Following completion of the safety survey, all participants were sent a separate link by email to complete a user experience survey. Participants were asked about their history of participating in the flu vaccine safety survey and whether they previously used the CANImmunize app. Using a Likert scale, participants were asked questions on (i) perceived ease of use, (ii) perceived usefulness, (iii) their attitudes and intention of use towards the platform and (iv) questions pertaining to vaccine confidence and safety.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2408</enrollment>
+  <condition>Mobile Apps</condition>
+  <condition>Immunization</condition>
+  <condition>Adverse Event Following Immunisation</condition>
+  <arm_group>
+    <arm_group_label>Web-based notification arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>All participants randomized to the web-based notification arm received the following web-based CANVAS notifications [4,5]. Briefly, participants received an email notifying them of their registration in the study. Eight days following their influenza vaccine, participants received an email with the survey link asking them to complete their online influenza vaccine safety survey. Participants received a reminder email on day 11 if they did not complete their survey.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mobile app arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the mobile app arm, received an email asking them to download the app and activate their account. Users who did not activate their account after 48 hours received a reminder email. Participants who activated their accounts, could spontaneously report an adverse event through the app, and were also notified of the day 8 survey through the app.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Mobile app - CanImmunize</intervention_name>
+    <description>Using a mobile app</description>
+    <arm_group_label>Mobile app arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Web based notification</intervention_name>
+    <description>Using a web-based version of a survey</description>
+    <arm_group_label>Web-based notification arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Speak English or French,&#xD;
+&#xD;
+          -  Have an active email address and telephone • Immunized with the seasonal influenza&#xD;
+             vaccine&#xD;
+&#xD;
+          -  Parents of children are eligible to participate after the first or second dose of&#xD;
+             vaccine&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who do not meet the inclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anne McCarthy</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ottawa Hospital Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ottawa Hospital Research Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y 4E9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Ottawa Hospital</investigator_affiliation>
+    <investigator_full_name>Kumanan Wilson</investigator_full_name>
+    <investigator_title>Senior Scientist</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

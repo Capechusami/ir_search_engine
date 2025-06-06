@@ -1,0 +1,220 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05792995</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTGU007</org_study_id>
+    <nct_id>NCT05792995</nct_id>
+  </id_info>
+  <brief_title>Foundation and Clinical About the Expression of PD-1 in Peripheral Blood T Lymphocytes</brief_title>
+  <official_title>Foundation and Clinical About the Expression of PD-1 in Peripheral Blood T Lymphocytes and Its Prediction of Immune Efficacy of Patients With Non-small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xin-Hua Xu</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>China Three Gorges University, Yichang, China</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Providing more theoretical basis for the prediction of the efficacy of advanced NSCLC and&#xD;
+      helping select better advantaged population of NSCLC immunotherapy to maximize the benefits&#xD;
+      of patients By exploring the relationship between the changes of PD-1 expression in&#xD;
+      peripheral blood T lymphocytes and the clinical efficacy before and after the use of PD-1 /&#xD;
+      PD-L1 inhibitors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      From the perspective of immunology, it is intended to explore whether the expression of PD-1&#xD;
+      in peripheral blood T lymphocytes can be used as a reference index for selecting immune &quot;+&quot;&#xD;
+      therapy in patients with advanced HCC, and to clarify the relationship between the expression&#xD;
+      level of peripheral blood T lymphocytes and the survival data of patients receiving immune&#xD;
+      &quot;+&quot; therapy. And explore whether there is consistency between the expression level of PD-L1&#xD;
+      and that of PD-L1 on patients. At the same time, to explore whether there is a correlation&#xD;
+      between the distribution of T cell subsets and the efficacy of immunotherapy, so as to&#xD;
+      provide a new theoretical basis for the clinical screening of the target population of immune&#xD;
+      &quot;+&quot; therapy and a new clinical screening index for the prognosis assessment of patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 21, 2021</start_date>
+  <completion_date type="Actual">March 1, 2023</completion_date>
+  <primary_completion_date type="Actual">March 1, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Compare Progression Free Survival (PFS) Regimen using RECIST 1.1.</measure>
+    <time_frame>approximately 24 months</time_frame>
+    <description>PFS was defined as the time between the date of randomization and the date of first documented disease progression or death, whichever occurs first. Disease progression was determined based on investigator assessment using response evaluation criteria In solid tumors (RECIST) v1.1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compare Overall Survival (OS)</measure>
+    <time_frame>approximately 24 months</time_frame>
+    <description>Overall Survival (OS) was defined as the time from the date of randomization to the date of death due to any cause. Data for participants who were not reported as dead at the time of analysis was censored at the date when they were last known to be alive.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Immunomonotherapy plus Chemotherapy plus Anti-angiogenesis Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Any first-line treatment that includes immunotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chemotherapy plus Immunomonotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Any first-line treatment that includes immunotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Immunomonotherapy plus Anti-angiogenesis Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Any first-line treatment that includes immunotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Immunomonotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Any first-line treatment that includes immunotherapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sindillimab</intervention_name>
+    <description>Any treatment regimen that includes immunotherapy.</description>
+    <arm_group_label>Chemotherapy plus Immunomonotherapy</arm_group_label>
+    <arm_group_label>Immunomonotherapy</arm_group_label>
+    <arm_group_label>Immunomonotherapy plus Anti-angiogenesis Therapy</arm_group_label>
+    <arm_group_label>Immunomonotherapy plus Chemotherapy plus Anti-angiogenesis Therapy</arm_group_label>
+    <other_name>Pembrolizumab</other_name>
+    <other_name>Nivolumab</other_name>
+    <other_name>Durvalumab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Volunteer to participate in clinical research; fully understand and know the research&#xD;
+             and sign informed consent.&#xD;
+&#xD;
+          2. Age ≥18 years, and ≤75years , either sex.&#xD;
+&#xD;
+          3. Eastern Collaborative Oncology Group Performance status (ECOG PS) 0 ,1 or 2.&#xD;
+&#xD;
+          4. Patients with NSCLC diagnosed by histopathology (according to the 8th edition of&#xD;
+             AJCC).&#xD;
+&#xD;
+          5. Initial diagnosis patients unable to perform surgery.&#xD;
+&#xD;
+          6. Normal hepatic function: total bilirubin≤1.5×normal upper limit (ULN); Alanine&#xD;
+             aminotransferase and Aspartate aminotransferase levels ≤2.5×ULN or ≤5×ULN if liver&#xD;
+             metastasis is present.&#xD;
+&#xD;
+          7. Normal renal function ：Creatinine ≤1.5×ULN or calculated creatinine clearance ≥45&#xD;
+             mL/min (using Cockcroft/Gault formula to calculate ).&#xD;
+&#xD;
+          8. Normal hematological function：absolute neutrophil count ≥1.5×109/L, platelet count&#xD;
+             ≥70×109/L, hemoglobin≥80g/L [no blood transfusion or erythropoietin (EPO) within 7&#xD;
+             days] Dependency].&#xD;
+&#xD;
+          9. Has a life expectancy of at ≥3 months.&#xD;
+&#xD;
+         10. EGFR and ALK were negative.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. ECOG PS &gt;2.&#xD;
+&#xD;
+          2. Patients who received radiotherapy, chemotherapy, monoclonal antibody and oral&#xD;
+             EGFR-TKI therapy within six months.&#xD;
+&#xD;
+          3. Patients who are receiving any other investigational agents within 30 days prior to&#xD;
+             entering the study.&#xD;
+&#xD;
+          4. History of other malignancies (except for cured cervical carcinoma in situ or skin&#xD;
+             basal cell carcinoma and other malignancies that have been cured for more than 5&#xD;
+             years).&#xD;
+&#xD;
+          5. Have no measurable lesion as defined by RECIST 1.1.&#xD;
+&#xD;
+          6. Accompanied by other serious diseases, including but not limited to:&#xD;
+&#xD;
+             Uncontrollable congestive heart failure (NYHA grade Ⅲ or Ⅳ), unstable angina, poorly&#xD;
+             controlled arrhythmia, uncontrolled moderate or above hypertension (SBP &gt; 160mmhg or&#xD;
+             DBP &gt; 100mmhg) ; Severe active infection; Uncontrollable diabetes (refers to the high&#xD;
+             fluctuation of blood glucose, the impact on patients' life and the frequent occurrence&#xD;
+             of hypotension despite the standard insulin treatment and frequent blood glucose&#xD;
+             monitoring) ; Mental illness affecting informed consent and / or program compliance.&#xD;
+&#xD;
+          7. Those who are allergic to the drug or its components used in the program.&#xD;
+&#xD;
+          8. Pregnancy (confirmed by hCG test in blood or urine) or lactating women, or&#xD;
+             childbearing age subjects are unwilling or unable to take effective contraceptive&#xD;
+             measures (applicable to both male and female subjects) until at least 6 months after&#xD;
+             the last trial treatment.&#xD;
+&#xD;
+          9. Those who are not considered suitable for the study by the researchers.&#xD;
+&#xD;
+         10. Unwilling to participate in this study or unable to sign informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Medical Oncology, Central Hospital of Yichang City, the First Clinical Medical College of Three Gorges University</name>
+      <address>
+        <city>Yichang</city>
+        <state>Hubei</state>
+        <zip>443003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>China Three Gorges University, Yichang, China</investigator_affiliation>
+    <investigator_full_name>Xin-Hua Xu</investigator_full_name>
+    <investigator_title>professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Durvalumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

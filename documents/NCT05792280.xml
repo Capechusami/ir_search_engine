@@ -1,0 +1,224 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05792280</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2023-EUS-AI-002</org_study_id>
+    <nct_id>NCT05792280</nct_id>
+  </id_info>
+  <brief_title>Clinical Research on a Novel Deep-learning Based System in Mediastinal Endoscopic Ultrasound Scanning</brief_title>
+  <official_title>Clinical Research on Navigation and Quality Control System of Mediastinal Ultrasound Endoscopy Based on Deep Learning</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Third Xiangya Hospital of Central South University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Third Xiangya Hospital of Central South University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to develop and verify the auxiliary role of the artificial&#xD;
+      intelligence system in mediastinal ultrasound endoscopic scanning. The main questions it aims&#xD;
+      to answer are as follows: 1.The comparison of the image recognition accuracy between the&#xD;
+      artificial intelligence system and the ultrasound endoscopist; 2. Whether the artificial&#xD;
+      intelligence system can improve the efficiency of the mediastinum scanning for the ultrasound&#xD;
+      endoscopist. Participants will undergo mediastinal EUS with or without the assistance of the&#xD;
+      artificial intelligence system.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this study, a total of 200 cases of mediastinal endoscopic ultrasound scanning videos will&#xD;
+      be collected. First of all, an artificial intelligence system based on deep learning for the&#xD;
+      navigation and quality control of mediastinal endoscopic ultrasonography will be established.&#xD;
+      Secondly, the artificial intelligence system will be used to identify the site and anatomical&#xD;
+      structure of the mediastinal ultrasound endoscope, and the results of the artificial&#xD;
+      intelligence system's station recognition will be compared with the results of the&#xD;
+      endoscopist's station recognition. Finally, compare the image recognition speed, image&#xD;
+      recognition accuracy and precision of endoscopists with and without the assistance of&#xD;
+      artificial intelligence system.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy</measure>
+    <time_frame>1 year</time_frame>
+    <description>The number of correctly classified images divided by the total number of images.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>intersection over union (IoU)</measure>
+    <time_frame>1 year</time_frame>
+    <description>It was defined as the relative area of overlap between the predicted bounding box(A) and the ground-truth(B) bounding box.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Precision</measure>
+    <time_frame>1 year</time_frame>
+    <description>When the IoU was greater than the threshold, the prediction was true positive(TP); when the IoU was less than the threshold, the prediction was false positive(FP).When the model segmentation area was equal to 0, it was false negative(FN).Precision=TP/(TP+FP)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recall</measure>
+    <time_frame>1 year</time_frame>
+    <description>Recall=TP/(TP+FN)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dice</measure>
+    <time_frame>1 year</time_frame>
+    <description>Dice=2TP/(2TP+FP+FN)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cohen's kappa coefficient</measure>
+    <time_frame>1 year</time_frame>
+    <description>This data is to evaluate the agreement between the model and the endoscopists.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Mediastinum Disease</condition>
+  <arm_group>
+    <arm_group_label>AI-assisted group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will undergo EUS examination with the assistance of AI system.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non-assisted group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects will undergo EUS examination without the assistance of AI system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>AI system</intervention_name>
+    <description>Patients will undergo EUS examination with the assistance of AI system.</description>
+    <arm_group_label>AI-assisted group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1. Age ≥18 years old, &lt;80 years old 2.Patients who need endoscopic ultrasonography of&#xD;
+             mediastinum; 3. Agree to participate in this study and sign the informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who meet any of the following criteria cannot be selected for this trial:&#xD;
+&#xD;
+        First. The patient's physical condition does not meet the requirements of conventional&#xD;
+        endoscopic ultrasonography:&#xD;
+&#xD;
+          1. Poor physical condition, including hemoglobin ≤8.0g/dl, severe cardiopulmonary&#xD;
+             insufficiency, etc.&#xD;
+&#xD;
+          2. Anesthesia assessment failed&#xD;
+&#xD;
+          3. Pregnancy or breastfeeding&#xD;
+&#xD;
+          4. In the acute stage of chemical and corrosive injury, it is very easy to cause&#xD;
+             perforation&#xD;
+&#xD;
+          5. Recent acute coronary syndrome or clinically unstable ischemic heart attack&#xD;
+&#xD;
+          6. Heart disease patients with right-to-left shunt, patients with severe pulmonary&#xD;
+             hypertension (pulmonary artery pressure&gt; 90mmHg),patients with uncontrolled systemic&#xD;
+             hypertension and patients with adult respiratory distress syndrome.&#xD;
+&#xD;
+        Second. Disagree to participate in this study.&#xD;
+&#xD;
+        Third. There are other problems that do not meet the requirements of this research or that&#xD;
+        affect the results of the research:&#xD;
+&#xD;
+          1. Mediastinal lesions have previously undergone surgery or radiotherapy and&#xD;
+             chemotherapy;&#xD;
+&#xD;
+          2. Mental illness, drug addiction, inability to express themselves or other diseases that&#xD;
+             may affect follow-up.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiaoyan Wang, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Third Xiangya Hospital of Central South University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaoyan Wang, Doctor</last_name>
+    <phone>+8613974889301</phone>
+    <email>wxy20011@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shiqin Huang, MD</last_name>
+    <phone>+8618308312098</phone>
+    <email>sqhuang0213@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Third Xiangya Hospital of Central South University</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <zip>410013</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoyan Wang, Doctor</last_name>
+      <phone>+8613974889301</phone>
+      <email>wxy20011@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Shiqin Huang, Doctor</last_name>
+      <phone>+8618308312098</phone>
+      <email>sqhuang0213@163.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EUS</keyword>
+  <keyword>AI</keyword>
+  <keyword>Quality Control</keyword>
+  <keyword>training</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mediastinal Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Some data underlying this trial cannot be shared publicly due to protection of participant's privacy.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

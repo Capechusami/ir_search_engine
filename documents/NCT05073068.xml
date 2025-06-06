@@ -1,0 +1,274 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05073068</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL78628.068.21</org_study_id>
+    <nct_id>NCT05073068</nct_id>
+  </id_info>
+  <brief_title>Acute Timed Exercise and 24h Metabolism</brief_title>
+  <acronym>TIM</acronym>
+  <official_title>Timed Exercise to Acutely Improve Energy and Substrate Metabolism at Night in Men and Women With Prediabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Maastricht University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this randomized controlled cross-over study is to investigate if an&#xD;
+      acute, glycogen lowering exercise bout performed either in the morning or late afternoon&#xD;
+      differentially affects the respiratory exchange ratio at night in men and women with&#xD;
+      prediabetes. For this purpose, participants will stay in a respiration chamber and will be&#xD;
+      subjected to either an exercise bout in the morning or late afternoon.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Appropriate timing of lifestyle interventions may facilitate healthy rhythmicity in&#xD;
+      metabolism and optimize the effectiveness of such interventions in improving metabolic&#xD;
+      health. In this context, exercise is well-known to improve (skeletal muscle) energy&#xD;
+      metabolism and is an established intervention to improve muscle insulin sensitivity and to&#xD;
+      counter the development of type 2 diabetes (T2D). In addition, exercise may also have&#xD;
+      beneficial effects on the immune response that is known to impact on insulin sensitivity and&#xD;
+      overall metabolic health. In this study it is hypothesized that exercise performed at&#xD;
+      different times of the day exerts a differential effect on 24h metabolism in people at risk&#xD;
+      for developing T2D. To test this, a randomized controlled cross-over study is conducted in&#xD;
+      which participants are subjected to either an exercise in the morning or late afternoon while&#xD;
+      staying in the respiration chamber. Main outcome is substrate utilization during the night as&#xD;
+      measured with the respiration chamber, but 24-hrs blood draws will also be performed to&#xD;
+      examine effect of exercise on circulating metabolites.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 25, 2022</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Participants will receive a code so that the person in charge with the data quality check and the data analyses will be blinded to the interventions.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nocturnal respiratory exchange ratio</measure>
+    <time_frame>35 hours respiration chamber stay per intervention arm</time_frame>
+    <description>Relative carbohydrate/fat oxidation during the night</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>24 hour energy and substrate metabolism determined using oxygen and carbondioxide levels as measured with whole-chamber respirometry</measure>
+    <time_frame>35 hours respiration chamber stay per intervention arm</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune cell phenotypes determined using blood samples obtained during the interventions</measure>
+    <time_frame>35 hours respiration chamber stay per intervention arm</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood glucose levels following the exercise intervention measured continuously using a continuous glucose monitor device</measure>
+    <time_frame>7 days post the exercise intervention</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Diurnal variation in circulating glucoregulatory hormones (e.g. insulin) analysed in blood samples obtained throughout the day</measure>
+    <time_frame>35 hours respiration chamber stay per intervention arm</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feet sensitivity based on score on a neuropathy questionnaire</measure>
+    <time_frame>Baseline visit</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Diurnal variation in metabolite levels (e.g. glucose, free fatty acids) analysed in blood samples obtained throughout the day</measure>
+    <time_frame>35 hours respiration chamber stay per intervention arm</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Diurnal variation in core body temperature using a core temperature pill that measures 24hrs</measure>
+    <time_frame>35 hours respiration chamber stay per intervention arm</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feet sensitivity based on a clinical foot assessment</measure>
+    <time_frame>Baseline visit</time_frame>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Overweight and Obesity</condition>
+  <arm_group>
+    <arm_group_label>AM exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PM exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Timing of exercise</intervention_name>
+    <description>An acute exercise bout of cycling performed in the morning at 9 AM or at 5 PM</description>
+    <arm_group_label>AM exercise</arm_group_label>
+    <arm_group_label>PM exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>No exercise</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Healthy (determined by dependent physician)&#xD;
+&#xD;
+          -  Man or post-menopausal woman&#xD;
+&#xD;
+          -  Age between 50 - 75 years&#xD;
+&#xD;
+          -  BMI ≥ 25 kg/m2&#xD;
+&#xD;
+          -  Pre-diabetes based on meeting at least one of the following criteria: impaired glucose&#xD;
+             tolerance defined as plasma glucose values ≥ 7.8 mmol/l and ≤ 11.1 mmol/l 120 minutes&#xD;
+             after glucose drink consumption during oral glucose tolerance test in screening,&#xD;
+             impaired fasting glucose defined as fasting plasma glucose ≥ 6.1 mmol/l and ≤ 6.9&#xD;
+             mmol/l, insulin resistance defined as a glucose clearance rate ≤ 360 mL/kg/min as&#xD;
+             determined using OGIS120, HbA1c of 5.7-6.4%&#xD;
+&#xD;
+          -  Regular sleeping habits (7 - 9h of daily sleep)&#xD;
+&#xD;
+          -  Stable diet and weight: No weight gain or loss &gt; 3kg in the last three months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not meeting all inclusion criteria&#xD;
+&#xD;
+          -  Fasting plasma glucose&#xD;
+&#xD;
+          -  ≥ 7.0 mmol/L&#xD;
+&#xD;
+          -  Hemoglobin &lt; 7.8 mmol/L&#xD;
+&#xD;
+          -  Previously diagnosed with type 2 diabetes&#xD;
+&#xD;
+          -  Uncontrolled hypertension&#xD;
+&#xD;
+          -  In case of an abnormal electrocardiogram at rest: this will be discussed with the&#xD;
+             responsible medical doctor&#xD;
+&#xD;
+          -  Subjects who do not want to be informed about unexpected medical findings during the&#xD;
+             screening /study, or do not wish that their physician is informed&#xD;
+&#xD;
+          -  Any contra-indication to the Equivital telemetric pill&#xD;
+&#xD;
+          -  Hypomotility disorders of the gastro-intestinal tract&#xD;
+&#xD;
+          -  Extreme early bird or extreme night person (score ≤30 or ≥70 on morning-eveningness&#xD;
+             questionnaire self assessment)&#xD;
+&#xD;
+          -  Heavily varying sleep-wake rhythm&#xD;
+&#xD;
+          -  Night shift work during last 3 months&#xD;
+&#xD;
+          -  Travel across &gt; 1 time zone in the last 3 months&#xD;
+&#xD;
+          -  Frequent engagement in programmed exercise as judged by the investigator&#xD;
+&#xD;
+          -  Significant food allergies/intolerance (seriously hampering study meals)&#xD;
+&#xD;
+          -  Participation in another biomedical study within 1 month before the first study visit&#xD;
+&#xD;
+          -  Using &gt; 400mg caffeine daily (more than 4 cups of coffee or energy drinks)&#xD;
+&#xD;
+          -  Smoking&#xD;
+&#xD;
+          -  Any acute condition, exacerbation of chronic condition, or medical history that would&#xD;
+             in the investigator's opinion interfere with the study&#xD;
+&#xD;
+          -  Antecubital veins that present tremendous difficulty in obtaining frequent blood draws&#xD;
+             (e.g. too small)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joris Hoeks, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Maastricht University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marit Kotte, MSc</last_name>
+    <phone>43 38 85 819</phone>
+    <phone_ext>+34</phone_ext>
+    <email>m.kotte@maastrichtuniversity.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Charlotte Andriessen, MSc</last_name>
+    <email>c.andriessen@maastrichtuniversity.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Maastricht University</name>
+      <address>
+        <city>Maastricht</city>
+        <state>Limburg</state>
+        <zip>6229 ER</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marit Kotte, MSc</last_name>
+      <email>m.kotte@maastrichtuniversity.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>August 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Day-night rhythm</keyword>
+  <keyword>Metabolism</keyword>
+  <keyword>Metabolic flexibility</keyword>
+  <keyword>Exercise</keyword>
+  <keyword>Glycogen</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Participant data will only discussed with other researcher on group level. We are not interested in individual participant data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

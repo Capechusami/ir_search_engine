@@ -1,0 +1,162 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620875</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-06630-01</org_study_id>
+    <nct_id>NCT05620875</nct_id>
+  </id_info>
+  <brief_title>The Association Between Delivered Oxygen and Cerebral Impact During the Use of Cardiopulmonary Bypass.</brief_title>
+  <official_title>The Association Between Delivered Oxygen and Cerebral Impact During the Use of Cardiopulmonary Bypass.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Uppsala University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Uppsala University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Uppsala University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigating the connection between delivered oxygen index and cerebral impact with COx&#xD;
+      (cerebral oximetry index) och cerebral injury markers during the routine use of&#xD;
+      cardiopulmonary bypass.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The research subjects are to be treated with CPB with according to local standards (perfusion&#xD;
+      index 2.4 x body surface area). While measuring impact on cerebral autoregulation with the&#xD;
+      aid of Near InfraRed Spectroscopy (NIRS) and brain injury markers in blood, research subjects&#xD;
+      depending on initial hemoglobin value, will divide into two subgroups: one with DO2I of &gt;280&#xD;
+      ml/min/m2, and one with DO2I of &lt;280 ml/min/m2.&#xD;
+&#xD;
+      DO2I will during CPB be calculated using the patient data monitoring system Metavision.&#xD;
+&#xD;
+      With a correlation analysis between NIRS and MAP (mean arterial pressure) a COx (Cerebral&#xD;
+      Oxymetry Index) r-value can indicate impact on cerebral autoregulation with values &gt;0.3 - 0.5&#xD;
+      during use of CPB 4.&#xD;
+&#xD;
+      Brain injury markers (Tau, Glial Fibrillary Acidic Protein (GFAP), Neurospecific Enolase&#xD;
+      (NSE)) are collected during 5 occasions during the first 24 hours and then once per day for 4&#xD;
+      days, as well as markers for AKI (S-Creatinine) in some extent.&#xD;
+&#xD;
+      Registrations during the intensive care regarding delirium, stroke or other neurological&#xD;
+      impact will also be included in the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 14, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Days</target_duration>
+  <primary_outcome>
+    <measure>COx</measure>
+    <time_frame>24 hours</time_frame>
+    <description>COx (Cerebral Oximetry Index; correlation between rSO2 values (INVOS) and mean artery pressure) that indicated impact on cerebral autoregulation on DO2 index values below set limits of 280 ml/m2/min.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain injury markers; tau, GFAP, NSE</measure>
+    <time_frame>96 hours</time_frame>
+    <description>Brain injury markers that indicate cerebral neuronal damage on DO2 index values below set limits of 280 ml/m2/min.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Cardiac; Arteriosclerosis</condition>
+  <condition>Aortic Valve Disease</condition>
+  <arm_group>
+    <arm_group_label>Group with DO2i &lt;280 ml/min/m2 during cardiopulmonary bypass</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group with DO2i &gt;280 ml/min/m2 during cardiopulmonary bypass</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cerebral injury markers</intervention_name>
+    <description>Blood tests at given time points perioperatively.</description>
+    <arm_group_label>Group with DO2i &lt;280 ml/min/m2 during cardiopulmonary bypass</arm_group_label>
+    <arm_group_label>Group with DO2i &gt;280 ml/min/m2 during cardiopulmonary bypass</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cerebral oximetry index</intervention_name>
+    <description>Cerebral oximetry index measurements with the aid of Near Infrared Spectroscopy</description>
+    <arm_group_label>Group with DO2i &lt;280 ml/min/m2 during cardiopulmonary bypass</arm_group_label>
+    <arm_group_label>Group with DO2i &gt;280 ml/min/m2 during cardiopulmonary bypass</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Cerebral injury markers in blood plasma&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        120 research subjects scheduled for coronary arterial bypass grafting surgery and/or aortic&#xD;
+        valve replacement in Uppsala University Hospital.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients scheduled for CABG and/or AVR&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Former diagnosed neurological insults, carotid stenosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karl-Henrik Grinnemo, Adj. Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Uppsala University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Henrik Arthursson, PhD student</last_name>
+    <phone>+46735247762</phone>
+    <email>henrik.arthursson@surgsci.uu.se</email>
+  </overall_contact>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>November 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Aortic Valve Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,169 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05796154</url>
+  </required_header>
+  <id_info>
+    <org_study_id>POTS SV</org_study_id>
+    <nct_id>NCT05796154</nct_id>
+  </id_info>
+  <brief_title>POTS Stroke Volume</brief_title>
+  <official_title>Hemodynamic Biomarkers for Postural Tachycardia Syndrome Using a Novel Continuous Beat-to-Beat Wearable Blood Pressure Monitor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      the investigators propose studies of a tiny, wearable, wireless, beat-to-beat blood pressure&#xD;
+      monitor that will be both a transformative research platform and an enabler of patient&#xD;
+      self-care in the diagnosis, investigation, and management of POTS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detailed Description:&#xD;
+&#xD;
+      Project Purpose: the investigators propose studies of a tiny, wearable, wireless,&#xD;
+      beat-to-beat blood pressure monitor that will be both a transformative research platform and&#xD;
+      an enabler of patient self-care in the diagnosis, investigation, and management of POTS. The&#xD;
+      2019 NIH POTS Consensus meeting stated the need for biomarkers that would i) provide&#xD;
+      physiologically-based diagnostic criteria; ii) be easily accessible and affordable; iii)&#xD;
+      reflect disease activity and response to treatment, and provide long-term outcome data; and&#xD;
+      iv) provide uniform phenotyping and a shared database for multicenter studies.&#xD;
+&#xD;
+      Current POTS heart rate (HR) diagnostic criteria may not reflect hemodynamic changes in daily&#xD;
+      life, and do not measure the underlining physiology, which is reduced stroke volume (SV) in&#xD;
+      most patients. Beat-to-beat blood pressure (BP) recordings with waveforms can derive SV. the&#xD;
+      investigators have developed an inexpensive, wearable, wireless, rechargeable, beat-to-beat&#xD;
+      BP monitor that sits behind the ear. It weighs 13 gm and samples the BP with high resolution&#xD;
+      waveforms. SV can be estimated from BP waveform shapes.&#xD;
+&#xD;
+      Research Objectives: the investigators hypothesize that SV 1) can be estimated from wearable&#xD;
+      BP monitors, and 2) will provide physiologic information for patients and physicians.&#xD;
+&#xD;
+      Aim 1: To determine the accuracy of stroke volume estimated from a novel wearable BP monitor&#xD;
+      compared to that estimated from cardiac MRI.&#xD;
+&#xD;
+      Aim 2: To determine whether stroke volume differs between healthy controls and POTS subjects&#xD;
+      during stand tests in the lab and at home Aim 3: To determine whether stroke volume&#xD;
+      correlates with heart rate at home Aim 4: To assess user satisfaction in a multicenter study.&#xD;
+&#xD;
+      Study Design &amp; Methodology:&#xD;
+&#xD;
+      Aim 1: Noninvasive BP waveforms will be acquired from 30 patients undergoing cardiac MRI. to&#xD;
+      provide accurate SV estimates. BP waveforms will be digitized at 50 Hz and SV will be&#xD;
+      estimated from BP waveforms with both published equations using parameters of the waveforms&#xD;
+      and with de novo algorithms developed using Matlab machine learning regression algorithms.&#xD;
+&#xD;
+      Aim 2: SV and HR will be recorded after 10 min headup tilt and the stand test from 20 POTS&#xD;
+      patients and 20 healthy controls. The same parameters will be recorded at home after 10 min&#xD;
+      quiet standing. the investigators will compare the home stand test and lab tilt test and&#xD;
+      stand tests.&#xD;
+&#xD;
+      Aim 3: the investigators will have the 20 symptomatic POTS patients and 20 healthy controls&#xD;
+      from Aim 2 wear the novel monitor for 12 daytime hours. the investigators will test the&#xD;
+      hypothesis that stroke volumes are lower and heart rate higher in 10-minute segments in the&#xD;
+      morning after arising and better in mid afternoon.&#xD;
+&#xD;
+      Aim 4: Devices will be provided to 3 centers who will each enroll 5 POTS patients and 5&#xD;
+      control subjects. The devices will be worn for 12 daytime hours and the data stored&#xD;
+      anonymously in the cloud. Patients and physicians will be surveyed for their impressions of&#xD;
+      wearability, esthetics, comfort, and ease of donning and doffing, as well as data handling&#xD;
+      and review. Investigators will be given access to the anonymized, searchable, explorable data&#xD;
+      set and a draft Ambulatory POTS Monitor report.&#xD;
+&#xD;
+      Anticipated Outcomes: This proposed work will provide an easily accessible, affordable&#xD;
+      platform for multicentre, physiologically-based studies of diagnosis, treatment, and&#xD;
+      long-term outcome. This will enable hemodynamic monitoring of POTS patients at home.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>the accuracy of stroke volume estimated from a novel wearable BP monitor compared to that estimated from cardiac MRI.</measure>
+    <time_frame>10 minutes pre-intervention (Cardiac MRI)</time_frame>
+    <description>that stroke volume can be accurately estimated based on ambulatory blood pressure and heart rate sequences and will diagnose POTS in patients at home, reflect clinical status, and be suitable for multicenter studies.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the accuracy of stroke volume estimated from a novel wearable BP monitor compared to that estimated from cardiac MRI.</measure>
+    <time_frame>10 minutes post-intervention( cardiac MRI)</time_frame>
+    <description>that stroke volume can be accurately estimated based on ambulatory blood pressure and heart rate sequences and will diagnose POTS in patients at home, reflect clinical status, and be suitable for multicenter studies.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>POTS</condition>
+  <arm_group>
+    <arm_group_label>ear blood pressure monitor</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ear blood pressure monitor</intervention_name>
+    <description>The ear blood pressure monitor is a biometric monitoring device that collects blood pressure non-invasively from the ear.</description>
+    <arm_group_label>ear blood pressure monitor</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Undergoing clinically indicated cardiac MRI&#xD;
+&#xD;
+               -  Between 18 and 80 years of age.&#xD;
+&#xD;
+               -  Able and willing to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Somatization or severe anxiety symptoms will be excluded&#xD;
+&#xD;
+          -  Other factors which in the investigator's opinion would prevent the participant from&#xD;
+             completing the protocol, including poor compliance during previous studies&#xD;
+&#xD;
+          -  Unable to give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>wearable BP monitor</keyword>
+  <keyword>cardiac MRI</keyword>
+  <keyword>stroke volume</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

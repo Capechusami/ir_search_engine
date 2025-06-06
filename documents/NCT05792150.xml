@@ -1,0 +1,456 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05792150</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WSG-NIS04 / PROOFS</org_study_id>
+    <nct_id>NCT05792150</nct_id>
+  </id_info>
+  <brief_title>PROOFS-Registry - Premenopausal Women With Breast Cancer Optimally Treated With OFS</brief_title>
+  <acronym>PROOFS</acronym>
+  <official_title>Real World Data and Long-term FU of Pre-/Perimenopausal Women With Luminal EBC With Intermediate to High Clinical and Low Genomic Recurrence-risk Measured by MammaPrint®, Treated by SOC ET+OFS or SOC Chemotherapy Treatment Followed by ET</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>West German Study Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Agendia</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>West German Study Group</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There is only limited data for premenopausal patients in general, as well as for differences&#xD;
+      in the use of OFS in the subgroups of pre- and perimenopausal patients, respectively. The WSG&#xD;
+      ADAPT trial data on the impact of postmenopausal status and/or use of OFS within 3-4 weeks&#xD;
+      endocrine induction therapy show relevant impact of OFS/postmenopausal status on Ki-67&#xD;
+      response; also, secondary amenorrhea after (neo-)adjuvant chemotherapy was a positive&#xD;
+      predictor of outcome due to OFS [8, 9].&#xD;
+&#xD;
+      This registry will give insights in the real-world use of OFS and the effect of secondary&#xD;
+      amenorrhea in female pre- and perimenopausal patients with or without previous use of&#xD;
+      chemotherapy and with different endocrine treatments (ET +/- GnRH).&#xD;
+&#xD;
+      As adherence over time (5-10 years) plays a major role in the endocrine treatment, the&#xD;
+      registry will follow patients' treatments for up to 10 years and include QoL information.&#xD;
+&#xD;
+      Results of MammaPrint® (MammaPrint® Index) as indicating factor for chemotherapy use and risk&#xD;
+      classification, thus, choice of adjuvant treatment (chemotherapy, OFS combined with endocrine&#xD;
+      therapy, or endocrine therapy alone) will be correlated to outcome under real-world&#xD;
+      conditions.&#xD;
+&#xD;
+      Baseline, treatment, and relapse data shall be collected to gain further insight in the&#xD;
+      treatment paths, treatment adherence, and outcome of such patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This registry aims&#xD;
+&#xD;
+        -  to confirm an excellent outcome in pre-/perimenopausal patients treated by endocrine&#xD;
+           therapy (+ ovarian suppression) in patients with low genomic risk by MammaPrint® without&#xD;
+           chemotherapy use in a real-world setting.&#xD;
+&#xD;
+        -  to evaluate management of ovarian function in patients treated by adjuvant chemotherapy&#xD;
+           according to investigator decision.&#xD;
+&#xD;
+        -  to evaluate adherence to endocrine therapy (+/- ovarian function suppression).&#xD;
+&#xD;
+        -  to evaluate the prognostic impact of clinicopathological markers (e.g., estrogen&#xD;
+           receptor (ER), progesterone receptor (PR), HER2 receptor, Ki-67 at baseline and after&#xD;
+           preoperative endocrine therapy (if any performed) by local pathology assessment compared&#xD;
+           to genomic signature result.&#xD;
+&#xD;
+        -  to assess the course of quality of life (QLQ BR23 and QLQ-C30) until 5 years of&#xD;
+           treatment with OFS (Baseline, 3 months, 6 months, 12 months, 18 months, 2 years, 3&#xD;
+           years, 4 years, 5 years)&#xD;
+&#xD;
+      In general, WSG aim to assess the quality of surveillance care in younger breast cancer&#xD;
+      patients. WSG want to gain knowledge about endocrine induction treatment for indication of&#xD;
+      chemotherapy followed by endocrine treatment or endocrine treatment alone. Also, WSG aim at&#xD;
+      changes in duration of endocrine treatment (especially in high-risk patients up to 10 years)&#xD;
+      and introduction of intensified endocrine therapy (OFS) in combination with GnRH-analogues&#xD;
+      since publication of the SOFT and TEXT trials.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 7, 2022</start_date>
+  <completion_date type="Anticipated">June 2035</completion_date>
+  <primary_completion_date type="Anticipated">March 2035</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>10 Years</target_duration>
+  <primary_outcome>
+    <measure>5-year distant recurrence-free interval (dRFI, according to STEEP criteria version 2.0)</measure>
+    <time_frame>5 years</time_frame>
+    <description>dRFIin all patients treated by (intensified) endocrine therapy alone (and with ovarian suppression in cases with enhanced clinical risk according to current AGO-recommendations)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>10-year dRFI</measure>
+    <time_frame>10 years</time_frame>
+    <description>dRFI, according to STEEP criteria 2.0, in all patients treated by (intensified) endocrine therapy alone (with ovarian suppression in cases with higher clinical risk)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5-year dRFI</measure>
+    <time_frame>5 years</time_frame>
+    <description>dRFI, according to STEEP criteria 2.0,in all patients treated by SOC chemotherapy treatment followed by ET+/-OFS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>10-year dRFI</measure>
+    <time_frame>10 years</time_frame>
+    <description>dRFI, according to STEEP criteria 2.0,in all patients treated by SOC chemotherapy treatment followed by ET+/-OFS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5-year dDFS</measure>
+    <time_frame>5 years</time_frame>
+    <description>distant disease-free survival (dDFS, according to STEEP 2.0) in all patients and all treatment groups (i.e., patients treated by ET alone, ET + GnRH, chemotherapy followed by ET, chemotherapy followed by ET + GnRH, OFS-treated patients)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>10-year dDFS</measure>
+    <time_frame>10 years</time_frame>
+    <description>distant disease-free survival (dDFS, according to STEEP 2.0) in all patients and all treatment groups (i.e., patients treated by ET alone, ET + GnRH, chemotherapy followed by ET, chemotherapy followed by ET + GnRH, OFS-treated patients)treatment followed by ET+/-OFS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5-year OS</measure>
+    <time_frame>5 years</time_frame>
+    <description>overall survival (OS) in all patients and all treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>10-year OS</measure>
+    <time_frame>10 years</time_frame>
+    <description>overall survival (OS) in all patients and all treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5-year breast cancer-free interval (BCFI, according to STEEP 2.0)</measure>
+    <time_frame>5 years</time_frame>
+    <description>BCFI in all patients and all treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>10-year breast cancer-free interval (BCFI, according to STEEP 2.0)</measure>
+    <time_frame>10 years</time_frame>
+    <description>BCFI in all patients and all treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC quality of life questionnaire BR23</measure>
+    <time_frame>every 3 months within 1st year</time_frame>
+    <description>compare the course of Qol between baseline and further defined timepoints; 23 items, symptom scales/items and functional scales/items, all of the scales and single-item measures range in score from 0 to 100. A high score for the functional scales represents a high/healthy level of functioning, whilst a high score for the symptom scales represents a high level of symptomatology or problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC quality of life questionnaire C30</measure>
+    <time_frame>every 3 months within 1st year</time_frame>
+    <description>compare the course of Qol between baseline and further defined timepoints; 30 items, 10 subscales, the higher the rating, the worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC quality of life questionnaire BR23</measure>
+    <time_frame>every 6 months within 2nd year</time_frame>
+    <description>compare the course of Qol between baseline and further defined timepoints; 23 items, symptom scales/items and functional scales/items, all of the scales and single-item measures range in score from 0 to 100. A high score for the functional scales represents a high/healthy level of functioning, whilst a high score for the symptom scales represents a high level of symptomatology or problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC quality of life questionnaire C30</measure>
+    <time_frame>every 6 months within 2nd year</time_frame>
+    <description>compare the course of Qol between baseline and further defined timepoints; 30 items, 10 subscales, the higher the rating, the worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC quality of life questionnaire BR23</measure>
+    <time_frame>yearly until 5 years</time_frame>
+    <description>compare the course of Qol between baseline and further defined timepoints; 23 items, symptom scales/items and functional scales/items, all of the scales and single-item measures range in score from 0 to 100. A high score for the functional scales represents a high/healthy level of functioning, whilst a high score for the symptom scales represents a high level of symptomatology or problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC quality of life questionnaire C30</measure>
+    <time_frame>yearly until 5 years</time_frame>
+    <description>compare the course of Qol between baseline and further defined timepoints; 30 items, 10 subscales, the higher the rating, the worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>adherence to OFS and endocrine treatment</measure>
+    <time_frame>10 years</time_frame>
+    <description>Duration of intake of OFS and endocrine treatment in all patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>concordance between BluePrint®/MammaPrint® molecular subtyping results vs. pathological immune-histochemistry results</measure>
+    <time_frame>10 years</time_frame>
+    <description>concordance between BluePrint®/MammaPrint® molecular subtyping results and pathological immune-histochemistry results with respect to tumour type</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>endocrine response measured by post-endocrine Ki-67</measure>
+    <time_frame>10 years</time_frame>
+    <description>post-endocrine Ki-67 (≤10% and/or relative change vs. baseline) in patients treated by preoperative ET</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5-year iDFS in node-negative patients with ultralow MammaPrint</measure>
+    <time_frame>5 years</time_frame>
+    <description>node-negative patients with ultralow MammaPrint® treated by shorter duration of ET (2-3 years at investigator decision)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>10-year iDFS in node-negative patients with ultralow MammaPrint</measure>
+    <time_frame>10 years</time_frame>
+    <description>node-negative patients with ultralow MammaPrint® treated by shorter duration of ET (2-3 years at investigator decision)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1470</enrollment>
+  <condition>Female Breast Cancer</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        For this registry, it is planned to screen N=3000 pre- and perimenopausal patients with&#xD;
+        early breast cancer who meet the inclusion criteria, i.e., intermediate to high clinical&#xD;
+        risk for recurrence, and who will receive or have received a routine genomic testing by&#xD;
+        MammaPrint® with a low/ultralow genomic risk.&#xD;
+&#xD;
+        It is anticipated that 75% of these patients will be nodal negative and 25% nodal positive.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients are eligible for participation in the registry only if they meet all the following&#xD;
+        criteria:&#xD;
+&#xD;
+          -  Female breast cancer patients&#xD;
+&#xD;
+          -  Pre- or perimenopausal at registry entry (age &lt;60 years and state after hysterectomy&#xD;
+             or amenorrhea for &lt;12 months; confirmation by blood hormone levels (FSH and estradiol&#xD;
+             in premenopausal range as per local normal range) recommended)&#xD;
+&#xD;
+          -  Primary tumor diagnosis not older than three months prior to inclusion (primary&#xD;
+             diagnosis defined as date of initial tumor biopsy)&#xD;
+&#xD;
+          -  Estrogen- and/or progesterone-receptor-positive/HER2 negative early breast cancer&#xD;
+             without any clinical signs of metastases&#xD;
+&#xD;
+          -  Adequate risk for recurrence:&#xD;
+&#xD;
+          -  intermediate clinical risk for recurrence, defined as (clinical in case of neoadjuvant&#xD;
+             treatment):&#xD;
+&#xD;
+          -  c/pT1 and&#xD;
+&#xD;
+          -  c/pN0 and&#xD;
+&#xD;
+          -  Ki-67 15-24% or&#xD;
+&#xD;
+          -  G2 or&#xD;
+&#xD;
+          -  patients, who do not meet these criteria but are at intermediate clinical risk for&#xD;
+             recurrence at investigator decision (e.g., very young age, low expression of hormone&#xD;
+             receptors, existing co-morbidities, familial cancer burden, etc.) can be included on&#xD;
+             individual decision basis or&#xD;
+&#xD;
+          -  high clinical risk for recurrence, defined as either (clinical in case of neoadjuvant&#xD;
+             treatment):&#xD;
+&#xD;
+          -  c/pT2-4 or&#xD;
+&#xD;
+          -  c/pN1 or&#xD;
+&#xD;
+          -  Ki-67 ≥25% or&#xD;
+&#xD;
+          -  G3&#xD;
+&#xD;
+          -  Low genomic risk of recurrence by MammaPrint® (tested on treatment naïve tumor&#xD;
+             specimen)&#xD;
+&#xD;
+          -  Luminal-type by BluePrint®&#xD;
+&#xD;
+          -  Treatment according to standard-of-care (e.g., AGO Guidelines) planned or started&#xD;
+             (until completion of local therapy the latest (including started or completed&#xD;
+             endocrine induction therapy), started, or planned adjuvant or neoadjuvant treatment)&#xD;
+&#xD;
+          -  Availability of untreated tumor material (core biopsy if preoperative endocrine&#xD;
+             therapy performed or neoadjuvant treatment intended or surgery specimen)&#xD;
+&#xD;
+          -  Capability to give written informed consent&#xD;
+&#xD;
+          -  Nodal positive patients will be accepted to the registry up to 25% of the genomic&#xD;
+             low/ultralow-risk population (n=441).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients will not be eligible for the registry for any of the following reasons:&#xD;
+&#xD;
+          -  Any other genomic testing, besides MammaPrint®, has been performed on the tumor&#xD;
+             material&#xD;
+&#xD;
+          -  Medical or psychological conditions that would not permit the patient to sign informed&#xD;
+             consent&#xD;
+&#xD;
+          -  Legal incapacity or limited legal capacity&#xD;
+&#xD;
+          -  Current participation in any interventional clinical trial which tests anticancer&#xD;
+             drugs, immunotherapeutics, or antibody treatment for any type of neoplasm&#xD;
+&#xD;
+          -  Non-compliance of the patient&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oleg Gluz, PD Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Westdeutsche Studiengruppe GmbH</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rachelq Wuerstlein, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Westdeutsche Studiengruppe GmbH</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Monika Graeser, PD Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Westdeutsche Studiengruppe GmbH</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nadia Harbeck, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>LMU Clinics, Breast Centre and CCC</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sherko Kuemmel, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>KEM, Clinics Essen-Mitte</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ulrike Nitz, Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Westdeutsche Studiengruppe GmbH</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andreas Hartkopf, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Univewrsity Hospital Tuebingen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Severine Bender</last_name>
+    <phone>00492161566 23-0</phone>
+    <email>severine.bender@wsg-online.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anja Braschoss, MD</last_name>
+    <phone>04917682119153</phone>
+    <email>anja.braschoss@wsg-online.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brustzentrum Niederrhein, Johanniter Bethesda Krankenhaus</name>
+      <address>
+        <city>Moenchengladbach</city>
+        <state>NRW</state>
+        <zip>41061</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Oleg Gluz, PD. Dr. med.</last_name>
+      <email>oleg.gluz@wsg-online.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Iris Scheffen, Dr. med.</last_name>
+      <email>iris.scheffen@wsg-online.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Oleg Gluz, PD Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marienhospital, Klinik für Gynäkologie und Geburtshilfe</name>
+      <address>
+        <city>Bottrop</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hans-Christian Kolberg, PD Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Helios Klinikum Krefeld, Zentrum für Ambulante Gynäkologische Onkologie - Studienabteilung</name>
+      <address>
+        <city>Krefeld</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gunther Rogmans, Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MKS St. Paulus Schwerte (ehemals Marienkrankenhaus)</name>
+      <address>
+        <city>Schwerte</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Wetzig</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Traunstein, Frauenklinik Südostbayern</name>
+      <address>
+        <city>Traunstein</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Schindlbeck, Prof. Dr.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HR+</keyword>
+  <keyword>HER2-</keyword>
+  <keyword>EBC</keyword>
+  <keyword>early breast cancer</keyword>
+  <keyword>female</keyword>
+  <keyword>OFS</keyword>
+  <keyword>ET</keyword>
+  <keyword>chemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

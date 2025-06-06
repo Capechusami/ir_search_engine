@@ -1,0 +1,383 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05075122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KKSH176</org_study_id>
+    <secondary_id>2020-005910-17</secondary_id>
+    <nct_id>NCT05075122</nct_id>
+  </id_info>
+  <brief_title>Tolerability and Efficacy of UV1 Vaccine in Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma Planned for First-line Treatment With Pembrolizumab</brief_title>
+  <acronym>FOCUS</acronym>
+  <official_title>Phase 2 Multicenter Study Investigating the Tolerability and Efficacy of UV1 Vaccine in Patients With Recurrent or Metastatic PD-L1 Positive (CPS≥1) Head and Neck Squamous Cell Carcinoma Planned for First-line Treatment With Pembrolizumab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Martin-Luther-Universität Halle-Wittenberg</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ultimovacs ASA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Apotheke der Universitätsmedizin der Johannes Gutenberg-Universität Mainz (Germany)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Axel Hinke. CCRC Cancer Clinical Research Consulting (Düsseldorf, Germany</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Martin-Luther-Universität Halle-Wittenberg</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to determine the clinical performance of UV1&#xD;
+      vaccination as add on to standard pembrolizumab treatment in patients with recurrent or&#xD;
+      metastatic PD-L1 positive (CPS &gt;=1) head and neck squamous cell carcinoma. Secondary&#xD;
+      objectives are to determine the efficacy in terms of overall survival ,objective response&#xD;
+      rate and duration of response. Moreover, this study will explore patient subgroups most&#xD;
+      likely deriving benefit from a targeted immunotherapy approach combining a checkpoint&#xD;
+      inhibitor with a cancer vaccine and help to establish liquid biopsy tumor monitoring in&#xD;
+      HNSCC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Overall survival of patients with metastatic or recurrent HNSCC has improved over the past&#xD;
+      decade but remains poor overall. Median overall survival is limited to less than 15 months,&#xD;
+      with the current standard of care (immune checkpoint blockade with or without chemotherapy).&#xD;
+      Many patients with HNSCC are frail and therefore cannot tolerate chemotherapy, reducing their&#xD;
+      treatment options to checkpoint inhibitor. Therefore, the development of effective and&#xD;
+      tolerable combination regimens is urgently needed, especially in first-line therapy. The&#xD;
+      FOCUS study will evaluate such a combination regimen in patients with metastatic or recurrent&#xD;
+      HNSCC. The experimental regimen evaluated in this study will test the first-line standard&#xD;
+      drug pembrolizumab in combination with the novel UV1 cancer vaccine. In the comparator arm,&#xD;
+      patients receive pembrolizumab as the standard of care. The aim is to assess whether the&#xD;
+      addition of UVI can increase the efficacy of the checkpoint inhibitor. Based on currently&#xD;
+      available data, a decrease in efficacy due to the combination of standard first-line therapy&#xD;
+      with pembrolizumab is unlikely. The FOCUS study could therefore establish a new 1st-line&#xD;
+      regimen with increased efficacy and acceptable tolerability, which would need to be compared&#xD;
+      with the standard of care in a larger phase III trial. Based on the biomarker data from the&#xD;
+      FOCUS study, a subsequent Phase 3 study would potentially test the regimen only in&#xD;
+      subpopulations with increased response probability. From the perspective of the individual&#xD;
+      patient, participants may benefit from the experimental combination through improved&#xD;
+      efficacy. On the other hand, this is a novel combination study for HNSCC, and there is a risk&#xD;
+      that efficacy may not improve.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 2, 2021</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival rate</measure>
+    <time_frame>6 months after first administration of study medication</time_frame>
+    <description>according to iRECIST</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>every three months, until progression of disease, maximum 12 months from the date of LPI (last patient in)</time_frame>
+    <description>according to iRECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>every three months, until death, maximum 12 months from the date of LPI (last patient in)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>every three months, until death, maximum 12 months from the date of LPI (last patient in)</time_frame>
+    <description>Complete Remission (CR) + Partial Remission (PR) according to iRECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>every three months, until death, maximum 12 months from the date of LPI (last patient in)</time_frame>
+    <description>according to iRECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of immune responses against hTERT peptides</measure>
+    <time_frame>Baseline, up to 8 weeks, time of progression (max. 12 months after LPI)</time_frame>
+    <description>measured by 3H-Thymidine proliferation and IFNgamma ELISPOT assays</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of clearance of ctDNA from blood on treatment</measure>
+    <time_frame>Baseline, week 5, week 8 and 1, 3, 6 months after EOT (max. 14 weeks), time of progression (max. 12 months after LPI)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>3 months after EOT (maximum 25 weeks after start of treatment)</time_frame>
+    <description>according to NCI CTC AE v5.0</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Head and Neck Squamous Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Vaccination arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pembrolizumab flat dose iv every 3 weeks + UV1 vaccination (UV1 plus GM-CSF/Sargramostim as adjuvant per vaccination)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Calibration arm</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Pembrolizumab flat dose iv every 3 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>UV1</intervention_name>
+    <description>UV1 vaccination (300 μg) UV1 vaccination will be applied in a dense schedule with three vaccinations during one week before initiation of pembrolizumab, followed by 5 additional vaccinations every 3 weeks on d1 of each cycle (5 cycles in total, duration of treatment will be 13 weeks in total, regular EOT at week 14)</description>
+    <arm_group_label>Vaccination arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sargramostim for Injection</intervention_name>
+    <description>75 μg GM-CSF as adjuvant per vaccination. Applied in a dense schedule with three injections during one week before initiation of pembrolizumab, followed by 5 additional injections every 3 weeks on d1 of each cycle (5 cycles in total, duration of treatment will be 13 weeks in total, regular EOT at week 14).</description>
+    <arm_group_label>Vaccination arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab injection</intervention_name>
+    <description>200mg flat dose iv every 3 weeks. Pembrolizumab will be administered beyond the EOT visit at physician discretion until disease progression and up to a maximum of two years (standard of care)</description>
+    <arm_group_label>Calibration arm</arm_group_label>
+    <arm_group_label>Vaccination arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed diagnosis of a non-resectable recurrent or metastatic head&#xD;
+             and neck squamous cell carcinoma (not necessarily reconfirmed at time of enrolment)&#xD;
+&#xD;
+          -  At least one measurable tumor lesion as per RECIST v1.1, (Scan not older than 4 weeks&#xD;
+             before randomization)&#xD;
+&#xD;
+          -  Eligible for pembrolizumab monotherapy (PD-L1 CPS &gt;/= 1% and adequate laboratory&#xD;
+             parameters for pembrolizumab monotherapy as assessed by the investigator)&#xD;
+&#xD;
+          -  ECOG-performance score 0-2&#xD;
+&#xD;
+          -  Written informed consent obtained according to international guidelines and local laws&#xD;
+&#xD;
+          -  Ability to understand and give informed consent.&#xD;
+&#xD;
+          -  Safe contraception measures for males and females. Procedures with a pearl index of&#xD;
+             less than 1% apply as safe pregnancy prevention measures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients for whom a combination therapy of a checkpoint inhibitor and a chemotherapy&#xD;
+             is deemed necessary in the opinion of the investigator&#xD;
+&#xD;
+          -  Participation in another interventional study simultaneously and within the last 30&#xD;
+             days prior to inclusion (registries or observational studies allowed)&#xD;
+&#xD;
+          -  Concurrent malignancies other than disease under study within 5 years prior to&#xD;
+             inclusion, with the exception of those with a negligible risk of metastasis or death&#xD;
+             (e.g., expected 5-year OS &gt; 90%) treated with expected curative outcome&#xD;
+&#xD;
+          -  Active, known, or suspected autoimmune disease requiring systemic treatment.&#xD;
+&#xD;
+          -  A concomitant therapy with systemic immune suppression: use of chronic systemic&#xD;
+             steroid medication (up to 5 mg/day prednisolone equivalent is allowed; patients using&#xD;
+             physiological replacement doses of prednisone for adrenal or pituitary insufficiency&#xD;
+             are eligible)&#xD;
+&#xD;
+          -  History of severe autoimmune disorder or history of organ transplant&#xD;
+&#xD;
+          -  Any serious or uncontrolled medical disorder or active infection that, in the opinion&#xD;
+             of the investigator, may increase the risk associated with study participation, study&#xD;
+             drug administration, or would impair the ability of the subject to receive study drug.&#xD;
+&#xD;
+          -  Significant acute or chronic infections including, among others (test not older than 4&#xD;
+             weeks prior to randomization): Any positive test for human immunodeficiency virus&#xD;
+             (HIV) or known acquired immunodeficiency syndrome (AIDS), Any positive test result for&#xD;
+             hepatitis B virus or hepatitis C virus indicating acute or chronic infection.&#xD;
+&#xD;
+          -  Pregnancy or lactation&#xD;
+&#xD;
+          -  (Bacterial) infections requiring systemic antibiotic treatment within 2 weeks prior to&#xD;
+             first dose of study treatment (depending on group assignment: either prior to first&#xD;
+             UV1 or prior to first pembrolizumab administration).&#xD;
+&#xD;
+          -  History of allergy or hypersensitivity to study drug or human granulocyte-macrophage&#xD;
+             colony stimulating factor, yeast-derived products or any constituent of the products&#xD;
+&#xD;
+          -  Receipt of a live vaccine within 30 days prior to start of therapy&#xD;
+&#xD;
+          -  Patient who has been incarcerated or involuntarily institutionalized by court order or&#xD;
+             by the authorities.&#xD;
+&#xD;
+          -  Patients who are unable to consent because they do not understand the nature,&#xD;
+             significance and implications of the clinical study and therefore cannot form a&#xD;
+             rational intention in the light of the facts.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mascha Binder, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Medical Center Halle, Department of Hematology and Oncology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mascha Binder, MD</last_name>
+    <phone>0049 345 557</phone>
+    <phone_ext>2054</phone_ext>
+    <email>mascha.binder@uk-halle.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christine Dierks, MD</last_name>
+    <phone>0049 345 557</phone>
+    <phone_ext>2590</phone_ext>
+    <email>christine.dierks@uk-halle.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Aachen, Klinik für Hämatologie, Onkologie, Hämostaseologie</name>
+      <address>
+        <city>Aachen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charité Universitätsmedizin, Comprehensive Cancer Center, Medizinische Klinik m.S. Hämatologie, Onkologie und Tumorimmunologie</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Greifswald, Klinik für Hals-, Nasen-, Ohrenkrankheiten, Kopf- und Halschirurgie</name>
+      <address>
+        <city>Greifswald</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Halle (Saale), Klinik und Poliklinik für Innere Medizin IV</name>
+      <address>
+        <city>Halle (Saale)</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Hamburg, Universitäres Cancer Center Hamburg UCCH, Hubertus Wald Tumorzentrum</name>
+      <address>
+        <city>Hamburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum St. Georg gGmbH</name>
+      <address>
+        <city>Leipzig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Leipzig, Klinik und Poliklinik für HNO Heilkunde</name>
+      <address>
+        <city>Leipzig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Mainz, III. Medizinische Klinik und Poliklinik</name>
+      <address>
+        <city>Mainz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Stuttgart, Klinik für Hämatologie, Onkologie und Palliativmedizin</name>
+      <address>
+        <city>Stuttgart</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Würzburg, Comprehensive Cancer Center Mainfranken</name>
+      <address>
+        <city>Würzburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>July 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>March 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Martin-Luther-Universität Halle-Wittenberg</investigator_affiliation>
+    <investigator_full_name>Mascha Binder, MD</investigator_full_name>
+    <investigator_title>Prof. Dr. med.</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

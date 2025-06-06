@@ -1,0 +1,396 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05076513</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-13</org_study_id>
+    <nct_id>NCT05076513</nct_id>
+  </id_info>
+  <brief_title>Trial of Niraparib in Participants With Newly-diagnosed Glioblastoma and Recurrent Glioma</brief_title>
+  <official_title>A Phase 0 'Trigger' Trial of Niraparib in Newly-diagnosed Glioblastoma and Recurrent IDH1/2(+) ATRX Mutant Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nader Sanai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Barrow Neurological Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ivy Brain Tumor Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>St. Joseph's Hospital and Medical Center, Phoenix</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multi-center Phase 0 study with an expansion phase that will enroll up&#xD;
+      to 24 participants with newly-diagnosed glioblastoma and up to 18 recurrent glioma&#xD;
+      participants with IDH mutation and ATRX loss. The trial will be composed of a Phase 0&#xD;
+      component (subdivided into Arm A and B) and a therapeutic expansion phase. Patients with&#xD;
+      tumors demonstrating a positive PK Response (in Arm A) or a positive PD Response (in Arm B)&#xD;
+      of the Phase 0 component of the study will graduate to a therapeutic expansion phase that&#xD;
+      combines therapeutic dosing of niraparib plus standard-of-care fractionated radiotherapy (in&#xD;
+      Arm A) or niraparib monotherapy (in Arm B) until progression of disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 29, 2021</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 0 Arm A: Total and unbound niraparib concentration in enhancing and nonenhancing tissue</measure>
+    <time_frame>Day 4 Intra-operative sample</time_frame>
+    <description>Tumor to plasma partition coefficients of niraparib for total (Kp) and unbound (Kp,uu) drug levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 0 Arm B: Presence of Chromosomal fusion</measure>
+    <time_frame>Day 4 Intra-operative sample</time_frame>
+    <description>Presence of chromosomal fusion with the cutoff CT value of 35 in niraparib treated glioma tissue with IDH and ATRX loss.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 0 Expansion Arm A: Progression-free survival in participants with demonstrated PK effects</measure>
+    <time_frame>6 months</time_frame>
+    <description>6 month progression-free survival (PFS6) rate measured from the time of surgery to date of recurrence.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 0 Expansion Arm B: Progression-free survival in participants with demonstrated PD effects</measure>
+    <time_frame>6 months</time_frame>
+    <description>6 month progression-free survival (PFS6) rate measured from the time of surgery to date of recurrence.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Drug-related toxicity</measure>
+    <time_frame>24 months</time_frame>
+    <description>Incidence of drug-related toxicity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>24 months</time_frame>
+    <description>Number of adverse events through study completion, assessed up to 24 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths</measure>
+    <time_frame>24 months</time_frame>
+    <description>Number and incidence of deaths</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinical laboratory abnormalities per CTCAE</measure>
+    <time_frame>Up to 30 days after the last study dose</time_frame>
+    <description>Clinical laboratory abnormalities per CTCAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>48 months</time_frame>
+    <description>Median overall survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 0 Arm A: Pharmacodynamics (PD) of niraparib</measure>
+    <time_frame>Day 4 Intra-operative Tissue</time_frame>
+    <description>Quantification of percentage of PAR positive cells with IHC assay or PAR concentration in tumor homogenates with an HT PARP pharmacodynamic assay II.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 0 Arm B: Pharmacokinetics (PK) of niraparib</measure>
+    <time_frame>Day 4 Intra-operative Tissue</time_frame>
+    <description>Total and unbound niraparib concentration in Gd-enhancing and non-enhancing tumor tissue</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Glioblastoma</condition>
+  <condition>Glioblastoma Multiforme</condition>
+  <condition>Glioma</condition>
+  <condition>GBM</condition>
+  <condition>Glioma, Malignant</condition>
+  <condition>Glioblastoma Multiforme of Brain</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Presumed Newly-Diagnosed glioblastoma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants undergoing resection for a presumed newly-diagnosed glioblastoma (WHO grade 4) will be treated with niraparib for 4 days prior to surgical resection. Participants who proceed to the therapeutic expansion phase of this study will receive niraparib in combination with radiation (60 Gy over 6-7 weeks, as per standard of care). Following radiotherapy, eligible study participants may receive niraparib maintenance treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Recurrent Glioma (Grades II-IV)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants undergoing resection of a recurrent WHO Grade II, III, or IV glioma with IDH1 or IDH2 mutation and ATRX loss will be treated with niraparib for 4 days prior to a planned surgical resection. Participants who proceed to the Expansion cohort will receive niraparib in 28d cycles after surgery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Niraparib</intervention_name>
+    <description>In Phase 0, 300mg administered orally QD for 4 days prior to resection.&#xD;
+In the Expansion cohort/Maintenance phase, niraparib will be administered as described below:&#xD;
+For patients weighing &lt;77 kg (&lt;170 lbs) OR with a platelet count &lt;150,000/mcL, the recommended dosage is 200 mg taken orally once daily.&#xD;
+For patients weighing ≥77 kg (≥170 lbs) AND a platelet count ≥150,000/ mcL, the recommended dosage is 300 mg taken orally once daily.</description>
+    <arm_group_label>Arm A: Presumed Newly-Diagnosed glioblastoma</arm_group_label>
+    <arm_group_label>Arm B: Recurrent Glioma (Grades II-IV)</arm_group_label>
+    <other_name>Zejula</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation therapy</intervention_name>
+    <description>Participants in Arm A who move onto the Expansion cohort will receive 6-7 weeks of radiation therapy per standard of care.</description>
+    <arm_group_label>Arm A: Presumed Newly-Diagnosed glioblastoma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Arm A participants undergoing resection for a suspected newly diagnosed glioblastoma.&#xD;
+             For Arm B, participants undergoing resection who have had a prior resection of&#xD;
+             histologically diagnosed WHO grade II-IV glioma with IDH1 or IDH2 mutation and ATRX&#xD;
+             loss.&#xD;
+&#xD;
+          2. Arm A participants must have measurable disease preoperatively, defined as at least 1&#xD;
+             contrast-enhancing lesion, with 2 perpendicular measurements of at least 1 cm.&#xD;
+&#xD;
+          3. Ability to understand and the willingness to sign a written informed consent document&#xD;
+             (personally or by the legally authorized representative, if applicable).&#xD;
+&#xD;
+          4. Participant has voluntarily agreed to participate by giving written informed consent&#xD;
+             (personally or via legally authorized representative(s), and assent if applicable).&#xD;
+             Written informed consent for the protocol must be obtained prior to any screening&#xD;
+             procedures. If consent cannot be expressed in writing, it must be formally documented&#xD;
+             and witnessed, ideally via an independent trusted witness.&#xD;
+&#xD;
+          5. Willingness and ability to comply with scheduled visits, treatment plans, laboratory&#xD;
+             tests and other procedures.&#xD;
+&#xD;
+          6. Age ≥18 at time of consent&#xD;
+&#xD;
+          7. Have a performance status (PS) of ≤2 on the Eastern Cooperative Oncology (Group (ECOG)&#xD;
+             scale (Oken et al. 1982)&#xD;
+&#xD;
+          8. Ability to swallow oral medications.&#xD;
+&#xD;
+          9. Confirmed negative serum pregnancy test (β-hCG) before starting study treatment or&#xD;
+             participant who is no longer of childbearing potential due to surgical, chemical, or&#xD;
+             natural menopause. If the serum pregnancy test is completed &gt; 7 days from Day 1, a&#xD;
+             urine pregnancy test will be done to confirm a negative result prior to Day 1 dose&#xD;
+             administration.&#xD;
+&#xD;
+         10. For females of reproductive potential: use of highly effective contraception for at&#xD;
+             least 1 month prior to treatment and agreement to use such a method during study&#xD;
+             participation and for an additional 6 months after the end of treatment&#xD;
+             administration.&#xD;
+&#xD;
+         11. For males of reproductive potential: use of condoms or other methods to ensure&#xD;
+             effective contraception with partner and for an additional 3 months after the end of&#xD;
+             treatment administration. Avoid sperm donation for duration of the study and for an&#xD;
+             additional 6 months after the end of treatment administration.&#xD;
+&#xD;
+         12. Agreement to adhere to Lifestyle Considerations throughout study duration.&#xD;
+&#xD;
+         13. Participants who received chemotherapy must have recovered (Common Terminology&#xD;
+             Criteria for Adverse Events [CTCAE] Grade ≤1) from the acute effects of chemotherapy&#xD;
+             except for residual alopecia or Grade 2 peripheral neuropathy prior to Day 1. A&#xD;
+             washout period of at least 21 days is required between last chemotherapy and Day 1.&#xD;
+&#xD;
+         14. Females of child-bearing potential must agree not to breastfeed starting at screening,&#xD;
+             throughout the study period and for 6 months after final study drug administration.&#xD;
+&#xD;
+         15. Participant has normal blood pressure or adequately treated and controlled&#xD;
+             hypertension (Defined as systolic BP ≤140 mmHg and diastolic BP ≤90 mmHg).&#xD;
+&#xD;
+         16. Participant has adequate bone marrow and organ function as defined by the following&#xD;
+             laboratory values (as assessed by the local laboratory for eligibility):&#xD;
+&#xD;
+               -  Adequate Bone Marrow Function:&#xD;
+&#xD;
+                    -  Absolute Neutrophil Count ≥1,500/mcL&#xD;
+&#xD;
+                    -  Platelets (at time of surgery) ≥100,000/mcL&#xD;
+&#xD;
+                    -  Hemoglobin ≥9.0 g/dL. Participants may receive erythrocyte transfusions to&#xD;
+                       achieve this hemoglobin level at the discretion of the investigator. Initial&#xD;
+                       treatment must not begin earlier than the day after the erythrocyte&#xD;
+                       transfusion.&#xD;
+&#xD;
+               -  Adequate Hepatic Function:&#xD;
+&#xD;
+                    -  Total Bilirubin ≤1.5 X ULN. Participants with Gilbert's syndrome with a&#xD;
+                       total bilirubin ≤2.0 times ULN and direct bilirubin within normal limits are&#xD;
+                       permitted.&#xD;
+&#xD;
+                    -  AST(SGOT) ≤2.5 X institutional ULN&#xD;
+&#xD;
+                    -  ALT(SGPT) ≤2.5 X institutional ULN&#xD;
+&#xD;
+               -  Adequate Renal Function:&#xD;
+&#xD;
+                    -  Estimated glomerular filtration rate (eGFR) ≥ 30 mL/min/1.73 m2 by Chronic&#xD;
+                       Disease Epidemiology Collaboration (CKD-EPI) equation&#xD;
+&#xD;
+               -  INR ≤1.5 x ULN&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current use of coumarin-derived anticoagulant for treatment, prophylaxis or otherwise,&#xD;
+             that cannot be discontinued prior to surgery. Therapy with heparin, low molecular&#xD;
+             weight heparin (LMWH) or fondaparinux is allowed.&#xD;
+&#xD;
+          2. Pregnancy or lactation.&#xD;
+&#xD;
+          3. Known allergic reactions to components of the niraparib tablet, including FD&amp;C Yellow&#xD;
+             No. 5..&#xD;
+&#xD;
+          4. Active infection or fever &gt;38.5°C requiring systemic antibiotic, antifungal or&#xD;
+             antiviral therapy within 4 weeks of Day 1.&#xD;
+&#xD;
+          5. Known to have active (acute or chronic) or uncontrolled severe infection, liver&#xD;
+             disease such as cirrhosis, decompensated liver disease, and active and chronic&#xD;
+             hepatitis as determined by the investigator.&#xD;
+&#xD;
+          6. Known active systemic bacterial infection (requiring intravenous [IV] antibiotics at&#xD;
+             time of initiating study treatment), fungal infection, or detectable viral infection&#xD;
+             (such as known human immunodeficiency virus positivity or with known active hepatitis&#xD;
+             B or C [for example, hepatitis B surface antigen positive]. Screening is not required&#xD;
+             for enrollment.&#xD;
+&#xD;
+          7. Any of the following cardiovascular criteria:&#xD;
+&#xD;
+               -  Current evidence of cardiac ischemia&#xD;
+&#xD;
+               -  Current symptomatic pulmonary embolism&#xD;
+&#xD;
+               -  Acute myocardial infarction ≤ 6 months prior to Day 1&#xD;
+&#xD;
+               -  Heart failure of New York Heart Association Classification III or IV ≤ 6 months&#xD;
+                  prior to Day 1 (Appendix 13.2)&#xD;
+&#xD;
+               -  Grade ≥ 2 ventricular arrhythmia ≤ 6 months prior to Day 1&#xD;
+&#xD;
+               -  Cerebral vascular accident (CVA) or transient ischemic attack (TIA) ≤ 6 months&#xD;
+                  prior to Day 1&#xD;
+&#xD;
+          8. Participant has myelodysplastic syndrome/acute myeloid leukemia or with features&#xD;
+             suggestive of MDS/AML.&#xD;
+&#xD;
+          9. Participant has serious and/or uncontrolled preexisting medical condition(s) that, in&#xD;
+             the judgment of the investigator, would preclude participation in this study (for&#xD;
+             example, interstitial lung disease, severe dyspnea at rest or requiring oxygen&#xD;
+             therapy, severe renal impairment], history of major surgical resection involving the&#xD;
+             stomach or small bowel, or preexisting Crohn's disease or ulcerative colitis or a&#xD;
+             preexisting chronic condition resulting in baseline Grade 2 or higher diarrhea).&#xD;
+&#xD;
+         10. Prior therapy with PARP inhibitors at a therapeutic dose.&#xD;
+&#xD;
+         11. Treatment with another investigational drug or other intervention within 30 days prior&#xD;
+             to enrollment or within 5 half-lives of the investigational product, whichever is&#xD;
+             longer.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nader Sanai, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chief Scientific Officer/Director of the Ivy Brain Tumor Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Phase 0 Navigator</last_name>
+    <phone>602-406-8605</phone>
+    <email>research@ivybraintumorcenter.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St. Joseph's Hospital and Medical Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Navigator</last_name>
+      <phone>602-406-8605</phone>
+    </contact>
+    <investigator>
+      <last_name>Nader Sanai, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Navigator</last_name>
+      <phone>602-406-8605</phone>
+    </contact>
+    <investigator>
+      <last_name>Nancy Ann Oberheim Bush, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.ivybraintumorcenter.org/</url>
+    <description>Ivy Brain Tumor Center Website</description>
+  </link>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>September 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>March 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>St. Joseph's Hospital and Medical Center, Phoenix</investigator_affiliation>
+    <investigator_full_name>Nader Sanai</investigator_full_name>
+    <investigator_title>Chief Scientific Officer/Director</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Niraparib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,297 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617430</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UHCT22623</org_study_id>
+    <nct_id>NCT05617430</nct_id>
+  </id_info>
+  <brief_title>Combination Therapy of HAIC, Sintilimab and Bevacizumab for Advanced Hepatocellular Carcinoma</brief_title>
+  <official_title>An Exploratory Study to Evaluate the Efficacy and Safety of Hepatic Arterial Infusion Chemotherapy (HAIC) Combine With Sintilimab and Bevacizumab for BCLC-C Hepatocellular Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wuhan Union Hospital, China</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-arm, exploratory study to evaluate the efficacy and safety of HAIC in&#xD;
+      combination with sintilimab and bevacizumab in the first line treatment of patients with&#xD;
+      BCLC-C hepatocellular carcinoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2022</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival (PFS) per RECIST v1.1</measure>
+    <time_frame>From baseline to primary completion date, about 18 months</time_frame>
+    <description>Defined as a duration from the date of initial treatment to disease progression or death of any cause</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The treatment-related adverse events (TRAEs)</measure>
+    <time_frame>From baseline to primary completion date, about 18 months</time_frame>
+    <description>Defined as the proportion of patients with AE, treatment-related AE (TRAE), immune-related AE (irAE), serious adverse event (SAE), assessed by NCI CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR) per RECIST v1.1 and mRECIST</measure>
+    <time_frame>From baseline to primary completion date, about 18 months</time_frame>
+    <description>Defined as the incidence of complete response and, partial response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR) per RECIST v1.1 and mRECIST</measure>
+    <time_frame>From baseline to primary completion date, about 18 months</time_frame>
+    <description>Defined as the incidence of complete response, partial response and stable disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR) per RECIST v1.1 and mRECIST</measure>
+    <time_frame>From baseline to primary completion date, about 18 months</time_frame>
+    <description>Defined as a duration from date of initial treatment to disease progression or death in patients who achieve complete or partial response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From baseline to primary completion date, about 18 months</time_frame>
+    <description>Defined as a duration from the date of initial treatment to death of any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">43</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>HAIC + Sintilimab + Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>HAIC combine with Sintilimab and bevacizumab biosimilar</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HAIC</intervention_name>
+    <description>Oxaliplatin: 85mg/m2 , Day 1 Leucovorin: 200mg/m2, Day 1 Fluorouracil: 400mg/m2, Day1 and 2400mg/m2 continuous arterial perfusion for 46h.&#xD;
+Q3W</description>
+    <arm_group_label>HAIC + Sintilimab + Bevacizumab</arm_group_label>
+    <other_name>hepatic arterial infusion (HAI) of oxaliplatin, fluorouracil, leucovorin (FOLFOX) treatment (Q3W)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sintilimab</intervention_name>
+    <description>200mg IV d1, Q3W</description>
+    <arm_group_label>HAIC + Sintilimab + Bevacizumab</arm_group_label>
+    <other_name>IBI308</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab Biosimilar IBI305</intervention_name>
+    <description>7.5mg/kg IV d1, Q3W</description>
+    <arm_group_label>HAIC + Sintilimab + Bevacizumab</arm_group_label>
+    <other_name>IBI305</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1. Written informed consent should be signed before implementing any trial-related&#xD;
+        procedures 2. ECOG PS scores 0-1 3. Histologically/cytologically confirmed HCC or cirrhosis&#xD;
+        meeting the clinical diagnostic criteria of HCC by American Association for the Study of&#xD;
+        Liver Diseases (AASLD) 4. Barcelona Clinic Liver Cancer (BCLC) stage C 5. Newly diagnosed&#xD;
+        HHC patients without any previous treatment for the tumor 6. Child Pugh score of ≤ 7. 7.&#xD;
+        Estimated survival &gt; 12 weeks 8. At least one measurable lesion according to RECIST V1.1 9.&#xD;
+        Sufficient organ and bone marrow functions, with the laboratory test values within 7 days&#xD;
+        before the enrollment meeting the following requirements (no blood components, cell growth&#xD;
+        factors, albumin, and other drugs via intravenous or subcutaneous administrations are&#xD;
+        allowed for correction treatment within the first 14 days after the laboratory test results&#xD;
+        are obtained). The specific information is as follows:&#xD;
+&#xD;
+          1. Routine blood test: absolute neutrophil count (ANC) ≥ 1.5 × 109/L; platelet count&#xD;
+             (PLT) ≥ 75 × 109/L; hemoglobin (HGB) ≥ 9.0 g/dL.&#xD;
+&#xD;
+          2. Hepatic function: total bilirubin (TBIL) ≤ 3 × upper limit of normal (ULN), alanine&#xD;
+             aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 5 × ULN; serum albumin ≥&#xD;
+             28 g/L; alkaline phosphatase (ALP) ≤ 5 × ULN.&#xD;
+&#xD;
+          3. Renal function: serum creatinine (Cr) ≤ 1.5 × ULN or clearance of creatinine (CCr) ≥&#xD;
+             50 mL/min (Cockcroft Gault formula); urinalysis results showing urine protein &lt; 2+;&#xD;
+             patients whose baseline urinalysis results show urine protein ≥ 2+ should undergo 24 h&#xD;
+             urine collection and the 24 h urine protein quantitation test result should be lower&#xD;
+             than 1 g.&#xD;
+&#xD;
+          4. Blood coagulation function: international normalized ratio (INR) and activated partial&#xD;
+             thromboplastin time (APTT) ≤ 1.5 × ULN.&#xD;
+&#xD;
+        10. Female patients of childbearing age or male patients with female sexual partners of&#xD;
+        childbearing age should take effective contraceptive measures throughout the treatment and&#xD;
+        6 months after the last dose.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Histologically/cytologically confirmed fibrolamellar hepatocellular carcinoma,&#xD;
+             sarcomatoid hepatocellular carcinoma, and cholangiocarcinoma.&#xD;
+&#xD;
+          2. History of hepatic encephalopathy or liver transplantation.&#xD;
+&#xD;
+          3. Symptomatic pleural effusion, ascites, and pericardial effusion that require drainage.&#xD;
+&#xD;
+          4. Acute or chronic active hepatitis B or C infection; hepatitis B virus (HBV) DNA &gt; 2000&#xD;
+             IU/mL or 104 copies/mL; hepatitis C virus (HCV) RNA &gt; 103 copies/mL; hepatitis B&#xD;
+             surface antigen (HbsAg) and anti HCV antibody positive concurrently.&#xD;
+&#xD;
+          5. Presence of metastasis to the central nervous system.&#xD;
+&#xD;
+          6. Presence of bleeding events from esophageal or gastric varices caused by portal&#xD;
+             hypertension within the past 6 months. Presence of known severe (G3) varicose veins in&#xD;
+             endoscopy within 3 months before the first dose. Evidence of portal hypertension&#xD;
+             (including the finding of splenomegaly in imaging studies) with a high risk of&#xD;
+             bleeding assessed by the investigator.&#xD;
+&#xD;
+          7. Presence of any life-threatening bleeding events within the past 3 months, including&#xD;
+             the need for transfusion, surgery or local treatment, and continuous medication&#xD;
+             therapy.&#xD;
+&#xD;
+          8. Any arterial/venous thromboembolic events within 6 months, including myocardial&#xD;
+             infarction, unstable angina, cerebrovascular accident or transient cerebral ischemic&#xD;
+             attack, pulmonary embolism, deep vein thrombosis, or any other history of serious&#xD;
+             thromboembolism. Presence of implantable venous port or catheter derived thrombosis,&#xD;
+             or superficial venous thrombosis, barring stable thrombosis following the conventional&#xD;
+             anticoagulation treatment. Prophylactic use of low dose low molecular weight heparin&#xD;
+             (e.g., enoxaparin 40 mg/day) is permitted.&#xD;
+&#xD;
+          9. Involvement of both the main portal vein and the left and right branches by portal&#xD;
+             vein tumor thrombus, or of both the main trunk and the superior mesenteric vein&#xD;
+             concurrently. Presence of tumor thrombus of inferior vena cava.&#xD;
+&#xD;
+         10. A 10-day consecutive dosing of aspirin (&gt; 325 mg/day) or other drugs, e.g.,&#xD;
+             dipyridamole and clopidogrel, known to inhibit the platelet function within 2 weeks&#xD;
+             before the first dose.&#xD;
+&#xD;
+         11. Uncontrolled hypertension (systolic greater than 140 mmHg or diastolic greater than 90&#xD;
+             mmHg) after the optimal medical treatment, history of hypertensive crisis or&#xD;
+             hypertensive encephalopathy.&#xD;
+&#xD;
+         12. Toxicity (excluding alopecia, events not clinically significant, and asymptomatic&#xD;
+             laboratory abnormalities) caused by previous therapy that has not yet resolved to&#xD;
+             grade 0 or 1 (National Cancer Institute Common Terminology Criteria for Adverse Events&#xD;
+             V5.0 (NCI CTCAE V5.0)) before the first dose of study drugs.&#xD;
+&#xD;
+         13. Symptomatic congestive cardiac failure (NYHA Class II IV). Symptomatic or poorly&#xD;
+             controlled arrhythmia. History of congenital long QT syndrome or corrected QTc &gt; 500&#xD;
+             ms (calculated using Fridericia formula) during screening.&#xD;
+&#xD;
+         14. Serious hemorrhagic tendency or coagulopathy, or currently receiving thrombolytic&#xD;
+             therapy.&#xD;
+&#xD;
+         15. History of gastrointestinal perforation and/or fistula, history of bowel obstruction&#xD;
+             (including incomplete bowel obstruction requiring parenteral nutrition), extensive&#xD;
+             bowel resection (partial colectomy or extensive small bowel resection accompanied with&#xD;
+             chronic diarrhea), Crohn's disease, ulcerative colitis, or chronic diarrhea within the&#xD;
+             past 6 months.&#xD;
+&#xD;
+         16. Receipt of immunosuppressants within 4 weeks before the first dose, excluding local&#xD;
+             glucocorticoids administered by nasal, inhaled, or other topical routes, or systemic&#xD;
+             glucocorticoids of physiological doses (no more than 10 mg/day of prednisone or&#xD;
+             equivalents), while the temporary use of glucocorticoids for preventing allergies or&#xD;
+             treating dyspneic symptoms of such diseases as asthma and chronic obstructive&#xD;
+             pulmonary disease is permitted.&#xD;
+&#xD;
+         17. Receipt of a live attenuated vaccine within 4 weeks before the first dose or planned&#xD;
+             to receive a live attenuated vaccine during the study.&#xD;
+&#xD;
+         18. Receipt of major surgery (craniotomy, thoracotomy, or laparotomy) within 4 weeks&#xD;
+             before the first dose or having unhealed wounds, ulcers, or fractures. Receipt of&#xD;
+             tissue biopsy or other minor surgeries within 7 days before the first dose, barring&#xD;
+             venipuncture and catheterization for intravenous infusion.&#xD;
+&#xD;
+         19. Receipt of local treatment for liver cancer within 4 weeks before the first dose.&#xD;
+&#xD;
+         20. Receipt of systemic treatment with traditional Chinese medicines with cancer&#xD;
+             indications or immunomodulators (including thymosin, interferon, and interleukin,&#xD;
+             barring local use for controlling pleural fluid or ascites) within 2 weeks before the&#xD;
+             first dose.&#xD;
+&#xD;
+         21. Uncontrolled/uncorrectable metabolic disorders, other non malignant organ diseases,&#xD;
+             systemic diseases, or cancer related secondary diseases with the potential to cause a&#xD;
+             relatively high medical risk and/or survival evaluation uncertainties unsuitable for&#xD;
+             subject enrollment as judged by the investigator; other circumstances unsuitable for&#xD;
+             subject enrollment as judged by the investigator.&#xD;
+&#xD;
+         22. Other malignancies diagnosed within 5 years before the first dose, excluding radically&#xD;
+             treated basal cell carcinoma of skin, squamous cell carcinoma of skin, and/or&#xD;
+             radically resected carcinoma in situ. If other malignancies were diagnosed over 5&#xD;
+             years pre dose, the liver lesions should still be subjected to pathological or&#xD;
+             cytological diagnosis even if they meet the clinical diagnostic criteria for HCC by&#xD;
+             AASLD; individuals with confirmed HCC can be enrolled.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bin Liang</last_name>
+    <phone>86-18086006235</phone>
+    <email>553954881@qq.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Union Hospital affiliated to Tongji Medical College of Huazhong University of Science and Technology</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bin Liang</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leucovorin</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

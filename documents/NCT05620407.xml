@@ -1,0 +1,2558 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IM011-247</org_study_id>
+    <secondary_id>2022-500700-22</secondary_id>
+    <nct_id>NCT05620407</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Effectiveness and Safety of Deucravacitinib (BMS-986165) Compared With Placebo in Participants With Active Systemic Lupus Erythematosus</brief_title>
+  <acronym>POETYK SLE-2</acronym>
+  <official_title>A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Deucravacitinib in Participants With Active Systemic Lupus Erythematosus (SLE) (POETYK SLE-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effectiveness and safety of deucravacitinib&#xD;
+      compared with placebo in an active moderate to severe Systemic Lupus Erythematosus (SLE)&#xD;
+      population.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 12, 2023</start_date>
+  <completion_date type="Anticipated">December 17, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 17, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who achieve Systemic Lupus Erythematosus Responder Index-4 [SRI(4)] response</measure>
+    <time_frame>At week 52</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieve British Isles Lupus Assessment Group-based Combined Lupus Assessment (BICLA) response</measure>
+    <time_frame>At week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieve both SRI(4) and BICLA (dual responders)</measure>
+    <time_frame>At week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with a Cutaneous Lupus Erythematosus Disease Area and Severity Index (CLASI) activity score ≥ 10 at baseline who achieve a CLASI response, defined as a decrease of ≥ 50% from baseline CLASI activity score</measure>
+    <time_frame>At week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieve Lupus Low Disease Activity State (LLDAS)</measure>
+    <time_frame>At week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants taking ≤ 7.5 mg/day prednisone (or equivalent) at Week 24 with no dose increase beyond protocol-specified limits</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with ≥ 6 active (tender + swollen) joints at baseline who achieve at least 50% from baseline reduction in active (tender + swollen) joints</measure>
+    <time_frame>At week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in patient-reported fatigue according to Functional Assessment of Chronic Illness Therapy (FACIT)-Fatigue</measure>
+    <time_frame>At week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events (AEs)</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with serious adverse events (SAEs)</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with AEs leading to discontinuation of treatment</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with AEs leading to study discontinuation</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with target adverse events of special interest (AESIs)</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with laboratory abnormalities</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with electrocardiogram (ECG) abnormalities</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with vital sign abnormalities</measure>
+    <time_frame>Up to 156 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">490</enrollment>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: Deucravacitinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Deucravacitinib</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Arm 1: Deucravacitinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Arm 2: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed with Systemic Lupus Erythematosus (SLE) at least 24 weeks before the&#xD;
+             screening visit&#xD;
+&#xD;
+          -  Meet the European Alliance of Associations for Rheumatology (EULAR)/American College&#xD;
+             of Rheumatology (ACR) 2019 classification criteria for SLE&#xD;
+&#xD;
+          -  One of the following: positive antinuclear antibodies (ANA) ≥ 1:80 at screening OR&#xD;
+             positive anti dsDNA OR positive anti Smith (anti Sm) as determined by the central&#xD;
+             laboratory at screening&#xD;
+&#xD;
+          -  Total Systemic Lupus Erythematosus Disease Activity Index-2K (SLEDAI-2K) score ≥ 6&#xD;
+             points and clinical SLEDAI 2K score ≥ 4 points with joint involvement, and/or&#xD;
+             cutaneous vasculitis, and/or rash&#xD;
+&#xD;
+             •Lupus headache, alopecia, organic brain syndrome, and mucosal ulcers must be recorded&#xD;
+             on SLEDAI 2K, if indicated, but do not count toward the points required for screening&#xD;
+             at entry&#xD;
+&#xD;
+          -  At least one SLE background therapy(immunosuppressant and/or antimalarial) is required&#xD;
+             for ≥ 12 weeks before the screening visit, must be at a stable dose for ≥ 8 weeks&#xD;
+             before the screening visit, and must remain stable until randomization and throughout&#xD;
+             study participation&#xD;
+&#xD;
+          -  Oral corticosteroid (OCS; prednisone or equivalent) background therapy is permitted&#xD;
+             but not required. For participants taking OCS, the dose must be stable for ≥ 2 weeks&#xD;
+             before the screening visit, cannot exceed 30 mg/day at screening, and must remain&#xD;
+             stable until the Week 4 visit. Participants can be on an OCS as well as an&#xD;
+             antimalarial and/or an immunosuppressant&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of drug-induced SLE rather than idiopathic SLE&#xD;
+&#xD;
+          -  Other autoimmune diseases (eg, multiple sclerosis, psoriasis, inflammatory bowel&#xD;
+             disease, etc.) are excluded. Participants with type I autoimmune diabetes mellitus,&#xD;
+             thyroid autoimmune disease, Celiac disease, or secondary Sjögren's syndrome are not&#xD;
+             excluded -SLE overlap syndromes including, but not limited to, rheumatoid arthritis,&#xD;
+             scleroderma, and mixed connective tissue disease are excluded&#xD;
+&#xD;
+          -  Active or unstable lupus neuropsychiatric manifestations, including, but not limited&#xD;
+             to, any condition defined by BILAG A criteria&#xD;
+&#xD;
+          -  Active, severe Class III, and IV, lupus nephritis that requires or may require&#xD;
+             treatment with cytotoxic agents or high-dose CS&#xD;
+&#xD;
+          -  History of congenital or acquired immunodeficiency&#xD;
+&#xD;
+          -  Known active infection, or any major episode of infection requiring hospitalization or&#xD;
+             treatment with parenteral (intramuscular or IV) antimicrobial agents (eg, antibiotics&#xD;
+             antiviral, antifungal, or antiparasitic agents) within 30 days of randomization, or&#xD;
+             treatment with oral antimicrobial agents within 2 weeks of randomization -Currently on&#xD;
+             any therapy for chronic infection (eg, pneumocystis, herpes zoster, cytomegalovirus,&#xD;
+             invasive bacterial or fungal infections, or atypical mycobacteria)&#xD;
+&#xD;
+          -  Taking more than 1 immunosuppressant at screening&#xD;
+&#xD;
+          -  In Japan only: Participants with positive result of β - D-glucan assay&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BMS Study Connect Contact Center www.BMSStudyConnect.com</last_name>
+    <phone>855-907-3286</phone>
+    <email>Clinical.Trials@bms.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>First line of the email MUST contain NCT # and Site #.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UCSD - Altman Clinical and Translational Research Institute (ACTRI)</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chelsey Smith, Site 0063</last_name>
+      <phone>858-246-2387</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Helen Diller Medical Center at Parnassus Heights</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maria Dall'Era, Site 0070</last_name>
+      <phone>415-502-1886</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>East Bay Rheumatology Medical Group, Inc</name>
+      <address>
+        <city>San Leandro</city>
+        <state>California</state>
+        <zip>94578</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Suneet Grewal, Site 0143</last_name>
+      <phone>510-357-1303</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Saint John's Medical Foundation</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Orrin Troum, Site 0147</last_name>
+      <phone>310-449-1999</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Jacksonville Gastroenterology Emerson</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gurjit Kaeley, Site 0059</last_name>
+      <phone>904-633-0071</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Life Clinical Trials</name>
+      <address>
+        <city>Margate</city>
+        <state>Florida</state>
+        <zip>33063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jigar Shah, Site 0075</last_name>
+      <phone>786-674-8868</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Center of Pompano</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alvaro Ocampo, Site 0007</last_name>
+      <phone>786-412-2156</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University School of Medicine- Grady Campus</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sung Lim, Site 0003</last_name>
+      <phone>404-219-6832</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Private Practice - Dr. Jefrey Lieberman</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jefrey Lieberman, Site 0004</last_name>
+      <phone>770-667-0220</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Research Center for Rheumatology</name>
+      <address>
+        <city>Marietta</city>
+        <state>Georgia</state>
+        <zip>30060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roel Querubin, Site 0137</last_name>
+      <phone>770-372-3962</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Greater Chicago Specialty Physicians - Orland Park</name>
+      <address>
+        <city>Orland Park</city>
+        <state>Illinois</state>
+        <zip>60467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cory Conniff, Site 0089</last_name>
+      <phone>847-599-2492</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinic of Robert Hozman, MD/Clinical Investigation Specialists, Inc.</name>
+      <address>
+        <city>Skokie</city>
+        <state>Illinois</state>
+        <zip>60076</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robert Hozman, Site 0041</last_name>
+      <phone>847-673-8473</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Center for Rheumatology and Bone Research</name>
+      <address>
+        <city>Wheaton</city>
+        <state>Maryland</state>
+        <zip>20902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>April Jorge, Site 0060</last_name>
+      <phone>617-726-7938</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vasileios Kyttaris, Site 0056</last_name>
+      <phone>617-632-8658</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Chan Medical School</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roberto Caricchio, Site 0084</last_name>
+      <phone>267-968-7826</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>William McCune, Site 0120</last_name>
+      <phone>734-936-5561</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AA Medical Research Center-Grand Blanc</name>
+      <address>
+        <city>Grand Blanc</city>
+        <state>Michigan</state>
+        <zip>48439</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>ALI KARRAR, Site 0152</last_name>
+      <phone>810-694-0082</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Rochester, Minnesota</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Uma Thanarajasingam, Site 0072</last_name>
+      <phone>507-254-2261</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis Rheumatology</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Valley Hospital</name>
+      <address>
+        <city>Ridgewood</city>
+        <state>New Jersey</state>
+        <zip>07450</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Arik Zaider, Site 0165</last_name>
+      <phone>201-447-8453</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Ambulatory Care Brooklyn Heights</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Goddard, Site 0069</last_name>
+      <phone>929-455-2500</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kyriakos Kirou, Site 0150</last_name>
+      <phone>212-606-1728</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laura Geraldino Pardilla, Site 0102</last_name>
+      <phone>212-305-4308</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Omer Pamuk, Site 0005</last_name>
+      <phone>216-844-8447</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma Medical Research Foundation</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cristina Arriens, Site 0043</last_name>
+      <phone>405-271-7805</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>James Oates, Site 0081</last_name>
+      <phone>843-437-9953</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>West Tennessee Research Institute</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacob Aelion, Site 0002</last_name>
+      <phone>731-664-0002</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Regional Clinic</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Precision Comprehensive Clinical Research Solutions - Colleyville</name>
+      <address>
+        <city>Colleyville</city>
+        <state>Texas</state>
+        <zip>76034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dhiman Basu, Site 0001</last_name>
+      <phone>972-299-8399</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Metroplex Clinical Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Arthritis Center</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sanjay Chabra, Site 0164</last_name>
+      <phone>915-317-1660</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Medical, Inc.</name>
+      <address>
+        <city>Danville</city>
+        <state>Virginia</state>
+        <zip>24541</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharukh Shroff, Site 0133</last_name>
+      <phone>434-793-4711</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sound Clinical Research, LLC</name>
+      <address>
+        <city>Bothell</city>
+        <state>Washington</state>
+        <zip>98021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0146</name>
+      <address>
+        <city>Ciudad de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>1180</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0146</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0020</name>
+      <address>
+        <city>Florencio Varela</city>
+        <state>Buenos Aires</state>
+        <zip>1888</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0020</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0078</name>
+      <address>
+        <city>Pergamino</city>
+        <state>Buenos Aires</state>
+        <zip>2700</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0078</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0125</name>
+      <address>
+        <city>Pilar</city>
+        <state>Buenos Aires</state>
+        <zip>1629</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0125</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0136</name>
+      <address>
+        <city>San Miguel</city>
+        <state>Buenos Aires</state>
+        <zip>1663</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0136</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0018</name>
+      <address>
+        <city>Quilmes</city>
+        <state>Ciudad Autónoma De Buenos Aires</state>
+        <zip>1879</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0018</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0013</name>
+      <address>
+        <city>SAN M. DE Tucuman</city>
+        <state>Tucumán</state>
+        <zip>T4000AXL</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0013</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0027</name>
+      <address>
+        <city>San Miguel de Tucumán</city>
+        <state>Tucumán</state>
+        <zip>4000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0027</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0088</name>
+      <address>
+        <city>La Plata</city>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0088</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0025</name>
+      <address>
+        <city>San Juan</city>
+        <zip>5400</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0066</name>
+      <address>
+        <city>Maroochydore</city>
+        <state>Queensland</state>
+        <zip>4558</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0066</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0129</name>
+      <address>
+        <city>Victoria Park</city>
+        <state>Western Australia</state>
+        <zip>6100</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0129</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0160</name>
+      <address>
+        <city>Vitória</city>
+        <state>Espírito Santo</state>
+        <zip>29055450</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0160</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0033</name>
+      <address>
+        <city>Curitiba</city>
+        <state>Paraná</state>
+        <zip>80440-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0028</name>
+      <address>
+        <city>Lajeado</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>95900-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0028</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0154</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0154</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0023</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0023</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0095</name>
+      <address>
+        <city>Santo André</city>
+        <state>São Paulo</state>
+        <zip>09060-870</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0095</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0115</name>
+      <address>
+        <city>Sao Bernardo do Campo</city>
+        <state>São Paulo</state>
+        <zip>09715-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0115</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0087</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>22061-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0087</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0161</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01327-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0161</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0062</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01409-902</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0062</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0139</name>
+      <address>
+        <city>La Serena</city>
+        <state>Coquimbo</state>
+        <zip>1720430</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0139</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0099</name>
+      <address>
+        <city>Valdivia</city>
+        <state>Los Ríos</state>
+        <zip>2279374</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0101</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana De Santiago</state>
+        <zip>7500710</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0101</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0044</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana De Santiago</state>
+        <zip>7510186</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0098</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana De Santiago</state>
+        <zip>8207257</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0098</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0140</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana De Santiago</state>
+        <zip>8330032</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0140</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0153</name>
+      <address>
+        <city>Santiago</city>
+        <zip>7550000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0153</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0036</name>
+      <address>
+        <city>Praha 2</city>
+        <zip>12850</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0036</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0123</name>
+      <address>
+        <city>Athens</city>
+        <state>Attikí (Region)</state>
+        <zip>115 27</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0123</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0116</name>
+      <address>
+        <city>Athens</city>
+        <state>Attikí</state>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0116</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0138</name>
+      <address>
+        <city>Larissa</city>
+        <state>Thessalía</state>
+        <zip>411 10</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0138</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0057</name>
+      <address>
+        <city>Pécs</city>
+        <state>Baranya</state>
+        <zip>7632</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0057</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0035</name>
+      <address>
+        <city>Gyula</city>
+        <state>Békés</state>
+        <zip>5700</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0035</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0134</name>
+      <address>
+        <city>Szeged</city>
+        <state>Csongrád</state>
+        <zip>6725</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0134</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0034</name>
+      <address>
+        <city>Veszprem</city>
+        <state>Veszprém City</state>
+        <zip>8200</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0034</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0053</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>457-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0053</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0156</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>466-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0156</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0083</name>
+      <address>
+        <city>Toyoake</city>
+        <state>Aichi</state>
+        <zip>470-1192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0083</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0086</name>
+      <address>
+        <city>Eiheiji-cho,Yoshida-gun</city>
+        <state>Fukui</state>
+        <zip>910-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0086</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0117</name>
+      <address>
+        <city>Kitakyushu</city>
+        <state>Fukuoka</state>
+        <zip>807-8556</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0117</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0082</name>
+      <address>
+        <city>Asahikawa</city>
+        <state>Hokkaido</state>
+        <zip>0708644</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0082</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0048</name>
+      <address>
+        <city>Sapporo</city>
+        <state>Hokkaido</state>
+        <zip>060-8648</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0048</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0162</name>
+      <address>
+        <city>Kita</city>
+        <state>Kagawa</state>
+        <zip>761-0701</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0162</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0111</name>
+      <address>
+        <city>Sagamihara</city>
+        <state>Kanagawa</state>
+        <zip>252-0375</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0111</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0157</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>236-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0157</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0021</name>
+      <address>
+        <city>Sendai-shi</city>
+        <state>Miyagi</state>
+        <zip>980-8574</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0021</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0113</name>
+      <address>
+        <city>Sasebo</city>
+        <state>Nagasaki</state>
+        <zip>8571195</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0113</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0022</name>
+      <address>
+        <city>Kawagoe</city>
+        <state>Saitama</state>
+        <zip>350-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0022</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0046</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>1138431</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0046</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0049</name>
+      <address>
+        <city>Itabashiku</city>
+        <state>Tokyo</state>
+        <zip>173-8610</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0045</name>
+      <address>
+        <city>Meguro-ku</city>
+        <state>Tokyo</state>
+        <zip>153-8515</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0045</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0064</name>
+      <address>
+        <city>Shinjyuku-ku</city>
+        <state>Tokyo</state>
+        <zip>162-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0064</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0047</name>
+      <address>
+        <city>Chiba</city>
+        <zip>260-8712</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0047</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0050</name>
+      <address>
+        <city>Fukushima</city>
+        <zip>960-1295</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0050</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0167</name>
+      <address>
+        <city>Gifu</city>
+        <zip>501-1112</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0167</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0126</name>
+      <address>
+        <city>Nagasaki</city>
+        <zip>852-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0126</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0131</name>
+      <address>
+        <city>Niigata</city>
+        <zip>951-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0131</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0085</name>
+      <address>
+        <city>Okayama</city>
+        <zip>700-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0085</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0108</name>
+      <address>
+        <city>Osaka</city>
+        <zip>545-8586</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0108</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0054</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>104-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0054</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0051</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>1608582</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0051</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0148</name>
+      <address>
+        <city>Wakayama</city>
+        <zip>641-8510</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0148</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0107</name>
+      <address>
+        <city>Torreon</city>
+        <state>Coahuila</state>
+        <zip>27000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0107</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0015</name>
+      <address>
+        <city>Cdmx</city>
+        <state>Distrito Federal</state>
+        <zip>11850</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0024</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Distrito Federal</state>
+        <zip>03100</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0024</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0011</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Distrito Federal</state>
+        <zip>06760</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0011</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0009</name>
+      <address>
+        <city>Leon</city>
+        <state>Guanajuato</state>
+        <zip>37160</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0009</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0077</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44600</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0077</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0026</name>
+      <address>
+        <city>Zapopan</city>
+        <state>Jalisco</state>
+        <zip>45070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0026</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0010</name>
+      <address>
+        <city>Cuernavaca</city>
+        <state>Morelos</state>
+        <zip>62290</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0010</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0124</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo León</state>
+        <zip>66460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0124</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0096</name>
+      <address>
+        <city>Chihuahua</city>
+        <zip>31210</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0096</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0106</name>
+      <address>
+        <city>Chihuahua</city>
+        <zip>31350</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0106</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0074</name>
+      <address>
+        <city>Oaxaca</city>
+        <zip>68000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0074</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0100</name>
+      <address>
+        <city>Lima</city>
+        <zip>15001</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0100</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0093</name>
+      <address>
+        <city>Lima</city>
+        <zip>15073</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0121</name>
+      <address>
+        <city>Lima</city>
+        <zip>15102</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0121</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0118</name>
+      <address>
+        <city>Lima</city>
+        <zip>15419</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0118</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0119</name>
+      <address>
+        <city>Warszawa</city>
+        <state>Mazowieckie</state>
+        <zip>03-291</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0119</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0029</name>
+      <address>
+        <city>Krakow</city>
+        <state>Małopolskie</state>
+        <zip>30-510</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0029</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0016</name>
+      <address>
+        <city>Elbląg</city>
+        <state>Warmińsko-mazurskie</state>
+        <zip>82-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0016</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0017</name>
+      <address>
+        <city>Poznan</city>
+        <state>Wielkopolskie</state>
+        <zip>61-545</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0017</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0071</name>
+      <address>
+        <city>Szczecin</city>
+        <state>Zachodniopomorskie</state>
+        <zip>71-252</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0071</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0014</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>00-874</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0014</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0012</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>52-416</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0031</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>52-416</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0031</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0019</name>
+      <address>
+        <city>Lodz</city>
+        <state>Łódzkie</state>
+        <zip>90-349</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0068</name>
+      <address>
+        <city>Ód</city>
+        <state>Łódzkie</state>
+        <zip>90-001</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0105</name>
+      <address>
+        <city>Lisbon</city>
+        <state>Lisboa</state>
+        <zip>1649-035</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0105</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0109</name>
+      <address>
+        <city>Vila Nova de Gaia</city>
+        <state>Porto</state>
+        <zip>4434-502</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0109</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0144</name>
+      <address>
+        <city>Lisbon</city>
+        <zip>1050-034</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0144</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0073</name>
+      <address>
+        <city>Lisbon</city>
+        <zip>2720-276</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0073</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0135</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169608</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0135</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0127</name>
+      <address>
+        <city>Singapore</city>
+        <zip>529889</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0127</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0151</name>
+      <address>
+        <city>Mérida</city>
+        <state>Badajoz</state>
+        <zip>06800</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0151</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0038</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Barcelona [Barcelona]</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0038</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0061</name>
+      <address>
+        <city>Santander</city>
+        <state>Cantabria</state>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0061</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0037</name>
+      <address>
+        <city>Sabadell</city>
+        <state>Catalunya [Cataluña]</state>
+        <zip>08208</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0103</name>
+      <address>
+        <city>Cordoba</city>
+        <state>Madrid</state>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0103</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0110</name>
+      <address>
+        <city>Bilbo</city>
+        <state>País Vasco</state>
+        <zip>48013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0110</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0055</name>
+      <address>
+        <city>Vitoria-Gasteiz</city>
+        <state>País Vasco</state>
+        <zip>01009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0052</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0052</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0067</name>
+      <address>
+        <city>Valladolid</city>
+        <zip>47012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0067</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0058</name>
+      <address>
+        <city>València</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0058</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0094</name>
+      <address>
+        <city>Kaohsiung Niao Sung Dist</city>
+        <state>Kaohsiung</state>
+        <zip>83301</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0094</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0040</name>
+      <address>
+        <city>Taichung City</city>
+        <state>Taichung</state>
+        <zip>402</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0040</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0065</name>
+      <address>
+        <city>Taichung</city>
+        <zip>404332</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0065</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0114</name>
+      <address>
+        <city>Taichung</city>
+        <zip>407</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0114</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0039</name>
+      <address>
+        <city>Tainan City</city>
+        <zip>71004</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0039</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0122</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0122</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0166</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07070</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0166</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0091</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0091</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0090</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>SE5 9RL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0090</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0168</name>
+      <address>
+        <city>Central Middlesbrough</city>
+        <state>Middlesbrough</state>
+        <zip>TS4 3BW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0168</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0104</name>
+      <address>
+        <city>Cannock</city>
+        <state>Staffordshire</state>
+        <zip>WS11 5XY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0104</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0092</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD5 0NA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0128</name>
+      <address>
+        <city>London</city>
+        <zip>E1 1BB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0128</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0130</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0130</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Czechia</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Japan</country>
+    <country>Mexico</country>
+    <country>Peru</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Singapore</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>https://www.bmsstudyconnect.com/s/US/English/USenHome</url>
+    <description>BMS Clinical Trial Patient Recruiting</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>May 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Autoimmune Diseases</keyword>
+  <keyword>Immune System Diseases</keyword>
+  <keyword>Connective Tissue Diseases</keyword>
+  <keyword>Immune-mediated Diseases</keyword>
+  <keyword>Active Systemic Lupus Erythematosus</keyword>
+  <keyword>Lupus</keyword>
+  <keyword>SLE</keyword>
+  <keyword>Deucravacitinib</keyword>
+  <keyword>Tyk2</keyword>
+  <keyword>POETYK</keyword>
+  <keyword>POETYK SLE</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>BMS will provide access to individual anonymized participant data upon request from qualified researchers, and subject to certain criteria.&#xD;
+Additional information regarding Bristol Myer Squibb's data sharing policy and process can be found at:&#xD;
+https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosurecommitment.html</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>See Plan Description</ipd_time_frame>
+    <ipd_access_criteria>See Plan Description</ipd_access_criteria>
+    <ipd_url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

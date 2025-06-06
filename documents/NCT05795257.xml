@@ -1,0 +1,306 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795257</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-22046755</org_study_id>
+    <nct_id>NCT05795257</nct_id>
+  </id_info>
+  <brief_title>Pulmonary Immune Cell-microbiome Interactions in ARDS</brief_title>
+  <acronym>ILLUMINA-1</acronym>
+  <official_title>Pulmonary Immune Cell-microbiome Interactions in Acute Respiratory Distress Syndrome: The ILLUMINA-1 Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hvidovre University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hvidovre University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall aim is to compare the composition and spatial heterogeneity of the following in&#xD;
+      critically ill intensive care unit (ICU) patients: i) immune cell populations and their&#xD;
+      activation patterns, ii) the surrounding cytokine-chemokine milieu, including&#xD;
+      trans-compartmental fluxes of these mediators between the lung and bloodstream, and iii) the&#xD;
+      lung microbiome.&#xD;
+&#xD;
+      Main hypotheses:&#xD;
+&#xD;
+        -  The immune cell population in bronchoalveolar lavage fluid (BALF) from patients with&#xD;
+           ARDS is dominated by neutrocytes, while T cells are depleted, and show evidence of&#xD;
+           hyper-activation and exhaustion&#xD;
+&#xD;
+        -  T cell hyper-activation and exhaustion is specifically compartmentalised to the lungs,&#xD;
+           and much more pronounced in moderate-to-severe than none-to-mild ARDS&#xD;
+&#xD;
+        -  Cyto- and chemokines derived from pulmonary immune cells are higher in&#xD;
+           moderate-to-severe than none-to-mild ARDS with a greater release from lungs to the&#xD;
+           bloodstream, notably of IL-6 and IL-8.&#xD;
+&#xD;
+        -  The differences in T cell profile in BALF, notably the ratio between regulatory T cells&#xD;
+           and T helper 17 cells, will change with disease severity over time, and can be explained&#xD;
+           by the presence of tI-IFN antibodies and/or a low microbial diversity of the respiratory&#xD;
+           tract with low enrichment from the oral cavity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Pulmonary hyperinflammation with neutrocyte and macrophage invasion and T cell&#xD;
+      depletion are common features of the acute respiratory distress syndrome (ARDS), but it&#xD;
+      remains to be elucidated whether the T cells in the lungs of patients with ARDS are&#xD;
+      hyperactivated and/or exhausted, and to which extent this contributes to neutrocyte invasion&#xD;
+      and thus lung tissue destruction. Furthermore, the pulmonary microbiome has shown a reduction&#xD;
+      in diversity and interactions in ARDS, which may be important for normal T cell function. At&#xD;
+      present, immune cell-microbiome interactions and their relation to disease severity and&#xD;
+      progression have not yet been studied in ARDS.&#xD;
+&#xD;
+      Overall design In 20 mechanically ventilated patients with none-to-mild and 20 with&#xD;
+      moderate-to-severe non-COVID-19 ARDS according to the Berlin definition an endotracheal&#xD;
+      aspirate and BAL fluid (BALF) from separate lung segments will be obtained. Furthermore, an&#xD;
+      oral and nasal swab and blood samples will be collected. This will be done within 72 hours&#xD;
+      after intubation, and again after 7-10 days if the patient is still intubated.&#xD;
+&#xD;
+      Patient's electronic health record The following is obtained after inclusion: diagnosis codes&#xD;
+      and medication (type and dosage, including vasopressors and sedatives), and smoking history&#xD;
+      (current/previous/never smoker; pack years); admission time; blood pressure, heart rhythm and&#xD;
+      heart rate, temperature, ventilator settings, supportive care (dialysis, ECMO), blood tests&#xD;
+      results at admission and on the study days (blood cell counts, coagulation parameters, renal,&#xD;
+      liver, and electrolyte panel; arterial and mixed venous blood gases); clinical scores at&#xD;
+      admission and on the study days (SAPS3, APACHE II, SOFA), death within 30 days&#xD;
+&#xD;
+      Blood sampling Arterial blood samples are drawn from the patient's invasive arterial catheter&#xD;
+      (inserted at ICU admission for clinical purposes: for continuous invasive blood pressure&#xD;
+      monitoring and repeated arterial blood gas collection) immediately before BALF collection.&#xD;
+&#xD;
+      Bronchoscopy with BALF collection This procedure is performed in a standardized fashion&#xD;
+      according to current clinical guidelines. Immediately prior to the procedure, an oral swab,&#xD;
+      nasal swab and an endotracheal aspirate (ETA) are obtained. FIO2 is then increased to 1.0,&#xD;
+      and the bronchoscopy procedure is performed using a disposable videoscope with an outer&#xD;
+      diameter of 5.0 mm). Three successive 50-ml aliquots of prewarmed (37°C) isotonic saline are&#xD;
+      instilled in the medial segment of the right middle lobe, aspirated immediately with low&#xD;
+      negative suction pressure (&lt; 100 cm H2O), and pooled into a sterile glass container on ice to&#xD;
+      obtain a BALF specimen.&#xD;
+&#xD;
+      Afterwards a mini-BAL is performed in the upper and lower lobe of the right lung with a&#xD;
+      single installation of 20 ml isotonic saline in each lobe with immediately aspiration into a&#xD;
+      sterile container.&#xD;
+&#xD;
+      Measurements The composition of the immune cell population, as well as the function and&#xD;
+      differentiation of various cell lines will be investigated by single-cell RNA sequencing&#xD;
+      (scRNA-seq) on selected immune cells from BALF, ETA, and blood, and this will be supplemented&#xD;
+      by bulk RNA sequencing with sample barcoding and multiplexing, giving a detailed expression&#xD;
+      pattern of all samples.&#xD;
+&#xD;
+      The composition microbiome in BALF, ETA, and oral swabs will be assessed by targeted amplicon&#xD;
+      sequencing of the hyper-variable regions 1 through 3 of the 16S subunit of ribosomal RNA gene&#xD;
+      for bacteria.&#xD;
+&#xD;
+      Statistical analyses will be performed using R statistical software version 4.1.1 (R Project&#xD;
+      for Statistical Computing) within RStudio statistical software version 1.4.1717 (RStudio),&#xD;
+      and p&lt;0.05 considered statistically significant. Inspection of normality and variance&#xD;
+      homogeneity will be done by creating qq-plots and histograms. The statistical inference tools&#xD;
+      SPIEC-EASI and HeatMaps will be used, and based on correlational analyses, principal&#xD;
+      component analyses, including non-hierarchal cluster analysis, will be applied to identify&#xD;
+      traits in the two groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Lung microbiome</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>16S ribosomal RNA (rRNA) and 18S rRNA PCR for bacterial or fungal pathogen identification in bronchoalveolar lavage flui</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lymphocyte populations</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>Cell populations and subpopulations evaluated by 10 colored flow cytometry (B cells, T cells, TCR subsets, Tregs/Th17, dendritic cells, myeloid cells and neutrophils) in bronchoalveolar lavage fluid and blood</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cell differential counts and cytomorphological analyses of BALF</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trans-compartmental fluxes</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>(calculated from plasma- and urea-adjusted BAL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Auto-antibodies against tI-IFNs in blood</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>Measured in bronchoalveolarlavage fluid</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White blood cells counts</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>Total white blood cells, neutrocytes, lymphocytes, and monocytes in bronchoalveolar lavage fluid and blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokines</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>Multiplex assay for measuring cytokines in bronchoalveolar lavage fluid and plasma (e.g. IL-1-beta, IL-1RA, IL-2, IL-6, IL-8, IL-10, IL-17, IL-18, IL-33, IL-35, TGF-beta, TNF-alpha, HMGB1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and characterizations of respiratory pathogens</measure>
+    <time_frame>Day 0 (subsequent to study inclusion in the ICU)</time_frame>
+    <description>Respiratory filmarray PCR for testing for number of pathogens</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and characterizations of microorganisms</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Growth of pathogenic microorganisms in body fluids (e.g. urine, blood, bronchoalveolar lavage fluid) in microbiological assays</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>ARDS, Human</condition>
+  <arm_group>
+    <arm_group_label>None-mild ARDS</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate-severe ARDS</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bronchoalveolar lavage</intervention_name>
+    <description>Bronchoalveolar lavage in the middle lobe of the right lung and a mini-bronchoalveolar lavage in the upper and lower lobe of the right lung</description>
+    <arm_group_label>Moderate-severe ARDS</arm_group_label>
+    <arm_group_label>None-mild ARDS</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood, plasma, BAL fluid, endotracheal aspirate, oral/nasal swab&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Mechanically ventilated adult ICU patients at Hvidovre University Hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Inclusion criteria - moderate-to-severe ARDS&#xD;
+&#xD;
+          -  Admitted to the ICU at Hvidovre Hospital&#xD;
+&#xD;
+          -  Intubated within the past 72 hours&#xD;
+&#xD;
+          -  Moderate-to-severe ARDS according to the Berlin definition19&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+        Inclusion criteria - none-to-mild ARDS&#xD;
+&#xD;
+          -  Admitted to the ICU at Hvidovre Hospital&#xD;
+&#xD;
+          -  Intubated within the past 72 hours&#xD;
+&#xD;
+          -  None-to-mild ARDS according to the Berlin definition19&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ARDS caused by COVID-19&#xD;
+&#xD;
+          -  Absolute contraindications for bronchoscopy&#xD;
+&#xD;
+          -  Untreated malignant arrhythmia&#xD;
+&#xD;
+          -  Documented or suspected intracranial hypertension (intracranial pressure ≥ &gt; 15 mmHg)&#xD;
+&#xD;
+          -  One-lung ventilation&#xD;
+&#xD;
+          -  Severe coagulopathy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>MD PhD Ronan berg</last_name>
+    <role>Study Chair</role>
+    <affiliation>Biomedical Science of Health, University of Copenhagen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>MD, PhD, Ronni Plovsing</last_name>
+    <phone>+45386220721</phone>
+    <email>ronni.thermann.reitz.plovsing.01@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>MD Katrine Schneider</last_name>
+    <phone>+4528118147</phone>
+    <email>katrine.schneider@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hvidovre Hospital, University of Copenhagen</name>
+      <address>
+        <city>Hvidovre</city>
+        <zip>2650</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katrine Schneider, MD</last_name>
+      <phone>+4521524590</phone>
+      <email>katrine.schneider@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ronni Plovsing, MD, phD</last_name>
+      <email>ronni.thermann.reitz.plovsing.01@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hvidovre University Hospital</investigator_affiliation>
+    <investigator_full_name>Ronni R. Plovsing</investigator_full_name>
+    <investigator_title>Associate professor, Senior Consultant of ICU</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dimercaprol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,256 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627895</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL82024.068.22</org_study_id>
+    <nct_id>NCT05627895</nct_id>
+  </id_info>
+  <brief_title>Brain Self-regulation for Parkinson's</brief_title>
+  <acronym>Brain-REG</acronym>
+  <official_title>A Feasibility Study of fMRI-neurofeedback in Parkinson's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Maastricht University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate feasibility of basal-ganglia regions as fMRI-neurofeedback targets in&#xD;
+      Parkinson's patients and evaluate self-regulation success&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single-group proof of mechanism study of Parkinson's Disease (PD) patients&#xD;
+      receiving neurofeedback (NF) training using supplementary motor area (SMA) and basal ganglia&#xD;
+      as target areas. At the start of the screening session, consent will be taken. Subsequently,&#xD;
+      the screening assessment will be performed to determine inclusion and exclusion criteria.&#xD;
+      After inclusion in the study has been established, the NF sessions at the MRI scanner will be&#xD;
+      scheduled. The participants will be invited for up to three NF sessions. This will total up&#xD;
+      to a maximum of four visits, one for screening and up to three for the NF sessions. Due to&#xD;
+      the feasibility nature of the study, the optimal number of sessions for the patient cohort to&#xD;
+      learn the NF regulation is unknown. Therefore, flexibility has been introduced in the design&#xD;
+      to facilitate learning in case it is necessary. The NF training is modelled on the&#xD;
+      investigators' previous work.&#xD;
+&#xD;
+      Each NF session will consist of one anatomical scan, one localizer run, and four functional&#xD;
+      NF runs. The localizer run will be used to identify individualized brain activation patterns&#xD;
+      in the participants. Each NF run is a measurement sequence that will consist of ten blocks:&#xD;
+      five regulation blocks and five rest blocks. The participants will be asked to upregulate&#xD;
+      (increase) their brain activity, which will be displayed on a thermometer bar, during the&#xD;
+      regulation blocks. During the rest blocks, the participants will be asked to relax. The study&#xD;
+      will employ a crossover design with two conditions. In one condition the participants will&#xD;
+      receive feedback on the thermometer bar from the SMA region and in the second condition the&#xD;
+      participants will receive feedback from the basal ganglia region. Two of the NF runs will be&#xD;
+      with the SMA condition and two will be with the basal ganglia condition. Both runs in each&#xD;
+      condition will take place consecutively, i.e., either the first two runs will be SMA and the&#xD;
+      second two runs will be basal ganglia or vice versa. The sessions will be counter balanced.&#xD;
+&#xD;
+      At the last NF session, a post-training assessment will be conducted during which the&#xD;
+      participants will be debriefed about the study. NF is an individualized training method, and&#xD;
+      therefore, individual differences in learning success are expected during the study, which&#xD;
+      can lead to different expectations from the subjects. However, since this is an investigation&#xD;
+      of the feasibility of the approach, all forms of performance are useful datapoints and&#xD;
+      participants will be debriefed about their valuable contribution to make sure that no outcome&#xD;
+      is conceived as negative.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The study will employ a crossover design with two conditions. In one condition the participants will receive feedback on the thermometer bar from the SMA region and in the second condition the participants will receive feedback from the basal ganglia region. Two of the NF runs will be with the SMA condition and two will be with the basal ganglia condition. Both runs in each condition will take place consecutively, i.e., either the first two runs will be SMA and the second two runs will be basal ganglia or vice versa. The sessions will be counter balanced in the design.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The participants won't be aware from which brain region we will be measuring the fMRI activations</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of basal-ganglia neurofeedback training (fMRI analysis)</measure>
+    <time_frame>Measurements will be recorded at each MRI session (approx. 1 week intervals after screening and inclusion)</time_frame>
+    <description>We will be investigating the ability of the basal ganglia to be used as a neurodeedback target for self-regulation in PD patients. To determine the ability of the basal ganglia to be recruited in the neurofeedback training, we will look at the T-contrast of all basal ganglia regulation blocks vs all baseline blocks in all the runs where basal ganglia was the target region.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Performance of basal-ganglia neurofeedback training (fMRI analysis)</measure>
+    <time_frame>Measurements will be recorded at each MRI session (approx. 1 week intervals after screening and inclusion)</time_frame>
+    <description>To determine the performance of basal ganglia self-regulation, we will employ a T-contrast of all runs with the basal ganglia as the target region versus all the runs with the SMA as the target region. Additionally, we will assess whole-brain activation changes in the basal ganglia runs to determine specificity of the neurofeedback training. This can give us insight into which brain networks contribute mechanistically to the training and if any of the training performance can be attributed to other factors, such as physiological measures, as compared to neurofeedback self-regulation.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Basal-ganglia fMRI Neurofeedback</condition>
+  <arm_group>
+    <arm_group_label>Patient cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will undergo both the SMA and the basal ganglia condition</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Neurofeedback</intervention_name>
+    <description>Participants will be shown their brain activity measured in real-time using an MRI scanner. They can then use mental strategies, such as imagination to influence and regulate this activity.</description>
+    <arm_group_label>Patient cohort</arm_group_label>
+    <other_name>fMRI based neurofeedback</other_name>
+    <other_name>Self-regulation of brain activity using neurofeedback</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Parkinson's disease (see 4.1) according to Movement Disorder Society&#xD;
+             (MDS) clinical diagnostic criteria (Postuma et al., 2015).&#xD;
+&#xD;
+          -  Disease stage 1-3 according to the Hoehn and Yahr Scale&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria for MRI (e.g., cardiac pacemaker, certain metallic implants)&#xD;
+&#xD;
+          -  History of psychotic disorder, bipolar disorder, or psychotic depression&#xD;
+&#xD;
+          -  Current use of illegal drugs (any in the last four weeks)&#xD;
+&#xD;
+          -  Current excessive alcohol consumption that interferes with daily functioning&#xD;
+&#xD;
+          -  Advanced cognitive impairment (MoCA &lt;24) or dementia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David EJ Linden, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Maastricht University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David EJ Linden, Prof.</last_name>
+    <phone>+31 43 3881021</phone>
+    <email>david.linden@maastrichtuniversity.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Maastricht University</name>
+      <address>
+        <city>Maastricht</city>
+        <zip>6229ER</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <reference>
+    <citation>Emmert K, Kopel R, Sulzer J, Bruhl AB, Berman BD, Linden DEJ, Horovitz SG, Breimhorst M, Caria A, Frank S, Johnston S, Long Z, Paret C, Robineau F, Veit R, Bartsch A, Beckmann CF, Van De Ville D, Haller S. Meta-analysis of real-time fMRI neurofeedback studies using individual participant data: How is brain regulation mediated? Neuroimage. 2016 Jan 1;124(Pt A):806-812. doi: 10.1016/j.neuroimage.2015.09.042. Epub 2015 Sep 28.</citation>
+    <PMID>26419389</PMID>
+  </reference>
+  <reference>
+    <citation>Hamilton JP, Glover GH, Bagarinao E, Chang C, Mackey S, Sacchet MD, Gotlib IH. Effects of salience-network-node neurofeedback training on affective biases in major depressive disorder. Psychiatry Res Neuroimaging. 2016 Mar 30;249:91-6. doi: 10.1016/j.pscychresns.2016.01.016. Epub 2016 Jan 19.</citation>
+    <PMID>26862057</PMID>
+  </reference>
+  <reference>
+    <citation>Jaeckle T, Williams SCR, Barker GJ, Basilio R, Carr E, Goldsmith K, Colasanti A, Giampietro V, Cleare A, Young AH, Moll J, Zahn R. Self-blame in major depression: a randomised pilot trial comparing fMRI neurofeedback with self-guided psychological strategies. Psychol Med. 2021 Dec 2:1-11. doi: 10.1017/S0033291721004797. Online ahead of print.</citation>
+    <PMID>34852855</PMID>
+  </reference>
+  <reference>
+    <citation>Johnston SJ, Boehm SG, Healy D, Goebel R, Linden DE. Neurofeedback: A promising tool for the self-regulation of emotion networks. Neuroimage. 2010 Jan 1;49(1):1066-72. doi: 10.1016/j.neuroimage.2009.07.056. Epub 2009 Jul 29.</citation>
+    <PMID>19646532</PMID>
+  </reference>
+  <reference>
+    <citation>Linden DE. Neurofeedback and networks of depression. Dialogues Clin Neurosci. 2014 Mar;16(1):103-12. doi: 10.31887/DCNS.2014.16.1/dlinden.</citation>
+    <PMID>24733975</PMID>
+  </reference>
+  <reference>
+    <citation>Linden DE, Habes I, Johnston SJ, Linden S, Tatineni R, Subramanian L, Sorger B, Healy D, Goebel R. Real-time self-regulation of emotion networks in patients with depression. PLoS One. 2012;7(6):e38115. doi: 10.1371/journal.pone.0038115. Epub 2012 Jun 4.</citation>
+    <PMID>22675513</PMID>
+  </reference>
+  <reference>
+    <citation>MacDuffie KE, MacInnes J, Dickerson KC, Eddington KM, Strauman TJ, Adcock RA. Single session real-time fMRI neurofeedback has a lasting impact on cognitive behavioral therapy strategies. Neuroimage Clin. 2018 Jun 9;19:868-875. doi: 10.1016/j.nicl.2018.06.009. eCollection 2018.</citation>
+    <PMID>29922575</PMID>
+  </reference>
+  <reference>
+    <citation>Mehler DMA, Sokunbi MO, Habes I, Barawi K, Subramanian L, Range M, Evans J, Hood K, Luhrs M, Keedwell P, Goebel R, Linden DEJ. Targeting the affective brain-a randomized controlled trial of real-time fMRI neurofeedback in patients with depression. Neuropsychopharmacology. 2018 Dec;43(13):2578-2585. doi: 10.1038/s41386-018-0126-5. Epub 2018 Jun 23.</citation>
+    <PMID>29967368</PMID>
+  </reference>
+  <reference>
+    <citation>Mehler DMA, Williams AN, Krause F, Luhrs M, Wise RG, Turner DL, Linden DEJ, Whittaker JR. The BOLD response in primary motor cortex and supplementary motor area during kinesthetic motor imagery based graded fMRI neurofeedback. Neuroimage. 2019 Jan 1;184:36-44. doi: 10.1016/j.neuroimage.2018.09.007. Epub 2018 Sep 8.</citation>
+    <PMID>30205210</PMID>
+  </reference>
+  <reference>
+    <citation>Paret C, Zaehringer J, Ruf M, Ende G, Schmahl C. The orbitofrontal cortex processes neurofeedback failure signals. Behav Brain Res. 2019 Sep 2;369:111938. doi: 10.1016/j.bbr.2019.111938. Epub 2019 May 6.</citation>
+    <PMID>31071348</PMID>
+  </reference>
+  <reference>
+    <citation>Postuma RB, Berg D, Stern M, Poewe W, Olanow CW, Oertel W, Obeso J, Marek K, Litvan I, Lang AE, Halliday G, Goetz CG, Gasser T, Dubois B, Chan P, Bloem BR, Adler CH, Deuschl G. MDS clinical diagnostic criteria for Parkinson's disease. Mov Disord. 2015 Oct;30(12):1591-601. doi: 10.1002/mds.26424.</citation>
+    <PMID>26474316</PMID>
+  </reference>
+  <reference>
+    <citation>Sitaram R, Ros T, Stoeckel L, Haller S, Scharnowski F, Lewis-Peacock J, Weiskopf N, Blefari ML, Rana M, Oblak E, Birbaumer N, Sulzer J. Closed-loop brain training: the science of neurofeedback. Nat Rev Neurosci. 2017 Feb;18(2):86-100. doi: 10.1038/nrn.2016.164. Epub 2016 Dec 22. Erratum In: Nat Rev Neurosci. 2019 May;20(5):314.</citation>
+    <PMID>28003656</PMID>
+  </reference>
+  <reference>
+    <citation>Skottnik L, Linden DEJ. Mental Imagery and Brain Regulation-New Links Between Psychotherapy and Neuroscience. Front Psychiatry. 2019 Oct 30;10:779. doi: 10.3389/fpsyt.2019.00779. eCollection 2019.</citation>
+    <PMID>31736799</PMID>
+  </reference>
+  <reference>
+    <citation>Skottnik L, Sorger B, Kamp T, Linden D, Goebel R. Success and failure of controlling the real-time functional magnetic resonance imaging neurofeedback signal are reflected in the striatum. Brain Behav. 2019 Mar;9(3):e01240. doi: 10.1002/brb3.1240. Epub 2019 Feb 20.</citation>
+    <PMID>30790474</PMID>
+  </reference>
+  <reference>
+    <citation>Subramanian L, Hindle JV, Johnston S, Roberts MV, Husain M, Goebel R, Linden D. Real-time functional magnetic resonance imaging neurofeedback for treatment of Parkinson's disease. J Neurosci. 2011 Nov 9;31(45):16309-17. doi: 10.1523/JNEUROSCI.3498-11.2011.</citation>
+    <PMID>22072682</PMID>
+  </reference>
+  <reference>
+    <citation>Subramanian L, Morris MB, Brosnan M, Turner DL, Morris HR, Linden DE. Functional Magnetic Resonance Imaging Neurofeedback-guided Motor Imagery Training and Motor Training for Parkinson's Disease: Randomized Trial. Front Behav Neurosci. 2016 Jun 8;10:111. doi: 10.3389/fnbeh.2016.00111. eCollection 2016.</citation>
+    <PMID>27375451</PMID>
+  </reference>
+  <reference>
+    <citation>Young KD, Siegle GJ, Zotev V, Phillips R, Misaki M, Yuan H, Drevets WC, Bodurka J. Randomized Clinical Trial of Real-Time fMRI Amygdala Neurofeedback for Major Depressive Disorder: Effects on Symptoms and Autobiographical Memory Recall. Am J Psychiatry. 2017 Aug 1;174(8):748-755. doi: 10.1176/appi.ajp.2017.16060637. Epub 2017 Apr 14.</citation>
+    <PMID>28407727</PMID>
+  </reference>
+  <reference>
+    <citation>Zahn R, Weingartner JH, Basilio R, Bado P, Mattos P, Sato JR, de Oliveira-Souza R, Fontenelle LF, Young AH, Moll J. Blame-rebalance fMRI neurofeedback in major depressive disorder: A randomised proof-of-concept trial. Neuroimage Clin. 2019;24:101992. doi: 10.1016/j.nicl.2019.101992. Epub 2019 Aug 25.</citation>
+    <PMID>31505367</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neurofeedback</keyword>
+  <keyword>Self-regulation</keyword>
+  <keyword>Functional MRI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ganglion Cysts</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

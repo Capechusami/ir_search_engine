@@ -1,0 +1,190 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795062</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B0661190</org_study_id>
+    <nct_id>NCT05795062</nct_id>
+  </id_info>
+  <brief_title>Treatment Patterns Among Patients With Venous Thromboembolism in the United States</brief_title>
+  <official_title>Post-Discharge Treatment Patterns and Outcomes in Patients With Venous Thromboembolism</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pfizer</source>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess outpatient treatment patterns following&#xD;
+      hospitalization for venous thromboembolism (VTE). VTE is a condition that occurs when blood&#xD;
+      clot forms in the vein.&#xD;
+&#xD;
+      This is a retrospective study (assessments on events that have already occurred) of&#xD;
+      healthcare claims from databases. The study sponsors will assess healthcare claim records of&#xD;
+      patients treated with either apixaban or warfarin. Assessment includes treatment persistence,&#xD;
+      switch, and stopping therapy, along with recurrent VTE and bleeding.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 10, 2023</start_date>
+  <completion_date type="Anticipated">September 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Inpatient Treatment</measure>
+    <time_frame>Up to 5.5 years</time_frame>
+    <description>Proportion of patients treated with apixaban or warfarin during hospitalization for venous thromboembolism.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-hospitalization treatment patterns</measure>
+    <time_frame>Assessed from hospital discharge date to up to 30 days following discharge date</time_frame>
+    <description>Proportion of patients who continue on apixaban or warfarin following discharge from the hospital.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longterm treatment utilization</measure>
+    <time_frame>assessed from outpatient treatment start date up to the earliest of treatment discontinuation or switch, or end of study period. Assessed up to 4 years</time_frame>
+    <description>Among patients who continue apixaban or warfarin post-discharge, assess treatment duration; including persistence, switch and discontinuation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recurrent Venous Thromboembolism (VTE)</measure>
+    <time_frame>assessed from outpatient treatment start date up to the earliest of treatment discontinuation or switch, or end of study period. Assessed up to 4 years</time_frame>
+    <description>Patients with at least one hospitalization for recurrent VTE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major bleeding</measure>
+    <time_frame>assessed from outpatient treatment start date up to the earliest of treatment discontinuation or switch, or end of study period. Assessed up to 4 years</time_frame>
+    <description>Patients with at least one hospitalization for major bleeding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinically Relevant Non-major Bleeding</measure>
+    <time_frame>assessed from outpatient treatment start date up to the earliest of treatment discontinuation or switch, or end of study period. Assessed up to 4 years</time_frame>
+    <description>Proportion of patients with at least one inpatient or outpatient encounter for clinically relevant non-major bleeding.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">47029</enrollment>
+  <condition>Venous Thromboembolism</condition>
+  <arm_group>
+    <arm_group_label>apixaban</arm_group_label>
+    <description>Patients treated with apixaban</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>warfarin</arm_group_label>
+    <description>patients treated with warfarin</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>apixaban</intervention_name>
+    <description>patients treated with apixaban</description>
+    <arm_group_label>apixaban</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>warfarin</intervention_name>
+    <description>patients treated with warfarin</description>
+    <arm_group_label>warfarin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who are hospitalized for venous thromboembolism (VTE) and treated with apixaban or&#xD;
+        warfarin during the hospitalization. Patients will be identified through linkage of IQVIA's&#xD;
+        hospital charge data master database (CDM) with outpatient professional fee medical claims&#xD;
+        (Dx) and longitudinal prescription claims (LRx) databases during the period of July 2018&#xD;
+        and August 2022.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  inpatient hospitalization with primary discharge diagnosis of venous thromboembolism&#xD;
+             (VTE) (this is the index hospitalization)&#xD;
+&#xD;
+          -  treatment with apixaban or warfarin during the hospitalization&#xD;
+&#xD;
+          -  at least 18 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalization for VTE within 6 months prior to the index hospitalization&#xD;
+&#xD;
+          -  Diagnosis of atrial fibrillation/flutter or procedure for mechanical heart valve in&#xD;
+             the 6 months prior to the index hospitalization&#xD;
+&#xD;
+          -  Procedure for inferior vena cava filter or diagnosis of pregnancy during the study&#xD;
+             period&#xD;
+&#xD;
+          -  Prior use of oral anticoagulants or parenteral anticoagulants&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pfizer</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=B0661190</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thromboembolism</mesh_term>
+    <mesh_term>Venous Thromboembolism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Warfarin</mesh_term>
+    <mesh_term>Apixaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

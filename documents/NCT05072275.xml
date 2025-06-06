@@ -1,0 +1,202 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05072275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-21-7762</org_study_id>
+    <nct_id>NCT05072275</nct_id>
+  </id_info>
+  <brief_title>Prospective Electronic Polygenic Risk Study</brief_title>
+  <acronym>PEPRS1</acronym>
+  <official_title>Prospective Electronic Polygenic Risk Study (PEPRS) - First Phase</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Scripps Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Illumina, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Quest Diagnostics-Nichols Insitute</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Scripps Translational Science Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate the role of polygenic risk scores (PRS) in preventive health.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will investigate the role of polygenic risk scores (PRS) in preventive health.&#xD;
+      Specifically, the purpose of this study is to determine whether knowledge of the degree of&#xD;
+      coronary artery disease (CAD) genetic risk, as measured and conveyed by a PRS, influences&#xD;
+      patient and physician decision-making during short-term (6 month) and long-term (2 year)&#xD;
+      follow-up. The initial findings of this study will be used to plan an expanded second phase&#xD;
+      study with the purpose of prospectively validating that these decision-making changes lead to&#xD;
+      improvements in clinical outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Statin or other lipid lowering therapy initiation or intensification by EHR entry</measure>
+    <time_frame>6 months post enrollment</time_frame>
+    <description>New or intensified prescriptions for statins or other LDL lowering therapy. Binary outcome measured at 6-months post-enrollment by survey-based self-report and EHR analysis - encoded as 0 if no new or intensified prescription relative to medication status at baseline, and 1 if a new or intensified prescription is entered in the EHR relative to medication status at baseline. A prescription for statins or other LDL lowering therapy is considered new if an EHR entry for a statin, PCSK9i, or ezitimibe is present at follow-up and no equivalent EHR entry exists for up to 1-year prior to enrollment. A statin prescription is considered intensified if an active statin prescription is present in the EHR at enrollment and an active statin prescription of a higher intensity tiers (high-, moderate-, and low-intensity) as described in the 2013 ACC/AHA Guidelines on the Treatment of Blood Cholesterol is present at follow-up.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Statin or other lipid lowering therapy persistence by EHR entry</measure>
+    <time_frame>2 years post enrollment</time_frame>
+    <description>Statin or other lipid lowering therapy prescription renewal. Binary outcome measured at 2-years post-enrollment by EHR analysis. Statin persistence is defined as prescription renewal within 60 days of the end of the duration of an index statin prescription made after study enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Statin or other lipid lowering therapy adherence by EHR entry</measure>
+    <time_frame>2 years post enrollment</time_frame>
+    <description>Statin or other lipid lowering therapy prescription possession. Binary outcome measured at 2-years post-enrollment by EHR entry. Statin adherence is defined as prescription coverage of no less than 80% of the days between the index statin prescription and the end of the 2-year follow-up period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adequate LDL-C lowering - comparison of baseline and follow-up measures by lab test</measure>
+    <time_frame>6 months and 2 years post enrollment</time_frame>
+    <description>Adequate LDL-C lowering. Adequate LDL-C lowering is defined as 30% or more reduction from baseline study measured LDL-C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lifestyle changes by survey</measure>
+    <time_frame>6 months post enrollment</time_frame>
+    <description>Adoption of Healthy Lifestyle. Binary outcomes derived from baseline and 6-months post-enrollment by survey-based self-report.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physician Utility by survey</measure>
+    <time_frame>6 months and 1 year</time_frame>
+    <description>Physician confidence, perceived utility, and actions attributable to genomic testing.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>Subjects receiving care from Scripps Health physicians in Cardiology and Primary Care</arm_group_label>
+    <description>A confidential data request will be submitted to screen the Scripps Health EHR system for individuals meeting study inclusion criteria and having seen a participating study physician in the past two years.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        A confidential data request will be submitted to screen the Scripps Health EHR system for&#xD;
+        individuals meeting study inclusion criteria and having seen a participating study&#xD;
+        physician in the past two years.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  45 ≥ Age &lt; 65&#xD;
+&#xD;
+          -  ASCVD Risk Score &gt; 7.5% as defined by the standard pooled cohort equation&#xD;
+&#xD;
+          -  Access to and ability to use a smartphone&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior diagnosis of coronary disease as defined by prior myocardial infarction (STEMI&#xD;
+             or NSTEMI), or revascularization (stent or coronary artery bypass grafting)&#xD;
+&#xD;
+          -  Cerebrovascular disease with history of ischemic stroke, TIA, carotid endarterectomy,&#xD;
+             carotid artery stenting&#xD;
+&#xD;
+          -  Peripheral arterial disease with history of claudication, revascularization (stents or&#xD;
+             bypass)&#xD;
+&#xD;
+          -  Current and active high-intensity statin prescription (rosuvastatin 20 mg,&#xD;
+             rosuvastatin 40 mg, atorvastatin 40 mg and atorvastatin 80 mg)&#xD;
+&#xD;
+          -  Anti-PCSK9 therapy&#xD;
+&#xD;
+          -  Lipid apheresis therapy&#xD;
+&#xD;
+          -  Currently enrolled in a clinical trial for lipid lowering therapy&#xD;
+&#xD;
+          -  Known statin intolerance to 2 or more statins in the past&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ali Torkamani, PhD</last_name>
+    <phone>858-784-2082</phone>
+    <email>atorkama@scripps.edu</email>
+  </overall_contact>
+  <reference>
+    <citation>Arnett DK, Blumenthal RS, Albert MA, Buroker AB, Goldberger ZD, Hahn EJ, Himmelfarb CD, Khera A, Lloyd-Jones D, McEvoy JW, Michos ED, Miedema MD, Munoz D, Smith SC Jr, Virani SS, Williams KA Sr, Yeboah J, Ziaeian B. 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2019 Sep 10;74(10):1376-1414. doi: 10.1016/j.jacc.2019.03.009. Epub 2019 Mar 17. Erratum In: J Am Coll Cardiol. 2019 Sep 10;74(10):1428-1429. J Am Coll Cardiol. 2020 Feb 25;75(7):840.</citation>
+    <PMID>30894319</PMID>
+  </reference>
+  <reference>
+    <citation>Sattar N, Preiss D, Murray HM, Welsh P, Buckley BM, de Craen AJ, Seshasai SR, McMurray JJ, Freeman DJ, Jukema JW, Macfarlane PW, Packard CJ, Stott DJ, Westendorp RG, Shepherd J, Davis BR, Pressel SL, Marchioli R, Marfisi RM, Maggioni AP, Tavazzi L, Tognoni G, Kjekshus J, Pedersen TR, Cook TJ, Gotto AM, Clearfield MB, Downs JR, Nakamura H, Ohashi Y, Mizuno K, Ray KK, Ford I. Statins and risk of incident diabetes: a collaborative meta-analysis of randomised statin trials. Lancet. 2010 Feb 27;375(9716):735-42. doi: 10.1016/S0140-6736(09)61965-6. Epub 2010 Feb 16.</citation>
+    <PMID>20167359</PMID>
+  </reference>
+  <reference>
+    <citation>Macedo AF, Taylor FC, Casas JP, Adler A, Prieto-Merino D, Ebrahim S. Unintended effects of statins from observational studies in the general population: systematic review and meta-analysis. BMC Med. 2014 Mar 22;12:51. doi: 10.1186/1741-7015-12-51.</citation>
+    <PMID>24655568</PMID>
+  </reference>
+  <reference>
+    <citation>Mega JL, Stitziel NO, Smith JG, Chasman DI, Caulfield M, Devlin JJ, Nordio F, Hyde C, Cannon CP, Sacks F, Poulter N, Sever P, Ridker PM, Braunwald E, Melander O, Kathiresan S, Sabatine MS. Genetic risk, coronary heart disease events, and the clinical benefit of statin therapy: an analysis of primary and secondary prevention trials. Lancet. 2015 Jun 6;385(9984):2264-2271. doi: 10.1016/S0140-6736(14)61730-X. Epub 2015 Mar 4.</citation>
+    <PMID>25748612</PMID>
+  </reference>
+  <reference>
+    <citation>Khera AV, Emdin CA, Drake I, Natarajan P, Bick AG, Cook NR, Chasman DI, Baber U, Mehran R, Rader DJ, Fuster V, Boerwinkle E, Melander O, Orho-Melander M, Ridker PM, Kathiresan S. Genetic Risk, Adherence to a Healthy Lifestyle, and Coronary Disease. N Engl J Med. 2016 Dec 15;375(24):2349-2358. doi: 10.1056/NEJMoa1605086. Epub 2016 Nov 13.</citation>
+    <PMID>27959714</PMID>
+  </reference>
+  <reference>
+    <citation>Stone NJ, Robinson JG, Lichtenstein AH, Bairey Merz CN, Blum CB, Eckel RH, Goldberg AC, Gordon D, Levy D, Lloyd-Jones DM, McBride P, Schwartz JS, Shero ST, Smith SC Jr, Watson K, Wilson PW; American College of Cardiology/American Heart Association Task Force on Practice Guidelines. 2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2014 Jul 1;63(25 Pt B):2889-934. doi: 10.1016/j.jacc.2013.11.002. Epub 2013 Nov 12. No abstract available. Erratum In: J Am Coll Cardiol. 2014 Jul 1;63(25 Pt B):3024-3025. J Am Coll Cardiol. 2015 Dec 22;66(24):2812.</citation>
+    <PMID>24239923</PMID>
+  </reference>
+  <reference>
+    <citation>Raebel MA, Schmittdiel J, Karter AJ, Konieczny JL, Steiner JF. Standardizing terminology and definitions of medication adherence and persistence in research employing electronic databases. Med Care. 2013 Aug;51(8 Suppl 3):S11-21. doi: 10.1097/MLR.0b013e31829b1d2a.</citation>
+    <PMID>23774515</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 7, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Scripps Translational Science Institute</investigator_affiliation>
+    <investigator_full_name>Ali Torkamani</investigator_full_name>
+    <investigator_title>Director of Genomics and Genome Informatics</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Research records with patient identification will be kept for 6 years after study completion. The collected data and related de-identified health information may be kept indefinitely. Record retention will comply with the specific requirements of the Scripps IRB (i.e., Scripps Research must keep HIPAA form for at least 6 years after study completion). The results of this research will be presented at meetings or in publication. However, research participants' identities will not be disclosed in those presentations.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

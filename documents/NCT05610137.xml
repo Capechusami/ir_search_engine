@@ -1,0 +1,417 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610137</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FC001-2022</org_study_id>
+    <nct_id>NCT05610137</nct_id>
+  </id_info>
+  <brief_title>Application of the 24-hour Recall Methodology Assisted by Digital Photographs for the Analysis of Dietary Intake</brief_title>
+  <acronym>IngFood</acronym>
+  <official_title>Application of the 24-hour Recall Methodology Assisted by Digital Photographs and Homologation With Colombian Foods for the Analysis of Dietary Intake</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanessa Corrales Agudelo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vidarium, Nutrition, Health and Wellness Research Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With this project, the investigators expect to standardize a reliable and optimized&#xD;
+      methodology based on a 24-hour recall tool assisted by digital photographs with a complete&#xD;
+      output of foods and nutritional information for the Colombian population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After recruitment, participants (20) will receive a detailed explanation of the objectives&#xD;
+      and conditions of the study and will sign the informed consent. Dietary intake assessments&#xD;
+      will be conducted using 24-hour dietary recalls, assisted with digital photographs registry&#xD;
+      of the food and beverages consumed, and a brief description (the two 24 dietary recalls will&#xD;
+      be applied on different and non-consecutive days). Simultaneously, food weighing using a home&#xD;
+      kitchen scale and drink volume measurements will be used as a reference. For the analysis of&#xD;
+      nutritional information, the daily food intake extracted from food photologs will be entered&#xD;
+      into the automated Self-Administered Dietary Assessment Tool (ASA24®). Macro- and&#xD;
+      micronutrient intake using the actual food weights recorded by the participants, will be&#xD;
+      estimated from the USDA FNDDS 2017-2018 database, and polyphenols composition from a phenol&#xD;
+      database.&#xD;
+&#xD;
+      On the day of each 24-h dietary recall, participants will collect a 24-h urine sample to&#xD;
+      assess their protein, sodium, and potassium intake. Additionally, the day after each 24&#xD;
+      dietary recall, participants will also provide blood samples to determine circulating levels&#xD;
+      of vitamin C, vitamin B1, vitamin K1, folate, zinc, copper, and beta-carotene; and fecal&#xD;
+      samples to identify vegetable species in feces.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 18, 2022</start_date>
+  <completion_date type="Actual">December 30, 2022</completion_date>
+  <primary_completion_date type="Actual">December 15, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The extent of agreement between the 24-hour dietary recall assisted with digital photography and food weighing in energy and nutrient reporting.</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>The average of the two 24 hour periods within each method. Bland Altman analysis of energy and macronutrient (carbohydrates, fat, protein) intake.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The average protein intake (g/day)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Protein intake is estimated based on the concept that nitrogen-containing products of dietary protein plus nitrogenous products of endogenous protein breakdown are excreted as either urea or non-urea nitrogen. The urea nitrogen appearance (UNA) rate is measured as the amount of urea excreted in urine plus the net amount accumulated in body water. Protein intake is urine nitrogen excreted in grams/day + (weight in kilograms X 0.031g nitrogen/kg/day) multiplied by 6.25. These calculated values are very close to actual nitrogen or protein intake values.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average sodium intake (mg/day)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>24-hour urinary sodium excretion is the most accurate estimate of daily sodium intake and is not subject to recall bias. About 90% of the sodium consumed (from all sources) is excreted in the urine. Sodium intake (mg/day) is sodium in 24-h urine (adjusted for % of intake excreted in urine) multiplied by the total urine volume.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average potassium intake (mg/day)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>24-hour urinary potassium excretion is the most accurate estimate of daily intake and is not subject to recall bias. Therefore, potassium intake (mg/day) is potassium in 24-h urine (adjusted for % of intake excreted in urine) multiplied by the total urine volume.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average plasma vitamin C (mg/dL)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Humans, unlike most animals, are unable to synthesize vitamin C endogenously, so it is an essential dietary component. Plasma levels of this vitamin commonly measured by HPLC are considered as circulating values of the micronutrient and represent the recent intake. References values range 0.4-2.0 mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average plasma vitamin B1 (nmol/L)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Levels of this vitamin measured by High-Performance Liquid Chromatography (HPLC) in blood is a sensitive, specific, and precise method for determining the nutritional status of thiamine. Thiamine is obtained from the diet and body stores are limited. Circulating values of the micronutrient and represent the recent intake. References values range 70-180 nmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average plasma vitamin K1 (phylloquinone) (ng/mL)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>The concentration of this vitamin measured by High-Performance Liquid Chromatography (HPLC) in fasting serum is a strong indicator of dietary intake and status. Circulating values of the micronutrient and representing the recent intake. References values in adults &gt; 18 years range: 0.10-2.20 ng/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average serum folate (N-(5)-methyl tetrahydrofolate) (ug/L)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Approximately 20% of the folate absorbed daily is derived from dietary sources; the remainder is synthesized by intestinal microorganisms. The level of this vitamin is measured by chemiluminescent immunoassay and is a strong indicator of dietary intake. Normal or elevated circulating values of this micronutrient represent the recent intake. Reference values in adults are ≥ 4.0 ug/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average serum copper (ug/dL)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>The concentration of this microelement is measured by flame atomic absorption spectrometry and is a strong indicator of dietary intake. Values of this micronutrient represent the recent intake. Reference values in adults range from 73-129 ug/dL in Males: and 77-206 ug/dL in females</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average serum zinc ug/dL</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Zinc is obtained entirely from the diet; it is analyzed in serum by inductively coupled plasma-mass spectrometry and is a strong indicator of dietary intake. Values of this micronutrient represent the recent intake. Normal serum zinc levels range from 66 to 106 ug/dL in adults.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average beta-carotene (ug/dL)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Beta-carotene, a fat-soluble nutrient, is a precursor to vitamin A and is analyzed in serum spectrometry and is a reflection of the quantities of carotene (provitamin A) ingested and absorbed by the intestine. Values of this micronutrient represent the recent intake. Normal serum beta-carotene levels range 4-51 ug/dL in males: and 6-77 ug/dL in females.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average polyphenols intake (mg/GAE/day)</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>Polyphenols are an important class of phytochemicals related with health. They will be estimated from the 24 dietary recalls coupled with a food polyphenols database.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The average abundance vegetable species in the stool</measure>
+    <time_frame>Through study completion, an avarege of 1 month</time_frame>
+    <description>High-throughput sequencing technologies have provided an efficient approach for assessing plant diversity combining various bioinformatics pipelines to assign DNA sequences into species.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Dietary Intake</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Feces&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Twenty subjects, general population. Participants should not change their dietary habits&#xD;
+        during the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women older than 18 years&#xD;
+&#xD;
+          -  Who owns a smartphone.&#xD;
+&#xD;
+          -  Autonomous in the use of a smartphone.&#xD;
+&#xD;
+          -  With internet access.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who do not photograph the food and/or do not record them.&#xD;
+&#xD;
+          -  Subjects that do not accept the interview for the clarification of doubts related to&#xD;
+             the food after the photographic report.&#xD;
+&#xD;
+          -  People who can not stay at home for at least the evaluation days to facilitate the&#xD;
+             weighing of food.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vanessa Corrales Aguadelo, Msc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vidarium, Research Center on Nutrition, Health and Wellness - Nutresa Business Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Vidarium, Nutrition, Health and Wellness Research Center</name>
+      <address>
+        <city>Medellin</city>
+        <state>Antioquia</state>
+        <zip>050023</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <results_reference>
+    <citation>Nelson M, Atkinson M, Darbyshire S. Food photography II: use of food photographs for estimating portion size and the nutrient content of meals. Br J Nutr. 1996 Jul;76(1):31-49. doi: 10.1079/bjn19960007.</citation>
+    <PMID>8774215</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Blanton CA, Moshfegh AJ, Baer DJ, Kretsch MJ. The USDA Automated Multiple-Pass Method accurately estimates group total energy and nutrient intake. J Nutr. 2006 Oct;136(10):2594-9. doi: 10.1093/jn/136.10.2594.</citation>
+    <PMID>16988132</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Flax VL, Thakwalakwa C, Schnefke CH, Stobaugh H, Phuka JC, Coates J, Rogers B, Bell W, Colaiezzi B, Muth MK. Validation of a digitally displayed photographic food portion-size estimation aid among women in urban and rural Malawi. Public Health Nutr. 2019 Dec;22(17):3140-3150. doi: 10.1017/S1368980019002428. Epub 2019 Sep 9.</citation>
+    <PMID>31496453</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Naska A, Valanou E, Peppa E, Katsoulis M, Barbouni A, Trichopoulou A. Evaluation of a digital food photography atlas used as portion size measurement aid in dietary surveys in Greece. Public Health Nutr. 2016 Sep;19(13):2369-76. doi: 10.1017/S1368980016000227. Epub 2016 Feb 26.</citation>
+    <PMID>26917048</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nichelle PG, Almeida CCB, Camey SA, Garmus LM, Elias VCM, Marchioni DM, da Silva DG, Ocke MC, Slimani N, Fisberg RM, Crispim SP. Subjects' Perception in Quantifying Printed and Digital Photos of Food Portions. Nutrients. 2019 Feb 27;11(3):501. doi: 10.3390/nu11030501.</citation>
+    <PMID>30818798</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bouchoucha M, Akrout M, Bellali H, Bouchoucha R, Tarhouni F, Mansour AB, Zouari B. Development and validation of a food photography manual, as a tool for estimation of food portion size in epidemiological dietary surveys in Tunisia. Libyan J Med. 2016 Aug 31;11:32676. doi: 10.3402/ljm.v11.32676. eCollection 2016.</citation>
+    <PMID>27585631</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Park Y, Dodd KW, Kipnis V, Thompson FE, Potischman N, Schoeller DA, Baer DJ, Midthune D, Troiano RP, Bowles H, Subar AF. Comparison of self-reported dietary intakes from the Automated Self-Administered 24-h recall, 4-d food records, and food-frequency questionnaires against recovery biomarkers. Am J Clin Nutr. 2018 Jan 1;107(1):80-93. doi: 10.1093/ajcn/nqx002.</citation>
+    <PMID>29381789</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Amougou N, Cohen E, Mbala ML, Grosdidier B, Bernard JY, Said-Mohamed R, Pasquet P. Development and validation of two food portion photograph books to assess dietary intake among adults and children in Central Africa. Br J Nutr. 2016 Mar 14;115(5):895-902. doi: 10.1017/S0007114515005401. Epub 2016 Jan 20.</citation>
+    <PMID>26786057</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Previdelli AN, Gomez G, Kovalskys I, Fisberg M, Cortes LY, Pareja RG, Liria MR, Garcia MCY, Herrera-Cuenca M, Rigotti A, Guajardo V, Zimberg IZ, Murillo AG; ELANS Study Group. Prevalence and determinants of misreporting of energy intake among Latin American populations: results from ELANS study. Nutr Res. 2019 Aug;68:9-18. doi: 10.1016/j.nutres.2019.05.007. Epub 2019 May 28.</citation>
+    <PMID>31247522</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Martin CK, Han H, Coulon SM, Allen HR, Champagne CM, Anton SD. A novel method to remotely measure food intake of free-living individuals in real time: the remote food photography method. Br J Nutr. 2009 Feb;101(3):446-56. doi: 10.1017/S0007114508027438. Epub 2008 Jul 11.</citation>
+    <PMID>18616837</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Martin CK, Kaya S, Gunturk BK. Quantification of food intake using food image analysis. Annu Int Conf IEEE Eng Med Biol Soc. 2009;2009:6869-72. doi: 10.1109/IEMBS.2009.5333123.</citation>
+    <PMID>19964186</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Institute of Medicine (US) Food and Nutrition Board. Dietary Reference Intakes: A Risk Assessment Model for Establishing Upper Intake Levels for Nutrients. Washington (DC): National Academies Press (US); 1998. Available from http://www.ncbi.nlm.nih.gov/books/NBK45189/</citation>
+    <PMID>20845565</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ortega RM, Perez-Rodrigo C, Lopez-Sobaler AM. Dietary assessment methods: dietary records. Nutr Hosp. 2015 Feb 26;31 Suppl 3:38-45. doi: 10.3305/nh.2015.31.sup3.8749.</citation>
+    <PMID>25719769</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lam YY, Ravussin E. Analysis of energy metabolism in humans: A review of methodologies. Mol Metab. 2016 Sep 20;5(11):1057-1071. doi: 10.1016/j.molmet.2016.09.005. eCollection 2016 Nov.</citation>
+    <PMID>27818932</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Poslusna K, Ruprich J, de Vries JH, Jakubikova M, van't Veer P. Misreporting of energy and micronutrient intake estimated by food records and 24 hour recalls, control and adjustment methods in practice. Br J Nutr. 2009 Jul;101 Suppl 2:S73-85. doi: 10.1017/S0007114509990602.</citation>
+    <PMID>19594967</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Venter CS, MacIntyre UE, Vorster HH. The development and testing of a food portion photograph book for use in an African population. J Hum Nutr Diet. 2000 Jun;13(3):205-218. doi: 10.1046/j.1365-277x.2000.00228.x.</citation>
+    <PMID>12383127</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Subar AF, Crafts J, Zimmerman TP, Wilson M, Mittl B, Islam NG, McNutt S, Potischman N, Buday R, Hull SG, Baranowski T, Guenther PM, Willis G, Tapia R, Thompson FE. Assessment of the accuracy of portion size reports using computer-based food photographs aids in the development of an automated self-administered 24-hour recall. J Am Diet Assoc. 2010 Jan;110(1):55-64. doi: 10.1016/j.jada.2009.10.007.</citation>
+    <PMID>20102828</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Alemayehu AA, Abebe Y, Gibson RS. A 24-h recall does not provide a valid estimate of absolute nutrient intakes for rural women in southern Ethiopia. Nutrition. 2011 Sep;27(9):919-24. doi: 10.1016/j.nut.2010.10.015. Epub 2011 Feb 3.</citation>
+    <PMID>21295444</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lazarte CE, Encinas ME, Alegre C, Granfeldt Y. Validation of digital photographs, as a tool in 24-h recall, for the improvement of dietary assessment among rural populations in developing countries. Nutr J. 2012 Aug 29;11:61. doi: 10.1186/1475-2891-11-61.</citation>
+    <PMID>22931128</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schoeller DA, Ravussin E, Schutz Y, Acheson KJ, Baertschi P, Jequier E. Energy expenditure by doubly labeled water: validation in humans and proposed calculation. Am J Physiol. 1986 May;250(5 Pt 2):R823-30. doi: 10.1152/ajpregu.1986.250.5.R823.</citation>
+    <PMID>3085521</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Racette SB, Schoeller DA, Luke AH, Shay K, Hnilicka J, Kushner RF. Relative dilution spaces of 2H- and 18O-labeled water in humans. Am J Physiol. 1994 Oct;267(4 Pt 1):E585-90. doi: 10.1152/ajpendo.1994.267.4.E585.</citation>
+    <PMID>7943308</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bingham SA, Cummings JH. Urine nitrogen as an independent validatory measure of dietary intake: a study of nitrogen balance in individuals consuming their normal diet. Am J Clin Nutr. 1985 Dec;42(6):1276-89. doi: 10.1093/ajcn/42.6.1276.</citation>
+    <PMID>4072961</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mickelsen O, Makdani D, Gill JL, Frank RL. Sodium and potassium intakes and excretions of normal men consuming sodium chloride or a 1:1 mixture of sodium and potassium chlorides. Am J Clin Nutr. 1977 Dec;30(12):2033-40. doi: 10.1093/ajcn/30.12.2033.</citation>
+    <PMID>930873</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Luft FC, Fineberg NS, Sloan RS. Estimating dietary sodium intake in individuals receiving a randomly fluctuating intake. Hypertension. 1982 Nov-Dec;4(6):805-8. doi: 10.1161/01.hyp.4.6.805.</citation>
+    <PMID>7141607</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ferguson LR, De Caterina R, Gorman U, Allayee H, Kohlmeier M, Prasad C, Choi MS, Curi R, de Luis DA, Gil A, Kang JX, Martin RL, Milagro FI, Nicoletti CF, Nonino CB, Ordovas JM, Parslow VR, Portillo MP, Santos JL, Serhan CN, Simopoulos AP, Velazquez-Arellano A, Zulet MA, Martinez JA. Guide and Position of the International Society of Nutrigenetics/Nutrigenomics on Personalised Nutrition: Part 1 - Fields of Precision Nutrition. J Nutrigenet Nutrigenomics. 2016;9(1):12-27. doi: 10.1159/000445350. Epub 2016 May 12.</citation>
+    <PMID>27169401</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tueni M, Mounayar A, Birlouez-Aragon I. Development and evaluation of a photographic atlas as a tool for dietary assessment studies in Middle East cultures. Public Health Nutr. 2012 Jun;15(6):1023-8. doi: 10.1017/S1368980012000171. Epub 2012 Feb 10.</citation>
+    <PMID>22321915</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huybregts L, Roberfroid D, Lachat C, Van Camp J, Kolsteren P. Validity of photographs for food portion estimation in a rural West African setting. Public Health Nutr. 2008 Jun;11(6):581-7. doi: 10.1017/S1368980007000870. Epub 2007 Aug 9.</citation>
+    <PMID>17686204</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Harris-Fry H, Paudel P, Karn M, Mishra N, Thakur J, Paudel V, Harrisson T, Shrestha B, Manandhar DS, Costello A, Cortina-Borja M, Saville N. Development and validation of a photographic food atlas for portion size assessment in the southern plains of Nepal. Public Health Nutr. 2016 Oct;19(14):2495-507. doi: 10.1017/S1368980016000537. Epub 2016 Mar 21.</citation>
+    <PMID>26996822</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Martin CK, Nicklas T, Gunturk B, Correa JB, Allen HR, Champagne C. Measuring food intake with digital photography. J Hum Nutr Diet. 2014 Jan;27 Suppl 1(0 1):72-81. doi: 10.1111/jhn.12014. Epub 2013 Jul 15.</citation>
+    <PMID>23848588</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gibson RS, Charrondiere UR, Bell W. Measurement Errors in Dietary Assessment Using Self-Reported 24-Hour Recalls in Low-Income Countries and Strategies for Their Prevention. Adv Nutr. 2017 Nov 15;8(6):980-991. doi: 10.3945/an.117.016980. Print 2017 Nov.</citation>
+    <PMID>29141979</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gemming L, Utter J, Ni Mhurchu C. Image-assisted dietary assessment: a systematic review of the evidence. J Acad Nutr Diet. 2015 Jan;115(1):64-77. doi: 10.1016/j.jand.2014.09.015. Epub 2014 Nov 11.</citation>
+    <PMID>25441955</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Martin CK, Correa JB, Han H, Allen HR, Rood JC, Champagne CM, Gunturk BK, Bray GA. Validity of the Remote Food Photography Method (RFPM) for estimating energy and nutrient intake in near real-time. Obesity (Silver Spring). 2012 Apr;20(4):891-9. doi: 10.1038/oby.2011.344. Epub 2011 Dec 1.</citation>
+    <PMID>22134199</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhu F, Bosch M, Woo I, Kim S, Boushey CJ, Ebert DS, Delp EJ. The Use of Mobile Devices in Aiding Dietary Assessment and Evaluation. IEEE J Sel Top Signal Process. 2010 Aug;4(4):756-766. doi: 10.1109/JSTSP.2010.2051471.</citation>
+    <PMID>20862266</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Neveu V, Perez-Jimenez J, Vos F, Crespy V, du Chaffaut L, Mennen L, Knox C, Eisner R, Cruz J, Wishart D, Scalbert A. Phenol-Explorer: an online comprehensive database on polyphenol contents in foods. Database (Oxford). 2010;2010:bap024. doi: 10.1093/database/bap024. Epub 2010 Jan 8.</citation>
+    <PMID>20428313</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Freedman LS, Commins JM, Moler JE, Willett W, Tinker LF, Subar AF, Spiegelman D, Rhodes D, Potischman N, Neuhouser ML, Moshfegh AJ, Kipnis V, Arab L, Prentice RL. Pooled results from 5 validation studies of dietary self-report instruments using recovery biomarkers for potassium and sodium intake. Am J Epidemiol. 2015 Apr 1;181(7):473-87. doi: 10.1093/aje/kwu325. Epub 2015 Mar 18.</citation>
+    <PMID>25787264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Maximova K, Khodayari Moez E, Dabravolskaj J, Ferdinands AR, Dinu I, Lo Siou G, Al Rajabi A, Veugelers PJ. Co-consumption of Vegetables and Fruit, Whole Grains, and Fiber Reduces the Cancer Risk of Red and Processed Meat in a Large Prospective Cohort of Adults from Alberta's Tomorrow Project. Nutrients. 2020 Jul 29;12(8):2265. doi: 10.3390/nu12082265.</citation>
+    <PMID>32751091</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wagner S, Lioret S, Girerd N, Duarte K, Lamiral Z, Bozec E, Van den Berghe L, Hoge A, Donneau AF, Boivin JM, Merckle L, Zannad F, Laville M, Rossignol P, Nazare JA. Association of Dietary Patterns Derived Using Reduced-Rank Regression With Subclinical Cardiovascular Damage According to Generation and Sex in the STANISLAS Cohort. J Am Heart Assoc. 2020 Apr 7;9(7):e013836. doi: 10.1161/JAHA.119.013836. Epub 2020 Mar 21.</citation>
+    <PMID>32200718</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Garcia-Vega AS, Corrales-Agudelo V, Reyes A, Escobar JS. Diet Quality, Food Groups and Nutrients Associated with the Gut Microbiota in a Nonwestern Population. Nutrients. 2020 Sep 25;12(10):2938. doi: 10.3390/nu12102938.</citation>
+    <PMID>32992776</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>David LA, Maurice CF, Carmody RN, Gootenberg DB, Button JE, Wolfe BE, Ling AV, Devlin AS, Varma Y, Fischbach MA, Biddinger SB, Dutton RJ, Turnbaugh PJ. Diet rapidly and reproducibly alters the human gut microbiome. Nature. 2014 Jan 23;505(7484):559-63. doi: 10.1038/nature12820. Epub 2013 Dec 11.</citation>
+    <PMID>24336217</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Boulange CL, Neves AL, Chilloux J, Nicholson JK, Dumas ME. Impact of the gut microbiota on inflammation, obesity, and metabolic disease. Genome Med. 2016 Apr 20;8(1):42. doi: 10.1186/s13073-016-0303-2.</citation>
+    <PMID>27098727</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mullan A, Delles C, Ferrell W, Mullen W, Edwards CA, McColl JH, Roberts SA, Lean ME, Sattar N. Effects of a beverage rich in (poly)phenols on established and novel risk markers for vascular disease in medically uncomplicated overweight or obese subjects: A four week randomized placebo-controlled trial. Atherosclerosis. 2016 Mar;246:169-76. doi: 10.1016/j.atherosclerosis.2016.01.004. Epub 2016 Jan 6.</citation>
+    <PMID>26797134</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tresserra-Rimbau A, Medina-Remon A, Perez-Jimenez J, Martinez-Gonzalez MA, Covas MI, Corella D, Salas-Salvado J, Gomez-Gracia E, Lapetra J, Aros F, Fiol M, Ros E, Serra-Majem L, Pinto X, Munoz MA, Saez GT, Ruiz-Gutierrez V, Warnberg J, Estruch R, Lamuela-Raventos RM. Dietary intake and major food sources of polyphenols in a Spanish population at high cardiovascular risk: the PREDIMED study. Nutr Metab Cardiovasc Dis. 2013 Oct;23(10):953-9. doi: 10.1016/j.numecd.2012.10.008. Epub 2013 Jan 17.</citation>
+    <PMID>23332727</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>PREDIMED study investigators. Intake of Total Polyphenols and Some Classes of Polyphenols Is Inversely Associated with Diabetes in Elderly People at High Cardiovascular Disease Risk. J Nutr. 2015 Apr 1;146(4):767-777. doi: 10.3945/jn.115.223610.</citation>
+    <PMID>26962181</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Freedman LS, Commins JM, Moler JE, Arab L, Baer DJ, Kipnis V, Midthune D, Moshfegh AJ, Neuhouser ML, Prentice RL, Schatzkin A, Spiegelman D, Subar AF, Tinker LF, Willett W. Pooled results from 5 validation studies of dietary self-report instruments using recovery biomarkers for energy and protein intake. Am J Epidemiol. 2014 Jul 15;180(2):172-88. doi: 10.1093/aje/kwu116. Epub 2014 Jun 10.</citation>
+    <PMID>24918187</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Holbrook JT, Patterson KY, Bodner JE, Douglas LW, Veillon C, Kelsay JL, Mertz W, Smith JC Jr. Sodium and potassium intake and balance in adults consuming self-selected diets. Am J Clin Nutr. 1984 Oct;40(4):786-93. doi: 10.1093/ajcn/40.4.786.</citation>
+    <PMID>6486085</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Reese AT, Kartzinel TR, Petrone BL, Turnbaugh PJ, Pringle RM, David LA. Using DNA Metabarcoding To Evaluate the Plant Component of Human Diets: a Proof of Concept. mSystems. 2019 Oct 8;4(5):e00458-19. doi: 10.1128/mSystems.00458-19.</citation>
+    <PMID>31594830</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Taberlet P, Coissac E, Pompanon F, Gielly L, Miquel C, Valentini A, Vermat T, Corthier G, Brochmann C, Willerslev E. Power and limitations of the chloroplast trnL (UAA) intron for plant DNA barcoding. Nucleic Acids Res. 2007;35(3):e14. doi: 10.1093/nar/gkl938. Epub 2006 Dec 14.</citation>
+    <PMID>17169982</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kartzinel TR, Hsing JC, Musili PM, Brown BRP, Pringle RM. Covariation of diet and gut microbiome in African megafauna. Proc Natl Acad Sci U S A. 2019 Nov 19;116(47):23588-23593. doi: 10.1073/pnas.1905666116. Epub 2019 Nov 4.</citation>
+    <PMID>31685619</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Medina-Remon A, Barrionuevo-Gonzalez A, Zamora-Ros R, Andres-Lacueva C, Estruch R, Martinez-Gonzalez MA, Diez-Espino J, Lamuela-Raventos RM. Rapid Folin-Ciocalteu method using microtiter 96-well plate cartridges for solid phase extraction to assess urinary total phenolic compounds, as a biomarker of total polyphenols intake. Anal Chim Acta. 2009 Feb 16;634(1):54-60. doi: 10.1016/j.aca.2008.12.012. Epub 2008 Dec 13.</citation>
+    <PMID>19154810</PMID>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Vidarium, Nutrition, Health and Wellness Research Center</investigator_affiliation>
+    <investigator_full_name>Vanessa Corrales Agudelo</investigator_full_name>
+    <investigator_title>Researcher</investigator_title>
+  </responsible_party>
+  <keyword>Dietary intake</keyword>
+  <keyword>24-hour recall</keyword>
+  <keyword>Biomarkers</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data will be available when the results are published. The data can be obtained by downloading from the cloud (ex: NCBI-SRA or Github)</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The data will be available when the results are published.</ipd_time_frame>
+    <ipd_access_criteria>Public</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

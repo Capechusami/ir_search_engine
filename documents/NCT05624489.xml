@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB#21-001471</org_study_id>
+    <secondary_id>UG3DE028723</secondary_id>
+    <nct_id>NCT05624489</nct_id>
+  </id_info>
+  <brief_title>Micro-Randomized Trial to Optimize Digital Oral Health Behavior Change Interventions</brief_title>
+  <acronym>DCBI</acronym>
+  <official_title>Personalized Digital Behavior Change Interventions to Promote Oral Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Dental and Craniofacial Research (NIDCR)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will involve a 10-week Micro-Randomized Trial (MRT) to inform the delivery of&#xD;
+      prompts (via mobile app push notifications) designed to facilitate adherence to an ideal&#xD;
+      tooth brushing protocol (2x2x4; 2 sessions daily, 2 minutes per session, all 4 quadrants).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of the MRT is to investigate whether delivering (vs. not delivering) a prompt that&#xD;
+      contains engagement strategies grounded in decision science is beneficial in terms of&#xD;
+      promoting proximal oral health behavior (OHB) score, which reflects adherence to the 2x2x4&#xD;
+      brushing protocol (Primary Aim) and also mobile health engagement (mHealth; Secondary Aim).&#xD;
+      Additionally, Exploratory Aims will concern (a) comparing different types of prompts in terms&#xD;
+      of proximal OHB score and mHealth engagement, (b) investigating the conditions in which&#xD;
+      prompts should be delivered to most effectively promote proximal OHB and mHealth engagement;&#xD;
+      and (c) investigating whether the effect of the engagement prompts (vs. no prompt) on OHB&#xD;
+      score varies across components of the 2x2x4 brushing regimen (i.e., frequency, duration, or&#xD;
+      coverage).&#xD;
+&#xD;
+      Participants will receive an electronic toothbrush (eBrush) and a mobile app (Oralytics) that&#xD;
+      contains well-established behavior change strategies (e.g., goal setting, monitoring&#xD;
+      adherence, and feedback). Participants will be randomized twice per day - in the morning and&#xD;
+      the evening - to receive either (a) a push notification containing one of three (randomly&#xD;
+      selected) engagement strategies or (b) no notification.&#xD;
+&#xD;
+      During the 10 weeks of the study, a Bayesian algorithm will iteratively adjust the&#xD;
+      probability of receiving a prompt or no prompt in any given randomization window, using prior&#xD;
+      behavioral data collected through the eBrush and mobile app. Data patterns suggesting&#xD;
+      positive effects of the prompts on adherence to brushing protocol, especially duration, will&#xD;
+      result in higher subsequent probabilities of receiving the prompts, whereas patterns&#xD;
+      suggesting null or negative effects will result in lower probabilities of receiving the&#xD;
+      prompts.&#xD;
+&#xD;
+      Study results will inform the implementation of a smartphone-delivered behavior change&#xD;
+      intervention that further adapts the delivery of engagement prompts based on passively&#xD;
+      collected information from an eBrush and the mobile app.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Each participant-time point (which will occur twice daily, in the morning and the evening) will be randomized between a prompt containing an engagement strategy vs. no prompt.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proximal adherence to 2x2x4 OHB</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Change in proximal OHB score between the current and next randomization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proximal mHealth engagement</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Engagement with Oralytics app (i.e., accessing the Oralytics app or clicking on the push notification) between the current and next randomization.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Dental Diseases</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each participant-time point will be randomized between a prompt containing an engagement strategy vs. no prompt. A Bayesian algorithm will iteratively adjust the probability of receiving a prompt or no prompt at any time point, using brushing behavior data. Patterns suggesting positive effects of the prompts on brushing adherence will result in higher subsequent probabilities of receiving the prompts, whereas patterns suggesting null or negative effects will result in lower probabilities of receiving the prompts. A participant is assigned to an engagement prompt will be randomized equally between the three types of engagement strategies: (1) Standard reciprocity prompt: delivering non-contingent reward points as a &quot;gift&quot; to support goals; (2) Reciprocity by proxy prompt: delivering a message indicating a donation to the person's selected charity; (3) Curiosity prompt: delivering oral health information in a manner that motivates the participant to seek new knowledge and information.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Engagement Strategies</intervention_name>
+    <description>The study's mobile app (Oralytics) will be used to deliver engagement prompts. The prompts contain messages that leverage three engagement strategies: reciprocity, reciprocity by proxy, and curiosity.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults, age 18 or older.&#xD;
+&#xD;
+          -  Fluent in English&#xD;
+&#xD;
+          -  Dentulous/partially edentulous (18+ teeth; at least 2 teeth in each quadrant)&#xD;
+&#xD;
+          -  Possess a smartphone (iOS or Android) with a data plan.&#xD;
+&#xD;
+          -  Willing to allow the passive collection of data on tooth-brushing activities in the&#xD;
+             home setting for 10 weeks.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not fluent in English&#xD;
+&#xD;
+          -  Edentulous&#xD;
+&#xD;
+          -  Unable to use a mobile device due to cognitive or physical impairments&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vivek Shetty</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Los Angeles</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Vivek Shetty</last_name>
+    <phone>3108255170</phone>
+    <email>vshetty@g.ucla.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Zara Greer</last_name>
+    <phone>424 228 8165</phone>
+    <email>zgreer@mednet.ucla.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1668</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Zara Greer</last_name>
+      <phone>323-716-3327</phone>
+      <email>zgreer@mednet.ucla.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Vivek Shetty</last_name>
+      <phone>310 825 5170</phone>
+      <email>vshetty@mednet.ucla.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Vivek Shetty, DDS, DMD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Dental disease</keyword>
+  <keyword>Health Behavior Change</keyword>
+  <keyword>Oral Self Care Behaviors</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomatognathic Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A de-identified dataset will be generated and made available to the research community. The dataset will be stripped of all codes or any other information that could be linked back to the original data or an individual participant. Prospective users of this dataset must agree to a confidentiality agreement and get permission from the Primary Investigator to use or share the data with anyone else. All external requests for data will be directed to Dr. Vivek Shetty. Prospective investigators will submit a written proposal to the PI outlining the question they will investigate, the specific variables that they need to answer that question, their analytic plan for answering that question, and documentation of sufficient Institutional Review Board oversight (e.g., approval or exemption). Investigators will also need to sign a confidentiality agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>12 months after publication of primary analyses.</ipd_time_frame>
+    <ipd_access_criteria>All external requests for data will be directed to the PI (Dr. Vivek Shetty). Prospective investigators will submit a written proposal to the PI outlining the question they will investigate, the specific variables that they need to answer that question, their analytic plan for answering that question, and documentation of sufficient Institutional Review Board oversight (e.g., approval or exemption). Investigators will also need to sign a confidentiality agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

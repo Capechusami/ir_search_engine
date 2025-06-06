@@ -1,0 +1,188 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628480</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCRC2010010</org_study_id>
+    <nct_id>NCT05628480</nct_id>
+  </id_info>
+  <brief_title>Multi-omics Analyses Reveal Microbiota-gut-brain Axis in ICU Patients With Post-cardiac Surgery Delirium</brief_title>
+  <official_title>Multi-omics Analyses Reveal Microbiota-gut-brain Axis in ICU Patients With Post-cardiac Surgery Delirium</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>China National Center for Cardiovascular Diseases</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Clinical Research Center for Cardiovascular Diseases, Fuwai Hospital, Chinese Academy of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>China National Center for Cardiovascular Diseases</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This case-control study is planned to recruit patients who meet the enrollment conditions,&#xD;
+      receive cardiac surgery (cardiac valve surgery or coronary artery bypass surgery) and&#xD;
+      cardiopulmonary bypass, and sign the informed consent form in the second ward of adult&#xD;
+      cardiac surgery, Fuwai Hospital. Use RASS, CAM-ICU scales to evaluate postoperative patients&#xD;
+      and divide them into delirium and non-delirium groups according to whether they had delirium&#xD;
+      after surgery. There will be 30 patients in each group. Match the two groups in terms of&#xD;
+      surgical type, duration of cardiopulmonary bypass, gender and age range (± 3 years). Collect&#xD;
+      and record the preoperative, intraoperative and postoperative data of the enrolled patients,&#xD;
+      including cardiopulmonary bypass time, ICU stay time, length of mechanical ventilation,&#xD;
+      hemodynamics and other data. Fecal and/or blood samples are collected from 60 patients&#xD;
+      before, immediately after and after operation.&#xD;
+&#xD;
+      The laboratory test and analysis shall be started after the collection of clinical samples.&#xD;
+      Fecal samples are used for Metagenomics Sequencing and Functional genomics. Blood samples are&#xD;
+      analyzed by serum metabolomics for changes in intestinal metabolites entering the blood&#xD;
+      circulation. Simultaneous measurement of IL-6 and TNF in peripheral blood with serum samples-&#xD;
+      α, IL-1a,IFN-γ and LPS, D-lactic acid and diamine oxidase levels.Use Multi-omics approach to&#xD;
+      analyze the correlation between intestinal flora diversity, functional gene abundance and&#xD;
+      blood metabolites, inflammation level and intestinal barrier function, and to find the&#xD;
+      clinical evidence of the correlation between microbiota-gut-brain axis and the occurrence of&#xD;
+      POD in patients. Through comprehensive analysis of the research results of this experiment,&#xD;
+      access to literature, write papers, submit papers and publish relevant papers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2022</start_date>
+  <completion_date type="Anticipated">April 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>postoperative delirium</measure>
+    <time_frame>1-4 days after cardiac surgery</time_frame>
+    <description>Use the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) to identify delirium in critically ill patients.The CAM-ICU consists of four main components:inattention, autonomic instability, disorganized thinking, altered level of consciousness.If patient have 1) acute onset of mental status changes or a fluctuating course and 2)inattention and 3)disorganized thinking or 4)altered level of consciousness, thus the patient can be assessed as postoperative delirium (1+2+3/4=POD).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>type of postoperative delirium</measure>
+    <time_frame>1-4 days after cardiac surgery</time_frame>
+    <description>The Richmond Agitation Sedation Scale (RASS) is an instrument designed to assess the level of alertness and agitated behavior in critically-ill patients.The RASS is a 10-point scale ranging from -5 to +4. Levels -1 to -5 denote 5 levels of sedation, levels +1 to +4 describe increasing levels of agitation,level 0 is &quot;alert and calm.&quot; 1.Hyperactive POD: postoperative delirium patient with RASS scores +1~+4; 2.Hypoactive POD:Hyperactive POD: postoperative delirium patient with RASS scores -3~0; 3.Mixed POD: postoperative delirium patient with RASS score fluctuate between positive and negative.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Postoperative Delirium</condition>
+  <condition>Cardiac Disease</condition>
+  <condition>Gastrointestinal Microbiome</condition>
+  <arm_group>
+    <arm_group_label>POD group</arm_group_label>
+    <description>According to RASS and CAM-ICU scales, patients who suffer from post-cardiac surgery delirium in ICU will be include into POD group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-POD group</arm_group_label>
+    <description>According to RASS and CAM-ICU scales，patients who do not judge as post-cardiac surgery delirium in ICU will be include into non-POD group</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who meet the enrollment conditions, receive cardiac surgery (heart valve surgery&#xD;
+        or coronary artery bypass surgery) and cardiopulmonary bypass (CPB) in the Department of&#xD;
+        Cardiovascular Surgery, Fuwai Hospital, Chinese Academy of Medical Sciences.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  elective cardiac valve surgery or coronary artery bypass grafting&#xD;
+&#xD;
+          -  open heart surgery under hypothermic cardiopulmonary bypass under intravenous and/or&#xD;
+             inhalation general anesthesia&#xD;
+&#xD;
+          -  No history of delirium attack, no cognitive impairment, normal speech, and certain&#xD;
+             ability of speaking and reading&#xD;
+&#xD;
+          -  age&gt;18&#xD;
+&#xD;
+          -  Informed consent of patients, voluntary participation (or consent of family members),&#xD;
+             and signing of informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  There are organic brain diseases (preoperative brain CT examination)&#xD;
+&#xD;
+          -  Hearing or visual impairment that may affect delirium assessment&#xD;
+&#xD;
+          -  Suspected or confirmed history of alcohol/drug/drug abuse&#xD;
+&#xD;
+          -  Previous history of mental illness or preoperative use of antipsychotic drugs&#xD;
+&#xD;
+          -  Moderate and severe renal function damage (blood creatinine &gt; 2mg/dL or 177mmol/L) or&#xD;
+             abnormal liver function (alanine aminotransferase&gt;2 times the upper limit of normal&#xD;
+             value) or other serious lung diseases&#xD;
+&#xD;
+          -  Hematologic diseases, bone marrow and/or lymphoid diseases, leukopenia&#xD;
+&#xD;
+          -  Use immunosuppressive drugs or autoimmune diseases&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Accompanied by other diseases that may affect their survival, such as tumor&#xD;
+&#xD;
+          -  HIV&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xin Wang</last_name>
+    <phone>13901036490</phone>
+    <email>fuwaiwangxin@188.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fuwai Hospital, National Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100037</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xin Wang</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Delirium</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

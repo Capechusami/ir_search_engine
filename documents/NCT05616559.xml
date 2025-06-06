@@ -1,0 +1,412 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05616559</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-20083013</org_study_id>
+    <nct_id>NCT05616559</nct_id>
+  </id_info>
+  <brief_title>Precision Medicine in the Depression Treatment</brief_title>
+  <acronym>BDD</acronym>
+  <official_title>The BrainDrugs-Depression Study: A Prospective Precision Psychiatry Cohort Study in the Treatment of Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mental Health Centre Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Center for Integrated Molecular Brain Imaging, Copenhagen, Denmak</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lundbeck Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The BrainDrugs-D study uses multimodal neuroimaging combined with self-report measures,&#xD;
+      clinical and molecular markers to identify clinically relevant predictors that can identify&#xD;
+      subtypes of major depressive disorder (MDD) and, in a naturalistic setting, predict treatment&#xD;
+      response to standard antidepressive treatment. The cohorts are followed in nationwide health&#xD;
+      registries.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BrainDrugs-D is a cohort study of patients with major depressive disorder (MDD) who are&#xD;
+      deeply phenotyped with demographic, clinical, genetic, biochemical and neuroimaging&#xD;
+      modalities. These features are subsequently examined for their ability to identify subtypes&#xD;
+      of MDD and to predict treatment response.&#xD;
+&#xD;
+      Treatment and study population All participants are phenotyped before initiating a&#xD;
+      standardized 'treatment package' in out-patient clinics within the Mental Health Services in&#xD;
+      the Capital Region of Denmark. The goal is to recruit a total of 800 patients with&#xD;
+      non-psychotic MDD. We use broad inclusion criteria to enable recruitment of representative&#xD;
+      adult out-patients with non-psychotic MDD who receive standard treatment in practice.&#xD;
+&#xD;
+      As the study is designed with a high degree of ecological validity, it will not interfere&#xD;
+      with or delay the standard treatment package for depression. The treatment package is a&#xD;
+      national uniform package designed by Mental Health Services in the Capital Region, it has&#xD;
+      been in use since 2017, after several preceding years of clinical use and patient experience.&#xD;
+      Treatment for first-episode depression has a manualized group Cognitive-behavioural therapy&#xD;
+      (CBT) as the backbone: 2-3 hours of initial workup followed by 6 hours of individual therapy&#xD;
+      or 12 sessions of 2 hours of group therapy (8 patients per group), 1-2 hours of engagement&#xD;
+      and psychoeducation of relatives, 1-5 hours of medication clinic and 2 hours of relapse&#xD;
+      prevention. Antidepressant medication and individual psychotherapy are instituted, as needed.&#xD;
+&#xD;
+      Groups The study comprises three groups: The entire cohort (n=800) will have basic clinical,&#xD;
+      cognitive, psychometric, and biological data available. A subgroup (Subcohort I, n=600)&#xD;
+      provided expanded clinical, cognitive, psychometric, and biological data as well as Magnetic&#xD;
+      Resonance Imaging (MRI) and Electroencephalogram (EEG). Subcohort II, (n=60) will be&#xD;
+      exclusively for patients unmedicated at initiation, consisting of the same investigation, and&#xD;
+      contributing Positron Emission Tomography imaging with the [11C]-UCB-J tracer of synaptic&#xD;
+      density.&#xD;
+&#xD;
+      Follow-up All cohorts receive questionnaires assessing depression symptom severity, level of&#xD;
+      functioning, and QoL at the three follow-up time points. We also assess the side effects of&#xD;
+      psychological treatment and medication at the end of the treatment package. The cohorts are&#xD;
+      also followed in nationwide health registries.&#xD;
+&#xD;
+      Outcomes The primary outcome is remission (QIDS ≤5) and clinical improvement (≥50% reduction&#xD;
+      in QIDS) after 6 months.&#xD;
+&#xD;
+      Secondary endpoints include remission status 12 and 18 months after treatment start and&#xD;
+      change in QIDS, SCL10, WHO-5, and SDS scores from baseline to follow-ups.&#xD;
+&#xD;
+      Analysis We will use machine learning algorithms to determine a combination of baseline&#xD;
+      characteristics that best predict treatment outcomes and statistical models to investigate&#xD;
+      the association between individual and clinical outcomes. We will also assess associations&#xD;
+      between patient characteristics, treatment choices, and clinical outcomes using path&#xD;
+      analysis, enabling us to estimate the effect of treatment choices and timing on the clinical&#xD;
+      outcome.&#xD;
+&#xD;
+      Hypotheses for the whole cohort:&#xD;
+&#xD;
+      Primary hypotheses:&#xD;
+&#xD;
+      1.1 Clinical, cognitive, psychometric, genetic, and blood biomarker measures at inclusion can&#xD;
+      predict clinical remission (defined as QIDS≤5) at the first follow-up.&#xD;
+&#xD;
+      1.2 Clinical, cognitive, psychometric, genetic, and blood biomarker measures at inclusion can&#xD;
+      predict clinical improvement (a ≥50% reduction in QIDS from pretreatment) at the first&#xD;
+      follow-up.&#xD;
+&#xD;
+      Secondary hypotheses:&#xD;
+&#xD;
+      1.3 Composite scores across a range of clinical, cognitive, psychometric, genetic, and blood&#xD;
+      biomarker measures at inclusion can cluster patients into MDD subgroups associated with&#xD;
+      treatment trajectories and outcomes.&#xD;
+&#xD;
+      1.4 Clinical, cognitive, psychometric, genetic, and blood biomarker measures at inclusion are&#xD;
+      associated with clinical outcome defined as a change in QIDS.&#xD;
+&#xD;
+      1.5 Path analysis of baseline patient characteristics and treatment tracks can uncover causal&#xD;
+      paths for clinical improvements, i.e., estimate the effect of treatment on clinical outcomes.&#xD;
+&#xD;
+      Hypotheses for Subcohort I&#xD;
+&#xD;
+      Primary hypotheses:&#xD;
+&#xD;
+      2.1 MRI, fMRI, and EEG patterns at inclusion may be associated with depressive phenotypes.&#xD;
+&#xD;
+      2.2 Adding EEG, MRI, and fMRI measures at inclusion to the classifier model (defined in&#xD;
+      hypotheses 1.1 and 1.2) may significantly improve the prediction of clinical remission and&#xD;
+      improvement.&#xD;
+&#xD;
+      Secondary hypotheses:&#xD;
+&#xD;
+      2.3 Adding EEG, MRI, and fMRI measures at inclusion to the composite score (defined in&#xD;
+      hypothesis 1.3) may significantly improve the clustering of patients into MDD subgroups.&#xD;
+&#xD;
+      Hypotheses for Subcohort II&#xD;
+&#xD;
+      Primary hypotheses:&#xD;
+&#xD;
+      3.1 Cerebral [11C]-UCB-J binding is lower in patients with MDD than in healthy controls.&#xD;
+&#xD;
+      3.2 Domain-specific cognitive function correlates positively with [11C]-UCB-J binding in&#xD;
+      associated cortical and subcortical areas.&#xD;
+&#xD;
+      Secondary hypotheses:&#xD;
+&#xD;
+      3.1 Depression severity, anxiety, and anhedonia correlate with [11C]-UCB-J binding in&#xD;
+      associated cortical and subcortical areas.&#xD;
+&#xD;
+      3.2 Addition of [11C]-UCB-J binding, EEG, and MRI measures at inclusion to the composite&#xD;
+      score (defined in hypotheses 2.1) can significantly improve the prediction of clinical&#xD;
+      improvement and remission beyond clinical, cognitive, psychometric, fluid biomarker, EEG, and&#xD;
+      MRI measures in antidepressant naïve patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 15, 2021</start_date>
+  <completion_date type="Anticipated">May 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>18 Months</target_duration>
+  <primary_outcome>
+    <measure>Clinical remission</measure>
+    <time_frame>Baseline to 6 months after treatment start</time_frame>
+    <description>Quick Inventory of Depressive Symptomatology (QIDS) score of ≤5</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical improvement</measure>
+    <time_frame>Baseline to 6 months after treatment start</time_frame>
+    <description>≥50% reduction in QIDS score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in depression severity</measure>
+    <time_frame>Baseline to 6, 12 and 18 months after treatment start</time_frame>
+    <description>Changes in depression severity by QIDS (range from 0 to 27, higher score indicating greater severity)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in symptomatology</measure>
+    <time_frame>Baseline to 6, 12 and 18 months after treatment start</time_frame>
+    <description>Changes on the Brief Symptom Inventory 18 (BSI-18, range 0-72, higher score indicating greater psychological distress)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in depression and anxiety symptomatology</measure>
+    <time_frame>Baseline to 6, 12 and 18 months after treatment start</time_frame>
+    <description>Changes on the 10-item depression and anxiety symptom checklist (SCL-10, range 0-100 higher score indicating greater symptomatology)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in wellbeing</measure>
+    <time_frame>Baseline to 6, 12 and 18 months after treatment start</time_frame>
+    <description>Changes measured by the WHO-5 well-being Index (range 0-100, with 0 representing the worst imaginable well-being and 100 representing the best imaginable well-being).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in disability</measure>
+    <time_frame>Baseline to 6, 12 and 18 months after treatment start</time_frame>
+    <description>Changes measured by modified S. Disability Scale (mSDS) scores (range 0-30, with greater score indicating greater disability)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Medication side-effects</measure>
+    <time_frame>Baseline to 6 months after treatment start</time_frame>
+    <description>Patient Reported Inventory of Side-Effects (PRISE)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse and unwanted events in psychotherapy</measure>
+    <time_frame>Baseline to 6 months after treatment start</time_frame>
+    <description>Negative Effects Questionnaire (NEQ) to assess adverse and unwanted events in psychological treatment</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Psychosocial remission</measure>
+    <time_frame>Baseline to 6, 12 and 18 months after treatment start</time_frame>
+    <description>Defined as either a WHO-5 score of &gt;49, an SCL-10 score of &lt;26 or an mSDS score of &lt;10.</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Depressive Disorder, Major</condition>
+  <condition>Treatment Outcome</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Cognitive Behavioral Therapy</condition>
+  <condition>Antidepressive Agents</condition>
+  <arm_group>
+    <arm_group_label>Patient cohort (n=800)</arm_group_label>
+    <description>All participants included will contribute with basic clinical, cognitive, psychometric, genetic and biochemical data.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subcohort I (n=600)</arm_group_label>
+    <description>Patients in Subcohort I undergo MRI and EEG in addition to expanded clinical, cognitive, psychometric, and biological data.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subcohort II - drug naive PET subgroup (n=60)</arm_group_label>
+    <description>A subgroup of Subcohort I, including only patients who at inclusion do not receive any pharmacological treatment for their depression, undergo in addition Positron Emission Tomography imaging with [11C]-UCB-J for measurement of cerebral synaptic density.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Treatment Package for First-Episode Depression</intervention_name>
+    <description>The outpatient 'treatment package' for first episode depression is a national uniform package designed by Mental Health Services in the Capital Region. The treatment package for first-episode depression is a program with manualized group CBT, psychoeducation of patients and relatives, and relapse prevention. Antidepressant medication and individual psychotherapy are available as needed.</description>
+    <arm_group_label>Patient cohort (n=800)</arm_group_label>
+    <arm_group_label>Subcohort I (n=600)</arm_group_label>
+    <arm_group_label>Subcohort II - drug naive PET subgroup (n=60)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The Capital Region of Denmark is the most urban area of Denmark and has a population of 1.6&#xD;
+        million people. Patients in the Capital Region of Denmark are referred from their general&#xD;
+        practitioner or other treatment providers for treatment within the mental health services&#xD;
+        in the region. All six clinics in the region provide treatment packages for first-episode&#xD;
+        depression.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age between 18 and 65 years&#xD;
+&#xD;
+          -  Fulfilment of International Classification of Diseases version 10 diagnostic criteria&#xD;
+             for a primary depressive episode (i.e., not secondary to known organic or other&#xD;
+             psychiatric disorder).&#xD;
+&#xD;
+          -  Referral to a treatment package for single-episode depression.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Psychosis or psychotic symptoms&#xD;
+&#xD;
+          -  History of severe head trauma&#xD;
+&#xD;
+          -  Somatic disease associated with morphological brain changes (e.g., brain tumour)&#xD;
+&#xD;
+          -  Insufficient Danish language skills to complete questionnaires and cognitive testing&#xD;
+&#xD;
+        Additional exclusion criteria for Cohort II:&#xD;
+&#xD;
+          -  Severe somatic disease&#xD;
+&#xD;
+          -  Contraindications for MRI (e.g., metal implants, claustrophobia or back problems)&#xD;
+&#xD;
+        Additional exclusion criteria for Cohort III:&#xD;
+&#xD;
+          -  Severe somatic disease&#xD;
+&#xD;
+          -  Contraindications for MRI&#xD;
+&#xD;
+          -  Exposure to radioactivity &gt;10 mSv within the last year&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+&#xD;
+          -  Use of psychotropic drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Martin B Jørgensen, DMSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Psychiatric Center Copenhagen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gitte MK Knudsen, DMSc</last_name>
+    <role>Study Director</role>
+    <affiliation>Neurobiology Research Unit, Rigshospitalet</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kristian HR Jensen, MD</last_name>
+    <phone>+45 35456720</phone>
+    <email>kristian.reveles.jensen@nru.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Martin B Jørgensen, DMSc</last_name>
+    <phone>+45 38647082</phone>
+    <email>Martin.Balslev.Joergensen@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Neurobiology Research Unit, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gitte M Knudsen, Professor</last_name>
+      <phone>+45 3545 6712</phone>
+      <email>gitte@nru.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Martin B Jørgensen, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kristian HR Jensen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <link>
+    <url>https://www.regioner.dk/media/11322/pakkeforloeb-for-depressiv-enkelt-episode.pdf</url>
+    <description>Description of treatment package (in Danish)</description>
+  </link>
+  <reference>
+    <citation>Cipriani A, Furukawa TA, Salanti G, Chaimani A, Atkinson LZ, Ogawa Y, Leucht S, Ruhe HG, Turner EH, Higgins JPT, Egger M, Takeshima N, Hayasaka Y, Imai H, Shinohara K, Tajika A, Ioannidis JPA, Geddes JR. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. Lancet. 2018 Apr 7;391(10128):1357-1366. doi: 10.1016/S0140-6736(17)32802-7. Epub 2018 Feb 21.</citation>
+    <PMID>29477251</PMID>
+  </reference>
+  <reference>
+    <citation>Trevino K, McClintock SM, McDonald Fischer N, Vora A, Husain MM. Defining treatment-resistant depression: a comprehensive review of the literature. Ann Clin Psychiatry. 2014 Aug;26(3):222-32.</citation>
+    <PMID>25166485</PMID>
+  </reference>
+  <reference>
+    <citation>Kessler RC, van Loo HM, Wardenaar KJ, Bossarte RM, Brenner LA, Ebert DD, de Jonge P, Nierenberg AA, Rosellini AJ, Sampson NA, Schoevers RA, Wilcox MA, Zaslavsky AM. Using patient self-reports to study heterogeneity of treatment effects in major depressive disorder. Epidemiol Psychiatr Sci. 2017 Feb;26(1):22-36. doi: 10.1017/S2045796016000020. Epub 2016 Jan 26.</citation>
+    <PMID>26810628</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>November 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Gitte Moos Knudsen</investigator_full_name>
+    <investigator_title>MD,Professor</investigator_title>
+  </responsible_party>
+  <keyword>PET</keyword>
+  <keyword>MRI</keyword>
+  <keyword>fMRI</keyword>
+  <keyword>EEG</keyword>
+  <keyword>Prediction of treatment response</keyword>
+  <keyword>Early life stress</keyword>
+  <keyword>Selective Serotonin Reuptake Inhibitor</keyword>
+  <keyword>Psychometrics</keyword>
+  <keyword>MDD</keyword>
+  <keyword>Cold cognition</keyword>
+  <keyword>Social cognition</keyword>
+  <keyword>Anxiety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Via the Center for Integrated Molecular Brain Imaging (Knudsen et al. 2016, NeuroImage), data will be available for the research community upon request and after approval by the scientific board at Neurobiological Research Unit.&#xD;
+The data will be stored on a password-protected survey system behind secure &quot;firewalls&quot; per the General Data Protection Regulation (GDPR, Regulation European Union (EU) 2016/679 April 27th, 2016) and the Danish Data Protection Act and the regulation (Act No. 502 of May 23rd, 2018). Potential further processing in other national and international laboratories may occur, yet always per the GDPR (Regulation EU 2016/679 April 27th, 2016), the Danish Data Protection Act, and the regulation (Act No. 502 of May 23rd, 2018).</ipd_description>
+    <ipd_time_frame>Upon study completion</ipd_time_frame>
+    <ipd_access_criteria>Researchers may apply for access to the data.</ipd_access_criteria>
+    <ipd_url>https://cimbi.dk/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,246 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613036</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1403-0005</org_study_id>
+    <secondary_id>2021-006682-38</secondary_id>
+    <nct_id>NCT05613036</nct_id>
+  </id_info>
+  <brief_title>A Study in People With Advanced Cancer to Test How BI 907828 is Processed in the Body</brief_title>
+  <official_title>An Open-label, Non-randomized Phase I Investigation of Human ADME (Absorption, Distribution, Metabolism and Excretion) and Absolute Oral Bioavailability of BI 907828 in Patients With Advanced Solid Tumours</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is open to adults with advanced cancer (solid tumours). People for whom previous&#xD;
+      treatment was not successful or no treatment exists can take part. This study tests a&#xD;
+      medicine called BI 907828. BI 907828 is a so-called p53-MDM2 antagonist that is being&#xD;
+      developed to treat cancer.&#xD;
+&#xD;
+      The purpose of the study is to find out how BI 907828 is processed in the body. In the first&#xD;
+      3 weeks, participants therefore get a single dose of BI 907828 in a labelled form. The first&#xD;
+      participants take BI 907828 as a liquid. This is to find out how much BI 907828 is taken up&#xD;
+      in the body when it is taken by mouth. Participants who join the study later get BI 907828 as&#xD;
+      an infusion into a vein in a labelled form and take BI 907828 as a normal tablet. This is to&#xD;
+      find out how long BI 907828 stays in the blood. After the first 3 weeks, all participants&#xD;
+      take BI 907828 as tablets every 3 weeks as long as they benefit from treatment and can&#xD;
+      tolerate it.&#xD;
+&#xD;
+      During the study, participants visit the study site regularly. Some of the study visits&#xD;
+      include staying overnight. At the beginning, some of the participants stay at the study site&#xD;
+      for 15 nights. The doctors also regularly check participants' health and take note of any&#xD;
+      unwanted effects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2022</start_date>
+  <completion_date type="Anticipated">May 10, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 26, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cohort 1: fraction of [¹⁴C]-radioactivity excreted in urine as percentage of the administered dose over the time interval from 0 to the last quantifiable time point per patient (feurine, 0-tz)</measure>
+    <time_frame>up to 36 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 1: fraction of [14C]-radioactivity excreted in faeces as percentage of the administered dose over the time interval from 0 to the last quantifiable time point per participant (fefaeces, 0-tz)</measure>
+    <time_frame>up to 36 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Area under the concentration-time curve of the analyte in plasma over the time interval from 0 to infinity (AUCo-∞) for [¹⁴C]-BI 907828</measure>
+    <time_frame>up to 15 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Area under the concentration-time curve of the analyte in plasma over the time interval from 0 to infinity (AUCo-∞) for BI 907828</measure>
+    <time_frame>up to 15 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: : Maximum measured concentration-time curve of the analyte ([14C]-radioactivity, BI 907828 and its metabolite) in plasma (Cmax)</measure>
+    <time_frame>up to 36 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Area under the concentration-time curve of the analyte over the time interval from 0 to the last quantifiable time point (AUC0-tz)</measure>
+    <time_frame>up to 36 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Maximum measured concentration-time curve of the analyte in plasma (Cmax)</measure>
+    <time_frame>up to 15 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1: Formulation 1 (Cycle 1) then BI 907828 (Cycle 2 onwards)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2: BI 907828 (T) then Formulation 2 (R) (Cycle 1) then BI 907828 (Cycle 2 onwards)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[¹⁴C]-BI 907828 mixed with BI 907828 (formulation 1)</intervention_name>
+    <description>[¹⁴C]-BI 907828 mixed with BI 907828 (formulation 1)</description>
+    <arm_group_label>Cohort 1: Formulation 1 (Cycle 1) then BI 907828 (Cycle 2 onwards)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[¹⁴C]-BI 907828 mixed with BI 907828 (formulation 2)</intervention_name>
+    <description>[¹⁴C]-BI 907828 mixed with BI 907828 (formulation 2)</description>
+    <arm_group_label>Cohort 2: BI 907828 (T) then Formulation 2 (R) (Cycle 1) then BI 907828 (Cycle 2 onwards)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 907828</intervention_name>
+    <description>BI 907828</description>
+    <arm_group_label>Cohort 1: Formulation 1 (Cycle 1) then BI 907828 (Cycle 2 onwards)</arm_group_label>
+    <arm_group_label>Cohort 2: BI 907828 (T) then Formulation 2 (R) (Cycle 1) then BI 907828 (Cycle 2 onwards)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed and dated written informed consent in accordance with International Conference&#xD;
+             on Harmonisation-Good Clinical Practice (ICH-GCP) and local legislation prior to&#xD;
+             admission to the trial.&#xD;
+&#xD;
+          -  Men or women of non-childbearing potential* aged ≥ 18 years and ≤ 70 years at the time&#xD;
+             of signature of the Informed Consent Form (ICF).&#xD;
+&#xD;
+             *Non-childbearing potential is defined as permanently sterile or post-menopausal.&#xD;
+             Permanent sterilization methods include hysterectomy, bilateral salpingectomy and&#xD;
+             bilateral oophorectomy. Tubal ligation is NOT a method of permanent sterilization.&#xD;
+             Post-menopausal defined as at least 1 year of spontaneous amenorrhea (in questionable&#xD;
+             cases a blood sample with levels of Follicle Stimulating Hormone (FSH) above 40 U/L&#xD;
+             and estradiol below 30 ng/L is confirmatory) without an alternative medical cause.&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed diagnosis of an advanced, unresectable&#xD;
+             and/or metastatic solid tumor.&#xD;
+&#xD;
+          -  Patients with measurable or non-measurable disease. Non-evaluable disease is allowed.&#xD;
+&#xD;
+          -  Patient who has failed or rejected conventional treatment or for whom no therapy of&#xD;
+             proven efficacy exists or who is not eligible for established treatment options.&#xD;
+             Patient should have exhausted available treatment options known to prolong survival&#xD;
+             for their disease.&#xD;
+&#xD;
+          -  BMI of 18.5 to 29.9 kilogram per square meter (kg/m2) at Screening.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.&#xD;
+&#xD;
+          -  All toxicities related to previous anti-cancer therapies have resolved ≤ CTCAE Grade 1&#xD;
+             prior to trial treatment administration (except for alopecia and peripheral neuropathy&#xD;
+             which must be ≤ Common Terminology Criteria for Adverse Events (CTCAE) Grade 2 and).&#xD;
+             Note: Patients with chronic grade 2 toxicities that are asymptomatic or adequately&#xD;
+             managed with stable medication may be eligible with approval from the Sponsor.&#xD;
+&#xD;
+          -  Further inclusion criteria apply.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with known TP53 mutant tumours (Note: testing is not mandatory for&#xD;
+             inclusion).&#xD;
+&#xD;
+          -  Second malignancy currently requiring active therapy (except for hormonal&#xD;
+             /antihormonal treatment e.g. in prostate or breast cancer).&#xD;
+&#xD;
+          -  Received chemo-, immuno-, or molecular-targeted cancer-therapy or investigational drug&#xD;
+             within the past 30 days or within 5 half-life periods (as far as known for&#xD;
+             investigational therapies) prior to the initiation of trial treatment or planning to&#xD;
+             receive any of these therapies concomitantly with this trial. This restriction does&#xD;
+             not apply to steroids, bisphosphonates, and hormonal/antihormonal treatment (e.g. in&#xD;
+             prostate or breast cancer).&#xD;
+&#xD;
+          -  Patients who have received radiotherapy within 4 weeks prior to trial entry. Note:&#xD;
+             Patients receiving limited palliative radiation to non-gastrointestinal areas within 4&#xD;
+             weeks prior to trial entry may still be eligibility upon discussion with and&#xD;
+             confirmation from the Sponsor.&#xD;
+&#xD;
+          -  No ¹⁴C related study medication containing over 0.1 Megabecquerel (MBq) radiation in&#xD;
+             the last 12 months prior to dosing in the current study.&#xD;
+&#xD;
+          -  Clinical evidence of active brain metastasis or leptomeningeal disease in the past 6&#xD;
+             months prior to screening.&#xD;
+&#xD;
+          -  Irregular defecation pattern (less than once per 2 days) or urinary incontinence&#xD;
+             (applicable for Cohort 1 (ADME) patients only).&#xD;
+&#xD;
+          -  Patient is unwilling to undergo intensive blood sampling or has veins unsuitable for&#xD;
+             blood sampling or infusion.&#xD;
+&#xD;
+          -  Further exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>PRA Hungary Ltd.</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1077</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Boehringer Ingelheim</last_name>
+      <phone>680017725</phone>
+      <email>magyarorszag@bitrialsupport.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hungary</country>
+  </location_countries>
+  <link>
+    <url>http://www.mystudywindow.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>May 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non interventional, are in scope for sharing of the raw clinical study data and clinical study documents. Exceptions might apply, e.g. studies in products where Boehringer Ingelheim is not the license holder; studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials; studies conducted in a single center or targeting rare diseases (in case of low number of patients and therefore limitations with anonymization). For more details refer to: https:// www.mystudywindow.com/msw/datatransparency</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,773 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623345</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22104</org_study_id>
+    <secondary_id>2022-501362-22</secondary_id>
+    <nct_id>NCT05623345</nct_id>
+  </id_info>
+  <brief_title>Psoriatic Arthritis Study of Izokibep</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Multicenter Phase 2b/3 Study to Evaluate the Efficacy and Safety of Izokibep in Subjects With Active Psoriatic Arthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ACELYRIN Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ACELYRIN Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Izokibep is a potent and selective inhibitor of interleukin (IL)-17A that is being developed&#xD;
+      for treatment of psoriatic arthritis (PsA).&#xD;
+&#xD;
+      This study will evaluate the efficacy of izokibep in subjects with PsA.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 21, 2022</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects achieving 50% improvement in American College of Rheumatology (ACR50)</measure>
+    <time_frame>Week 16</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with resolution of enthesitis Leeds Enthesitis Index in subjects with enthesitis (LEI&gt;0) at baseline</measure>
+    <time_frame>Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving an improvement in Psoriatic Arthritis Impact of Disease (PsAID) of at least 3 units at Week 16 compared to baseline in subjects with PsAID ≥3 at baseline</measure>
+    <time_frame>Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving 90% or greater reduction in Psoriasis Area and Severity Index (PASI) score from baseline (PASI90) at Week 16 in subjects with ≥3% body surface area (BSA) psoriasis at baseline</measure>
+    <time_frame>Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical function as assessed by Health Assessment Questionnaire - Disability Index (HAQ-DI) change from baseline to Week 16</measure>
+    <time_frame>Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving 20% improvement in American College of Rheumatology (ACR20)</measure>
+    <time_frame>Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Day 1 to end of treatment; Up to 52 weeks (±3 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of events of interest</measure>
+    <time_frame>Screening to Safety Follow-up; Up to 59 weeks (±5 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events (SAEs)</measure>
+    <time_frame>Screening to Safety Follow-up; Up to 59 weeks (±5 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant changes in laboratory values</measure>
+    <time_frame>Screening to End of Study; Up to 65 weeks (±5 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant changes in vital signs</measure>
+    <time_frame>Screening to Safety Follow-up; Up to 59 weeks (±5 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent anti-drug antibodies (ADAs)</measure>
+    <time_frame>Day 1 to End of Study; Up to 65 weeks (±5 days)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">325</enrollment>
+  <condition>Psoriatic Arthritis</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo from Day 1/Week 0 to Week 15, then izokibep from Week 16 to Week 51</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Izokibep Dose 1 from Day 1/Week 0 to Week 51</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Izokibep Dose 2 from Day 1/Week 0 to Week 51</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Izokibep Dose 3 from Day 1/Week 0 to Week 51</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Izokibep</intervention_name>
+    <description>Biologic: IL-17A inhibitor&#xD;
+Form: Solution for injection&#xD;
+Route of administration: Subcutaneous (SC)</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_label>Group 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo to izokibep</intervention_name>
+    <description>Form: Solution for injection&#xD;
+Route of administration: Subcutaneous (SC)</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_label>Group 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        General&#xD;
+&#xD;
+          -  Subject has provided signed informed consent including consenting to comply with the&#xD;
+             requirements and restrictions listed in the informed consent form (ICF) and in this&#xD;
+             protocol.&#xD;
+&#xD;
+          -  Subject must be ≥18 (or the legal age of consent in the jurisdiction in which the&#xD;
+             study is taking place) and ≤75 years of age, at the time of signing the informed&#xD;
+             consent.&#xD;
+&#xD;
+        Type of Subject and Disease Characteristics&#xD;
+&#xD;
+          -  Clinical diagnosis of psoriatic arthritis (PsA) with symptom onset at least 6 months&#xD;
+             prior to the first dose of study drug and fulfillment of the ClASsification for&#xD;
+             Psoriatic ARthritis (CASPAR) criteria at Screening.&#xD;
+&#xD;
+          -  Active PsA defined as ≥3 tender joints (based on 68 joint counts) and ≥3 swollen&#xD;
+             joints (based on 66 joint counts) at Screening and Baseline Visits&#xD;
+&#xD;
+          -  Rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) negative at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Subject must have had an inadequate response to at least one of the following:&#xD;
+&#xD;
+               1. nonsteroidal anti-inflammatory drug (NSAID)&#xD;
+&#xD;
+               2. conventional-synthetic disease-modifying anti-rheumatic drugs (csDMARD) (i.e.&#xD;
+                  methotrexate, sulfasalazine, leflunomide, hydroxychloroquine, cyclosporine A)&#xD;
+&#xD;
+               3. tumor necrosis factor-alpha inhibitor(s) (TNFi) (e.g. adalimumab, infliximab,&#xD;
+                  etanercept, golimumab, certolizumab).&#xD;
+&#xD;
+          -  For subjects using methotrexate, leflunomide, sulfasalazine, hydroxychloroquine, or&#xD;
+             apremilast, treated for ≥3 months and a stable dose (not to exceed 25 mg methotrexate&#xD;
+             per week, 20 mg leflunomide per day, sulfasalazine 3 g per day, hydroxychloroquine 400&#xD;
+             mg per day, or apremilast 60 mg per day) for ≥4 weeks prior to first dose of study&#xD;
+             drug.&#xD;
+&#xD;
+          -  For subjects using corticosteroids, must have been on a stable dose and regimen and&#xD;
+             not to exceed 7.5 mg per day of prednisone (or other corticosteroid equivalent to 7.5&#xD;
+             mg per day of prednisone) for ≥4 weeks prior to first dose of study drug.&#xD;
+&#xD;
+          -  For subjects using NSAIDs, must have been on a stable dose and regimen for ≥2 weeks&#xD;
+             prior to first dose of study drug.&#xD;
+&#xD;
+        Other Inclusions&#xD;
+&#xD;
+          -  No known history of active tuberculosis (TB).&#xD;
+&#xD;
+          -  Subject has a negative TB test at screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Disease-related Medical Conditions&#xD;
+&#xD;
+        - Any history or current confirmed diagnosis of inflammatory bowel disease (IBD) OR&#xD;
+&#xD;
+        Any of the following symptoms (of unknown etiology) or any signs or symptoms within the&#xD;
+        last year that in the opinion of the Investigator may be suggestive of IBD, with fecal&#xD;
+        calprotectin ≥ 500 μg/g; OR if fecal calprotectin &gt;150 to &lt;500 μg/g without confirmed&#xD;
+        approval from a GI consult that an IBD diagnosis is clinically unlikely when the following&#xD;
+        clinical signs and symptoms are present:&#xD;
+&#xD;
+          1. prolonged or recurrent diarrhea&#xD;
+&#xD;
+          2. prolonged or recurrent abdominal pain&#xD;
+&#xD;
+          3. blood in stool&#xD;
+&#xD;
+               -  History of fibromyalgia, or any arthritis with onset prior to age 17 years or&#xD;
+                  current diagnosis of inflammatory joint disease other than psoriatic arthritis&#xD;
+                  (PsA) (including, but not limited to rheumatoid arthritis, gout, connective&#xD;
+                  tissue diseases). Prior history of axial spondyloarthritis or fibromyalgia is&#xD;
+                  permitted if documentation of change in diagnosis to PsA or documentation that&#xD;
+                  the diagnosis was made incorrectly. Prior history of reactive arthritis or axial&#xD;
+                  spondyloarthritis is permitted if an additional diagnosis of PsA is made. Chronic&#xD;
+                  osteoarthritis symptoms that in the Investigator's opinion may interfere with&#xD;
+                  study assessments.&#xD;
+&#xD;
+               -  Uncontrolled, clinically significant system disease&#xD;
+&#xD;
+               -  Malignancy within 5 years&#xD;
+&#xD;
+               -  Severe, uncontrolled, medically unstable mood disorder, such as severe&#xD;
+                  depression.&#xD;
+&#xD;
+               -  History or evidence of any clinically significant disorder (including&#xD;
+                  psychiatric), condition, or disease that, in the opinion of the investigator, may&#xD;
+                  pose a risk to subject safety or interfere with the study evaluation, procedures,&#xD;
+                  or completion.&#xD;
+&#xD;
+               -  Active infection or history of certain infections&#xD;
+&#xD;
+               -  Candida infection requiring systemic treatment within 3 months prior to first&#xD;
+                  dose of study drug.&#xD;
+&#xD;
+               -  Tuberculosis or fungal infection seen on available chest x-ray taken within 3&#xD;
+                  months prior to first dose of study drug or at screening (Exception: documented&#xD;
+                  evidence of completed treatment and clinically resolved).&#xD;
+&#xD;
+               -  Known history of human immunodeficiency virus (HIV) or positive HIV test at&#xD;
+                  screening.&#xD;
+&#xD;
+        Other protocol defined Inclusion/Exclusion criteria may apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Apinya Lert, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>ACELYRIN Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Apinya Lert, MD</last_name>
+    <phone>+1-805-456-4393</phone>
+    <email>clinicaltrials@acelyrin.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Glendale</city>
+        <state>Arizona</state>
+        <zip>85306</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Peoria</city>
+        <state>Arizona</state>
+        <zip>85381</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Jonesboro</city>
+        <state>Arkansas</state>
+        <zip>72401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Palm Desert</city>
+        <state>California</state>
+        <zip>92260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Upland</city>
+        <state>California</state>
+        <zip>91786</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33765</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Daytona Beach</city>
+        <state>Florida</state>
+        <zip>32117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239-6900</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Hinsdale</city>
+        <state>Illinois</state>
+        <zip>60521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Orland Park</city>
+        <state>Illinois</state>
+        <zip>60467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Schaumburg</city>
+        <state>Illinois</state>
+        <zip>60195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Skokie</city>
+        <state>Illinois</state>
+        <zip>60076</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Cumberland</city>
+        <state>Maryland</state>
+        <zip>21502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Wheaton</city>
+        <state>Maryland</state>
+        <zip>20902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Grand Blanc</city>
+        <state>Michigan</state>
+        <zip>48439</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Okemos</city>
+        <state>Michigan</state>
+        <zip>48864</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Middleburg Heights</city>
+        <state>Ohio</state>
+        <zip>44130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Perrysburg</city>
+        <state>Ohio</state>
+        <zip>43551</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Duncansville</city>
+        <state>Pennsylvania</state>
+        <zip>16635-8445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Beckley</city>
+        <state>West Virginia</state>
+        <zip>25801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>West Virginia</state>
+        <zip>25309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1303</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Trois-Rivières</city>
+        <state>Quebec</state>
+        <zip>G8Z 1Y2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Veszprém</city>
+        <zip>8200</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-691</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Alcobendas</city>
+        <zip>28100</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Site</name>
+      <address>
+        <city>Santiago De Compostela</city>
+        <zip>15702</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Bulgaria</country>
+    <country>Canada</country>
+    <country>Hungary</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>May 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>psoriatic arthritis (PsA)</keyword>
+  <keyword>psoriasis</keyword>
+  <keyword>inflammatory arthritis</keyword>
+  <keyword>enthesitis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Psoriatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

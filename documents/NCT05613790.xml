@@ -1,0 +1,177 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613790</url>
+  </required_header>
+  <id_info>
+    <org_study_id>511098020</org_study_id>
+    <nct_id>NCT05613790</nct_id>
+  </id_info>
+  <brief_title>Effect of High-Definition Transcranial Direct Current Stimulation (HD-tDCS) on Attentional Control: an fMRI Study on Healthy Participants</brief_title>
+  <official_title>Effect of High-Definition Transcranial Direct Current Stimulation (HD-tDCS) on Attentional Control: an fMRI Study on Healthy Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Tehran</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Tehran</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In a randomized, triple-blind, sham-controlled clinical trial, we will assess the effect of a&#xD;
+      single session frontal cortex High-Definition transcranial Direct Current Stimulation&#xD;
+      (HD-tDCS) on brain activity and functional connectivity underlying the behavioral change in&#xD;
+      attentional control in healthy participants. Participants will be recruited after meeting the&#xD;
+      inclusion criteria and will be randomly assigned to active or sham stimulation groups. All&#xD;
+      participants will undergo resting-state functional Magnetic Resonance Imaging (rsfMRI) scan&#xD;
+      and perform an Attention Network Test (ANT) in a functional Magnetic Resonance Imaging (fMRI)&#xD;
+      scanner before and after receiving a single session of active or sham HD-tDCS.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2022</start_date>
+  <completion_date type="Anticipated">March 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants are allocated to one of two conditions: Active or Sham.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>Triple-blind study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Attention Network Test (ANT) performance before and after the intervention (active versus sham HD-tDCS)</measure>
+    <time_frame>Immediate before and immediate after intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in resting state functional connectivity before and after the intervention (active versus sham HD-tDCS)</measure>
+    <time_frame>Immediate before and immediate after intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in task-based functional connectivity during Attention Network Test (ANT) before and after the intervention (active versus sham HD-tDCS)</measure>
+    <time_frame>Immediate before and immediate after intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the blood-oxygen-level-dependent (BOLD) signal during Attention Network Test (ANT) before and after the intervention (active versus sham HD-tDCS)</measure>
+    <time_frame>Immediate before and immediate after intervention</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Side effect checklist for transcranial Direct Current Stimulation (Reported as Yes or No)</measure>
+    <time_frame>One day after simulation session</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Active HD-tDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the active arm will receive 20 min of real High-Definition transcranial direct current stimulation. Additional ramp-up and ramp-down phases at the beginning and the end of stimulation will last for 30 s.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham HD-tDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During the sham session, the montage will be identical, however, the current amplitude will ramp up for 30 seconds, and for the remaining stimulation time, the current flow will terminate and will be kept to zero. Ramp-down phase at the end of stimulation will last for 30 s.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Active High-Definition Transcranial Direct Current Stimulation (HD-tDCS)</intervention_name>
+    <description>Portable multi-channel tES stimulation (Starstim 8, Neuroelectric, Barcelona, Spain) will be used.</description>
+    <arm_group_label>Active HD-tDCS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham High-Definition Transcranial Direct Current Stimulation (HD-tDCS)</intervention_name>
+    <description>Portable multi-channel tES stimulation (Starstim 8, Neuroelectric, Barcelona, Spain) will be used.</description>
+    <arm_group_label>Sham HD-tDCS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Right-handed healthy adults&#xD;
+&#xD;
+          -  Age range 20-39 years&#xD;
+&#xD;
+          -  Normal or corrected-to-normal vision&#xD;
+&#xD;
+          -  Willing and capable of following study protocol requirements given in the informed&#xD;
+             consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Psychiatric conditions (e.g., depression and generalized anxiety disorder, etc.)&#xD;
+&#xD;
+          -  Medical illness or neurological disorder (e.g., cardiovascular illness, anemia,&#xD;
+             respiratory illness, neurological illness, seizure, etc.)&#xD;
+&#xD;
+          -  Current abuse of drugs or alcohol&#xD;
+&#xD;
+          -  Any conditions that prevent undergoing an fMRI scan or tDCS stimulation according to&#xD;
+             the fMRI and tDCS safety checklists&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>39 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Faculty of Psychology</last_name>
+    <phone>+982188259378</phone>
+    <email>psyedu@ut.ac.ir</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Faculty of Psychology</name>
+      <address>
+        <city>Tehran</city>
+        <zip>1445983861</zip>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Faculty of Psychology</last_name>
+      <phone>+982188259378</phone>
+      <email>psyedu@ut.ac.ir</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 31, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Tehran</investigator_affiliation>
+    <investigator_full_name>Afra Souki</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>High-Definition Transcranial Direct Current Stimulation</keyword>
+  <keyword>HD-tDCS</keyword>
+  <keyword>functional Magnetic Resonance Imaging</keyword>
+  <keyword>Attentional control</keyword>
+  <keyword>Attention Network Test</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

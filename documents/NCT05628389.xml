@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628389</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB202202537 -N</org_study_id>
+    <secondary_id>R01CA262319</secondary_id>
+    <nct_id>NCT05628389</nct_id>
+  </id_info>
+  <brief_title>Phone Enabled Implementation of Cessation Support (PHOENICS)</brief_title>
+  <official_title>Phone Enabled Implementation of Cessation Support (PHOENICS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Florida</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The tobacco use burden in Lebanon is exceptionally high: 35% of adults are current cigarette&#xD;
+      smokers and 39% are current waterpipe smokers. Although the World Health Organization&#xD;
+      endorses evidence-based interventions for population-level tobacco dependence treatment,&#xD;
+      recommended treatments are not integrated as a routine part of primary care in Lebanon, as is&#xD;
+      the case in other low-resource settings. The objective of this proposal is to evaluate the&#xD;
+      comparative effectiveness of promising multi-component interventions for implementing&#xD;
+      evidence-based cessation treatment in Lebanon's national system of primary health care&#xD;
+      centers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The research team will conduct a group-randomized trial comparing three arms: 1) Ask about&#xD;
+      tobacco use, advise to quit, assist with brief counseling (AAA) as standard care; 2) Ask,&#xD;
+      advise, connect to phone-based counseling (AAC); and 3) AAC+NRT. Our central hypothesis is&#xD;
+      that connecting patients to phone-based counseling with NRT is the most effective&#xD;
+      alternative. The hybrid design is informed by the Exploration, Preparation, Implementation,&#xD;
+      Sustainment (EPIS) framework which emphasizes key steps and multilevel factors to optimize&#xD;
+      implementation success. The following specific aims will be pursued: 1) adapt and tailor an&#xD;
+      existing smoking cessation program to deliver phone-based counseling to smokers in Lebanon;&#xD;
+      2) test the effectiveness and cost-effectiveness of a referral-based program that delivers&#xD;
+      smoking cessation services to primary care patients; and 3) identify the multilevel&#xD;
+      determinants of implementation and sustainability using mixed methods.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2023</start_date>
+  <completion_date type="Anticipated">September 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>7-day smoking abstinence</measure>
+    <time_frame>6 Months</time_frame>
+    <description>Carbon monoxide confirmed-abstinence from smoking in the last 7 days days prior to assessment</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Self-reported abstinence</measure>
+    <time_frame>1, 3, 6 months</time_frame>
+    <description>Continuous abstinence, quit attempts, smoking reduction</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Smoking Cessation</condition>
+  <arm_group>
+    <arm_group_label>Ask-Advice-Assist (AAA)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All patients will be screened for tobacco use, and offer brief cessation advice and counseling.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ask-Advise-Connect (AAC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in will be connected to phone counseling and will receive six sessions of telephone counseling.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ask-Advise-Connect + Nicotine Replacement Therapy (AAC+NRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to AAC, patients will be offered NRT.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Educational materials</intervention_name>
+    <description>Patient educational materials to address insufficient knowledge about harms of tobacco use and cessation.</description>
+    <arm_group_label>Ask-Advice-Assist (AAA)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect (AAC)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect + Nicotine Replacement Therapy (AAC+NRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Phone counseling</intervention_name>
+    <description>Cessation counseling to address insufficient patient self-efficacy and motivation.</description>
+    <arm_group_label>Ask-Advise-Connect (AAC)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect + Nicotine Replacement Therapy (AAC+NRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nicotine therapy</intervention_name>
+    <description>Nicotine replacement therapy to address nicotine withdrawal symptoms in patients.</description>
+    <arm_group_label>Ask-Advise-Connect + Nicotine Replacement Therapy (AAC+NRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Provider training</intervention_name>
+    <description>Provider training to address insufficient knowledge and self-efficacy to deliver AAA/AAC to patients.</description>
+    <arm_group_label>Ask-Advice-Assist (AAA)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect (AAC)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect + Nicotine Replacement Therapy (AAC+NRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Electronic reminders</intervention_name>
+    <description>Electronic reminders to address the lack of integration of AAA/AAC into practice.</description>
+    <arm_group_label>Ask-Advice-Assist (AAA)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect (AAC)</arm_group_label>
+    <arm_group_label>Ask-Advise-Connect + Nicotine Replacement Therapy (AAC+NRT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1) Age 18+&#xD;
+&#xD;
+          -  Daily smoker, at least 5 cigarettes or 1 waterpipe session per day&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+          -  Reachable by phone&#xD;
+&#xD;
+          -  Interested in quitting&#xD;
+&#xD;
+          -  Lives in Greater Beirut Area&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ramzi Salloum, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>American University of Beirut Medical Center</name>
+      <address>
+        <city>Hamra</city>
+        <state>Beirut</state>
+        <country>Lebanon</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maya Romani, MD</last_name>
+      <email>mr39@aub.edu.lb</email>
+    </contact>
+    <investigator>
+      <last_name>Maya Romani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Lebanon</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

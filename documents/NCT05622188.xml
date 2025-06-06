@@ -1,0 +1,264 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622188</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EKNZ ID: 2022 - 01325</org_study_id>
+    <nct_id>NCT05622188</nct_id>
+  </id_info>
+  <brief_title>The Detection of Heat Stress by Assessing Individual Body Responses to Heat (Heat Strain) in Young and Healthy Non-athlete Participants</brief_title>
+  <acronym>HEATSTAR</acronym>
+  <official_title>HEAT Stress Detection From Personally STandARdized Heat Strain Measurements - The HEATSTAR Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ETH Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Swiss Federal Office of Sports (BASPO)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Functional Genomics Center, ETH Zurich/University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Center for Chronobiology, Psychiatric University Clinics, Basel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>epyMetrics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Innosuisse - Swiss Innovation Agency</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Swiss Federal Railways</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ETH Zurich</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      • This study investigates and compares the within and in-between variances of the body&#xD;
+      responses to different heat stressors in a controlled lab-setting. The participants will be&#xD;
+      exposed to different heat sources while a variety of physiological heat strain reactions such&#xD;
+      as heartrate, sweat rate, and core body temperature are recorded using on- and in-body&#xD;
+      devices. For the participant monitoring during the study, medical grade devices such as a&#xD;
+      certified ECG and a swallowable sensor-pill to continuously monitor the core body temperature&#xD;
+      will be applied. A one-for-all wearable device is additionally applied for physiological&#xD;
+      validation. Further, sweat will be collected to assess (i) the local sweat rate and (ii) the&#xD;
+      appearance of different heat stress associated molecular markers in this non-invasively&#xD;
+      collectable biofluid. As a secondary aim, a model will be developed that will enable to&#xD;
+      predict the different heat stress sources out of the heat strain measurements.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 2, 2022</start_date>
+  <completion_date type="Actual">February 10, 2023</completion_date>
+  <primary_completion_date type="Actual">January 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The within and between subject heat strain marker variability in relation to specific heat stress sources (ambient heat, ambient humidity, exertion, and clothing)</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>The primary endpoint is the within- and between- subject heat strain marker variability of HR, CBT, WSR, and LSR in relation to various heat stress sources (increased ambient temperature, increased relative humidity, and exertion, all without and with additional clothing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy to detect the specific heat stress source (such as ambient heat, relative humidity) from different on- and in-body measurements</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>The models for the primary endpoints will be extended to explore the relationships between heat strain parameters, heat stress sources, as well as personal characteristics. Additionally, prediction of heat stress source will be explored.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of short-term heart rate variability in context to each heat stressor.</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>Short-term HRV with a repeating time frame of 5min. Root mean square of successive RR interval (RMSSD; in [ms]) and the Standard-deviation of RR intervals (SDRR; in [ms]) will be computed with respect to each heat stress source.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Temperature [°C] and relative humidity [%] of the microenvironment as an additional source of information for patterns to detect heat stressors</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>Features of temperature [°C] and relative humidity [%] of the microenvironment as additional model predictors.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The relation between cognitive assessment and skin temperature</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>Correlation between subjective heat comfort (Visual Analog Scale, where +1 is comfortable and +4 is very uncomfortable) and baseline differential stress inventory (causes of stress, symptoms of stress, coping, stress stabilization) in relation to skin temperature [°C]</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The relation between STROOP assessment and different heat stressors</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>Correlation between changes in the STROOP assessment outcome (number of errors and time of decision [ms], between beginning and end of heat stress exposure) in context to the various heat stress sources, skin temperature, and thermal comfort.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Novel Sweat Biomarkers for heat stress detection</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>Descriptive statistics for novel non-invasive biomarkers from sweat analysis with respect to heat stress source, including between- and within-subject variability</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Recording heat strain parameters with an all-for-one device</measure>
+    <time_frame>Max. 7 days</time_frame>
+    <description>The 'reliability' (missing data per minute ([%]) and the 'accuracy' (HR [bpm] with 95% confidence intervals), CBT (in [°C] with 95% confidence intervals), and local sweat rate measurements (in [g/h] with 95% confidence intervals) of the wearable device in recording vital parameters.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">23</enrollment>
+  <condition>Heat Stress</condition>
+  <arm_group>
+    <arm_group_label>Healthy participants</arm_group_label>
+    <description>Age of the participants is between 18-40 years, females and males equally distributed</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Elevated ambient heat</intervention_name>
+    <description>Temporary exposure to increased ambient temperature +10°C (the effect of the intervention is fully and spontaneously reversible)</description>
+    <arm_group_label>Healthy participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Elevated relative humidity</intervention_name>
+    <description>Temporary exposure to increased ambient relative humidity +40% (max. 90%) (the effect of the intervention is fully and spontaneously reversible)</description>
+    <arm_group_label>Healthy participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exertion</intervention_name>
+    <description>Temporary exertion on an ergometer (1W/kg body weight) (the effect of the intervention is fully and spontaneously reversible)</description>
+    <arm_group_label>Healthy participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited through Swiss Universities and Swiss Universities of Applied&#xD;
+        Science. The institutions host a broad range of students that are likely to match the&#xD;
+        inclusion criteria.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy participant, able to give consent&#xD;
+&#xD;
+          -  Age 18-40 years&#xD;
+&#xD;
+          -  Non-athlete (&lt;4h sport/week)&#xD;
+&#xD;
+          -  BMI&lt;30 (non-obese)&#xD;
+&#xD;
+          -  German speaking, or fluent in German&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy (urine pregnancy test), and breastfeeding&#xD;
+&#xD;
+          -  Regular medication intake (excluding birth control pill)&#xD;
+&#xD;
+          -  Intake of drugs and/or daily alcohol consumption&#xD;
+&#xD;
+          -  Fever or symptoms of an acute infection (cough, shortness of breath, sore throat,&#xD;
+             taste loss)&#xD;
+&#xD;
+          -  Active smoking or history of smoking &lt;9 months ago&#xD;
+&#xD;
+          -  Mobility impairment&#xD;
+&#xD;
+          -  Traveled (&lt;1 month ago) to a warm/hot temperature zone and stayed for &gt;6 days&#xD;
+&#xD;
+          -  Any chronic conditions such as: high blood pressure, diabetes mellitus,&#xD;
+             immuno-deficiencies, sweat disorders such as anhidrosis&#xD;
+&#xD;
+          -  Color blindness (STROOP test)&#xD;
+&#xD;
+          -  Weight &lt;40 kg (e-Celsius pill)&#xD;
+&#xD;
+          -  Diverticulum or obstructions of the gastrointestinal tract (including motility&#xD;
+             disorders, swallowing disorders) as well as major abdominal surgery (e-Celsius pill)&#xD;
+&#xD;
+          -  Need of exposure to strong electromagnetic fields during study participation, above&#xD;
+             all MRI examinations (e-Celsius pill)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Noé Brasier, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ETH Zurich</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>ETH Zurich</name>
+      <address>
+        <city>Zurich</city>
+        <state>Andere (Nicht USA-Länder)</state>
+        <zip>8093</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <reference>
+    <citation>Watts N, Amann M, Ayeb-Karlsson S, Belesova K, Bouley T, Boykoff M, Byass P, Cai W, Campbell-Lendrum D, Chambers J, Cox PM, Daly M, Dasandi N, Davies M, Depledge M, Depoux A, Dominguez-Salas P, Drummond P, Ekins P, Flahault A, Frumkin H, Georgeson L, Ghanei M, Grace D, Graham H, Grojsman R, Haines A, Hamilton I, Hartinger S, Johnson A, Kelman I, Kiesewetter G, Kniveton D, Liang L, Lott M, Lowe R, Mace G, Odhiambo Sewe M, Maslin M, Mikhaylov S, Milner J, Latifi AM, Moradi-Lakeh M, Morrissey K, Murray K, Neville T, Nilsson M, Oreszczyn T, Owfi F, Pencheon D, Pye S, Rabbaniha M, Robinson E, Rocklov J, Schutte S, Shumake-Guillemot J, Steinbach R, Tabatabaei M, Wheeler N, Wilkinson P, Gong P, Montgomery H, Costello A. The Lancet Countdown on health and climate change: from 25 years of inaction to a global transformation for public health. Lancet. 2018 Feb 10;391(10120):581-630. doi: 10.1016/S0140-6736(17)32464-9. Epub 2017 Oct 30. No abstract available. Erratum In: Lancet. 2017 Nov 23;: Lancet. 2020 Jun 6;395(10239):1762.</citation>
+    <PMID>29096948</PMID>
+  </reference>
+  <reference>
+    <citation>Varghese BM, Hansen A, Bi P, Pisaniello D. Are workers at risk of occupational injuries due to heat exposure? A comprehensive literature review. Safety Science. 2018;110:380-92.</citation>
+  </reference>
+  <reference>
+    <citation>Davey SL, Downie V, Griggs K, Havenith G. The physiological strain index does not reliably identify individuals at risk of reaching a thermal tolerance limit. Eur J Appl Physiol. 2021 Jun;121(6):1701-1713. doi: 10.1007/s00421-021-04642-3. Epub 2021 Mar 7.</citation>
+    <PMID>33677693</PMID>
+  </reference>
+  <reference>
+    <citation>Nunes MJ, Cordas CM, Moura JJG, Noronha JP, Branco LC. Screening of Potential Stress Biomarkers in Sweat Associated with Sports Training. Sports Med Open. 2021 Jan 22;7(1):8. doi: 10.1186/s40798-020-00294-3.</citation>
+    <PMID>33481103</PMID>
+  </reference>
+  <reference>
+    <citation>Flores M, Glusman G, Brogaard K, Price ND, Hood L. P4 medicine: how systems medicine will transform the healthcare sector and society. Per Med. 2013;10(6):565-576. doi: 10.2217/pme.13.57.</citation>
+    <PMID>25342952</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>February 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ETH Zurich</investigator_affiliation>
+    <investigator_full_name>Noe Brasier</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Heat Strain</keyword>
+  <keyword>Wearable</keyword>
+  <keyword>Sweat Analysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heat Stress Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

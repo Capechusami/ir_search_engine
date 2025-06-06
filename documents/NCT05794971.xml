@@ -1,0 +1,238 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794971</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SYSU-IC-01</org_study_id>
+    <nct_id>NCT05794971</nct_id>
+  </id_info>
+  <brief_title>Regorafenib Combined With Irinotecan Drug-Eluting Beads for Colorectal Cancer Liver Metastases</brief_title>
+  <acronym>RIDER</acronym>
+  <official_title>Regorafenib Combined With Irinotecan Drug-Eluting Beads as Third-line Treatment for Colorectal Cancer Liver Metastases: a Multicentre, Randomised Phase 3 Trial (RIDER)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sun Yat-sen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sun Yat-sen University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a multicentre, prospective, randomised trial, aims to evaluate the efficacy and&#xD;
+      safety of Irinotecan Drug-Eluting Beads combined with regorafenib as the third-line treatment&#xD;
+      for a patient with colorectal cancer liver metastases. The study is planned to enrolled 126&#xD;
+      patients failing first- and second-line standard chemotherapy treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 31, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2028</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2027</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>24 months</time_frame>
+    <description>OS is defined as the time from date of randomization to death due to any cause. Subjects still alive at the time of analysis were censored at their last date of last contact.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>24 months</time_frame>
+    <description>The PFS is defined as the time from the start of treatment to the date of first documented PD or death as a result of any cause, whichever occurred first. When a patient was alive and without progression, PFS was censored at the date of the last disease assessment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>24 months</time_frame>
+    <description>The percentage of subjects with total number of Complete Response (CR) + total number of Partial Response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>24 months</time_frame>
+    <description>DCR is defined as the percentage of subjects whose best response was not Progressive Disease (PD) according to Response Evaluation Criteria in Solid Tumors (RECIST) (= total number of Complete Response (CR) + total number of Partial Response (PR) + total number of Stable Disease (SD); CR, PR, or SD had to be maintained for at least 28 days from the first demonstration of that rating)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>24 months</time_frame>
+    <description>It was defined as the time from the first judgment of complete remission (CR) or partial remission (PR) to the discovery of disease progression (PD) after treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse enents</measure>
+    <time_frame>24 months</time_frame>
+    <description>Safety variables will be summarized using descriptive statistics based on adverse events collection</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">126</enrollment>
+  <condition>Colorectal Cancer Liver Metastases</condition>
+  <condition>Regorafenib</condition>
+  <arm_group>
+    <arm_group_label>Irinotecan Drug-Eluting Beads combined with regorafenib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>regorafenib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Regorafenib and DIBIRI</intervention_name>
+    <description>Drug: Regorafenib Regorafenib will be given 3 weeks on/1 week off (initial dose: 80 mg od po.)&#xD;
+Drug: Irinotecan it will be mixed in eluting-beads and injected in the tumor.&#xD;
+Procedure: TACE Transcatheter arterial chemoembolization（TACE）is a minimally invasive procedure performed to decrease the tumor's blood supply.&#xD;
+Device: drug eluting-bead The eluting-bead,loaded with irinotecan (DEBIRI) to treat patients with hepatic metastases from colorectal cancer.</description>
+    <arm_group_label>Irinotecan Drug-Eluting Beads combined with regorafenib</arm_group_label>
+    <other_name>Drug: Irinotecan</other_name>
+    <other_name>Procedure: TACE</other_name>
+    <other_name>Device: drug eluting-bead</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Regorafenib</intervention_name>
+    <description>Drug: Regorafenib Regorafenib will be given 3 weeks on/1 week off (initial dose: 80 mg od po.)</description>
+    <arm_group_label>regorafenib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients over 18 years of age, of any race or sex, who have histologic or radiologic&#xD;
+             proof of colorectal cancer to the liver, who are able to give informed consent, will&#xD;
+             be eligible.&#xD;
+&#xD;
+          -  Patients failing first- and second-line standard systemic chemotherapy.&#xD;
+&#xD;
+          -  Patients with at least one measurable liver metastases, with size &gt; 1cm response&#xD;
+             evaluation criteria in solid tumors (RECIST)&#xD;
+&#xD;
+          -  Patients with liver dominant disease defined as ≥80% tumor body burden confined to the&#xD;
+             liver&#xD;
+&#xD;
+          -  Less than 60% liver tumor replacement&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status score of &lt; 2&#xD;
+&#xD;
+          -  Child-pugh's grade A or B&#xD;
+&#xD;
+          -  Life expectancy of &gt; 3 months&#xD;
+&#xD;
+          -  Non-pregnant with an acceptable contraception in premenopausal women.&#xD;
+&#xD;
+          -  Hematologic function: absolute neutrophil count (ANC) ≥ 1.5 x 109/L, white cell count&#xD;
+             (WBC) ≥ 3.0 x 109/L, platelets ≥75 x109/L, international normalized ratio (INR) ≤1.3.&#xD;
+&#xD;
+          -  Adequate hepatic and renal function: Alanine aminotransferase (ALT) or aspartate&#xD;
+             aminotransferase ≤2.5×above upper normal range, total bilirubin≤1.5×above upper normal&#xD;
+             range, Serum creatinine≤1.5×above upper normal range&#xD;
+&#xD;
+          -  Women of child bearing potential and fertile men are required to use effective&#xD;
+             contraception negative serum beta human chorionic gonadotropin (βHCG)&#xD;
+&#xD;
+          -  Signed, written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior treatment with TACE, regorafenib or fruquintinib&#xD;
+&#xD;
+          -  Patients with brain metastases&#xD;
+&#xD;
+          -  With serious heart, kidney, bone marrow, or lung, central nervous system diseases.&#xD;
+&#xD;
+          -  Patients suffered with other cancer.&#xD;
+&#xD;
+          -  patients who were seriously ill and had history of chronic disease such as&#xD;
+             tuberculosis (TB) and human immunodeficiency virus (HIV)/acquired immune deficiency&#xD;
+             syndrome (AIDS) were excluded from the study.&#xD;
+&#xD;
+          -  known or suspected history of allergy to any of the related drugs used in the study&#xD;
+&#xD;
+          -  Women who are pregnant or breast feeding&#xD;
+&#xD;
+          -  Patients with serious somatic or psychiatric illness regarded as contraindications or&#xD;
+             in need of treatment that would interfere with study participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bo Zhang, M.D</last_name>
+    <role>Study Director</role>
+    <affiliation>Sixth Affiliated Hospital, Sun Yat-sen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bo Zhang, M.D</last_name>
+    <phone>86-13660397903</phone>
+    <email>zhangb28@mail.sysu.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bo Zhang, M.D</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bo Zhang</name>
+      <address>
+        <city>Guangdong</city>
+        <state>Guangzhou</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bo Zhang, M.D</last_name>
+      <phone>+8613660397903</phone>
+      <email>zhangb28@mail.sysu.edu.cn</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bo Zhang</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sun Yat-sen University</investigator_affiliation>
+    <investigator_full_name>Yanhong Deng</investigator_full_name>
+    <investigator_title>Director of Medical Oncology, Clinical Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Liver Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Irinotecan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

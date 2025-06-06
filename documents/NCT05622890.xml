@@ -1,0 +1,955 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622890</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IMGN853-301</org_study_id>
+    <secondary_id>CTR20220190</secondary_id>
+    <nct_id>NCT05622890</nct_id>
+  </id_info>
+  <brief_title>A Single-arm Clinical Trial of IMGN853 in Chinese Adult Patients With Platinum-resistant, Epithelial Ovarian Cancer</brief_title>
+  <official_title>A Single-arm, Phase III Clinical Trial of IMGN853 in Chinese Adult Patients With Platinum-resistant, Advanced High-grade Epithelial Ovarian, Primary Peritoneal or Fallopian Tube Cancer With High Expression of Folate Receptor-α</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase III single-arm study is to evaluate the efficacy and safety of IMGN853 in Chinese&#xD;
+      adult patients with platinum-resistant high-grade epithelial ovarian, primary peritoneal, or&#xD;
+      fallopian tube cancers (hereafter referred to as PROC) with high FRα expression.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single-arm, phase III clinical trial of IMGN853 in Chinese adult patients with&#xD;
+      platinum-resistant, advanced high-grade epithelial ovarian, primary peritoneal or fallopian&#xD;
+      tube cancer with high expression of folate receptor-α.&#xD;
+&#xD;
+      The objective of this study is to determine the efficacy of IMGN853 in platinum-resistant&#xD;
+      ovarian cancer (PROC) patients with high folate receptor alpha (FRα) expression.&#xD;
+&#xD;
+      A total of 35 patients will be enrolled. All patients must have measurable disease (per&#xD;
+      Response Evaluation Criteria in Solid Tumors version 1.1, RECIST v1.1) at baseline and be&#xD;
+      eligible for receiving IMGN853.&#xD;
+&#xD;
+      All patients will be treated with the IMGN853 monotherapy with a dose at adjusted ideal body&#xD;
+      weight (AIBW) of 6 mg/kg on Day 1 of every 3-week cycle (Q3W).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 18, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Objective response rate (ORR), which includes best response of complete response (CR) or partial response (PR) as assessed by the BIRC.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The time interval from initial response (CR or PR) assessed by the investigator and the BIRC to progressive disease (PD) assessed by the BIRC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR assessed by the investigator</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The best response of CR or PR assessed by the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DOR assessed by the investigator</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The time interval from initial response (CR or PR) assessed by the investigator to PD assessed by the investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-emergent adverse events (TEAEs) and Laboratory results,physical examinations, or vital signs</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Adverse Events (AE's) will be evaluated according to the NCI CTCAE v5.0. AE's will be coded using the latest Medical Dictionary for Regulatory Activities (MedDRA) version and summarized per system organ class (SOC) and preferred term (PT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of CA-125 response with GCIG criteria</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>GCIG CA-125 response rate will be calculated using the CA-125 Response-Evaluable population and its exact 95% CI will be estimated using the Clopper-Pearson method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS assessed by the BIRC</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The time interval from the first dose of IMGN853 to radiographic PD or death assessed by the BIRC, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS assessed by the investigator</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The time interval from the first dose of IMGN853 to radiographic PD or death assessed by the investigator, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The time interval from the first dose of IMGN853 to death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary statistics of intact ADC, total Ab (TAb), DM4 and S-methyl DM4 concentration data over time</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>To assess the PK properties of IMGN853 and its key metabolites</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of seroconversion of ADA caused by IMGN853 and its relationship to safety and efficacy</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Subjects will be evaluated for anti-drug antibody (ADA) levels. Confirmatory experiments will be conducted for positive samples. ADA titers and neutralizing antibodies (Nabs) will be further determined as appropriate after the confirmation of positivity.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Relationship between test results using the companion diagnostic reagent from MEDx Translational Medicine (Suzhou) Co., Ltd. and efficacy of IMGN853 and consistency with VENTANA FOLR1</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Samples will be tested by another CDx at same time to certify the consistency with VENTANA FOLR1</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Epithelial Ovarian Cancer</condition>
+  <condition>Peritoneal Cancer</condition>
+  <condition>Fallopian Tube Cancer</condition>
+  <arm_group>
+    <arm_group_label>treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will receive single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg adjusted ideal body weight (AIBW) administered on Day 1 of every 3-week cycle (Q3W).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mirvetuximab Soravtansine</intervention_name>
+    <description>Mirvetuximab Soravtansine is an antibody drug conjugate designed to target folate receptor α (FRα). It consists of the humanized anti-FRα mAb M9346A attached via a cleavable disulfide linker to the cytotoxic maytansinoid, DM4.</description>
+    <arm_group_label>treatment</arm_group_label>
+    <other_name>IMGN853</other_name>
+    <other_name>MIRV</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Female patients ≥ 18 years of age&#xD;
+&#xD;
+          2. Patients must have a histopathologically confirmed diagnosis of high-grade serous EOC.&#xD;
+&#xD;
+          3. Patients must have platinum-resistant disease:&#xD;
+&#xD;
+               1. Patients must have had a response (CR or PR) after previous 1 line of&#xD;
+                  platinum-based therapy for at least 4 cycles of treatment, and then progressed&#xD;
+                  between &gt; 3 months and ≤ 6 months after the date for last dose of platinum.&#xD;
+&#xD;
+               2. Patients who relapsed after &gt; 6 months since the last platinum-based treatment&#xD;
+                  with at least 4 cycles of one line platinum-based therapy: 1) continued to&#xD;
+                  receive at least 4 cycles of 2 or 3 lines of platinum-based treatment and must&#xD;
+                  have had PD within 6 months from the last dose of platinum; or 2) had PD during&#xD;
+                  treatment with 2 or 3 lines of platinum-containing chemotherapy.&#xD;
+&#xD;
+             Note: PD should be calculated from the date of the last dose of platinum-containing&#xD;
+             therapy to the date of PD indicated by radiographic imaging.&#xD;
+&#xD;
+             Note: Patients who are platinum-refractory during 1 line treatment are excluded (see&#xD;
+             exclusion criterion 3).&#xD;
+&#xD;
+          4. Patients must have radiological PD on or after the most recent anti-cancer therapy.&#xD;
+&#xD;
+          5. Patients must be willing to provide the archival tumor tissue slides or undergo&#xD;
+             low-risk routine medical procedures to collect new biopsy samples for&#xD;
+             immunohistochemistry (IHC) confirmation of FRα positivity.&#xD;
+&#xD;
+          6. Per VENTANA FOLR1 (FOLR-2.1) Assay criteria, patient's tumor must be positive for FRα&#xD;
+             expression by a central laboratory.&#xD;
+&#xD;
+          7. Patients must have at least one lesion that meets the definition of measurable disease&#xD;
+             by RECIST v1.1 (radiologically assessed by the investigator).&#xD;
+&#xD;
+          8. Patients must have received at least 1 but no more than 3 lines of prior systemic&#xD;
+             anti-cancer therapy, including at least 1 line of therapy containing bevacizumab, and&#xD;
+             for whom monotherapy is appropriate for the next line of treatment:&#xD;
+&#xD;
+               1. Neoadjuvant ± adjuvant is considered as 1 line of therapy;&#xD;
+&#xD;
+               2. Maintenance therapy (eg, bevacizumab, PARP inhibitors) will be considered as part&#xD;
+                  of the prior line of therapy (ie, not counted independently);&#xD;
+&#xD;
+               3. Therapy changed due to toxicity in the absence of PD will be considered as part&#xD;
+                  of the same line (ie, not counted independently);&#xD;
+&#xD;
+               4. Hormonal therapy (except as maintenance therapy) will be considered as a separate&#xD;
+                  line of therapy.&#xD;
+&#xD;
+          9. Patients must have an Eastern Cooperative Oncology Group Performance Status (ECOG PS)&#xD;
+             of 0 or 1.&#xD;
+&#xD;
+         10. Patients must have completed prior therapy within the following specified times:&#xD;
+&#xD;
+               1. Systemic anti-tumor therapy (the last prior systemic anti-tumor therapy should be&#xD;
+                  at least 5 half-lives or 4 weeks from the initiation of the investigational drug,&#xD;
+                  whichever is shorter);&#xD;
+&#xD;
+               2. Focal radiotherapy: previous focal radiotherapy should be at least 2 weeks from&#xD;
+                  the initiation of investigational drug.&#xD;
+&#xD;
+         11. All toxicities (except alopecia) associated with prior therapy must be stable or&#xD;
+             resolved (Grade 1 or normal).&#xD;
+&#xD;
+         12. Any major surgery that a patient has undergone must have been completed at least 4&#xD;
+             weeks prior to the first dose of IMGN853 and the postoperative complications of prior&#xD;
+             surgical treatment have resolved or are stable.&#xD;
+&#xD;
+         13. Patients must have adequate hematologic, hepatic, and renal functions as defined by&#xD;
+             the following parameters (without G-CSF [a 20-day drug washout period for long-acting&#xD;
+             growth factors], human albumin injection and other corrective treatment drugs are not&#xD;
+             allowed within 14 days before obtaining laboratory test values):&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥ 1.5 × 10^9/L (1,500 μL);&#xD;
+&#xD;
+               2. Platelet count ≥ 100 × 10^9/L (100,000/μL) without platelet transfusion in the&#xD;
+                  prior 10 days;&#xD;
+&#xD;
+               3. Hemoglobin ≥ 9.0 g/dL without packed red blood cell (PRBC) transfusion in the&#xD;
+                  prior 21 days;&#xD;
+&#xD;
+               4. Serum creatinine ≤ 1.5 × upper limit of normal (ULN);&#xD;
+&#xD;
+               5. Both aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 3.0 ×&#xD;
+                  ULN;&#xD;
+&#xD;
+               6. Serum bilirubin ≤ 1.5 × ULN (patients with Gilbert syndrome may be enrolled if&#xD;
+                  total bilirubin is &lt; 3.0 × ULN);&#xD;
+&#xD;
+               7. Serum albumin ≥ 2 g/dL.&#xD;
+&#xD;
+         14. Patients or their legally authorized representatives must be willing and able to sign&#xD;
+             the ICF and comply with the requirements of the protocol.&#xD;
+&#xD;
+         15. Women of child bearing potential (WCBP), defined as a sexually mature woman who have&#xD;
+             not undergone surgical sterilization or who have not been naturally postmenopausal for&#xD;
+             at least 12 consecutive months (ie, who have had menses any time in the preceding 12&#xD;
+             consecutive months) must agree to use effective contraceptive methods; examples&#xD;
+             included oral, parenteral, or implantable hormonal contraceptive, intrauterine device,&#xD;
+             barrier contraceptive with spermicide, partner's latex condom or vasectomy) while on&#xD;
+             study treatment and for at least 12 weeks after the last dose of investigational drug.&#xD;
+&#xD;
+         16. WCBP must have a negative pregnancy test within 4 days prior to the first dose of&#xD;
+             IMGN853.&#xD;
+&#xD;
+         17. The expected survival of the subject is at least 12 weeks as assessed by the&#xD;
+             investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Male patients.&#xD;
+&#xD;
+          2. Patients with endometrioid carcinoma, clear cell carcinoma, mucinous carcinoma, or&#xD;
+             sarcoma tissue, mixed tumor containing any of the above histologies, or low&#xD;
+             grade/borderline ovarian tumor.&#xD;
+&#xD;
+          3. Patients with primary platinum-refractory disease, defined as disease that did not&#xD;
+             respond to (CR or PR) or has progressed within 3 months of the last dose of first-line&#xD;
+             platinum-containing chemotherapy.&#xD;
+&#xD;
+          4. Patients who have received prior wide-field radiotherapy (RT) with at least 20% of the&#xD;
+             bone marrow affected.&#xD;
+&#xD;
+          5. Patients with &gt; Grade 1 peripheral neuropathy per Common Terminology Criteria for&#xD;
+             Adverse Events (CTCAE).&#xD;
+&#xD;
+          6. Patients with active or chronic corneal disorders, history of corneal transplant, or&#xD;
+             active ocular conditions requiring ongoing treatment/monitoring such as uncontrolled&#xD;
+             glaucoma, wet age-related macular degeneration requiring treatment with intravitreal&#xD;
+             injections, active diabetic retinopathy with macular edema, macular degeneration,&#xD;
+             presence of papilloedema, and /or monocular vision.&#xD;
+&#xD;
+          7. Patients with serious concurrent illness or clinically relevant active infection,&#xD;
+             including, but not limited to the following:&#xD;
+&#xD;
+               1. Known acute or chronic active hepatitis B (HBsAg positive and HBV DNA viral load&#xD;
+                  ≥ 2500 copies/mL or &gt; 500 IU/mL, if necessary, patients may receive nucleoside&#xD;
+                  prophylactic anti-hepatitis B virus therapy) or acute or chronic active hepatitis&#xD;
+                  C (HCV antibody positive and HCV RNA positive);&#xD;
+&#xD;
+               2. Human immunodeficiency virus (HIV) infection;&#xD;
+&#xD;
+               3. Active cytomegalovirus infection;&#xD;
+&#xD;
+               4. Any other concurrent infectious disease requiring systematic treatment within 2&#xD;
+                  weeks prior to the first dose of IMGN853.&#xD;
+&#xD;
+          8. Patients with a history of multiple sclerosis (MS) or other demyelinating diseases&#xD;
+             and/or Lambert-Eaton syndrome (paraneoplastic syndrome).&#xD;
+&#xD;
+          9. Patients with clinically significant cardiac disorders, including but not limited to&#xD;
+             any of the following:&#xD;
+&#xD;
+               1. Myocardial infarction ≤ 6 months prior to the first dose;&#xD;
+&#xD;
+               2. Unstable angina pectoris;&#xD;
+&#xD;
+               3. Uncontrolled congestive cardiac failure (New York Heart Association&#xD;
+                  classification &gt; II);&#xD;
+&#xD;
+               4. Uncontrolled ≥ Grade 3 hypertension (per CTCAE criteria);&#xD;
+&#xD;
+               5. Uncontrolled cardiac arrhythmias.&#xD;
+&#xD;
+         10. Patients with a history of hemorrhagic or ischemic stroke within 6 months prior to&#xD;
+             signing the ICF.&#xD;
+&#xD;
+         11. Patients with a history of hepatic cirrhosis (Child-Pugh B or C).&#xD;
+&#xD;
+         12. Patients with a previous clinical diagnosis of or currently ongoing non-infectious&#xD;
+             interstitial lung disease (ILD), including noninfectious pneumonitis, lung disorders&#xD;
+             such as pulmonary fibrosis, interstitial pneumonia, pneumoconiosis, drug-related&#xD;
+             pulmonitis, severely impaired lung function, etc.&#xD;
+&#xD;
+         13. Patients requiring folic acid-containing supplements (e.g., folate deficiency).&#xD;
+&#xD;
+         14. Known hypersensitivity to previous monoclonal antibody therapy or maytansinoids, or to&#xD;
+             the investigational drug and/or any excipients.&#xD;
+&#xD;
+         15. Pregnant or lactating women.&#xD;
+&#xD;
+         16. Patients with prior IMGN853 or other FRα-targeted drug therapies.&#xD;
+&#xD;
+         17. Known active central nervous system (CNS) and/or leptomeningeal metastases. Patients&#xD;
+             with untreated but asymptomatic brain metastases, or patients who have&#xD;
+             radiographically documented progression-free status for at least 4 weeks after&#xD;
+             treatment and do not require hormonal or antiepileptic therapy for at least 2 weeks&#xD;
+             may be considered for enrollment.&#xD;
+&#xD;
+         18. Patients with a history of other malignancies within 3 years prior to enrollment.&#xD;
+&#xD;
+             Note: patients with tumors with a negligible risk of metastasis or death (e.g.,&#xD;
+             adequately controlled basal-cell carcinoma or squamous-cell carcinoma of the skin, or&#xD;
+             carcinoma in situ of the cervix or breast) are eligible for inclusion.&#xD;
+&#xD;
+         19. Patients with pleural effusion, pericardial effusion, or ascites that cannot be&#xD;
+             controlled by drainage or other means, except the small amount of effusion that&#xD;
+             without clinical symptoms or do not require clinical intervention.&#xD;
+&#xD;
+         20. Patients who are detained by a court or administrative decision, receiving psychiatric&#xD;
+             care against their will, adults who are under the protection of law (under&#xD;
+             tutorship/curatorship), people who are unable to give their consent, and people who&#xD;
+             are subject to a legal guardianship.&#xD;
+&#xD;
+         21. Participated in other clinical studies and received their investigational drugs within&#xD;
+             4 weeks prior to the first dose.&#xD;
+&#xD;
+         22. Subject has other serious systemic diseases or other reasons that are not suitable for&#xD;
+             participation in this clinical study as evaluated by the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xu Sun, Master</last_name>
+    <phone>+8613645153601</phone>
+    <email>sunxu@eastchinapharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Bengbu Medical College</name>
+      <address>
+        <city>Bengbu</city>
+        <state>Anhui</state>
+        <zip>233000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bo Yang, Master</last_name>
+      <phone>+8618155258266</phone>
+      <email>yangbo2016@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Xiaoli Li, Master</last_name>
+      <phone>+8615215520809</phone>
+      <email>158169847@qq.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Anhui Provincial Hospital</name>
+      <address>
+        <city>Hefei</city>
+        <state>Anhui</state>
+        <zip>230000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weidong Zhao, Doctor</last_name>
+      <phone>+8613955105591</phone>
+      <email>Victorzhao@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Zhengzheng Chen, Doctor</last_name>
+      <phone>+8613865915342</phone>
+      <email>546038221@99.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Anhui Medical University</name>
+      <address>
+        <city>Hefei</city>
+        <state>Anhui</state>
+        <zip>230000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bing Wei, Doctor</last_name>
+      <phone>+8613605696088</phone>
+      <email>weibing1965@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Runhua He, Doctor</last_name>
+      <phone>+8613676767676</phone>
+      <email>ayzfyhrh@126.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Obstetrics and Gynecology Hospital, Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fujian Provincial Cancer Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <zip>350000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gansu Provincial Hospital</name>
+      <address>
+        <city>Lanzhou</city>
+        <state>Gansu</state>
+        <zip>730000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sun Yat-Sen University Cancer Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Affiliated Cancer Hospital of Guangxi Medical University</name>
+      <address>
+        <city>Nanning</city>
+        <state>Guangxi</state>
+        <zip>530015</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Li Li, Master</last_name>
+      <phone>+8613788889999</phone>
+      <email>liligxmu2022@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henan Cancer Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hubei Cancer Hospital</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Union Hospital Affiliated to Tongji Medical College, Huazhong University of Science and Technolog</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhongnan Hospital Affiliated to Wuhan University</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hongbing Cai, Doctor</last_name>
+      <phone>+8613397168990</phone>
+      <email>Chb2105@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Hua Wang, Doctor</last_name>
+      <phone>+86 15871037481</phone>
+      <email>940983900@qq.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hunan Cancer Hospital</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <zip>410000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jing Wang, Doctor</last_name>
+      <phone>+8613875902083</phone>
+      <email>wangjing@hnca.org.cn</email>
+    </contact>
+    <contact_backup>
+      <last_name>Li Li, Doctor</last_name>
+      <phone>+8615874293489</phone>
+      <email>lili@hnca.org.cn</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Nanchang University</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <zip>330008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jilin Cancer Hospital</name>
+      <address>
+        <city>Changchun</city>
+        <state>Jilin</state>
+        <zip>130000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ying Cheng, Doctor</last_name>
+      <phone>+8613943012851</phone>
+      <email>jl.cheng@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Hongxia Cui, Doctor</last_name>
+      <phone>+86 13504436090</phone>
+      <email>2503074283@qq.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Dalian Medical University</name>
+      <address>
+        <city>Dalian</city>
+        <state>Liaoning</state>
+        <zip>116000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kui Jiang, Master</last_name>
+      <phone>+8617709873696</phone>
+      <email>JK0411@163.COM</email>
+    </contact>
+    <contact_backup>
+      <last_name>Hongruo Liu, Master</last_name>
+      <phone>+86 17709873397</phone>
+      <email>liuhongruo@sina.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Liaoning Cancer Hospital</name>
+      <address>
+        <city>Shengyang</city>
+        <state>Liaoning</state>
+        <zip>110084</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shandong Cancer Hospital</name>
+      <address>
+        <city>Jinan</city>
+        <state>Shandong</state>
+        <zip>250000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qingshui Li, Doctor</last_name>
+      <phone>+8613854158117</phone>
+      <email>liqingshui64@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jingwei peng, Doctor</last_name>
+      <phone>+8615688455900</phone>
+      <email>tudou4212@163.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai Tumor Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaohua Wu, master</last_name>
+      <phone>+86136 0177 2486</phone>
+      <email>docwuxh@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yong Wu, master</last_name>
+      <phone>+86 15618369676</phone>
+      <email>edison-1016@163.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>SIMC</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>People's Hospital of Shanxi province</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shanxi</state>
+        <zip>710000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lihong Chen, Master</last_name>
+      <phone>+8615309217015</phone>
+      <email>lihongchen29@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Echo Li, Doctor</last_name>
+      <phone>+8615229334396</phone>
+      <email>echo85535063@163.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>West China Second Hospital of Sichuan University</name>
+      <address>
+        <city>Chengdu</city>
+        <state>Sichuan</state>
+        <zip>610000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yunnan Cancer Hospital</name>
+      <address>
+        <city>Kunming</city>
+        <state>Yunnan</state>
+        <zip>650000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>People's Hospital of Zhejiang Province</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhiquan Qin, Master</last_name>
+      <phone>+8613857123637</phone>
+      <email>qzq66@126.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yun Chen, Doctor</last_name>
+      <phone>+8613858087167</phone>
+      <email>hlqm1986@163.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Zhejiang University School of Medicine</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xuejun Chen, Doctor</last_name>
+      <phone>+8613757119632</phone>
+      <email>2303011@zju.ed.cn</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jiong Ma, Doctor</last_name>
+      <phone>+8613675875605</phone>
+      <email>majiong1231@126.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Zhejiang Tumor Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aijun Yu, Master</last_name>
+      <phone>+8613857155327</phone>
+      <email>yaj1993@126.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jie Xing, Master</last_name>
+      <phone>+8613758219923</phone>
+      <email>xingjie@zjcc.org.cn</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Wenzhou Medical University</name>
+      <address>
+        <city>Wenzhou</city>
+        <state>Zhejiang</state>
+        <zip>325000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yue Hu, Master</last_name>
+      <phone>+8613957790915</phone>
+      <email>wzhuyue@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Qiong Zhang, Master</last_name>
+      <phone>+8613587605820</phone>
+      <email>joan_zhang@sina.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Zhengzhou University</name>
+      <address>
+        <city>Henan</city>
+        <state>Zhengzhou</state>
+        <zip>450000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xu Sun, Master</last_name>
+      <phone>+8613645153601</phone>
+      <email>sunxu@eastchinapharm.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>November 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Platinum resistant</keyword>
+  <keyword>Folate-receptor alpha expression</keyword>
+  <keyword>Phase 3</keyword>
+  <keyword>Antibody-drug conjugate</keyword>
+  <keyword>mirvetuximab soravtansine</keyword>
+  <keyword>IMGN853</keyword>
+  <keyword>Epithelial Ovarian Cancer</keyword>
+  <keyword>Peritoneal Cancer</keyword>
+  <keyword>Fallopian Tube Cancer</keyword>
+  <keyword>MIRV</keyword>
+  <keyword>FRα</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Fallopian Tube Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Maytansine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

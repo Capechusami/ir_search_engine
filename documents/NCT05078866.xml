@@ -1,0 +1,446 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078866</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2021-10799</org_study_id>
+    <secondary_id>NCI-2021-10799</secondary_id>
+    <secondary_id>2022-0065</secondary_id>
+    <secondary_id>MDA21-06-01</secondary_id>
+    <secondary_id>P30CA016672</secondary_id>
+    <secondary_id>UG1CA242609</secondary_id>
+    <nct_id>NCT05078866</nct_id>
+  </id_info>
+  <brief_title>Cancer Preventive Vaccine Nous-209 for Lynch Syndrome Patients</brief_title>
+  <official_title>A Phase Ib/II Clinical Trial of Nous-209 for Recurrent Neoantigen Immunogenicity and Cancer Immune Interception in Lynch Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase Ib/II trial evaluates the safety and effect of the Nous-209 vaccine in Lynch&#xD;
+      syndrome patients. Lynch syndrome is an inherited disorder in which affected individuals have&#xD;
+      a higher-than-normal chance of developing colorectal cancer and certain other types of&#xD;
+      cancer, often before the age of 50. In Lynch syndrome, errors in the genetic information&#xD;
+      inside cells are not properly corrected. When that happens, the cells produce new proteins&#xD;
+      called neoantigens. Neoantigens are recognized by the body's immune system as foreign, and&#xD;
+      the body tries to get rid of them. Nous-209 is a vaccine made with man-made copies of some of&#xD;
+      those neoantigens. This trial aims to see whether the Nous-209 vaccine is safe to give to&#xD;
+      patients with Lynch syndrome, whether people are able to take the Nous-209 vaccine without&#xD;
+      becoming too uncomfortable, and how the immune system of patients with Lynch syndrome respond&#xD;
+      to the Nous-209 vaccine. This trial may help researchers determine whether receiving Nous-209&#xD;
+      have an effect on the development of polyps or tumors in the colon.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the safety and tolerability of adenoviral tumor-specific neoantigen priming&#xD;
+      vaccine GAd-209-FSP (GAd20-209-FSPs) (1 prime) and MVA tumor-specific neoantigen boosting&#xD;
+      vaccine MVA-209-FSP (MVA-209-FSPs) (1 boost) vaccination when administered as a single agent&#xD;
+      (monotherapy) in participants with Lynch syndrome (LS).&#xD;
+&#xD;
+      II. To evaluate the neoantigen-specific immunogenicity of GAd20-209-FSPs (1 prime) and&#xD;
+      MVA-209-FSPs (1 boost) vaccination when administered as a single agent (monotherapy) in&#xD;
+      participants with LS.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To assess the effect of Nous-209 vaccination on T cell immune profile and T cell receptor&#xD;
+      (TCR) repertoire in the peripheral blood of participants with LS.&#xD;
+&#xD;
+      II. To assess the effect of Nous-209 vaccination on TCR repertoire within histologically&#xD;
+      normal colorectal mucosal of participants with LS.&#xD;
+&#xD;
+      III. To evaluate the effect of Nous-209 vaccination on tumor infiltrating lymphocyte (TIL)&#xD;
+      immune profile and TCR repertoire within colorectal adenomas in participants with LS.&#xD;
+&#xD;
+      IV. To assess the cytotoxicity of matched T cells on participant-derived colorectal adenoma&#xD;
+      organoids following Nous-209 vaccination in participants with LS.&#xD;
+&#xD;
+      V. To evaluate the effect of Nous-209 vaccination on the burden of colorectal&#xD;
+      adenomas/advanced neoplasia/carcinoma in participants with LS.&#xD;
+&#xD;
+      VI. To assess the effect of Nous-209 vaccination on the burden of LS-related carcinomas in&#xD;
+      participants with LS.&#xD;
+&#xD;
+      VII. To evaluate the effect of Nous-209 vaccination on cell free deoxyribonucleic acid (DNA)&#xD;
+      (cfDNA) mutation profiles and cfDNA burden in participants with LS.&#xD;
+&#xD;
+      VIII. To correlate tobacco and alcohol consumption with the immune response to Nous-209 in&#xD;
+      trial participants.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients receive GAd20-209-FSPs intramuscularly (IM) on day 1 and MVA-209-FSPs IM at week 8.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up at weeks 16, 24, 36, and 52.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 19, 2022</start_date>
+  <completion_date type="Anticipated">July 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rates of grade 2/3 adverse events and symptom reactivity following vaccination</measure>
+    <time_frame>Up to 12 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of immunogenicity following vaccination</measure>
+    <time_frame>Baseline and week 9</time_frame>
+    <description>Immunogenicity will be defined as reactivity to at least 1 of 16 synthetic FSP pools using an enzyme-linked immune absorbent spot (ELISpot) assay. The rate of immunogenicity induced by Nous-209 will be reported along with its 95% exact (Clopper-Pearson) confidence interval.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in T cell immune profile and T cell receptor (TCR) repertoire in the peripheral blood</measure>
+    <time_frame>Baseline up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in TCR repertoire within histologically normal colorectal mucosal</measure>
+    <time_frame>Baseline to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the gene expression profile and TCR repertoire of tumor infiltrating lymphocytes (TIL) within colorectal adenomas</measure>
+    <time_frame>Baseline to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>T cell cytotoxicity against matched colorectal adenoma organoids</measure>
+    <time_frame>At 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in the number of colorectal adenomas, advanced neoplasia, and/or carcinomas</measure>
+    <time_frame>At 12 months</time_frame>
+    <description>Will use two-sample t-test and general linear models for the comparison.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Lynch syndrome-related carcinomas</measure>
+    <time_frame>At 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cell free deoxyribonucleic acid (cfDNA) detectability and mutation profile in the peripheral blood</measure>
+    <time_frame>Baseline up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune response to Nous-209</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>Tobacco and alcohol consumption will be correlated with the immune response to Nous-209 in trial participants.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Lynch Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Prevention (Nous-209 vaccine)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive GAd20-209-FSPs IM on day 1 and MVA-209-FSPs IM at week 8.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Adenoviral Tumor-specific Neoantigen Priming Vaccine GAd-209-FSP</intervention_name>
+    <description>Given IM</description>
+    <arm_group_label>Prevention (Nous-209 vaccine)</arm_group_label>
+    <other_name>GAd-209-FSP</other_name>
+    <other_name>GAd20-209-FSP</other_name>
+    <other_name>Great Ape Adenoviral Tumor-specific Neoantigen Priming Vaccine GAd-209-FSP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVA Tumor-specific Neoantigen Boosting Vaccine MVA-209-FSP</intervention_name>
+    <description>Given IM</description>
+    <arm_group_label>Prevention (Nous-209 vaccine)</arm_group_label>
+    <other_name>Modified Vaccinia Ankara Tumor-specific Neoantigen Boosting Vaccine MVA-209-FSP</other_name>
+    <other_name>Modified Vaccinia Virus Ankara Tumor-specific Neoantigen Boosting Vaccine MVA-209-FSP</other_name>
+    <other_name>MVA-209-FSP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Prevention (Nous-209 vaccine)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants must have a clinical diagnosis of Lynch syndrome (LS) as defined by:&#xD;
+&#xD;
+               -  Mutation-positive LS: documented carriers (or obligate carriers by pedigree) of a&#xD;
+                  germline mutation in mismatch repair (MMR) genes (MLH1, MSH2/EPCAM, MSH6, or&#xD;
+                  PMS2) that is deleterious or suspected to be deleterious (known or predicted to&#xD;
+                  be detrimental/loss of function). The mutation must have been identified through&#xD;
+                  a Clinical Laboratory Improvement Act (CLIA)-approved laboratory setting. Final&#xD;
+                  determination of eligibility for any discordant results in pathogenicity of the&#xD;
+                  mutation will be determined by the study investigator. A formal eligibility&#xD;
+                  exception in those instances will not be required as long as approval by the&#xD;
+                  overall study principal investigator (PI) has been granted and documented&#xD;
+&#xD;
+               -  Mutation-negative LS (also known as &quot;Lynch-like syndrome&quot; or &quot;suspected Lynch&#xD;
+                  syndrome): individuals with both of the following:&#xD;
+&#xD;
+                    -  A personal history of a non-sporadic MMR-deficient premalignant lesion&#xD;
+                       (i.e., colorectal polyp) or a non-sporadic MMR-deficient malignant tumor,&#xD;
+                       where &quot;non-sporadic MMR deficiency&quot; is defined by (1) the loss of MLH1,&#xD;
+                       MSH2, MSH6, or PMS2 expression by immunohistochemistry (IHC), or (2) the&#xD;
+                       detection of microsatellite instability (MSI) by polymerase chain reaction&#xD;
+                       (PCR) or both, but no evidence of MLH1 promoter methylation in cases with&#xD;
+                       loss of both MLH1 and PMS2, All testing must have been performed in&#xD;
+                       accordance with local institutional guidelines in a CLIA- approved setting.&#xD;
+                       (Note: central confirmation of MMR expression status, MSI, MLH1 promoter&#xD;
+                       methylation or BRAF mutation is not required.); and&#xD;
+&#xD;
+                    -  Documented results of germline mutation testing performed in a CLIA-approved&#xD;
+                       laboratory environment, demonstrating either a variant of unknown&#xD;
+                       significance in MMR genes or the lack of a clinically significant variant in&#xD;
+                       MMR genes; or, documentation that the individual declined to undergo&#xD;
+                       germline MMR genetic testing&#xD;
+&#xD;
+          -  Participants must have no evidence of active or recurrent invasive cancer for 6 months&#xD;
+             prior to screening and must be at least 6 months from any prior cancer-directed&#xD;
+             treatment (such as surgical resection, chemotherapy, immunotherapy, hormonal therapy,&#xD;
+             or radiation)&#xD;
+&#xD;
+          -  Participants must have endoscopically accessible distal colon and/or rectal mucosa&#xD;
+             (i.e., participants must have at least part of the descending/sigmoid colon and/or&#xD;
+             rectum intact)&#xD;
+&#xD;
+          -  Participants must consent to standard of care surveillance with colonoscopy with&#xD;
+             biopsies every 12 months&#xD;
+&#xD;
+          -  Participants must consent to refrain from using aspirin or non-steroidal&#xD;
+             anti-inflammatory drugs (NSAIDs) or cyclooxygenase (COX) inhibitors for the duration&#xD;
+             of the trial, except for cardio-preventive aspirin (&lt; 100 mg daily). Individuals&#xD;
+             taking such drugs may not be enrolled unless they are willing to stop the medications&#xD;
+             (and possibly change to alternative non-excluded medications to treat the same&#xD;
+             conditions) no less than 1 month prior to enrollment. Participants will discuss with&#xD;
+             their primary care provider/local provider about the discontinuation of such&#xD;
+             medication(s) and obtain approval prior to stopping any agent&#xD;
+&#xD;
+          -  Age &gt;= 18 years. Because no dosing or adverse event (AE) data are currently available&#xD;
+             on the use of Nous-209 in participants &lt; 18 years of age, children are excluded from&#xD;
+             this study but will be eligible for future pediatric trials, if applicable&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 1 (Karnofsky &gt;= 70%)&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 10 g/dL or hematocrit &gt;= 30 %&#xD;
+&#xD;
+          -  Leukocyte count &gt;= 3,500/microliter&#xD;
+&#xD;
+          -  Platelet count &gt;= 100,000/microliter&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt;= 1,500/microliter&#xD;
+&#xD;
+          -  Creatinine clearance (calculated if measured is not available) &gt;= 60 mL/min/1.73 m^2&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase&#xD;
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) =&lt;&#xD;
+             2 times the institutional upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 the ULN; participants with Gilbert's disease may be enrolled&#xD;
+             with higher total bilirubin if their direct bilirubin is =&lt; 1.5 times the ULN&#xD;
+&#xD;
+          -  Participants must consent to refrain to receive any other type of vaccination during&#xD;
+             the first 10 weeks of the trial&#xD;
+&#xD;
+          -  Participants must consent to refrain from receiving adenoviral-based vaccines for the&#xD;
+             duration of the trial (including the period from week 9 to week 52)&#xD;
+&#xD;
+          -  Willing and able to adhere to the prohibitions and restrictions specified in the final&#xD;
+             approved protocol&#xD;
+&#xD;
+          -  The effects of Nous-209 on the developing human fetus at the recommended therapeutic&#xD;
+             dose are unknown. For this reason, women of child-bearing potential and men must agree&#xD;
+             to use adequate contraception (hormonal or barrier method of birth control;&#xD;
+             abstinence) prior to study entry for the duration of study participation (12 months)&#xD;
+             and 6 months after end of study. Should a woman become pregnant or suspect she is&#xD;
+             pregnant while participating in this study, she should inform her study physician&#xD;
+             immediately&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document&#xD;
+             (available for both English- and Spanish-speaking individuals)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior receipt of a recombinant adenoviral or MVA vaccine including COVID19 adenovirus&#xD;
+             vaccines within the previous 6 months&#xD;
+&#xD;
+          -  Histologically-confirmed high-grade dysplasia or cancer on biopsy at screening&#xD;
+&#xD;
+          -  Individuals with active malignancy (excluding non-melanoma skin cancer)&#xD;
+&#xD;
+          -  Any serious uncontrolled and/or unstable pre-existing medical disorder (aside from&#xD;
+             malignancy exception above), psychiatric disorder, or other conditions that could&#xD;
+             interfere with participant's safety, obtaining informed consent, or compliance to the&#xD;
+             study procedures&#xD;
+&#xD;
+          -  Active infection (acute and self-limited) or human immunodeficiency virus (HIV),&#xD;
+             hepatitis B virus (HBV), or hepatitis C virus (HCV) infection. Participants with&#xD;
+             laboratory evidence of cleared HBV and HCV infection will be permitted&#xD;
+&#xD;
+          -  History of organ allograft or other history of immunodeficiency&#xD;
+&#xD;
+          -  Known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs&#xD;
+             chemically related to study drug, or excipients, or to egg proteins&#xD;
+&#xD;
+          -  Individuals with a condition requiring systemic treatment with either corticosteroids&#xD;
+             (&gt; 10 mg daily prednisone equivalents) or other immunosuppressive medications (such as&#xD;
+             infliximab, rituximab, adalimumab, tacrolimus) within 14 days of study drug&#xD;
+             administration. Inhaled or topical steroids and adrenal replacement doses &gt; 10 mg&#xD;
+             daily prednisone equivalents are permitted in the absence of active autoimmune disease&#xD;
+&#xD;
+          -  Pregnant or breastfeeding or planning to become pregnant within 6 months after the end&#xD;
+             of study. Because there is an unknown but potential risk for adverse events (AEs) in&#xD;
+             nursing infants secondary to treatment of the mother with Nous-209, breastfeeding&#xD;
+             should be discontinued if the mother is treated with Nous-209&#xD;
+&#xD;
+          -  Men attempting or planning to conceive children during the study or within 6 months&#xD;
+             after the end of the study&#xD;
+&#xD;
+          -  Participants may not be receiving any other investigational agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eduardo Vilar-Sanchez</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gregory E. Idos</last_name>
+      <phone>626-256-4673</phone>
+      <email>gidos@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gregory E. Idos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael J. Hall</last_name>
+      <phone>215-728-2861</phone>
+      <email>michael.hall@fccc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael J. Hall</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eduardo Vilar-Sanchez</last_name>
+      <phone>713-563-4743</phone>
+      <email>EVilar@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Vilar-Sanchez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marcia R. Cruz-Correa</last_name>
+      <phone>787-758-2525</phone>
+      <email>marcia.cruz1@upr.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Marcia R. Cruz-Correa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>April 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms, Hereditary Nonpolyposis</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1250 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05070364</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EIG-LMD-002</org_study_id>
+    <nct_id>NCT05070364</nct_id>
+  </id_info>
+  <brief_title>Phase 3 Study to Evaluate the Efficacy and Safety of Peginterferon Lambda for 48 Weeks in Patients With Chronic HDV</brief_title>
+  <acronym>LIMT-2</acronym>
+  <official_title>Phase 3, Randomized, Open-Label, Parallel Arm Study to Evaluate the Efficacy and Safety of 180 mcg Peginterferon Lambda-1a (Lambda) Subcutaneous Injection for 48 Weeks in Patients With Chronic Hepatitis Delta Virus (HDV) Infection (LIMT-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eiger BioPharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eiger BioPharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Phase 3 LIMT-2 study will evaluate the safety and efficacy of Peginterferon Lambda&#xD;
+      treatment for 48 weeks with 24 weeks follow-up compared to no treatment for 12 weeks in&#xD;
+      patients chronically infected with HDV. The primary analysis will compare the proportion of&#xD;
+      patients with HDV RNA &lt; LLOQ at the 24-week post-treatment visit in the Peginterferon Lambda&#xD;
+      treatment group vs the proportion of patients with HDV RNA &lt; LLOQ at the Week 12 visit in the&#xD;
+      no-treatment comparator group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, open-label, parallel arm study that will allocate patients (2:1) with&#xD;
+      chronic HDV infection to one of two treatment groups: Peginterferon Lambda 180 mcg QW for 48&#xD;
+      weeks with 24 weeks follow-up (Arm 1, n=100), or no treatment for 12 weeks followed by&#xD;
+      Peginterferon Lambda treatment for 48 weeks with 24 weeks of follow-up (Arm 2, n=50). All&#xD;
+      patients will receive concomitant therapy with a potent 2nd generation anti-HBV nucleos(t)ide&#xD;
+      analogue (NUC) throughout the study duration.&#xD;
+&#xD;
+      Data collected during Peginterferon Lambda treatment in Arm 2 will not be included in the&#xD;
+      primary analysis. The primary purpose of Arm 2 is to provide benchmark data in a parallel&#xD;
+      reference group for the expected rate of HDV RNA suppression among patients with chronic HDV&#xD;
+      infection who receive 12 weeks of anti-HBV NUC therapy alone.&#xD;
+&#xD;
+      Prior to randomization, all patients will enter a run-in phase with 12 weeks of anti-HBV NUC&#xD;
+      therapy, which will ensure virologic control of HBV (&lt; 100 IU/mL) prior to randomization and&#xD;
+      start of Peginterferon Lambda therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 21, 2021</start_date>
+  <completion_date type="Anticipated">January 15, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Durable Virologic Response</measure>
+    <time_frame>72 weeks</time_frame>
+    <description>HDV RNA below the limit of quantitation at 24 weeks post-treatment</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Hepatitis Delta Virus</condition>
+  <arm_group>
+    <arm_group_label>Peginterferon Lambda for 48 weeks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Peginterferon Lambda 180 mcg once weekly for 48 weeks with 24 weeks follow-up</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No treatment for 12 weeks</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No treatment for 12 weeks followed by Peginterferon Lambda 180 mcg once weekly for 48 weeks and 24 weeks follow-up</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Peginterferon Lambda-1a</intervention_name>
+    <description>Immunomodulator</description>
+    <arm_group_label>Peginterferon Lambda for 48 weeks</arm_group_label>
+    <other_name>Lambda</other_name>
+    <other_name>Peginterferon Lambda</other_name>
+    <other_name>Pegylated Interferon Lambda</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Chronic HDV infection documented by a positive HDV antibody test or a positive HDV RNA&#xD;
+             by RT PCR test for at least 6 months at Screening Visit 2&#xD;
+&#xD;
+          -  Quantifiable HDV RNA by RT-PCR test at Screening Visit 2&#xD;
+&#xD;
+          -  Documented confirmed suppression of HBV DNA (&lt; 100 IU/mL) following at least 12 weeks&#xD;
+             of anti-HBV NUC treatment with ETV or a TNF-based NUC (TDF or TAF) at Screening Visit&#xD;
+             2&#xD;
+&#xD;
+          -  Serum ALT &gt; upper limit of normal (ULN) and &lt; 10 × ULN.&#xD;
+&#xD;
+          -  Patients categorized with Child-Turcotte-Pugh score of ≤ 5 with well compensated liver&#xD;
+             disease.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History or current evidence of decompensated liver disease (episodes of bleeding&#xD;
+             esophageal or gastric varices, ascites and/or encephalopathy)&#xD;
+&#xD;
+          -  Treatment with interferons (IFNs) or immunomodulators within 6 months before Screening&#xD;
+             Visit 2 or refractory to prior IFN treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nicole Ramza, MBA</last_name>
+    <phone>650-272-6138</phone>
+    <email>LIMT-2@eigerbio.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Monica Gangal, MSc</last_name>
+    <phone>650-272-6138</phone>
+    <email>LIMT-2@eigerbio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Asian Pacific Liver Center at Coalition of Inclusive Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mimi Chang</last_name>
+      <phone>213-387-1009</phone>
+      <email>mimi.chang@cimtoday.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Angela Kwon</last_name>
+      <phone>213-387-1009</phone>
+      <email>angela.kwon@cimtoday.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ho Bae, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Keck Medical Center of USC</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Ramos</last_name>
+      <email>melissa.ramos@med.usc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Albert Munoz</last_name>
+      <email>alberto.munoz@med.usc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Norah Terrault, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Medicine Outpatient Center</name>
+      <address>
+        <city>Redwood City</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Swati Toppo</last_name>
+      <phone>650-497-4151</phone>
+      <email>stoppo@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sonia Carvalho</last_name>
+      <phone>305-243-4639</phone>
+      <email>scarvalho@med.miami.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Paul Yien Kwo, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Pacific Medical Foundation - California Pacific Medical Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna von Bakonyi</last_name>
+      <phone>415-600-1107</phone>
+      <email>anna.vonbakonyi@sutterhealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jaspreet Dhanoya</last_name>
+      <phone>415-600-1107</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Stewart Cooper, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diana Goldman</last_name>
+      <phone>312-942-1372</phone>
+      <email>diana_goldman@rush.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lelani Fetrow</last_name>
+      <phone>312-942-1372</phone>
+      <email>lelani_c_fetro@rush.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nancy Reau, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health / NYU Grossman School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Abigail Moses</last_name>
+      <email>abigail.moses@nyulangone.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mary Olson</last_name>
+      <email>mary.olson@nyulangone.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ira Jacobson, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine - Mount Sinai Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clara Rodriguez Rivas</last_name>
+      <email>clara.rodriguezrivas@mountsinai.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ivy Cohen, RPh</last_name>
+      <phone>212-241-2437</phone>
+      <email>ivy.cohen@mountsinai.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Douglas Dieterich, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Brugmann</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adeline De Rodez Benavent</last_name>
+      <email>adeline.derodezbenavent@chu-brugmann.be</email>
+    </contact>
+    <investigator>
+      <last_name>Luc Lasser, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CUB Hôpital Erasme</name>
+      <address>
+        <city>Brussels</city>
+        <zip>B-1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Françoise Smits</last_name>
+      <email>francoise.smits@erasme.ulb.ac.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mia Persoons</last_name>
+      <email>mia.persoons@erasme.ulb.ac.be</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christophe Moreno, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Acibadem City Clinic Tokuda Hospital</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1407</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marieta Gamzova-Kelleva</last_name>
+      <phone>+359 884 93 31 98</phone>
+      <email>marieta.gamzova@acibademcityclinic.bg</email>
+    </contact>
+    <investigator>
+      <last_name>Rozalina Balabanska, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center &quot;Nov Rehabilitatsionen Centre&quot; EOOD</name>
+      <address>
+        <city>Stara Zagora</city>
+        <zip>6001</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniela Radicheva</last_name>
+      <phone>00359887095903</phone>
+      <email>d_radicheva@abv.bg</email>
+    </contact>
+    <investigator>
+      <last_name>Mariana Penkova, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <state>Clermont-Ferrand Cedex</state>
+        <zip>63100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sylvie Massoulier</last_name>
+      <phone>04 73 75 05 93</phone>
+      <email>smassoulier@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Armando Abergel, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Saint Eloi</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Herault</state>
+        <zip>34000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peytavi Cecile</last_name>
+      <phone>0033 467335216</phone>
+      <email>c-peytavi@chu-montpellier.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Dominique Larrey, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP, Hôpital Avicenne</name>
+      <address>
+        <city>Bobigny</city>
+        <zip>93000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Severine Donneger</last_name>
+      <email>severine.donneger@aphp.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Caroline Verge</last_name>
+      <email>caroline.verge@aphp.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nathalie Ganne, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Beaujon</name>
+      <address>
+        <city>Clichy</city>
+        <zip>92110</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stéphanie Narguet</last_name>
+      <email>stephanie.narguet@aphp.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sabrina Menasria Benazzouz</last_name>
+      <email>sabrina.menasria.benazzouz@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tarik Asselah, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henri-Mondor Hospital</name>
+      <address>
+        <city>Creteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne-Laure Mazialivoua</last_name>
+      <email>annelaure.mazialivoua@aphp.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Imane Elatmani</last_name>
+      <email>imane.elatmani@aphp.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Patrick Ingiliz, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble-Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Borowik</last_name>
+      <email>aborowik@chu-grenoble.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Emma Vige</last_name>
+      <email>evige@chu-grenoble.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Marie-Noelle Hilleret, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amandine Commare</last_name>
+      <phone>33232888255</phone>
+      <email>amandine.commare@chu-rouen.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Ghassan Riachi, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thibault Morales</last_name>
+      <email>morales.t@chu-toulouse.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Sophie Metivier, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LTD,Tbilisi State Medical Univeristy and lngorokva High Medical Technology University Clinic</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0144</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natia Asanishvili</last_name>
+      <phone>995 577 79 20 50</phone>
+      <email>koordinatori@rambler.ru</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tea Kadagishvili</last_name>
+      <phone>995 599 89 15 08</phone>
+      <email>teonakadagishvili@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Giorgi Samadashvili, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Infectious diseases, AIDS and Clinical Immunology Research Center</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0160</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nikoloz Chkhartishvili</last_name>
+      <phone>995 599 53 53 66</phone>
+      <email>nc@aidscenter.ge</email>
+    </contact>
+    <contact_backup>
+      <last_name>Akaki Abutidze</last_name>
+      <phone>995 557 31 71 07</phone>
+      <email>aa@aidscenter.ge</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tengiz Tsertsvadze, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LTD Academician Nikoloz Kipshidze Central University Clinic</name>
+      <address>
+        <city>Tbilisi</city>
+        <zip>0160</zip>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salome Kalandadze</last_name>
+      <phone>+995 595 29 28 29</phone>
+      <email>salome_kalandadze@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jaba Zarkua, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ZIM 1, Gastroenterologie, University Hospital Frankfurt</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Bott</last_name>
+      <phone>+49 69 6301 87687</phone>
+      <email>bott@em.uni-frankfurt.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kathrin Andrea Sprinzl, Dr.</last_name>
+      <phone>0049-69-630187769</phone>
+      <email>kathrin.sprinzl@kgu.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kathrin Andrea Sprinzl, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover</name>
+      <address>
+        <city>Hanover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olga Stoll</last_name>
+      <phone>+49 511 532 83742</phone>
+      <email>stoll.olga@mh-hannover.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Petra Dörge</last_name>
+      <email>doerge.petra@mh-hannover.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Heiner Wedemeyer, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Mainz, I. Med. Klinik</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Depoix</last_name>
+      <phone>+49 (0) 6131 17 6831</phone>
+      <email>susan.depoix@unimedizin-mainz.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Annette Grambihler, Dr.</last_name>
+      <phone>+49-6131-176831</phone>
+      <email>annette.grambihler@unimedizin-mainz.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Annette Grambihler, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Liver Diseases Center, Sheba Medical Center</name>
+      <address>
+        <city>Ramat Gan</city>
+        <state>Tel Hashomer</state>
+        <zip>5262000</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dana Silverberg</last_name>
+      <phone>972-3-5307179</phone>
+      <email>Dana.Silverberg@sheba.health.gov.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yana Davidov-Derevyanko, Dr.</last_name>
+      <phone>+972 545444945</phone>
+      <email>y.davidov@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Yana Davidov-Derevyanko, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ziv Ben Ari, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emek Medical Center</name>
+      <address>
+        <city>Afula</city>
+        <zip>1834113</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adelina Shteinberg</last_name>
+      <email>AdelinaBa@clalit.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rawi Hazzan, Dr.</last_name>
+      <phone>+972-50-6581389</phone>
+      <email>rawihazzan1@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rawi Hazzan, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Soroka University Medical Center</name>
+      <address>
+        <city>Beer-Sheba</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tamar Gibor</last_name>
+      <phone>972-8-6403589</phone>
+      <email>TamarGib@clalit.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ohad Etzion, Dr.</last_name>
+      <phone>+972-8-6403330</phone>
+      <email>ohadet@clalit.org.il</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ohad Etzion, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Health Care Center</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3109601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vered Ben-Hakoun</last_name>
+      <phone>+972 (4) 7771415</phone>
+      <email>v_ben-hakoon@rambam.health.gov.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ella Veitsman, Dr.</last_name>
+      <phone>+97247772956</phone>
+      <email>e_veitsman@rambam.health.gov.il</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ella Veitsman, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah University Hospital - Ein Kerem</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasmin Malaabi</last_name>
+      <phone>972 77 3194857</phone>
+      <email>yasminm@hadassah.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Reem Dakkak</last_name>
+      <phone>972 54 3059284</phone>
+      <email>Reemk@hadassah.org.il</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rifaat Safadi, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Ospedali Riuniti di Foggia</name>
+      <address>
+        <city>Foggia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Teresa Antonia Santantonio, Dr.</last_name>
+      <phone>+39 0881 732216</phone>
+      <email>teresa.santantonio@unifg.it</email>
+    </contact>
+    <investigator>
+      <last_name>Teresa Antonia Santantonio, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS CA' Granda Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milan</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberta Soffredini</last_name>
+      <phone>+39 02 55032216</phone>
+      <email>rsoffredini@libero.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marta Borghi</last_name>
+      <phone>+390255035432</phone>
+      <email>marta-borghi@libero.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pietro Lampertico, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tommaso Prescimone</last_name>
+      <phone>39 3283386211</phone>
+      <email>t.prescimone@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maurizia Brunetto, Dr.</last_name>
+      <phone>39050996857</phone>
+      <email>maurizia.brunetto@unipi.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maurizia Brunetto, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institutul de Cardiologie Chisinau</name>
+      <address>
+        <city>Chisinau</city>
+        <zip>2025</zip>
+        <country>Moldova, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Veronica Cumpata</last_name>
+      <phone>+373 69353776</phone>
+      <email>veronica.cumpataciorba@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tatiana Rotaru, Dr.</last_name>
+      <email>nika_cv@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Adela Turcanu, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundeni Clinical Institute</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Laura Iliescu, Dr.</last_name>
+      <phone>40722235695</phone>
+      <email>laura_ate@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Elena Laura Iliescu, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Institute for Infectious Diseases &quot;Matei Bals&quot;</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monica Nicoleta Radu</last_name>
+      <phone>40722597702</phone>
+      <email>drmnradu@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Florin Alexandu Caruntu, Dr.</last_name>
+      <phone>0040722212117</phone>
+      <email>drcaruntu@mateibals.ro</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Florin Alexandru Caruntu, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Victor Babes Foundation</name>
+      <address>
+        <city>Bucuresti</city>
+        <zip>030303</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>George Sebastian Gherlan, Dr.</last_name>
+      <phone>+40751107879</phone>
+      <email>gherlanus@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>George Sebastian Gherlan, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul de Infectioase Galati Romania</name>
+      <address>
+        <city>Galati</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liliana Baroiu, Dr.</last_name>
+      <phone>40723201241</phone>
+      <email>lilibaroiu@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Liliana Baroiu, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adriana Palom</last_name>
+      <phone>0034 93 274 60 00</phone>
+      <phone_ext>4066</phone_ext>
+      <email>adrianapalom@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Buti, Dr.</last_name>
+      <phone>34 93 274 60 00</phone>
+      <phone_ext>4066/6562</phone_ext>
+      <email>mbuti@vhebron.net</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maria Buti Ferret, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Fundación Alcorcón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Jesus Fernandez</last_name>
+      <phone>0034 649606653</phone>
+      <email>MJ_9932@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Luisa Gutiérrez García, Dr.</last_name>
+      <phone>+34 916219890</phone>
+      <email>mlgutierrez@fhalcorcon.es</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maria Luisa Gutiérrez García, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocío</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricardo Ruiz</last_name>
+      <email>ricardo.ruiz.hvr@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alvarez Giraldez Gallego, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ankara City Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rahmet Guner, Dr.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Rahmet Guner, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hacettepe University Medical Faculty</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Onur Keskin, Dr.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Onur Keskin, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ege University Medical Faculty</name>
+      <address>
+        <city>Bornova</city>
+        <zip>35100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salih Ulus Akarca, Dr.</last_name>
+      <phone>90 532 644 66 20</phone>
+      <email>ulusakarca@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Salih Ulus Akarca, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dicle University, Medical Faculty</name>
+      <address>
+        <city>Diyarbakır</city>
+        <zip>21280</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celen Mustafa Kemel, Dr.</last_name>
+      <phone>+905336207022</phone>
+      <email>mkcelen@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Celen Mustafa Kemel, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Universitry-Cerrahapasa, Cerrahpasa School of Medicine</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fehmi Tabak, Dr.</last_name>
+      <phone>00905322763788</phone>
+      <email>ftabak@istanbul.edu.tr</email>
+    </contact>
+    <contact_backup>
+      <email>fehmitabak@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fehmi Tabak, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Koc University Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cihan Yurdaydin, Dr.</last_name>
+      <phone>90532 223 34 95</phone>
+      <email>cyurdaydin@ku.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Cihan Yurdaydin, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>France</country>
+    <country>Georgia</country>
+    <country>Germany</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Moldova, Republic of</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Russian Federation</country>
+    <country>Ukraine</country>
+  </removed_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>March 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HDV</keyword>
+  <keyword>Hepatitis D</keyword>
+  <keyword>Viral Hepatitis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis D</mesh_term>
+    <mesh_term>Hepatitis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

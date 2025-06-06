@@ -1,0 +1,232 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611723</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CE0064C</org_study_id>
+    <secondary_id>2020.05356.BD</secondary_id>
+    <secondary_id>UIDB/05210/2020</secondary_id>
+    <nct_id>NCT05611723</nct_id>
+  </id_info>
+  <brief_title>Study and Analysis of Biomechanical Parameters of Human Movement Based on Disability Indicators in Older Adults</brief_title>
+  <acronym>MOBA</acronym>
+  <official_title>Study and Analysis of Biomechanical Parameters of Human Movement Based on Disability Indicators in Older Adults Based on a Multifactorial Analysis: a Cross-sectional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Polytechnic Institute of Porto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>School of Allied Health Sciences of Porto (ESTSP) - Polytechnic Institute of Porto (IPP)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Center for Rehabilitation Research - Polytechnic Institute of Porto (IPP)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Research Centre in Physical Activity, Health and Leisure, Faculty of Sport, University of Porto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Polytechnic Institute of Porto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Older adults develop modifications in the execution of movement that lead to impairments in&#xD;
+      activities of daily living performance. Accordingly, there is a need for technological&#xD;
+      advances in devices that assist older adults targeting improvements in parameters of movement&#xD;
+      performance that have the highest impact on the skills of daily living. Therefore, to gather&#xD;
+      the parameters of movement impacting daily living activities, the main goal of this study is&#xD;
+      to perform a comparative analysis of the biomechanical movement parameters between older&#xD;
+      adults with and without disability, performing the tasks: gait, sit-to-stand, timed up and&#xD;
+      go, quiet standing and climb and descend stairs.&#xD;
+&#xD;
+      This work was supported by theFundação para a Ciência e Tecnologia (FCT), [grant number&#xD;
+      2020.05356.BD] and through R&amp;D Units funding [UIDB/05210/2020], Fundação para a Ciência e&#xD;
+      Tecnologia (FCT), Portugal and the European Union.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2022</start_date>
+  <completion_date type="Anticipated">May 3, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 3, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Waveforms from full-body joint angles</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveforms from full-body joint angles measured in degrees (°)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from full-body angular joint velocities</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from angular joint velocities measured in degrees per second (°/s)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from lower limb joint moments</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from lower limb joint moments measured in Newton-meter (kgm²/s²)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from total body energy</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from total body energy measured in joules (J)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from full-body separate segment energy</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from body segment energy un joules (J)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from lower body joint forces</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from lower body joint forces measured in Newton (N)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from lower body joint power</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from lower body joint power measured in Watts</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from centre of mass displacement</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from centre of mass displacement in m/s</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waveform from centre of pressure displacement</measure>
+    <time_frame>During tasks performance</time_frame>
+    <description>Waveform from centre of pressure displacement in m/s</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Disability</condition>
+  <arm_group>
+    <arm_group_label>Healthy older Adults</arm_group_label>
+    <description>Healthy older Adults: older adults without disability indicators</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Disability Older Adults</arm_group_label>
+    <description>Disability Older Adults: older adults with disability indicators</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exposure to disability</intervention_name>
+    <description>Disability status assessed by functional measures</description>
+    <arm_group_label>Disability Older Adults</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Portuguese community-dwelling older adults&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  older adults, 60 years or over;&#xD;
+&#xD;
+          -  community-dwelling;&#xD;
+&#xD;
+          -  able to perform the tasks (gait, sit-to-stand, climb and descend stairs)&#xD;
+             independently;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  older adults who are institutionalized;&#xD;
+&#xD;
+          -  older adults who have established diagnosis of malignancy or terminal diseases with an&#xD;
+             anticipated survival of less than 1 year;&#xD;
+&#xD;
+          -  older adults who have stroke history, cerebral hemorrhage, head trauma, or Parkinson's&#xD;
+             disease;&#xD;
+&#xD;
+          -  older adults who have cognitive impairment, specifically Mini Mental State Examination&#xD;
+             (Portuguese version) score of 22 for 0 to 2 years of literacy, 24 for 3 to 6 years of&#xD;
+             literacy and 27 for more than 6 years of literacy (Morgado et al., 2009);&#xD;
+&#xD;
+          -  older adults who have rheumatic pathologies that interfere with the tasks performance;&#xD;
+&#xD;
+          -  older adults who have diabetic foot, lower limb fracture less than 6 weeks, or other&#xD;
+             related conditions;&#xD;
+&#xD;
+          -  older adults who have unstable cardiovascular disease, liver or renal function&#xD;
+             failure;&#xD;
+&#xD;
+          -  older adults who have a body mass index greater than or equal to 30 kg/m2;&#xD;
+&#xD;
+          -  older adults who vestibular and/or audition or vision impairments non corrected that&#xD;
+             influence the performance of tasks;&#xD;
+&#xD;
+          -  older adults who presence of symptoms at the time of evaluation that influences the&#xD;
+             participant performance of tasks.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Juliana S Moreira, Msc</last_name>
+    <phone>+351 222 061 000</phone>
+    <email>jmo@ess.ipp.pt</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Center for Rehabilitation Research, School of Health, Polytechnic of Porto, Portugal</name>
+      <address>
+        <city>Porto</city>
+        <zip>4200</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juliana Moreira, Msc</last_name>
+      <phone>+351 222 061 000</phone>
+      <email>jmo@ess.ipp.pt</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Portugal</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>July 6, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Polytechnic Institute of Porto</investigator_affiliation>
+    <investigator_full_name>Juliana dos Santos Moreira</investigator_full_name>
+    <investigator_title>Master of Science</investigator_title>
+  </responsible_party>
+  <keyword>Aged</keyword>
+  <keyword>Older Adults</keyword>
+  <keyword>Aging</keyword>
+  <keyword>Disability</keyword>
+  <keyword>Disability Evaluation</keyword>
+  <keyword>Biomechanical Phenomena</keyword>
+  <keyword>Biomechanical analysis</keyword>
+  <keyword>Kinematics</keyword>
+  <keyword>Kinetics</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

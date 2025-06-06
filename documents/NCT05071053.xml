@@ -1,0 +1,501 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05071053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACT16444</org_study_id>
+    <secondary_id>U1111-1266-5040</secondary_id>
+    <secondary_id>2021-001967-26</secondary_id>
+    <nct_id>NCT05071053</nct_id>
+  </id_info>
+  <brief_title>Tusamitamab Ravtansine (SAR408701) in Combination With Ramucirumab in Pretreated Participants With Gastric Cancer</brief_title>
+  <acronym>CARMEN-GC01</acronym>
+  <official_title>Open-label Study of Tusamitamab Ravtansine (SAR408701) in Combination With Ramucirumab in Participants Previously Treated for Advanced Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma With CEACAM5-positive Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objectives:&#xD;
+&#xD;
+      Part 1: to confirm the recommended tusamitamab ravtansine loading dose Q2W in combination&#xD;
+      with ramucirumab in advanced gastric or gastroesophageal junction (GEJ) adenocarcinoma&#xD;
+      population&#xD;
+&#xD;
+      Part 2: to assess the antitumor activity of tusamitamab ravtansine loading dose Q2W in&#xD;
+      combination with ramucirumab in advanced gastric or GEJ adenocarcinoma&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        -  To assess safety&#xD;
+&#xD;
+        -  To assess durability&#xD;
+&#xD;
+        -  To assess progression-free survival (PFS)&#xD;
+&#xD;
+        -  To assess the disease control rate (DCR)&#xD;
+&#xD;
+        -  To assess the pharmacokinetics (PK)&#xD;
+&#xD;
+        -  To assess the immunogenicity&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      34 weeks (up to 4 weeks for screening, a median of 18 weeks for treatment, and a median of 12&#xD;
+      weeks for end-of-treatment assessments and the safety follow-up visit).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 16, 2021</start_date>
+  <completion_date type="Anticipated">September 29, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 23, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of study drug related dose-limiting toxicities (DLTs)</measure>
+    <time_frame>Cycle 1 Day 1 to Cycle 2 Day 14 (approximatively 1 month)</time_frame>
+    <description>Part 1:&#xD;
+Number of participants with DLTs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>From baseline up to approximately 24 months</time_frame>
+    <description>Part 2:&#xD;
+Objective Response Rate (ORR), defined as the proportion of participants with confirmed complete response (CR) or partial response (PR) as best overall response (BOR) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events</measure>
+    <time_frame>From baseline up to approximately 24 months</time_frame>
+    <description>Number of participants with adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>From baseline up to approximately 24 months</time_frame>
+    <description>Duration of response (DOR), defined as the time from first documented evidence of CR or PR until progressive disease (PD) determined per RECIST 1.1 or death from any cause, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From baseline up to approximately 24 months</time_frame>
+    <description>Progression-free survival, defined as the time from the first investigational medicinal product (IMP) administration to the date of the first documented disease progression or death due to any cause, whichever comes first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>From baseline up to approximately 24 months</time_frame>
+    <description>Disease control rate, defined as the proportion of participants with confirmed CR or PR or SD as BOR per RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of antitherapeutic antibodies (ATAs) against tusamitamab ravtansine</measure>
+    <time_frame>From baseline up to approximately 24 months</time_frame>
+    <description>Incidence of antitherapeutic antibodies (ATAs) against tusamitamab ravtansine</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Adenocarcinoma Gastric</condition>
+  <condition>Gastrooesophageal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Tusamitamab ravtansine+Ramucirumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1: participants to receive an intravenous (IV) dose of tusamitamab ravtansine in combination with an IV dose of ramucirumab on Day 1 of Cycle 1 followed by an additional IV dose of tusamitamab in combination with IV dose of ramucirumab at Day 1 Cycle 2 of 14-day cycle in all subsequent cycles.&#xD;
+Part 2: participants to receive the recommended dose of tusamitamab ravtansine established in the Part 1 in combination with IV dose of ramucirumab on Day 1 of Cycle 1 followed by IV dose of tusamitamab in combination with IV dose of ramucirumab at Day 1 Cycle 2 of 14-day cycle in all subsequent cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ramucirumab (CYRAMZA®)</intervention_name>
+    <description>Pharmaceutical Form: Concentrate for solution for infusion&#xD;
+Route of Administration: Intravenous Infusion</description>
+    <arm_group_label>Tusamitamab ravtansine+Ramucirumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tusamitamab ravtansine (SAR408701)</intervention_name>
+    <description>Pharmaceutical Form: Concentrate for solution for infusion&#xD;
+Route of Administration: Intravenous Infusion</description>
+    <arm_group_label>Tusamitamab ravtansine+Ramucirumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed diagnosis of gastric or GEJ adenocarcinoma&#xD;
+&#xD;
+          -  Metastatic disease or locally advanced, unresectable disease&#xD;
+&#xD;
+          -  Participants who have measurable target lesion&#xD;
+&#xD;
+          -  Participants with high carcinoembryonic antigen-related cell adhesion molecule&#xD;
+             (CEACAM5) expression as per central assessment on tumor biospsy&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-1&#xD;
+&#xD;
+          -  Female participant who agrees to use effective contraceptive methods during and for at&#xD;
+             least 7 months after the last dose of treatment administration&#xD;
+&#xD;
+          -  Male participant who agrees to use effective contraception methods during and for at&#xD;
+             least 4 months after the last dose of treatment administration&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Untreated brain metastases, leptomeningeal disease, or uncontrolled spinal cord&#xD;
+             compression&#xD;
+&#xD;
+          -  Significant concomitant illness&#xD;
+&#xD;
+          -  History within the last 3 years of an invasive malignancy other than that treated in&#xD;
+             this study&#xD;
+&#xD;
+          -  Known uncontrolled infection&#xD;
+&#xD;
+          -  Nonresolution of any prior treatment-related toxicity&#xD;
+&#xD;
+          -  Unresolved corneal disorder or any previous corneal disorder considered by an&#xD;
+             ophthalmologist to predict higher risk of drug-induced keratopathy&#xD;
+&#xD;
+          -  Use of contact lenses&#xD;
+&#xD;
+          -  Radiographic evidence of major airway or blood vessel invasion or intratumor&#xD;
+             cavitation&#xD;
+&#xD;
+          -  History of uncontrolled hereditary or acquired thrombotic disorder or history of&#xD;
+             aneurism&#xD;
+&#xD;
+          -  Major surgery within 28 days prior to Day 1/first IMP infusion; subcutaneous venous&#xD;
+             access device placement within 7 days prior to Day 1; or postoperative bleeding&#xD;
+             complications or wound complications from a surgical procedure performed in the last 2&#xD;
+             months&#xD;
+&#xD;
+          -  History of gross hemoptysis (defined as bright red blood or ≥1/2 teaspoon) within 2&#xD;
+             months before the first treatment administration&#xD;
+&#xD;
+          -  Any arterial thrombotic event, including myocardial infarction, unstable angina,&#xD;
+             cerebrovascular accident, or transient ischemic attack, within 6 months before the&#xD;
+             first administration of treatment administration&#xD;
+&#xD;
+          -  Uncontrolled arterial hypertension (systolic ≥150 mmHg or diastolic ≥90 mmHg) despite&#xD;
+             standard medical management.&#xD;
+&#xD;
+          -  Serious or nonhealing wound, skin ulcer, or bone fracture within 28 days before the&#xD;
+             first administration of treatment administration&#xD;
+&#xD;
+          -  Gastrointestinal (GI) perforation and/or fistulae within 6 months prior to first&#xD;
+             administration of treatment administration&#xD;
+&#xD;
+          -  Significant bleeding disorders, vasculitis, or Grade 3-4 gastrointestinal (GI)&#xD;
+             bleeding within 3 months before the first administration of study intervention.&#xD;
+&#xD;
+          -  Bowel obstruction, history or presence of inflammatory enteropathy or extensive&#xD;
+             intestinal resection Crohn's disease, ulcerative colitis, or chronic diarrhea&#xD;
+&#xD;
+          -  Medical condition requiring concomitant administration of a medication with a narrow&#xD;
+             therapeutic window and metabolized by CYP450 or a strong CYP3A inhibitor&#xD;
+&#xD;
+          -  Concurrent treatment with any other anticancer therapy&#xD;
+&#xD;
+          -  Prior treatment targeting CEACAM5 or containing maytansinoid DM1 or DM4 or ramucirumab&#xD;
+             or taxane or targeting VEGF/VEGFR Poor organ function&#xD;
+&#xD;
+        The above information is not intended to contain all considerations relevant to a patient's&#xD;
+        potential participation in a clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Investigational Site Number :0560002</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>BE-1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :0560003</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :0560001</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3920002</name>
+      <address>
+        <city>Kashiwa-shi</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3920004</name>
+      <address>
+        <city>Matsuyama-shi</city>
+        <state>Ehime</state>
+        <zip>791-0280</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3920001</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <state>Hokkaido</state>
+        <zip>003-0804</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3920003</name>
+      <address>
+        <city>Sunto-gun</city>
+        <state>Shizuoka</state>
+        <zip>411-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :4100002</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul-teukbyeolsi</state>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :4100003</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul-teukbyeolsi</state>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :4100001</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul-teukbyeolsi</state>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :4100004</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul-teukbyeolsi</state>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :6430001</name>
+      <address>
+        <city>Arkhangelsk</city>
+        <zip>163045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :6430004</name>
+      <address>
+        <city>Lapino Village</city>
+        <zip>143030</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :6430002</name>
+      <address>
+        <city>Moscow</city>
+        <zip>109089</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :6430003</name>
+      <address>
+        <city>Pushkin, Saint- Petersburg</city>
+        <zip>196603</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7240002</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Barcelona [Barcelona]</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7240003</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Barcelona [Barcelona]</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7240004</name>
+      <address>
+        <city>Granada</city>
+        <zip>18014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7240001</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7920003</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06200</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7920001</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34300</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7920002</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34722</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :7920004</name>
+      <address>
+        <city>Malatya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ramucirumab</mesh_term>
+    <mesh_term>Maytansine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

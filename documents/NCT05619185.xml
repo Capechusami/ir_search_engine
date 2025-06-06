@@ -1,0 +1,255 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05619185</url>
+  </required_header>
+  <id_info>
+    <org_study_id>67087</org_study_id>
+    <secondary_id>1R01AA030258</secondary_id>
+    <nct_id>NCT05619185</nct_id>
+  </id_info>
+  <brief_title>A SMART Evaluation of an Adaptive Web-based AUD Treatment for Service Members and Their Partners</brief_title>
+  <official_title>A SMART Evaluation of an Adaptive Web-based AUD Treatment for Service Members and Their Partners</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Southern California</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>RAND</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Northern California Institute of Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy of an adaptive web intervention&#xD;
+      (Partners Connect) on military spouse drinking behaviors (CPs) and service member&#xD;
+      help-seeking (SMs). The investigators want to identify for whom this intervention is most&#xD;
+      efficacious and on what drinking behaviors and mechanisms. The investigators hypothesize that&#xD;
+      the intervention will reduce concerned partner drinking and increase service member&#xD;
+      help-seeking, compared to website resources, and that phone-based CRAFT will increase&#xD;
+      help-seeking behaviors, compared to those who are guided via a CRAFT workbook.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 1, 2023</start_date>
+  <completion_date type="Anticipated">October 27, 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Concerned Partner Drinking Days</measure>
+    <time_frame>Baseline to 6 month follow-up</time_frame>
+    <description>The CP primary outcome is drinking defined as number of drinking days in the past month</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concerned Partner Drinks per Episode</measure>
+    <time_frame>Baseline to 6 month follow-up</time_frame>
+    <description>The CP primary outcome is drinking defined as number of drinks per episode in the past month</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Service Member help-seeking</measure>
+    <time_frame>Baseline to 6 month</time_frame>
+    <description>Completion of the personalized normalized feedback (PNF) component of the intervention as a signal of increase help-seeking behavior</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>mental health symptoms</measure>
+    <time_frame>Baseline to 6 month follow-up</time_frame>
+    <description>Anxiety as measured by the global score on the Generalized Anxiety Disorder 7-item scale (GAD-7)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mental health symptoms</measure>
+    <time_frame>Baseline to 6 month follow-up</time_frame>
+    <description>Depression as measured by the global score on the Patient Health Questionnaire 9-item (PHQ-9)</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">744</enrollment>
+  <condition>Alcohol Abuse</condition>
+  <condition>Alcohol Use Disorder</condition>
+  <condition>Alcohol Drinking</condition>
+  <condition>Relations, Interpersonal</condition>
+  <condition>Military Family</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Those randomized to the CRAFT intervention will receive a web-based intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Those randomized to CONTROL will complete a self-guided intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phone Based CRAFT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>If a member of the recruited dyad does not respond, then participants will be randomized to receive phone-based CRAFT</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CRAFT Workbook</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>If a member of the recruited dyad does not respond, then participants will be randomized to receive a CRAFT workbook</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CRAFT Web-Based Intervention</intervention_name>
+    <description>Session 1 addresses CPs' mental health issues and drinking. CPs select reasons why they are seeking help and steps they will take towards those goals. Session 2 is focused on improving their relationship through communication exercises. Session 3 is focused on functional analysis of their partner's drinking, and how to positively reinforce their partner's sobriety and negatively reinforce their drinking. Finally, Session 4 focuses on continuing self-care and talking with their partner about their concerns while interacting with them in healthy ways. The WBI contains audio, video, text, and exercises that utilize digital storytelling and vignettes to convey teaching points - a method utilized by the military to address stigma and increase treatment utilization. Actresses portrayed different experiences that the CP may be going through and modeled skills. CPs clicked on the vignette that they most connected with and followed that character across all the sessions.</description>
+    <arm_group_label>CRAFT Workbook</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_label>Phone Based CRAFT</arm_group_label>
+    <other_name>WBI</other_name>
+    <other_name>Partners Connect</other_name>
+    <other_name>Web-based intervention (WBI)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Phone-Based CRAFT</intervention_name>
+    <description>The phone-based CRAFT intervention consists of six individual sessions with a CRAFT clinician that will explore what they learned from the WBI and additional skills they need. Session content includes positive reinforcement of non-drinking SM behaviors, refraining from interfering in SM's consequences of alcohol use, communication skills, and self-care.</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_label>Phone Based CRAFT</arm_group_label>
+    <other_name>Community Reinforcement and Family Training (CRAFT) phone sessions</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CRAFT Workbook</intervention_name>
+    <description>The self-directed CRAFT workbook Table 1.Partners Connect WBI has a parent and partner version that uses CRAFT to help the CP help with understanding, self-care, communication, and actions (e.g., how to react when a partner has been using substances and when they have not been using substances, how to talk to partner so that they are more likely to be heard) and includes more information about communicating than the WBI and several interactive worksheets.</description>
+    <arm_group_label>CRAFT Workbook</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>Community Reinforcement and Family Training (CRAFT) workbook</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gottman Self-Guided Resources</intervention_name>
+    <description>To match time spent reviewing the website, CPs will receive an orientation guide that includes the website URL and a 4-week guide for how they can navigate this website for 20-30 minutes per week (e.g., read article &quot;'It's Not My Fault!': Why Defensiveness is Damaging&quot; and write down one tool to dissolve defensiveness you're willing to try). We will send reminder emails each week to visit the website and include questions in the emails and our first online follow-up survey asking CPs approximately how many times they visited the website and how long they spent viewing content on the website. Reminder emails will be programmed such that CPs get directed automatically to the website if the CP notes no time spent on it.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  at least 18 years of age;&#xD;
+&#xD;
+          -  be living together with their partner, with no plans to change that status in the next&#xD;
+             2 months;&#xD;
+&#xD;
+          -  not be in the military themselves (to reduce concerns about mandated reporting of&#xD;
+             alcohol use);&#xD;
+&#xD;
+          -  score ≥4 on the AUDIT-C for females or ≥5 for males/other;&#xD;
+&#xD;
+          -  respond yes to &quot;Do you feel safe in your current relationship?&quot; from the Partner&#xD;
+             Violence Screen;&#xD;
+&#xD;
+          -  report not currently being in mental health or alcohol treatment (CP and SM)&#xD;
+&#xD;
+          -  understand English fluently,&#xD;
+&#xD;
+          -  be willing to try an online program to address risky drinking.&#xD;
+&#xD;
+        We require cohabitating CPs and SMs with no anticipated changes in the next two months to&#xD;
+        ensure close contact and opportunity to practice new skills, and those who would feel safe&#xD;
+        participating.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  CPs in substance use treatment or their SM was in treatment in the last three months;&#xD;
+&#xD;
+          -  does not feel safe in the current relationship;&#xD;
+&#xD;
+          -  does not understand English fluently;&#xD;
+&#xD;
+          -  has an impaired capacity (cognitive, visual, or hearing);&#xD;
+&#xD;
+          -  is not cohabitating with their SM&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kat Nameth, BS</last_name>
+    <phone>6505429699</phone>
+    <email>knameth@stanford.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Kat Nameth, BS</last_name>
+      <phone>650-542-9699</phone>
+      <email>knameth@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Karen Osilla, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>April 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Karen Osilla</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>military</keyword>
+  <keyword>alcohol</keyword>
+  <keyword>drinking</keyword>
+  <keyword>substance use</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alcoholism</mesh_term>
+    <mesh_term>Alcohol Drinking</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There will be no IPD shared</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

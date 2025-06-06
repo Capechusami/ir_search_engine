@@ -1,0 +1,251 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613140</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLCZ696BUS33</org_study_id>
+    <nct_id>NCT05613140</nct_id>
+  </id_info>
+  <brief_title>Sacubitril/Valsartan Treated Adult Patients With Chronic Heart Failure</brief_title>
+  <official_title>A Pre-post Analysis of Healthcare Resource Utilization and Costs of Care in a New User Cohort of Sacubitril/Valsartan Treated Adult Patients With Chronic Heart Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <brief_summary>
+    <textblock>
+      This study evaluated changes in healthcare resource utilization (HCRU) and costs of care&#xD;
+      within 12 months following initiation of sacubitril/valsartan (sac/val) in commercially&#xD;
+      insured and Medicare Advantage (MA) lives in the U.S among adult patients with heart failure&#xD;
+      with reduced ejection fraction (HFrEF) (cohort 1) and adult patients with chronic heart&#xD;
+      failure (CHF) (cohort 2).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a non-interventional, retrospective cohort study using secondary data sources from&#xD;
+      the Optum Clinformatics® Data Mart (CDM) and 100% files of the CMS Medicare RIFs.&#xD;
+&#xD;
+      Two study cohorts were constructed to include adult Heart Failure with reduced ejection&#xD;
+      fraction (HFrEF) patients who newly initiated sacubitril/valsartan (Cohort 1) and adult&#xD;
+      Chronic Heart Failure (CHF) patients who newly initiated sacubitril/valsartan (Cohort 2).&#xD;
+&#xD;
+      The date of first prescription fill for sacubitril/valsartan during the cohort identification&#xD;
+      period was defined as index date. A 12-month washout period was employed to ascertain the&#xD;
+      &quot;new user&quot; status. The Healthcare Resource Utilization (HCRU) and costs of care outcomes will&#xD;
+      be measured within both the 12 months post-index period and the 12 months pre-index period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 2, 2021</start_date>
+  <completion_date type="Actual">November 5, 2021</completion_date>
+  <primary_completion_date type="Actual">November 5, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean number of Heart Failure - specific hospitalizations of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Number of Heart Failure (HF)-specific hospitalizations was defined as the number of acute inpatient hospitalizations with a primary discharge diagnosis of HF. An acute inpatient hospitalization was defined as a medical claim for an inpatient hospitalization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of HF - related hospitalizations of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Number of HF-related hospitalizations was defined as the number of acute inpatient hospitalizations with a discharge diagnosis of HF in any position.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of all-cause hospitalizations of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Number of all-cause hospitalizations was as the number of acute inpatient hospitalizations for any reason.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of Urgent Heart Failure (UHF) visits of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>An UHF visit was defined as any of the following:&#xD;
+i) a patient with a place of service (POS) code 20, which corresponds to urgent care facility ii) a patient with an ER visit that was outpatient (POS code = 22, 23), identified from revenue codes: 0450, 0451, 0452, 0456 or 0459 iii) a patient with an urgent care clinic visit that was outpatient (POS code = 22, 23), identified from revenue codes: 0516 or 0526 iv) a patient with a hospital observational stay (POS code = 22, 23), identified from revenue code 0762</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of Worsening Heart Failure (WHF) episodes of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Number of WHF episodes was defined as a composite outcome of HF-specific hospitalizations and UHF visits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean costs of HF-specific hospitalizations of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Costs of HF-specific hospitalizations was defined as the sum of payer paid amounts for acute inpatient hospitalizations with a primary discharge diagnosis of HF.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean costs of HF-related hospitalizations of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Costs of HF-related hospitalizations were defined as the sum of payer paid amounts for acute inpatient hospitalizations with a discharge diagnosis of HF in any position.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean costs of all-cause hospitalizations of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Costs of all-cause hospitalizations were defined as the sum of payer paid amounts for acute inpatient hospitalizations for any reason.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean costs of UHF visits of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Costs of UHF visits were defined as the sum of payer paid amounts for UHF visits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean costs of WHF episodes of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>Costs of WHF episodes were defined as the sum of payer paid amounts for HF-specific hospitalizations and UHF visits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean HF-specific costs of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>HF-related costs were defined as the sum of payer paid amounts for medical claims with a diagnosis of HF in any position.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean all-cause medical costs of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>All-cause medical costs were defined as the sum of payer paid amounts for all medical claims.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean all-cause pharmacy costs of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>All-cause pharmacy costs were defined as the sum of payer paid amounts for all pharmacy claims.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean all-cause total cost of care of adult HFrEF patients treated with sacubitril/valsartan</measure>
+    <time_frame>Baseline, 12 months post initiation of sacubitril/valsartan</time_frame>
+    <description>All-cause total cost of care were defined as the sum of all-cause medical costs and all-cause pharmacy costs.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">9230</enrollment>
+  <condition>Chronic Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 - Adult HFrEF patients</arm_group_label>
+    <description>adult HFrEF patients who newly initiated sacubitril/valsartan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 - Adult CHF patients</arm_group_label>
+    <description>adult CHF patients who newly initiated sacubitril/valsartan</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sacubitril/valsartan</intervention_name>
+    <description>Two study cohorts were constructed to include adult HFrEF patients who newly initiated sacubitril/valsartan (Cohort 1) and adult CHF patients who newly initiated sacubitril/valsartan (Cohort 2).</description>
+    <arm_group_label>Cohort 1 - Adult HFrEF patients</arm_group_label>
+    <arm_group_label>Cohort 2 - Adult CHF patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        adult patients with heart failure with reduced ejection fraction (HFrEF) and adult patients&#xD;
+        with chronic heart failure (CHF)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Cohort 1 - Adult HFrEF patients&#xD;
+&#xD;
+          -  Newly initiated sacubitril/valsartan during the cohort identification period;&#xD;
+&#xD;
+          -  Presence of an International Classification of Diseases, Tenth revision (ICD-10)&#xD;
+             diagnosis code for systolic HF (I50.1x, I50.2x, I50.4x) on one inpatient hospital&#xD;
+             claim or two outpatient medical claims during the cohort identification period;&#xD;
+&#xD;
+          -  That are ≥ 18 years old at index date;&#xD;
+&#xD;
+          -  That are treated with sacubitril/valsartan continuously for a minimum of 90-days&#xD;
+             following treatment initiation;&#xD;
+&#xD;
+          -  That are continuously enrolled in medical and prescription pharmacy benefits in both&#xD;
+             the pre-index and post-index period, with any gap in coverage of &lt;45 days allowed.&#xD;
+&#xD;
+        Cohort 2 - Adult CHF patients&#xD;
+&#xD;
+          -  Newly initiated sacubitril/valsartan during the cohort identification period;&#xD;
+&#xD;
+          -  Presence of ICD-10 diagnosis code for systolic HF or diastolic HF (I50.1x, I50.2x,&#xD;
+             I50.3x, I50.4x) on one inpatient hospital claim or two outpatient medical claims&#xD;
+             during the cohort identification period;&#xD;
+&#xD;
+          -  That are ≥ 18 years old at index date;&#xD;
+&#xD;
+          -  That are treated with sacubitril/valsartan continuously for a minimum of 90-days&#xD;
+             following treatment initiation;&#xD;
+&#xD;
+          -  That are continuously enrolled in medical and prescription pharmacy benefits in both&#xD;
+             the pre-index and post-index period, with any gap in coverage of &lt;45 days allowed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Patients who died during the post-index period will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>East Hanover</city>
+        <state>New Jersey</state>
+        <zip>07936-1080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.novctrd.com/ctrdweb/trialresult/trialresults/pdf?trialResultId=17992</url>
+    <description>Results for CLCZ696BUS33 from the Novartis Clinical Trials Website</description>
+  </link>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 5, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Heart failure,</keyword>
+  <keyword>Medicare Advantage,</keyword>
+  <keyword>Commercial,</keyword>
+  <keyword>HFrEF,</keyword>
+  <keyword>Chronic heart failure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Valsartan</mesh_term>
+    <mesh_term>Sacubitril and valsartan sodium hydrate drug combination</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

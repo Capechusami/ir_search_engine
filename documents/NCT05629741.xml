@@ -1,0 +1,611 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629741</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Clarametyx</org_study_id>
+    <nct_id>NCT05629741</nct_id>
+  </id_info>
+  <brief_title>A 2-Part First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of CMTX-101</brief_title>
+  <official_title>A 2-Part First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of CMTX-101, an Anti-DNABII Monoclonal Antibody, in Healthy Subjects (Part 1) and Hospitalized Subjects With Suspected or Confirmed Community-Acquired Bacterial Pneumonia of Moderate Severity (Part 2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clarametyx Biosciences, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clarametyx Biosciences, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CMTX-101 is a bacterial biofilm disrupting monoclonal antibody being developed as an adjunct&#xD;
+      therapy with standard of care antibiotics. The goal of this clinical trial is to assess the&#xD;
+      safety and tolerability of CMTX-101 in healthy volunteers followed by a similar assessment in&#xD;
+      patients with suspected or confirmed community acquired bacterial pneumonia of moderate&#xD;
+      severity.&#xD;
+&#xD;
+      The main questions the study aims to answer are:&#xD;
+&#xD;
+        -  Are single ascending doses of a CMTX-101 intravenous (IV) infusion safe and tolerated&#xD;
+&#xD;
+        -  What is the pharmacokinetic (PK) profile of single-ascending doses CMTX 101&#xD;
+&#xD;
+        -  Do single ascending doses of CMTX 101 induce development of anti-drug antibodies (ADA)&#xD;
+           and neutralizing antibodies (Nabs)&#xD;
+&#xD;
+      Exploratory efficacy biomarkers will also be measured in the patient part of the study.&#xD;
+      Participants will be administered a single IV infusion of CMTX-101 over a 60-minute period;&#xD;
+      patients will receive the infusion after starting standard of care antibiotics.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 14, 2022</start_date>
+  <completion_date type="Anticipated">February 7, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 7, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number and % of healthy subjects experiencing Adverse Events following ascending doses of a single CMTX-101 IV infusion</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Primary objective of Part 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and % of healthy subjects experiencing Serious Adverse Events following ascending doses of a single CMTX-101 IV infusion</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Primary objective of Part 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and % of healthy subjects experiencing Solicited Adverse Events following ascending doses of a single CMTX-101 IV infusion</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Primary objective of Part 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and % of hospitalized subjects with suspected or confirmed CABP of moderate severity experiencing Adverse Events following dosing of a single CMTX-101 IV infusion</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Primary objective of Part 2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and % of hospitalized subjects with suspected or confirmed CABP of moderate severity experiencing Serious Adverse Events following dosing of a single CMTX-101 IV infusion</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Primary objective of Part 2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and % of hospitalized subjects with suspected or confirmed CABP of moderate severity experiencing Solicited Adverse Events following dosing of a single CMTX-101 IV infusion</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Primary objective of Part 2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the CMax - Observed maximum plasma concentration determined by ELISA following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the TMax - Time to reach maximum plasma concentration determined by ELISA following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the AUC0-last Area under the concentration time curve following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the AUC0-∞ Area under the concentration time curve from zero to infinite time following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Terminal phase elimination rate determined by ELISA following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Terminal elimination half-determined by ELISA following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Apparent total body clearance (CL/F) determined by ELISA following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Apparent volume of distribution (Vz/F) determined by ELISA following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the immunogenicity of CMTX-101 as measured by anti-drug antibodies (ADAs) determined by electrochemiluminescence assay following ascending doses of a single CMTX-101 IV infusion in healthy subjects</measure>
+    <time_frame>Cohorts 1 and 2: Day 1 to Day 29. Cohorts 3 and 4: Day 1 to Day 100.</time_frame>
+    <description>Secondary objective of Part 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the CMax - Observed maximum plasma concentration determined by ELISA following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the TMax - Time to reach maximum plasma concentration determined by ELISA following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the AUC0-last Area under the concentration time curve following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the AUC0-∞ Area under the concentration time curve from zero to infinite time following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Terminal phase elimination rate determined by ELISA following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Terminal elimination half-determined by ELISA following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Apparent total body clearance (CL/F) determined by ELISA following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the Apparent volume of distribution (Vz/F) determined by ELISA following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the immunogenicity of CMTX-101 as measured by anti-drug antibodies determined by electrochemiluminescence assay following a single dose of a CMTX-101 IV infusion in hospitalized subjects with suspected or confirmed CABP of moderate severity</measure>
+    <time_frame>Day 1 to Day 35</time_frame>
+    <description>Secondary objective of Part 2</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Community-acquired Pneumonia</condition>
+  <condition>Bacterial Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>CMTX-101 2.5 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CMTX-101 will be administered as a single IV infusion over 60 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CMTX-101 5 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CMTX-101 will be administered as a single IV infusion over 60 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CMTX-101 15 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CMTX-101 will be administered as a single IV infusion over 60 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CMTX-101 30 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CMTX-101 will be administered as a single IV infusion over 60 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CMTX-101 0 mg/kg</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered as a single IV infusion over 60 minutes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CMTX-101</intervention_name>
+    <description>Administered as specified in the treatment arm</description>
+    <arm_group_label>CMTX-101 15 mg/kg</arm_group_label>
+    <arm_group_label>CMTX-101 2.5 mg/kg</arm_group_label>
+    <arm_group_label>CMTX-101 30 mg/kg</arm_group_label>
+    <arm_group_label>CMTX-101 5 mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered as specified in the treatment arm</description>
+    <arm_group_label>CMTX-101 0 mg/kg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for Part 1 and Part 2&#xD;
+&#xD;
+          1. Is ≥ 18 years of age at Screening;&#xD;
+&#xD;
+          2. Is able to provide written informed consent;&#xD;
+&#xD;
+          3. Has a body mass index (BMI) of 18 to 35 kg/m2, inclusive, at Screening (both parts)&#xD;
+             and Day -1 (Part 1);&#xD;
+&#xD;
+          4. Has a weight of 50 to 125 kg, inclusive, at Screening (both parts) and Day -1 (Part&#xD;
+             1);&#xD;
+&#xD;
+          5. If a female subject of non-childbearing potential, is either surgically sterile (i.e.,&#xD;
+             has had a hysterectomy, bilateral salpingectomy, and/or bilateral oophorectomy at&#xD;
+             least 26 weeks before Screening) or post-menopausal, defined as spontaneous amenorrhea&#xD;
+             for at least 2 years, with a follicle-stimulating hormone in the post-menopausal range&#xD;
+             at Screening, based on the central laboratory's ranges;&#xD;
+&#xD;
+          6. Contraceptive requirements: If a female subject of childbearing potential (i.e.,&#xD;
+             ovulating, pre-menopausal, and not surgically sterile) with a male partner or a male&#xD;
+             subject with a female partner, must use a medically accepted contraceptive regimen&#xD;
+             during her/his participation in the study and for 4 months after the last infusion of&#xD;
+             study drug. Medically accepted contraceptive methods are defined as those with 90% or&#xD;
+             greater efficacy;&#xD;
+&#xD;
+             Acceptable methods of contraception for male subjects include the following:&#xD;
+&#xD;
+               1. Condoms with spermicide;&#xD;
+&#xD;
+               2. Surgical sterilization of subject (i.e., vasectomy) at least 26 weeks before&#xD;
+                  Screening; or&#xD;
+&#xD;
+               3. Sexual abstinence (i.e., refraining from heterosexual intercourse), if the&#xD;
+                  preferred and usual lifestyle of the subject.&#xD;
+&#xD;
+                  Acceptable methods of contraception for female subjects include the following:&#xD;
+&#xD;
+               4. Bilateral tubal ligation, completed at least 12 weeks prior to Screening;&#xD;
+&#xD;
+               5. Intrauterine device used for at least 12 weeks prior to Screening;&#xD;
+&#xD;
+               6. Hormonal contraception (oral, implant, injection, ring, or patch) for at least 12&#xD;
+                  weeks prior to Screening;&#xD;
+&#xD;
+               7. Diaphragm used in combination with spermicide; or&#xD;
+&#xD;
+               8. Sexual abstinence (i.e., refraining from heterosexual intercourse), if the&#xD;
+                  preferred and usual lifestyle of the subject.&#xD;
+&#xD;
+          7. If a male subject, must agree to abstain from sperm donation through 4 months after&#xD;
+             infusion of the last dose of study drug;&#xD;
+&#xD;
+          8. If a female of childbearing potential, must demonstrate a negative serum pregnancy&#xD;
+             test at Screening and a negative urine pregnancy test prior to study drug&#xD;
+             administration;&#xD;
+&#xD;
+             Inclusion criteria for Part 1 only (healthy volunteers)&#xD;
+&#xD;
+          9. Is in general good health, based upon the results of medical history, physical&#xD;
+             examination, vital signs, laboratory profile, and a 12-lead electrocardiogram (ECG),&#xD;
+             as judged by the Investigator;&#xD;
+&#xD;
+         10. Agrees to stay in contact with the site for the duration of the study and provide&#xD;
+             updated contact information as necessary;&#xD;
+&#xD;
+         11. Agrees to avoid elective surgery for the duration of the study;&#xD;
+&#xD;
+             Inclusion criteria for Part 2 only (subjects with CABP)&#xD;
+&#xD;
+         12. Has known or suspected CABP requiring hospitalization with the following criteria:&#xD;
+&#xD;
+             a. Presents with at least 2 of the following symptoms:&#xD;
+&#xD;
+             i. Difficulty breathing; ii. New-onset cough or worsening of baseline cough; iii.&#xD;
+             Purulent sputum production; or iv. Pleuritic chest pain due to pneumonia.&#xD;
+&#xD;
+             b. Has at least 2 of the following vital sign abnormalities:&#xD;
+&#xD;
+             i. Fever (oral or tympanic temperature ≥38.3°C [≥100.9°F]) or hypothermia (oral or&#xD;
+             tympanic temperature &lt;35°C [&lt;95°F]); ii. Tachycardia (heart rate &gt;100 bpm); or iii.&#xD;
+             Tachypnea (respiratory rate &gt;20 breaths per minute).&#xD;
+&#xD;
+             c. Has at least 1 of the following signs:&#xD;
+&#xD;
+             i. Hypoxemia, defined as an oxygen saturation &lt;92% room air or while receiving&#xD;
+             supplemental oxygen at the subject's baseline requirement OR a partial pressure of&#xD;
+             oxygen &lt;60 mmHg; ii. Clinical evidence of pulmonary consolidation defined as&#xD;
+             auscultatory and/or percussion findings consistent with pneumonia (e.g., crackles,&#xD;
+             egophony, dullness); or iii. Leukocytosis, defined as a peripheral white blood cell&#xD;
+             (WBC) count &gt;10,000/mm3, &gt;15% immature neutrophils (bands) regardless of total WBC&#xD;
+             count, or leukopenia, defined as a total WBC count &lt;4500 mm3.&#xD;
+&#xD;
+             d. Has radiographic evidence of pneumonia within 48 hours before enrollment (i.e.,&#xD;
+             infiltrates in a lobar or multi-lobar distribution or diffuse opacities on a chest&#xD;
+             X-ray or computed tomography scan consistent with bacterial pneumonia); and&#xD;
+&#xD;
+             e. Has pneumonia suspected or confirmed of bacterial etiology.&#xD;
+&#xD;
+        Exclusion criteria for Part 1 and Part 2&#xD;
+&#xD;
+          1. Has a history or evidence of systemic autoimmune disease;&#xD;
+&#xD;
+          2. Has received immunoglobulin or blood products within 120 days prior to Screening;&#xD;
+&#xD;
+          3. Has a known history or evidence of HIV infection;&#xD;
+&#xD;
+          4. Has a known history or evidence of chronic hepatitis B or C;&#xD;
+&#xD;
+          5. Has a positive test for drugs of abuse, alcohol, or cotinine at Screening (both parts)&#xD;
+             or Day -1 (Part 1);&#xD;
+&#xD;
+          6. Is participating, plans to participate during the study period, or has participated&#xD;
+             within the last 30 days prior to Screening in any other investigational study;&#xD;
+&#xD;
+          7. Has received an investigational drug or live vaccine within 30 days or 5 half-lives of&#xD;
+             the investigational compound, whichever is longer, prior to Screening;&#xD;
+&#xD;
+          8. Is currently pregnant or lactating/nursing;&#xD;
+&#xD;
+          9. Has a history or evidence of an allergic reaction that, in the opinion of the&#xD;
+             Investigator, may compromise the safety of the subject;&#xD;
+&#xD;
+         10. Has a known or suspected hypersensitivity to CMTX-101 or its excipients;&#xD;
+&#xD;
+         11. Has a history or presence of an abnormal 12-lead ECG that, in the opinion of the&#xD;
+             Investigator, is clinically significant or a QTcF ≥450 milliseconds for males and ≥470&#xD;
+             milliseconds for females at Screening (both parts) or Day -1 (Part 1); Note: the&#xD;
+             exclusion criterion should be evaluated based upon the average of the triplicate&#xD;
+             12-lead ECG performed at Screening or Day -1 (Part 1)&#xD;
+&#xD;
+         12. Has a history or evidence of any other acute or chronic disease that, in the opinion&#xD;
+             of the Investigator, may interfere with the evaluation of the safety or immunogenicity&#xD;
+             of the drug or compromise the safety of the subject;&#xD;
+&#xD;
+             Exclusion criteria for Part 1 only (healthy volunteers)&#xD;
+&#xD;
+         13. Has an oral temperature ≥37.5°C (≥99.5°F) at Screening or Day -1;&#xD;
+&#xD;
+         14. Has an abnormal WBC count, hemoglobin, or platelet count (i.e., &gt;1.5 x upper limit of&#xD;
+             normal [ULN] or &gt;0.5 x below the lower limit of normal (LLN) per the local laboratory&#xD;
+             or deemed to be clinically significant per the Investigator) at Screening or Day -1;&#xD;
+&#xD;
+         15. Has an abnormally elevated alanine aminotransferase (ALT), aspartate aminotransferase&#xD;
+             (AST), total bilirubin, alkaline phosphatase (ALP), blood urea nitrogen, or creatinine&#xD;
+             (i.e., &gt;1.5 x ULN per the local laboratory) at Screening or Day -1;&#xD;
+&#xD;
+         16. Has an abnormal urinalysis at Screening or Day -1 that, in the opinion of the&#xD;
+             Investigator, is clinically significant;&#xD;
+&#xD;
+         17. Is positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using a&#xD;
+             rapid antigen test at Day -1;&#xD;
+&#xD;
+         18. Has received immunosuppressive medications within 45 days prior to Screening;&#xD;
+&#xD;
+         19. Is unable or unwilling to stop all prescription or over-the-counter medications (other&#xD;
+             than contraceptive medications) from 14 days prior to dosing until the end of the&#xD;
+             study;&#xD;
+&#xD;
+             Exclusion criteria for Part 2 only (subjects with CABP)&#xD;
+&#xD;
+         20. Has hospital-acquired bacterial pneumonia, defined as pneumonia developed ≥48 hours&#xD;
+             after a hospital admission;&#xD;
+&#xD;
+         21. Requires mechanical ventilation, defined as 1 of the following:&#xD;
+&#xD;
+               1. Endotracheal intubation;&#xD;
+&#xD;
+               2. Oxygen delivered by high-flow nasal cannula with flow rates &gt;20 L/minute with an&#xD;
+                  FiO2 of ≥0.5; or&#xD;
+&#xD;
+               3. Non-invasive positive pressure ventilation.&#xD;
+&#xD;
+         22. Has hypotension, defined as a systolic blood pressure &lt;90 mmHg;&#xD;
+&#xD;
+         23. Has evidence of bone marrow suppression defined as the following:&#xD;
+&#xD;
+               1. Leukocytes &lt;3000 cells/µL;&#xD;
+&#xD;
+               2. Absolute neutrophil count &lt;1500 cells/µL;&#xD;
+&#xD;
+               3. Platelets &lt;100,000/µL; or&#xD;
+&#xD;
+               4. Hemoglobin &lt;9 g/dL.&#xD;
+&#xD;
+         24. Has liver function test abnormalities defined as the following:&#xD;
+&#xD;
+               1. Total bilirubin &gt;1.5 x ULN;&#xD;
+&#xD;
+               2. ALT and/or AST &gt;3 x ULN; or&#xD;
+&#xD;
+               3. ALP &gt;2.5 x ULN.&#xD;
+&#xD;
+         25. Has an estimated glomerular filtration rate &lt;30 mL/min;&#xD;
+&#xD;
+         26. Has received &gt;24 hours of IV antibiotic administration during the current&#xD;
+             hospitalization for CABP; Note: Patients who have received IV standard-of-care&#xD;
+             antibiotics for &gt;24 hours but ≤36 hours during their hospitalization may be considered&#xD;
+             for enrollment on a case-by-case basis after Medical Monitor and/or Sponsor approval.&#xD;
+&#xD;
+             Note: There is no restriction on the duration of outpatient antibiotics that the&#xD;
+             patient may have received prior to hospitalization;&#xD;
+&#xD;
+         27. Is hemodynamically unstable, defined as a mean arterial pressure &lt;60 mmHg despite&#xD;
+             adequate fluid resuscitation and/or requires vasopressor support;&#xD;
+&#xD;
+         28. Has a confirmed or suspected pleural empyema (does not include sterile parapneumonic&#xD;
+             effusion);&#xD;
+&#xD;
+         29. Has known or suspected meningitis, endocarditis, or osteomyelitis;&#xD;
+&#xD;
+         30. Has a history of post-obstructive pneumonia;&#xD;
+&#xD;
+         31. Has suspected or confirmed active primary lung cancer or another malignancy metastatic&#xD;
+             to the lungs;&#xD;
+&#xD;
+         32. Has a noninfectious cause of pulmonary infiltrates (i.e., pulmonary embolism, chemical&#xD;
+             pneumonitis, congestive heart failure, lung cancer, or cystic fibrosis);&#xD;
+&#xD;
+         33. Has a known or suspected pneumonia of viral etiology, confirmed by a rapid viral&#xD;
+             diagnostic panel; Note: If a viral respiratory panel has not been collected within the&#xD;
+             24 hours prior to Screening, a viral respiratory panel will be administered at&#xD;
+             Screening to determine eligibility. At a minimum, the panel will evaluate for&#xD;
+             respiratory syncytial virus, influenza A, influenza B and SARS-CoV-2.&#xD;
+&#xD;
+         34. Has known severe immunosuppression, including but not limited to receipt of&#xD;
+             corticosteroid therapy (i.e., ≥20 mg of prednisone/day or equivalent for &gt;4 weeks)&#xD;
+             within the previous 8 weeks, solid organ or bone marrow transplantation within the&#xD;
+             previous 12 months, or is currently receiving cytotoxic chemotherapy; or&#xD;
+&#xD;
+         35. Has a life expectancy of ≤3 months because of any disease or has a medical,&#xD;
+             psychiatric, occupational, or substance abuse problem that, in the opinion of the&#xD;
+             Investigator, will make it unlikely that the subject will comply with the Protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Veronica Hall</last_name>
+    <phone>+1 614 686 2689</phone>
+    <phone_ext>5</phone_ext>
+    <email>vhall@clarametyx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Snake River Research, PLLC</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nathan Richard</last_name>
+      <phone>208-535-8404</phone>
+      <email>rnathan@snakerr.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Morrison</last_name>
+      <phone>208-535-8406</phone>
+      <email>jmorrison@snakerr.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nathan Richard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40292</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rodrigo Cavallazzi</last_name>
+      <email>rodrigo.cavallazzi@louisville.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Shriya Khurana</last_name>
+      <phone>502-852-0026</phone>
+      <email>shriya.khurana@louisville.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rodrigo Cavallazzi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Buffalo VA Medical Center</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Karin Provost</last_name>
+      <phone>716-862-7378</phone>
+      <email>karin.provost@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ayesha Rahman</last_name>
+      <phone>716-862-8944</phone>
+      <email>Ayesha.SaqeburRahman@va.gov</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Karin Provost</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medpace Clinical Pharmacology Unit</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia School of Medicine</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Patrick Jackson</last_name>
+      <phone>434-982-3559</phone>
+      <email>pej9j@hscmail.mcc.virginia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Heather Haughey</last_name>
+      <phone>434-243-5717</phone>
+      <email>hmh8f@virginia.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Patrick Jackson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>April 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Bacterial</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

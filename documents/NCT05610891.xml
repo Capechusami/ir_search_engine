@@ -1,0 +1,274 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610891</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DCL-17-001-pHGG</org_study_id>
+    <secondary_id>13460625</secondary_id>
+    <nct_id>NCT05610891</nct_id>
+  </id_info>
+  <brief_title>Novel Targeted Radiotherapy in Pediatric Patients With Inoperable Relapsed or Refractory HGG</brief_title>
+  <official_title>A Phase 1b, Open-Label, Study of a Novel Targeted Radiotherapy in Children, Adolescents and Young Adults With Inoperable Relapsed or Refractory High-Grade Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cellectar Biosciences, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cellectar Biosciences, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this dose finding study is to evaluate the safety and efficacy of 2 different&#xD;
+      dose levels of CLR 131 in children, adolescents and young adults with relapsed or refractory&#xD;
+      high-grade glioma (HGG).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed to further evaluate the safety and tolerability of CLR 131 at the&#xD;
+      selected doses in children, adolescents and young adults with relapsed or refractory&#xD;
+      malignant high-grade glioma. It will also determine the therapeutic activity defined as&#xD;
+      progression free survival and overall survival, antitumor activity (treatment response)&#xD;
+      defined as the reduction in tumor volume and identify the recommended Phase 2/3 dose of CLR&#xD;
+      131 in children, adolescents and young adults with relapsed or refractory HGG.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">September 2026</completion_date>
+  <primary_completion_date type="Anticipated">May 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Drug: CLR 131 is a radio-iodinated therapy comprising a core phospholipid ether (PLE) analogue radiolabeled with iodine-131. CLR 131 exploits the tumor-targeting properties of PLEs to provide targeted delivery of radiation to malignant tumor cells and minimizes radiation exposure to normal tissues.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety Evaluation of CLR 131</measure>
+    <time_frame>Assessed throughout the study to 1-year post-infusion follow-up period through 3 years following completion of treatment.</time_frame>
+    <description>Will be assessed by physical examination, performance status, vital signs, laboratory changes over time, and adverse events. Evaluations will use a nonparametric Wilcoxon Signed Rank test and a linear mixed effects modeling will be conducted to evaluate longitudinal changes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy Evaluation for Progression Free Survival</measure>
+    <time_frame>Day 84 post-infusion follow-up period through 3 years following completion of treatment.</time_frame>
+    <description>To determine the therapeutic activity defined as Progression Free Survival (PFS) using Kaplan Meier estimator. PFS is defined as the time from treatment initiation until disease progression or death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy Evaluation for Overall Survival</measure>
+    <time_frame>Day 84 post-infusion follow-up period through 3 years following completion of treatment.</time_frame>
+    <description>To determine the therapeutic activity defined as Overall Survival (OS) using log-rank test or Cox Hazard model for comparisons. OS is defined as the duration from first infusion of CLR 131 until death due to any reason.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Response of CLR 131</measure>
+    <time_frame>Day 84 post-infusion follow-up period</time_frame>
+    <description>Determine antitumor activity (treatment response) defined as the reduction in tumor volume, measured by MRI scans acquired as FLAIR images and based on the RANO criteria for responses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose Determination for CLR 131</measure>
+    <time_frame>Day 84 post-infusion follow-up period</time_frame>
+    <description>Identify the recommended Phase 2/3 dose of CLR 131 in relapsed pHGG patients based on both safety and efficacy assessments as defined by the primary endpoints concluded from this study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dosimetry Evaluation for Total Body and Organ</measure>
+    <time_frame>4 hours post-infusion and concluding 4 weeks post-initial imaging</time_frame>
+    <description>To determine total body and organ dosimetry, together, of CLR 131 in relapsed pHGG patients, measured by conjugate planar whole-body imaging and/or blood collection drawn for radiologic dosimetry analysis for a subset of patients.Organ time/activity integrals will be entered into OLINDA/EXM software57 to produce total body and organ dosimetry values for CLR 131.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Response to CLR 131</measure>
+    <time_frame>4 hours post-infusion and concluding 4 weeks post-initial imaging</time_frame>
+    <description>Determine the tumor uptake of CLR 131 and utility of SPECT/CT as a potential diagnostic for response. Images will be reconstructed using quantitative SPECT reconstruction methods with compensation for attenuation, scatter and the full collimator-detector response including septal penetration and scatter. A registered CT image will be used as the attenuation map for the SPECT images. Image data will be converted to activity per cubic centimeters using a sensitivity measurement made using a point source in air.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>High-Grade Glioma</condition>
+  <arm_group>
+    <arm_group_label>Pediatric High-Grade Glioma Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two dosing cohorts will be explored, 20 mCi/m2 and 25 mCi/m2 and will be administered as two doses separated by 14 days for one cycle. Patients will be eligible to receive a second cycle at the same dose 60 days after receiving the first dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CLR 131</intervention_name>
+    <description>CLR 131 will be administered IV (intravenously) at a fixed dose based on patients BSA</description>
+    <arm_group_label>Pediatric High-Grade Glioma Patients</arm_group_label>
+    <other_name>iopofosine I 131</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Previously confirmed (histologically or cytologically) high grade glioma that is&#xD;
+             clinically or radiographically suspected to be relapsed, refractory, or recurrent for&#xD;
+             which there are no standard treatment options with curative potential&#xD;
+&#xD;
+          -  ≥ 2 years of age and ≤ 25 years of age at time of consent/assent&#xD;
+&#xD;
+          -  If ≥ age 16 years, Karnofsky performance status of ≥ 60. If &lt; age 16 years, Lansky&#xD;
+             performance status ≥ 60&#xD;
+&#xD;
+          -  Platelets ≥ 75,000/μL (last transfusion, if any, must be at least 1 week prior to&#xD;
+             study registration, and, unless deemed medically necessary, no transfusions are&#xD;
+             allowed between registration and dosing)&#xD;
+&#xD;
+          -  Absolute neutrophil count ≥ 750/μL&#xD;
+&#xD;
+          -  Hemoglobin ≥ 10 g/dL (last transfusion must be at least 1 week prior to study&#xD;
+             registration, and, unless deemed medically necessary, no transfusions are allowed&#xD;
+             between registration and dosing)&#xD;
+&#xD;
+          -  Using the bedside Schwartz formula, estimated GFR (creatinine clearance) &gt; 60&#xD;
+             ml/min/1.73m2&#xD;
+&#xD;
+          -  Alanine aminotransferase &lt; 3 × ULN&#xD;
+&#xD;
+          -  Bilirubin &lt; 2 × ULN&#xD;
+&#xD;
+          -  Patients enrolling at total dose levels &gt; 30 millicurie (mCi)/m2 must have&#xD;
+             availability or ability to collect an autologous hematopoietic stem cell back-up&#xD;
+             product prior to CLR 131 administration. At minimum, 2 x 10^6/kg cryopreserved CD34+&#xD;
+             cells must be available.&#xD;
+&#xD;
+          -  Patient or his or her legal representative is judged by the Investigator to have the&#xD;
+             initiative and means to be compliant with the protocol.&#xD;
+&#xD;
+          -  Patient or his or her legal representative has the ability to read, understand, and&#xD;
+             provide written informed consent for the initiation of any study-related procedures.&#xD;
+&#xD;
+          -  Female patients of childbearing potential must have a negative pregnancy test at&#xD;
+             screening and within 24 hours of dosing. It is recommended that female caregivers of&#xD;
+             childbearing potential have a negative pregnancy test within one week of dosing.&#xD;
+&#xD;
+          -  Patients of childbearing potential must practice an effective method of birth control&#xD;
+             while participating on this study to avoid possible damage to the fetus.&#xD;
+&#xD;
+          -  At least 1 measurable lesion with longest diameter of at least 10 mm on any imaging&#xD;
+             sequence.&#xD;
+&#xD;
+          -  Patients with previously known neurological deficits must be clinically stable at time&#xD;
+             of enrollment and able to complete all study related procedures. Patients with&#xD;
+             documented or newly diagnosed neurological deficits will be enrolled at the&#xD;
+             investigator's discretion.&#xD;
+&#xD;
+          -  If patient receives steroids for neurological symptom control, the dose must be stable&#xD;
+             (unchanged for three weeks prior to screening) or on a steroid tapering regimen.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Antitumor therapy or investigational therapy, within 2 weeks of registration. For&#xD;
+             certain types of radiation (craniospinal, total abdominal, whole lung [spot&#xD;
+             irradiation to skull-based metastases is not considered craniospinal radiation for the&#xD;
+             purposes of this study]), at least 3 months must have elapsed. n.b. Patients&#xD;
+             participating in non-interventional clinical trials (i.e., non-drug) are allowed to&#xD;
+             participate in this trial&#xD;
+&#xD;
+          -  History of hypersensitivity to iodine&#xD;
+&#xD;
+          -  Any other concomitant serious illness or organ system dysfunction (including cardiac&#xD;
+             and pulmonary dysfunction) that in the opinion of the Investigator would either&#xD;
+             compromise patient safety or interfere with the evaluation of the safety of the test&#xD;
+             drug.&#xD;
+&#xD;
+          -  Major surgery within 6 weeks of enrollment&#xD;
+&#xD;
+          -  Known history of human immunodeficiency virus or uncontrolled, serious, active&#xD;
+             infection&#xD;
+&#xD;
+          -  Pregnancy or breast-feeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jarrod Longcor</last_name>
+    <role>Study Director</role>
+    <affiliation>Chief Operating Officer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kate Oliver</last_name>
+    <phone>608-327-8125</phone>
+    <email>clinical@cellectar.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Cancer Center, Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jennifer Foster, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin, Carbone Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mario Otto, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>The IPD will be made available upon request of NCI, the funding agency partner. This has not yet been decided.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,228 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623722</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022LX0084_GY</org_study_id>
+    <nct_id>NCT05623722</nct_id>
+  </id_info>
+  <brief_title>Erector Spinae Plane Block Improves Organ Dysfunction in Septic Patients With Acute Gastrointestinal Injury</brief_title>
+  <official_title>Erector Spinae Plane Block Improves Organ Dysfunction in Septic Patients With Acute Gastrointestinal Injury: a Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jing Cai, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Zhongshan People's Hospital, Guangdong, China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zhongshan Hospital Of Traditional Chinese Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Zhujiang Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a prospective, multicenter, parallel-group, open-label, randomized controlled&#xD;
+      clinical trial. Sepsis is defined as organ dysfunction induced by infections. And sepsis and&#xD;
+      gastrointestinal injury can be the leading cause for each other. Our previous study showed&#xD;
+      erector spinae plane block improved the organ dysfunctions in patients with AGI. The aim of&#xD;
+      the clinical trial is to investigate erector pinae plane block improves the organ dysfunction&#xD;
+      in septic patients with acute gastrointestinal injury.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 29, 2022</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants are assigned to two groups in parallel. All patients in both groups receive the same administration of acute gastrointestinal injury and enteral nutrition strategy according to the guidelines, and the routine practice of the ICU.For patients in the erector spinae plane block group, ultrasound-guided erector spinae plane block is performed at thoracic (T) level 8. An 18F catheter is placed on both sides of the thoracic vertebra deep into the erector spinae, and a bolus of 20 ml of 0.375% ropivacaine is administered bilaterally. Then, a continuous infusion of 20 ml of 0.375% ropivacaine on each side is followed at a rate of 2 ml/h every 12 hours. The interventions end on day 7 or cease when the patients are discharged from the ICU, died, or withdrew their consent.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sequential Organ Failure Assessment (SOFA) score</measure>
+    <time_frame>on the day 7 after enrollment</time_frame>
+    <description>Organ dysfunction assessed by Sequential Organ Failure Assessment (SOFA) score. The mininum value is 0 score, and the maximum value is 24 scores. The higher scores mean a worse outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SOFA score</measure>
+    <time_frame>on the day 3 after enrollment</time_frame>
+    <description>Organ dysfunction assessed by Sequential Organ Failure Assessment (SOFA) score. The mininum value is 0 score, and the maximum value is 24 scores. The higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission rate of AGI</measure>
+    <time_frame>on the day 3 and 7 after enrollment</time_frame>
+    <description>The remission of AGI is defined as a decrease of more than one grade in AGI grades. The remission rate is the percentage of remission in the same cohort.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-day all-cause mortality</measure>
+    <time_frame>on the day 28 after enrolment</time_frame>
+    <description>All-cause mortality on the day 28 from enrollment</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Indexes of intestinal mucosal damage</measure>
+    <time_frame>on the day 3 and 7 after enrollment</time_frame>
+    <description>D-lactic acid，intestinal fatty acid binding protein in the serum</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Gut microbiota diversity</measure>
+    <time_frame>on the day 3 and 7 after enrollment</time_frame>
+    <description>The fecal DNA is obtained from peri-rectal swabs and analyzed for gut microbiota diversity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inflammatory indexes</measure>
+    <time_frame>on the day 3 and 7 after enrollment</time_frame>
+    <description>Inflammatory indexes including TNF-α，IL-6，IL-1β，IL-8，IL-10，IL-4 in the serum and feces</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Catecholamine</measure>
+    <time_frame>on the day 3 and 7 after enrollment</time_frame>
+    <description>Epinephrine,norepinephrine, dopamine and vanillylmandelic acid in the serum.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">116</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Acute Gastrointestinal Injury</condition>
+  <condition>Organ Dysfunction Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients receive the same administration of acute gastrointestinal injury and enteral nutrition strategy according to the guidelines, and the routine practice of the ICU. The interventions end on day 7 or cease when the patients are discharged from the ICU, dead, or withdraw their consent.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Erector Spinae Plane Block Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive the same administration of acute gastrointestinal injury and enteral nutrition strategy according to the guidelines, and the routine practice of the ICU.&#xD;
+Ultrasound-guided erector spinae plane block is performed at thoracic (T) level 8. An 18F catheter is placed on both sides of the thoracic vertebra deep into the erector spinae, and a bolus of 20 ml of 0.375% ropivacaine is administered bilaterally. Then, a continuous infusion of 20 ml of 0.375% ropivacaine on each side is followed at a rate of 2 ml/h every 12 hours. The interventions end on day 7 or cease when the patients are discharged from the ICU, dead, or withdraw their consent.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Erector spinae plane block</intervention_name>
+    <description>Ultrasound-guided erector spinae plane block is performed at thoracic (T) level 8. An 18F catheter is placed on both sides of the thoracic vertebra deep into the erector spinae, and a bolus of 20 ml of 0.375% ropivacaine is administered bilaterally. Then, a continuous infusion of 20 ml of 0.375% ropivacaine on each side is followed at a rate of 2 ml/h every 12 hours. The intervention ends on day 7 or ceases when the patient is discharged from the ICU, died, or withdrew their consent.</description>
+    <arm_group_label>Erector Spinae Plane Block Group</arm_group_label>
+    <other_name>Regional nerve block</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Septic patients with acute gastrointestinal injury grade II or III;&#xD;
+&#xD;
+          -  Age over 18 years;&#xD;
+&#xD;
+          -  Expected to stay in the ICU for at least 3 days or longer;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Mean arterial pressure less than 65 mmHg after fluid resuscitation, or requirement for&#xD;
+             an intravenous norepinephrine dose of greater than 0.5 µg/kg/min to maintain a normal&#xD;
+             mean arterial pressure;&#xD;
+&#xD;
+          -  Heart rates less than 50 beats/min, or concomitant with moderate-to-severe&#xD;
+             atrioventricular block without a pacemaker;&#xD;
+&#xD;
+          -  Contraindications for erector spinae plane blocks, including infection of the puncture&#xD;
+             site, spinal diseases or immobilization;&#xD;
+&#xD;
+          -  Primary gastrointestinal disorders requiring a surgical procedure, such as mechanical&#xD;
+             intestinal obstruction, massive gastrointestinal hemorrhage, and gastrointestinal&#xD;
+             perforation;&#xD;
+&#xD;
+          -  Gastrointestinal operation within one week before enrollment;&#xD;
+&#xD;
+          -  Neuromuscular disorders;&#xD;
+&#xD;
+          -  Coagulation abnormalities：activated prothrombin time or prothrombin time is prolonged&#xD;
+             with 2 folds, or platelet count less than 50×109/L;&#xD;
+&#xD;
+          -  End-stage malignant tumor or cachexia;&#xD;
+&#xD;
+          -  History of allergy to amide anesthetics;&#xD;
+&#xD;
+          -  Known pregnancy;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing Cai</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Intensive Care Medicine, Zhujiang Hospital, Southern Medical University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jing Cai, MD</last_name>
+    <phone>+86-02062782927</phone>
+    <email>caijing78@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Intensive Care Medicine of Zhujiang Hospital,Southern Medical University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510282</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ping Chang, M.D.PhD</last_name>
+      <phone>+86-02062782927</phone>
+      <email>changp963@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>January 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Zhujiang Hospital</investigator_affiliation>
+    <investigator_full_name>Jing Cai, MD</investigator_full_name>
+    <investigator_title>Attending physician</investigator_title>
+  </responsible_party>
+  <keyword>Sepsis</keyword>
+  <keyword>Acute Gastrointestinal Injury</keyword>
+  <keyword>Organ Dysfunction Syndrome</keyword>
+  <keyword>Erector spinae plane block</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>all IPD that underlie results in a publication are to be shared.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>This are to be provided as a date relative to the time when summary data are published.</ipd_time_frame>
+    <ipd_access_criteria>The data will be made available upon reasonable request by the corresponding author. A proposal with a detailed description of the study objectives and a plan for statistical analysis will be required for the evaluation of the reasonability of requests. Additional materials may also be required during the process of request evaluation. The data of deidentified participants will be provided after approval by the corresponding authors and the Zhujiang Hospital of Southern Medical University.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

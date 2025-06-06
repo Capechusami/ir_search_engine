@@ -1,0 +1,296 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628662</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HEAP</org_study_id>
+    <nct_id>NCT05628662</nct_id>
+  </id_info>
+  <brief_title>Artificial Pancreas With Carbohydrate Suggestion for Patients With Type 1 Diabetes Prone to Hypoglycemia</brief_title>
+  <official_title>A Pilot Study Evaluating the Safety and Performance of an Artificial Pancreas With Carbohydrate Suggestion for Patients With Type 1 Diabetes Prone to Hypoglycemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Clinic of Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universitat Politècnica de València</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitat de Girona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Clinic of Barcelona</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Achieving near-normoglycemia has been established as the main objective for most patients&#xD;
+      with Type 1 Diabetes (T1D). Automated insulin delivery (AID) systems, the so-called&#xD;
+      artificial pancreas (AP) or closed-loop systems, may represent the ideal solution, especially&#xD;
+      for patients not reaching the therapeutic goals with multiples doses of insulin or open-loop&#xD;
+      delivery systems. Despite the advances in recent years that have proven the efficacy and&#xD;
+      safety of these devices in clinical trials and clinical practice settings, such evidence&#xD;
+      cannot be extrapolated to highly unstable patients, as problematic hypoglycemia remains an&#xD;
+      exclusion criterion in most of the trials.&#xD;
+&#xD;
+      The SAFE-AP system is a single-hormone hybrid closed-loop controller based on a proportional&#xD;
+      derivative with an insulin feedback controller that integrates a safety layer with&#xD;
+      insulin-on-board constraints and sliding mode reference conditioning. The hybrid closed-loop&#xD;
+      system includes a second safety feedback loop with a controller that triggers carbohydrate&#xD;
+      recommendations to the patient. Both control loops are coordinated to ensure that the&#xD;
+      counter-regulatory effect of rescue carbohydrates is not counteracted with insulin. Such&#xD;
+      system has been previously proven effective in unannounced exercise, one of the main&#xD;
+      challenges in AID systems development. Additionally, the algorithm has been recently tailored&#xD;
+      to achieve a better control in the subgroup of T1D patients prone to hypoglycemia.&#xD;
+&#xD;
+      In this project, a rigorous clinical testing of the SAFE-AP system will be carried out in 12&#xD;
+      patients with T1D and problematic hypoglycemia, despite treatment with continuous&#xD;
+      subcutaneous insulin infusion. The safety and performance of the system will be evaluated in&#xD;
+      a 32-hour pilot study, including 4 meals, one overnight period and 2 unannounced aerobic&#xD;
+      exercise sessions. The study will be performed in a hospital setting with the on-site&#xD;
+      supervision of a specialized nurse and a diabetologist, as well as an engineer in remote&#xD;
+      control.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 22, 2021</start_date>
+  <completion_date type="Actual">April 6, 2022</completion_date>
+  <primary_completion_date type="Actual">April 6, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of CGM time in glucose range 70-180 mg/dl during the study.</measure>
+    <time_frame>From 12 AM of the first day of study until 4 PM of the second day of study</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in glucose range 70-180 mg/dl during nighttime</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in glucose range 70-180 mg/dl during exercise and recovery</measure>
+    <time_frame>Defined as 3 hours after exercise initiation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in glucose range 70-180 mg/dl during postprandial period</measure>
+    <time_frame>Defined as 4 hours since mealtime</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hypoglycemia (&lt;70 mg/dL and &lt;54 mg/dL) during the study</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hypoglycemia (&lt;70 mg/dL and &lt;54 mg/dL) during nighttime</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hypoglycemia (&lt;70 mg/dL and &lt;54 mg/dL) during exercise and recovery</measure>
+    <time_frame>Defined as 3 hours after exercise initiation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hypoglycemia (&lt;70 mg/dL and &lt;54 mg/dL) during postprandial period</measure>
+    <time_frame>Defined as 4 hours since mealtime</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hyperglycemia (&gt;180 mg/dL and &gt;250 mg/dL) during the study</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hyperglycemia (&gt;180 mg/dL and &gt;250 mg/dL) during nighttime</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hyperglycemia (&gt;180 mg/dL and &gt;250 mg/dL) during exercise and recovery</measure>
+    <time_frame>Defined as 3 hours after exercise initiation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of CGM time in hyperglycemia (&gt;180 mg/dL and &gt;250 mg/dL) during postprandial period</measure>
+    <time_frame>Defined as 4 hours since mealtime</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose coefficient of variation during the study</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of hypoglycemic events</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+    <description>Defined as sensor glucose &lt;70 mg/dL during 15 minutes or symptomatic hypoglycemia confirmed with plasma glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of carbohydrate rescue events during the study</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of acute metabolic events during the study</measure>
+    <time_frame>From 22 PM of the first day of study until 7 AM of the second day of study</time_frame>
+    <description>Defined as severe hypoglycemia and diabetic ketoacidosis</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Type 1 Diabetes Mellitus Prone to Hypoglycemia</condition>
+  <arm_group>
+    <arm_group_label>Automated Insulin Delivery System (SAFE-AP)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Sliding Mode Reference Conditioning (SMRC) Closed-loop insulin administration. Automated insulin infusion based on subcutaneous continuous glucose monitoring (CGM). Commercially available insulin infusion systems and CGM devices will be used. However, insulin infusion will be driven by the software under investigation (SAFE-AP) based on blood glucose estimations from CGM.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Automated Insulin Delivery System (SAFE-AP)</intervention_name>
+    <description>Each subject will undergo a 32-hour in-hospital study, including 4 meals (60 grams of carbohydrates each, except 50 grams for breakfast), one overnight period and 2 unannounced aerobic exercise sessions. Each exercise session consists of three 15-minute sets on a cycle ergometer at 70% of maximum heart rate with 5 minutes of rest between sets.</description>
+    <arm_group_label>Automated Insulin Delivery System (SAFE-AP)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects aged 18 or more with Type 1 Diabetes for at least 5 years.&#xD;
+&#xD;
+          -  Treated with continuous subcutaneous insulin infusion (CSII) for at least six months.&#xD;
+&#xD;
+          -  Trained to carbohydrate counting.&#xD;
+&#xD;
+          -  Subjects prone to hypoglycemia, despite optimal diabetes management and&#xD;
+             hypoglycemia-specific education programs, as defined by &gt;4 hypoglycemic episodes per&#xD;
+             week and at least one of the following:&#xD;
+&#xD;
+               1. Occurrence of at least 2 severe hypoglycemic episodes during the last 2 years&#xD;
+                  (need for third party).&#xD;
+&#xD;
+               2. Occurrence of at least 1 severe hypoglycemic episode during the last 2 years and&#xD;
+                  high glycemic variability (coefficient of variation &gt;36%).&#xD;
+&#xD;
+               3. Impaired awareness of hypoglycemia (Clarke test ≥4).&#xD;
+&#xD;
+          -  Physical examination, laboratory data and EKG without alterations. Abnormalities&#xD;
+             considered clinically irrelevant by the investigator will not be exclusion criteria.&#xD;
+&#xD;
+          -  Negative SARS-CoV-2 PCR test performed at arrival.&#xD;
+&#xD;
+          -  Subject willing to wear the SAFE-AP system continuously throughout the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy and breastfeeding.&#xD;
+&#xD;
+          -  History of drug or alcohol abuse.&#xD;
+&#xD;
+          -  Progressive fatal disease.&#xD;
+&#xD;
+          -  Clinically relevant microvascular complications (macroalbuminuria, pre-proliferative&#xD;
+             and proliferative retinopathy), cardiovascular, hepatic, neurological, endocrine or&#xD;
+             other systematic, apart from T1D, which may hamper the implementation of the clinical&#xD;
+             study protocol or interpretation of results study.&#xD;
+&#xD;
+          -  Scheduled surgery during the study period.&#xD;
+&#xD;
+          -  Mental conditions that prevent the subject to understand the nature, purpose and&#xD;
+             possible consequences of the study.&#xD;
+&#xD;
+          -  Subjects who are unlikely to meet the clinical study protocol, eg. uncooperative&#xD;
+             attitude, inability to return for follow-up visits, or poor probability of completing&#xD;
+             the study.&#xD;
+&#xD;
+          -  Using an experimental drug or device during the past 30 days.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jorge Bondia, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Universitat Politècnica de València</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Josep Vehí, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Universitat de Girona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ignacio Conget, MD PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Hospital Clinic of Barcelona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marga Giménez, MD PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Clinic of Barcelona</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Clínic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Vinals C, Beneyto A, Martin-SanJose JF, Furio-Novejarque C, Bertachi A, Bondia J, Vehi J, Conget I, Gimenez M. Artificial Pancreas With Carbohydrate Suggestion Performance for Unannounced and Announced Exercise in Type 1 Diabetes. J Clin Endocrinol Metab. 2021 Jan 1;106(1):55-63. doi: 10.1210/clinem/dgaa562.</citation>
+    <PMID>32852548</PMID>
+  </reference>
+  <reference>
+    <citation>Rossetti P, Quiros C, Moscardo V, Comas A, Gimenez M, Ampudia-Blasco FJ, Leon F, Montaser E, Conget I, Bondia J, Vehi J. Closed-Loop Control of Postprandial Glycemia Using an Insulin-on-Board Limitation Through Continuous Action on Glucose Target. Diabetes Technol Ther. 2017 Jun;19(6):355-362. doi: 10.1089/dia.2016.0443. Epub 2017 May 1.</citation>
+    <PMID>28459603</PMID>
+  </reference>
+  <reference>
+    <citation>Quiros C, Bertachi A, Gimenez M, Biagi L, Viaplana J, Vinals C, Vehi J, Conget I, Bondia J. Blood glucose monitoring during aerobic and anaerobic physical exercise using a new artificial pancreas system. Endocrinol Diabetes Nutr (Engl Ed). 2018 Jun-Jul;65(6):342-347. doi: 10.1016/j.endinu.2017.12.012. Epub 2018 Feb 23. English, Spanish.</citation>
+    <PMID>29483036</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Clinic of Barcelona</investigator_affiliation>
+    <investigator_full_name>Ignacio Conget</investigator_full_name>
+    <investigator_title>Head of Endocrinology and Nutrition Department, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Type 1 Diabetes</keyword>
+  <keyword>Hypoglycemia</keyword>
+  <keyword>Artificial Pancreas</keyword>
+  <keyword>Closed-loop</keyword>
+  <keyword>Automated insulin delivery</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+    <mesh_term>Hypoglycemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Insulin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,321 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05070143</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MTurk Study Habit Formation</org_study_id>
+    <nct_id>NCT05070143</nct_id>
+  </id_info>
+  <brief_title>Mini-treatment Experiments to Clarify How to Assist People to Habit Formation</brief_title>
+  <official_title>Mini-treatment Experiments to Clarify How to Assist People to Formation Desired Habits and Disrupt Unwanted Habits</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Berkeley</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Berkeley</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Habits impact nearly every domain of one's physical and mental health. Evidence-based&#xD;
+      psychological treatments (EBPTs) are interventions targeting psychological processes that&#xD;
+      cause and/or maintain mental illness and that have been developed and evaluated&#xD;
+      scientifically. An implicit goal of EBPTs is to disrupt unwanted habits and develop desired&#xD;
+      habits. Yet, there has been insufficient attention given to habit formation principles,&#xD;
+      theory and measures in the development and delivery of EBTPs.&#xD;
+&#xD;
+      In preparing to conduct a 5-year R01 on this topic, the investigators are conducting this&#xD;
+      experiment to better understand habit formation. The purpose is to distill, study and clarify&#xD;
+      key concepts in habit formation before embarking on the 5-year R01. This is necessary as&#xD;
+      there is surprisingly little research to guide key decisions, particularly for the process of&#xD;
+      dismantling unwanted habits. Hence, the aim of this experiment is to compare strategies&#xD;
+      discussed in the scientific literature, which have been minimally studied, to dismantle&#xD;
+      unwanted habits. The hypothesis tested is that each of the active strategies will be superior&#xD;
+      to the no intervention group. The study is exploratory as to which of the active strategies&#xD;
+      will be most effective.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators motivation for considering a deeper application of the science of habit&#xD;
+      formation within clinical psychological science is that many researchers and clinicians&#xD;
+      consider the process of habit formation to be a &quot;passive phenomenon,&quot; or &quot;a 'natural' outcome&#xD;
+      of the behavior change process&quot; rather than a process that can be specifically planned for&#xD;
+      and guided. In contrast, there are clear principles and strategies that the investigators can&#xD;
+      draw from, adapt and infuse into existing EBPTs to more intentionally incorporate the science&#xD;
+      of habit formation. Therefore, the investigators propose the study of habits is an important,&#xD;
+      fertile, creative and fascinating domain for future research.&#xD;
+&#xD;
+      To date, no prior research has been conducted on the disruption of habits. Hence, there is a&#xD;
+      great need for more naturalistic studies to delineate the contributors to knowledge about the&#xD;
+      multiple complex &quot;real-life&quot; habits that are tackled in EBPTs.&#xD;
+&#xD;
+      The theoretical grounding is drawn from health psychology, due to its conceptual proximity to&#xD;
+      clinical psychological science. In the health psychology literature, habit formation is&#xD;
+      understood to be a learned process whereby a behavior (the desired habit) becomes paired with&#xD;
+      a stable context cue and, via repetition, come to trigger an automatic impulse to engage in&#xD;
+      the habit. Repetition reinforces the behavior-context association. Reinforcement motivates&#xD;
+      and strengthens repetition. With ongoing repetition, the stable context cue becomes&#xD;
+      sufficient to activate the association. In other words, the context triggers the impulse to&#xD;
+      perform the behavior, with minimal cognitive effort or intention and the habit has become&#xD;
+      more automated and less reliant on one's goals.&#xD;
+&#xD;
+      Participants will be workers recruited from Amazon's Mechanical Turk (MTurk), an online labor&#xD;
+      marketplace that is also used as a recruitment platform for web-based studies, and which has&#xD;
+      a demonstrated reliability for producing high-quality research. The investigators aim to&#xD;
+      recruit 462 eligible participants.&#xD;
+&#xD;
+      A listing describing the proposed research will be posted to MTurk, where participants will&#xD;
+      be able to review the tasks involved in the study and compare the study to other&#xD;
+      opportunities on MTurk. Participants will complete the pre-screening assessment.&#xD;
+&#xD;
+      Eligible participants will be invited to complete the baseline session, which includes the&#xD;
+      pre-assessment, online learning module, and immediate post-assessment. Participants will be&#xD;
+      randomly allocated to one of the following experimental conditions immediately upon&#xD;
+      completing the online learning module. For each condition, participants will be instructed to&#xD;
+      identify a cue and reward/reinforcement for engaging in the new strategy.&#xD;
+&#xD;
+      One week after each condition is presented, the participant will be reminded of the&#xD;
+      instructions and will complete an assessment. Thereafter, at weekly intervals, participants&#xD;
+      will re-complete the assessments for another 4 weeks (i.e., each condition runs for 6 weeks).&#xD;
+      At 6-weeks and 3-months after the last assessment, the participants will re-complete the&#xD;
+      assessments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2021</start_date>
+  <completion_date type="Anticipated">February 14, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 14, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System - Sleep Disturbance</measure>
+    <time_frame>Change from baseline to 6-week follow-up and 3-month follow-up</time_frame>
+    <description>Assesses perceived functional impairments related to sleep problems using a self-report questionnaire. The minimum value is 8. The maximum value is 40. Higher scores mean more sleep disturbance (worse outcome).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System - Sleep Related Impairment</measure>
+    <time_frame>Change from baseline to 6-week follow-up and 3-month follow-up</time_frame>
+    <description>Assesses perceived functional impairments related to sleep problems in a self-report questionnaire. The minimum value is 16. The maximum value is 80. Higher scores mean more sleep-related impairment (worse outcome).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>New Habit Questionnaire</measure>
+    <time_frame>Change from baseline to Week 1, Week 2, Week 3, Week 4, Week 5, 6 weeks after Week 5, and 3 months after Week 5</time_frame>
+    <description>Assessment for new habit. Includes self-report questions on the description of new habit, usage and frequency of new habit, cues for new habit, and rewards for new habit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Old Habit Questionnaire</measure>
+    <time_frame>Change from baseline to Week 1, Week 2, Week 3, Week 4, Week 5, 6 weeks after Week 5, and 3 months after Week 5</time_frame>
+    <description>Assessment for old habit disruption. Includes self-report questions on the description of old habit, cues for old habit, and rewards for old habit.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Composite Sleep Health Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Composite Sleep Health Score which is defined as the sum of scores on 6 sleep health dimensions: Regularity (Midpoint fluctuation), Satisfaction (Sleep quality question on PROMIS-SD), Alertness (Daytime sleepiness question on PROMIS-SRI), Timing (Mean midpoint), Efficiency (Sleep efficiency) and Duration (Total Sleep Time).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia Severity Index - Interference Item</measure>
+    <time_frame>Change from screening to 6-week follow-up, 3-month follow-up</time_frame>
+    <description>Assessing the extent to which sleep problems interfere with daily functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interference and Motivation Items</measure>
+    <time_frame>Change from baseline to 6-week follow-up, and 3-month follow-up</time_frame>
+    <description>Assessing the extent to which sleep problems interfere with daily functioning and the participant's motivation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Credibility Expectancy Scale</measure>
+    <time_frame>1 week after baseline</time_frame>
+    <description>One credibility item drawn from the Credibility Expectancy Scale. Measures the credibility and expectation of improvement from the research-supported strategy. Scores can range from 1-9 with higher scores indicating higher satisfaction in the research-supported strategy.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">462</enrollment>
+  <condition>Sleep Disorder</condition>
+  <condition>Circadian Dysregulation</condition>
+  <condition>Habit, Good Sleep</condition>
+  <arm_group>
+    <arm_group_label>Brief education</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomly allocated to the Brief Education condition or one of the five treatment conditions (see below).&#xD;
+In this condition, participants only receive the learning module. This condition is included as a &quot;minimal intervention&quot; comparison condition that controls for the passage of time.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants will receive the Brief Education intervention described above. Then, participants will be randomly allocated to one of the following conditions for habit formation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>RISE-UP Routine</intervention_name>
+    <description>The participants in this condition will be instructed to substitute their current sleep habits with the RISE-UP routine that has been developed by our team (Kaplan, Talavera, &amp; Harvey, 2018). This involves instructing participants to devise an individually tailored routine that will help them get up each morning (e.g., open blinds, make the bed, head for the shower).</description>
+    <arm_group_label>Treatment condition</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Awareness Training</intervention_name>
+    <description>The participants in this condition will be instructed in dismantling/disrupting the association between the cue and the habit via awareness training from habit reversal approaches (Azrin &amp; Nunn, 1973; Ladouceur, 1979). This condition involves instructing the participant to develop an awareness of their decisions to stay in bed and snooze.</description>
+    <arm_group_label>Treatment condition</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Vigilant Monitoring</intervention_name>
+    <description>The participants in this condition will be instructed in vigilant monitoring which involves internal repetition of &quot;get up!&quot; and &quot;don't do it&quot; and watching carefully for slipups (Quinn, Pascoe, Wood, &amp; Neal, 2010).</description>
+    <arm_group_label>Treatment condition</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Implementation Intentions</intervention_name>
+    <description>The participants in this condition will be instructed in counter habitual implementation intentions. This involves instructing the participant to engage in implementation intentions in which they imagine replacing snoozing with getting up out of bed (Adriaanse, Gollwitzer, De Ridder, De Wit, &amp; Kroese, 2011). The structure of this implementation intention is: &quot;If I wake up in the morning and I want a sleep-in then I will get up and start my day.&quot;</description>
+    <arm_group_label>Treatment condition</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Values-based Approach</intervention_name>
+    <description>The participants in this condition will be instructed in a values-based approach (Anshel, Brinthaupt, &amp; Kang, 2010; Anshel &amp; Kang, 2007). This involves asking the participants to reflect on how getting up consistently at the same time each day does or does not align with their values. They are asked to compare the costs and long-term consequences of continuing to engage in the unwanted habit and clearly articulating the disconnect between the habit and their values.</description>
+    <arm_group_label>Treatment condition</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brief Education</intervention_name>
+    <description>In this condition, participants only receive the learning module. This condition is included as a &quot;minimal intervention&quot; comparison condition that controls for the passage of time.&#xD;
+First, education about the importance of regular wake times and sleep inertia that is a normal transitional stage between sleep and wake. The education will be delivered in this video format: https://www.youtube.com/watch?v=P6zcSFA7ymo. Second, after viewing the video, the key points will be summarized. Lastly, participants will be asked to summarize the four key takeaways for good sleep habits.</description>
+    <arm_group_label>Brief education</arm_group_label>
+    <arm_group_label>Treatment condition</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years of age&#xD;
+&#xD;
+          -  Live in the United States&#xD;
+&#xD;
+          -  Have a 95% acceptance rate on MTurk&#xD;
+&#xD;
+          -  Have completed at least 1000 tasks on MTurk&#xD;
+&#xD;
+          -  Consent to participate in the research&#xD;
+&#xD;
+        Screened participants will complete a demographic form to enable us to compare the&#xD;
+        demographics of those included with those who are excluded.&#xD;
+&#xD;
+        We will ask questions to pre-select MT workers who:&#xD;
+&#xD;
+          -  Get less than 7 hours of sleep per night in the past week and&#xD;
+&#xD;
+          -  Have irregular wake-up times of 60 minutes or more across the week and&#xD;
+&#xD;
+          -  &quot;snooze&quot; in bed for more than 30 minutes on a typical morning in the past week&#xD;
+&#xD;
+          -  Report some distress or impairment related to sleep&#xD;
+&#xD;
+          -  Report motivation to improve their sleep or dismantle sleep-related habits&#xD;
+&#xD;
+        The items listed above will be ascertained with the Sleep Composite Timing Questions as&#xD;
+        well as the item assessing distress or impairment related to sleep from the Insomnia&#xD;
+        Severity Index and a rating of motivation (from the 'Interference and Motivation items').&#xD;
+        On the latter two items, a score of 3 or 4 is needed to be accepted into the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not 18 years of age&#xD;
+&#xD;
+          -  Does not live in the United States&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Allison Harvey, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Berkeley</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Laurel Sarfan, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Berkeley</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sondra Tiab, B.A.</last_name>
+    <phone>405-532-2583</phone>
+    <email>sondratiab@berkeley.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laurel Sarfan, PhD</last_name>
+    <phone>510-289-9462</phone>
+    <email>sarfanld@berkeley.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California at Berkeley</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94720-1650</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sondra Tiab, B.A.</last_name>
+      <phone>405-532-2583</phone>
+      <email>sondratiab@berkeley.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laurel Sarfan, PhD</last_name>
+      <phone>510-289-9462</phone>
+      <email>sarfanld@berkeley.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Allison Harvey, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laurel Sarfan, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>August 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Berkeley</investigator_affiliation>
+    <investigator_full_name>Allison Harvey</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Chronobiology Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

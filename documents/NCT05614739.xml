@@ -1,0 +1,411 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614739</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LOXO-FG3-22001</org_study_id>
+    <secondary_id>J4G-OX-JZVA</secondary_id>
+    <secondary_id>2022-502755-59-00</secondary_id>
+    <nct_id>NCT05614739</nct_id>
+  </id_info>
+  <brief_title>A Study of LOXO-435 in Patients With Cancer With a Change in a Gene Called FGFR3</brief_title>
+  <official_title>An Open-Label, Multicenter Study of LOXO-435 (LY3866288) In Advanced Solid Tumor Malignancies With FGFR3 Alterations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Loxo Oncology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to learn more about the safety, side effects, and&#xD;
+      effectiveness of LOXO-435. LOXO-435 may be used to treat cancer of the cells that line the&#xD;
+      urinary system and other solid tumor cancers that have a change in a particular gene (known&#xD;
+      as the FGFR3 gene). Participation could last up to 30 months (2.5 years) and possibly longer&#xD;
+      if the disease does not get worse.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, multi-center, phase 1a/b study in participants with FGFR3-altered&#xD;
+      advanced solid tumors, including metastatic urothelial cancer (mUC). The study will be&#xD;
+      conducted in 2 phases: Dose escalation (1a) and dose expansion (1b). Phase 1a will assess&#xD;
+      safety, tolerability, and pharmacokinetics of LOXO-435 to determine the recommended phase 2&#xD;
+      dose (RP2D). Phase 1b will include 4 dose expansion cohorts of patients with prespecified&#xD;
+      activating FGFR3 alterations to evaluate the efficacy and safety of LOXO-435 at the RP2D.&#xD;
+      Cohort B will enroll pts with mUC and includes three cohorts to evaluate LOXO-435 as&#xD;
+      monotherapy (B1, B2) and in combination with pembrolizumab (B3). Cohort C will enroll pts&#xD;
+      with non-UC advanced solid tumors and includes a cohort to evaluate LOXO-435 as monotherapy&#xD;
+      (C1).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 19, 2023</start_date>
+  <completion_date type="Anticipated">June 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1a: To determine the maximum tolerated dose/recommended phase 2 dose (MTD/RP2D) of LOXO-435: Number of patients with dose-limiting toxicities (DLTs)</measure>
+    <time_frame>During the first 21-day cycle of LOXO-435 treatment</time_frame>
+    <description>Number of patients with DLTs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1b: To evaluate the preliminary antitumor activity of LOXO-435: Overall response rate (ORR)</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>ORR per investigator assessed RECIST v1.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the pharmacokinetics (PK) of LOXO-435: Area under the concentration versus time curve (AUC)</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>PK of LOXO-435: AUC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the PK of LOXO-435: Minimum plasma concentration (Cmin)</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>PK of LOXO-435: Cmin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the preliminary antitumor activity of LOXO-435: Duration of response (DoR)</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>DOR per investigator assessed RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the preliminary antitumor activity of LOXO-435: Time to response (TTR)</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>TTR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the preliminary antitumor activity of LOXO-435: Progression-free survival (PFS)</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>PFS per investigator assessed RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the preliminary antitumor activity of LOXO-435: Disease control rate (DCR)</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>DCR per investigator assessed RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the preliminary antitumor activity of LOXO-435: Overall survival (OS)</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>OS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in bladder-related symptoms, measured by Functional Assessment of Cancer Therapy - Bladder (FACT-Bl) subscale (BlCS)</measure>
+    <time_frame>Cycle 1 Day 1, Cycle 2 Day 1, and Cycle 3 Day 1 (28 day cycles)</time_frame>
+    <description>The BlCS has 12 items with a total score range of 0 to 48, with higher scores representing better bladder-related symptoms. A ≥ 4-point score change from baseline will be considered as clinically meaningful improvement in bladder-related symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in physical function, measured by FACT- Physical Well-being Scale (PWB) subscale</measure>
+    <time_frame>Up to approximately 30 months or 2.5 years</time_frame>
+    <description>The PWB subscale has 7 items with a total score range of 0-28, with higher scores representing better physical function. A ≥ 3-point score change from baseline for a patient will be considered as clinically meaningful improvement in physical function.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Urinary Bladder Neoplasms</condition>
+  <condition>Neoplasm Metastasis</condition>
+  <condition>Ureteral Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Phase 1a: LOXO-435 Monotherapy Dose Escalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LOXO-435 administered orally to participants with FGFR3-altered advanced solid tumors.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Cohort B1 LOXO-435 Monotherapy Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LOXO-435 administered orally to participants with FGFR3-altered advanced urothelial carcinoma who were previously treated with an FGFR inhibitor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Cohort B2 LOXO-435 Monotherapy Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LOXO-435 administered orally to participants with FGFR3-altered advanced urothelial carcinoma who have not received a prior FGFR inhibitor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Cohort B3 LOXO-435 Plus Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LOXO-435 administered orally in combination with pembrolizumab administered intravenously (IV) to participants with FGFR3-altered advanced urothelial carcinoma who have not received a prior FGFR inhibitor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Cohort C1 LOXO-435 Monotherapy Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LOXO-435 administered orally to participants with advanced solid tumors who have not received a prior FGFR inhibitor.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LOXO-435</intervention_name>
+    <description>Oral</description>
+    <arm_group_label>Phase 1a: LOXO-435 Monotherapy Dose Escalation</arm_group_label>
+    <arm_group_label>Phase 1b: Cohort B1 LOXO-435 Monotherapy Dose Expansion</arm_group_label>
+    <arm_group_label>Phase 1b: Cohort B2 LOXO-435 Monotherapy Dose Expansion</arm_group_label>
+    <arm_group_label>Phase 1b: Cohort B3 LOXO-435 Plus Pembrolizumab</arm_group_label>
+    <arm_group_label>Phase 1b: Cohort C1 LOXO-435 Monotherapy Dose Expansion</arm_group_label>
+    <other_name>LY3866288</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>IV</description>
+    <arm_group_label>Phase 1b: Cohort B3 LOXO-435 Plus Pembrolizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have solid tumor cancer with an FGFR3 pathway alteration on molecular testing in tumor&#xD;
+             or blood sample that is deemed as actionable.&#xD;
+&#xD;
+               -  Cohort A (Dose Escalation): Presence of an alteration in FGFR3 or its ligands&#xD;
+                  deemed as a clinically or potentially clinically relevant alteration by the&#xD;
+                  treating Investigator.&#xD;
+&#xD;
+               -  Cohorts B1, B2 and B3 (Dose Expansion): Histological diagnosis of urothelial&#xD;
+                  cancer that is locally advanced or metastatic with a prespecified activating&#xD;
+                  FGFR3 alteration.&#xD;
+&#xD;
+               -  Cohort C (Dose Expansion): Must have histological diagnosis of a non-urothelial&#xD;
+                  solid tumor malignancy that is locally advanced or metastatic with a prespecified&#xD;
+                  activating FGFR3 alteration.&#xD;
+&#xD;
+          -  Measurability of disease:&#xD;
+&#xD;
+               -  Phase 1a: measurable or non-measurable disease as defined by Response Evaluation&#xD;
+                  Criteria in Solid Tumors v 1.1 (RECIST v1.1)&#xD;
+&#xD;
+               -  Phase 1b: Measurable disease required as defined by RECIST v1.1&#xD;
+&#xD;
+          -  Have adequate archival tumor tissue sample available or undergo a screening biopsy if&#xD;
+             allowed per country-specific regulations.&#xD;
+&#xD;
+          -  Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.&#xD;
+&#xD;
+          -  Patient has received all standard therapies for which the patient was deemed to be an&#xD;
+             appropriate candidate by the treating Investigator; OR the patient is refusing the&#xD;
+             remaining most appropriate standard of care treatment; OR there is no standard therapy&#xD;
+             available for the disease. There is no restriction on number of prior therapies.&#xD;
+&#xD;
+               -  Cohort B1: Patients must have been previously treated with a FGFR inhibitor.&#xD;
+&#xD;
+               -  Cohort B2, B3, C1: Patients must be FGFR inhibitor naïve.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with primary central nervous system (CNS) malignancy&#xD;
+&#xD;
+          -  Known or suspected history of uncontrolled CNS metastases&#xD;
+&#xD;
+          -  Current evidence of corneal keratopathy or retinal disorder&#xD;
+&#xD;
+          -  Have a history and/or current evidence of extensive tissue calcification&#xD;
+&#xD;
+          -  Any serious unresolved toxicities from prior therapy&#xD;
+&#xD;
+          -  Significant cardiovascular disease&#xD;
+&#xD;
+          -  Prolongation of the QT interval corrected for heart rate using Fridericia's formula&#xD;
+             (QTcF)&#xD;
+&#xD;
+          -  Active uncontrolled systemic infection or other clinically significant medical&#xD;
+             conditions&#xD;
+&#xD;
+          -  Patients who are pregnant, lactating, or plan to breastfeed during the study or within&#xD;
+             6 months of the last dose of study treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ryan Widau, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Loxo Oncology, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Patient Advocacy</last_name>
+    <phone>855-569-6305</phone>
+    <email>clinicaltrials@loxooncology.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>David H. Koch Center for Cancer Care at Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Carolina Urologic Research Center</name>
+      <address>
+        <city>Myrtle Beach</city>
+        <state>South Carolina</state>
+        <zip>29572</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon and HCA Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kinghorn Cancer Centre</name>
+      <address>
+        <city>Darlinghurst</city>
+        <zip>NSW 2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aichi Cancer Center Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>464-8681</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>855-569-6305</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Japan</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lilly.com/en-US/trial/367675</url>
+    <description>A Study of LOXO-435 in Patients With Cancer With a Change in a Gene Called FGFR3</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>May 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Bladder Cancer</keyword>
+  <keyword>Bladder Urothelial Carcinoma</keyword>
+  <keyword>Urinary Bladder Cancer</keyword>
+  <keyword>Urinary Tract Cancer</keyword>
+  <keyword>Renal Pelvis Cancer</keyword>
+  <keyword>Ureter Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Ureteral Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,972 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05074433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R10933-10987-COV-2176</org_study_id>
+    <secondary_id>2021-005222-14</secondary_id>
+    <nct_id>NCT05074433</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Efficacy and Safety of Casirivimab+Imdevimab (Monoclonal Antibodies) for Prevention of COVID-19 in Immunocompromised Adolescents and Adults</brief_title>
+  <official_title>A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Anti-Spike SARS-CoV-2 Monoclonal Antibodies as Pre-Exposure Prophylaxis to Prevent COVID-19 in Immunocompromised Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Regeneron Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Regeneron Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the study is to evaluate the effect of casirivimab+imdevimab,&#xD;
+      compared with placebo, in preventing symptomatic SARS-CoV-2 infection in immunocompromised&#xD;
+      participants.&#xD;
+&#xD;
+      The secondary objectives of the study are:&#xD;
+&#xD;
+        -  To evaluate the safety and tolerability of repeated SC injections of&#xD;
+           casirivimab+imdevimab in the study population&#xD;
+&#xD;
+        -  To characterize concentrations of casirivimab and imdevimab in serum over time&#xD;
+&#xD;
+        -  To assess the immunogenicity of casirivimab and imdevimab&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Emerging SARS-CoV2 variants impacting susceptibility to study drug&#xD;
+  </why_stopped>
+  <start_date type="Actual">October 25, 2021</start_date>
+  <completion_date type="Actual">May 18, 2022</completion_date>
+  <primary_completion_date type="Actual">May 18, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>Yes</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative incidence of symptomatic (broad term), RT-PCR-confirmed SARS-CoV-2 infection cases</measure>
+    <time_frame>Up to 169 Days</time_frame>
+    <description>Efficacy Assessment Period (EAP)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with grade ≥3 treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Up to 253 Days</time_frame>
+    <description>EAP and follow-up period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with TEAEs leading to study drug discontinuation</measure>
+    <time_frame>Up to 253 Days</time_frame>
+    <description>EAP and follow-up period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with treatment-emergent serious adverse events (SAEs)</measure>
+    <time_frame>Up to 253 Days</time_frame>
+    <description>EAP and follow-up period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events of special interest (AESIs)</measure>
+    <time_frame>Up to 169 Days</time_frame>
+    <description>EAP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentration of each mAb over time</measure>
+    <time_frame>Up to 253 Days</time_frame>
+    <description>As applicable to the treatment arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and titer of anti-drug antibodies (ADA) over time</measure>
+    <time_frame>Up to 253 Days</time_frame>
+    <description>As applicable to the treatment arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of neutralizing antibodies (NAb) to each mAb over time</measure>
+    <time_frame>Up to 253 Days</time_frame>
+    <description>As applicable to the treatment arm</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">66</enrollment>
+  <condition>Immunocompromised</condition>
+  <arm_group>
+    <arm_group_label>casirivimab+imdevimab Initial + Q4W</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Initial subcutaneous (SC) dose, then SC dose every 4 weeks (Q4W)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>casirivimab+imdevimab Q4W</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC dose Q4W</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>casirivimab+imdevimab Q12W</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC dose every 12 weeks (Q12W)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>SC dose Q4W</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>casirivimab+imdevimab</intervention_name>
+    <description>Co-administered sequentially subcutaneous (SC)</description>
+    <arm_group_label>casirivimab+imdevimab Initial + Q4W</arm_group_label>
+    <arm_group_label>casirivimab+imdevimab Q12W</arm_group_label>
+    <arm_group_label>casirivimab+imdevimab Q4W</arm_group_label>
+    <other_name>REGN-COV2</other_name>
+    <other_name>REGN10933</other_name>
+    <other_name>REGN10987</other_name>
+    <other_name>REGEN-COV™</other_name>
+    <other_name>Ronapreve™</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered SC</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          1. Meets ≥1 of the following criteria:&#xD;
+&#xD;
+               -  Is immunocompromised, including people with transplant, who have cancer, primary&#xD;
+                  immunodeficiencies, HIV, rheumatological disease, autoimmune disease, multiple&#xD;
+                  sclerosis OR&#xD;
+&#xD;
+               -  Currently taking immunosuppressant drugs&#xD;
+&#xD;
+          2. Have been fully vaccinated against COVID-19 or deemed medically ineligible to receive&#xD;
+             full course of vaccine&#xD;
+&#xD;
+          3. Has documented negative serology/antibody response in an anti-SARS-CoV-2 spike protein&#xD;
+             IgG clinical test or ≤50 U/mL on the Elecsys® SARS-CoV-2 S Total Ig test&#xD;
+&#xD;
+          4. Tested negative for the COVID-19 virus within 72 hours prior to randomization&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Weighs &lt;40 kg (only applies to participants ≥12 to &lt;18 years of age)&#xD;
+&#xD;
+          2. Has any signs or symptoms consistent with COVID-19&#xD;
+&#xD;
+          3. Past COVID-19 infection within 90 days prior to randomization&#xD;
+&#xD;
+          4. Planned use of any investigational, authorized, or approved vaccine for COVID-19&#xD;
+             within 90 days of the last dose of study drug&#xD;
+&#xD;
+          5. Prior, current, or planned use of any of COVID-19 convalescent plasma, other&#xD;
+             monoclonal antibodies against SARS-CoV-2 or any COVID-19 treatment&#xD;
+&#xD;
+          6. Is planned to begin immunoglobulin (IVIG) or immunoglobulin (SCIG) therapy, is planned&#xD;
+             to have a change to existing IVIG or SCIG, or has been on a chronic stable dose of&#xD;
+             their IVIG or SCIG regimen for less than 90 days prior to screening&#xD;
+&#xD;
+          7. Has any known active acute respiratory infection&#xD;
+&#xD;
+          8. Has persistent (refractory to treatment for ≥14 days) bacterial or fungal infection&#xD;
+&#xD;
+          9. Has known allergy or hypersensitivity to components of the study drugs&#xD;
+&#xD;
+        NOTE: Other Protocol Defined Inclusion/Exclusion Criteria Apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trial Management</last_name>
+    <role>Study Director</role>
+    <affiliation>Regeneron Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Central Alabama Research</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Health Center for Clinical Research</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>James R Berenson MD Inc.</name>
+      <address>
+        <city>West Hollywood</city>
+        <state>California</state>
+        <zip>90069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>North Haven</city>
+        <state>Connecticut</state>
+        <zip>06473-2195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthritis and Rheumatic Disease Specialties</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Research of West Florida, Inc.</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research Center</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Elixia COVID-19</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AppleMed Research Group, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>De La Cruz Research Center, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33184</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Medical Clinic, LLC</name>
+      <address>
+        <city>Zephyrhills</city>
+        <state>Florida</state>
+        <zip>33542</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Marietta</city>
+        <state>Georgia</state>
+        <zip>30060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials - Ravenswood</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane University</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Human Virology</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Laboratory of Clinical Immunology and Microbiology, NIAID</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jersey Shore University Medical Center</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Name</name>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <zip>07666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maimonides Cancer Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032-3729</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site 2</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Burke Primary Care</name>
+      <address>
+        <city>Morganton</city>
+        <state>North Carolina</state>
+        <zip>28655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center Research</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Valley Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Altoona Center for Clinical Research</name>
+      <address>
+        <city>Duncansville</city>
+        <state>Pennsylvania</state>
+        <zip>16635</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn Prevention Clinical Research Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Tennessee Research Institute</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PharmaTex Research, LLC</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Texas Clinical Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Therapeutic Concepts, PA</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy Group Medical,LLC</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77087</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center- First Hill</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin - Madison</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Cuauhtemoc</city>
+        <state>Distrito Federal</state>
+        <zip>6700</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>October 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>July 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-response to COVID-19 vaccination</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Immunocompromised, weakened immune system</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All Individual Patient Data (IPD) that underlie publicly available results will be considered for sharing</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>When Regeneron has received marketing authorization from major health authorities (e.g., FDA, European Medicines Agency (EMA), Pharmaceuticals and Medical Devices Agency (PMDA), etc.) for the product and indication, has made the study results publicly available (e.g., scientific publication, scientific conference, clinical trial registry), has the legal authority to share the data, and has ensured the ability to protect participant privacy.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers can submit a proposal for access to individual patient or aggregate level data from a Regeneron-sponsored clinical trial through Vivli. Regeneron's Independent Research Request Evaluation Criteria can be found at: https://www.regeneron.com/sites/default/files/Regeneron-External-Data-Sharing-Policy-and-Independent-Research-Request-Evaluation-Criteria.pdf</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

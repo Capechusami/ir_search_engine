@@ -1,0 +1,203 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795179</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-01630</org_study_id>
+    <nct_id>NCT05795179</nct_id>
+  </id_info>
+  <brief_title>Stress &amp; Self-Control Costs</brief_title>
+  <official_title>Neural and Affective Mechanisms Underlying Prospective Self-control Costs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Self-control failures are a universal challenge for healthy and clinical populations. Recent&#xD;
+      work suggests these failures may arise from excessive cognitive costs associated with&#xD;
+      exercising self-control, yet the mechanisms underlying these costs are unknown. To address&#xD;
+      this, the investigators will use a validated decision-making task that measures how much&#xD;
+      individuals will pay (from a study endowment) to restrict access to tempting rewards that may&#xD;
+      lead to self-control failures. The investigators will examine these costs to identify their&#xD;
+      cognitive, neural and affective mechanisms. First, the investigators will identify the&#xD;
+      cognitive and computational mechanism that gives rise to self-control costs. Second, the&#xD;
+      investigators will characterize the neural correlates of self-control costs and identify&#xD;
+      neural mediators and connectivity patterns stemming from these costs. Finally, the&#xD;
+      investigators will examine how different classes of stressors (physical, social, or lifetime&#xD;
+      stress) shape the behavioral and neural representations of self-control costs.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 1, 2024</start_date>
+  <completion_date type="Anticipated">April 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average Self-Control Cost</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The self-control cost is the amount that a participant would be willing to pay to avoid temptation. This will be tested in a self-control task in which participants are shown an images of snack food and report how much they would be willing to avoid the different food items.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in fMRI BOLD Signal During Self-Control Decisions</measure>
+    <time_frame>Day 1 (Up to 1.5 Hours)</time_frame>
+    <description>Functional MRI (fMRI) data will be analyzed to measure changes in blood-oxygen-level-dependent (BOLD) signal in the Dorsal Anterior Cingulate Cortex (dACC), Frontopolar Cortex (FPC) and Orbitofrontal Cortex (OFC) regions of interest as participants make self-control cost decisions during the self-control activity.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Self-Control</condition>
+  <arm_group>
+    <arm_group_label>Physiological Stress</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy dieters will undergo a single-visit neuroimaging study where they will first complete demographic and self-report measures followed by a self-control decision task in an fMRI scanner. Prior to scanning, participants will be assigned to a physiological stress group and complete the corresponding stress task. For the physiological stress group, this task is the Cold-Pressor Task (CPT), a physiological stress task in which participants continuously submerge their hand and forearm in ice-water (0-4°C) for 3 minutes. After the scan, participants will wait for 1 hour in an adjacent study room where they will play out one trial of the decision-making task completed in the scanner.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Social Stress</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy dieters will undergo a single-visit neuroimaging study where they will first complete demographic and self-report measures followed by a self-control decision task in an fMRI scanner. Prior to scanning, participants will be assigned to the social stress group and complete the corresponding stress task. For the social stress group, this task is the Trier Social Stress Test (TSST), a psychosocial stressor that requires participants perform a short speech and solve math problems in front of 2 evaluative judges. After the scan, participants will wait for 1 hour in an adjacent study room where they will play out one trial of the decision-making task completed in the scanner.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Physiological Non-Stress</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Healthy dieters will undergo a single-visit neuroimaging study where they will first complete demographic and self-report measures followed by a self-control decision task in an fMRI scanner. Prior to scanning, participants will be assigned to the physiological non-stress group and complete the corresponding stress task. For the physiological non-stress group, participants will continuously submerge their hand and forearm in warm water for 3 minutes. After the scan, participants will wait for 1 hour in an adjacent study room where they will play out one trial of the decision-making task completed in the scanner.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Social Non-Stress</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Healthy dieters will undergo a single-visit neuroimaging study where they will first complete demographic and self-report measures followed by a self-control decision task in an fMRI scanner. Prior to scanning, participants will be assigned to the social stress group and complete the corresponding stress task. For the social non-stress group, participants will be asked to prepare for a speech that they will practice alone to themselves and complete math problems alone on a piece of scrap paper. After the scan, participants will wait for 1 hour in an adjacent study room where they will play out one trial of the decision-making task completed in the scanner.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cold-Pressor Task (CPT)</intervention_name>
+    <description>CPT is a physiological stress task in which participants continuously submerge their hand and forearm in ice-water (0-4°C) for 3 minutes.</description>
+    <arm_group_label>Physiological Stress</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Trier Social Stress Test (TSST)</intervention_name>
+    <description>The TSST is a psychosocial stressor that requires participants perform a short speech and solve math problems in front of 2 evaluative judges.</description>
+    <arm_group_label>Social Stress</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Modified Non-Stress CPT</intervention_name>
+    <description>The modified non-stress CPT involves participants continuously submerging their hand and forearm in warm water for 3 minutes.</description>
+    <arm_group_label>Physiological Non-Stress</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Modified Non-Stress TSST</intervention_name>
+    <description>For the modified non-stress TSST, participants are asked to prepare for a speech that they will practice alone to themselves and complete math problems alone on a piece of scrap paper.</description>
+    <arm_group_label>Social Non-Stress</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Functional Magnetic Resonance Imaging (fMRI)</intervention_name>
+    <description>Participants will complete the self-control task in the fMRI scanner.</description>
+    <arm_group_label>Physiological Non-Stress</arm_group_label>
+    <arm_group_label>Physiological Stress</arm_group_label>
+    <arm_group_label>Social Non-Stress</arm_group_label>
+    <arm_group_label>Social Stress</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18-70 years of age, able to speak, read, and write fluently in English&#xD;
+&#xD;
+          -  be willing and able to follow study procedures and provide informed consent.&#xD;
+&#xD;
+          -  Must additionally confirm they are on a diet to maintain/lose weight and are&#xD;
+             implementing/maintaining dietary changes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of or medication for neurologic or psychiatric disease&#xD;
+&#xD;
+          -  High-blood pressure or heart condition&#xD;
+&#xD;
+          -  Diabetes, food allergies, metabolic disorders or history of eating disorder&#xD;
+&#xD;
+          -  Use of corticosteroids or beta-blockers&#xD;
+&#xD;
+          -  Metallic implants or devices contraindicating magnetic resonance imaging.&#xD;
+&#xD;
+          -  Pregnancy is considered an exclusion criteria due to all stress and scanning&#xD;
+             procedures, thus pregnant participants will not be permitted to participate in the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Candace Raio</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Candace Raio</last_name>
+    <email>candace.raio@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: candace.raio@nyulangone.org. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>The investigator who proposed to use the data will be granted access upon reasonable request. Requests should be directed to candace.raio@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

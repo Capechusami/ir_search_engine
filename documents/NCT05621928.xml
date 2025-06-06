@@ -1,0 +1,194 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621928</url>
+  </required_header>
+  <id_info>
+    <org_study_id>003/2021</org_study_id>
+    <nct_id>NCT05621928</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of Vaccination Against COVID-19 in Brazil: Case-Control Study</brief_title>
+  <official_title>Effectiveness of Vaccination Against COVID-19 in Brazil: Case-Control Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Immunobiological Technology Institute (Bio-Manguinhos) / Oswaldo Cruz Foundation (Fiocruz)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Immunobiological Technology Institute (Bio-Manguinhos) / Oswaldo Cruz Foundation (Fiocruz)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of the study is to evaluate the effectiveness of the vaccine against&#xD;
+      covid-19, recommended by the national immunization program. This is a multicentric,&#xD;
+      observational, case-control study. Participants Cases with the disease will be compared to&#xD;
+      Control Participants, that is, without the disease, regarding the vaccination history for&#xD;
+      Covid-19.Complementarily, an evaluation of cellular and humoral immunity will be carried out&#xD;
+      in a sample of both case and control participants, taking into account the vaccination&#xD;
+      history.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 7, 2022</start_date>
+  <completion_date type="Anticipated">December 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Months</target_duration>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>confirmed disease (RT-PCR positive for SARS-CoV-2), according to the clinical spectrum (of mild disease , moderate to severe) and outcome (disease-related death).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>according to the vaccine used, the number of doses and the interval from the last dose to the onset of symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>according to age group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>according to the presence of comorbidities and medication use.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>according to Region/State.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>according to vaccination coverage.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effectiveness of the vaccination against COVID-19.</measure>
+    <time_frame>12 months</time_frame>
+    <description>according to circulating viral variants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the humoral and cellular immune response</measure>
+    <time_frame>15 months</time_frame>
+    <description>in vaccinated or unvaccinated cases compared to vaccinated or unvaccinated controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analyze individual factors</measure>
+    <time_frame>15 months</time_frame>
+    <description>including those related to the adaptive immune response (HLA molecules) and genetic aspects, in severe cases/deaths associated with vaccine failures.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">3920</enrollment>
+  <condition>COVID-19 Vaccines</condition>
+  <arm_group>
+    <arm_group_label>Case</arm_group_label>
+    <description>Individuals aged 18 years or older, with a suspected clinical picture of COVID-19 virologically confirmed, that is, with positive RT-PCR for SARS-CoV-2 in a respiratory secretion sample collected in the first 7 days of the onset of symptoms , who did not have a positive RT-PCR result for SARS-CoV-2 in the 90 days preceding enrollment in the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Individuals residing in the vicinity of the case, aged 18 years or older, without a suspected clinical picture of COVID-19 and with RT-PCR negative for SARS-CoV-2 in a respiratory secretion sample collected at the time of inclusion, followed by confirmation of the absence of signs and symptoms suggestive of COVID-19 within the next 7 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>immunogenicity analyzes</arm_group_label>
+    <description>a convenience sample composed of all cases exposed or not to vaccination and 200 controls, 100 vaccinated and 100 unvaccinated, for analysis of humoral response.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>assessment of cellular immunity</arm_group_label>
+    <description>a sample of 100 vaccinated cases and 100 unvaccinated cases followed prospectively, and 100 vaccinated controls 100 unvaccinated controls assessed spot-on at enrollment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>analysis of potential genetic risk factors for the occurrence of severe forms of COVID-19 (SRAG)</arm_group_label>
+    <description>a total of 50 cases</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      oral and nasopharyngeal secretion, blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants virologically confirmed incident cases of COVID-19 and Control Participants&#xD;
+        without COVID-19 (no suspected symptomatology and RT-PCR negative for SARS-CoV in two&#xD;
+        consecutive naso/oropharyngeal swab samples).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Agreement to participate in the study after reading, understanding and signing the&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Availability and possibility of being followed up during the follow-up period defined&#xD;
+             in the study, through visits to research centers, home visits, telephone contacts or&#xD;
+             other means of digital communication.&#xD;
+&#xD;
+          -  Completing the case or control definitions described below.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Behavioral, cognitive or psychiatric illness that, in the opinion of the responsible&#xD;
+             investigator or his/her medical representative, affects the participant's ability to&#xD;
+             understand and comply with the requirements of the study protocol;&#xD;
+&#xD;
+          -  Any other condition that, in the opinion of the responsible investigator or his/her&#xD;
+             medical representative, may jeopardize the safety or rights of a potential participant&#xD;
+             or prevent him/her from complying with this protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tatiana Noronha, doctor</last_name>
+    <phone>+55 21 97119-9897</phone>
+    <email>Tnoronha@bio.fiocruz.br</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Instituto de Tecnologia em Imunobiológicos Bio-Manguinhos/Fiocruz</name>
+      <address>
+        <city>Rio de janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

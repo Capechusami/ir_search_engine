@@ -1,0 +1,249 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798338</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2490</org_study_id>
+    <nct_id>NCT05798338</nct_id>
+  </id_info>
+  <brief_title>Characterization of Extracellular Vesicles in Breast Cancer Patients</brief_title>
+  <official_title>Characterization of Extracellular Vesicles in Breast Cancer Patients' Plasma by Single Molecule Detection Array (SiMoA) Digital ELISA</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituti Clinici Scientifici Maugeri SpA</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituti Clinici Scientifici Maugeri SpA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Extracellular vesicles (EVs) are lipid bilayer-delimited particles, naturally released from&#xD;
+      cells and mediators of intercellular cross-talk. In breast cancer (BC), EVs seem to be&#xD;
+      involved in the tumor microenvironment's shaping, in cancer cells invasion and in the set-up&#xD;
+      of metastasis.&#xD;
+&#xD;
+      Clinical studies have provided initial evidence that these vesicles may have a prognostic and&#xD;
+      predictive value in breast cancer. Considering their ubiquitous presence in body fluids and&#xD;
+      their minimally invasive assessment through blood sampling, EVs could have a potential as&#xD;
+      liquid biopsy-derived biomarkers. Their quantification though is a complex task requiring&#xD;
+      complicated and time-consuming pre-analytical procedures of EVs isolation.&#xD;
+&#xD;
+      This protocol want to develop a new method for the detection of tumor-derived-EVs associated&#xD;
+      proteins, based on the use of Single Molecule Array (SiMoA), a digital ELISA technology able&#xD;
+      to detect and quantify extremely low concentrations of target proteins or particles.&#xD;
+&#xD;
+      The aim of this study is to evaluate how this new technology can allow the quantification of&#xD;
+      EVs plasma levels in patients affected by BC, providing useful diagnostic and prognostic&#xD;
+      information.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, observational, monocentric and no profit study. The study involves the&#xD;
+      analysis of plasma from patients with breast cancer in order to quantify and characterize&#xD;
+      tumor-derived EVs at specific disease stages.&#xD;
+&#xD;
+      The enrollment of consecutive patients affected by BC referring to an EUSOMA-accredited&#xD;
+      Breast Unit is planned.&#xD;
+&#xD;
+      The patients will be divided into three pre-planned groups, as follows:&#xD;
+&#xD;
+      Population 1: patients diagnosed with early breast cancer patients (stage I-III) with&#xD;
+      indication to curative surgery.&#xD;
+&#xD;
+      Population 2: a control group made of sex- and age-matched healthy volunteers, not affected&#xD;
+      by cancer or chronic diseases.&#xD;
+&#xD;
+      Population 3: patients with metastatic breast cancer diagnosis. For each patient a blood&#xD;
+      sample will be collected and plasma will be isolated. A new SiMoA assay based on the use of&#xD;
+      anti-CD63 and anti-CD9 antibodies, two well known protein markers of EVs, will be used to&#xD;
+      capture and quantify EVs directly from plasma without requiring any prior sample processing.&#xD;
+&#xD;
+      The study will be conducted following the International Conference on Harmonization [ICH]&#xD;
+      Good Clinical Practice [GCP] guidelines. The Ethical Committee of ICS Maugeri authorized the&#xD;
+      study as protocol 2490/2020.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Anticipated">September 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>EVs levels in early BC</measure>
+    <time_frame>36 months</time_frame>
+    <description>Determination of plasma EVs levels in patients with EBC by SIMOA digital ELISA and evaluation of the difference of their concentration compared to healthy controls</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>EVs levels in metastatic BC</measure>
+    <time_frame>36 months</time_frame>
+    <description>Determination of plasma EVs levels in patients with first diagnosis of metastatic BC by SIMOA digital ELISA and evaluation of the difference of their concentration compared to healthy controls</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>EVs levels after surgery</measure>
+    <time_frame>36 months</time_frame>
+    <description>Determination of plasma EVs levels in patients with early BC one month after surgery and comparison with pre-surgery EVs levels in order to evaluate any qualitative of quantitative modifications in circulating EVs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EVs levels after chemotherapy treatment</measure>
+    <time_frame>36 months</time_frame>
+    <description>Determination of plasma EVs levels in patients with first diagnosis of metastatic BC after 4 months of systemic therapy and comparison with pre-therapy EV's plasma levels</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">105</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Early Breast Cancer patients</arm_group_label>
+    <description>Diagnosis of early breast cancer;&#xD;
+Indication for surgery after multidisciplinary discussion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Metastatic Breast Cancer patients</arm_group_label>
+    <description>First diagnosis of metastatic breast cancer confirmed by cytological/histological examination or by imaging;&#xD;
+Indication to chemotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy patients</arm_group_label>
+    <description>- Patients having a negative mammography or breast ultrasound within 12 months from the study enrollment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>Analysis of plasma in order to quantify and characterize EVs</description>
+    <arm_group_label>Early Breast Cancer patients</arm_group_label>
+    <arm_group_label>Healthy patients</arm_group_label>
+    <arm_group_label>Metastatic Breast Cancer patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Breast cancer patients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signing of a specific informed consent for participation to the study&#xD;
+&#xD;
+          -  Female sex&#xD;
+&#xD;
+        Population 1:&#xD;
+&#xD;
+          -  Diagnosis of early breast cancer;&#xD;
+&#xD;
+          -  Indication for surgery after multidisciplinary discussion.&#xD;
+&#xD;
+        Population 2:&#xD;
+&#xD;
+        - Patients having a negative mammography or breast ultrasound within 12 months from the&#xD;
+        study enrollment.&#xD;
+&#xD;
+        Population 3:&#xD;
+&#xD;
+          -  Diagnosis of metastatic breast cancer confirmed by cytological/histological&#xD;
+             examination or by imaging;&#xD;
+&#xD;
+          -  Indication to chemotherapy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Population 1:&#xD;
+&#xD;
+          -  Presence of distant metastases&#xD;
+&#xD;
+          -  Synchronous presence of a different tumor&#xD;
+&#xD;
+          -  Indication to neoadjuvant chemotherapy&#xD;
+&#xD;
+        Population 2:&#xD;
+&#xD;
+          -  Diagnosis of breast cancer&#xD;
+&#xD;
+          -  Synchronous presence of a different tumor or chronic disease&#xD;
+&#xD;
+        Population 3:&#xD;
+&#xD;
+        - Patients who are unfit for systemic chemotherapy treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Breast cancer is gender specific</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Fabio Corsi, Professor</last_name>
+    <phone>0382592272</phone>
+    <email>fabio.corsi@icsmaugeri.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>SARA PAOLA ALBASINI, MsC</last_name>
+    <phone>3497378405</phone>
+    <email>sara.albasini@icsmaugeri.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Istituti Clinici Scientifici Maugeri SpA</name>
+      <address>
+        <city>Pavia</city>
+        <state>Lombardia</state>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fabio Corsi, Professor</last_name>
+      <phone>0382592272</phone>
+      <email>fabio.corsi@icsmaugeri.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sara Albasini, MsC</last_name>
+      <phone>3497378405</phone>
+      <email>sara.albasini@icsmaugeri.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istituti Clinici Scientifici Maugeri SpA</investigator_affiliation>
+    <investigator_full_name>Fabio Corsi</investigator_full_name>
+    <investigator_title>Prof</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

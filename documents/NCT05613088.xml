@@ -1,0 +1,965 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613088</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CA116-001</org_study_id>
+    <secondary_id>2021-004807-42</secondary_id>
+    <nct_id>NCT05613088</nct_id>
+  </id_info>
+  <brief_title>A Study of MORAb-202 Versus Investigator's Choice Chemotherapy in Female Participants With Platinum-resistant High-grade Serous (HGS) Ovarian, Primary Peritoneal, or Fallopian Tube Cancer</brief_title>
+  <official_title>A Phase 2 Open-label Randomized Study of Farletuzumab Ecteribulin (MORAb-202), a Folate Receptor Alpha-targeting Antibody-drug Conjugate, Versus Investigator's Choice Chemotherapy in Women With Platinum-resistant High-grade Serous (HGS) Ovarian, Primary Peritoneal, or Fallopian Tube Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to assess the safety, tolerability, and efficacy of farletuzumab&#xD;
+      ecteribulin (MORAb-202) and compare it to Investigator's choice (IC) chemotherapy in female&#xD;
+      participants with platinum-resistant HGS ovarian, primary peritoneal, or fallopian tube&#xD;
+      cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2023</start_date>
+  <completion_date type="Anticipated">October 11, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 5, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective response rate (ORR) by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 per investigator assessment</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of participants with treatment related adverse events (TRAEs) leading to study discontinuation</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events (AEs)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with serious adverse events (SAEs)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with AEs leading to discontinuation</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with TRAEs</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with TRSAEs</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with AEs of special interest (AESIs)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of deaths</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with laboratory abnormalities</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR) by RECIST v1.1 per investigator assessment</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR) by RECIST v1.1 per investigator assessment</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) by RECIST v1.1 per investigator assessment</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Neoplasms, Ovarian</condition>
+  <arm_group>
+    <arm_group_label>Arm A: MORAb-202 Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: MORAb-202 Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: Investigator's Choice Chemotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MORAb-202</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Arm A: MORAb-202 Dose 1</arm_group_label>
+    <arm_group_label>Arm B: MORAb-202 Dose 2</arm_group_label>
+    <other_name>BMS-986445</other_name>
+    <other_name>Farletuzumab Ecteribulin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Arm C: Investigator's Choice Chemotherapy</arm_group_label>
+    <other_name>Bendalis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pegylated Liposomal Doxorubicin (PLD)</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Arm C: Investigator's Choice Chemotherapy</arm_group_label>
+    <other_name>Caelyx</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Topotecan</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Arm C: Investigator's Choice Chemotherapy</arm_group_label>
+    <other_name>Hycamtin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female participants with histologically-confirmed diagnosis of HGS ovarian, primary&#xD;
+             peritoneal, or fallopian tube cancer.&#xD;
+&#xD;
+          -  Platinum-resistant disease, defined as:&#xD;
+&#xD;
+          -  For participants who had only 1 line of platinum-based therapy: progression between &gt;&#xD;
+             1 month and ≤ 6 months after the last dose of platinum-based therapy of at least 4&#xD;
+             cycles.&#xD;
+&#xD;
+          -  For participants who had 2 or 3 lines of platinum-based therapy: progression ≤ 6&#xD;
+             months after the last dose of platinum-based therapy.&#xD;
+&#xD;
+          -  Participants have received at least 1 but no more than 3 prior lines of systemic&#xD;
+             therapy and for whom single-agent therapy is appropriate as the next line of therapy.&#xD;
+             Participants may have been treated with up to 1 line of therapy subsequent to&#xD;
+             determination of platinum-resistance.&#xD;
+&#xD;
+          -  Disease progression per RECIST v1.1 (by investigator assessment) of at least 1&#xD;
+             measurable lesion on or after the most recent therapy.&#xD;
+&#xD;
+          -  Either formalin-fixed, paraffin-embedded (FFPE) tissue (up to 5 years old) or&#xD;
+             newly-obtained biopsies must be available for FRα assessment prior to randomization.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical Conditions&#xD;
+&#xD;
+          -  Clear cell, mucinous, endometrioid or sarcomatous histology, or mixed tumors&#xD;
+             containing components of any of these histologies, or low grade or borderline ovarian&#xD;
+             cancer.&#xD;
+&#xD;
+          -  Primary platinum-refractory ovarian cancer defined as disease progression within 1&#xD;
+             month of the last dose of the first line platinum-containing regimen.&#xD;
+&#xD;
+          -  Pulmonary function test (PFT) abnormalities: FEV1 &lt; 70% or FVC &lt; 60%, and DLCO &lt; 80%.&#xD;
+&#xD;
+          -  Investigator-assessed current ILD/pneumonitis, or ILD/pneumonitis suspected at&#xD;
+             screening or history of ILD/pneumonitis of any severity including ILD/pneumonitis from&#xD;
+             prior anti-cancer therapy.&#xD;
+&#xD;
+          -  Significant third-space fluid retention (eg, ascites or pleural effusion) that&#xD;
+             requires repeated drainage.&#xD;
+&#xD;
+        Physical and Laboratory Test Findings&#xD;
+&#xD;
+          -  Evidence of organ dysfunction or any clinically-significant deviation from normal in&#xD;
+             physical examination, vital signs, ECG, or clinical laboratory determinations beyond&#xD;
+             what is consistent with the target population.&#xD;
+&#xD;
+        Allergies and Adverse Drug Reactions&#xD;
+&#xD;
+          -  Has any prior severe hypersensitivity (≥ Grade 3) to monoclonal antibodies or eribulin&#xD;
+             or contraindication to the receipt of corticosteroids or any of the excipients&#xD;
+             (investigators should refer to the prescribing information for the selected&#xD;
+             corticosteroid).&#xD;
+&#xD;
+          -  History of allergy or contraindication to IC chemotherapy agent selected if randomized&#xD;
+             to Arm C.&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BMS Study Connect Contact Center www.BMSStudyConnect.com</last_name>
+    <phone>855-907-3286</phone>
+    <email>Clinical.Trials@bms.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>First line of the email MUST contain the NCT# and Site #.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California Irvine</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Krishnansu Tewari, Site 0040</last_name>
+      <phone>714-509-2430</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>California Pacific Medical Center - Van Ness Campus Medical Office Building</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94109-6978</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>John Chan, Site 0025</last_name>
+      <phone>415-600-0930</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Oncology Institute of Hope and Innovation - Whittier</name>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <zip>90602-3171</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul La Porte, Site 0078</last_name>
+      <phone>562-693-4777</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Denver - Anschutz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045-2517</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bradley Corr, Site 0051</last_name>
+      <phone>303-724-2053</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Endoscopy Center</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Merry Markham, Site 0024</last_name>
+      <phone>352-262-1072</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dario Roque, Site 0052</last_name>
+      <phone>312-695-0990</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Kansas Medical Center</name>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <zip>66205-2003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andrea Jewell, Site 0043</last_name>
+      <phone>000-000-0000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Corewell Health</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503-2560</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gregory Gressel, Site 0070</last_name>
+      <phone>616-391-9354</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Hospitals</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gregory Gressel, Site 0041</last_name>
+      <phone>616-391-9354</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065-6007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jason Konner, Site 0026</last_name>
+      <phone>646-227-2198</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Of North Carolina, Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Linda Van Le, Site 0028</last_name>
+      <phone>919-784-6875</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zangmeister Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily Whitman, Site 0061</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203-1625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Erika Hamilton, Site 0044</last_name>
+      <phone>615-329-7274</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235-7320</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Miller, Site 0050</last_name>
+      <phone>214-645-4673</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Sacred Heart Medical Center and Children's Hospital</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204-2307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Melanie Bergman, Site 0042</last_name>
+      <phone>509-474-2200</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0031</name>
+      <address>
+        <city>Chermside</city>
+        <state>Queensland</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0031</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0027</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0027</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0032</name>
+      <address>
+        <city>Leuven</city>
+        <state>VBR</state>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0032</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0033</name>
+      <address>
+        <city>Hasselt</city>
+        <state>VLI</state>
+        <zip>3500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0033</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0012</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0012</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0045</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0045</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0013</name>
+      <address>
+        <city>Namur</city>
+        <zip>5000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0013</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0029</name>
+      <address>
+        <city>Temuco</city>
+        <state>Araucania</state>
+        <zip>4781151</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0029</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0036</name>
+      <address>
+        <city>Santiago</city>
+        <state>Providencia</state>
+        <zip>7510032</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0036</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0030</name>
+      <address>
+        <city>Santiago</city>
+        <state>RM</state>
+        <zip>8420383</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0030</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0071</name>
+      <address>
+        <city>Vina Del Mar</city>
+        <state>Valparaiso</state>
+        <zip>2540402</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0054</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31999</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0054</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0080</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91031</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0080</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0046</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>9112001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0046</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0047</name>
+      <address>
+        <city>Tel-Aviv</city>
+        <zip>64239</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0048</name>
+      <address>
+        <city>Tel-Aviv</city>
+        <zip>64239</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0048</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0003</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0003</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0002</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0002</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0004</name>
+      <address>
+        <city>Kurume</city>
+        <state>Fukuoka</state>
+        <zip>8300011</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0004</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0014</name>
+      <address>
+        <city>Hidaka-shi</city>
+        <state>Saitama</state>
+        <zip>350-1298</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0014</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0037</name>
+      <address>
+        <city>Koto-Ku</city>
+        <state>Tokyo-to</state>
+        <zip>135-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0037</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0018</name>
+      <address>
+        <city>Akashi, Hyogo</city>
+        <zip>673-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0018</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0079</name>
+      <address>
+        <city>Akashi</city>
+        <zip>673-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0079</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0019</name>
+      <address>
+        <city>Chuo-Ku</city>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0019</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0049</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0049</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0053</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0053</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0021</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site 0021</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0020</name>
+      <address>
+        <city>Girona</city>
+        <zip>17007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0020</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0038</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28033</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0038</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution - 0022</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0022</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Chile</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>https://www.bmsstudyconnect.com/s/US/English/USenHome</url>
+    <description>BMS Clinical Trial Patient Recruiting</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>April 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Platinum-resistant ovarian cancer (PROC)</keyword>
+  <keyword>Primary peritoneal cancer</keyword>
+  <keyword>Fallopian tube cancer</keyword>
+  <keyword>MORAb-202</keyword>
+  <keyword>Folate-receptor alpha</keyword>
+  <keyword>ADC</keyword>
+  <keyword>Antibody-drug conjugate</keyword>
+  <keyword>Epithelial ovarian cancer</keyword>
+  <keyword>High grade serous</keyword>
+  <keyword>Farletuzumab ecteribulin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fallopian Tube Neoplasms</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Topotecan</mesh_term>
+    <mesh_term>Farletuzumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>BMS will provide access to individual anonymized participant data upon request from qualified researchers, and subject to certain criteria. Additional information regarding Bristol Myer Squibb's data sharing policy and process can be found at: https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>See plan description</ipd_time_frame>
+    <ipd_access_criteria>See plan description</ipd_access_criteria>
+    <ipd_url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

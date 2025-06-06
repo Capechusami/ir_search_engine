@@ -1,0 +1,191 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613010</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00321009</org_study_id>
+    <secondary_id>K23DK128573</secondary_id>
+    <nct_id>NCT05613010</nct_id>
+  </id_info>
+  <brief_title>Leveraging Technology to Improve Medication Adherence in Youth With Kidney or Liver Transplant</brief_title>
+  <official_title>Leveraging Technology to Improve Medication Adherence in Adolescent and Young Adult Kidney or Liver Transplant Recipients: A Micro-Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Can the investigators create an effective way to improve adherence to immunosuppressant&#xD;
+      medication and reduce rejection, graft loss, and death in adolescents and young adults who&#xD;
+      have undergone kidney or liver transplantation? The investigators' mobile technology&#xD;
+      intervention uses real-time electronic pillbox-assessed dose timing and text message prompts&#xD;
+      to address antirejection medication nonadherence when nonadherence is detected.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Over 1/3 of adolescents and young adults who have undergone kidney or liver transplantation&#xD;
+      are nonadherent to antirejection medicines, accounting for shockingly high rates of&#xD;
+      infections, rejection, graft loss, and even death. Recently, the American Society of&#xD;
+      Transplantation highlighted real-time adherence intervention as top priorities to address&#xD;
+      antirejection medication nonadherence, but these evidence-based intervention tools do not&#xD;
+      exist. The investigators aim to answer the American Society of Transplantation's call and&#xD;
+      fill these critical gaps in nonadherence management for adolescents and young adults with&#xD;
+      kidney or liver transplant. Specifically, electronic pillboxes yield valuable real-time daily&#xD;
+      dosing data to guide interventions for adolescents and young adult kidney or liver transplant&#xD;
+      recipients, but existing interventions have not optimally leveraged these devices'&#xD;
+      capabilities. Just-in-time adaptive interventions delivered via mobile device (i.e.,&#xD;
+      Smartphone or tablet) are cutting-edge approaches that fully incorporate adolescents and&#xD;
+      young adults' daily dose behavior to automatically deliver tailored intervention content&#xD;
+      exactly when adolescents and young adults need it most. The investigators piloted a promising&#xD;
+      static medication adherence support text message intervention based on the COM-B model, a&#xD;
+      well-established behavioral health intervention model, which will be modified into a&#xD;
+      just-in-time adaptive intervention for adolescents and young adult kidney or liver transplant&#xD;
+      recipients. Given that 95% of adolescents and young adults in the USA own smartphones, the&#xD;
+      investigators hypothesize that the investigators' intervention will improve on-time dosing&#xD;
+      and reduce rejection, graft loss, and death. The investigators believe that providing&#xD;
+      adherence support text messages or praise text messages will result in a higher proportion of&#xD;
+      adolescents and young adults taking the next dose and maintaining improvements in adherence&#xD;
+      post-intervention. In summary, the investigators' just-in-time adaptive intervention&#xD;
+      leverages real-time electronic pillbox-assessed dosing behavior and Smartphone text messaging&#xD;
+      capabilities to address tacrolimus or sirolimus nonadherence when nonadherence is detected.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">June 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This study uses a within-subjects micro-randomized trial design. This study involves randomizing participants within person hundreds of times over to receive intervention or not at each expected dose. Each dose is a decision-point to deliver intervention or not, allowing for within-person comparisons.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Electronically-measured medication adherence (dose taken or not)</measure>
+    <time_frame>16 months</time_frame>
+    <description>Participants will use an electronic pillbox to assess daily immunosuppressant adherence (tacrolimus or sirolimus), defined as a binary variable: dose taken or not.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Standard deviation of antirejection medication dose timing</measure>
+    <time_frame>16 months</time_frame>
+    <description>This metric will be calculated as each participants' standard deviation (SD) in tacrolimus or sirolimus daily dose timing during the study based on how many minutes early/late tacrolimus or sirolimus was timestamped as taken (administered) from when it is prescribed (e.g., how many minutes before/after AYA's expected dose time) using time stamp data from the electronic pill boxes.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Transplant;Failure,Kidney</condition>
+  <condition>Transplant; Failure, Liver</condition>
+  <condition>Adherence, Medication</condition>
+  <condition>Adherence, Patient</condition>
+  <condition>Adherence, Treatment</condition>
+  <arm_group>
+    <arm_group_label>Mobile health (mHealth) text messaging intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During baseline (4 weeks), adherence will be monitored daily via electronic pill boxes and no text messages will be sent. After baseline, participants will begin the 12-week micro-randomized trial of the intervention (a within-person study design). During this 12-week micro-randomized trial, daily adherence will be electronically monitored with the electronic pill boxes and participants will be randomized to receive (1) adherence support text messages or (2) no text message after each missed dose, and (1) praise text message or (2) no text message after each on time dose. For 12 months post-intervention, participants will keep using the electronic pill boxes (no text messages will be sent).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>mHealth Messaging Intervention Group</intervention_name>
+    <description>Participants will receive an electronic pill box; the research team will instruct participants on how to use this device. Participants will be asked to use the electronic pill box for their prescribed medicines for the duration of the study (up to 16 months). During the 12-week micro-randomized trial, participants will be randomized within person to receive (1) adherence support text messages or (2) no text message after each missed dose, and (1) praise text message or (2) no text message after each on time dose. Dose timing will be determined based on participant report of when they typically take their tacrolimus or sirolimus medicine.</description>
+    <arm_group_label>Mobile health (mHealth) text messaging intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adolescents and young adults (13-25 years old) who underwent kidney or liver&#xD;
+             transplantation at least 6 months prior to enrollment&#xD;
+&#xD;
+          -  Currently prescribed tacrolimus or sirolimus.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently receiving dialysis&#xD;
+&#xD;
+          -  Hospitalized for duration of study&#xD;
+&#xD;
+          -  Significant developmental or cognitive delay&#xD;
+&#xD;
+          -  No access to a mobile device that supports text messaging&#xD;
+&#xD;
+          -  Decline to use electronic pill box to monitor daily medication adherence&#xD;
+&#xD;
+          -  Non-English speaking&#xD;
+&#xD;
+          -  If a participant meets inclusion criteria, enrolls in the study, and experiences graft&#xD;
+             failure potentially leading to dialysis in the case of kidney transplant recipients,&#xD;
+             the participant will be given the option to continue in the study if they remain on&#xD;
+             tacrolimus or sirolimus.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cyd Eaton, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cyd Eaton, PhD</last_name>
+    <phone>410-550-4134</phone>
+    <email>ceaton4@jhmi.edu</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>April 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>kidney transplant</keyword>
+  <keyword>liver transplant</keyword>
+  <keyword>medication adherence</keyword>
+  <keyword>medication nonadherence</keyword>
+  <keyword>compliance</keyword>
+  <keyword>mobile health</keyword>
+  <keyword>mobile phone</keyword>
+  <keyword>technology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Renal Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data from this study will be shared in a de-identified form (i.e., clean, de-identified electronic database) upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Upon request</ipd_time_frame>
+    <ipd_access_criteria>Data from this study will be shared in a de-identified form (i.e., clean, de-identified electronic database).</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

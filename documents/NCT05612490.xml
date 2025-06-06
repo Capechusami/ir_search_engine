@@ -1,0 +1,204 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05612490</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-01826</org_study_id>
+    <nct_id>NCT05612490</nct_id>
+  </id_info>
+  <brief_title>Furosemide Stress Test to Predict Successful Liberation From RRT</brief_title>
+  <acronym>FST-RRT</acronym>
+  <official_title>Evaluation of the Furosemide Stress Test to Predict Successful Liberation From Renal Replacement Therapy in Critically Ill Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire Vaudois</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire Vaudois</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed study will evaluate if a standardised dose of furosemide administered in the 12&#xD;
+      hours after RRT liberation can predict successful liberation in critically ill patients. The&#xD;
+      dose that will be administered is in accordance with the prescribing information.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Response to furosemide administration is commonly used in clinical practice to assess a&#xD;
+      patient's potential for RRT liberation. However, this administration is not standardized and&#xD;
+      practices varies greatly. Rapid recognition of unsuccessful RRT liberation is crucial to&#xD;
+      avoid further complications such as fluid overload or acid-base and electrolyte disorders.&#xD;
+      The FST corresponds to the intravenous administration of 1 mg/kg (1.5 mg/kg in previously&#xD;
+      exposed patients) of furosemide and the assessment of resulting diuresis in the following two&#xD;
+      hours. FST is able to predict progression from AKI stage I and II to stage III with a high&#xD;
+      sensitivity (87.1%) and specificity (84.1%), area under the ROC curve 0.87. However, the&#xD;
+      ability of FST to predict RRT liberation has never been formally assessed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2023</start_date>
+  <completion_date type="Anticipated">August 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Successful liberation of RRT within 72 hours after FST</measure>
+    <time_frame>within 72 hours</time_frame>
+    <description>No renal replacement therapy administered</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Successful liberation of RRT at ICU discharge</measure>
+    <time_frame>At time of ICU discharge, assessed up to 90 days post inclusion</time_frame>
+    <description>No renal replacement therapy administered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Successful liberation of RRT at hospital discharge</measure>
+    <time_frame>At time of hospital discharge, assessed up to 90 days post inclusion</time_frame>
+    <description>No renal replacement therapy administered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events associated with the intervention</measure>
+    <time_frame>within 6 hours</time_frame>
+    <description>(electrolyte disturbances, hypotension)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>Critically ill patients undergoing RRT</arm_group_label>
+    <description>Patients admitted to participating ICU and receiving renal replacement therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Furosemide stress test</intervention_name>
+    <description>The FST corresponds to the intravenous single-dose administration of 1 mg/kg (1.5 mg/kg in previously exposed patients) of furosemide and the assessment of resulting diuresis in the following two hours. In the 12 hours following the first RRT liberation, a FST will be performed. The test will be considered positive if urinary output is ≥200 mL in the two hours following furosemide administration.</description>
+    <arm_group_label>Critically ill patients undergoing RRT</arm_group_label>
+    <other_name>FST</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Urine sample at D0, D1, D2 and D3 and on RRT restart (if applicable)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        ICU patients receiving continuous RRT for AKI&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Receiving continuous RRT for AKI&#xD;
+&#xD;
+          -  Having an indwelling urinary catheter&#xD;
+&#xD;
+          -  Clinical decision by physician in charge to attempt RRT liberation (first attempt)&#xD;
+&#xD;
+          -  lnformed consent signed by the patient himself / legal representative or authorization&#xD;
+             received from independent physician&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Electrolyte disturbances or hemodynamic instability precluding the use of furosemide&#xD;
+             (sodium &gt; 155 mmol/L and/or potassium &lt; 3.0 mmol/L and/or metabolic alkalosis &gt; 7.50&#xD;
+             and/or mean arterial pressure &lt; 60 mmHg)&#xD;
+&#xD;
+          -  Furosemide allergy&#xD;
+&#xD;
+          -  Urine output ≥ 100 mL/h for at least two hours&#xD;
+&#xD;
+          -  Prior FST during the ICU stay&#xD;
+&#xD;
+          -  Known end-stage chronic renal disease at ICU admission&#xD;
+&#xD;
+          -  Withdrawal of life support decision taken before inclusion&#xD;
+&#xD;
+          -  Patient already participating in conflicting research study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antoine Schneider, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Hospitalier Universitaire Vaudois</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Antoine schneider, MD PhD</last_name>
+    <phone>+41795561902</phone>
+    <email>antoine.scheider@chuv.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <state>Vaud</state>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antoine Schneider, MD Phd</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <results_reference>
+    <citation>Chawla LS, Davison DL, Brasha-Mitchell E, Koyner JL, Arthur JM, Shaw AD, Tumlin JA, Trevino SA, Kimmel PL, Seneff MG. Development and standardization of a furosemide stress test to predict the severity of acute kidney injury. Crit Care. 2013 Sep 20;17(5):R207. doi: 10.1186/cc13015.</citation>
+    <PMID>24053972</PMID>
+  </results_reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>April 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Centre Hospitalier Universitaire Vaudois</investigator_affiliation>
+    <investigator_full_name>Antoine Schneider</investigator_full_name>
+    <investigator_title>Doctor</investigator_title>
+  </responsible_party>
+  <keyword>Renal replacement therapy</keyword>
+  <keyword>Acute Kidney Injury</keyword>
+  <keyword>Furosemide Stress Test</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Furosemide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

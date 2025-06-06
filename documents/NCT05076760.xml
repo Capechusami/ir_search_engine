@@ -1,0 +1,450 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05076760</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCI-2003</org_study_id>
+    <nct_id>NCT05076760</nct_id>
+  </id_info>
+  <brief_title>Study of MEM-288 Oncolytic Virus in Solid Tumors Including Non-Small Cell Lung Cancer (NSCLC)</brief_title>
+  <official_title>Phase I Study of MEM-288 Oncolytic Virus in Solid Tumors Including Non-Small Cell Lung Cancer (NSCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memgen, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Duke Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memgen, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial is designed as an open-label, dose escalation trial of MEM-288 monotherapy&#xD;
+      in which investigators aim to find the maximum tolerated dose (MTD) and recommended phase II&#xD;
+      dose (RP2D). Subjects with selected solid tumors including non-small cell lung cancer (NSCLC)&#xD;
+      who have a tumor lesion which is accessible for injection will undergo intratumoral injection&#xD;
+      of MEM-288. The study rationale is that the oncolytic effect of MEM-288 combined with the&#xD;
+      presence of CD40L and type 1 interferon (IFN) in injected tumors will provide a strong signal&#xD;
+      for dendritic cell (DC)-mediated T cell activation leading to generation of systemic&#xD;
+      anti-tumor T cell responses with broad specificity akin to what is observed in the abscopal&#xD;
+      effect.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MEM-288 is a conditionally replicative oncolytic adenovirus vector encoding transgenes for&#xD;
+      human interferon beta (IFNβ) and a recombinant chimeric form of CD40-ligand (MEM40). MEM-288&#xD;
+      was developed as an immunotherapy for cancer and was engineered to selectively replicate in&#xD;
+      cancer cells leading to cancer cell lysis but not cytotoxicity towards normal cells.&#xD;
+      Simultaneously, MEM-288 is designed to stimulate an anti-tumor immune response through&#xD;
+      expression of its encoded immune agonist transgenes. MEM-288 is designed to provide both&#xD;
+      antitumor activity as a standalone monotherapy and in combination with immune checkpoint&#xD;
+      inhibitor(s) to enhance the efficacy of immune checkpoint inhibition in solid tumors.&#xD;
+&#xD;
+      This phase I trial is an open-label, dose escalation trial of MEM-288 monotherapy in which&#xD;
+      investigators aim to find the MTD and recommended phase II dose for the planned combination&#xD;
+      of MEM-288 with an immune checkpoint inhibitor. Patients (≥ 18 years old) eligible for study&#xD;
+      enrollment include those with either advanced/metastatic NSCLC, cutaneous squamous-cell&#xD;
+      carcinoma (cSCC), Merkel cell, melanoma, triple negative breast cancer (TNBC), pancreatic&#xD;
+      cancer, or head and neck cancer, who progressed following previous anti-PD-1/PD-L1 therapy,&#xD;
+      with a tumor lesion which is accessible for injection.&#xD;
+&#xD;
+      MEM-288 will be administered via intratumoral injection once every 3 weeks (planned 2 doses,&#xD;
+      maximum 6 doses) at an assigned dose cohort level (from 1x10^10 to 1x10^11 viral particles).&#xD;
+&#xD;
+      The primary study objective is to determine the safety, tolerability, and maximum tolerated&#xD;
+      dose (MTD) of intratumoral administration of MEM-288 as a single agent. Secondary objectives&#xD;
+      will assess efficacy overall response rate, as well as disease control rate, progression free&#xD;
+      survival, duration of response, and anti-tumor immune responses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 23, 2022</start_date>
+  <completion_date type="Anticipated">November 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD)</measure>
+    <time_frame>21 days</time_frame>
+    <description>MTD is defined as the highest dose with ≤ 17% dose limiting toxicity (DLT) rate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability assessed by Adverse Events (AEs)</measure>
+    <time_frame>4.5 months</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a subject receiving study drug and which does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended or worsening sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a study drug, whether or not related to use of the study drug.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>up to 39 weeks</time_frame>
+    <description>ORR measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>up to 39 weeks</time_frame>
+    <description>DCR measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>up to 39 weeks</time_frame>
+    <description>DoR measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>up to 39 weeks</time_frame>
+    <description>To determine the PFS days post treatment initiation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>up to 39 weeks</time_frame>
+    <description>To determine the survival days post treatment initiation.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory Biomarker Analysis</measure>
+    <time_frame>4.5 months</time_frame>
+    <description>Analysis of potential associations between biomarker measures and anti-tumor activity, immunogenicity, and immune-activation assessments.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Solid Tumor</condition>
+  <condition>Advanced Cancer</condition>
+  <condition>Metastatic Cancer</condition>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>Cutaneous Squamous Cell Carcinoma</condition>
+  <condition>Merkel Cell Carcinoma</condition>
+  <condition>Melanoma</condition>
+  <condition>Pancreatic Cancer</condition>
+  <condition>Triple Negative Breast Cancer</condition>
+  <condition>Head and Neck Cancer</condition>
+  <arm_group>
+    <arm_group_label>MEM-288 Intratumoral Injection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with accessible, subcutaneous, or superficial lymph node lesion ≥ 1 cm3 that is palpable will receive intratumoral injection of MEM-288 once every 3 week (planned 2 doses, maximum 6 doses) at one of three dose cohort levels.&#xD;
+Dose cohort level 1 (1 x 10^10 viral particles)&#xD;
+Dose cohort level 2 (3.3 x 10^10 viral particles)&#xD;
+Dose cohort level 3 (1 x 10^11 viral particles)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MEM-288 Intratumoral Injection</intervention_name>
+    <description>Intratumoral injection of MEM-288, conditionally replicative oncolytic adenovirus vector encoding transgenes for human interferon beta (IFNβ) and a recombinant chimeric form of CD40-ligand (MEM40).</description>
+    <arm_group_label>MEM-288 Intratumoral Injection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Ability to understand and provide informed consent.&#xD;
+&#xD;
+          2. Willingness and ability to comply with scheduled study visits and procedures.&#xD;
+&#xD;
+          3. Adult men or women age ≥ 18 years.&#xD;
+&#xD;
+          4. ECOG performance status of 0 or 1.&#xD;
+&#xD;
+          5. Advanced/metastatic NSCLC, cSCC, Merkel cell, melanoma, TNBC, pancreatic cancer, or&#xD;
+             head and neck cancer.&#xD;
+&#xD;
+          6. Per each tumor type shown below, the specific initial standard of care therapies after&#xD;
+             which the subjects with specific histologies must have progressed have been included.&#xD;
+             Subjects will have been treated with at least one or more than one line of therapy&#xD;
+             prior to enrollment in the study.&#xD;
+&#xD;
+               1. Non-small cell lung cancer (NSCLC)&#xD;
+&#xD;
+                    -  Must have progressed on standard therapy, including platinum-based&#xD;
+                       chemotherapy and checkpoint inhibitor therapy (combined or sequential).&#xD;
+&#xD;
+                    -  Patients with tumors that have known actionable molecular alteration such in&#xD;
+                       EGFR, ALK, ROS-1, BRAF, RET, MET, and KRAS must have progressed on standard&#xD;
+                       directed molecular therapy, and platinum-based chemotherapy.&#xD;
+&#xD;
+               2. Cutaneous squamous-cell carcinoma (cSCC)&#xD;
+&#xD;
+                    -  Must have progressed on standard therapy, including platinum-based&#xD;
+                       chemotherapy and/or checkpoint inhibitor therapy.&#xD;
+&#xD;
+               3. Merkel cell Carcinoma&#xD;
+&#xD;
+                    -  Must have progressed on standard checkpoint inhibitor therapy.&#xD;
+&#xD;
+               4. Melanoma&#xD;
+&#xD;
+                    -  Subjects must have received a BRAF inhibitor as monotherapy or in&#xD;
+                       combination with other targeted agents for BRAF V600E mutant melanoma.&#xD;
+&#xD;
+                    -  Subjects must have received an anti-PD-1/ PD-L1inhibitor as monotherapy or&#xD;
+                       combination with anti-CTLA-4 inhibitor or other therapies.&#xD;
+&#xD;
+               5. Pancreatic cancer&#xD;
+&#xD;
+                    -  Progression after systemic chemotherapy which included either gemcitabine or&#xD;
+                       Fluorouracil (5-FU)-based regimen (including capecitabine).&#xD;
+&#xD;
+               6. Triple negative breast cancer (TNBC)&#xD;
+&#xD;
+                    -  Prior treatment (for advanced, metastatic or (neo)adjuvant) must have&#xD;
+                       included a taxane and/or anthracycline-based therapy.&#xD;
+&#xD;
+               7. Head and Neck Cancer&#xD;
+&#xD;
+                    -  Prior treatment requirement in the metastatic or unresectable locally&#xD;
+                       advanced setting include:&#xD;
+&#xD;
+                    -  Subjects must have received a platinum containing chemotherapy regimen for&#xD;
+                       treatment of primary tumor in locally advanced, or metastatic settings&#xD;
+&#xD;
+                    -  Subjects must have received an anti-PD-1/ PD-L1 as monotherapy or in&#xD;
+                       combination with chemotherapy.&#xD;
+&#xD;
+          7. Progressed following therapy with at least one PD-1 or PD-L1 checkpoint inhibitor&#xD;
+             (regardless of PD-L1 expression status), except for patients with pancreatic cancer.&#xD;
+&#xD;
+             a) Prior progression on a PD-1 or PD-L1 checkpoint inhibitor should be unequivocal;&#xD;
+             progression that occurs within the first 8 weeks of treatment on these agents should&#xD;
+             be confirmed with a second CT at least 4 weeks apart (to exclude pseudo-progression).&#xD;
+&#xD;
+          8. Patients with activating EGFR mutation or ALK rearrangement which is expected to be&#xD;
+             responsive to available tyrosine kinase inhibitor therapy, must have been previously&#xD;
+             treated with an applicable tyrosine kinase inhibitor.&#xD;
+&#xD;
+          9. Tumor lesion which is deemed feasible for biopsy and injection under CT or ultrasound&#xD;
+             guidance (based on size, location, and visibility) by an interventional radiologist,&#xD;
+             and patient willing and able to provide tissue from biopsy of this lesion. Injected&#xD;
+             tumor should be &gt; 1 cm3 in volume and should not encase or be inseparable from vital&#xD;
+             structures such as major nerves or blood vessels.&#xD;
+&#xD;
+             a) For patients treated at the first dose level, the tumor for injection must be an&#xD;
+             accessible cutaneous, subcutaneous, or superficial lymph node lesion that is palpable.&#xD;
+&#xD;
+         10. Measurable disease, as defined per RECIST version 1.1.&#xD;
+&#xD;
+         11. Prior history of brain metastases are eligible, provided:&#xD;
+&#xD;
+               1. Brain metastases have been treated&#xD;
+&#xD;
+               2. Asymptomatic from the brain metastases&#xD;
+&#xD;
+               3. Corticosteroids prescribed for the management of brain metastases have been&#xD;
+                  discontinued at least 7 days before registration to study&#xD;
+&#xD;
+               4. Brain metastases are stable on pre-registration imaging&#xD;
+&#xD;
+               5. No evidence of leptomeningeal disease&#xD;
+&#xD;
+         12. Life expectancy &gt; 3 months.&#xD;
+&#xD;
+         13. Adequate organ and marrow function as defined below:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥1.5 x 109/L&#xD;
+&#xD;
+               2. Hemoglobin ≥90 g/L (or ≥9 g/dL)&#xD;
+&#xD;
+               3. Platelets ≥100 x 109/L&#xD;
+&#xD;
+               4. Calculated creatinine clearance of &gt;50 mL/min using Cockcroft Gault equation&#xD;
+&#xD;
+               5. Total bilirubin ≤ 1.5 x institutional upper limit of normal&#xD;
+&#xD;
+               6. AST (SGOT) and ALT (SGPT) ≤2.5 x institutional upper limit of normal&#xD;
+&#xD;
+               7. If Alkaline Phosphatase ≥ 2.5 x institutional upper limit of normal, then AST and&#xD;
+                  ALT must be ≤ 1.5 x institutional upper limit of normal&#xD;
+&#xD;
+         14. Patients of childbearing age must not be pregnant and must use established&#xD;
+             contraceptive strategies:&#xD;
+&#xD;
+               1. Female subjects of childbearing potential should have a negative urine or serum&#xD;
+                  pregnancy within 72 hours prior to receiving the first dose of study medication.&#xD;
+                  If the urine test is positive or cannot be confirmed as negative, a serum&#xD;
+                  pregnancy test will be required.&#xD;
+&#xD;
+               2. Female subjects of childbearing potential should be willing to use 2 methods of&#xD;
+                  birth control or be surgically sterile, or abstain from heterosexual activity for&#xD;
+                  the course of the study through 120 days after the last dose of study medication.&#xD;
+                  Subjects of childbearing potential are those who have not been surgically&#xD;
+                  sterilized or have not been free from menses for &gt; 1 year.&#xD;
+&#xD;
+               3. Male subjects should agree to use an adequate method of barrier contraception&#xD;
+                  starting with the first dose of study therapy through 120 days after the last&#xD;
+                  dose of study therapy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant or breast feeding.&#xD;
+&#xD;
+          2. Serious uncontrolled medical disorder, psychiatric condition or laboratory&#xD;
+             abnormalities that, in the opinion of the investigator, may increase the risk&#xD;
+             associated with study participation or may interfere with the interpretation of study&#xD;
+             results.&#xD;
+&#xD;
+          3. Major surgery (e.g., intra-thoracic, intra-abdominal or intra-pelvic), or significant&#xD;
+             traumatic injury, within 4 weeks prior to starting study treatment or has not&#xD;
+             recovered from side effects of such procedure. Video-assisted thoracic surgery (VATS)&#xD;
+             and mediastinoscopy are exceptions and patients can receive study treatment ≥1 week&#xD;
+             after these procedures.&#xD;
+&#xD;
+          4. History of clinically significant noninfectious interstitial pneumonitis (i.e.,&#xD;
+             limiting activities of daily living or requiring therapeutic intervention), including&#xD;
+             clinically significant radiation pneumonitis.&#xD;
+&#xD;
+          5. Residual toxicity from prior anticancer therapy of grade 3 or greater (CTCAE v5.0),&#xD;
+             with the exception of alopecia.&#xD;
+&#xD;
+          6. Concurrent use of other anticancer approved or investigational agents.&#xD;
+&#xD;
+          7. Clinically significant, uncontrolled heart disease and/or recent cardiac event (within&#xD;
+             6 months), such as:&#xD;
+&#xD;
+               1. unstable angina within 6 months prior to screening&#xD;
+&#xD;
+               2. myocardial infarction within 6 months prior to screening&#xD;
+&#xD;
+               3. history of documented congestive heart failure (New York Heart Association&#xD;
+                  functional classification III-IV)&#xD;
+&#xD;
+               4. cardiac arrhythmias not controlled with medication&#xD;
+&#xD;
+          8. Active autoimmune disease requiring disease modifying therapy (except vitiligo,&#xD;
+             Grave's, or psoriasis not requiring systemic treatment).&#xD;
+&#xD;
+          9. Any form of active primary or secondary immunodeficiency.&#xD;
+&#xD;
+         10. Receiving ≥10 mg daily prednisone (or equivalent).&#xD;
+&#xD;
+         11. Prior malignancy (except non-melanoma skin cancers, and the following in situ cancers:&#xD;
+             bladder, gastric, colon, cervical/dysplasia endometrial, melanoma, or breast) are&#xD;
+             excluded unless a complete remission was achieved at least 2 years prior to study&#xD;
+             entry AND no additional therapy is required or anticipated to be required during the&#xD;
+             study period.&#xD;
+&#xD;
+         12. Active systemic infections requiring intravenous antibiotics.&#xD;
+&#xD;
+         13. Prior therapy with anti-tumor vaccines or other immune-stimulatory antitumor agents&#xD;
+             (other than anti-PD-1/anti-PD-L1 monoclonal antibody).&#xD;
+&#xD;
+         14. Prisoners or subjects who are involuntarily incarcerated, or who are compulsorily&#xD;
+             detained for treatment of either a psychiatric or physical illness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neal Ready, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke Cancer Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andreas Saltos, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>H. Lee Moffitt Cancer Center and Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark J. Cantwell, PhD</last_name>
+    <phone>858-869-1477</phone>
+    <email>mcantwell@memgenbio.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gregory B. Brown, MD</last_name>
+    <phone>203-940-3742</phone>
+    <email>gbrown@memgenbio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luiziane Guerra-Guevara</last_name>
+      <phone>813-745-7789</phone>
+      <email>Luiziane.Guerra-Guevara@moffitt.org</email>
+    </contact>
+    <investigator>
+      <last_name>Andreas Saltos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Cancer Institute</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Duke Center for Cancer Immunotherapy</last_name>
+      <phone>919-681-6468</phone>
+      <email>CCI-TrialReferrals@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Neal Ready, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>June 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 30, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Merkel Cell</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Memgen, Inc. is committed to responsible data sharing regarding the clinical trials we sponsor. This includes access to anonymized, individual and trial-level data (analysis data sets), as well as other information (e.g., protocols and clinical study reports), as long as the trials are not part of an ongoing or planned regulatory submission.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication. No end date.</ipd_time_frame>
+    <ipd_access_criteria>Anyone who wishes to access the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

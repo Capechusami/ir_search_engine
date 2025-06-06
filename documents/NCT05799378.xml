@@ -1,0 +1,365 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799378</url>
+  </required_header>
+  <id_info>
+    <org_study_id>23-00071</org_study_id>
+    <nct_id>NCT05799378</nct_id>
+  </id_info>
+  <brief_title>Effects of Stopping Hydroxychloroquine in Elderly Lupus Disease</brief_title>
+  <acronym>SHIELD</acronym>
+  <official_title>A Phase III, Randomized, Double-Blind Placebo-Controlled, Non-Inferiority, Multi-Center Study of the Effects of Stopping Hydroxychloroquine in Elderly Lupus Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hydroxychloroquine (HCQ) is a systemic lupus erythematosus (SLE) medication that has been&#xD;
+      very effective in reducing lupus disease activity and keeping patients stable with reduced&#xD;
+      symptoms. Despite a track record of safety with regard to infection compared to traditional&#xD;
+      immunosuppressive agents, the risk of HCQ retinal toxicity escalates with continued use.&#xD;
+      Evaluation using sensitive standard of care approaches suggests nearly a third of patients&#xD;
+      accrue retinal damage. Data are needed to accurately weigh the balance between accumulating&#xD;
+      ocular exposure of HCQ versus the risk of disease flare in a population that may have more&#xD;
+      inactive disease than younger patients. The purpose of this trial is to address the safety of&#xD;
+      withdrawal of HCQ in SLE patients =60 years old. The central hypothesis is that HCQ can be&#xD;
+      safely discontinued in stable/quiescent patients assessed by validated disease activity and&#xD;
+      flare instruments in the context of serologic, cytokine and transcriptomic profiling.&#xD;
+      Patients will be randomized to either the placebo or active arm and followed every 2 months&#xD;
+      for one year to assess disease activity and flares.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">December 21, 2028</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2027</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants who Develop Moderate or Severe Flare based on the Revised SELENA SLEDAI Flare Index (rSFI)</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>Number of participants who experience moderate or severe flares as defined by the rSFI.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who Develop Moderate Flare based on rSFI</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>Number of participants who experience moderate flares as defined by the rSFI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physician Global Assessment (PGA) Score at Month 12</measure>
+    <time_frame>Month 12</time_frame>
+    <description>The Physician Global Assessment (PGA) of treatment response measures the overall response to treatment as assessed by the physician. The score ranges from +4 to (-4), where 4 = Markedly Improved, 0 = No change, and (-4) = markedly worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who Begin Prednisone Treatment</measure>
+    <time_frame>Up to Month 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who Increase Prednisone Use</measure>
+    <time_frame>Up to Month 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who Experience Thromboembolic Event</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>Thromboembolic event includes, but is not limited to, venous thrombosis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who Experience Cardiovascular Event</measure>
+    <time_frame>Up to Month 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with New-Onset Diabetes</measure>
+    <time_frame>Up to Month 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with New Retinal Toxicity</measure>
+    <time_frame>Up to Month 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 36-Item Short Form Survey Instrument (SF-36) Score</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>The SF-36 is 36-item self-rated measure of quality of life. A scoring algorithm is used to convert the raw scores into a range from zero (the respondent has the worst possible health) to 100 where the respondent is in the best possible health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 29-Question Patient-Reported Outcomes Measurement Information System (PROMIS-29) Score</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>PROMIS-29 consists of 29 questions rated on a scale from 1-5. The raw score is converted to a final T-score metric with a mean T-score of 50 and a standard deviation of 10. The final score ranges from 0 (worst possible outcome) to 100 (best possible outcome). The questionnaire assesses seven domains - depression, anxiety, physical function, pain interference, fatigue, sleep disturbance, and ability to participate in social roles and activities.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">330</enrollment>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine (HCQ)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive a 90-day supply of HCQ at their screening visit, at 2 months, 4 months, 6 months, 8 months, and 10 months. All patients will return their current supply along with a completed dosing diary at each visit and receive a new supply in exchange. The HCQ dose administered will match each patient's dosage of HCQ at enrollment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HCQ-Matching Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients will receive a 90-day supply of HCQ-matching placebo at their screening visit, at 2 months, 4 months, 6 months, 8 months, and 10 months. All patients will return their current supply along with a completed dosing diary at each visit and receive a new supply in exchange. The HCQ-matching placebo dose administered will match each patient's dosage of HCQ at enrollment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Hydroxychloroquine 200mg capsules. Administered orally.</description>
+    <arm_group_label>Hydroxychloroquine (HCQ)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Hydroxychloroquine-matching placebo capsule. Administered orally.</description>
+    <arm_group_label>HCQ-Matching Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provision of signed and dated informed consent form&#xD;
+&#xD;
+          -  Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          -  Age ≥ 60 years at time of enrollment&#xD;
+&#xD;
+          -  Normal OCT and VF assessment within 6 months of screening visit&#xD;
+&#xD;
+          -  Ability to take oral medication&#xD;
+&#xD;
+          -  Have established SLE (≥ 4 ACR criteria or SLICC criteria or ≥ 10 points by EULAR&#xD;
+             criteria, SLE diagnosed at least seven years ago)&#xD;
+&#xD;
+          -  Stable disease at screening visit by attaining DORIS remission (meeting all criterion&#xD;
+             listed below) and not on any immunosuppressants.&#xD;
+&#xD;
+               -  Criterion 1: Clinical SLEDAI= 0&#xD;
+&#xD;
+               -  Criterion 2: SELENA-SLEDAI PGA ≤ 0.5 (on a scale from 0-3, where 0 is no disease&#xD;
+                  activity and 3 is maximum disease activity)&#xD;
+&#xD;
+               -  Criterion 3: Current prednisolone (or equivalent corticosteroid) dose ≤ 5 mg&#xD;
+                  daily&#xD;
+&#xD;
+          -  No moderate or severe flares one year prior to screening&#xD;
+&#xD;
+          -  Taking ≥ 200 HCQ daily for ≥ 7 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any patient that does not attain stable disease status by DORIS&#xD;
+&#xD;
+          -  Ophthalmologic evidence of retinopathy (these patients would be advised to discontinue&#xD;
+             HCQ and therefore unethical to randomize for this study)&#xD;
+&#xD;
+          -  Clinical SLEDAI &gt; 0&#xD;
+&#xD;
+          -  Taking &gt; 5 mg/day prednisone&#xD;
+&#xD;
+          -  Taking any immunosuppressive drugs or biological agents (including: methotrexate,&#xD;
+             azathioprine, mycophenolate mofetil, mycophenolic acid, leflunomide, cyclosporine,&#xD;
+             cyclophosphamide, tacrolimus, rituximab, and belimumab)&#xD;
+&#xD;
+          -  Any reason the treating rheumatologist is concerned about ongoing activity not&#xD;
+             captured by SLEDAI&#xD;
+&#xD;
+          -  HCQ level &lt; 100 ng/ml as this would support noncompliance and less reliance on HCQ to&#xD;
+             control activity&#xD;
+&#xD;
+          -  Patient unwilling or unable to comply with study procedures for any reason&#xD;
+&#xD;
+          -  Any indications of potentially diminished capacity, such as a diagnosis of dementia or&#xD;
+             cognitive impairment (including, but not limited to stroke-related cognitive&#xD;
+             impairment)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Izmirly</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jill Buyon</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mala Masson</last_name>
+    <phone>(212) 263-0372</phone>
+    <email>Mala.Masson@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack Meridian Health</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center/Albert Einstein College of Medicine</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA NY Harbor Healthcare System</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYC Health + Hospitals/Bellevue</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center/New York Presbyterian</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma Medical Research Foundation</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State MS Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 23, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>March 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>systemic lupus erythematosus</keyword>
+  <keyword>elderly lupus disease</keyword>
+  <keyword>lupus</keyword>
+  <keyword>sle</keyword>
+  <keyword>plaquenil</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The de-identified participant data from the final research dataset used in the published manuscript will be shared with investigators whose proposed use of the data has been approved by the co-PIs, Dr. Peter M. Izmirly and Dr. Jill P. Buyon, beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: Peter.Izmirly@nyulangone.org and Jill.Buyon@nyulangone.org. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research. A copy of an informed consent form will also be made available.</ipd_description>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>Investigators whose proposed use of the data has been approved by co-PIs, Dr. Peter M. Izmirly and Dr. Jill P. Buyon, will be granted access to the data to achieve aims outlined in the approved proposal. Requests should be directed to Peter.Izmirly@nyulangone.org and Jill.Buyon@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

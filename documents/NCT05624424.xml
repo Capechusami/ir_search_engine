@@ -1,0 +1,380 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-EA-2</org_study_id>
+    <nct_id>NCT05624424</nct_id>
+  </id_info>
+  <brief_title>Effect of Rematazolam Besylate, Propofol, and Sevoflurane Perioperative Sedation on Incidence of Emergence Agitation and Hemodynamics in Patients Undergoing Laparoscopic Abdominal Surgery</brief_title>
+  <official_title>Effect of Rematazolam Besylate, Propofol, and Sevoflurane Perioperative Sedation on Incidence of Emergence Agitation and Hemodynamics in Patients Undergoing Laparoscopic Abdominal Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital of Nanchang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yichang Humanwell Pharmaceutical Co., Ltd., China</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Second Affiliated Hospital of Nanchang University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Emergence agitation (EA) is a transient, self-limited, non-fluctuating state of psychomotor&#xD;
+      excitement, which closely revolves around the emergence of general anesthesia. Uncontrolled&#xD;
+      EA during the recovery period increases the potential risk of injury to patients and medical&#xD;
+      staff, resulting in varying degrees of adverse consequences, such as elevated blood pressure,&#xD;
+      incision rupture, bleeding, cardio-cerebrovascular accidents and so on, leading to a great&#xD;
+      waste of resources.&#xD;
+&#xD;
+      Accumulating scientific evidence indicates that the incidence of EA is related to the use of&#xD;
+      perioperative sedative drugs. As a novel ultra-short-acting benzodiazepines drugs,&#xD;
+      Remimazolam has been accepted for induction and maintenance of clinical anesthesia. Compared&#xD;
+      to traditional benzodiazepines drugs, Remimazolam combines the safety of midazolam with the&#xD;
+      effectiveness of propofol, and also has the advantages of acting quickly, short half-life, no&#xD;
+      injection pain, slight respiratory depression, independent of liver and kidney metabolism,&#xD;
+      long-term infusion without accumulation, and has a specific antagonist: flumazenil. This&#xD;
+      study aims to investigate whether perioperative sedation of Remimazolam besylate, propofol,&#xD;
+      and sevoflurane have different effects on the incidence of emergence agitation and&#xD;
+      hemodynamics in patients undergoing laparoscopic abdominal surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2022</start_date>
+  <completion_date type="Anticipated">October 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a RCTs.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Care provider and investigator (anesthesiologist) cannot be blinded for different appearance of remimazolam, propofol and sevoflurane.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidence of emergence agitation</measure>
+    <time_frame>Duration from the time patients awakening to the time of departure from post-anesthesia care unit (PACU), average 1 hour.</time_frame>
+    <description>The Riker Sedation-Agitation Scale (RSAS) score ≥ 5 points indicates the presence of emergence agitation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of emergence agitation</measure>
+    <time_frame>Duration from the time patients awakening to the time of departure from PACU, average 1 hour.</time_frame>
+    <description>The Richmond Agitation-Sedation Scale (RASS) ≥ +1 points indicates the presence of emergence agitation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Systolic pressure</measure>
+    <time_frame>&quot;30 minutes before intubation&quot;, &quot;immediately after intubation&quot;, &quot;every 5 minutes after intubation until the patient leaves the post-anesthesia care unit, in about six hours&quot;, &quot; mornings and afternoons on the 1st, 3rd and 7th day after operation&quot;.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diastolic pressure</measure>
+    <time_frame>&quot;30 minutes before intubation&quot;, &quot;immediately after intubation&quot;, &quot;every 5 minutes after intubation until the patient leaves the post-anesthesia care unit, in about six hours&quot;, &quot; mornings and afternoons on the 1st, 3rd and 7th day after operation&quot;.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean pressure</measure>
+    <time_frame>&quot;30 minutes before intubation&quot;, &quot;immediately after intubation&quot;, &quot;every 5 minutes after intubation until the patient leaves the post-anesthesia care unit, in about six hours&quot;, &quot; mornings and afternoons on the 1st, 3rd and 7th day after operation&quot;.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>&quot;30 minutes before intubation&quot;, &quot;immediately after intubation&quot;, &quot;every 5 minutes after intubation until the patient leaves the post-anesthesia care unit, in about six hours&quot;, &quot; mornings and afternoons on the 1st, 3rd and 7th day after operation&quot;.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Recovery times</measure>
+    <time_frame>Duration from the time patients awakening to the time of departure from PACU, average 1 hour.</time_frame>
+    <description>Recovery times is defined as the period from discontinuation of anesthetic drugs to the recovery of the patient's self-consciousness and can respond correctly to external stimuli.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delayed emergence</measure>
+    <time_frame>Duration from the time patients awakening to the time of departure from PACU, average 1 hour.</time_frame>
+    <description>Delayed emergence is defined as failure to shake hands and no significant response to nociceptive stimuli more than 30 minutes after surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of postoperative delirium</measure>
+    <time_frame>Record in the mornings on the 1st, 3rd and 7th day after operation.</time_frame>
+    <description>The incidence of postoperative delirium was assessed using CAM Scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative Pain</measure>
+    <time_frame>Record in the mornings on the 1st, 3rd and 7th day after operation.</time_frame>
+    <description>The Numericrating scale (NRS) is grouped from 0 to 10. The degree of pain increased directly with the score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complication</measure>
+    <time_frame>During the perioperative period, up to 1 week.</time_frame>
+    <description>All the perioperative complications are recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization time</measure>
+    <time_frame>After the patient is discharged from the hospital, average 1 week.</time_frame>
+    <description>The length of hospital stay is recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital expenses</measure>
+    <time_frame>After the patient is discharged from the hospital, average 1 week.</time_frame>
+    <description>Hospitalization costs include total hospitalization costs and anesthesia costs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30-day all-cause mortality</measure>
+    <time_frame>30 days after surgery</time_frame>
+    <description>30-day all-cause mortality is recorded.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1317</enrollment>
+  <condition>Emergence Agitation</condition>
+  <condition>Remimazolam Besylate</condition>
+  <condition>Perioperative Sedation</condition>
+  <condition>Laparoscopic Abdominal Surgery</condition>
+  <condition>Anesthesia, General</condition>
+  <arm_group>
+    <arm_group_label>Remimazolam Besylate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Induction of anesthesia Slowly inject Remimazolam Besylate 0.3~0.5 mg/kg (about 1 minute) until loss of consciousness (LoC) and BIS&lt;60, if the degree of sedation is insufficient, additional Remimazolam Besylate (0.05 mg/kg each time) is allowed. After the LoC, sufentanil 0.3~0.5 ug/kg and cisatracurium besilate 0.2-0.3 mg/kg are injected intravenously. After the muscles are sufficiently relaxed and blood circulation is stable, the tracheal tube is inserted under a glide scope.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Propofol</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Induction of anesthesia Slowly inject Propofol 2~2.5 mg/kg (about 1 minute) until loss of consciousness (LoC) and BIS&lt;60, if the degree of sedation is insufficient, additional Propofol (0.5 mg/kg each time) is allowed. After the LoC, sufentanil 0.3~0.5 ug/kg and cisatracurium besilate 0.2-0.3 mg/kg are injected intravenously. After the muscles are sufficiently relaxed and blood circulation is stable, the tracheal tube is inserted under a glide scope.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sevoflurane</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Induction of anesthesia Slowly inject Etomidate 0.03 mg/kg (about 1 minute) until loss of consciousness (LoC) and BIS&lt;60, if the degree of sedation is insufficient, additional etomidate (0.03 mg/kg each time) is allowed. After the LoC, sufentanil 0.3~0.5 ug/kg and cisatracurium besilate 0.2-0.3 mg/kg are injected intravenously. After the muscles are sufficiently relaxed and blood circulation is stable, the tracheal tube is inserted under a glide scope.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rematazolam Besylate</intervention_name>
+    <description>Anesthesia was induced with Rematazolam Besylate 0.3~0.5 mg/kg (about 1 minute) by intravenous injection until the loss of consciousness (LoC) and BIS&lt;60, followed by remimazolam 1-3 mg/kg/h until the end of surgery.</description>
+    <arm_group_label>Remimazolam Besylate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Propofol</intervention_name>
+    <description>Anesthesia was induced with Propofol 2~2.5 mg/kg (about 1 minute) by intravenous injection until the loss of consciousness (LoC) and BIS&lt;60, followed by remimazolam 5~12 mg/kg/h until the end of surgery.</description>
+    <arm_group_label>Propofol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sevoflurane</intervention_name>
+    <description>Anesthesia was induced with etomidate 0.03 mg/kg (about 1 minute) by intravenous injection until the loss of consciousness (LoC) and BIS&lt;60, followed by 2 %-3 % Sevoflorane until the end of surgery.</description>
+    <arm_group_label>Sevoflurane</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sufentanil</intervention_name>
+    <description>Anesthesia was induced with Sufentanil 0.3~0.5 ug/kg by intravenous injection after the LoC and BIS&lt;60.</description>
+    <arm_group_label>Propofol</arm_group_label>
+    <arm_group_label>Remimazolam Besylate</arm_group_label>
+    <arm_group_label>Sevoflurane</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisatracurium Besylate</intervention_name>
+    <description>Anesthesia was induced with cisatracurium besilate 0.2-0.3 mg/kg by intravenous injection after the LoC and BIS&lt;60, followed by 0.1 mg/kg/h Cisatracurium Besylate during the operation.</description>
+    <arm_group_label>Propofol</arm_group_label>
+    <arm_group_label>Remimazolam Besylate</arm_group_label>
+    <arm_group_label>Sevoflurane</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remifentanil</intervention_name>
+    <description>After the LoC, remifentanil 0.1~0.3 ug/kg/min inject intravenously until the end of surgery.</description>
+    <arm_group_label>Propofol</arm_group_label>
+    <arm_group_label>Remimazolam Besylate</arm_group_label>
+    <arm_group_label>Sevoflurane</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1 Aged 18-65 years, sex was not limited;&#xD;
+&#xD;
+          -  2 BMI 18-30kg/m2;&#xD;
+&#xD;
+          -  3 Patients were scheduled for elective laparoscopic abdominal surgery under general&#xD;
+             anesthesia, the operation time 2h~4h;&#xD;
+&#xD;
+          -  4 ASA Ⅰ-III;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1 Relative contraindications to general anesthesia: Patients with severe heart and&#xD;
+             lung disease, severe infection, uncontrolled hypertension, diabetes, and severe&#xD;
+             diabetic complications;&#xD;
+&#xD;
+          -  2 Abnormal renal and liver function: AST or ALT≥2.5×ULN, TBIL≥1.5×ULN, Serum&#xD;
+             creatinine concentration (SCC)≥1.5×ULN;&#xD;
+&#xD;
+          -  3 People with a history of mental illness or long-term use of psychotropic drugs&#xD;
+             (dementia, schizophrenia), chronic analgesic drug use, alcoholism, and cognitive&#xD;
+             impairment;&#xD;
+&#xD;
+          -  4 Any cardiovascular or cerebrovascular accidents occurred within 3 months, such as&#xD;
+             myocardial infarction, stroke, transient ischemic attack;&#xD;
+&#xD;
+          -  5 Female pregnant patients;&#xD;
+&#xD;
+          -  6 Patients undergoing hepatobiliary surgery;&#xD;
+&#xD;
+          -  7 Allergy to the experimental drug;&#xD;
+&#xD;
+          -  8 Unable to cooperate to complete the test, the patient or family member rejected the&#xD;
+             participant;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Fuzhou Hua, professor</last_name>
+    <phone>+8615170238929</phone>
+    <email>huafuzhou@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yang Fang</last_name>
+    <phone>+8618370985324</phone>
+    <email>ndfangyang@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>People's Hospital of Ganzhou</name>
+      <address>
+        <city>Ganzhou</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Guiming Huang, professor</last_name>
+      <phone>+8615907977699</phone>
+      <email>liyouchun2007@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>the First Affiliated Hospital of Gannan Medical College, Gannan Medical College</name>
+      <address>
+        <city>Ganzhou</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maolin Zhong, professor</last_name>
+      <phone>+8613607978802</phone>
+      <email>zml8802@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First People's Hospital of JiuJiang</name>
+      <address>
+        <city>Jiujiang</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shenghong Zhong, professor</last_name>
+      <phone>+8613607926616</phone>
+      <email>jjmazui@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>the Second Affiliated Hospital of Nanchang University, Nanchang University</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Fuzhou Hua, professor</last_name>
+      <phone>+8615170238929</phone>
+      <email>huafuzhou@126.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tumor Hospital of Jiangxi Province</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Huaping Xiao, professor</last_name>
+      <phone>+8613507082466</phone>
+      <email>463568985@qq.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shangrao People's Hospital</name>
+      <address>
+        <city>Shangrao</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Guoxiong Lin, professor</last_name>
+      <phone>+8613707033801</phone>
+      <email>lgxmaz@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>November 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Second Affiliated Hospital of Nanchang University</investigator_affiliation>
+    <investigator_full_name>Fuzhou Hua</investigator_full_name>
+    <investigator_title>Chief Physician</investigator_title>
+  </responsible_party>
+  <keyword>Emergence Agitation</keyword>
+  <keyword>Remimazolam Besylate</keyword>
+  <keyword>Propofol</keyword>
+  <keyword>Sevoflurane</keyword>
+  <keyword>Laparoscopic Abdominal Surgery</keyword>
+  <keyword>Perioperative Sedation</keyword>
+  <keyword>Anesthesia, General</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Psychomotor Agitation</mesh_term>
+    <mesh_term>Emergence Delirium</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sufentanil</mesh_term>
+    <mesh_term>Remifentanil</mesh_term>
+    <mesh_term>Propofol</mesh_term>
+    <mesh_term>Sevoflurane</mesh_term>
+    <mesh_term>Cisatracurium</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

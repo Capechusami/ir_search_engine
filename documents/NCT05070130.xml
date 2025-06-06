@@ -1,0 +1,264 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05070130</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRIME CLASS</org_study_id>
+    <nct_id>NCT05070130</nct_id>
+  </id_info>
+  <brief_title>OpSens PRIME CLASS</brief_title>
+  <official_title>OpSens dPR for Physiological Assessment of Intermediate Coronary Lesions in Aortic Stenosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Opsens, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Opsens, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study it is aimed to determine the diagnostic value of physiological measurements in&#xD;
+      the presence of aortic stenosis, and whether these are more accurate than angiographic&#xD;
+      assessment. Post-TAVR FFR will be taken as the reference for predicting ischemic lesions, and&#xD;
+      angiography and physiology - FFR and diastolic pressure ratio (dPR) - will be performed&#xD;
+      immediately before and after TAVR, in an all-comer multicentric observational study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a post-marketing, prospective, observational, single arm, multi-center, single&#xD;
+      country study in Subjects who have severe symptomatic aortic stenosis with a formal&#xD;
+      indication for TAVR, and one or more intermediate coronary lesions in a relevant coronary&#xD;
+      artery (&gt;2mm). This study aims to assess if OpSens non-hyperemic dPR (based on a proprietary&#xD;
+      algorithm) and/or OpSens FFR are suitable methods for the physiological assessment and&#xD;
+      prediction of ischemic coronary lesions in Subjects with aortic stenosis who are considered&#xD;
+      for TAVR. This will be done by comparing pre-TAVR measurements of angiography, dPR and FFR&#xD;
+      and placing them against the post-TAVR FFR, which is considered as the gold standard. Also&#xD;
+      the post TAVR dPR will be compared with post-TAVR FFR.&#xD;
+&#xD;
+      A maximum of 137 subjects will be enrolled in 5 to 10 sites in Spain to obtain the required&#xD;
+      minimum of 137 lesions (see section 11.2 Sample Size Determination) The main hypothesis is&#xD;
+      that the specificity to predict ischemic lesions in TAVR candidates based on a pre-TAVR dPR ≤&#xD;
+      0.89 is superior compared to the specificity based on angiography alone (both QCA and visual&#xD;
+      assessment of the stenosis &gt;50%), taking the post-TAVR FFR value of ≤ 0.80 as a reference for&#xD;
+      positive lesions.&#xD;
+&#xD;
+      The pressure guidewire used to measure dPR and FFR during diagnostic angiography is the&#xD;
+      commercially available (CE-marketed) OptoWire family of pressure guidewires from OpSens Inc.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Slow enrollment&#xD;
+  </why_stopped>
+  <start_date type="Actual">September 19, 2022</start_date>
+  <completion_date type="Actual">April 4, 2023</completion_date>
+  <primary_completion_date type="Actual">March 15, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference between preTAVR dPR specificity and angiography specificity for ischemia</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>The difference between PreTAVR dPR specificity (%) - angiography specificity (%), taking post-TAVR FFR as the reference measure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Diagnostic accuracy</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>Establish sufficiently precise estimates (+/- 6.5% around estimate) for the diagnostic accuracy of pre-TAVR dPR expressed in terms of sensitivity and specificity, taking as the reference for ischemia the post-TAVR FFR</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference in accuracy between dPR and angiography</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>The difference between the percentage of lesions correctly classified by preTAVR dPR and the percentage of lesions correctly classified by angiography, always taking postTAVR FFR as the reference measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in sensitivity between dPR and angiography</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>The difference between the sensitivity of preTAVR dPR and the sensitivity of angiography, where:&#xD;
+preTAVR sensitivity= preTAVR True positive/ (preTAVR true positive+ preTAVR false negative) * 100&#xD;
+angiography sensitivity= angiography True positive/ (angiography true positive+ angiography false negative) * 100,&#xD;
+taking post-TAVR FFR as the reference measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Predicting post-TAVR FFR by pre-TAVR FFR</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>Overall diagnostic accuracy of preTAVR FFR, defined as the percentage of lesions correctly classified by pre-TAVR FFR, taking postTAVR FFR as the reference measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in accuracy between preTAVR dPR and preTAVR FFR</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>The difference in the overall diagnostic accuracy of pre-TAVR dPR and pre-TAVR FFR to predict a post-TAVR FFR ≤ 0.80</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Predicting post-TAVR FFR by pre-TAVR hybrid dPR-FFR</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>Overall diagnostic accuracyof a pre-TAVR hybrid dPR-FFR based approach to predict a post-TAVR FFR ≤ 0.80</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Success rate</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>The success rate of the dPR &amp; FFR procedure, defined as the percentage of cases in which dPR and FFR could be measured, and no procedural complications occurred</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Freedom from adenosine administration</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>The percentage of Subjects who can be spared the administration of adenosine by a hybrid dPR-FFR strategy, while maintaining an overall diagnostic accuracy ≥ 90%</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of concordance and mean difference between pre- and post-TAVR dPR</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>Percentage of concordance and mean difference between pre- and post-TAVR dPR</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of concordance and mean difference between pre- and post-TAVR FFR</measure>
+    <time_frame>Immediately upon completion of the TAVR procedure</time_frame>
+    <description>Percentage of concordance and mean difference between pre- and post-TAVR FFR</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">32</enrollment>
+  <condition>Aortic Stenosis</condition>
+  <arm_group>
+    <arm_group_label>dPR and FFR</arm_group_label>
+    <description>Subjects with aortic stenosis who are considered for TAVR will undergo a physiological assessment and prediction of ischemic coronary lesions pre- and post-TAVR by using Opsens non-hyperemic dPR and/or Opsens FFR</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>dPR and FFR</intervention_name>
+    <description>OpSens non-hyperemic dPR and/or OpSens FFR</description>
+    <arm_group_label>dPR and FFR</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects who have severe symptomatic aortic stenosis with a formal indication for TAVR, and&#xD;
+        one or more intermediate coronary lesions in a relevant coronary artery (&gt;2mm) are&#xD;
+        considered for this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject is at least 18 years old&#xD;
+&#xD;
+          -  Subject has a degenerative aortic stenosis with mean valvular gradient ≥40 mmHg&#xD;
+&#xD;
+          -  Subject has a formal heart-team indication for TAVR&#xD;
+&#xD;
+          -  Subject has one or more stable coronary stenosis lesions 30-90% by visual estimation,&#xD;
+             in a vessel over 2 mm in diameter, and which is amenable for pressure-wire analysis&#xD;
+&#xD;
+          -  Subject agrees to participate in the study and is able to sign the informed consent&#xD;
+             form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject is unable to provide informed consent&#xD;
+&#xD;
+          -  Subject has asthma or acute bronchospasm&#xD;
+&#xD;
+          -  Subject has unstable angina or myocardial infarction&#xD;
+&#xD;
+          -  Subject meets any contraindication in the applicable OptoWire IFU&#xD;
+&#xD;
+          -  Subject is pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Enrique Gutierrez Ibanes, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Gregoio Maranon</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Gregorio Maranon</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen de la Victoria</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29110</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico de Santiago</name>
+      <address>
+        <city>Santiago De Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario de Valladolid</name>
+      <address>
+        <city>Valladolid</city>
+        <zip>47011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>April 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Fractional flow reserve</keyword>
+  <keyword>Diastolic pressure ratio</keyword>
+  <keyword>Transcatheter aortic valve replacement</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aortic Valve Stenosis</mesh_term>
+    <mesh_term>Constriction, Pathologic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

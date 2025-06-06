@@ -1,0 +1,292 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627310</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AIAD202204</org_study_id>
+    <nct_id>NCT05627310</nct_id>
+  </id_info>
+  <brief_title>Development and Validation of a Deep Learning System for Nasopharyngeal Carcinoma Using Endoscopic Images</brief_title>
+  <official_title>Development and Validation of a Deep Learning System for Nasopharyngeal Carcinoma Using Endoscopic Images: a Multi-center Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eye &amp; ENT Hospital of Fudan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Xiangya Hospital of Central South University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First Affiliated Hospital of Nanchang University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fujian Medical University Union Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Quan Zhou First Affiliated Hospital of Fujian Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>First Affiliated Hospital of Guangxi Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The People' s Hospital of Guangxi Zhuang Autonomous Region</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The People' s Hospital of Jiangmen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eye &amp; ENT Hospital of Fudan University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Develop a deep learning algorithm via nasal endoscopic images from eight NPC treatment&#xD;
+      centerto detect and screen nasopharyngeal carcinoma(NPC).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Nasopharyngeal carcinoma (NPC) is an epithelial cancer derived from nasopharyngeal mucosa.&#xD;
+      Nasal endoscopy is the conventional examination for NPC screening. It is a major challenge&#xD;
+      for inexperienced endoscopists to accurately distinguish NPC and other benign dieseases. In&#xD;
+      this study, we collcet multi-center endoscopic images and train a deep learning model to&#xD;
+      detect NPC and indicate tumor location. Then, the model perfomance will be compared with&#xD;
+      endoscopists and be tested prospectively with external dataset.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under the receiver operating characteristic curve of the deep learning algorithm</measure>
+    <time_frame>baseline</time_frame>
+    <description>The investigators will calculate the area under the receiver operating characteristic curve of deep learning algorithm and compare this index between deep learning system and human doctors.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of the deep learning system</measure>
+    <time_frame>baseline</time_frame>
+    <description>The investigators will calculate the sensitivity of deep learning algorithm and compare this index between deep learning system and human doctors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity of the deep learning system</measure>
+    <time_frame>baseline</time_frame>
+    <description>The investigators will calculate the specificity of deep learning algorithm and compare this index between deep learning system and human doctors.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">50000</enrollment>
+  <condition>Nasopharyngeal Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Training Cohort</arm_group_label>
+    <description>Nasopharyngeal endoscopic images collected from 8 hospitals all over China</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation Cohort</arm_group_label>
+    <description>Nasopharyngeal endoscopic images collected from 8 hospitals all over China</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Testing Cohort</arm_group_label>
+    <description>Nasopharyngeal endoscopic images prospectively collected from 8 hospitals all over China</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diagnostic</intervention_name>
+    <description>Training dataset was used to train the deep learning model, which was validated and tested by external dataset.</description>
+    <arm_group_label>Testing Cohort</arm_group_label>
+    <arm_group_label>Validation Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Nasopharyngeal endoscopic images were collected from 8 hospital in NPC epidemic area all&#xD;
+        over China.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The quality of endoscopic images should clinical acceptable.&#xD;
+&#xD;
+          -  Patients were diagnosed with biopsy(NPC, benign hyperplasia). Control corhort(normal&#xD;
+             nasopharynx) don't require bispsy result.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  images with spots from lens flares or stains, and overexposure were excluded from&#xD;
+             further analysis.&#xD;
+&#xD;
+          -  image can not expose most part of lesion clearly.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hongmeng Yu, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Eye&amp;ENT Hospital, Fudan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yu-Xuan Shi, MD PhD</last_name>
+    <phone>+8618952373378</phone>
+    <email>syxent@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fujian Medical University Union Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>De-Sheng Wang, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quan Zhou First Affiliated Hospital of Fujian Medical University</name>
+      <address>
+        <city>Quanzhou</city>
+        <state>Fujian</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jun Liao, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The People' s Hospital of Jiangmen</name>
+      <address>
+        <city>Jiangmen</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ming-Zhang Chang, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>First Affiliated Hospital of Guangxi Medical University</name>
+      <address>
+        <city>Nanning</city>
+        <state>Guangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jie-En Li, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The People' s Hospital of Guangxi Zhuang Autonomous Region</name>
+      <address>
+        <city>Nanning</city>
+        <state>Guangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shen-Hong Qu, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Xiangya Hospital of Central South University</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wei-Hong Jiang, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Nanchang University</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jing Ye, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Eye&amp;ENT Hospital of Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yu-Xuan Shi, MD PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>July 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>November 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nasopharyngeal carcinoma</keyword>
+  <keyword>deep learning</keyword>
+  <keyword>tumor screening</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Nasopharyngeal Carcinoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

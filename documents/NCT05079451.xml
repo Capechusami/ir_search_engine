@@ -1,0 +1,418 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079451</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A5364</org_study_id>
+    <secondary_id>37546</secondary_id>
+    <nct_id>NCT05079451</nct_id>
+  </id_info>
+  <brief_title>Broadly Neutralizing Antibodies 3BNC117-LS &amp; 10-1074-LS to Prevent Relapse During ATI</brief_title>
+  <official_title>A Phase I, Open-Label Study of the Safety and Ability of Broadly Neutralizing Antibodies 3BNC117-LS and 10-1074-LS in Combination to Durably Prevent Viral Relapse During a Monitored Analytical Treatment Interruption</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Rockefeller University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Participants will receive an infusion of both study drugs (3BNC117-LS and 10-1074-LS) and&#xD;
+      will discontinue antiretroviral therapy (which is the treatment for HIV) two days later.&#xD;
+      Participants will receive a second dose of the first study drug (3BNC117-LS) at week 12 if&#xD;
+      the HIV infection is maintained and participants remain off of antiretroviral therapy. The&#xD;
+      study hypothesizes that intravenous infusions (which means medication is delivered directly&#xD;
+      into a participant's vein) of the combination of study drugs will be safe and well tolerated,&#xD;
+      will maintain control of the HIV infection without antiretroviral therapy, and may be&#xD;
+      associated with a decrease in HIV found in cells that were previously infected with HIV but&#xD;
+      not actively producing HIV in the body.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    Screening and enrollment into the A5364 study has been temporarily suspended.&#xD;
+  </why_stopped>
+  <start_date type="Anticipated">June 30, 2023</start_date>
+  <completion_date type="Anticipated">February 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Open-label, single-arm, multi-step study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of Grade ≥3 systemic AE related to combination of 3BNC117-LS and 10-1074-LS or premature study treatment discontinuation due to an AE (regardless of grade) that is related to combination of 3BNC117-LS and 10-1074-LS.</measure>
+    <time_frame>72 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viral rebound defined as confirmed HIV-1 RNA &gt;200 copies/mL at or prior to week 24 of ART discontinuation.</measure>
+    <time_frame>24 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Actual body exposure to drug after administration of a dose of the drug (known as the &quot;Area under the curve (AUC)&quot;) of weeks 0-24 for 3BNC117-LS and 10-1074-LS.</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Actual body exposure to drug after administration of a dose of the drug (known as the &quot;Area under the curve (AUC)&quot;) of weeks 0-infinity for 3BNC117-LS and 10-1074-LS.</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of induced anti-study drug antibodies (ADA).</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD4+ cell counts (cells/mm3) through entire study follow-up.</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral suppression (defined as plasma HIV-1 RNA levels &lt;50 copies/mL) at and prior to week 24 after ART discontinuation</measure>
+    <time_frame>24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral rebound defined as confirmed HIV-1 RNA&gt;200 copies/mL by week 12 and through Step 2.</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of participants who maintain off ART and do not meet ART resumption criteria by study week.</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of participants who resume ART based virologic or immunologic criteria (i.e. viral load, CD4 cell, or development of severe acute retroviral syndrome).</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentration of 3BNC117-LS and 10-1074-LS at the time of viral rebound.</measure>
+    <time_frame>72 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>HIV Infections</condition>
+  <arm_group>
+    <arm_group_label>Study Participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive an infusion of both study drugs (3BNC117-LS and 10-1074-LS) and will then discontinue antiretroviral therapy two days later.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>3BNC117-LS</intervention_name>
+    <description>3BNC117-LS will be administered by intravenous infusion (directly into the participants vein) over a period of 30 to 60 minutes. The total time needed to administer the study drug may be longer, based on factors such as participant tolerance. The participant's dose will be calculated using their most current weight on record.</description>
+    <arm_group_label>Study Participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>10-1074-LS</intervention_name>
+    <description>10-1074-LS will be administered by intravenous infusion (directly into the participants vein) over a period of 30 to 60 minutes. The total time needed to administer the study drug may be longer, based on factors such as participant tolerance. The participant's dose will be calculated using their most current weight on record.</description>
+    <arm_group_label>Study Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Step 0 Inclusion Criteria:&#xD;
+&#xD;
+          1. Ability and willingness of participant to provide informed consent to enter the&#xD;
+             Screening and Pre-Entry segment of the study.&#xD;
+&#xD;
+          2. Individuals age ≥18 to ≤70 years.&#xD;
+&#xD;
+          3. Weight greater than or equal to 50 kg (110 pounds) and less than or equal to 115 kg&#xD;
+             (253.5 pounds).&#xD;
+&#xD;
+          4. Documented HIV-1 infection.&#xD;
+&#xD;
+          5. For participants who can become pregnant, a negative pregnancy test at Screening must&#xD;
+             be obtained.&#xD;
+&#xD;
+          6. For participants who can become pregnant, participant must agree to use two methods of&#xD;
+             contraception.&#xD;
+&#xD;
+          7. Participants who can impregnate a partner and who are engaging in sexual activity that&#xD;
+             could lead to pregnancy must agree to use condoms from 10 days prior to the first dose&#xD;
+             of study drugs, while receiving the study drugs, and for 12 months after the last dose&#xD;
+             of study drug to avoid impregnating a partner who can get pregnant.&#xD;
+&#xD;
+          8. Willingness to use barrier protection (male or female) during sexual activity.&#xD;
+&#xD;
+        Step 0 Exclusion Criteria:&#xD;
+&#xD;
+        1. Currently breastfeeding or pregnancy.&#xD;
+&#xD;
+        Step 1 Inclusion Criteria:&#xD;
+&#xD;
+          1. On stable suppressive Antiretroviral Therapy (ART) for at least 48 weeks prior to Step&#xD;
+             1 study entry with no interruption of ART for 7 consecutive days or longer in the 48&#xD;
+             weeks prior to entry in Step 1.&#xD;
+&#xD;
+          2. If on an NNRTI-based regimen, willing to switch to an integrase inhibitor-based&#xD;
+             regimen at least 4 weeks prior to discontinuing ART.&#xD;
+&#xD;
+          3. CD4+ cell count &gt;450 cells/µL obtained within 90 days prior to study Step 1 entry at&#xD;
+             any US laboratory that has a Clinical Laboratory Improvement Amendments (CLIA)&#xD;
+             certification or its equivalent.&#xD;
+&#xD;
+          4. CD4+ cell % ≥15% obtained within 90 days prior to study Step 1 entry at any US&#xD;
+             laboratory that has a Clinical Laboratory Improvement Amendments (CLIA) certification&#xD;
+             or its equivalent.&#xD;
+&#xD;
+          5. Nadir CD4+ cell count ≥200 cells/µL. (NOTE: If documentation is not available, then&#xD;
+             participant recall is acceptable.)&#xD;
+&#xD;
+          6. Plasma HIV-1 RNA levels of &lt;50 copies/mL for at least 48 weeks prior to Step 1 entry&#xD;
+             at any US laboratory that has a Clinical Laboratory Improvement Amendments (CLIA)&#xD;
+             certification or its equivalent (NOTE: At least two viral load measurements within 48&#xD;
+             weeks prior to the Step 0 screening visit must be available for review. A single&#xD;
+             plasma HIV-1 RNA &gt;50 copies/mL but &lt;200 copies/mL that is followed by an HIV-1 RNA &lt;50&#xD;
+             copies/mL is permitted.)&#xD;
+&#xD;
+          7. 3BNC117-LS IC90 less than 1 mcg/mL and MPI &gt;98% in PBMCs or plasma with the Monogram&#xD;
+             PhenoSense assay. (NOTE: Monogram PhenoSense assay obtained for eligibility to other&#xD;
+             clinical trials may be used for eligibility.)&#xD;
+&#xD;
+          8. 10-1074-LS IC90 less than 1 mcg/mL and MPI &gt;98% in PBMCs or plasma with the Monogram&#xD;
+             PhenoSense assay. (NOTE: Monogram PhenoSense assay obtained for eligibility to other&#xD;
+             clinical trials may be used for eligibility.)&#xD;
+&#xD;
+          9. The following laboratory values obtained within 90 days prior to Step 1 entry by any&#xD;
+             US laboratory that has a CLIA certification or its equivalent:&#xD;
+&#xD;
+               1. absolute neutrophil count (ANC) ˃1,000/mm3&#xD;
+&#xD;
+               2. hemoglobin &gt;10 g/dL&#xD;
+&#xD;
+               3. platelet count ˃100,000/mm3&#xD;
+&#xD;
+               4. eGFR ≥60 mL/min/1.73m2&#xD;
+&#xD;
+               5. AST (SGOT), ALT (SGPT), and total bilirubin &lt;1.5 x ULN&#xD;
+&#xD;
+               6. alkaline phosphatase less than 1.5 x ULN&#xD;
+&#xD;
+         10. Completion of pre-entry leukapheresis with documentation of at least 1 billion cells&#xD;
+             of stored PBMC (e.g., ≥20 aliquots of 50,000,000 PBMC). Sites must receive&#xD;
+             confirmation from the processing lab via phone, email, or fax that specimens have been&#xD;
+             entered into the ACTG's Laboratory Data Management System (LDMS).&#xD;
+&#xD;
+         11. For participants who can become pregnant, a negative pregnancy test at Screening must&#xD;
+             be obtained.&#xD;
+&#xD;
+        Step 1 Exclusion Criteria:&#xD;
+&#xD;
+          1. History of AIDS-defining illness within 36 months prior to study Step 1 entry&#xD;
+&#xD;
+          2. Any clinically significant acute or chronic medical condition (such as autoimmune&#xD;
+             diseases or active tuberculosis), other than HIV infection, that in the opinion of the&#xD;
+             investigator would preclude participation.&#xD;
+&#xD;
+          3. Any history of an HIV-associated malignancy, including Kaposi's sarcoma, or any type&#xD;
+             of lymphoma or virus-associated cancers.&#xD;
+&#xD;
+          4. History of Progressive Multifocal Leukoencephalopathy (PML).&#xD;
+&#xD;
+          5. Active or recent non-HIV-associated malignancy requiring systemic chemotherapy or&#xD;
+             surgery within 36 months prior to Step 1 study entry or for whom such therapies are&#xD;
+             expected in the subsequent 12 months. (NOTE: Minor surgical removal of localized skin&#xD;
+             cancers (squamous cell carcinoma, basal cell carcinoma) is not exclusionary.)&#xD;
+&#xD;
+          6. Receipt of cabotegravir-LA IM or rilpivirine-LA IM within 24 months prior to Step 1&#xD;
+             study entry.&#xD;
+&#xD;
+          7. Known resistance to all drugs within two or more ARV drug classes. (NOTE: M184V/I is&#xD;
+             an exception, and should not be considered when assessing this criterion. Prior HIV&#xD;
+             resistance testing is not required.)&#xD;
+&#xD;
+          8. History of systemic corticosteroids (long-term use), immunosuppressive anti-cancer or&#xD;
+             other immunosuppressive agents, interleukins, systemic interferons, systemic&#xD;
+             chemotherapy, or other medications considered significant by the investigator within&#xD;
+             the 24 weeks prior to Step 1 study entry.&#xD;
+&#xD;
+          9. ART initiated during acute infection (defined as p24, HIV NAAT, or HIV RNA PCR&#xD;
+             positive, and negative or indeterminate HIV antibody testing).&#xD;
+&#xD;
+         10. Any history of receipt of therapeutic HIV vaccine or HIV monoclonal antibody therapy.&#xD;
+&#xD;
+         11. Participation in any clinical study of an investigational product within 12 weeks&#xD;
+             prior to Step 1 study entry or expected participation in such a study during this&#xD;
+             study.&#xD;
+&#xD;
+         12. Hepatitis B or C infection as indicated by the presence of Hepatitis B surface antigen&#xD;
+             (HBsAg) or hepatitis C virus RNA (HCV-RNA) in blood.&#xD;
+&#xD;
+         13. Known allergy/sensitivity or any hypersensitivity to components of either study agent&#xD;
+             or their formulation.&#xD;
+&#xD;
+         14. History of or current clinical atherosclerotic cardiovascular disease (ASCVD), as&#xD;
+             defined by 2013 ACC/AHA guidelines, including a previous diagnosis of any of the&#xD;
+             following:&#xD;
+&#xD;
+               1. Acute myocardial infarction&#xD;
+&#xD;
+               2. Acute coronary syndromes&#xD;
+&#xD;
+               3. Stable or unstable angina&#xD;
+&#xD;
+               4. Coronary or other arterial revascularization&#xD;
+&#xD;
+               5. Stroke&#xD;
+&#xD;
+               6. Transient ischemic attack&#xD;
+&#xD;
+               7. Peripheral arterial disease presumed to be of atherosclerotic origin&#xD;
+&#xD;
+         15. 10-year ASCVD risk score estimated by Pooled Cohort Equations &gt;20% in participants ≥40&#xD;
+             and ≤ 70 years of age.&#xD;
+&#xD;
+         16. Diagnosis of cirrhosis&#xD;
+&#xD;
+         17. Diagnosis of untreated syphilis, gonorrhea, or chlamydia. (NOTE: Candidates who began&#xD;
+             treatment for any of the above are not excluded.)&#xD;
+&#xD;
+        Step 2 Inclusion Criteria:&#xD;
+&#xD;
+          -  Willingness to continue the analytical treatment interruption (ATI) and be monitored.&#xD;
+&#xD;
+        Step 2 Exclusion Criteria:&#xD;
+&#xD;
+          -  None.&#xD;
+&#xD;
+        Step 3 Inclusion Criteria:&#xD;
+&#xD;
+          -  Meet ONE of the following:&#xD;
+&#xD;
+               1. Meeting one or more ART restart criteria as defined in the study protocol&#xD;
+&#xD;
+               2. Despite completing 72 weeks of ATI without meeting one or more ART restart&#xD;
+                  criteria, declines participation in A5385, or is unable to enter A5385.&#xD;
+&#xD;
+        Step 3 Exclusion Criteria:&#xD;
+&#xD;
+          -  None.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katharine J Bar, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marina Caskey, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Rockefeller University Non-Network CRS</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alabama CRS</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90035-4709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Antiviral Research Center CRS</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Hiv/Aids Crs</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn Therapeutics, CRS</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>January 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie results in the publication, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months following publication and available throughout period of funding of the AIDS Clinical Trials Group by NIH.</ipd_time_frame>
+    <ipd_access_criteria>With whom? Researchers who provide a methodologically sound proposal for use of the data that is approved by the AIDS Clinical Trials Group.&#xD;
+For what types of analyses? To achieve aims in the proposal approved by the AIDS Clinical Trials Group.&#xD;
+By what mechanism will data be made available? Researchers may submit a request for access to data using the AIDS Clinical Trials Group &quot;Data Request&quot; form at: https://actgnetwork.org/submit-a-proposal/. Researchers of approved proposals will need to sign an AIDS Clinical Trials Group Data Use Agreement before receiving the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

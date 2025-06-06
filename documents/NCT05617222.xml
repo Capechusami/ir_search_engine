@@ -1,0 +1,294 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617222</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-20038614</org_study_id>
+    <nct_id>NCT05617222</nct_id>
+  </id_info>
+  <brief_title>The Impact of Bed Rest, Aging and NMES on Skeletal Muscle</brief_title>
+  <official_title>The Impact of Bed Rest and Aging on Muscle Mass and Muscle Function: Effects of Neuromuscular Electrical Stimulation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bispebjerg Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bispebjerg Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Loss of muscle mass is common phenotypic trait of muscular disuse and ageing. The loss of&#xD;
+      muscle mass affects, among others, the ability to maintain homeostasis of glucose metabolism&#xD;
+      and the energy reservoir in catabolic conditions, while also affecting mechanical muscle&#xD;
+      function which can cause detrimental impairments in general functional status and hence&#xD;
+      quality of life.&#xD;
+&#xD;
+      However, a limited amount of research has attempted to elucidate molecular regulators of&#xD;
+      muscle mass loss following bed rest in older individuals and across genders. Consequently,&#xD;
+      the mechanistic drivers are unresolved and there are currently no effective therapeutic&#xD;
+      strategies to counteract muscle wasting and loss of function in individuals submitted to bed&#xD;
+      rest e.g. during hospitalization.&#xD;
+&#xD;
+      Purpose The purpose is to examine the effects of 5 days of bed rest on muscle mass, including&#xD;
+      myofibrillar protein synthesis and breakdown, and muscle function, and elucidate molecular&#xD;
+      regulators of muscle mass loss and metabolic pathways, while also investigating if potential&#xD;
+      negative effects can be counteracted by daily NeuroMuscular Electrical Stimulation (NMES)&#xD;
+      across different age and genders.&#xD;
+&#xD;
+      Methods The study is designed as a randomized controlled cross-over 5-day bed rest study&#xD;
+      including a group of healthy young (18-30 years) and healthy old (65-80 years) men and women.&#xD;
+&#xD;
+      Participants will receive daily electrical stimulation (NMES) of the thigh muscles (30 min x&#xD;
+      3/day) on one leg (ES), while the other leg serves as a control (CON).&#xD;
+&#xD;
+      Participants will be tested at baseline (pre) and after (post) intervention for muscle&#xD;
+      strength, muscle power, balance, and muscle activation. Blood samples are collected at&#xD;
+      several time points and muscle biopsies are sampled pre- and post-intervention along with&#xD;
+      assessment of whole-body muscle mass and thigh muscle mass.&#xD;
+&#xD;
+      Scientific exposition The results from the study can potentially provide insight into the&#xD;
+      adaptive mechanisms associated with NMES training and muscular disuse on both cellular- and&#xD;
+      whole-body level. The understanding of the underlying mechanisms is crucial for the&#xD;
+      application of NMES in a therapeutic context and will furthermore help us understand the&#xD;
+      basic mechanism regulating the skeletal muscle mass during both training and muscular disuse.&#xD;
+&#xD;
+      Overall, the results can potentially help establishing treatments to counteract loss of&#xD;
+      muscle mass, muscle function and muscle health during periods of muscular disuse.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 29, 2022</start_date>
+  <completion_date type="Anticipated">August 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Participants are subjected to 5 days bed rest. One leg will receive 3/daily neuromuscular electrical stimulation. The contralateral leg will serve as control-leg undergo disuse only.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The assessors will be without knowledge of which leg has received neuromuscular electrical stimulation and which leg was control</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Myofiber cross-sectional area</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Histochemical analysis of type I and type II myofiber cross-sectional area</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of myofibrillar protein synthesis</measure>
+    <time_frame>Assessed during the period from pre-intervention biopsies (day 0, first day of bed rest) to post-intervention biopsies (day 5, last day and cessation of bed rest)</time_frame>
+    <description>Quantification of myofibrillar protein synthesis using the stable-isotope amino acid tracer deuterium oxide (D2O)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in maximal isometric muscle strength and superimposed twitch</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Maximal isometric voluntary quadriceps strength combined with the superimposed twitch technique to assess maximal strength and voluntary muscle activation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in total Akt protein assessed by Western blot</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Assessment of Akt protein by Western Blot analysis using muscle tissue from vastus lateralis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total mTOR protein assessed by Western blot</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Assessment of mTOR protein by Western Blot analysis using muscle tissue from vastus lateralis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total MuRF-1 protein assessed by Western blot</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Assessment of MuRF-1 protein by Western Blot analysis using muscle tissue from vastus lateralis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total Atrogin-1 protein assessed by Western blot</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Assessment of Atrogin-1 protein by Western Blot analysis using muscle tissue from vastus lateralis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total myostatin protein assessed by Western blot</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Assessment of myostatin protein by Western Blot analysis using muscle tissue from vastus lateralis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quadriceps muscle morphology and architecture by ultrasound scan</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Ultrasound scan of rectus femoris and vastus lateralis muscle thickness and of vastus lateralis pennation angle</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in body composition by DEXA scan</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Assessment of whole body and regional lean mass and fat</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in leg extensor power</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Muscle power of the lower extremities assessed using the Nottingham power rig</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in sway - postural balance</measure>
+    <time_frame>Change from baseline after bed rest intervention</time_frame>
+    <description>Measurement of displacement of center of pressure during unilateral and bilateral stance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in triglycerides</measure>
+    <time_frame>Day 0, day 2, day 4 and day 5</time_frame>
+    <description>Fasting blood samples are collected for analysis of triglycerides</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cholesterol</measure>
+    <time_frame>Day 0, day 2, day 4 and day 5</time_frame>
+    <description>Fasting blood samples are collected for later analysis of cholesterol</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-reactive protein (CRP)</measure>
+    <time_frame>Day 0, day 2, day 4 and day 5</time_frame>
+    <description>Fasting blood samples are collected for analysis of CRP values</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Accelerometer data</measure>
+    <time_frame>3 days prior to the intervention</time_frame>
+    <description>Collecting accelerometer data to quantify habitual activities prior to bed rest period</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Accelerometer data</measure>
+    <time_frame>Throughout the 5 day intervention</time_frame>
+    <description>Collecting accelerometer data to monitor activity throughout the intervention</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Disuse Atrophy (Muscle) of Lower Extremities</condition>
+  <condition>Muscle Function</condition>
+  <condition>Neuromuscular Electrical Stimulation</condition>
+  <condition>Myofibrillar Protein Synthesis</condition>
+  <arm_group>
+    <arm_group_label>Bed rest- Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>One leg will be subjected to disuse by bed rest and will not receive further treatment during the bed rest period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bed rest + NMES</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One leg will be subjected to disuse by bed rest and will in addition receive neuromuscular electrical stimulation of the quadriceps muscle 3 times/day.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Bed rest</intervention_name>
+    <description>5 days of strict bed rest</description>
+    <arm_group_label>Bed rest + NMES</arm_group_label>
+    <arm_group_label>Bed rest- Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Neuromuscular electrical stimulation</intervention_name>
+    <description>Unilateral neuromuscular electrical stimulation (m. Quadriceps)</description>
+    <arm_group_label>Bed rest + NMES</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy&#xD;
+&#xD;
+          -  Age between 18-30 or 65-80 years&#xD;
+&#xD;
+          -  Injury free in the lower extremities (No previous or current knee injuries or knee&#xD;
+             pain)&#xD;
+&#xD;
+          -  Normal weight&#xD;
+&#xD;
+          -  Consumes normal diet&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cognitive impairment affecting the ability to participate in the study.&#xD;
+&#xD;
+          -  Health related contraindications to participating in the intervention (i.e., bed rest&#xD;
+             and/or NMES), such as eczema and rash on the lower extremities&#xD;
+&#xD;
+          -  Smoker&#xD;
+&#xD;
+          -  Obesity&#xD;
+&#xD;
+          -  Not able to speak or understand Danish.&#xD;
+&#xD;
+          -  Acute or chronic diseases such as diabetes, cancer, embolism, infection,&#xD;
+             cardio-vascular diseases&#xD;
+&#xD;
+          -  Use of medication which affects myofibrillar protein synthesis or the skeletal muscle&#xD;
+             tissue&#xD;
+&#xD;
+          -  Use of other medication (e.g. anticoagulants, adrenal cortex hormone [within the last&#xD;
+             3 months] etc.)&#xD;
+&#xD;
+          -  Previous or current use of anabolic steroids&#xD;
+&#xD;
+          -  Previous participation in research trials involving deuterium oxide or another stable&#xD;
+             isotope tracer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charlotte Suetta, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bispebjerg Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sofie K Hansen</last_name>
+    <phone>0045 22423877</phone>
+    <email>sofie.krarup.hansen.01@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bispebjerg Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sofie K Hansen, Mac</last_name>
+      <phone>22423877</phone>
+      <phone_ext>0045</phone_ext>
+      <email>sofie.krarup.hansen.01@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>August 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>November 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bispebjerg Hospital</investigator_affiliation>
+    <investigator_full_name>Charlotte Suetta</investigator_full_name>
+    <investigator_title>Professor, Dr.Med</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscular Disorders, Atrophic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,215 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05616533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ZRWC_GC_R001</org_study_id>
+    <nct_id>NCT05616533</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Consistency of PDX Model for Predicting Therapeutic Effect of Gastric Cancer</brief_title>
+  <official_title>Consistency Evaluation of a Patient-derived Tumor Xenograft Zebrafish Model in Predicting Anti-cancer Efficacy of Conventional Drugs for Gastric Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hangzhou Hunter Biotechnology Incorporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Zhejiang University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to compare the tumor response in gastric cancer patients given&#xD;
+      neoadjuvant chemotherapy with the corresponding result obtained from zebrafish&#xD;
+      patient-derived tumor xenograft(PDX) model given the same regimen. The main question it aims&#xD;
+      to answer is whether this PDX model of zebrafish could accurately predict the effect of&#xD;
+      chemotherapy in advanced gastric cancer. Participants will be given the standard neoadjuvant&#xD;
+      treatment administrated by their own doctors and tumor response will be observed and&#xD;
+      recorded. Meanwhile, tumor samples derived from patients before chemotherapy will be&#xD;
+      transplanted to zebrafish and the same regimen will be given to the PDX models&#xD;
+      correspondingly. The tumor response data both from clinical practice and PDX model platform&#xD;
+      will be analysed and compared to evaluate the power of this zebrafish model platform in drug&#xD;
+      efficiency prediction.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The prognosis of advanced gastric cancer treated with surgery only remains quite&#xD;
+      disappointed. Adjuvant and neoadjuvant chemotherapy had been greatly raising the survive of&#xD;
+      advanced gastric cancer. However, how to acquired the tumor sensitivity to the following&#xD;
+      chemotherapy before the treatment, in order to admit reasonable drugs, avoid unexpected&#xD;
+      progression of tumor and unnecessary loss of surgical opportunity, remained the focus in this&#xD;
+      field. Zebrafish CDX/PDX model provides a reliable potential platform for drug sensitivity&#xD;
+      prediction, but the drug sensitivity result concluded by this platform could not fully&#xD;
+      represent its actual clinic efficacy in human body. Consistency of therapeutic efficacy could&#xD;
+      be concluded only by comparing the results both in the human body and the model that was&#xD;
+      given the same regimens. This is the golden standard to evaluate whether the PDX model of&#xD;
+      zebrafish could accurately predict the effect of chemotherapy, as well as the primary&#xD;
+      foundation of the clinical practice with this zebrafish model platform for drug efficiency&#xD;
+      prediction. Therefore, we intend to carry out this clinical study in gastric cancer patients&#xD;
+      whom were given neoadjuvant chemotherapy. Enrolled individuals was given a biopsy through&#xD;
+      endoscopy to obtain samples that would be transplanted to the zebrafish model. Same drugs&#xD;
+      would be give both for the patient and corresponding zebrafish model, and results would be&#xD;
+      observed carefully to assess the consistency between the model and the actual practice. This&#xD;
+      may give strong support for the future clinical use of the platform.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>The coincidence rate of tumor response obtained from 50 PDX models with clinical real tumor response acquired from corresponding patients received neoadjuvant therapy.</measure>
+    <time_frame>about 3 months (from the first cycle of neoadjuvant therapy to the surgery)</time_frame>
+    <description>Drugs used in the zebrafish PDX model are as same as those administrated in the clinical practice with the corresponding patient. Immunofluorescence quantitative detection would be used to evaluate the tumor response in PDX model while RECIST 1.1 and Becker criterion would be applied to evaluate the real tumor response in clinical practice.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Precise Prediction of Therapy Efficiency</condition>
+  <arm_group>
+    <arm_group_label>focused group</arm_group_label>
+    <description>Advanced gastric patients that will be treated with neoadjuvant therapy are enrolled. Every clinical decision such as regimen or dosage will be decided by their own doctors without any interventions. Tumor samples will be obtained before the first cycle of the treatment and will be transplanted to the zebrafish model. Compared results will be analyzed in future.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>biopsy of tumor before treatment</intervention_name>
+    <description>samples obtained from biopsy will be used in the zebrafish PDX model</description>
+    <arm_group_label>focused group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      tumor samples obtained before neoadjuvant treatment and would be transplanted the zebrafish&#xD;
+      model&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients with advanced gastric cancer that will be treated with neoadjuvant chemotherapy,&#xD;
+        and surgery will be performed after 2 or 3 cycle of neoadjuvant therapy.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. patients aged 18-75years,&#xD;
+&#xD;
+          2. patients with gastric cancer confirmed by histology or cytology at first visit,&#xD;
+&#xD;
+          3. patients with advanced tumor by imaging evaluation,&#xD;
+&#xD;
+          4. patients with preoperative neoadjuvant therapy;&#xD;
+&#xD;
+          5. Eastern Cooperative Oncology Group (ECOG) physical status score of 0 or 1;&#xD;
+&#xD;
+          6. tolerance to chemotherapy in laboratory examination;&#xD;
+&#xD;
+          7. hematology examination: no obvious signs of hematological diseases, ANC ≥1.5 × 109/L&#xD;
+             before enrollment; Platelet count ≥80 × 109/L, HB ≥90 g/L, WBC ≥3.0 × 109/L, and no&#xD;
+             bleeding tendency;&#xD;
+&#xD;
+          8. biochemical examination: Total Bilirubin &lt;1.5 times of upper limit of normal value,&#xD;
+             AST, ALT &lt; 2.5 times of upper limit of normal value, creatinine &lt; 1.5 times of upper&#xD;
+             limit of normal value;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. patients with inoperable advanced gastric cancer,&#xD;
+&#xD;
+          2. patients with metastatic or primary gastric cancer,&#xD;
+&#xD;
+          3. pregnant or lactating women,&#xD;
+&#xD;
+          4. patients with a history of other malignancies in the last 5 years;&#xD;
+&#xD;
+          5. for those with a history of uncontrolled epilepsy, central nervous system disease or&#xD;
+             mental disorders, the severity of the clinical condition was assessed by the&#xD;
+             investigator as impeding the signing of informed consent or affecting the patient's&#xD;
+             compliance with oral medication;&#xD;
+&#xD;
+          6. clinically serious (i.e. active) heart disease, such as symptomatic coronary heart&#xD;
+             disease, NYHA Class II or more heart failure, or arrhythmias requiring medical&#xD;
+             intervention; Or a history of myocardial infarction within the last 12 months;&#xD;
+&#xD;
+          7. severe diabetes-related complications, such as diabetic nephropathy, diabetic ketosis,&#xD;
+             etc.&#xD;
+&#xD;
+          8. gastrointestinal obstruction or abnormal physiological function, or malabsorption&#xD;
+             syndrome, which may affect drug absorption;&#xD;
+&#xD;
+          9. gastrointestinal bleeding in the last two weeks or at high risk of bleeding as judged&#xD;
+             by the investigator;&#xD;
+&#xD;
+         10. patients with known peripheral nerve disease ≥ NCI-CTC AE Grade 1, but only with deep&#xD;
+             tendon reflexes (DTR) ;&#xD;
+&#xD;
+         11. organ transplantation requires immunosuppressive therapy;&#xD;
+&#xD;
+         12. the presence of any active, known or suspected autoimmune disease.&#xD;
+&#xD;
+         13. uncontrolled severe infection or other severe concomitant disease&#xD;
+&#xD;
+         14. hypersensitivity to paclitaxel, Oxaliplatin, 5-FU, or any clinically useful&#xD;
+             anti-gastric cancer agent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xiaoli Jin, Dr</last_name>
+    <phone>86-13605809870</phone>
+    <email>Jinxiaoli@zju.edu.cn</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>January 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Zhejiang University</investigator_affiliation>
+    <investigator_full_name>Xiaoli JIn</investigator_full_name>
+    <investigator_title>Doctor of Gastrointestinal department of second affiliated hospital of Zhejiang University</investigator_title>
+  </responsible_party>
+  <keyword>gastric cancer</keyword>
+  <keyword>zebrafish</keyword>
+  <keyword>patient-derived tumor xenograft(PDX) model</keyword>
+  <keyword>prediction</keyword>
+  <keyword>therapy efficiency</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

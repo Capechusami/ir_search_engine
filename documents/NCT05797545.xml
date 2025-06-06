@@ -1,0 +1,337 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797545</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-11-076-002</org_study_id>
+    <nct_id>NCT05797545</nct_id>
+  </id_info>
+  <brief_title>Comparison of Ultrasound and Breast MRI for Breast Cancer Detection</brief_title>
+  <official_title>Comparison of Ultrasound and Breast MRI for Breast Cancer Detection Among Women With Dense Breasts and a Personal History of Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsung Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Samsung Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this randomized clinical trial is to compare diagnostic results of secondary&#xD;
+      breast cancer surveillance using breast ultrasound abbreviated MRI and full protocol MRI.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Women who have been treated for breast cancer are at risk of ipsilateral local/regional&#xD;
+      recurrence or new primary cancers in the contralateral breast, which are associated with&#xD;
+      increased rates of distant metastases and breast cancer mortality. The goal of post-treatment&#xD;
+      imaging surveillance is to detect early second breast cancer, which permits interventions to&#xD;
+      improve survival and maintain quality of life.&#xD;
+&#xD;
+      Currently, most guidelines consistently recommend annual mammography for women with a&#xD;
+      personal history of breast cancer (PHBC). However, in women with dense breasts, mammographic&#xD;
+      sensitivity decreased from a level of 85.7%-88.8% in patients with almost entirely fatty&#xD;
+      tissue to 62.2%-68.1%. Even more, sensitivity of mammography was lower in women with a PHBC&#xD;
+      within the initial 5 years after primary breast cancer (PBC) treatment. In addition, dense&#xD;
+      breasts lead to an increased percentage of interval cancer. Thus, the need for a better&#xD;
+      surveillance modality has emerged.&#xD;
+&#xD;
+      In this context, breast US may be considered as a supplemental screening modality because it&#xD;
+      is widely available, does not need contrast agents, and is of relatively lower cost . A few&#xD;
+      studies indicate that adding screening US to mammography reduced interval cancer rates for&#xD;
+      women with dense breasts and enable detection of early-stage cancers at an average of 4.2&#xD;
+      cancers per 1000 US examinations. As an another candidate, breast MRI shows high sensitivity&#xD;
+      and offers the highest cancer detection rate but its routine usage in women with a PHBC is&#xD;
+      still on debate.&#xD;
+&#xD;
+      Another possible imaging modality is breast magnetic resonance imaging (MRI). Current NCCN&#xD;
+      guidelines suggest annual screening with mammography and MRI is recommended for ① women with&#xD;
+      BRCA1 or BRCA2 mutations, ② first-degree family members of carriers of BRCA mutations, ③&#xD;
+      women with a lifetime risk of breast cancer greater than 20% based on family history, and ④&#xD;
+      women have radiotherapy for thorax at the age of 10-30 years and ⑤ women diagnosed with&#xD;
+      lobular carcinoma in situ (LCIS), atypical ductal hyperplasia (ADH), or atypical lobular&#xD;
+      hyperplasia (ALH) by previous biopsy. And, this is based on the results of existing&#xD;
+      single-center or multi-center prospective studies. Women who underwent breast-conserving&#xD;
+      surgery for breast cancer before the age of 50 were added to the 2018 new MRI screening group&#xD;
+      of the American College of Radiology (ACR), and their secondary breast cancer risk is 20% or&#xD;
+      more. Most women with a history of breast cancer have an intermediate risk (&gt;15% but &lt;20%) of&#xD;
+      developing breast cancer. Therefore, when most patients are not in the high-risk group,&#xD;
+      performing conventional MRI (full-protocol MRI, FP-MRI) for all postoperative examinations is&#xD;
+      not appropriate in terms of cost and time.&#xD;
+&#xD;
+      Abbreviated MRI (AB-MRI), introduced relatively recently, is a method designed to increase&#xD;
+      accessibility by reducing time and cost by selectively capturing only some sequences in&#xD;
+      FP-MRI. Sequence composition can be adjusted in various ways, and image acquisition must be&#xD;
+      completed within 10 minutes. A number of studies have demonstrated that AB-MRI has comparable&#xD;
+      diagnostic results to FP-MRI. The most recent paper published in Korea compared the scores of&#xD;
+      726 patients with AB-MRI and FP-MRI by performing propensity score matching. The results were&#xD;
+      comparable in sensitivity, and AB-MR was significantly higher in specificity. Other&#xD;
+      indicators such as interval cancer rate or BIRADS Category 3 rate did not show significant&#xD;
+      differences between the two groups. However, all studies are retrospective and there are no&#xD;
+      prospective data. Since the reported scores of AB-MRI and FP-MRI are comparable, it is&#xD;
+      difficult to test because the sample size is larger than 18,000 in order to perform a&#xD;
+      non-inferiority test on diagnostic scores. The purpose of this study was to compare the&#xD;
+      diagnostic results of secondary breast cancer surveillance using mammography, ultrasound, and&#xD;
+      MRI in a prospective multicenter study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 28, 2023</start_date>
+  <completion_date type="Anticipated">May 28, 2028</completion_date>
+  <primary_completion_date type="Anticipated">May 28, 2028</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cancer detection rate (CDR)</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Comparison of cancer detection rate (CDR) between breast ultrasound and abbreviated magnetic resonance imaging (AB-MRI) or breast ultrasound and full protocol magnetic resonance imaging (FP-MRI)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Abnormal interpretation rate(AIR)</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Comparison of abnormal interpretation rate in each test (mammography, ultrasound, abbreviated magnetic resonance imaging (AB-MRI), and full protocol magnetic resonance imaging (FP-MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Comparison of sensitivity of each test (mammography, ultrasound, abbreviated magnetic resonance imaging (AB-MRI), and full protocol magnetic resonance imaging (FP-MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Comparison of specificity of each test (mammography, ultrasound, abbreviated magnetic resonance imaging (AB-MRI), and full protocol magnetic resonance imaging (FP-MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive predictive value</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Comparison of positive predictive value of each test (mammography, ultrasound, abbreviated magnetic resonance imaging (AB-MRI), and full protocol magnetic resonance imaging (FP-MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative predictive value</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Comparison of negative predictive value of each test (mammography, ultrasound, abbreviated magnetic resonance imaging (AB-MRI), and full protocol magnetic resonance imaging (FP-MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interval cancer rate</measure>
+    <time_frame>The results of pathology tests or imaging or clinical follow-up tests 1 year after the 2nd round screening were used.</time_frame>
+    <description>Interval cancer rate will be assessed for each test (mammography, ultrasound, abbreviated magnetic resonance imaging (AB-MRI), and full protocol magnetic resonance imaging (FP-MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcomes(PRO) based on patient discomfort.</measure>
+    <time_frame>Patient questionnaires will be collected at time points of clinic visits for study, assessed up to 3 months.</time_frame>
+    <description>To compare patient reported outcome related to diagnostic testing with AB-MR and full-protocol MR based on patient discomfort. This dimension is rated on a 5-point scale from 1 (no problem) to 5 (extreme problems).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcomes(PRO) based on patient preference.</measure>
+    <time_frame>Patient questionnaires will be collected at time points of clinic visits for study, assessed up to 3 months.</time_frame>
+    <description>To compare patient reported outcome related to diagnostic testing with AB-MR and full-protocol MR based on patient preference. This dimension is rated on a 5-point scale from 1(AB-MR is twice as preferable as FP-MR) to 5(FP-MR is twice as preferable as AB-MR).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1464</enrollment>
+  <condition>Breast Neoplasms</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Abbreviated Breast MRI for Breast Cancer Detection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Women are classified and randomly assigned into MRI sequence groups(1st round screening/2nd round screening : AB (abbreviated)-MRI / FP (full protocol)-MRI application group and FP (full protocol)-MRI / AB (abbreviated)). MRI (either AB-MRI or FP-MRI) assigned as the 1st round screening (baseline), mammography, and ultrasound are performed on the same day. For the 2nd round screening one year after the 1st round screening, a different MRI (i.e., FP-MRI if AB-MRI was performed in the previous year, AB-MRI if FP-MRI was performed in the previous year), mammography, and ultrasound were performed on the same day as the 1st round screening.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Full Protocol MRI for Breast Cancer Detection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Women are classified and randomly assigned into MRI sequence groups(1st round screening/2nd round screening : AB (abbreviated)-MRI / FP (full protocol)-MRI application group and FP (full protocol)-MRI / AB (abbreviated)). MRI (either AB-MRI or FP-MRI) assigned as the 1st round screening (baseline), mammography, and ultrasound are performed on the same day. For the 2nd round screening one year after the 1st round screening, a different MRI (i.e., FP-MRI if AB-MRI was performed in the previous year, AB-MRI if FP-MRI was performed in the previous year), mammography, and ultrasound were performed on the same day as the 1st round screening.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Breast MRI for Breast Cancer Detection</intervention_name>
+    <description>Comparison of diagnostic results of abbreviated breast MRI and full protocol MRI for secondary breast cancer surveillance</description>
+    <arm_group_label>Abbreviated Breast MRI for Breast Cancer Detection</arm_group_label>
+    <arm_group_label>Full Protocol MRI for Breast Cancer Detection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women aged 20-75 with a history of breast cancer (in situ carcinoma or invasive breast&#xD;
+             cancer [stage 0-3])&#xD;
+&#xD;
+          -  Women with a negative resection margin in the pathology results of the last surgical&#xD;
+             specimen from past breast cancer&#xD;
+&#xD;
+          -  Women with dense breasts with pattern C (heterogeneously dense) or D (extremely dense&#xD;
+             breasts) using AI-based Lunit INSIGHT for Mammography (version 1.1.4.3, Lunit Inc.) in&#xD;
+             the most recent mammography&#xD;
+&#xD;
+          -  Women who have not had a breast imaging test within 6 months&#xD;
+&#xD;
+          -  Women who agreed to undergo regular annual mammography, breast ultrasound, and breast&#xD;
+             MRI&#xD;
+&#xD;
+          -  If mammography, ultrasound, or breast MRI was performed within the last 1 year, the&#xD;
+             most recent test result is normal or positive (BI-RADS 1 or 2)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with symptoms related to current breast cancer or breast cancer recurrence&#xD;
+             (palpable mass, bloody or transparent nipple secretion, palpable mass in the axillary&#xD;
+             region, abnormal skin changes in the breast or nipple)&#xD;
+&#xD;
+          -  If you have been diagnosed with regional recurrence (axillary lymph nodes,&#xD;
+             supraclavicular and subclavian lymph nodes, internal mammary lymph nodes, etc.) or&#xD;
+             distant metastases&#xD;
+&#xD;
+          -  In case of bilateral total mastectomy&#xD;
+&#xD;
+          -  If women are receiving chemotherapy for cancer in other organs&#xD;
+&#xD;
+          -  Women during pregnancy or lactation&#xD;
+&#xD;
+          -  Glomerular filtration rate &lt; 30 mL/min/1.73m2, or patients with renal insufficiency on&#xD;
+             dialysis&#xD;
+&#xD;
+          -  If women have severe claustrophobia&#xD;
+&#xD;
+          -  If women have a metal prosthesis that is not suitable for MR (e.g. breast tissue&#xD;
+             expander, etc.)&#xD;
+&#xD;
+          -  If there is a history of severe contrast agent side effects (e.g., anaphylactoid&#xD;
+             reaction, dyspnea, etc.)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eun Sook Ko, M.D., Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Samsung Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jin Jung, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ewha Womans University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yung Mi Park, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Inje University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yun woo Jang, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Soon Chun Hyang University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eun Sook Ko, M.D., Ph.D.</last_name>
+    <phone>01085284679</phone>
+    <email>mathilda0330@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Inje University Busan Paik Hospital</name>
+      <address>
+        <city>Busan</city>
+        <state>BusanJin-Gu</state>
+        <zip>47392</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yung Mi Park</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical center</name>
+      <address>
+        <city>Seoul</city>
+        <state>Gangnam-gu</state>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eun Sook Ko</last_name>
+      <phone>01085284679</phone>
+      <email>mathilda0330@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ewha Womans University Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <state>Yangchun-gu</state>
+        <zip>07985</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jin Jung</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Soon Chun Hyang University Hospital Seoul</name>
+      <address>
+        <city>Seoul</city>
+        <state>Yongsan-Gu</state>
+        <zip>04401</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yun Woo Jang</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>February 22, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Samsung Medical Center</investigator_affiliation>
+    <investigator_full_name>Eun Sook Ko</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Mass Screening</keyword>
+  <keyword>Ultrasonography</keyword>
+  <keyword>Magnetic Resonance Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>all IPD that underlie results in a publication</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>date relative to the time when summary data are published or otherwise made available (for example, starting 6 months after publication</ipd_time_frame>
+    <ipd_access_criteria>The study chair and principle investigators will review requests and criteria for reviewing requests</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

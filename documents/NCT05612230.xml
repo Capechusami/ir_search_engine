@@ -1,0 +1,167 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05612230</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-DISEASE</org_study_id>
+    <nct_id>NCT05612230</nct_id>
+  </id_info>
+  <brief_title>A Lifecourse Map of Diseases in China</brief_title>
+  <official_title>A Lifecourse Map of Common Diseases and Rare Diseases in China</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shandong University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Health Medical Data (North Center)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shandong University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to form a chronological map of common diseases and rare diseases&#xD;
+      in Chinese population by determining the prevalence of different diseases in each age group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Studying the distribution of various diseases in specific populations can help explore the&#xD;
+      causes of diseases, elucidate the distribution patterns, and develop preventive and control&#xD;
+      measures. Based on an overall assessment of prevalence, the combination of relevant results&#xD;
+      with age at diagnosis for multiple diseases is important for further understanding of the&#xD;
+      distribution of diseases at the population level. Therefore, this study aims to form a&#xD;
+      chronological map of common diseases and rare diseases in Chinese population by determining&#xD;
+      the prevalence of different diseases in each age group, thus providing a reference for more&#xD;
+      effective prevention, diagnosis and treatment of diseases.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2022</start_date>
+  <completion_date type="Anticipated">July 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>age-specific prevalence rate</measure>
+    <time_frame>between January 1, 2017 and December 31, 2021</time_frame>
+    <description>Age-specific prevalence rate stratified by sex were calculated by dividing the number of incident cases with a current disease by the total number of people in the study population during that time period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>sex-specific prevalence rate</measure>
+    <time_frame>between January 1, 2017 and December 31, 2021</time_frame>
+    <description>Sex-specific prevalence rate stratified by age for 10-year bands were calculated by dividing the number of incident cases with a current disease by the total number of people in the study population during that time period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>total cost of hospitalization</measure>
+    <time_frame>between January 1, 2017 and December 31, 2021</time_frame>
+    <description>Total cost of hospitalization and deductibles for the total population and for each age group of diseases are described by mean (SD) values.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">40000000</enrollment>
+  <condition>Common Diseases</condition>
+  <condition>Rare Diseases</condition>
+  <arm_group>
+    <arm_group_label>Hospitalized patients</arm_group_label>
+    <description>The diseases were included based on the results of the preliminary data exploration and standardization according to ICD-10.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Data analysis</intervention_name>
+    <description>Data analysis is based on a single database from the National Health Medical Data (North Center).</description>
+    <arm_group_label>Hospitalized patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All inpatients within the period of January 1, 2017 to December 31, 2021.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. All inpatients within the period of January 1, 2017 to December 31, 2021.&#xD;
+&#xD;
+          2. Patients with discharge diagnosis.&#xD;
+&#xD;
+          3. Patients with accurate gender and age records.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Morbidity and mortality due to external causes, i.e. injuries, poisonings and other&#xD;
+             adverse events due to external environment and accidents.&#xD;
+&#xD;
+          2. Pregnancy-related conditions.&#xD;
+&#xD;
+          3. Symptoms, signs, abnormal clinical and laboratory findings.&#xD;
+&#xD;
+          4. Traditional Chinese Medicine diagnosis records.&#xD;
+&#xD;
+          5. Patients with incorrect or missing disease codes.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Wei Zhao, Ph.D</last_name>
+    <phone>86053188383308</phone>
+    <email>zhao4wei2@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shandong University</name>
+      <address>
+        <city>Jinan</city>
+        <state>Shandong</state>
+        <zip>250012</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wei Zhao, Ph.D</last_name>
+      <phone>15131190710</phone>
+      <email>zhao4wei2@hotmail.comzhao</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shandong University</investigator_affiliation>
+    <investigator_full_name>Wei Zhao</investigator_full_name>
+    <investigator_title>Head of department of clinical pharmacy and pharmacology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rare Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

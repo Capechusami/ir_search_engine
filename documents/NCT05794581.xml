@@ -1,0 +1,182 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794581</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-868-005</org_study_id>
+    <nct_id>NCT05794581</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Effects of CT-868 Treatment on Glucose Homeostasis in Participants With Type 1 Diabetes</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo and Comparator-Controlled Crossover Study to Assess the Effects of CT-868 Treatment on Glucose Homeostasis in Participants With Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Carmot Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Carmot Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will be conducted primarily to evaluate the effects of CT-868 on glucose&#xD;
+      homeostasis in participants with Type 1 Diabetes Mellitus.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess area under the curve (AUC) in glucose metabolism during MMTT</measure>
+    <time_frame>Baseline up to 4 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess changes in continuous glucose monitoring (CGM) measures</measure>
+    <time_frame>Baseline up to 4 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the acetaminophen concentration-time (AUC)</measure>
+    <time_frame>0 - 300 minutes</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>CT-868</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC injection of CT-868 Intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>SC injection of placebo matching CT-868 dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Victoza</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SC injection of active comparator</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CT-868</intervention_name>
+    <description>CT-868</description>
+    <arm_group_label>CT-868</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo as SC Injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Victoza</intervention_name>
+    <description>Victoza as active comparator as SC Injection</description>
+    <arm_group_label>Victoza</arm_group_label>
+    <other_name>Liraglutide</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female or male adults with Type 1 diabetes&#xD;
+&#xD;
+          -  Ages 18-65 years&#xD;
+&#xD;
+          -  Type 1 DM for at least 3 years&#xD;
+&#xD;
+          -  Using an insulin pump for at least 3 months&#xD;
+&#xD;
+          -  BMI 25.0 - 35.0&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant medical history&#xD;
+&#xD;
+          -  Uncontrolled diabetes&#xD;
+&#xD;
+          -  History of surgical treatment for weight loss&#xD;
+&#xD;
+          -  History of malignancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Elliott</last_name>
+    <role>Study Director</role>
+    <affiliation>Carmot Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Elliott</last_name>
+    <phone>510-666-6328</phone>
+    <email>melliott@carmot.us</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Carmot Clinical Research Unit 101</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://carmot-therapeutics.us/</url>
+    <description>Carmot Therapeutics, Inc.</description>
+  </link>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type 1 Diabetes</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Overweight</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liraglutide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

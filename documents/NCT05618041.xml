@@ -1,0 +1,230 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618041</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20221019</org_study_id>
+    <nct_id>NCT05618041</nct_id>
+  </id_info>
+  <brief_title>The Safety and Efficay Investigation of CAR-T Cell Therapy for Patients With Hematological Malignancies</brief_title>
+  <official_title>The Safety and Efficay Investigation of CAR-T Cell Therapy for Patients With Hematological Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hebei Senlang Biotechnology Inc., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hebei Senlang Biotechnology Inc., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the tolerability and safety of CAR-T technology in patients with relapsed or&#xD;
+      refractory hematolymphoid malignancies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Main research purposes:&#xD;
+&#xD;
+      To evaluate the tolerability and safety of CAR-T technology in patients with relapsed or&#xD;
+      refractory hematolymphoid malignancies.&#xD;
+&#xD;
+      Secondary research purposes:&#xD;
+&#xD;
+      Objective Evaluation of Cytodynamic Characteristics of CAR-T in Different Types of&#xD;
+      Hematological Malignancies&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 7, 2022</start_date>
+  <completion_date type="Anticipated">December 6, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 6, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Single Group Assignment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open Label</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety: Incidence and severity of adverse events</measure>
+    <time_frame>First 1 month post CAR-T cells infusion</time_frame>
+    <description>To evaluate the possible adverse events occurred within first one month after CAR-T infusion, including the incidence and severity of symptoms such as cytokine release syndrome and neurotoxicity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy: Remission Rate</measure>
+    <time_frame>3 months post CAR-T cells infusion</time_frame>
+    <description>Complete remission (CR) Complete remission with incomplete recovery of blood cells (CRI), positive minimal residual tumor (MRD+) or negative tumor (MRD -) CR/CRI, disease recurrence or progression (PD) were evaluated, and the overall remission rate was ORR=CR+CRI; For drenching Complete remission (CR), partial remission (PR), disease stability (SD) Disease recurrence or progression (PD) was evaluated, and the overall remission rate was ORR=CR+PR; For multiple myeloma Complete remission (CR), partial remission (VGPR, PR), disease stability (SD), disease recurrence or progression (PD) were adopted, Overall remission rate ORR=CR+VGPR+PR;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>progression-free survival (PFS)</measure>
+    <time_frame>24 months post CAR-T cells infusion</time_frame>
+    <description>progression-free survival (PFS) time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CAR-T proliferation</measure>
+    <time_frame>3 months post CAR-T cells infusion</time_frame>
+    <description>the copy number of Senl CAR- T cells in the genomes of PBMC by qPCR method</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine release</measure>
+    <time_frame>1 month post CAR-T cells infusion</time_frame>
+    <description>Cytokine( IL-6,IL-10,IFN-γ,TNF-α ) concentration (pg/mL) by flow cytometry method</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Acute Lymphoblastic Leukemia</condition>
+  <condition>Lymphoma</condition>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>CAR-T Autologous T cell injection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be treated with CAR-T cells</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CAR-T Autologous T cell injection</intervention_name>
+    <description>Biological: CAR-T; Drug: Cyclophosphamide,Fludarabine；Procedure: Leukapheresis</description>
+    <arm_group_label>CAR-T Autologous T cell injection</arm_group_label>
+    <other_name>CD19 CAR-T</other_name>
+    <other_name>CD20 CAR-T</other_name>
+    <other_name>BCMA CAR-T</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Sign the informed consent and be willing and able to comply with the visit, treatment&#xD;
+             protocol, laboratory examination, and other requirements of the study as specified in&#xD;
+             the study procedure sheet;&#xD;
+&#xD;
+          -  Diagnosed as recurrent or refractory lymphoma, leukemia or myeloma;&#xD;
+&#xD;
+          -  Tumor cells express targets for CAR-T cell therapy (results: flow cytometry or&#xD;
+             Immunohistochemical test confirmation);&#xD;
+&#xD;
+          -  Age 14-75 (including threshold), gender unlimited;&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) score ≤2;&#xD;
+&#xD;
+          -  HGB ≥ 70g/L (blood transfusion allowed);&#xD;
+&#xD;
+          -  Liver and kidney functions, heart and lung functions meet the following requirements:&#xD;
+&#xD;
+               1. Creatinine ≤ 1.5 × ULN;&#xD;
+&#xD;
+               2. Left ventricular ejection fraction ≥ 50%;&#xD;
+&#xD;
+               3. Blood oxygen saturation&gt;90%;&#xD;
+&#xD;
+               4. Total bilirubin ≤ 1.5 × ULN； ALT and AST ≤ 2.5 × ULN;&#xD;
+&#xD;
+          -  For T cell tumor patients, if tumor cells are detected in peripheral blood during&#xD;
+             screening, flow cytometry should be used to detect that the tumor cell surface&#xD;
+             immunophenotype is CD4 and CD8 double negative. If the immunophenotype of peripheral&#xD;
+             blood tumor cells is not double negative for CD4 and CD8, the condition that the&#xD;
+             proportion of peripheral blood tumor cells is ≤ 1% shall be met;&#xD;
+&#xD;
+          -  Subjects with pregnancy plans must agree to use contraception before entering the&#xD;
+             study and after the study lasts for six months; If the subject is pregnant or&#xD;
+             suspected of being pregnant, the investigator shall be informed immediately;&#xD;
+&#xD;
+          -  The subject or guardian understands and signs the informed consent form;&#xD;
+&#xD;
+          -  Expected survival longer than 3 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe cardiac insufficiency;&#xD;
+&#xD;
+          -  Have a history of severe lung impairment;&#xD;
+&#xD;
+          -  Complicated with other advanced malignant tumors;&#xD;
+&#xD;
+          -  Complicated with severe or persistent infection that cannot be effectively controlled;&#xD;
+&#xD;
+          -  Complicated with severe autoimmune diseases or congenital immune deficiency;&#xD;
+&#xD;
+          -  Active hepatitis (HBV DNA or HCV RNA positive);&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV) infection or syphilis infection;&#xD;
+&#xD;
+          -  Have a history of severe allergy to biological products (including antibiotics);&#xD;
+&#xD;
+          -  If there is a history of hematopoietic stem cell transplantation, it should be no more&#xD;
+             than 6 months before the patient receives allogeneic hematopoietic stem cell&#xD;
+             transplantation;&#xD;
+&#xD;
+          -  Subjects who received CAR-T therapy or other gene modified cell therapy before&#xD;
+             screening;&#xD;
+&#xD;
+          -  Conditions that the investigator believes may increase the risk to the subject or&#xD;
+             interfere with the outcome of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jia Wei, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Shanxi Bethune Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shengmin Guo</last_name>
+    <phone>008618633039369</phone>
+    <email>guoshengmin@senlangbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanxi Bethune Hospital</name>
+      <address>
+        <city>Taiyuan</city>
+        <state>Shanxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weiwei Tian, MD</last_name>
+      <phone>008613485304136</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>December 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CD19,CD20,BCMA</keyword>
+  <keyword>B-ALL/MM/NHL</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

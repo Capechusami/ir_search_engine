@@ -1,0 +1,398 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798325</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DT4RD</org_study_id>
+    <nct_id>NCT05798325</nct_id>
+  </id_info>
+  <brief_title>Feasibility, Validation and Application of Digital Tools for the Follow-up of Neuromuscular Patient Mobility in Daily Living</brief_title>
+  <acronym>DT4RD</acronym>
+  <official_title>Feasibility, Validation and Application of Digital Tools for the Follow-up of Neuromuscular Patient</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut de Myologie, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aparito Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institut de Myologie, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The low prevalence of rare diseases hinders the design of clinical studies with sufficient&#xD;
+      statistical power to demonstrate the efficacy of new drugs. This can only be achieved by&#xD;
+      setting up international multicentre studies, which is challenging due to a lack of&#xD;
+      objective, universal outcome measures that generate high-quality, reproducible data. One of&#xD;
+      the hurdles in attaining universal outcome measures for clinical trials is the difficulty to&#xD;
+      capture and distinguish ambulatory from non-ambulatory, autonomous and assistive or&#xD;
+      involuntary movements. This makes a trial assessing the ambulatory phase very challenging at&#xD;
+      this moment. Excluding many participants from trials and many patients from access to&#xD;
+      medication.&#xD;
+&#xD;
+      Integration and validation of the technology in trials, research and patients' lives is&#xD;
+      essential in overcoming this hurdle. For example, in dystrophinopathies separate outcome&#xD;
+      measures exist for ambulant and non-ambulant participants, but the relation between these&#xD;
+      outcome measures or a transitional outcome measure/end point is largely missing.&#xD;
+&#xD;
+      Following an exhaustive literature review, several tools have been selected to remotely&#xD;
+      follow various symptoms of neuromuscular patients including weakness, pain, fatigue,&#xD;
+      cognitive defects, motor impairments (including loss of dexterity, ataxia...), metabolic,&#xD;
+      respiratory and cardiac troubles, contractures, tremor, falls, hypo or hypersomnia... The&#xD;
+      toolbox includes common measures for all patients but may include additional measures&#xD;
+      specific to the patient's symptoms (hence in turn to the patients' disease).&#xD;
+&#xD;
+      The measurements are designed to not be invasive, intrusive or burdensome for the patient.&#xD;
+&#xD;
+      DT4RD is going to leverage state-of-the art technology, clinical rating scales and&#xD;
+      psychometric/data analysis to deliver fit for purpose remote clinical assessments of mobility&#xD;
+      to ensure maximum patient benefit, specifically:&#xD;
+&#xD;
+        -  Compare face to face clinical data collected in hospital with Patient Generated Data&#xD;
+           recorded remotely&#xD;
+&#xD;
+        -  Examine how sensors can enhance measurement potentially at home and during clinical&#xD;
+           visits&#xD;
+&#xD;
+        -  Promote a clear focus on user centered design and the integration of technology&#xD;
+&#xD;
+        -  Use reliability and validity analyses to equate any common measures (those with the same&#xD;
+           or a similar construct)&#xD;
+&#xD;
+        -  Demonstrate a proof-of-concept model into which different measures can be&#xD;
+           interchangeable&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Global home evaluations' attendance</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Proportion of home assessments carried out compared to the number of home assessments planned</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compliance with filling out questionnaires at home</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Analysis of the proportion of replies to the questionnaires at home</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance regarding using of the spirometer at home</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Analysis of the proportion of valid spirometry data collected at home</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance regarding using of the LINKS sensors device at home</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Analysis of the proportion of usable accelerometry data collected at home</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance regarding using of the activity sensor at home</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Analysis of the proportion of usable data collected at home using the smartwatch</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance regarding achievement of video tasks at home</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Analysis of the usability of the video tasks performed at home</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of home and hospital spirometer Forced vital capacity measurements</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Comparison of Forced vital capacity data collected during home and hospital spirometer measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of home and hospital spirometer peak expiratory flow measurements</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Comparison of Peak expiratory flow data collected during home and hospital spirometer measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of home and hospital spirometer forced expiratory volume in 1 second measurements</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Comparison of forced expiratory volume in 1 second data collected during home and hospital spirometer measurements</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Neuromuscular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Principal</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>2MWT</intervention_name>
+    <description>Two minutes walk tests.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Two minutes walk tests</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MFM32</intervention_name>
+    <description>Motor Function Measurement (MFM) is a quantitative scale created to measure global motor functional abilities in a person with neuromuscular disease.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Muscle Motor Function 32</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MyoGrip</intervention_name>
+    <description>The MyoGrip is a dynamometer for measuring grip strength.</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>QOL-gNMD</intervention_name>
+    <description>The &quot;Quality of Life in genetic Neuromuscular Disease&quot; questionnaire (QoL-gNMD) is a patient reported outcome measure (PROM) tool specifically designed for patients with a lowly progressive neuromuscular disease with genetically predominant muscular damage</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Spirometry</intervention_name>
+    <description>Forced vital capacity (FVC), peak expiratory flow (PEF) and forced expiratory volume in 1 second (FEV1) will be measured in the hospital with the local hospital device (e.g. Vitalograph) under the supervision of the clinical evaluator, and at home with a portable device.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Spirobank Smart</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Acceleromerty</intervention_name>
+    <description>The Links sensor system is a measuring device and consists of the Links Pods and the Links Hub. The Links pods contain an accelerometer, gyroscope and magnetometer to measure position relative to a global reference frame.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Links sensor system</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>10mWT</intervention_name>
+    <description>10 meters walking Test.</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PUL</intervention_name>
+    <description>The Performance of the Upper Limb (PUL) is a functional scale specifically designed for assessing upper limb function in Duchenne muscular dystrophy.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Performance of Upper Limb</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>NSAA</intervention_name>
+    <description>The North Star Ambulatory Assessment (NSAA) is a 17-item rating scale that is used to measure functional motor abilities in ambulant children with Duchenne Muscular Dystrophy.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>North Star Ambulatory Assessment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>NSAD</intervention_name>
+    <description>The NSAD was developed to measure motor performance in ambulant and non-ambulant subjects as part of the clinical outcome study of dysferlinopathy.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>North Star Assessment for limb-girdle type muscular dystrophies</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>TANS</intervention_name>
+    <description>This scale is derived from the North Star Ambulatory Assessment and several items from the Egan Klassifikation Scale (EK2).</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Transition Assessment North Star</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MyoPinch</intervention_name>
+    <description>The MyoPinch is a high-precision dynamometer that allows the evaluation of key pinch strength.</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MyoQuad</intervention_name>
+    <description>The MyoQuad is a high-precision dynamometer that allows the evaluation of knee extension strength.</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ACTIVLIM</intervention_name>
+    <description>Activity limitations, as measured by ACTIVLIM, is defined as the difficulties a patient may have in executing daily activities, whatever the strategies involved.</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PREM</intervention_name>
+    <description>This questionnaire is made up of simple questions relating to the assessments and assessment tools that were used during the study.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Patient Reported Experience Measures</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>SF-MPQ</intervention_name>
+    <description>The main component of the SF-MPQ consists of 15 descriptors (11 sensories; 4 affective) which are rated on an intensity scale as 0 = none, 1 = mild, 2 = moderate or 3 = severe.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Modified Short-form McGill Pain Questionnaire</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>FSS</intervention_name>
+    <description>The Fatigue Severity Scale is used to assess the severity of fatigue and its impact on daily living. The patient responds on a Likert-type scale ranging from 1 to 7.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Fatigue Severity Scale</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>IPAQ</intervention_name>
+    <description>This questionnaire assesses overall physical activity and the level of sedentary lifestyle during the last seven days.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>International Physical Activity Questionnaire</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Rang of motion</intervention_name>
+    <description>The EasyAngle® is a digital goniometer improving long established goniometric functionality with rotation, inclination, and scoliosis measurement capabilities.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>EasyAngle</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Goniometry</intervention_name>
+    <description>The Links sensor system is a measuring device and consists of the Links Pods and the Links Hub. The Links pods contain an accelerometer, gyroscope and magnetometer to measure position relative to a global reference frame.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Links Sensor System goniometers</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Video captured monitoring</intervention_name>
+    <description>Once every four weeks, while wearing the Yumen electronic goniometers (Links Sensor System), the patients will be asked to record on video three tasks related to:&#xD;
+Upper limbs: hands to head&#xD;
+Lower limbs: Sit to stand with or without the help of a person&#xD;
+Self-defined important task: A task of the patient's choice, from a list of tasks, representative of his/her motor difficulties or hindrance to autonomy.</description>
+    <arm_group_label>Principal</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Activity monitoring</intervention_name>
+    <description>Wearable devices (connected watch) will collect health-related data on a 24/7 basis remotely as patients go through their daily routines at home and work.</description>
+    <arm_group_label>Principal</arm_group_label>
+    <other_name>Activity assessment and physiological parameters</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged between 12 and 60 years&#xD;
+&#xD;
+          -  Patients with a genetically confirmed/molecular-proven neuromuscular or neurometabolic&#xD;
+             disease*&#xD;
+&#xD;
+          -  Patients experiencing walking difficulties in the home and at high risk of limiting&#xD;
+             participation and walking outside of the home.&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+          -  Able to comply with all protocol requirements, including video recording&#xD;
+&#xD;
+          -  Affiliated to or beneficiary of a social security scheme (for France)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with undefined diagnosis or any diagnosis other than neuromuscular or&#xD;
+             neurometabolic disease&#xD;
+&#xD;
+          -  Patient walking 10m in less than 10s&#xD;
+&#xD;
+          -  Guardianship/trusteeship&#xD;
+&#xD;
+          -  Pregnant or nursing women&#xD;
+&#xD;
+          -  Patients having relevant concomitant pathologies that, in the appreciation of the&#xD;
+             investigator could interfere with protocol compliance&#xD;
+&#xD;
+          -  Patients not being affiliated with local social security (for France)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Association Institut de Myologie</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vincent MD Varlet</last_name>
+      <phone>+33 1 42 16 58 58</phone>
+      <email>v.varlet@institut-myologie.org</email>
+    </contact>
+    <investigator>
+      <last_name>Giorgia QUERIN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Walton Muscular Dystrophy Research Centre</name>
+      <address>
+        <city>Newcastle Upon Tyne</city>
+        <zip>NE1 3BZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Volker STRAUB, MD</last_name>
+      <email>volker.straub@ncl.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Muni Lofra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neuromuscular Diseases</keyword>
+  <keyword>Dystrophy</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Accelerometer</keyword>
+  <keyword>Evaluation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neuromuscular Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793645</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ALMED-22-002</org_study_id>
+    <nct_id>NCT05793645</nct_id>
+  </id_info>
+  <brief_title>Clinical Investigation to Assess the Feasibility of a New Diabetes Management Program</brief_title>
+  <acronym>ODIN</acronym>
+  <official_title>Clinical Investigation to Assess the Feasibility of a New Diabetes Management Program, the dALi System, for Pediatric Type 1 Diabetes (T1D) Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Air Liquide Santé International</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Key2Compliance</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>NordicInfu Care AB</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Air Liquide Santé International</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this interventional study is to assess the adherence to a personalized care plan&#xD;
+      in patients (12-15 years) with Type 1 diabetes&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 31, 2023</start_date>
+  <completion_date type="Anticipated">March 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of adherence</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>Percentage of patients adherent to the use of personalized care plan</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the children satisfaction with regards to the intervention</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>Evaluation of the children satisfaction with the intervention using a likert scale at the end of the intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the parents satisfaction with regards to the intervention</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>Evaluation of the parents satisfaction with the intervention using a likert scale at the end of the intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of MIND Youth-Questionnaire (MY-Q) score from the baseline phase to the post- intervention phase.</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>The total score is calculated as the mean of 27 items. Higher score represent better QoL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of empowerment using Gothenburg Young Persons Empowerment Scale- Diabetes (GYPES)</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>GYPES is a validated 15 items likert scale questionnaire measured at baseline phase and post intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of PedsQL Diabetes module score from the baseline phase to the post- intervention phase.</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>The PedsQL Diabetes Module (PedsQL) is a validated 28-items likert scale questionnaire designed to assess diabetes-specific Helath Related Quality of Life children and adolescents. It contains questions related to diabetes management.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the estimated HbA1c from the baseline phase and post intervention</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>The estimated HbA1c is based on average glucose measured continuously</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of patient glycemic parameters from baseline to the end of intervention</measure>
+    <time_frame>15 weeks</time_frame>
+    <description>Glycemic parameters measured are the Time in Range (TIR), the Time Above Range (TAR) and the Time Below Range (TBR). TIR, TAR and TBR refer to the percentage of CGM readings and time per day within, above and below the target glucose range</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of Adverse events</measure>
+    <time_frame>Through study completion, an average of 15 weeks</time_frame>
+    <description>All adverse events recorded by the investigator during the study period</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Personalized care plan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A personalized care plan will be deployed according to patient profile/ disease characteristics</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>personalized care plan</intervention_name>
+    <description>Algorithm that defines personalized care plan</description>
+    <arm_group_label>Personalized care plan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female, 12-15 years of age.&#xD;
+&#xD;
+          -  T1D diagnosis minimum 8 months prior to the Screening/Initiation visit (Visit 0).&#xD;
+&#xD;
+          -  Equipped with Continuous Glucose Monitoring (CGM) System, intermittent or real-time,&#xD;
+             either alone or associated with an insulin pump system&#xD;
+&#xD;
+          -  Subject and health care provider must use a Remote diabetes management platform for&#xD;
+             the upload and follow-up of CGM, pump data or HCL data (e.g.: Glooko, Diasend).&#xD;
+&#xD;
+          -  Parent or guardian able and willing to give informed consent for the subject's&#xD;
+             participation in the investigation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Initiation of use of HCL System during the last 2 months or during the investigation.&#xD;
+&#xD;
+          -  Use of Medtronic insulin pump.&#xD;
+&#xD;
+          -  Any disease or other medical condition, prior or concomitant medication /treatment&#xD;
+&#xD;
+             /intervention, that may affect this clinical investigation or in other ways make the&#xD;
+             subject unsuitable for participation in this investigation, according to the judgement&#xD;
+             of the Principal Investigator (PI), or authorized designee.&#xD;
+&#xD;
+          -  Participation in any clinical investigation or study within the previous 30 days, that&#xD;
+             may affect the safety or performance of this investigation.&#xD;
+&#xD;
+          -  Mental incapacity precluding understanding or cooperation.&#xD;
+&#xD;
+          -  Subject not able to read and communicate in Swedish without an interpreter.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>15 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Henry TAUPIN</last_name>
+    <phone>+33619947113</phone>
+    <email>fralsi-ctpublication@airliquide.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Helsingborg Lasarett</name>
+      <address>
+        <city>Helsingborg</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Charlotta NILSSON</last_name>
+    </contact>
+    <investigator>
+      <last_name>Charlotta Nilsson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sachsska, barn- och ungdomssjukhuset</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bjorn Rathsman</last_name>
+    </contact>
+    <investigator>
+      <last_name>Bjorn RATHSMAN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norrlands universitetssjukhus</name>
+      <address>
+        <city>Umeå</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elena Lundberg</last_name>
+    </contact>
+    <investigator>
+      <last_name>Elena Lundberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

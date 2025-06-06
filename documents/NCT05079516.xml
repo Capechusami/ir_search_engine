@@ -1,0 +1,308 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079516</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12517</org_study_id>
+    <secondary_id>R01NS112367-01A1</secondary_id>
+    <nct_id>NCT05079516</nct_id>
+  </id_info>
+  <brief_title>Neural Basis of Sensory Learning: Brain Regions</brief_title>
+  <official_title>Neural Basis of Sensory Learning: Brain Regions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to understand how the sensory and motor areas of the brain work&#xD;
+      together to keep a person's hand movements accurate (sensorimotor learning). The&#xD;
+      investigators hope this information may be useful one day to improve rehabilitation&#xD;
+      techniques in patients with brain lesions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To make accurate movements, the brain needs to compensate for the frequent changes in the&#xD;
+      environment one experiences (lighting conditions, slippery floors, etc). For example, when&#xD;
+      one reaches to grab an object underwater, there are significant challenges the brain must&#xD;
+      overcome. Water is more viscous than air, so motor planning must take the increased&#xD;
+      resistance into account. In addition, light is bent by water, so one sees the underwater hand&#xD;
+      in a different location from where one feels it with body position sense (proprioception,&#xD;
+      from sensors in the joints and muscles). While initially movement errors occur in a situation&#xD;
+      like this, a healthy person quickly learns to compensate. This compensation can take&#xD;
+      different forms. The brain can shift the proprioceptive estimate closer to the visual&#xD;
+      estimate of hand position or vice versa (sensory realignment), or the brain can compensate&#xD;
+      for any movement errors by altering the motor commands to the arm (motor adaptation).&#xD;
+&#xD;
+      Failure to compensate for such changes results in inaccurate movement, raising the potential&#xD;
+      for accidents and injuries, but how the healthy brain carries out these functions, and how&#xD;
+      they could be strengthened in populations with sensory and motor deficits (e.g. stroke), is&#xD;
+      unknown. With greater understanding of these processes in the healthy brain, it may one day&#xD;
+      be possible to develop rehabilitation strategies that target a patient's unique mix of&#xD;
+      sensory and motor deficits.&#xD;
+&#xD;
+      A robust way to identify whether a brain region plays a role in a behavior is to temporarily&#xD;
+      modulate its excitability in healthy people using non-invasive brain stimulation. This is&#xD;
+      commonly done in research with a short sequence of low-intensity transcranial magnetic&#xD;
+      stimulation (TMS), also known as repetitive TMS (rTMS). rTMS is used clinically to treat&#xD;
+      conditions such as depression and is considered very low risk provided the generally-accepted&#xD;
+      screening criteria are met. In the research setting, this technique is widely used not only&#xD;
+      in healthy adults (as in this study) but also in children and people with concussion, stroke,&#xD;
+      Parkinson's disease, and more.&#xD;
+&#xD;
+      In separate groups of subjects, the investigators will use a 40-second sequence of rTMS&#xD;
+      called continuous theta burst stimulation (cTBS) over one of several brain regions of&#xD;
+      interest before the subject performs a reaching task known to involve sensory realignment&#xD;
+      (learning). If performance of the task is affected by cTBS for a given group (relative to the&#xD;
+      sham, or control, group), it means that brain region plays some role in that type of reaching&#xD;
+      task.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 26, 2021</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study includes two experiments. Experiment 1 includes Arms 1-3, and Experiment 2 includes Arms 4-7. Arm assignment will be random within each experiment.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Realignment</measure>
+    <time_frame>1 day</time_frame>
+    <description>Measured by comparing where the subject points on a touchscreen when indicating perceived position of visual and proprioceptive targets early vs. late in the behavioral task.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Visuo-proprioceptive weighting</measure>
+    <time_frame>1 day</time_frame>
+    <description>The degree to which participant relies on vision vs. proprioception when both are available. Measured by comparing where the subject points on a touchscreen when indicating perceived position of visual vs. proprioceptive targets.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Target hand reaching</measure>
+    <time_frame>1 day.</time_frame>
+    <description>Location participant points at with no performance feedback.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Target estimation variance</measure>
+    <time_frame>1 day</time_frame>
+    <description>Variance with which participant estimate visual and proprioceptive target positions. Computed from where subjects point at targets on a touchscreen.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motor cortex excitability (arms 1-3)</measure>
+    <time_frame>1 day</time_frame>
+    <description>mean motor evoked potential amplitude at SI1mV (stimulus intensity that elicits 1 mV response). Measured pre- and post-cTBS in Arms 1-3 only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tactile sensitivity (arms 1-3)</measure>
+    <time_frame>1 day</time_frame>
+    <description>Two-point discrimination threshold on the target index fingertip. Measured pre- and post-cTBS in Arms 1-3 only.</description>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Basic Science</condition>
+  <arm_group>
+    <arm_group_label>Primary motor cortex--Exp 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Theta burst transcranial magnetic stimulation (cTBS) will be applied over primary motor cortex.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Somatosensory cortex--Exp 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Theta burst transcranial magnetic stimulation (cTBS) will be applied over primary somatosensory cortex.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vertex sham--Exp 1</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham theta burst transcranial magnetic stimulation (cTBS) will be applied over the vertex.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Anterior superior parietal lobule--Exp 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Theta burst transcranial magnetic stimulation (cTBS) will be applied over Anterior superior parietal lobule.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ventral premotor cortex--Exp 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Theta burst transcranial magnetic stimulation (cTBS) will be applied over Ventral premotor cortex.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cerebellar cortex--Exp 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Theta burst transcranial magnetic stimulation (cTBS) will be applied over cerebellar cortex.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vertex sham--Exp 2</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham theta burst transcranial magnetic stimulation (cTBS) will be applied over the vertex.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Theta burst transcranial magnetic stimulation</intervention_name>
+    <description>Real or sham continuous theta burst TMS (cTBS) will be delivered to a location on the head, determined by randomized group assignment. cTBS consists of 600 low-intensity TMS pulses delivered over 40 seconds in a pattern of 50 Hz triplets delivered at 5 Hz.</description>
+    <arm_group_label>Anterior superior parietal lobule--Exp 2</arm_group_label>
+    <arm_group_label>Cerebellar cortex--Exp 2</arm_group_label>
+    <arm_group_label>Primary motor cortex--Exp 1</arm_group_label>
+    <arm_group_label>Somatosensory cortex--Exp 1</arm_group_label>
+    <arm_group_label>Ventral premotor cortex--Exp 2</arm_group_label>
+    <arm_group_label>Vertex sham--Exp 1</arm_group_label>
+    <arm_group_label>Vertex sham--Exp 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Potential subjects must be between the ages of 18-45 years old and right-handed. Aging&#xD;
+             has been shown to affect the morphology of sensory and motor nerves, conduction&#xD;
+             velocities of nerves, and number of motor neurons in the spinal cord; to avoid these&#xD;
+             confounding factors we will only examine younger-to middle-aged adults.&#xD;
+&#xD;
+          -  There are differences in cortical function and corticospinal projections such that&#xD;
+             testing the right arm of a right-handed individual is not necessarily equivalent to&#xD;
+             testing the left arm of a left-handed individual. To eliminate this confound, we will&#xD;
+             only test right-handed individuals. All these factors will be determined with the&#xD;
+             initial screening questions.&#xD;
+&#xD;
+          -  Covid has been found to have neurological effects in some people, but mostly the&#xD;
+             effects on sensorimotor control and neurophysiology are unknown. So we want to reduce&#xD;
+             the chances of inadvertently testing subjects who have covid. We will therefore only&#xD;
+             include individuals who are fully vaccinated (2+ weeks past their final vaccine dose)&#xD;
+             or have a negative Covid test within 4 days of testing. We will further only include&#xD;
+             individuals who report being free of Covid symptoms in week preceding testing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Determined with initial screening questions, pre-enrollment:&#xD;
+&#xD;
+             Potential subjects will be excluded for current vision problems, other than needing&#xD;
+             glasses or contacts. Subjects will also be excluded if they currently suffer from&#xD;
+             frequent severe headaches, glaucoma, heart or respiratory disease, hypertension,&#xD;
+             psychiatric conditions, or learning or attention conditions. They will also be&#xD;
+             excluded for current or past: visual, hearing, or balance impairments; stroke,&#xD;
+             seizure/epilepsy (including family history), or severe head trauma; fainting; or&#xD;
+             diabetes. Subjects will be excluded for metal implants in the head other than&#xD;
+             titanium; cochlear implants; implanted neurostimulator; cardiac pacemaker;&#xD;
+             intracardiac lines; or a medication infusion device. Because TMS does not penetrate&#xD;
+             deeply into the head, we cannot test subjects whose hair does not permit contact&#xD;
+             between the TMS coil and the scalp. We will therefore exclude subjects with&#xD;
+             dreadlocks, weaves, or hair extensions. To protect the data from extraneous peripheral&#xD;
+             influences, we will also exclude subjects who have had serious injury to the bones,&#xD;
+             joints, or muscles of either hand or arm, and have not fully recovered. For the&#xD;
+             purpose of this study, &quot;fully recovered&quot; means they no longer notice any pain,&#xD;
+             weakness, or loss of sensation in the injured area, and have no mobility limitations.&#xD;
+&#xD;
+             For the validity of our data, we will exclude subjects taking medications or drugs&#xD;
+             that are known to affect cortical excitability and possibly seizure risk in an rTMS&#xD;
+             study. These medications/drugs are (Rossi et al., 2009): imipramine, amitriptyline,&#xD;
+             doxepine, nortriptyline, maprotiline, chlorpromazine, clozapine, foscarnet,&#xD;
+             ganciclovir, ritonavir, amphetamines, cocaine, (MDMA, ecstasy), phencyclidine (PCP,&#xD;
+             angel's dust), ketamine, gamma-hydroxybutyrate (GHB), theophylline, mianserin,&#xD;
+             fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram, reboxetine, venlafaxine,&#xD;
+             duloxetine, bupropion, mirtazapine, fluphenazine, pimozide, haloperidol, olanzapine,&#xD;
+             quetiapine, aripiprazole, ziprasidone, risperidone, chloroquine, mefloquine, imipenem,&#xD;
+             penicillin, ampicillin, cephalosporins, metronidazole, isoniazid, levofloxacin,&#xD;
+             cyclosporin, chlorambucil, vincristine, methotrexate, cytosine arabinoside, BCNU,&#xD;
+             lithium, anticholinergics, antihistamines, sympathomimetics.&#xD;
+&#xD;
+          2. Determined on each day of TMS testing:&#xD;
+&#xD;
+             Potential subjects will be invited to reschedule if they would otherwise be eligible&#xD;
+             (according to the initial screening), but the day of testing have drunk more than 3&#xD;
+             units of alcohol or taken other recreational drugs in the 24 hour period prior to&#xD;
+             testing; have had more than 3 cups of coffee in the last hour; are sleep deprived (&lt;4&#xD;
+             hours sleep the previous night); or have participated in another brain stimulation&#xD;
+             experiment the same day. These are standard in the TMS literature to protect the&#xD;
+             validity of the data and keep seizure risk minimal. In addition, we will invite invite&#xD;
+             subjects to reschedule if they have any of the common Covid symptoms within the last&#xD;
+             week and if they haven't been fully vaccinated or obtained a negative Covid test&#xD;
+             within the past 4 days. If they don't believe they can meet these criteria on another&#xD;
+             date, they will be excluded.&#xD;
+&#xD;
+          3. Determined during the Familiarization session.&#xD;
+&#xD;
+        After giving their consent, participants may be excluded during or after the&#xD;
+        familiarization session if they are unable to perform the reaching task or follow&#xD;
+        instructions, or if their TMS stimulation parameters cannot be reliably determined by the&#xD;
+        experimenter, or if TMS is not well tolerated.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hannah J Block, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University Bloomington</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hannah J Block, PhD</last_name>
+    <phone>8128555390</phone>
+    <email>hjblock@indiana.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Indiana University Bloomington</name>
+      <address>
+        <city>Bloomington</city>
+        <state>Indiana</state>
+        <zip>47405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>812-855-4079</phone>
+      <email>blocklab@indiana.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>September 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>January 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Hannah Justine Block</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All IPD that underlie results published in peer-reviewed journals will be shared. Only de-identified data will be shared.</ipd_description>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The data will become available when group results are published in peer-reviewed journals.</ipd_time_frame>
+    <ipd_access_criteria>Data will be available on www.osf.io for anyone who wishes to download it. The relevant osf registry will be cited in the peer-reviewed publication so that interested readers can find it.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

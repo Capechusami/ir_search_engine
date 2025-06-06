@@ -1,0 +1,367 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795465</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GEn-1124-002</org_study_id>
+    <nct_id>NCT05795465</nct_id>
+  </id_info>
+  <brief_title>A Study of GEn-1124 in Subjects With Acute Respiratory Distress Syndrome (ARDS)</brief_title>
+  <official_title>A Phase 2, Two-Part Study to Evaluate the Safety and Tolerability of GEn-1124 in Subjects With Acute Respiratory Distress Syndrome (ARDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GEn1E Lifesciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GEn1E Lifesciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      GEn1E-1124-002 is a two-part Phase 2 study to evaluate the safety and tolerability of&#xD;
+      GEn-1124 in subjects with ARDS. Treatment with IV infusion dosing within 48 hours of ARDS&#xD;
+      diagnosis. Subjects will be given a second dose approximately 8 hours after the first dose&#xD;
+      and will continue with twice daily dosing (BID regimen) for 5 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomized , double-blind, placebo controlled, dose escalation study to evaluate the&#xD;
+      pharmacokinetics (PK), pharmacodynamics (PD), safety, and tolerability of GEn1124.&#xD;
+&#xD;
+      GEn-1124 or placebo will be administered as a 2-hour IV infusion within 48 hours of ARDS&#xD;
+      diagnosis. Participants will receive a second dose approximately 8 hours after the first and&#xD;
+      will continue BID for the remaining schedule (Days 2-5). Follow-up will be for a total of 60&#xD;
+      days after the first dose or death (whichever comes first).&#xD;
+&#xD;
+      An independent Safety Review Committee (SRC) will be responsible for reviewing data&#xD;
+      throughout the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Part 1 - Randomized, double-blind, dose escalation. Part 2 - Randomized, double-blind, placebo controlled, parallel group.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>All subjects, investigators, and study personnel involved in the conduct of the study, including data management, will be blinded to treatment assignment with the exception of some designated personnel. The unblinded study personnel will not participate in study procedures or data analysis prior to unblinding of the study data to all study-related personnel.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the safety and tolerability (SAEs and TEAEs) of GEn-1124</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Incidence (frequency over time) of serious adverse events (SAEs) unexpected in ARDS patients.&#xD;
+Incidence (frequency over time) of treatment-emergent adverse events (TEAE).</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Change in oxygenation index (OI).</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Oxygenation Index is calculated as PAW × FiO2 × 100 / SpO2 where PAW is product of mean airway pressure (PAW), FiO2 is fraction of inspired oxygen, and SpO2 is pulse oxygen saturation (as long as the lowest SpO2 measurement for the day was &lt; 97%).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in ratio of arterial oxygen partial pressure to fractional inspired oxygen.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Ratio of arterial oxygen partial pressure to fractional inspired oxygen is calculated as PaO2 / FiO2 where PaO2 indicates arterial oxygen partial pressure and FiO2 indicates fraction of inspired oxygen. All values are derived from ventilator parameters and arterial blood gas.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in static compliance.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Static compliance is calculated as the tidal volume divided by the difference between airway plateau pressure and end-expiratory pressure (Pplat - PEEP) where Plat is airway plateau pressure and PEEP is positive end-expiratory pressure. All values are derived from ventilator parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in dynamic compliance.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Dynamic compliance is calculated as the tidal volume divided by the difference between peak inspiratory pressure and end-expiratory pressure (PIP - PEEP) where Plat is airway plateau pressure and PEEP is positive end-expiratory pressure. All values are derived from ventilator parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in the Radiographic Assessment of Lung Oedema (RALE) score</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>To calculate RALE, each radiographic quadrant is scored for extent of consolidation (0-4) and density of opacification (1-3). The product of the consolidation and density scores for each of the four quadrants is summed (minimum score=0, maximum score=48; higher scores mean worse outcome).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration on invasive mechanical ventilation.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Duration of mechanical ventilation is defined as the number of hours that the subject receives invasive mechanical ventilation for at least 1 hour duration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of any ventilatory support.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Duration of ventilatory support is defined as the number of hours that the subject receives oxygen via nasal canula, mask ventilation, or endotracheal tube ventilation for at least 1 hour duration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Ventilator Free Days (VFDs)</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>VFDs to day 28 are defined as the number of days from the time of initiating unassisted breathing to day 28 after randomization, assuming survival for at least 48 hours after initiating unassisted breathing and continued unassisted breathing to day 28. If a subject returns to assisted breathing and subsequently achieves unassisted breathing to day 28, VFDs will be counted from the end of the last period of assisted breathing to day 28. A period of assisted breathing lasting less than 24 hours and for the purpose of a surgical procedure will not count against the VFD calculation. If a subject was receiving assisted breathing at day 27 or dies prior to day 28, VFDs will be zero. Subjects transferred to another hospital or other health care facility will be followed to day 28 to assess this endpoint.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Reintubation (after extubation) (if applicable).</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Reintubation is defined as the need for reintubation after initial successful extubation for 48 hours.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Sequential Organ Failure Assessment (SOFA) score.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>The SOFA score is used for prediction of mortality in ICU patients. Initial and highest scores of more than 11 or mean scores of more than 5 corresponded to mortality of more than 80%.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of hospital mortality.</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Hospital mortality is defined as mortality that occurred during hospitalization up to Day 28, defined as 672 hours from the time of randomization. All subjects will be classified as either &quot;alive at Study Day 28&quot; or, if dead, &quot;dead at Study Day 28.&quot;</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of all-cause mortality.</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>All-cause mortality is defined that occurred for any cause up to Day 28, defined as 672 hours from the time of randomization. All subjects will be classified as either &quot;alive at Study Day 28&quot; or, if dead, &quot;dead at Study Day 28.&quot;</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration in ICU.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Length of ICU stay is defined as the number of hours in the ICU for at least 1 hour duration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration in hospital.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Length of hospital stay will be defined as the number of hours hospitalized for at least 1 hour duration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of subjects alive and free of respiratory failure or extracorporeal membrane oxygenation (ECMO)).</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>Alive and free of respiratory failure is defined as being alive without the need for invasive mechanical ventilation, non-invasive ventilation, high-flow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥ 0.5), or extracorporeal membrane oxygenation (ECMO).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Hierarchical Alive and Ventilator Free (AVF) score.</measure>
+    <time_frame>Through study completion, Day 60</time_frame>
+    <description>To compute AVF, each subject is compared to every other subject in both trial arms and assigned a score (win=+1; lose=-1; tie=0) for each pairwise comparison, based on which fared better.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Short Form 36 Health Survey Questionnaire (SF-36).</measure>
+    <time_frame>Days 9 through 60</time_frame>
+    <description>The short form 36 health survey questionnaire (SF-36)18 measures health perception. The lowest score of 0 indicates unhealthy, where as the highest score of 100 indicates healthy.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Euro Quality of Life Health Survey (EQ-5D-5L).</measure>
+    <time_frame>Days 9 through 60</time_frame>
+    <description>The EuroQOL health survey instrument (EQ-5D-5L)18 is a five-dimensional five-level generic measure designed to measure and value health status. A Level 1 score indicates no problems. A Level 5 score indicates unable to/extreme problems.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Peak plasma concentration (Cmax) for GEn-1124 and its metabolites.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Terminal elimination rate constant (Kel) and half-life (T1/2) in plasma for GEn-1124 and its metabolites.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC) for GEn-1124 and its metabolites.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Plasma volume of distribution (Vss) for GEn-1124 and its metabolites.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Plasma Clearance (CL) for GEn-1124 and its metabolites.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Plasma concentration at steady state (Css) for GEn-1124 and its metabolites.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Measure protein biomarkers in whole blood.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+    <description>Protein biomarkers including TNFalpha, IL6 and IL1beta, IL10 and HSP27 will be measured by Olink's arbitrary unit, Normalized Protein eXpression (NPX), which is in Log2 scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Measure protein biomarkers in bronchoalveolar lavage (BAL) fluid.</measure>
+    <time_frame>Days 1 through 6</time_frame>
+    <description>Protein biomarkers including TNFalpha, IL6 and IL1beta, IL10 and HSP27 will be measured by Olink's arbitrary unit, Normalized Protein eXpression (NPX), which is in Log2 scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Measure protein biomarkers in tracheal aspirate (TA).</measure>
+    <time_frame>Days 1 through 6</time_frame>
+    <description>Protein biomarkers including TNFalpha, IL6 and IL1beta, IL10 and HSP27 will be measured by Olink's arbitrary unit, Normalized Protein eXpression (NPX), which is in Log2 scale.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">52</enrollment>
+  <condition>Respiratory Distress Syndrome, Acute</condition>
+  <arm_group>
+    <arm_group_label>Part 1 Cohort 1: GEn-1124</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects in cohort 1 will receive low dose GEn-1124 BID intravenous 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1 Cohort 2: GEn-1124</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects in cohort 2 will receive high dose GEn-1124 BID intravenous for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects randomized to placebo will receive a placebo in a matching dosing regimen (Placebo BID intravenous for 5 days).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: GEn-1124</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Depending on the analysis of part 1, subjects in part 2 will receive GEn-1124 BID intravenous for 5 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GEn-1124</intervention_name>
+    <description>Intravenous infusion</description>
+    <arm_group_label>Part 1 Cohort 1: GEn-1124</arm_group_label>
+    <arm_group_label>Part 1 Cohort 2: GEn-1124</arm_group_label>
+    <arm_group_label>Part 2: GEn-1124</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female subject between the ages of 18 and 80 years old, inclusive.&#xD;
+&#xD;
+          2. Written informed consent .&#xD;
+&#xD;
+          3. Hospital admission.&#xD;
+&#xD;
+          4. Dosing within 48 hours of first meeting ARDS.&#xD;
+&#xD;
+          5. Acceptable method of birth control.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject, surrogate, or physician not committed, or eligible, to receive full&#xD;
+             supportive care measures.&#xD;
+&#xD;
+          2. Pregnant or breastfeeding&#xD;
+&#xD;
+          3. Body mass index (BMI) &lt;18 or &gt;40 kg/m2.&#xD;
+&#xD;
+          4. Currently incarcerated in a correctional institution or involuntarily committed to an&#xD;
+             inpatient mental health facility.&#xD;
+&#xD;
+          5. Active malignancy (other than non-melanoma skin cancer) requiring treatment within the&#xD;
+             last one year.&#xD;
+&#xD;
+          6. Any other irreversible disease or condition for which 6-month mortality is estimated&#xD;
+             to be &gt;50%.&#xD;
+&#xD;
+          7. Moderate to severe liver failure.&#xD;
+&#xD;
+          8. Acute or chronic kidney disease.&#xD;
+&#xD;
+          9. Unstable cardiac disease.&#xD;
+&#xD;
+         10. Severe chronic respiratory disease with a partial pressure of carbon dioxide (PaCO2)&#xD;
+             &gt;50 mmHg or the use of home oxygen.&#xD;
+&#xD;
+         11. Poly-traumatic injury resulting in significant blood loss and/or likely to require&#xD;
+             major surgery within the study period, or subject condition that would interfere with&#xD;
+             study procedures.&#xD;
+&#xD;
+         12. History of any type of solid organ or cellular transplant.&#xD;
+&#xD;
+         13. Chronic use of immunosuppressants, including corticosteroids.&#xD;
+&#xD;
+         14. Moribund subject not expected to survive 24 hours.&#xD;
+&#xD;
+         15. Do not resuscitate (DNR) status.&#xD;
+&#xD;
+         16. World Health Organization (WHO) functional class III or IV pulmonary hypertension.&#xD;
+&#xD;
+         17. Burn victims currently undergoing treatment for &gt;20% total body surface area (TBSA)&#xD;
+             involvement or for known airway inhalation injury.&#xD;
+&#xD;
+         18. Neuromuscular disease that could impact ability to wean from mechanical ventilation.&#xD;
+&#xD;
+         19. History of tuberculosis (TB); undergoing treatment for latent TB infection (LTBI);&#xD;
+             untreated LTBI (as determined by documented results within 3 months of Screening of a&#xD;
+             positive TB test).&#xD;
+&#xD;
+         20. Positive Hepatitis B (except due to recent Hepatitis B vaccination), Hepatitis C, or&#xD;
+             human immunodeficiency (HIV) screen.&#xD;
+&#xD;
+         21. Subjects on ongoing chronic use of corticosteroids at the time of randomization.&#xD;
+&#xD;
+         22. Use of any investigational drug or device within last 30 days of dosing or 5&#xD;
+             half-lives, whichever is longer.&#xD;
+&#xD;
+         23. Any other medical, psychiatric, or social condition that, in the opinion of the&#xD;
+             investigator, is likely to unfavorably alter the risk-benefit of subject&#xD;
+             participation, to interfere with protocol compliance, or to confound safety.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ritu Lal, PhD, MS</last_name>
+    <role>Study Director</role>
+    <affiliation>GEn1E Lifesciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ritu Lal, PhD, MS</last_name>
+    <phone>650-485-3279</phone>
+    <email>clinical@gen1elifesci.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ocean Springs Hospital</name>
+      <address>
+        <city>Ocean Springs</city>
+        <state>Mississippi</state>
+        <zip>39564</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.gen1e.com/</url>
+    <description>GEn1E Lifesciences</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>February 24, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

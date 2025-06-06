@@ -1,0 +1,263 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079750</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EBL07</org_study_id>
+    <nct_id>NCT05079750</nct_id>
+  </id_info>
+  <brief_title>A Study of a New Vaccine Against Two Types of Ebola</brief_title>
+  <official_title>A Phase I Study to Determine the Safety and Immunogenicity of a Bivalent ChAdOx1 Vectored Vaccine Against Zaire and Sudan Ebola Virus Species in UK Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An open-label, non-randomised, dose escalation, first-in-human, single centre, phase I&#xD;
+      clinical trial to determine the safety and immunogenicity of a bivalent ChAdOx1 vectored&#xD;
+      vaccine against Zaire and Sudan Ebola virus species in healthy adult volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a first-in-human, open-label, dose escalation, phase I clinical trial to assess the&#xD;
+      safety and immunogenicity of the candidate ChAdOx1 biEBOV vaccine in healthy UK volunteers&#xD;
+      aged 18-55. The vaccine will be administered intramuscularly (IM).&#xD;
+&#xD;
+      Volunteers will be recruited and vaccinated at the Centre for Clinical Vaccinology and&#xD;
+      Tropical Medicine (CCVTM), Oxford. There will be 3 study groups and it is anticipated that a&#xD;
+      total of 26 volunteers will be enrolled. Dose escalation and sentinel participant procedures&#xD;
+      will be implemented. Volunteers will be first recruited into Group 1 and subsequently into&#xD;
+      Groups 2 and 3 following interim clinical safety reviews. Volunteers will be sequentially&#xD;
+      allocated to a study group by selecting eligible volunteers for enrolment following&#xD;
+      screening. Sequential allocation will occur based on the order in which volunteers are&#xD;
+      enrolled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 11, 2021</start_date>
+  <completion_date type="Actual">March 21, 2023</completion_date>
+  <primary_completion_date type="Actual">March 21, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Investigate the safety and tolerability of ChAdOx1 biEBOV in healthy volunteers: Occurrence of solicited signs and symptoms</measure>
+    <time_frame>7 days following vaccination</time_frame>
+    <description>Occurrence of solicited local and systemic reactogenicity signs and symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Investigate the safety and tolerability of ChAdOx1 biEBOV in healthy volunteers: Occurrence of unsolicited signs and symptoms</measure>
+    <time_frame>28 days following vaccination</time_frame>
+    <description>Occurrence of unsolicited adverse events (AEs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Investigate the safety and tolerability of ChAdOx1 biEBOV in healthy volunteers: Occurrence of Serious Adverse Events</measure>
+    <time_frame>Duration of the study (6 months)</time_frame>
+    <description>Occurrence of SAEs and AESIs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Investigate the safety and tolerability of ChAdOx1 biEBOV in healthy volunteers: Occurrence of adverse events as identified by change in baseline safety laboratory measures</measure>
+    <time_frame>28 days following vaccination</time_frame>
+    <description>Occurrence of changes from baseline safety laboratory measures (haematology and biochemistry) Safety laboratory measures include clinical blood tests for full blood count, liver function and renal function as graded on a predetermined toxicity grading scale.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Investigate the immunogenicity of ChAdOx1 biEBOV in healthy adult volunteers: Measure of humoral immunogenicity</measure>
+    <time_frame>At day 0, 28, 56 and 182</time_frame>
+    <description>ELISA to quantify antibodies to filovirus glycoprotein (specific serological response)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigate the immunogenicity of ChAdOx1 biEBOV in healthy adult volunteers: Measure of Cellular Immunogenicity</measure>
+    <time_frame>At day 0. 7. 14. 28. 56 and 182</time_frame>
+    <description>IFN-y ELISPOT to quantify filovirus glycoprotein specific T cell response</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Ebola</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Low Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>n=6 participants vaccinated with a single dose of ChAdOx1 biEBOV 5x10^9 vp</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Mid Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>n=6 participants vaccinated with a single dose of ChAdOx1 biEBOV 2.5x10^10 vp Note: may be increased to n=9 following interim safety reviews</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>n=14 participants vaccinated with two doses of ChAdOx1 biEBOV 5x10^10 vp, twelve weeks apart Note: will be decreased to n=11 if Group 2 is increased to n=9</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ChAdOx1 biEBOV</intervention_name>
+    <description>ChAdOx1 biEBOV provided as a liquid in glass vials and administered intramuscularly into the deltoid of the non-dominant arm (preferably)</description>
+    <arm_group_label>Group 1: Low Dose</arm_group_label>
+    <arm_group_label>Group 2: Mid Dose</arm_group_label>
+    <arm_group_label>Group 3: High Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy adults aged 18 to 55 years.&#xD;
+&#xD;
+          2. Able and willing (in the Investigator's opinion) to comply with all study&#xD;
+             requirements.&#xD;
+&#xD;
+          3. Willing to allow confirmation of their past medical history either through: provision&#xD;
+             of a GP medical record summary, allowing investigators to obtain a copy of their&#xD;
+             medical history from their GP practice or by providing an alternative acceptable means&#xD;
+             of confirming their past medical history.&#xD;
+&#xD;
+          4. Agreement to refrain from blood donation during the course of the study.&#xD;
+&#xD;
+          5. Provide written informed consent.&#xD;
+&#xD;
+          6. For women of childbearing potential only: Willingness to practice continuous effective&#xD;
+             contraception for the duration of the trial.&#xD;
+&#xD;
+          7. For women of childbearing potential only: A negative pregnancy test on the day of both&#xD;
+             screening and vaccination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in another research study involving receipt of an investigational&#xD;
+             product in the 30 days preceding enrolment or during the trial follow up period.&#xD;
+&#xD;
+          2. Receipt of a recombinant simian adenoviral vaccine prior to enrolment.&#xD;
+&#xD;
+          3. Planned receipt of another adenoviral vectored vaccine (e.g. Oxford/AstraZeneca or&#xD;
+             Janssen COVID-19 vaccines) within 90 days after the vaccination with the ChAdOx1&#xD;
+             biEBOV.&#xD;
+&#xD;
+          4. Planned or actual receipt of any vaccines administered within 30 days (before or&#xD;
+             after) enrolment and/or planned receipt of a vaccine ≤30 days after enrolment EXCEPT&#xD;
+             for protein, RNA (or other non-adenovirus based) COVID-19 vaccinations which may be&#xD;
+             given within 14 days of the trial vaccine.&#xD;
+&#xD;
+          5. Previous receipt of an Ebolavirus vaccine.&#xD;
+&#xD;
+          6. Administration of immunoglobulins and/or any blood products within the three months&#xD;
+             preceding the planned administration of the vaccine candidate.&#xD;
+&#xD;
+          7. Any confirmed or suspected immunosuppressive or immunodeficient state, including HIV&#xD;
+             infection; asplenia; recurrent, severe infections and chronic (more than 14 days)&#xD;
+             systemically active immunosuppressant medication within the past 6 months.&#xD;
+&#xD;
+          8. History of allergic disease or reactions likely to be exacerbated by any component of&#xD;
+             the vaccine. Including hypersensitivity to the active substance or to any of the&#xD;
+             excipients of the IMP or Vaxzevria (i.e. the Oxford/AstraZeneca COVID-19 vaccine).&#xD;
+&#xD;
+          9. History of hereditary angioedema, acquired angioedema, or idiopathic angioedema.&#xD;
+&#xD;
+         10. History of anaphylaxis in relation to vaccination.&#xD;
+&#xD;
+         11. History of cancer (except basal cell carcinoma of the skin and cervical carcinoma in&#xD;
+             situ).&#xD;
+&#xD;
+         12. History of serious psychiatric condition likely to affect participation in the study.&#xD;
+&#xD;
+         13. Ongoing or planned pregnancy or breastfeeding during the trial follow up period.&#xD;
+&#xD;
+         14. Bleeding disorder (eg. Factor deficiency, coagulopathy or platelet disorder), or prior&#xD;
+             history of significant bleeding or bruising following IM injections or venepuncture.&#xD;
+&#xD;
+         15. History of confirmed major thrombotic event (including cerebral venous sinus&#xD;
+             thrombosis, deep vein thrombosis, pulmonary embolism), history of antiphospholipid&#xD;
+             syndrome, or history of heparin induced thrombocytopenia.&#xD;
+&#xD;
+         16. Individuals who have experienced thrombosis with thrombocytopenia syndrome (TTS)&#xD;
+             following vaccination with Vaxzevria (i.e. the Oxford/AstraZeneca COVID-19 vaccine).&#xD;
+&#xD;
+         17. Individuals who have previously experienced episodes of capillary leak syndrome.&#xD;
+&#xD;
+         18. Any other serious chronic illness requiring hospital specialist supervision.&#xD;
+&#xD;
+         19. Suspected or known current alcohol abuse as defined by an alcohol intake of greater&#xD;
+             than 42 units every week.&#xD;
+&#xD;
+         20. Suspected or known injecting drug abuse in the 5 years preceding enrolment.&#xD;
+&#xD;
+         21. Detectable circulating hepatitis B surface antigen (HBsAg).&#xD;
+&#xD;
+         22. Seropositive for hepatitis C virus (antibodies to HCV).&#xD;
+&#xD;
+         23. Any clinically significant abnormal finding on screening biochemistry or haematology&#xD;
+             blood tests or urinalysis.&#xD;
+&#xD;
+         24. Any other significant disease, disorder or finding which may significantly increase&#xD;
+             the risk to the volunteer because of participation in the study, affect the ability of&#xD;
+             the volunteer to participate in the study or impair interpretation of the study data.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paola Cicconi, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Oxford</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centre for Clinical Vaccinology and Tropical Medicine, Churchill Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>April 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Ebola Virus Disease</keyword>
+  <keyword>Zaire Ebolavirus</keyword>
+  <keyword>EBOV</keyword>
+  <keyword>Sudan Ebolavirus</keyword>
+  <keyword>SUDV</keyword>
+  <keyword>Vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemorrhagic Fever, Ebola</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,605 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623020</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C1071006</org_study_id>
+    <secondary_id>2021-000803-20</secondary_id>
+    <nct_id>NCT05623020</nct_id>
+  </id_info>
+  <brief_title>A Study to Learn About the Effects of the Combination of Elranatamab (PF-06863135), Daratumumab, and Lenalidomide Compared With Daratumumab, Lenalidomide, and Dexamethasone in Patients With Newly Diagnosed Multiple Myeloma Who Are Not Candidates for Transplant</brief_title>
+  <acronym>MagnetisMM-6</acronym>
+  <official_title>MAGNETISMM-6: AN OPEN-LABEL, 2-ARM, MULTICENTER, RANDOMIZED PHASE 3 STUDY TO EVALUATE THE EFFICACY AND SAFETY OF ELRANATAMAB (PF-06863135) + DARATUMUMAB + LENALIDOMIDE VERSUS DARATUMUMAB + LENALIDOMIDE + DEXAMETHASONE IN TRANSPLANT-INELIGIBLE PARTICIPANTS WITH NEWLY-DIAGNOSED MULTIPLE MYELOMA</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Elranatamab is a bispecific antibody: binding of elranatamab to CD3-expressing T-cells and&#xD;
+      BCMA-expressing multiple myeloma cells causes targeted T-cell-mediated cytotoxicity. The main&#xD;
+      purpose of the study is to evaluate if the combination of Elranatamab, Daratumumab and&#xD;
+      Lenalidomide offers superior clinical benefit compared with the combination of Daratumumab,&#xD;
+      Lenalidomide and Dexamethasone in people with multiple myeloma.&#xD;
+&#xD;
+      There are 2 parts to this study. Part 1 will characterize the safety and tolerability of&#xD;
+      elranatamab when administered in combination with daratumumab and lenalidomide and will&#xD;
+      identify the optimal dose(s) of the combination regimen. Part 2 of the study will evaluate&#xD;
+      the minimal residual disease (MRD) negativity rate and the progression free survival (PFS) of&#xD;
+      the combination of elranatamab, daratumumab, and lenalidomide compared with the combination&#xD;
+      of daratumumab, lenalidomide, and dexamethasone in participants with newly diagnosed&#xD;
+      transplant-ineligible multiple myeloma.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 10, 2022</start_date>
+  <completion_date type="Anticipated">July 2, 2028</completion_date>
+  <primary_completion_date type="Anticipated">July 2, 2028</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1 Dose Limiting Toxicity</measure>
+    <time_frame>From the first dose of elranatamab until 28 days (+/- visit window) from the first administration of the EDR combination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Progression free survival by blinded independent central review</measure>
+    <time_frame>From randomization up to 73 months.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Sustained minimal residual disease negativity rate</measure>
+    <time_frame>For at least 12 months after randomization</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall minimal residual disease negativity rate</measure>
+    <time_frame>From date of randomization up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of minimal residual disease negativity (Part 2)</measure>
+    <time_frame>From date of minimal residual disease negative status up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS by investigator</measure>
+    <time_frame>From date of randomization up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS2 by investigator (Part 2)</measure>
+    <time_frame>From the date of randomization up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>From the date of randomization up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Response Rate</measure>
+    <time_frame>From the date of randomization up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response</measure>
+    <time_frame>From the date of randomization to date of confirmed objective response up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>From the date of confirmed objective response up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Complete Response</measure>
+    <time_frame>From the date of confirmed complete response up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of treatment-emergent adverse events</measure>
+    <time_frame>From the date of first dose of study intervention up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of abnormal laboratory results</measure>
+    <time_frame>From the date of first dose of study intervention up to 73 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elranatamab pharmacokinetics by pre-dose concentrations when used with lenalidomide and daratumumab</measure>
+    <time_frame>From date of first dose of study intervention up to 73 months</time_frame>
+    <description>Pharmacokinetics of elranatamab (trough concentrations of elranatamab)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elranatamab pharmacokinetics by post-dose concentrations when used with lenalidomide and daratumumab</measure>
+    <time_frame>From date of first dose of study intervention up to 73 months</time_frame>
+    <description>Pharmacokinetics of elranatamab (post-dose serum concentrations of elranatamab)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Anti-Drug Antibody and Neutralizing Antibody against elranatamab</measure>
+    <time_frame>From date of first dose of study intervention up to 73 months</time_frame>
+    <description>Immunogenicity of elranatamab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Titers of Anti-Drug Antibody and Neutralizing Antibody against elranatamab</measure>
+    <time_frame>From date of first dose of study intervention up to 73 months</time_frame>
+    <description>Immunogenicity of elranatamab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Health-related quality of life by European Organization for Research and Treatment of Cancer Quality of Life Questionnaire -Myeloma 20</measure>
+    <time_frame>From date the informed consent is signed up to 73 months</time_frame>
+    <description>Higher scores on the functioning subscales (body image, future perspective) represent higher levels of functioning, whereas higher scores on the symptom subscales (disease symptoms, side effects) represent a greater presence of symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Health-related quality of life by European Organization for Research and Treatment of Cancer Quality of Life Questionnaire C30</measure>
+    <time_frame>From date the informed consent is signed up to 73 months</time_frame>
+    <description>Higher scores on the functional scales represent higher levels of functioning. Higher scores on the global health status/quality of life scale represent higher health status/quality of life. Higher scores on the symptom scales/items represent a greater presence of symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 1: Daratumumab and lenalidomide pharmacokinetics by pre-dose concentrations in combination with elranatamab</measure>
+    <time_frame>From date of first dose of study intervention up to 73 months</time_frame>
+    <description>Pharmacokinetics of daratumumab and lenalidomide (trough concentrations of daratumumab and lenalidomide)</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">966</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Part 1, Dose Level 1: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1, Multiple Dose Levels, Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Randomized Arm A: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Randomized Arm B: Daratumumab + Lenalidomide + Dexamethasone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Elranatamab</intervention_name>
+    <description>Part 1 Dose Level 1 is not randomized. All other cohorts are randomized.</description>
+    <arm_group_label>Part 1, Dose Level 1: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 1, Multiple Dose Levels, Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 2 Randomized Arm A: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab</intervention_name>
+    <description>Part 1 Dose Level 1 is not randomized. All other cohorts are randomized.</description>
+    <arm_group_label>Part 1, Dose Level 1: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 1, Multiple Dose Levels, Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 2 Randomized Arm A: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 2 Randomized Arm B: Daratumumab + Lenalidomide + Dexamethasone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide</intervention_name>
+    <description>Part 1 Dose Level 1 is not randomized. All other cohorts are randomized.</description>
+    <arm_group_label>Part 1, Dose Level 1: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 1, Multiple Dose Levels, Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 2 Randomized Arm A: Elranatamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Part 2 Randomized Arm B: Daratumumab + Lenalidomide + Dexamethasone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Randomized</description>
+    <arm_group_label>Part 2 Randomized Arm B: Daratumumab + Lenalidomide + Dexamethasone</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of multiple myeloma (MM) as defined by IMWG criteria (Rajkumar et al., 2014)&#xD;
+&#xD;
+          -  Measurable disease based on IMWG criteria as defined by at least 1 of the following:&#xD;
+&#xD;
+               -  Serum M-protein ≥0.5 g/dL;&#xD;
+&#xD;
+               -  Urinary M-protein excretion ≥200 mg/24 hours;&#xD;
+&#xD;
+               -  Involved FLC ≥10 mg/dL (≥100 mg/L) AND abnormal serum immunoglobulin kappa to&#xD;
+                  lambda FLC ratio (&lt;0.26 or &gt;1.65).&#xD;
+&#xD;
+          -  Part 1: Participants with relapsed/refractory multiple myeloma (RRMM) who have&#xD;
+             received 1-2 prior lines of therapy including at least one immunomodulatory drug and&#xD;
+             one proteasome inhibitor: or participants with newly-diagnosed multiple myeloma (NDMM)&#xD;
+             that are transplant-ineligible as defined by age ≥65 years or transplant-ineligible as&#xD;
+             defined by age &lt;65 years with comorbidities impacting the possibility of transplant.&#xD;
+&#xD;
+          -  Part 2: participants with newly-diagnosed multiple myeloma that are&#xD;
+             transplant-ineligible as defined by age ≥65 years or transplant-ineligible as defined&#xD;
+             by age &lt;65 years with comorbidities impacting the possibility of transplant&#xD;
+&#xD;
+          -  ECOG performance status ≤2.&#xD;
+&#xD;
+          -  Not pregnant and willing to use contraception&#xD;
+&#xD;
+          -  For participants with RRMM: Resolved acute effects of any prior therapy to baseline&#xD;
+             severity or CTCAE Grade ≤1.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Smoldering Multiple Myeloma.&#xD;
+&#xD;
+          -  Monoclonal gammopathy of undetermined significance.&#xD;
+&#xD;
+          -  Waldenströms Macroglobulinemia&#xD;
+&#xD;
+          -  Plasma cell leukemia.&#xD;
+&#xD;
+          -  Active, uncontrolled bacterial, fungal, or viral infection, including (but not limited&#xD;
+             to) COVID-19/SARS-CoV-2, HBV, HCV, and known HIV or AIDS-related illness.&#xD;
+&#xD;
+          -  Any other active malignancy within 3 years prior to enrollment, except for adequately&#xD;
+             treated basal cell or squamous cell skin cancer, carcinoma in situ, or Stage 0/1 with&#xD;
+             minimal risk of recurrence per investigator.&#xD;
+&#xD;
+          -  For participants with RRMM: Previous treatment with a BCMA-directed therapy or&#xD;
+             anti-CD38-directed therapy within 6 months preceding the first dose of study&#xD;
+             intervention in this study. Stem cell transplant ≤3 months prior to first dose of&#xD;
+             study intervention or active GVHD.&#xD;
+&#xD;
+          -  For participants with NDMM: Previous systemic treatment for MM except for a short&#xD;
+             course of corticosteroids (ie, up to 4 days of 40 mg dexamethasone or equivalent&#xD;
+             before the first dose of study intervention).&#xD;
+&#xD;
+          -  Live attenuated vaccine administered within 4 weeks of the first dose of study&#xD;
+             intervention.&#xD;
+&#xD;
+          -  Administration of investigational product (eg, drug or vaccine) concurrent with study&#xD;
+             intervention or within 30 days (or as determined by the local requirement) preceding&#xD;
+             the first dose of study intervention used in this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pindara Private Hospital</name>
+      <address>
+        <city>Benowa</city>
+        <state>Queensland</state>
+        <zip>4217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Epworth Freemasons</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3002</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Alfred Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Epworth Hospital</name>
+      <address>
+        <city>Richmond</city>
+        <state>Victoria</state>
+        <zip>3121</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>QEII Health Sciences Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 2Y9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultní nemocnice Brno Bohunice</name>
+      <address>
+        <city>Brno</city>
+        <state>Brno-město</state>
+        <zip>625 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Ostrava</name>
+      <address>
+        <city>Ostrava</city>
+        <state>Moravskoslezský KRAJ</state>
+        <zip>708 52</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shizuoka Cancer Center</name>
+      <address>
+        <city>Nagaizumi-cho,Sunto-gun</city>
+        <state>Shizuoka</state>
+        <zip>411-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yamagata University Hospital</name>
+      <address>
+        <city>Yamagata</city>
+        <zip>990-9585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Seongnam</city>
+        <state>Kyǒnggi-do</state>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul-teukbyeolsi [seoul]</state>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego we Wrocławiu</name>
+      <address>
+        <city>Wroclaw</city>
+        <state>Dolnośląskie</state>
+        <zip>50-367</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersyteckie Centrum Kliniczne</name>
+      <address>
+        <city>Gdańsk</city>
+        <state>Pomorskie</state>
+        <zip>80-214</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne Pratia Poznań</name>
+      <address>
+        <city>Skorzewo</city>
+        <state>Wielkopolskie</state>
+        <zip>60-185</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pratia Onkologia Katowice</name>
+      <address>
+        <city>Katowice</city>
+        <state>Śląskie</state>
+        <zip>40-519</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Català d'Oncologia (ICO) - Badalona</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona [barcelona]</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalunya [cataluña]</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Madrid</city>
+        <state>Madrid, Comunidad DE</state>
+        <zip>28027</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Doctor Peset</name>
+      <address>
+        <city>Valencia</city>
+        <state>València</state>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital La Princesa</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>404332</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Czechia</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C1071006</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>October 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>May 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Elranatamab</keyword>
+  <keyword>PF-06863135</keyword>
+  <keyword>B-Cell Maturation Antigen</keyword>
+  <keyword>Daratumumab</keyword>
+  <keyword>Lenalidomide</keyword>
+  <keyword>Multiple myeloma</keyword>
+  <keyword>MagnetisMM-6</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Lenalidomide</mesh_term>
+    <mesh_term>Daratumumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

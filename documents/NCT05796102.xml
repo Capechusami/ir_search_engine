@@ -1,0 +1,155 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05796102</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-5780</org_study_id>
+    <nct_id>NCT05796102</nct_id>
+  </id_info>
+  <brief_title>PET-MRI Esophagus Feasibility Study</brief_title>
+  <official_title>Feasibility Study of PET-MRI as a Platform for Image Guidance and Adaptive Radiation Therapy in Patients With Esophagogastric Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single arm, single centre, investigator initiated study to investigate the&#xD;
+      feasibility of using PET-MRI imaging in radiation treatment workflow in up to 15 patients&#xD;
+      with esophagogastric cancer. PET-MRI imaging will be completed before the start of radiation&#xD;
+      treatment. MRI imaging will be completed during radiation treatment and after radiation&#xD;
+      treatment. These images will not be used to plan the radiation treatment and routine clinical&#xD;
+      care will be provided.&#xD;
+&#xD;
+      The goal of this study is to gather information that will allow the radiation team to include&#xD;
+      MRI and PET imaging into the radiation treatment workflow for patients with esophageal cancer&#xD;
+      receiving radiation therapy in the future.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 28, 2023</start_date>
+  <completion_date type="Anticipated">May 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of PET-MRI to visualize and assess impact of RT treatments on esophagogastric tumors</measure>
+    <time_frame>2 years</time_frame>
+    <description>Detection of metastases on DWI and gadolinium enhanced T1-weighted 3D VIBE sequences.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference in manual GTV segmentation using PET-MRI</measure>
+    <time_frame>2 years</time_frame>
+    <description>Differences in manual GTV segmentation between standard of care treatment plan and study generated treatment plan using PET-MRI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of dosimetric advantages of PET-MRI treatment plan</measure>
+    <time_frame>2 years</time_frame>
+    <description>Comparison of dosimetry properties between the standard of care treatment plan and study generated treatment plan using PET-MRI.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Esophagogastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>PET-MRI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PET-MRI in esophagogastric cancers</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>PET-MRI</intervention_name>
+    <description>A PET/MRI scan is a two-in-one test that combines images from a positron emission tomography (PET) scan and a magnetic resonance imaging (MRI) scan. Magnetic Resonance Imaging (MRI) provides better soft tissue contrast compared to conventional computerized tomography (CT), and when combined with PET, can potentially provide better visualization of the tumor shape, size, and position.&#xD;
+Additional MRI imaging will be completed once during radiation treatment, and once after radiation treatment</description>
+    <arm_group_label>PET-MRI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients 18 years or older&#xD;
+&#xD;
+          -  Diagnosed with locally advanced esophageal cancer being considered for conventional RT&#xD;
+             &gt;4 weeks&#xD;
+&#xD;
+          -  Ability and willingness to provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindication for MRI&#xD;
+&#xD;
+          -  Contraindication for Gadolinium (i.e. inability to lie supine for at least 60 minutes)&#xD;
+&#xD;
+          -  Any patient who is pregnant or breastfeeding&#xD;
+&#xD;
+          -  Pacemaker or implanted defibrillator&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Cynthia Torres</last_name>
+    <phone>416-946-4501</phone>
+    <phone_ext>5881</phone_ext>
+    <email>cynthia.torres@rmp.uhn.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rebecca Rebecca.Wong@rmp.uhn.ca, MD</last_name>
+    <phone>416-946-4501</phone>
+    <phone_ext>2983</phone_ext>
+    <email>Rebecca.Wong@rmp.uhn.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Princess Margaret Cancer Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Bartolo Rego</last_name>
+      <email>rmp.regulatory.affairs@rmp.uhn.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

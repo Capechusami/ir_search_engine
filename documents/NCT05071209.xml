@@ -1,0 +1,784 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05071209</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2021-10751</org_study_id>
+    <secondary_id>NCI-2021-10751</secondary_id>
+    <secondary_id>PEPN2112</secondary_id>
+    <secondary_id>PEPN2112</secondary_id>
+    <secondary_id>UM1CA228823</secondary_id>
+    <nct_id>NCT05071209</nct_id>
+  </id_info>
+  <brief_title>Elimusertib for the Treatment of Relapsed or Refractory Solid Tumors</brief_title>
+  <official_title>A Phase 1/ 2 Study of BAY 1895344 (Elimusertib, NSC#810486) in Pediatric Patients With Relapsed or Refractory Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial tests the safety, best dose, and whether elimusertib works in treating&#xD;
+      patients with solid tumors that have come back (relapsed) or does not respond to treatment&#xD;
+      (refractory). Elimusertib may stop the growth of tumor cells by blocking some of the enzymes&#xD;
+      needed for cell growth.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To estimate the maximum tolerated dose (MTD) and/or recommended phase 2 dose (RP2D) of BAY&#xD;
+      1895344 (elimusertib) administered as an oral tablet, twice per day for 3 days on and 4 days&#xD;
+      off to patients &lt; 18 years of age with recurrent or refractory Ewing sarcoma (and EWS&#xD;
+      fusions), PAX3-FOXO1 alveolar rhabdomyosarcoma, and non-central nervous system (CNS) solid&#xD;
+      tumors or lymphoma with specific deleterious deoxyribonucleic acid (DNA) damage response&#xD;
+      (DDR) pathway alterations. (Phase 1/Part A) II. To define the antitumor activity of BAY&#xD;
+      1895344 (elimusertib) in pediatric patients and young adults with recurrent or refractory&#xD;
+      Ewing sarcoma (and EWS fusions). (Phase 2/Part B) III. To define the antitumor activity of&#xD;
+      BAY 1895344 (elimusertib) in pediatric patients and young adults with recurrent or refractory&#xD;
+      PAX3-FOXO1 fusion positive alveolar rhabdomyosarcoma. (Phase 2/Part B) IV. To define and&#xD;
+      describe the toxicities of BAY 1895344 (elimusertib) administered on this schedule. (Phase&#xD;
+      1/Part A)&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To characterize the pharmacokinetics of BAY 1895344 (elimusertib) in children and&#xD;
+      adolescents with recurrent or refractory cancer.&#xD;
+&#xD;
+      II. To assess the biologic activity of BAY 1895344 (elimusertib) by immunohistochemical&#xD;
+      assessments of phosphorylated (p)ATR, pH2AX, and pKAP1 in paired tissue samples before and&#xD;
+      after treatment with BAY 1895344 (elimusertib).&#xD;
+&#xD;
+      III. To assess whether the activity of BAY 1895344 (elimusertib) is influenced by alternative&#xD;
+      lengthening of telomeres (ALT), as well as tumor tissue expression of ATM, PGBD5, and/or&#xD;
+      R-loops.&#xD;
+&#xD;
+      IV. To assess whether the activity of BAY 1895344 (elimusertib) is associated with tumor&#xD;
+      mutational processes, as measured by whole genome tumor tissue sequencing.&#xD;
+&#xD;
+      V. To preliminary determine the anti-tumor activity of BAY 1895344 (elimusertib) in children&#xD;
+      &lt; 18 years of age within the confines of a phase 1 study (Phase 1 and 2/Part A and B).&#xD;
+&#xD;
+      VI. To assess the antitumor activity of BAY 1895344 (elimusertib) in pediatric patients with&#xD;
+      non-CNS solid tumors or lymphomas with specific deleterious alterations in DDR pathway genes.&#xD;
+      (Phase 2/Part B)&#xD;
+&#xD;
+      OUTLINE: This is pediatric a phase I, dose-escalation study as well as a phase II dose&#xD;
+      expansion study in pediatric patients and young adults.&#xD;
+&#xD;
+      Patients receive elimusertib orally (PO) twice daily (BID) on days 1-3, 8-10, 15-17, and&#xD;
+      22-24 of each cycle. Treatment repeats every 28 days for 26 cycles in the absence of disease&#xD;
+      progression or unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up every 3 months for 12 months,&#xD;
+      every 6 months for 24 months, and then annually for up to 60 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">December 3, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of cycle 1 dose limiting toxicities for BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 28 days (cycle 1)</time_frame>
+    <description>Frequency (%) of patients experiencing a cycle 1 dose limiting toxicity among toxicity-evaluable patients stratified by dose level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Response of BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Frequency (%) of patients with best response of complete response or partial response among response-evaluable patients stratified by Phase 2 cohort.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events of BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Frequency (%) of patients with adverse events stratified by study part and dose level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the drug concentration time curve of BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Median (min, max) of the area under the drug concentration time curve (AUC) in cycle 1 stratified by study part and dose level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in phosphorylated (p)ATR of BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Median (min, max) of the change in pKAP1 stratified by study part and dose level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in pH2AX of BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Median (min, max) of the change in pKAP1 stratified by study part and dose level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in pKAP1 of BAY 1895344 (elimusertib)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Median (min, max) of the change in pKAP1 stratified by study part and dose level.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">23</enrollment>
+  <condition>Recurrent Alveolar Rhabdomyosarcoma</condition>
+  <condition>Recurrent Ewing Sarcoma</condition>
+  <condition>Recurrent Lymphoma</condition>
+  <condition>Recurrent Malignant Solid Neoplasm</condition>
+  <condition>Refractory Alveolar Rhabdomyosarcoma</condition>
+  <condition>Refractory Ewing Sarcoma</condition>
+  <condition>Refractory Lymphoma</condition>
+  <condition>Refractory Malignant Solid Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Treatment (elimusertib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive elimusertib PO BID on days 1-3, 8-10, 15-17, and 22-24 of each cycle. Treatment repeats every 28 days for 26 cycles in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Elimusertib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (elimusertib)</arm_group_label>
+    <other_name>ATR Inhibitor BAY1895344</other_name>
+    <other_name>ATR Kinase Inhibitor BAY1895344</other_name>
+    <other_name>BAY 1895344</other_name>
+    <other_name>BAY-1895344</other_name>
+    <other_name>BAY1895344</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Part A: Patients between &gt;= 12 months and &lt; 18 years of age&#xD;
+&#xD;
+          -  Part B:&#xD;
+&#xD;
+               -  Patients between &gt;= 12 months and =&lt; 30 years of age for the phase 2 expansion&#xD;
+                  cohorts for both EWS and PAX3-FOXO1 ARMS.&#xD;
+&#xD;
+               -  Patients between &gt;= 12 months and =&lt; 21 years of age for the phase 2 DDR&#xD;
+                  expansion cohort&#xD;
+&#xD;
+                    -  The Phase 2 cohorts will initially open concurrently with the Phase 1&#xD;
+                       portion but will only enroll patients at least 18 years of age. Patients &lt;&#xD;
+                       18 years of age will be included in the Phase 2 cohorts only after the&#xD;
+                       RP2D/MTD has been estimated in the Phase 1 portion&#xD;
+&#xD;
+          -  All patients for both Parts A and B must have a minimum body surface area (BSA) &gt;=&#xD;
+             0.74 m^2&#xD;
+&#xD;
+          -  All patients for both Parts A and B must have the ability to swallow BAY 1895344&#xD;
+             (elimusertib) tablets intact&#xD;
+&#xD;
+          -  Patients with recurrent or refractory solid tumors. Patients must have had histologic&#xD;
+             verification of malignancy at original diagnosis or relapse&#xD;
+&#xD;
+          -  Part A: Any (non-CNS primary) solid tumor diagnosis including lymphoma which meets one&#xD;
+             of the following criteria:&#xD;
+&#xD;
+               -  Any Ewing Sarcoma (histological confirmation alone is adequate) or any EWS-fusion&#xD;
+                  positive solid tumor (i.e. including related Ewing's family of tumors with EWS&#xD;
+                  fusions such as EWS-WT1, EWS-ATF1, etc.)&#xD;
+&#xD;
+               -  Alveolar rhabdomyosarcoma (ARMS) with the PAX3-FOXO1 fusion. This does not&#xD;
+                  include PAX7-FOXO1 or other variant fusion ARMS. Please note that a FISH showing&#xD;
+                  FOXO1 breakapart is NOT sufficient for eligibility onto this cohort since it&#xD;
+                  cannot distinguish between FOXO1 partners&#xD;
+&#xD;
+               -  Any (non-CNS primary) solid tumor including lymphoma with inactivating&#xD;
+                  alterations of any of the DNA Damage Repair (DDR) genes: ATM, ATRX, BRCA1, BRCA2,&#xD;
+                  CDK12, CHEK1, CHEK2, FANCA, MSH2, MRE11, PALB2, PARP1, POLD1, RAD51, or XRCC2&#xD;
+&#xD;
+          -  Part B: Any (non-CNS primary) solid tumor diagnosis including lymphoma which meets one&#xD;
+             of the following criteria:&#xD;
+&#xD;
+               -  B1, EWS Cohort:&#xD;
+&#xD;
+                    -  Any Ewing Sarcoma (histological confirmation alone is adequate) or any&#xD;
+                       EWS-fusion positive solid tumor (i.e. including related Ewing's family of&#xD;
+                       tumors with EWS fusions such as EWS-WT1, EWS-ATF1, etc.)&#xD;
+&#xD;
+               -  B2, PAX3-FOXO1 ARMS Cohort:&#xD;
+&#xD;
+                    -  Alveolar rhabdomyosarcoma (ARMS) with the PAX3-FOXO1 fusion. This does not&#xD;
+                       include PAX7-FOXO1 or other variant fusion ARMS. Please note that a FISH&#xD;
+                       showing FOXO1 breakapart is NOT sufficient for eligibility onto this cohort&#xD;
+                       since it cannot distinguish between FOXO1 partners&#xD;
+&#xD;
+               -  B3, DDR Non-statistical Cohort:&#xD;
+&#xD;
+                    -  Any (non-CNS primary) solid tumor including lymphoma with inactivating&#xD;
+                       alterations of any of the DNA Damage Repair (DDR) genes: ATM, ATRX, BRCA1,&#xD;
+                       BRCA2, CDK12, CHEK1, CHEK2, FANCA, MSH2, MRE11, PALB2, PARP1, POLD1, RAD51,&#xD;
+                       or XRCC2&#xD;
+&#xD;
+          -  All the genes on the DDR panel are annotated with OncoKB, a precision oncology&#xD;
+             knowledge base which is publicly available here: https://www.oncokb.org/. Alterations&#xD;
+             which are categorized either 'Oncogenic' or 'Likely Oncogenic' would be considered&#xD;
+             sufficient for eligibility on either the phase 1 or phase 2 portions of this study.&#xD;
+             Alterations which are not annotated in OncoKB will need to be reviewed with locally&#xD;
+             qualified experts in molecular pathology, such as via an established molecular tumor&#xD;
+             board, in order to determine the likely oncogenicity AND will require approval by the&#xD;
+             study chair, Dr. Michael Ortiz. If such experts are not available at any institution,&#xD;
+             the study chair will review&#xD;
+&#xD;
+          -  In cases where multiple mutations are present or multiple samples are available,&#xD;
+             either at different locations or different points in time, the presence of a single&#xD;
+             qualifying genomic alteration in any of those samples will is considered sufficient&#xD;
+             for eligibility on the phase 2 portions of this study&#xD;
+&#xD;
+          -  Qualifying aberrations must be detected in either DNA or ribonucleic acid (RNA) in any&#xD;
+             tumor tissue sample (i.e. detection of a variant on circulating tumor DNA/RNA is not&#xD;
+             sufficient to qualify) using a somatic (and/or germline) mutational testing approach&#xD;
+             with either a targeted panel or whole exome/genome sequencing in the context of a&#xD;
+             Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory setting. Any&#xD;
+             CLIA certified laboratory is acceptable to use&#xD;
+&#xD;
+          -  Part A: Patients must have either measurable or evaluable disease&#xD;
+&#xD;
+          -  Part B (1, 2, 3): Patients must have measurable disease&#xD;
+&#xD;
+          -  Patients with a prior history of CNS metastases may enroll on study provided there is&#xD;
+             no current evidence of active disease at the time of enrollment&#xD;
+&#xD;
+          -  Patient's current disease state must be one for which there is no known curative&#xD;
+             therapy or therapy proven to prolong survival with an acceptable quality of life&#xD;
+&#xD;
+          -  Patients must have a performance status corresponding to Eastern Cooperative Oncology&#xD;
+             Group (ECOG) scores of 0, 1 or 2. Use Karnofsky &gt;= 50% for patients &gt; 16 years of age&#xD;
+             and Lansky &gt;= 50% for patients =&lt; 16 years of age. Note that neurologic deficits in&#xD;
+             patients with tumors previously metastatic to the CNS (or other non-oncologic reasons)&#xD;
+             must have been stable for at least 7 days prior to study enrollment. Patients who are&#xD;
+             unable to walk because of paralysis, but who are up in a wheelchair, will be&#xD;
+             considered ambulatory for the purpose of assessing the performance score&#xD;
+&#xD;
+          -  Patients must have fully recovered from the acute toxic effects of all prior&#xD;
+             anti-cancer therapy and must meet the following minimum duration from prior&#xD;
+             anti-cancer directed therapy prior to enrollment. If after the required timeframe, the&#xD;
+             numerical eligibility criteria are met, e.g., blood count criteria, the patient is&#xD;
+             considered to have recovered adequately&#xD;
+&#xD;
+               -  Cytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive:&#xD;
+                  &gt;= 21 days after the last dose of myelosuppressive chemotherapy (42 days if prior&#xD;
+                  nitrosourea)&#xD;
+&#xD;
+               -  Anti-cancer agents not known to be myelosuppressive (e.g., not associated with&#xD;
+                  reduced platelet or absolute neutrophil count [ANC] counts): &gt;= 7 days after the&#xD;
+                  last dose of agent&#xD;
+&#xD;
+               -  Antibodies: &gt;= 21 days must have elapsed from infusion of last dose of antibody,&#xD;
+                  and toxicity related to prior antibody therapy must be recovered to grade =&lt; 1&#xD;
+&#xD;
+               -  Corticosteroids: If used to modify immune adverse events related to prior&#xD;
+                  therapy, &gt;= 14 days must have elapsed since last dose of corticosteroid&#xD;
+&#xD;
+               -  Hematopoietic growth factors: &gt;= 14 days after the last dose of a long-acting&#xD;
+                  growth factor (e.g., pegfilgrastim) or 7 days for short acting growth factor. For&#xD;
+                  agents that have known adverse events occurring beyond 7 days after&#xD;
+                  administration, this period must be extended beyond the time during which adverse&#xD;
+                  events are known to occur&#xD;
+&#xD;
+               -  Interleukins, interferons and cytokines (other than hematopoietic growth&#xD;
+                  factors): &gt;= 21 days after the completion of interleukins, interferon or&#xD;
+                  cytokines (other than hematopoietic growth factors)&#xD;
+&#xD;
+               -  Stem cell Infusions (with or without total-body irradiation [TBI]):&#xD;
+&#xD;
+                    -  Allogeneic (non-autologous) bone marrow or stem cell transplant, or any stem&#xD;
+                       cell infusion including donor lymphocyte infusions (DLI) or boost infusion:&#xD;
+                       &gt;= 84 days after infusion and no evidence of graft versus host disease&#xD;
+                       (GVHD)&#xD;
+&#xD;
+                    -  Autologous stem cell infusion including boost infusion: &gt;= 30 days&#xD;
+&#xD;
+               -  Cellular therapy: &gt;= 42 days after the completion of any type of cellular therapy&#xD;
+                  (e.g., modified T cells, natural killer [NK] cells, dendritic cells, etc.)&#xD;
+&#xD;
+               -  Radiation therapy (XRT)/external beam irradiation including protons: &gt;= 14 days&#xD;
+                  after local XRT; &gt;= 150 days after TBI, craniospinal XRT or if radiation to &gt;=&#xD;
+                  50% of the pelvis; &gt;= 42 days if other substantial bone marrow (BM) radiation&#xD;
+&#xD;
+               -  Radiopharmaceutical therapy (e.g., radiolabeled antibody, 131I MIBG): &gt;= 42 days&#xD;
+                  after systemically administered radiopharmaceutical therapy&#xD;
+&#xD;
+               -  Study specific prior therapy: Patients must not have received prior exposure to&#xD;
+                  BAY 1895344 (elimusertib) or any other specific ATR inhibitors including&#xD;
+                  berzosertib (M6620, VX-970), ceralasertib (AZD6738), M4344 (VX-803), M1774, and&#xD;
+                  RP-3500. Treatment with other DNA damage repair inhibitors which do not&#xD;
+                  specifically inhibit ATR (e.g. PARP inhibitors, WEE1 inhibitors, CHEK1&#xD;
+                  inhibitors, etc.) does not exclude them from eligibility on this study&#xD;
+&#xD;
+          -  For patients with solid tumors without known bone marrow involvement&#xD;
+&#xD;
+               -  Peripheral absolute neutrophil count (ANC) &gt;= 1000/uL&#xD;
+&#xD;
+          -  For patients with solid tumors without known bone marrow involvement&#xD;
+&#xD;
+               -  Platelet count &gt;= 100,000/uL (transfusion independent, defined as not receiving&#xD;
+                  platelet transfusions for at least 7 days prior to enrollment)&#xD;
+&#xD;
+          -  For patients with solid tumors without known bone marrow involvement&#xD;
+&#xD;
+               -  Hemoglobin &gt;= 8.0 g/dL at baseline (may receive red blood cell [RBC]&#xD;
+                  transfusions)&#xD;
+&#xD;
+          -  Patients with known or possible bone marrow metastatic disease will be eligible for&#xD;
+             study provided they meet the blood counts in above inclusion criteria (may receive&#xD;
+             transfusions provided they are not known to be refractory to red cell or platelet&#xD;
+             transfusions). These patients will not be evaluable for hematologic toxicity. At least&#xD;
+             5 of every cohort of 6 patients must be evaluable for hematologic toxicity for the&#xD;
+             dose-escalation part of the study. If dose-limiting hematologic toxicity is observed,&#xD;
+             all subsequent patients enrolled must be evaluable for hematologic toxicity&#xD;
+&#xD;
+          -  Serum creatinine clearance or radioisotope glomerular filtration rate (GFR) &gt;= 70&#xD;
+             mL/min/1.73 m^2 or a creatinine based on age/gender as follows:&#xD;
+&#xD;
+               -  Age: 1 to &lt; 2 years; Maximum serum creatinine (mg/dL): 0.6 (male); 0.6 (female)&#xD;
+&#xD;
+               -  Age: 2 to &lt; 6 years; Maximum serum creatinine (mg/dL): 0.8 (male); 0.8 (female)&#xD;
+&#xD;
+               -  Age: 6 to &lt; 10 years; Maximum serum creatinine (mg/dL): 1 (male); 1 (female)&#xD;
+&#xD;
+               -  Age: 10 to &lt; 13 years; Maximum serum creatinine (mg/dL): 1.2 (male); 1.2 (female)&#xD;
+&#xD;
+               -  Age: 13 to &lt; 16 years; Maximum serum creatinine (mg/dL): 1.5 (male); 1.4 (female)&#xD;
+&#xD;
+               -  Age: &gt;= 16 years; Maximum serum creatinine (mg/dL): 1.7 (male); 1.4 (female)&#xD;
+&#xD;
+          -  Bilirubin (sum of conjugated + unconjugated or total) =&lt; 1.5 x upper limit of normal&#xD;
+             (ULN) for age&#xD;
+&#xD;
+          -  Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =&lt; 135&#xD;
+             U/L. For the purpose of this study, the ULN for SGPT is 45 U/L&#xD;
+&#xD;
+          -  Patients with seizure disorder may be enrolled if on anticonvulsants and well&#xD;
+             controlled as evidenced by no increase in seizure frequency in the prior 7 days. For&#xD;
+             patients a history of seizure but not on anticonvulsants, no seizure in the past 3&#xD;
+             months&#xD;
+&#xD;
+          -  Nervous system disorders (Common Terminology Criteria for Adverse Events [CTCAE]&#xD;
+             version [v]5) resulting from prior therapy must be =&lt; grade 2, with the exception of&#xD;
+             decreased tendon reflex (DTR). Any grade of DTR is eligible&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breast-feeding women will not be entered on this study due to risks of&#xD;
+             fetal and teratogenic adverse events as seen in animal/human studies, OR because there&#xD;
+             is yet no available information regarding human fetal or teratogenic toxicities.&#xD;
+             Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of&#xD;
+             reproductive potential may not participate unless they have agreed to use two&#xD;
+             effective methods of birth control, including a medically accepted barrier or&#xD;
+             contraceptive method (e.g., male or female condom) for the duration of the study and&#xD;
+             for 3 months + 2 days for males and 6 months + 2 days for females after receiving the&#xD;
+             last dose of BAY 1895344 (elimusertib) on the study. Abstinence is an acceptable&#xD;
+             method of birth control. Female patients must not breastfeed during treatment and&#xD;
+             until 4 months after last study drug administration&#xD;
+&#xD;
+          -  Corticosteroids: Patients receiving corticosteroids who have not been on a stable or&#xD;
+             decreasing dose of corticosteroid for at least 7 days prior to enrollment are not&#xD;
+             eligible. If used to modify immune adverse events related to prior therapy, &gt;= 14 days&#xD;
+             must have elapsed since last dose of corticosteroid&#xD;
+&#xD;
+          -  Patients who are currently receiving another investigational drug are not eligible&#xD;
+&#xD;
+          -  Patients who are currently receiving other anti-cancer agents are not eligible&#xD;
+&#xD;
+          -  Patients who are receiving cyclosporine, tacrolimus or other agents to prevent&#xD;
+             graft-versus-host disease post bone marrow transplant are not eligible for this trial&#xD;
+&#xD;
+          -  Patients who are currently receiving drugs that are strong inducers or inhibitors of&#xD;
+             CYP3A4 are not eligible. Strong inducers or inhibitors of CYP3A4 should be avoided&#xD;
+             from 14 days prior to enrollment to the end of the study. Drugs that are considered&#xD;
+             sensitive or narrow therapeutic range CYP3A4 substrates should be avoided for the&#xD;
+             duration of protocol therapy&#xD;
+&#xD;
+          -  Dedicated CNS imaging is not required but patients with current active CNS metastasis&#xD;
+             whether symptomatic or discovered incidentally without clinical symptoms, will be&#xD;
+             excluded from study participation&#xD;
+&#xD;
+          -  Patients who have an uncontrolled infection are not eligible&#xD;
+&#xD;
+          -  Patients who have received a prior solid organ transplantation are not eligible&#xD;
+&#xD;
+          -  Patients who in the opinion of the investigator may not be able to comply with the&#xD;
+             safety monitoring requirements of the study are not eligible&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Months</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael V Ortiz</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pediatric Early Phase Clinical Trial Network</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Hospital of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Medical Center-Mission Bay</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94158</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins All Children's Hospital</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lurie Children's Hospital-Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Riley Hospital for Children</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University/Sidney Kimmel Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>C S Mott Children's Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota/Masonic Cancer Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Mercy Hospitals and Clinics</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYP/Columbia University Medical Center/Herbert Irving Comprehensive Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University/Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern/Simmons Cancer Center-Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Medical Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine/Dan L Duncan Comprehensive Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Sainte-Justine</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Rhabdomyosarcoma</mesh_term>
+    <mesh_term>Sarcoma, Ewing</mesh_term>
+    <mesh_term>Rhabdomyosarcoma, Alveolar</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>&quot;NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page.&quot;</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

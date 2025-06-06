@@ -1,0 +1,183 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05791929</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MY-FOOT-B</org_study_id>
+    <nct_id>NCT05791929</nct_id>
+  </id_info>
+  <brief_title>LSCI and Thermography in Diabetic Foot Patients Affected by Ulcer(s): (MY-FOOT-B)</brief_title>
+  <acronym>MY-FOOT-B</acronym>
+  <official_title>Image Features of LSCI and Thermography for Prediction of Healing Trajectory in Diabetic Foot Patients Affected by the First (or Successive) Ulcer: (MY-FOOT-B)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mario Negri Institute for Pharmacological Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mario Negri Institute for Pharmacological Research</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this observational study is to predict healing at 26 weeks after the first&#xD;
+      visit in patients affected by the first ulcer, by means of combined data monitoring of Laser&#xD;
+      Speckle Contrast Imaging (LSCI) and temperature measurements during patient visits in&#xD;
+      hospital.&#xD;
+&#xD;
+      In order to achieve this objective, study aims to produce a logistic regression model and&#xD;
+      then evaluate its prognostic ability by means of the area under the curve (AUC) of the&#xD;
+      receiver-operating-characteristics (ROC) curve.&#xD;
+&#xD;
+      Patients with diabetes mellitus and suffering from ulcer and receiving health care will&#xD;
+      undergo regular microcirculatory measurements including LSCI scans in and around the ulcer&#xD;
+      location and thermography.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study aims to predict healing at 26 weeks after the first visit in patients affected by&#xD;
+      the first ulcer, by means of combined data monitoring of Laser Speckle Contrast Imaging&#xD;
+      (LSCI) and temperature measurements during patient visits in hospital.&#xD;
+&#xD;
+      In order to achieve this objective, the study aims to produce a logistic regression model and&#xD;
+      then evaluate its prognostic ability by means of the area under the curve (AUC) of the&#xD;
+      receiver-operating-characteristics (ROC) curve.&#xD;
+&#xD;
+      The variables evaluated for the model will include demographic and baseline characteristics&#xD;
+      of the patients, location and seriousness of the ulcer, alongside LSCI and temperature&#xD;
+      measurements at baseline and different timepoints. The development of the model will include&#xD;
+      a rigorous variables selection in order to produce a parsimonious model.&#xD;
+&#xD;
+      In the method proposed by Mennes, LSCI measurements at baseline, biological zero, post&#xD;
+      occlusion peak, and other parameters like non-invasive blood pressure measurements were&#xD;
+      individually evaluated as possible prognostic factors of healing trajectory at 26 weeks. All&#xD;
+      these parameters, when assessed at their highest possible value of sensibility and&#xD;
+      specificity, produced AUCs always inferior to 0.65. The highest value of AUC (0.625) was&#xD;
+      reached by toe pressure parameter when calculated using a threshold value of 54 mmHg.&#xD;
+&#xD;
+      From diagnostic literature, an AUC of ≥ 0.8 is considered excellent result, while an AUC &lt;&#xD;
+      0.7 is considered less than acceptable. Since the Mennes's method showed these results, study&#xD;
+      investigators set the AUC resulting from the model under the null hypothesis (H0) to be equal&#xD;
+      to 0.65. By including all these parameters, alongside the other mentioned variables, in a&#xD;
+      single prognostic model, study investigators expect to increase this prognostic ability.&#xD;
+      Therefore, in this study, investigators would like to detect an AUC ≥ 0.8 (H1). With these&#xD;
+      hypotheses, a power of 80%, a one-sided I type error of 5% and a prevalence of 43% of healed&#xD;
+      patients at 26 weeks, a total of 82 patients should be enrolled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2023</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area Under ROC curve generated by the statistical model able to discriminate between healing and not healing ulcers</measure>
+    <time_frame>at 26 weeks after the first visit in patients affected by the first ulcer</time_frame>
+    <description>to discriminate between healing and not healing ulcers by means of combined data monitoring of Laser Speckle Contrast Imaging (LSCI) and temperature measurements during patient visits in hospital</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The predictive positive and negative value related to the score test, based of calculation of likelihood ratio.</measure>
+    <time_frame>at 26 weeks after the first visit in patients affected by the first ulcer</time_frame>
+    <description>The predictive positive and negative value related to the score test, based of calculation of likelihood ratio.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The AUC of the models estimated according to different sites of ulcers.</measure>
+    <time_frame>at 26 weeks after the first visit in patients affected by the first ulcer</time_frame>
+    <description>The AUC of the models estimated according to different sites of ulcers.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">82</enrollment>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <condition>Diabetes Mellitus, Type 1</condition>
+  <condition>Ulcer Foot</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with diabetes mellitus and suffering from ulcer and receiving health care at study&#xD;
+        participating hospitals&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  a confirmed diagnosis of type 1 or type 2 diabetes mellitus (more than 5 years from&#xD;
+             diagnosis),&#xD;
+&#xD;
+          -  aged between 18 and 80 years,&#xD;
+&#xD;
+          -  patients affected by one foot ulcer (defined as break of the skin of the foot that&#xD;
+             involves at least the epidermis and part of the dermis )&#xD;
+&#xD;
+          -  signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  having multiple foot ulcers,&#xD;
+&#xD;
+          -  having an amputation of the forefoot or an amputation at a more proximal location of&#xD;
+             the foot (e.g., midfoot or hindfoot),&#xD;
+&#xD;
+          -  severe foot infection (IWGDF grade 4),&#xD;
+&#xD;
+          -  being incapacitated or undergoing cancer treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cesare Miranda, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pordenone Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Irene De Simone</last_name>
+    <phone>0239014661</phone>
+    <email>irene.desimone@marionegri.it</email>
+  </overall_contact>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diabetes</keyword>
+  <keyword>Ulcer foot</keyword>
+  <keyword>LSCI</keyword>
+  <keyword>Thermography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetic Foot</mesh_term>
+    <mesh_term>Foot Ulcer</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+    <mesh_term>Ulcer</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is a plan to make individual participant data (IPD) available to other researchers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

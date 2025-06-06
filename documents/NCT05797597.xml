@@ -1,0 +1,202 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797597</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AERD-CoV19</org_study_id>
+    <nct_id>NCT05797597</nct_id>
+  </id_info>
+  <brief_title>Long-term Aspirin Therapy as a Predictor of Decreased Susceptibility to SARS-CoV-2 Infection in Aspirin-Exacerbated Respiratory Disease</brief_title>
+  <acronym>AERD-CoV19</acronym>
+  <official_title>Long-term Aspirin Therapy as a Predictor of Decreased Susceptibility to SARS-CoV-2 Infection in Aspirin-Exacerbated Respiratory Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lucyna Mastalerz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jagiellonian University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Aspirin-exacerbated respiratory disease (AERD) is characterized by the presence of asthma,&#xD;
+      chronic rhinosinusitis with nasal polyposis (CRwNP), and acute respiratory reactions induced&#xD;
+      by aspirin and other cyclooxygenase-1 inhibitors. One of the well-established therapeutic&#xD;
+      options is aspirin desensitization followed by daily aspirin therapy. The potential&#xD;
+      mechanisms underlying the clinical benefit of this approach include the downregulation of&#xD;
+      CysLT1 receptor, inhibition of PGD2 and interleukin IL-4 via the signal transducer and&#xD;
+      activator of transcription 6, global (blood, urine) activation of type 2 (T2) inflammation as&#xD;
+      well as local (sputum) reduction of T2 asthma inflammation. Indeed, among current&#xD;
+      aspirin-treated patients with AERD (n=37), no one had severe acute respiratory syndrome&#xD;
+      coronavirus clade 2 (SARS CoV-2) infection and most importantly, none of them developed&#xD;
+      COVID19 during pandemic. WHY? Notably, patients with AERD did not have asthma and nasal&#xD;
+      polyps exacerbation on aspirin, which is in line with other studies. Respiratory infections,&#xD;
+      such as the current COVID-19 pandemic, target epithelial cells in the respiratory tract.&#xD;
+      SARS-CoV-2 spike (S) protein binds angiotensin-converting enzyme 2 (ACE2), and in concert&#xD;
+      with host proteases, principally transmembrane serine protease 2 (TMPRSS2), promotes cellular&#xD;
+      entry. Nasal and bronchial epithelium play a key role in the early phases of an immune&#xD;
+      response to respiratory viruses. Induced sputum (IS) and nasal lavage (NL) cells are likely&#xD;
+      the first immune cells to encounter SARS CoV-2 during an infection, and their reaction to the&#xD;
+      virus will have a profound impact on the outcome of the infection. Interferons (IFNs) are&#xD;
+      antiviral cytokines and among the first mediators produced upon viral infection. IFNs are&#xD;
+      divided into three groups based on their receptor usage; type I IFNs (IFN-α and IFN-β), type&#xD;
+      II IFN (IFN-γ), and type III IFNs (IFN-λ1 and 2). Both production of IFN and cellular&#xD;
+      response to IFN are critical steps for the restriction of viral dissemination. An&#xD;
+      interferon-stimulated gene (ISG) is a gene whose expression is stimulated by interferon.&#xD;
+      Specifically, type I and type III interferons are antiviral cytokines, triggering ISGs that&#xD;
+      combat viral infections. The type II interferon class only has one cytokine (IFN-γ), which&#xD;
+      has some antiviral activity. To conclude, the assessment of gene expression for interferon α1&#xD;
+      (IFNA1), interferon β1 (IFNB1), interferon γ (IFNG), interferon λ1 and λ2 (IFNL1 and IFNL2)&#xD;
+      as well as for ACE2 and TMPRSS2 in sputum and nasal cells may shed new light on the course of&#xD;
+      this infection in patient with AERD during long term aspirin therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 7, 2022</start_date>
+  <completion_date type="Anticipated">February 28, 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with two-fold decrease in gene expression of ACE2, TMPRSS2, BSG, PPIA, PPIB, DPP4, IFNA1, IFNB1 IFNG, IFNL1, IFNL2 and ISG in sputum and nasal cells after 8 weeks of placebo/aspirin therapy compared to the baseline value.</measure>
+    <time_frame>8 weeks</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">76</enrollment>
+  <condition>AERD - Aspirin Exacerbated Respiratory Disease</condition>
+  <arm_group>
+    <arm_group_label>Aspirin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acard 300 mg (Acidum acetylsalicylicum). 1 tablet (300 mg) twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo 1 tablet twice a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aspirin 300 Mg Oral Tablet</intervention_name>
+    <description>8-week treatment of aspirin, then after 2-weeks washout the next treatment arm is placebo for 8 weeks</description>
+    <arm_group_label>Aspirin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>8-week treatment of placebo, then after 2-weeks washout the next treatment arm is aspirin for 8 weeks</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR AERD PATIENTS:&#xD;
+&#xD;
+          -  signed informed consent form&#xD;
+&#xD;
+          -  18-70 years old AERD patients with baseline FEV1 of at least 70% of the predicted&#xD;
+             value on the challenge/desensitization day&#xD;
+&#xD;
+          -  no pregnancy, higly effective contraception must be used&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR HEALTHY CONTROL:&#xD;
+&#xD;
+          -  signed informed consent form&#xD;
+&#xD;
+          -  18-70 years old and healthy condition&#xD;
+&#xD;
+          -  no asthma&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  failure of the circulatory and respiratory system, liver, kidneys and other vital&#xD;
+             organs&#xD;
+&#xD;
+          -  diabetes, cancer, systemic diseases of connective tissue, infectious diseases,&#xD;
+             coagulation disorders, active peptic ulcer disease, any active bleeding process.&#xD;
+&#xD;
+          -  Use of drugs that interact with aspirin&#xD;
+&#xD;
+          -  use of intoxicants, alcohol abuse, active and passive smoking,&#xD;
+&#xD;
+               -  pregnancy, lactation.&#xD;
+&#xD;
+               -  hypersensitivity to the active substance or any of the excipients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lucyna Mastalerz, prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jagiellonian University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lucyna Mastalerz, prof.</last_name>
+    <phone>12 40 03 050</phone>
+    <email>lucyna.mastalerz@uj.edu.pl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital, Pulmunology Clinic</name>
+      <address>
+        <city>Kraków</city>
+        <zip>30-688</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lucyna Mastalerz, prof.</last_name>
+      <phone>12 40 03 050</phone>
+      <email>lucyna.mastalerz@uj.edu.pl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 1, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Jagiellonian University</investigator_affiliation>
+    <investigator_full_name>Lucyna Mastalerz</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aspirin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

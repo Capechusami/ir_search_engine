@@ -1,0 +1,457 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05616728</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EDP 235-101</org_study_id>
+    <nct_id>NCT05616728</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate EDP-235 in Non-hospitalized Adults With COVID-19</brief_title>
+  <acronym>SPRINT</acronym>
+  <official_title>A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Effects of EDP-235 in Non-hospitalized Adults With Mild or Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Enanta Pharmaceuticals, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Enanta Pharmaceuticals, Inc</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study of EDP-235 in Non-hospitalized Adults with Mild or Moderate COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 10, 2022</start_date>
+  <completion_date type="Anticipated">March 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety as measured by frequency of adverse events (AEs)</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in SARS-CoV-2 RNA viral load</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in infectious SARS- CoV-2 viral load</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with COVID-19 signs/symptom improvement</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in COVID-19 signs/symptom</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with medically attended visits for COVID-19</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants requiring hospitalization for COVID-19</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants all-cause mortality</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who require hospitalization and mechanical ventilation</measure>
+    <time_frame>Day 1 through Day 33</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma PK Concentrations of EDP-235</measure>
+    <time_frame>Day 1 through Day 5</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>EDP-235 200mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once a day orally for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EDP-235 400mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once a day orally for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Once a day orally for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EDP-235</intervention_name>
+    <description>capsule</description>
+    <arm_group_label>EDP-235 200mg</arm_group_label>
+    <arm_group_label>EDP-235 400mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>capsule</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 infection confirmed by positive test ≤24 hours before randomization&#xD;
+&#xD;
+          -  COVID-19 symptom onset within 5 days prior to randomization and at least 2&#xD;
+             signs/symptoms attributable to COVID-19 present and one of at least moderate severity&#xD;
+             at Screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior SARS-CoV-2 infection &lt;90 days before enrollment and/or received any COVID-19&#xD;
+             vaccine dose &lt;90 days before enrollment&#xD;
+&#xD;
+          -  Has one or more conditions associated with high risk for severe COVID-19&#xD;
+&#xD;
+          -  History of hospitalization for the medical treatment of COVID-19&#xD;
+&#xD;
+          -  Currently hospitalized or anticipated need for hospitalization in the clinical opinion&#xD;
+             of the investigator&#xD;
+&#xD;
+          -  Known medical history of active liver disease&#xD;
+&#xD;
+          -  Receiving dialysis or have known moderate to severe renal impairment&#xD;
+&#xD;
+          -  Suspected or confirmed concurrent active systemic infection other than COVID-19 that&#xD;
+             may interfere with the evaluation of response to the study drug&#xD;
+&#xD;
+          -  Any comorbidity requiring hospitalization and/or surgery within 7 days before study&#xD;
+             entry, or that is considered life threatening within 30 days before study entry&#xD;
+&#xD;
+          -  Known HIV infection with a HIV viral load greater than 400 copies/mL or medication for&#xD;
+             HIV treatment that is prohibited in this study based on medical history within 6&#xD;
+             months before the screening visit&#xD;
+&#xD;
+          -  History of hypersensitivity or other contraindication to any of the components of the&#xD;
+             study drug&#xD;
+&#xD;
+          -  Has received or is expected to receive pre-exposure prophylactic SARS-CoV-2 mAb&#xD;
+&#xD;
+          -  Has received or is expected to receive convalescent COVID-19 plasma&#xD;
+&#xD;
+          -  Oxygen saturation of ≤93% on room air obtained at rest within 24 hours before&#xD;
+             randomization&#xD;
+&#xD;
+          -  Participating in another interventional clinical study with an investigational agent&#xD;
+             or device, including those for COVID-19, within 30 days or five half-lives of the&#xD;
+             agent, whichever is longer, before signing the ICF&#xD;
+&#xD;
+          -  Females who are pregnant or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Enanta Pharmaceuticals, Inc</last_name>
+    <role>Study Director</role>
+    <affiliation>Enanta Pharmaceuticals, Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Guy De La Rosa, MD</last_name>
+    <phone>(617) 607-0800</phone>
+    <email>gdelarosa@enanta.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cahaba Research Inc. - Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Torrance Clinical Research Institute</name>
+      <address>
+        <city>Lomita</city>
+        <state>California</state>
+        <zip>90717</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LA Universal Research Center, Inc.</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedBio Trials - Miami</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Doral Medical Research</name>
+      <address>
+        <city>Doral</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universal Medical and Research Center, LLC</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research for Health Improvement, LLC</name>
+      <address>
+        <city>Immokalee</city>
+        <state>Florida</state>
+        <zip>34142</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USPA Advance Concept Medical Research Group. LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Continental Clinical Research, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nuren Medical and Research Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>US Associates in Research Inc</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>D&amp;H National Research Centers</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida International Medical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reed Medical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IMIC Inc.</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carolina Research Center</name>
+      <address>
+        <city>Shelby</city>
+        <state>North Carolina</state>
+        <zip>28150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Institute of Clinical Research</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Frontier Clinical Research, LLC</name>
+      <address>
+        <city>Smithfield</city>
+        <state>Pennsylvania</state>
+        <zip>15478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SMS Clinical Research, LLC</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Epic Medical Research</name>
+      <address>
+        <city>Red Oak</city>
+        <state>Texas</state>
+        <zip>75154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Clinical Research LLC</name>
+      <address>
+        <city>Bountiful</city>
+        <state>Utah</state>
+        <zip>84010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>December 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2, Standard Risk</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

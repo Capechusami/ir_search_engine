@@ -1,0 +1,351 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629546</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-x271</org_study_id>
+    <nct_id>NCT05629546</nct_id>
+  </id_info>
+  <brief_title>Memory-Like Natural Killer Cells With Nivolumab and Relatlimab in Advanced or Metastatic Melanoma After Progression on Checkpoint Inhibitors</brief_title>
+  <official_title>Phase I Study of Memory-Like Natural Killer Cells With Nivolumab and Relatlimab in Advanced or Metastatic Melanoma After Progression on Checkpoint Inhibitors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1 open-label, study designed to characterize the safety, tolerability, and&#xD;
+      preliminary anti-tumor activity of memory-like natural killer cells (ML NK) in combination&#xD;
+      with nivolumab and relatlimab in subjects with advanced and/or metastatic melanoma. There&#xD;
+      will be two arms to test the variables of ML NK cell source. ML NK cells from an autologous&#xD;
+      source will be used for Arm 1, and ML NK cells from an allogenic source will be used for Arm&#xD;
+      2. The investigators hypothesize that ML NK cells from either an autologous source or&#xD;
+      allogenic source are safe and tolerable in subjects with advanced and/or metastatic melanoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 30, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2029</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2027</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Enrollment will occur in parallel into arms 1 and 2, but sequence of enrollment will be staggered for the first 3 patients, with sequential patients being enrolled upon the previous patient completing 30 days of observation. Approximately 11 allogeneic donors will also be enrolled for subjects in Arm 2.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence and severity of adverse events</measure>
+    <time_frame>From start of treatment through end of safety follow-up (estimated to be 15 months)</time_frame>
+    <description>-As determined according to National Cancer Institute Common Terminology Criteria for Adverse Events, Version 5.0 (NCI CTCAE v5.0)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>Through completion of treatment (estimated to be 12 months)</time_frame>
+    <description>Objective response rate (ORR), defined as the proportion of patients with a complete response (CR) or partial response (PR) on two consecutive occasions Objective response rate (ORR), defined as the proportion of patients with a complete response (CR) or partial response (PR) on two consecutive occasions ≥ 4 weeks apart, according to RECIST v1.1. 4 weeks apart, according to RECIST v1.1.&#xD;
+Complete Response (CR). Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm (&lt;1 cm).Disappearance of all non-target lesions and normalization of tumor marker level.&#xD;
+Partial Response (PR). At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 3 years)</time_frame>
+    <description>-Duration of response (DoR), defined as the time from the first occurrence of a documented response after the ML NK cell infusion, to disease progression or death according to RECIST v1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 3 years)</time_frame>
+    <description>PFS, defined as the time from ML NK cell infusion to the first occurrence of disease progression or death from any cause (whichever occurs first), according to RECIST v1.1.&#xD;
+Progressive Disease (PD). At least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm (0.5 cm). Appearance of 1 or more new lesions and/or unequivocal progression of existing non-target lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 3 years)</time_frame>
+    <description>Disease control rate (DCR), defined as the percentage of patients who have achieved a complete response, partial response, or stable disease according to RECIST v1.1.&#xD;
+Complete Response (CR). Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm (&lt;1 cm).Disappearance of all non-target lesions and normalization of tumor marker level.&#xD;
+Partial Response (PR). At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.&#xD;
+Stable Disease (SD). Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 3 years)</time_frame>
+    <description>-OS, defined as the time from ML NK cell infusion to death from any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Advanced Melanoma</condition>
+  <condition>Metastatic Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: Autologous: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects enrolled into arm 1 will receive autologous ML NK cells on Day 0.&#xD;
+Relatlimab/nivolumab will be initiated at day 29 and continue every 28 days for 11 cycles, or until unacceptable toxicity, or progression, whichever is earlier.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: Allogeneic: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with a haploidentical donor will enroll into arm 2, where ML NK cells sourced from the haploidentical allogenic donor will be activated.&#xD;
+Subjects will receive the IV infusion of ML NK cells on Day 0.&#xD;
+Relatlimab/nivolumab will be initiated at day 29 and continue every 28 days for 11 cycles, or until unacceptable toxicity, or progression, whichever is earlier.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Allogeneic Donors</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Memory-like natural killer cells</intervention_name>
+    <description>Cell product processing is performed at the Siteman Cancer Center Biological Therapy Core Facility (BTCF).</description>
+    <arm_group_label>Arm 1: Autologous: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+    <arm_group_label>Arm 2: Allogeneic: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+    <other_name>ML NK cells</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Relatilmab</intervention_name>
+    <description>Standard of care</description>
+    <arm_group_label>Arm 1: Autologous: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+    <arm_group_label>Arm 2: Allogeneic: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Standard of care</description>
+    <arm_group_label>Arm 1: Autologous: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+    <arm_group_label>Arm 2: Allogeneic: Memory-like natural killer cells + nivolumab + relatilimab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of histologically confirmed advanced or metastatic melanoma that has&#xD;
+             progressed after at least 12 weeks or a minimum of 2 doses of treatment with a&#xD;
+             standard of care PD1/PDL1 containing therapy (nivolumab, pembrolizumab, atezolizumab,&#xD;
+             or durvalumab) as their last treatment regimen.&#xD;
+&#xD;
+          -  Age: ≥18 years of age&#xD;
+&#xD;
+          -  Have an Eastern Cooperative Oncology Group Performance Status &lt;3 at screening&#xD;
+&#xD;
+          -  For Arm 2: have an available allogeneic NK cell donor who meets the following&#xD;
+             criteria:&#xD;
+&#xD;
+               -  At least 18 years of age&#xD;
+&#xD;
+               -  Able and willing to undergo leukapheresis&#xD;
+&#xD;
+               -  In general good health, and medically able to tolerate leukapheresis required for&#xD;
+                  harvesting the NK cells for this study.&#xD;
+&#xD;
+               -  Negative for hepatitis, HTLV, and HIV on donor viral screen&#xD;
+&#xD;
+               -  Not pregnant&#xD;
+&#xD;
+               -  Voluntary written consent to participate in this study&#xD;
+&#xD;
+               -  All HLA-match/mismatch statuses will be included&#xD;
+&#xD;
+          -  Adequate organ function as defined below:&#xD;
+&#xD;
+               -  Total bilirubin &lt; 2 mg/dL&#xD;
+&#xD;
+               -  AST(SGOT)/ALT(SGPT) &lt; 3.0 x ULN&#xD;
+&#xD;
+               -  Creatinine within normal institutional limits OR creatinine clearance &gt; 40&#xD;
+                  mL/min/1.73 m^2 by Cockcroft-Gault Formula&#xD;
+&#xD;
+               -  Oxygen saturation ≥ 90% on room air&#xD;
+&#xD;
+               -  Ejection fraction ≥ 45%&#xD;
+&#xD;
+          -  Patients with a prior history of symptomatic CNS metastases must have received&#xD;
+             treatment and be neurologically stable for at least for 4 weeks and off anti-seizure&#xD;
+             medication and steroids for 7 days prior to initiation of LDC are eligible.&#xD;
+&#xD;
+          -  Able to be off corticosteroids and any other immune suppressive medications for at&#xD;
+             least 14 days prior to apheresis or lymphodepletion and continuing until 30 days after&#xD;
+             the infusion of the ML NK cells. However, use of physiological dosing of&#xD;
+             corticosteroids (defined as ≤15mg prednisone or equivalent) is permitted if deemed&#xD;
+             medically necessary.&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative pregnancy test within 28 days&#xD;
+             prior to study registration. Female and male patients (along with their female&#xD;
+             partners) must agree to use two forms of acceptable contraception, including one&#xD;
+             barrier method, during participation in the study and until 30 days after the last ML&#xD;
+             NK cells infusion.&#xD;
+&#xD;
+          -  Life expectancy &gt;12 weeks&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign an IRB approved written informed consent&#xD;
+             document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active autoimmune disorder requiring immunosuppression (physiologic steroids defined&#xD;
+             as ≤15mg prednisone or equivalent are acceptable).&#xD;
+&#xD;
+          -  Prior history of an immune-related Grade 3 or 4 AE attributed to prior cancer&#xD;
+             immunotherapy (other than endocrinopathy managed with either replacement therapy or&#xD;
+             asymptomatic elevation of serum amylase or lipase) that resulted in permanent&#xD;
+             discontinuation of the prior immunotherapeutic agent.&#xD;
+&#xD;
+          -  Patients with Grade ≤2 irAE who have not completely recovered from irAE (i.e. have&#xD;
+             residual toxicities &gt;Grade 1) related to prior cancer immunotherapy (other than&#xD;
+             endocrinopathy management with replacement therapy or stable vitiligo). Patients&#xD;
+             treated with corticosteroids for irAE must demonstrate absence of related signs or&#xD;
+             symptoms for ≥7 days following discontinuation of corticosteroids.&#xD;
+&#xD;
+          -  Leptomeningeal disease, carcinomatous meningitis, or symptomatic CNS metastases.&#xD;
+             Patients with asymptomatic brain metastasis with no pending intervention needed, or&#xD;
+             patients with treated CNS disease and stable for at least 4 weeks and off anti-seizure&#xD;
+             medication and steroids for 7 days prior to initiation of LDC are eligible.&#xD;
+&#xD;
+          -  Known hypersensitivity to one or more of the study agents.&#xD;
+&#xD;
+          -  Comorbidities and any conditions, that in the opinion of the investigator, that put&#xD;
+             the subject at unacceptable risk for study therapy or prevent the participant from&#xD;
+             consenting or participating in the study.&#xD;
+&#xD;
+          -  Uncontrolled or untreated infections, including but not limited to HIV, Hepatitis B or&#xD;
+             C infection.&#xD;
+&#xD;
+          -  Uncontrolled angina, severe uncontrolled ventricular arrhythmias, or EKG suggestive of&#xD;
+             acute ischemia or active conduction system abnormalities.&#xD;
+&#xD;
+          -  New progressive pulmonary infiltrates on screening chest CT scan that have not been&#xD;
+             evaluated with bronchoscopy. Infiltrates attributed to infection must be stable/&#xD;
+             improving after 1 week of appropriate therapy (4 weeks for presumed or proven fungal&#xD;
+             infections).&#xD;
+&#xD;
+          -  Received any investigational drugs within the 14 days prior to the first dose of&#xD;
+             fludarabine. (Wash-out period of at least 5 half-lives from the last dose of any&#xD;
+             investigational therapy prior to screening period or 14 days, whichever is longer).&#xD;
+&#xD;
+          -  Pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Subjects are not acceptable candidates if they received prior tumor infiltrating&#xD;
+             lymphocytes (TIL) therapy (either in the setting of clinical trial or standard of care&#xD;
+             if TIL therapy is FDA approved in the future).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alice Y Zhou, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alice Y Zhou, M.D., Ph.D.</last_name>
+    <phone>314-362-5677</phone>
+    <email>alice.y.zhou@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alice Y Zhou, M.D., Ph.D.</last_name>
+      <phone>314-362-5677</phone>
+      <email>alice.y.zhou@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Alice Y Zhou, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Todd A Fehniger, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Tanner M Johanns, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Miriam Jacobs, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>George Ansstas, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Charles Kaufman, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ryan Fields, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Armin Ghobadi, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amanda Cashen, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Feng Gao, M.D., Ph.D., MPH, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>March 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>advanced melanoma</keyword>
+  <keyword>metastatic melanoma</keyword>
+  <keyword>checkpoint inhibitor resistant melanoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

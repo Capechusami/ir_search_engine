@@ -1,0 +1,215 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611398</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-51</org_study_id>
+    <nct_id>NCT05611398</nct_id>
+  </id_info>
+  <brief_title>Lactate Monitoring in Traumatic Long Bone Fractures Requiring Emergent Surgical Intervention</brief_title>
+  <official_title>Analysis of Lactate Monitoring Requirement in Emergent Surgical Interventions in Noncritical Traumatic Long Bone Fractures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Arrowhead Regional Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Arrowhead Regional Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Serum lactate has been utilized as a standard in guiding management of orthopedic injuries.&#xD;
+      Elevated preoperative lactate has been associated with a higher likelihood of postoperative&#xD;
+      complications. However, lactate's role in guiding operative timing in non-critical long-bone&#xD;
+      fractures has not been previously explored. This study investigates lactate's role in guiding&#xD;
+      surgical timing and predicting complications secondary to delayed definitive correction in&#xD;
+      non-critical long-bone fractures with Injury Severity Score &lt;16.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Trauma is among the leading causes of death, disability, and hospitalizations each year&#xD;
+      worldwide. The majority of traumatic injuries are orthopedic in nature, making up nearly one&#xD;
+      million hospital encounters each year. According to the Center for Disease Control and&#xD;
+      Prevention, fractures are among the top 20 first-line diagnosis presenting to the emergency&#xD;
+      department. In recent years, the epidemiology of long bone fractures has been changing, with&#xD;
+      an increased incidence of fragility fractures in the elderly and high energy injuries&#xD;
+      affecting young adults. Fall-related fractures account for 61% of emergency orthopedic&#xD;
+      surgical procedures. Management of these orthopedic fractures is complex, and certain&#xD;
+      predictors such as lactate have been suggested to play a role in outcomes.&#xD;
+&#xD;
+      In the setting of trauma, the metabolic response of insufficient tissue perfusion is&#xD;
+      anaerobic glycolysis, with serum lactate as the final byproduct. Serum lactate serves as a&#xD;
+      circulating biomarker for organ oxygen supply and demand mismatch and is often used as a&#xD;
+      surrogate for tissue hypoxia. Normal blood lactate levels range from 0.5 to 2.2 mmol/L, with&#xD;
+      some variability in the upper limitation. Studies show early lactate clearance may be an&#xD;
+      important and independent prognostic variable in guiding management protocol for the&#xD;
+      resuscitation of trauma patients. Furthermore, several studies have presented more evidence&#xD;
+      that lactate levels can be considered a sensitive marker for patients in shock and during&#xD;
+      resuscitation with strong correlation with morbidity and mortality levels.&#xD;
+&#xD;
+      The goal of this study is to further investigate the role of serum lactate levels in guiding&#xD;
+      surgical timing and complications resulting from delay to the definitive surgical&#xD;
+      intervention in noncritical, traumatic patients with sustained long bone fractures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2021</start_date>
+  <completion_date type="Actual">January 1, 2022</completion_date>
+  <primary_completion_date type="Actual">January 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Preoperative lactate levels</measure>
+    <time_frame>The estimated period of time over which preoperative lactate levels are measured occur in the initial 2 hours aft</time_frame>
+    <description>Preoperative lactate levels were defined as the first measured lactate level on admission of an individual who presented as a trauma patient.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to surgery from admission</measure>
+    <time_frame>Time to surgery from admission in the hospital is defined as the event until initial orthopedic surgery occurred after admission. The time frame of measurement was 28 days until the event occurred.</time_frame>
+    <description>The time that elapsed from admission to the hospital until surgery occurred</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intraoperative complications</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of known adverse events associated with orthopedic operation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of total hospital stay</measure>
+    <time_frame>Length of total hospital stay from admission in the hospital is defined as the time frame between admission and discharge. The time frame of collection until the event occurred was 180 days.</time_frame>
+    <description>The time spent hospitalized in days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Discharge disposition</measure>
+    <time_frame>Time frame of collection until the event occurred was 180 days.</time_frame>
+    <description>Once discharge was initiated did the individual get discharged home, skilled nursing facility, acute care facility.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">164</enrollment>
+  <condition>Lactate Blood Increase</condition>
+  <condition>Trauma Blunt</condition>
+  <condition>Trauma, Secondary</condition>
+  <condition>Injury Traumatic</condition>
+  <arm_group>
+    <arm_group_label>Lactate Level Under 2 mmol/L</arm_group_label>
+    <description>Patients with a lactate level below 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lactate Level Over 2 mmol/L</arm_group_label>
+    <description>Patients with a lactate level above 2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Orthopedic Surgery</intervention_name>
+    <description>A complete retrospective chart review was performed for all the patients' records and included all patients aged 18 years or higher who presented to Arrowhead Regional Medical Center with long bone fractures with Injury Severity Score &lt;16 and their repair and lactate levels at the time of surgery</description>
+    <arm_group_label>Lactate Level Over 2 mmol/L</arm_group_label>
+    <arm_group_label>Lactate Level Under 2 mmol/L</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study was completed at the Arrowhead Regional Medical Center (ARMC) in San Bernardino&#xD;
+        County, California. The ARMC is a 456-bed acute-care teaching facility and ACS-verified&#xD;
+        level I trauma center. The ARMC emergency department (ED) is one of the busiest in the&#xD;
+        state of California with more than 100,000 visits and over 3,000 adult trauma cases&#xD;
+        annually.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients aged 18 years or higher with long bone fractures with Injury Severity&#xD;
+             Score &lt;16&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-long bone fracture surgeries performed within the first 72 hours&#xD;
+&#xD;
+          -  Patients who underwent external fixation prior to surgery&#xD;
+&#xD;
+          -  Patients with inconsistent or incomplete chart data Patients with polytrauma and&#xD;
+             life-threatening injuries.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aldin Malkoc, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Arrowhead Regional Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Neeki, DO</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Arrowhead Regional Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Arrowhead Regional Medical Center</name>
+      <address>
+        <city>Colton</city>
+        <state>California</state>
+        <zip>92324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Jarman MP, Weaver MJ, Haider AH, Salim A, Harris MB. The National Burden of Orthopedic Injury: Cross-Sectional Estimates for Trauma System Planning and Optimization. J Surg Res. 2020 May;249:197-204. doi: 10.1016/j.jss.2019.12.023. Epub 2020 Jan 25.</citation>
+    <PMID>31991329</PMID>
+  </reference>
+  <reference>
+    <citation>Frouzan A, Masoumi K, Delirroyfard A, Mazdaie B, Bagherzadegan E. Diagnostic accuracy of ultrasound in upper and lower extremity long bone fractures of emergency department trauma patients. Electron Physician. 2017 Aug 1;9(8):5092-5097. doi: 10.19082/5092. eCollection 2017 Aug.</citation>
+    <PMID>28979747</PMID>
+  </reference>
+  <reference>
+    <citation>Ekegren CL, Edwards ER, de Steiger R, Gabbe BJ. Incidence, Costs and Predictors of Non-Union, Delayed Union and Mal-Union Following Long Bone Fracture. Int J Environ Res Public Health. 2018 Dec 13;15(12):2845. doi: 10.3390/ijerph15122845.</citation>
+    <PMID>30551632</PMID>
+  </reference>
+  <reference>
+    <citation>Bakker J, Gris P, Coffernils M, Kahn RJ, Vincent JL. Serial blood lactate levels can predict the development of multiple organ failure following septic shock. Am J Surg. 1996 Feb;171(2):221-6. doi: 10.1016/S0002-9610(97)89552-9.</citation>
+    <PMID>8619454</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperlactatemia</mesh_term>
+    <mesh_term>Compassion Fatigue</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Fractures, Bone</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

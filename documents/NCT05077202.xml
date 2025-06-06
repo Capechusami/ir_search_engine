@@ -1,0 +1,185 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077202</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6930</org_study_id>
+    <nct_id>NCT05077202</nct_id>
+  </id_info>
+  <brief_title>A New Scoring Model to Diagnose COVID-19 Using Lung Ultrasound in the Emergency Department</brief_title>
+  <acronym>LungUltrasound</acronym>
+  <official_title>A New Scoring Model to Diagnose COVID-19 Using Lung Ultrasound in the Emergency Department</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zagazig University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zagazig University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Mortality in COVID-19 patients is significantly correlated with age, fever duration, cardiac&#xD;
+      history, and B-profile and areas of consolidation in LUS. However, it is negatively&#xD;
+      correlated with initial O2 saturation and ejection fraction. This study was aiming to design&#xD;
+      a new scoring model to diagnose COVID-19 using bedside lung ultrasound (LUS) in the emergency&#xD;
+      department (ED).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients:&#xD;
+&#xD;
+      The study recruited all patient with pulmonary symptoms and presented to ED between 27th&#xD;
+      March 2020 and 17th May 2020. Exclusion criteria were (i) patients with congestive heart&#xD;
+      failure (n= 7), (ii) patients with known interstitial lung fibrosis (n= 4), and (iii)&#xD;
+      patients with poor echo-window (n= 4). Patients were seen first at ED where they underwent&#xD;
+      the required investigations and then classified. Patients were questioned about symptoms&#xD;
+      suspecting COVID-19 infection. Those who met the suspected clinical and investigational&#xD;
+      criteria were given a standard mask and were rapidly transferred safely to a separate waiting&#xD;
+      and isolation area with available infrastructure and tools for hand and respiratory hygiene&#xD;
+      practice. If the patient was proved to be positive for COVID-19, he was sent to quarantine.&#xD;
+      For negative patients, they were admitted to intermediate or ICU according to their clinical&#xD;
+      status. All recruited patients underwent the followings: complete blood count (CBC), arterial&#xD;
+      blood gas (ABGs), RT-PCR assay to detect COVID-19, chest X-ray, chest CT, LUS, and&#xD;
+      echocardiography (according to its availability, with precautions for the operators and the&#xD;
+      probe similar to those exerted to LUS).&#xD;
+&#xD;
+      LUS examination:&#xD;
+&#xD;
+      Two trained medical personnel, one ICU physician and one ICU nurse, entered the isolation&#xD;
+      room respecting all the preventive measures for respiratory, droplet, and contact isolation&#xD;
+      provided by the world health organization for the COVID-19 outbreak. The ultrasound probe and&#xD;
+      the tablet were put in two different sterile, plastic probe and tablet covers. Imaging was&#xD;
+      performed using a curvilinear probe (2-5 MHz) with different devices according to the&#xD;
+      availability in each centre. Six-point LUS (three in each hemithorax) was performed as&#xD;
+      described in the bedside lung ultrasonography in emergency (BLUE) protocol [13].&#xD;
+&#xD;
+      Statistical analysis:&#xD;
+&#xD;
+      Statistical analysis included comparing different parameters between COVID-19&#xD;
+      positive-patients and COVID-19 negative-patients, using independent t-test for numerical&#xD;
+      variables and chi-square for categorical variables. All significantly different variables&#xD;
+      were entered in a forward stepwise binary logistic regression analysis to select the best&#xD;
+      model. After selecting the best model. The variable chosen in the last step was weighed using&#xD;
+      the odds ratios (ORs) calculated from the regression coefficient (β) for each variable, the&#xD;
+      ORs were multiplied by 0.125 to calculate a score for each variable and the number was&#xD;
+      rounded to the nearest integer giving of scoring system of 10 points. All study patients were&#xD;
+      scored. The cutoff point of the score was calculated using ROC analysis, and calculation of&#xD;
+      sensitivity and specificity was performed. Also, variables associated with mortality in&#xD;
+      COVID-19 positive were entered in a forward binary logistic regression, which selected the&#xD;
+      best model and the ORs were calculated for each variable using the regression coefficient&#xD;
+      (β). Before adding the variables in the regression analysis, the determination of the proper&#xD;
+      cutoff values of different contentious variables was done using ROC analysis. Patient Data&#xD;
+      were entered, checked, and analyzed using SPSS for Windows version 16 (SPSS, Inc. Chicago,&#xD;
+      IL, USA). For all the above mentioned statistical tests, the threshold of significance is&#xD;
+      fixed at a 5% level (p &lt; 0.05).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 27, 2020</start_date>
+  <completion_date type="Actual">August 19, 2020</completion_date>
+  <primary_completion_date type="Actual">May 17, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Months</target_duration>
+  <primary_outcome>
+    <measure>lung ultra sound criteria for covid19 pneumonia</measure>
+    <time_frame>about 2 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>areas of consolidation in COVID-19</measure>
+    <time_frame>about 2 months</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">82</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>ultra sound</arm_group_label>
+    <description>lung ultrasound</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ct chest</arm_group_label>
+    <description>patients had done CT chest already and we receive it from hospital files</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ultra sound</intervention_name>
+    <description>chest ultrasound</description>
+    <arm_group_label>ultra sound</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        covid19 pneumonia at emergency room&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        covid19 patients at emergency room.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        (i) patients with congestive heart failure (n= 7), (ii) patients with known interstitial&#xD;
+        lung fibrosis (n= 4), and (iii) patients with poor echo-window (n= 4).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>zagazigU</name>
+      <address>
+        <city>Zagazig</city>
+        <zip>44519</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>October 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Zagazig University</investigator_affiliation>
+    <investigator_full_name>Waleed Mansour</investigator_full_name>
+    <investigator_title>ZagazigU</investigator_title>
+  </responsible_party>
+  <keyword>lung ultrasound</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>research</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

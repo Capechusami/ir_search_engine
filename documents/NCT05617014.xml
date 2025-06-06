@@ -1,0 +1,608 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617014</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ATRI-011</org_study_id>
+    <secondary_id>U19AG024904</secondary_id>
+    <nct_id>NCT05617014</nct_id>
+  </id_info>
+  <brief_title>Alzheimer's Disease Neuroimaging Initiative 4</brief_title>
+  <acronym>ADNI4</acronym>
+  <official_title>Alzheimer's Disease Neuroimaging Initiative 4 (ADNI4)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Southern California</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Northern California Institute of Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer's Therapeutic Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Southern California</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since its launch in 2004, the overarching aim of the Alzheimer's Disease Neuroimaging&#xD;
+      Initiative (ADNI) study has been to validate biomarkers for Alzheimer's disease (AD) clinical&#xD;
+      trials. ADNI4 continues the previously funded ADNI1, ADNI-GO, ADNI2, and ADNI3 studies that&#xD;
+      have combined public/private collaborations between academia and industry to determine the&#xD;
+      relationships between the clinical, cognitive, imaging, genetic and biochemical biomarker&#xD;
+      characteristics of the entire spectrum of AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The ADNI4 is multi-center, a non-randomized, natural history, non-treatment study. 1,150&#xD;
+      participants will be enrolled across three cohorts: cognitively normal (CN), mild cognitive&#xD;
+      impairment (MCI) and dementia (DEM). Participants between the ages of 55-90 (inclusive) will&#xD;
+      be enrolled at 59 sites in the United States and Canada. Approximately, 750 participants will&#xD;
+      be newly enrolled into the ADNI4 study, while 750 participants will be rollover participants,&#xD;
+      continuing their participation from previous ADNI studies. Clinical/cognitive, imaging,&#xD;
+      biomarker, and genetic characteristics will be assessed across the three cohorts.&#xD;
+&#xD;
+      Participants enrolled in the ADNI4 study will undergo longitudinal clinical and cognitive&#xD;
+      assessments, computerized cognitive batteries, biomarker and genetic tests, PET (amyloid and&#xD;
+      tau) and MRI scans and cerebral spinal fluid (CSF) collection for up to 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">July 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of enrollment of Underrepresented Populations (URPs)</measure>
+    <time_frame>5 years</time_frame>
+    <description>The ADNI4 study aims to increased inclusion of underrepresented populations (URPs) to improve generalizability of results and advance our understanding of health disparities across URPs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Category Fluency (Animals) Tests</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>This is a measure of verbal fluency in which the participant is asked to generate examples from the semantic categories (animals) in successive one-minute trials</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Measurement of Everyday Cognition 12-item (12-Item ECog)</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>Everyday Cognition (ECog) is a brief questionnaire assessing the participant's capability to perform normal everyday tasks, in comparison to activity levels at their own understanding of their prior baseline, using a 5-point scale. Previous research on this instrument indicates that ECog correlates well with established measures of functional status and global cognition but only weakly with age and education. ADNI4 will use the 12-item ECog with language updates from Farias et al. 2021 meant to improve generalizability across diverse groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Logical Memory Test I and II (immediate and delayed paragraph recall)</measure>
+    <time_frame>CN Cohorts: Screening/Initial, Months 24 and 48. MCI Cohorts: Screening/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Screening/Initial, Months 12 and 24.</time_frame>
+    <description>We will use a modified episodic memory measure from the Wechsler Memory Scale- Revised (WMS-R) 24. In this modified version, free recall of one short story will be elicited immediately after it is read aloud to the participant and again after a thirty-minute delay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Montreal Cognitive Assessment (MoCA)</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>The Montreal Cognitive Assessment test (MoCA) is, similar to the MMSE, a brief, 30- point cognitive assessment designed to detect participants at the MCI stage of cognitive dysfunction. This instrument has been shown to have adequate sensitivity and specificity in clinical settings to detect suspected MCI. The performance of the MoCA will be followed to determine its ability to differentiate among the three diagnostic groups in ADNI4</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Multilingual Naming Test (MINT)</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>The Multilingual Naming Test (MINT) is a test of object picture naming designed to include items that are comparable across English, Spanish, Mandarin and Hebrew. It replaces the Boston Naming Test (BNT) in the Uniform Data Set of the NIA- funded Alzheimer's Disease Centers because the BNT contains items that are not of the same level of difficulty for Spanish- and English-speakers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Perceived Stress (PSS)</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>An important consideration in measuring cognition is current stress. Research suggests that current perceived stress can affect neurocognitive functioning (Lupien et al., 2009). Thus, measuring current stress in the present study is an important element of study procedures. The PSS measures current stress levels and stressful experiences in the last month. It asks about experiences such as feeling in control of one's life, feeling the ability to be productive, feeling overwhelmed, and being upset by unexpected events (Cohen, Kamarck, &amp; Mermelstein, 1983). These items are rated on a Likert scale of 1-5, with 1 representing &quot;Almost Always&quot; and 5 representing &quot;Almost Never.&quot; In scoring, the scale is reverse coded where appropriate, such that a low score is indicative of a lower level of perceived stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Rey Auditory Verbal Learning Test (AVLT)</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>The AVLT is a list-learning task, which assesses multiple cognitive parameters associated with learning and memory.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Trail Making Test: A and B</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>These two tests progress from a numerical connect-the-dots puzzle to a more challenging alternation between alpha- and numerical order. Although both Parts A and B depend on visuomotor and perceptual-scanning skills, Part B also requires considerable cognitive flexibility in shifting from number to letter sets under time pressure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Clinical Dementia Rating (CDR)</measure>
+    <time_frame>CN Cohorts: Screening/Initial, Months 24 and 48. MCI Cohorts: Screening/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Screening/Initial, Months 12 and 24.</time_frame>
+    <description>The Clinical Dementia Rating (CDR) describes five degrees of impairment in performance on each of 6 categories of cognitive functioning including memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. Impairment is scored on a scale in which none = 0, questionable = 0.5, mild = 1, moderate = 2 and severe = 3. A higher score indicates more impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Activities of Daily Living (ADL) Functional Assessment Questionnaire (FAQ)</measure>
+    <time_frame>CN Cohorts: Baseline/Initial, Months 24 and 48. MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12 and 24.</time_frame>
+    <description>Based on an interview with a caregiver or qualified partner, a participant is rated on his/her ability to carry out ten complex activities of daily living.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12, 24 and 36.</time_frame>
+    <description>The Neuropsychiatric Inventory (NPI) is a well-validated, reliable, multi-item instrument to assess psychopathology in AD based on an interview with a caregiver or qualified study partner. The NPI evaluates both the frequency and severity of 12 neuropsychiatric features, including: delusions, hallucinations, agitation/aggression, dysphoria, anxiety, euphoria, apathy, disinhibition, irritability/lability, aberrant motor behavior, sleep and appetite/eating disorders.&#xD;
+Frequency assessments range from 1 (occasionally, less than once per week) to 4 (very frequent, continuously present); severity from 1(mild), 2 (moderate) and 3 (severe) and distress from 0 (no distress) to 5 (very severe/extreme distress). For each behavioral domain, there are 4 scores: frequency, severity, domain score (frequency x severity) and caregiver distress. The total score is the sum of all domain scores. The distress score is not included in the total NPI score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Neuropsychiatric Inventory Q (NPI-Q)</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Baseline/Initial, Months 12, 24 and 36.</time_frame>
+    <description>The Neuropsychiatric Inventory Q was designed as a version of the Neuropsychiatric Inventory (NPI) that could be administered more quickly and over the telephone. The NPI-Q measures the burden of 12 neuropsychiatric symptoms of dementia: delusions, hallucinations, agitation/aggression, depression/dysphoria, anxiety, elation/euphoria, apathy/indifference, disinhibition, irritability/lability, motor disturbance, nighttime behaviors, and appetite/eating.&#xD;
+Frequency assessments range from 1 (occasionally, less than once per week) to 4 (very frequent, continuously present); severity from 1(mild), 2 (moderate) and 3 (severe) and distress from 0 (no distress) to 5 (very severe/extreme distress). For each behavioral domain, there are 4 scores: frequency, severity, domain score (frequency x severity) and caregiver distress. The total score is the sum of all domain scores. The distress score is not included in the total NPI score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in cognition as measured by the Geriatric Depression Scale (GDS) Short Form</measure>
+    <time_frame>CN Cohorts: Screening/Initial, Months 24 and 48. MCI Cohorts: Screening/Initial, Months 12, 24, 36 and 48. DEM Cohorts: Screening/Initial, Months 12 and 24.</time_frame>
+    <description>The GDS Short Form is a self-report scale designed to screen for symptoms of depression in the elderly. The assessment is administered by clinic personnel to the study participant and consists of 15 questions that the participant is asked to answer yes or no on the basis of how they felt over the past week. Answers to 5 of the items are negatively oriented for depression (e.g., Do you feel full of energy?) and 10 positively oriented (e.g., Do you often feel helpless?). One point is given for each appropriate positive or negative answer indicative of a symptom of depression, for a possible total of 15 points. Although differing sensitivities and specificities have been obtained across studies, for clinical purposes a total score of 0-5 are considered likely to be normal and scores of 6-15 are considered to be more likely to be depressed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in amyloid deposition as measured by florbetaben</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in amyloid deposition as measured by NAV4694</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in amyloid deposition as measured by florbetapir</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tau deposition as measured by flortaucipir</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tau deposition as measured by MK-6240</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tau deposition as measured by PI-2620</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in amyloid β-peptide (Aβ) 40 (Aβ40) in Cerebrospinal Fluid (CSF)</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+    <description>Cerebrospinal fluid (CSF) samples will be used to measure the levels of amyloid β-peptide (Aβ) 40. CSF Aβ40 is a key Alzheimer's disease (AD) biomarker that reflects pathological aggregation of amyloid in the brain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in amyloid β-peptide (Aβ) 42 (Aβ42) in Cerebrospinal Fluid (CSF)</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+    <description>Cerebrospinal fluid (CSF) samples will be used to measure the levels of amyloid β-peptide (Aβ) 42. CSF Aβ42 is a key Alzheimer's disease (AD) biomarker that reflects pathological aggregation of amyloid in the brain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cerebrospinal Fluid (CSF) Levels of Total Tau</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+    <description>Cerebrospinal fluid (CSF) samples will be used to measure the levels of total tau protein in the brain to assess impact on brain tau as a relevant Alzheimer's Disease (AD) biomarker.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cerebrospinal Fluid (CSF) Levels of Phospho-Tau 181</measure>
+    <time_frame>CN and MCI Cohorts: Baseline/Initial, Months 24 and 48. DEM Cohorts: Baseline/Initial and Month 24 and 36.</time_frame>
+    <description>Cerebrospinal fluid (CSF) samples will be used to measure the levels of phospho-tau 181 protein in the brain to assess impact on brain tau as a relevant Alzheimer's Disease (AD) biomarker.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in brain structure using magnetic resonance imaging (MRI)</measure>
+    <time_frame>CN and MCI Cohorts: Screening/Initial, Months 24 and 48. DEM Cohorts: Screening/Initial and Month 24 and 36.</time_frame>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <description>700 participants with no apparent memory problems, which is anticipated to include 250 newly enrolled participants and 450 rollover participants from the prior ADNI3 study without apparent memory problems.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <description>450 participants with mild cognitive impairment (MCI), which is anticipated to include 250 newly enrolled participants and 200 rollover participants from the prior ADNI3 study with MCI.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <description>350 participants with mild dementia (DEM), which is anticipated to include 250 newly enrolled participants and 100 participants followed from the prior ADNI3 study with dementia.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Neuraceq</intervention_name>
+    <description>Amyloid PET imaging with Florbetaben (Neuraceq) injection</description>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <other_name>Florbetaben</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Amyvid</intervention_name>
+    <description>Amyloid PET imaging with Amyvid (Florbetapir) injection</description>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <other_name>Florbetapir</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Tauvid</intervention_name>
+    <description>Tau PET imaging with Tauvid (Flortaucipir) injection</description>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <other_name>Flortaucipir</other_name>
+    <other_name>18F-AV-1451</other_name>
+    <other_name>AV-1451</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>MK-6240</intervention_name>
+    <description>Tau PET imaging with MK-6240 injection</description>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <other_name>florquinitau F-18</other_name>
+    <other_name>[18F]MK-6240</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>NAV4694</intervention_name>
+    <description>Amyloid PET imaging with NAV4694 injection</description>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <other_name>[18F]NAV4694</other_name>
+    <other_name>[18F]AZD4694</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>PI-2620</intervention_name>
+    <description>Tau PET imaging with PI-2620 injection</description>
+    <arm_group_label>Cognitively Normal (CN)</arm_group_label>
+    <arm_group_label>Dementia (DEM)</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment (MCI)</arm_group_label>
+    <other_name>[18F]PI-2620</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood, urine, cerebrospinal fluid&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Cognitively normal (CN), mild cognitive impairment (MCI), and dementia (DEM) participants.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for Newly Enrolled Participants, CN Cohort:&#xD;
+&#xD;
+          1. Participant may or may not have a significant subjective memory concern as reported by&#xD;
+             participant, study partner, or clinician.&#xD;
+&#xD;
+          2. Normal memory function documented by scoring above demographically-adjusted cutoffs on&#xD;
+             the Logical Memory II subscale (Delayed Paragraph Recall, Paragraph A only) from the&#xD;
+             Wechsler Memory Scale - Revised (the maximum score is 25):&#xD;
+&#xD;
+               1. ≥9 for 16 or more years of education&#xD;
+&#xD;
+               2. ≥ 5 for 8-15 years of education&#xD;
+&#xD;
+               3. ≥ 3 for 0-7 years of education&#xD;
+&#xD;
+               4. Note: cut-offs may be modified over time as the field evolves in this area&#xD;
+&#xD;
+          3. Mini-Mental State Exam score between 24 and 30 (inclusive) (Exceptions may be made for&#xD;
+             participants with less than 8 years of education at the discretion of the Project&#xD;
+             Director and/or Clinical Core)&#xD;
+&#xD;
+          4. Clinical Dementia Rating = 0. Memory Box score must be 0.&#xD;
+&#xD;
+          5. Cognitively normal, based on an absence of significant impairment in cognitive&#xD;
+             functions or activities of daily living.&#xD;
+&#xD;
+          6. Stability of Permitted Medications for 4 weeks. In particular, participants may:&#xD;
+&#xD;
+               1. Take stable doses of antidepressants lacking significant anticholinergic side&#xD;
+                  effects (if they are not currently depressed and do not have a history of major&#xD;
+                  depression within the past 1 years)&#xD;
+&#xD;
+               2. Estrogen replacement therapy is permissible&#xD;
+&#xD;
+               3. Gingko biloba is permissible, but discouraged&#xD;
+&#xD;
+               4. Washout from psychoactive medication (e.g., excluded antidepressants,&#xD;
+                  neuroleptics, chronic anxiolytics or sedative hypnotics, etc.) for at least 4&#xD;
+                  weeks prior to screening.&#xD;
+&#xD;
+        Inclusion Criteria for Newly Enrolled Participants, MCI Cohort&#xD;
+&#xD;
+          1. Participant must have a subjective memory concern as reported by participant, study&#xD;
+             partner, or clinician.&#xD;
+&#xD;
+          2. Abnormal memory function documented by scoring within the demographically- adjusted&#xD;
+             ranges on the Logical Memory II subscale (Delayed Paragraph Recall, Paragraph A only)&#xD;
+             from the Wechsler Memory Scale - Revised (the maximum score is 25):&#xD;
+&#xD;
+               1. ≤11 for 16 or more years of education&#xD;
+&#xD;
+               2. ≤9 for 8-15 years of education&#xD;
+&#xD;
+               3. ≤6 for 0-7 years of education.&#xD;
+&#xD;
+               4. Note: cut-offs may be modified over time as the field evolves in this area.&#xD;
+&#xD;
+          3. Mini-Mental State Exam score between 24 and 30 (inclusive) (Exceptions may be made for&#xD;
+             participants with less than 8 years of education at the discretion of the Project&#xD;
+             Director and/or Clinical Core)&#xD;
+&#xD;
+          4. Clinical Dementia Rating = 0.5. Memory Box score must be at least 0.5&#xD;
+&#xD;
+          5. General cognition and functional performance sufficiently preserved such that a&#xD;
+             diagnosis of dementia cannot be made by the site physician at the time of the&#xD;
+             screening visit.&#xD;
+&#xD;
+          6. Stability of Permitted Medications for 4 weeks. In particular, participants may:&#xD;
+&#xD;
+               1. Take stable doses of antidepressants lacking significant anticholinergic side&#xD;
+                  effects (if they are not currently depressed and do not have a history of major&#xD;
+                  depression within the past 1 year)&#xD;
+&#xD;
+               2. Estrogen replacement therapy is permissible&#xD;
+&#xD;
+               3. Gingko biloba is permissible, but discouraged&#xD;
+&#xD;
+               4. Washout from psychoactive medication (e.g., excluded antidepressants,&#xD;
+                  neuroleptics, chronic anxiolytics or sedative hypnotics, etc.) for at least 4&#xD;
+                  weeks prior to screening&#xD;
+&#xD;
+               5. Cholinesterase inhibitors and memantine are allowable if stable for 12 weeks&#xD;
+                  prior to screen&#xD;
+&#xD;
+               6. Aducanumab and any other approved treatments for the neurobiology of AD if stable&#xD;
+                  for 24 weeks prior to screen&#xD;
+&#xD;
+        Inclusion Criteria for Newly Enrolled Participants, DEM Cohort&#xD;
+&#xD;
+          1. Participant must have a subjective memory concern as reported by participant, study&#xD;
+             partner, or clinician.&#xD;
+&#xD;
+          2. Abnormal memory function documented by scoring within the demographically- adjusted&#xD;
+             ranges on the Logical Memory II subscale (Delayed Paragraph Recall, Paragraph A only)&#xD;
+             from the Wechsler Memory Scale - Revised (the maximum score is 25):&#xD;
+&#xD;
+               1. ≤11 for 16 or more years of education&#xD;
+&#xD;
+               2. ≤9 for 8-15 years of education&#xD;
+&#xD;
+               3. ≤6 for 0-7 years of education.&#xD;
+&#xD;
+               4. Note: cut-offs may be modified over time as the field evolves in this area.&#xD;
+&#xD;
+          3. Mini-Mental State Exam score between 20 and 28 (inclusive) (Exceptions may be made for&#xD;
+             participants with less than 8 years of education at the discretion of the Project&#xD;
+             Director and/or Clinical Core)&#xD;
+&#xD;
+          4. Clinical Dementia Rating = 0.5 or 1.0.&#xD;
+&#xD;
+          5. Meets the National Institute on Aging/Alzheimer's Association Diagnostic Guidelines&#xD;
+             for Dementia (2011)&#xD;
+&#xD;
+          6. Stability of Permitted Medications for 4 weeks. In particular, participants may:&#xD;
+&#xD;
+               1. Take stable doses of antidepressants lacking significant anticholinergic side&#xD;
+                  effects (if they are not currently depressed and do not have a history of major&#xD;
+                  depression within the past 1 year)&#xD;
+&#xD;
+               2. Estrogen replacement therapy is permissible&#xD;
+&#xD;
+               3. Gingko biloba is permissible, but discouraged&#xD;
+&#xD;
+               4. Washout from psychoactive medication (e.g., excluded antidepressants,&#xD;
+                  neuroleptics, chronic anxiolytics or sedative hypnotics, etc.) for at least 4&#xD;
+                  weeks prior to screening&#xD;
+&#xD;
+               5. Cholinesterase inhibitors and memantine are allowable if stable for 12 weeks&#xD;
+                  prior to screen&#xD;
+&#xD;
+               6. Aducanumab and any other approved treatments for the neurobiology of AD if stable&#xD;
+                  for 24 weeks prior to screen&#xD;
+&#xD;
+        Inclusion Criteria for Newly Enrolled Participants, All Cohorts&#xD;
+&#xD;
+          1. Geriatric Depression Scale score less than 10.&#xD;
+&#xD;
+          2. Age between 55-90 years (inclusive).&#xD;
+&#xD;
+          3. Study partner who has frequent contact with the participant (i.e., minimum average of&#xD;
+             2 hours per week) and may be able to accompany the participant to clinic visits or&#xD;
+             provide information remotely (e.g. over the phone).&#xD;
+&#xD;
+          4. Visual and auditory acuity adequate for neuropsychological testing.&#xD;
+&#xD;
+          5. Good general health with no diseases expected to interfere with the study.&#xD;
+&#xD;
+          6. Participant is not pregnant, lactating, or of childbearing potential (i.e., women must&#xD;
+             be two years post-menopausal or surgically sterile).&#xD;
+&#xD;
+          7. Willing and able to participate in a longitudinal imaging study.&#xD;
+&#xD;
+          8. Must be literate and speak English or Spanish fluently.&#xD;
+&#xD;
+          9. Agrees to collection of blood for GWAS, APOE testing, DNA and RNA testing&#xD;
+&#xD;
+         10. Agrees to collection of blood for biomarker testing.&#xD;
+&#xD;
+         11. The Administrative Core, described in section 9.1.1, will collaborate with leadership&#xD;
+             from all Cores to review the blood biomarker data from the remote blood cohort and&#xD;
+             select participants to join the in-clinic cohort. See ADNI4: Remote protocol.&#xD;
+&#xD;
+         12. Agrees to participate in the ADNI study which includes cognitive evaluation, MRI and&#xD;
+             PET scans.&#xD;
+&#xD;
+         13. Flexibility can be made to all criteria for those with at least 8 years in a low&#xD;
+             socio-economic status (SES) neighborhood.&#xD;
+&#xD;
+        Inclusion Criteria for Rollover Participants, All Cohorts&#xD;
+&#xD;
+        The following additional inclusion criteria apply to all diagnostic categories for rollover&#xD;
+        participants only:&#xD;
+&#xD;
+          1. Must have been enrolled and followed in one of the following previous ADNI studies:&#xD;
+             ADNIGO, ADNI2, ADNI3 for at least one year.&#xD;
+&#xD;
+          2. Willing and able to continue to participant in an ongoing longitudinal study. A&#xD;
+             reduced battery of tests is allowable.&#xD;
+&#xD;
+          3. Study partner may be available who has frequent contact with the participant (i.e.,&#xD;
+             minimum average of 2 hours per week), and may be able to accompany the participant to&#xD;
+             clinic visits or provide information remotely (e.g. over the phone).&#xD;
+&#xD;
+        Exclusion Criteria for Newly Enrolled Participants, CN Cohort:&#xD;
+&#xD;
+        1.Any significant neurologic disease, such as Parkinson's disease, vascular cognitive&#xD;
+        impairment/dementia, Huntington's disease, normal pressure hydrocephalus, brain tumor,&#xD;
+        progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis, or&#xD;
+        history of significant head trauma followed by persistent neurologic defaults or known&#xD;
+        structural brain abnormalities&#xD;
+&#xD;
+        Exclusion Criteria for Newly Enrolled Participants, MCI and DEM Cohorts:&#xD;
+&#xD;
+        1.Any significant neurologic disease other than suspected Alzheimer's disease, such as&#xD;
+        Parkinson's disease (Parkinsonian symptoms complicating MCI/AD are acceptable), vascular&#xD;
+        cognitive impairment dementia (multiple lacunes less than or equal to 1.5 cm and/or&#xD;
+        extensive white matter changes are acceptable), Huntington's disease, normal pressure&#xD;
+        hydrocephalus, brain tumor (clinically insignificant meningioma acceptable), progressive&#xD;
+        supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis, or history of&#xD;
+        significant head trauma followed by persistent neurologic defaults or known structural&#xD;
+        brain abnormalities.&#xD;
+&#xD;
+        Exclusion Criteria for Newly Enrolled Participants, All Cohorts:&#xD;
+&#xD;
+        Additional exclusion criteria apply to all diagnostic categories for newly enrolled&#xD;
+        participants:&#xD;
+&#xD;
+          1. Screening/Baseline MRI brain scan with evidence of infection, or other clinically&#xD;
+             significant focal lesions. Participants with cortical strokes, not large enough to&#xD;
+             distort anatomy, multiple lacunar infarctions or extensive white matter disease are&#xD;
+             allowed.&#xD;
+&#xD;
+          2. Screening/Baseline MRI brain scan with evidence of large structural abnormalities that&#xD;
+             would corrupt image analytical pipelines - e.g. large hemispheric infarcts, large&#xD;
+             areas of encephalomalacia, large arachnoid cysts&#xD;
+&#xD;
+          3. Unable to complete MRIs for any reason (e.g. pacemaker or other implanted metal&#xD;
+             devices, severe claustrophobia, anxiety which prevents MRI scans, too large to fit,&#xD;
+             etc.).&#xD;
+&#xD;
+          4. Current major depression, bipolar disorder as described in DMS-IV within the past 1&#xD;
+             year. Psychotic features, agitation or behavioral problems within the last 3 months&#xD;
+             which could lead to difficulty complying with the protocol.&#xD;
+&#xD;
+          5. Currently treated with medication for obsessive-compulsive disorder or attention&#xD;
+             deficit disorder.&#xD;
+&#xD;
+          6. History of schizophrenia (DSM-5 criteria).&#xD;
+&#xD;
+          7. History of alcohol or substance disorder within the past 2 years (DSM-5 criteria).&#xD;
+&#xD;
+          8. Any significant systemic illness or unstable medical condition which could lead to&#xD;
+             difficulty complying with the protocol.&#xD;
+&#xD;
+          9. Clinically significant abnormalities in B12, or thyroid function tests that might&#xD;
+             interfere with the study. A low B12 is exclusionary, unless follow-up labs&#xD;
+             (homocysteine (HC) and methylmalonic acid (MMA)) indicate that it is not&#xD;
+             physiologically significant.&#xD;
+&#xD;
+         10. Residence in skilled nursing facility&#xD;
+&#xD;
+         11. Current use of specific psychoactive medications (e.g. certain antidepressants,&#xD;
+             neuroleptics, chronic anxiolytics or sedative hypnotics, etc.), at the discretion of&#xD;
+             the clinician.&#xD;
+&#xD;
+         12. Current use of any other exclusionary medications.&#xD;
+&#xD;
+         13. Investigational agents are prohibited for five half-lives or one month, whichever time&#xD;
+             period is longer, prior to entry and for the duration of the trial.&#xD;
+&#xD;
+         14. Participation in clinical studies involving neuropsychological measures being&#xD;
+             collected more than once time per year.&#xD;
+&#xD;
+         15. Female that is pregnant, lactating, or of childbearing potential.&#xD;
+&#xD;
+         16. Flexibility can be made to all criteria for those with at least 8 years in a low&#xD;
+             socio-economic status (SES) neighborhood.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Weiner, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Aisen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>USC Alzheimer's Therapeutic Research Institute (ATRI)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ronald Petersen, MD, PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ADNI Recruitment Team</last_name>
+    <phone>(858) 361-6059</phone>
+    <email>adni-participate@usc.edu</email>
+  </overall_contact>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>February 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Southern California</investigator_affiliation>
+    <investigator_full_name>Paul Aisen</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>amyloid</keyword>
+  <keyword>plaques</keyword>
+  <keyword>neuroimaging</keyword>
+  <keyword>biomarkers</keyword>
+  <keyword>cognition disorder</keyword>
+  <keyword>early detection</keyword>
+  <keyword>pre-dementia</keyword>
+  <keyword>dementia</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>tau</keyword>
+  <keyword>observational</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

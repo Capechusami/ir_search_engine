@@ -1,0 +1,316 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627427</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TJGI-004</org_study_id>
+    <nct_id>NCT05627427</nct_id>
+  </id_info>
+  <brief_title>Multi-cohort Study of Surufatinib Plus Sintilimab in Metastatic NEN and Pancreatic Carcinoma Who Failed Standard Chemotherapy</brief_title>
+  <official_title>Multi-cohort, Open-label, Single-centered Study of Surufatinib in Combination With Sintilimab in the Treatment of Metastatic Neuroendocrine Neoplasm and Pancreatic Carcinoma Who Failed Standard Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tianjin Medical University Cancer Institute and Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tianjin Medical University Cancer Institute and Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Neuroendocrine neoplams (NENs) are uncommon, but with a significant increasing incidence and&#xD;
+      prevalence with advances in diagnostic techniques. NENs can originate from various parts of&#xD;
+      the body and are highly heterogeneous. Neuroendocrine tumors (NET), dividing into G1, G2, G3,&#xD;
+      are well-differentiated types with slow growth and neuroendocrine carcinoma (NEC) are&#xD;
+      poorly-differentiated with high malignancy. Pancreatic carcinoma is one of the malignant&#xD;
+      neoplasms with a very high mortality rate.&#xD;
+&#xD;
+      For NET G3, NEC and pancreatic, there are limited treatment options especially for those who&#xD;
+      progressed on standard chemotherapy.&#xD;
+&#xD;
+      Surufatinib is a novel multi-targeted kinase inhibitor on VEGFR-1, 2, 3, FGFR1, and CSF1R,&#xD;
+      which has required the China NMPA approval on unresectable NETs (G1&amp;G2). The pivital phase&#xD;
+      III clinical trial on NEC is ongoing.&#xD;
+&#xD;
+      Sintilimab is a PD-1 inhibitor with the approval on gastric cancer, non-small cell lung&#xD;
+      cancer, hepatocellular carcinoma and Hodgkin lymphoma.&#xD;
+&#xD;
+      Clinical evidence has shown the anti-tumor activity of surufatinib in combination with PD-1&#xD;
+      inhibitor in solid tumors, including NEN, small-cell lung cancer, G/GEJ cancer, etc.&#xD;
+&#xD;
+      The current study is to investigate the safety and efficacy of surufatinib in combination&#xD;
+      with sintilimab in the treatment of NET G3, NEC and pancreatic carcinoma, in order to provide&#xD;
+      more treatment options for the patients who failed standard chemotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Three cohorts.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free Survival (PFS) (RECIST1.1)</measure>
+    <time_frame>From date of first dose of study drug until disease progression, withdrawal of consent, death, new anticancer therapy (up to approximately 2 years</time_frame>
+    <description>A duration from the date of initial treatment to disease progression or death of any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From date of first dose of study drug until withdrawal of consent or death (up to approximately 2 years)</time_frame>
+    <description>Duration from the date of initial treatment to the date of death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)(RECIST1.1)</measure>
+    <time_frame>From date of first dose of study drug until disease progression, withdrawal of consent, death, new anticancer therapy(up to approximately 2 years)</time_frame>
+    <description>The incidence of confirmed complete response or partial response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)(RECIST1.1)</measure>
+    <time_frame>From date of first dose of study drug until disease progression, withdrawal of consent, death, new anti-cancer therapy (up to approximately 2 years)</time_frame>
+    <description>Proportion of patients whose tumor volume control (reduced or enlarged) reaches a predetermined value and can maintain a minimum time limit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TEAE rates</measure>
+    <time_frame>From date of first dose of study drug until disease progression, withdrawal of consent, death, new anti-cancer therapy (up to approximately 2 years)</time_frame>
+    <description>o evaluate number of patients with treatment-emergent adverse events as assessed</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Neuroendocrine Tumor Grade 3</condition>
+  <condition>Neuroendocrine Carcinoma</condition>
+  <condition>Pancreatic Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Surufatinib in combination of Sintilimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Surufatinib Sintinlimab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Surufatinib</intervention_name>
+    <description>250mg, p.o., qd, q3w, until disease progression or other treatment termination criteria</description>
+    <arm_group_label>Surufatinib in combination of Sintilimab</arm_group_label>
+    <other_name>HMPL-012</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sintilimab</intervention_name>
+    <description>200mg, IV, D1, q3w, until disease progression or other treatment termination criteria</description>
+    <arm_group_label>Surufatinib in combination of Sintilimab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged 18-75 years;&#xD;
+&#xD;
+          2. Histologically or cytologically confirmed metastatic advanced neuroendocrine tumor&#xD;
+             grade 3 (NET G3), neuroendocrine carcinoma (NEC), or pancreatic cancer;&#xD;
+&#xD;
+          3. Previous failure of first-line standard treatment (radiologically confirmed disease&#xD;
+             progression or intolerable toxic side effects); patients receiving adjuvant therapy,&#xD;
+             disease recurrence during treatment or within 6 months after the last treatment is&#xD;
+             considered first-line treatment failure; (NEC cohort, NET G3 cohort)&#xD;
+&#xD;
+          4. Previous failure of standard treatment (radiologically confirmed disease progression&#xD;
+             or intolerable toxic side effects); patients receiving adjuvant therapy, disease&#xD;
+             recurrence during treatment or within 6 months after the last treatment is considered&#xD;
+             first-line treatment failure; (Pancreatic cancer cohort)&#xD;
+&#xD;
+          5. Measurable lesions that meet the requirements of RECIST (1.1); if the lesion that has&#xD;
+             previously received local therapy (radiotherapy, ablation, vascular intervention,&#xD;
+             etc.) is the only lesion, there must be a clear imaging basis for the disease&#xD;
+             progression of the lesion;&#xD;
+&#xD;
+          6. Liver function Child-Pugh class A (5-6 points) or better class B (≤ 7 points) (see&#xD;
+             Appendix 3);&#xD;
+&#xD;
+          7. ECOG score of 0 or 1 (see Appendix 1);&#xD;
+&#xD;
+          8. Expected survival ≥ 12 weeks;&#xD;
+&#xD;
+          9. At least one measurable lesion (RECIST 1.1 criteria, see Appendix 2);&#xD;
+&#xD;
+         10. Essentially normal function of major organs and bone marrow:&#xD;
+&#xD;
+             A) Blood routine: WBC ≥ 4.0 x 109/L, neutrophils ≥ 1.5 x 109/L, platelets ≥ 100 x&#xD;
+             109/L, hemoglobin ≥ 90 g/L; B) International normalized ratio (INR) ≤ 1.5 × upper&#xD;
+             limit of normal (ULN), and activated partial thromboplastin time (APTT) ≤ 1.5 × ULN;&#xD;
+             C) Liver function: total bilirubin ≤ 1.5 x ULN; ALT/AST/ALP ≤ 2.5 x ULN in the absence&#xD;
+             of liver metastasis; ALT/AST/ALP ≤ 5 x ULN in the presence of liver metastasis; D)&#xD;
+             Renal function: serum creatinine ≤ 1.5 x ULN and creatinine clearance (CCr) 60 mL/min&#xD;
+             (see Appendix 6); E) Normal cardiac function, left ventricular ejection fraction&#xD;
+             (LVEF) ≥ 50% by two-dimensional echocardiography.&#xD;
+&#xD;
+         11. Fully understand the study, voluntarily participate, and sign the informed consent&#xD;
+             form.&#xD;
+&#xD;
+         12. Male or female patients of childbearing potential voluntarily use effective&#xD;
+             contraceptive methods during the study and within 6 months after the last study drug,&#xD;
+             such as double-barrier contraceptive methods, condoms, oral or injectable&#xD;
+             contraceptives, intrauterine devices, etc. All female patients will be considered to&#xD;
+             be of childbearing potential unless they are naturally postmenopausal, have undergone&#xD;
+             artificial menopause, or have undergone sterilization (eg, hysterectomy, bilateral&#xD;
+             adnexectomy, or radiation ovarian irradiation).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Having received approved or investigational systemic anti-tumor therapy within 4 weeks&#xD;
+             before enrollment, including photodynamic therapy, chemotherapy, radical radiotherapy,&#xD;
+             ablation, local radiotherapy (palliative radiotherapy for bone metastases is allowed&#xD;
+             to be completed at least 2 weeks before study drug treatment), biological&#xD;
+             immunotherapy, targeted therapy, etc.;&#xD;
+&#xD;
+          2. Patients with untreated central nervous system metastases, previously treated with&#xD;
+             systemic, radical brain or meningeal metastases (radiotherapy or surgery), and those&#xD;
+             who have been confirmed to be stable by imaging for at least 1 month and have stopped&#xD;
+             systemic sex hormone therapy (dose &gt; 10 mg/day prednisone or other effective hormones)&#xD;
+             for more than 2 weeks without clinical symptoms can be included&#xD;
+&#xD;
+          3. Participated in other domestic unapproved or unmarketed drug clinical trials within 4&#xD;
+             weeks before enrollment and received the corresponding investigational drug treatment;&#xD;
+&#xD;
+          4. Having received any surgical or invasive treatment or operation (except venous&#xD;
+             catheterization, puncture and drainage, etc.) within 4 weeks before the start of&#xD;
+             enrollment;&#xD;
+&#xD;
+          5. Clinically significant electrolyte abnormalities as judged by the investigator;&#xD;
+&#xD;
+          6. Patients with current hypertension uncontrolled by drugs, defined as systolic blood&#xD;
+             pressure ≥ 140 mmHg and/or diastolic blood pressure ≥ 90 mmHg;&#xD;
+&#xD;
+          7. Patients currently have any disease or condition that affects drug absorption, or&#xD;
+             patients cannot take oral surufatinib;&#xD;
+&#xD;
+          8. Patients with active gastric and duodenal ulcer, ulcerative colitis and other&#xD;
+             gastrointestinal diseases or unresected tumors have active bleeding, or other&#xD;
+             conditions that may cause gastrointestinal bleeding and perforation as judged by the&#xD;
+             investigator;&#xD;
+&#xD;
+          9. Patients with evidence or history of significant bleeding tendency within 3 months&#xD;
+             before enrollment (bleeding &gt; 30 mL, hematemesis, melena, hematochezia), hemoptysis (&gt;&#xD;
+             5 mL of fresh blood within 4 weeks) or thromboembolic events (including stroke events&#xD;
+             and/or transient ischemic attack) within 12 months;&#xD;
+&#xD;
+         10. significant clinically significant cardiovascular disease, including but not limited&#xD;
+             to acute myocardial infarction, severe/unstable angina pectoris, or coronary artery&#xD;
+             bypass grafting within 6 months prior to enrollment; congestive heart failure New York&#xD;
+             Heart Association (NYHA) class &gt; 2; ventricular arrhythmia requiring medical&#xD;
+             treatment; electrocardiogram (ECG) showed QTc interval ≥ 480 milliseconds;&#xD;
+&#xD;
+         11. Patients with other malignant tumors within the past 5 years, except for basal cell or&#xD;
+             squamous cell carcinoma of the skin after radical resection, or cervical carcinoma in&#xD;
+             situ;&#xD;
+&#xD;
+         12. Active or uncontrolled serious infection (≥ CTC AE grade 2 infection);&#xD;
+&#xD;
+         13. Known human immunodeficiency virus (HIV) infection; known history of clinically&#xD;
+             significant liver disease, including viral hepatitis [known hepatitis B virus (HBV)&#xD;
+             carriers must rule out active HBV infection, that is, HBV DNA positive (&gt; 1 × 104&#xD;
+             copies/mL or &gt; 2000 IU/ml); known hepatitis C virus (HCV) infection and HCV RNA&#xD;
+             positive (&gt; 1 × 103 copies/mL), or other hepatitis, cirrhosis];&#xD;
+&#xD;
+         14. Unresolved toxicities above CTCAE grade 1 due to any prior anticancer therapy,&#xD;
+             excluding alopecia, lymphopenia, and oxaliplatin-induced neurotoxicity ≤ grade 2;&#xD;
+&#xD;
+         15. Symptomatic peripheral neuropathy (CTCAE ≥ grade 2);&#xD;
+&#xD;
+         16. pregnant (positive pregnancy test before medication) or lactating women;&#xD;
+&#xD;
+         17. Any other disease, clinically significant metabolic abnormalities, physical&#xD;
+             examination abnormalities, or laboratory abnormalities that, in the judgment of the&#xD;
+             investigator, would reasonably suspect that the patient has a disease or condition&#xD;
+             that would make the use of the study drug inappropriate (eg, having seizures and&#xD;
+             requiring treatment), or would compromise the interpretation of the study results, or&#xD;
+             place the patient at high risk.&#xD;
+&#xD;
+         18. Urine routine showed urine protein ≥ 2 + and, and 24-hour urine protein &gt; 1.0g;&#xD;
+&#xD;
+         19. Patients who have previously received anti-VEGF/VEGFR-targeted drugs and have disease&#xD;
+             progression during treatment;&#xD;
+&#xD;
+         20. Taking drugs containing components of Hypericum perforatum within 3 weeks before&#xD;
+             enrollment, or taking other strong inducers or strong inhibitors of CYP3A4 within 2&#xD;
+             weeks before enrollment;&#xD;
+&#xD;
+         21. According to the investigator 's judgment, the patient has other factors that may&#xD;
+             affect the study results or result in forced halfway termination of this study, such&#xD;
+             as alcoholism, drug abuse, other serious diseases (including mental illness) requiring&#xD;
+             concomitant treatment, severe laboratory abnormalities, accompanied by family or&#xD;
+             social factors, which may affect the patient' s safety.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rui Liu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tianjin</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rui Liu</last_name>
+    <phone>13602139003</phone>
+    <email>liurui9003@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rui Liu</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rui Liu</last_name>
+      <phone>13602139003</phone>
+      <email>liurui9003@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Carcinoma, Neuroendocrine</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

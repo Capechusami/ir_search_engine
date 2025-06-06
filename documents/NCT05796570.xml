@@ -1,0 +1,410 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05796570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-569</org_study_id>
+    <nct_id>NCT05796570</nct_id>
+  </id_info>
+  <brief_title>A Pilot Study to Evaluate the Feasibility of Post-Hematopoietic Stem Cell Transplant Prophylaxis With Decitabine Combined With Filgrastim for Children and Young Adults With AML, MDS and Related Myeloid Malignancies</brief_title>
+  <acronym>MORE</acronym>
+  <official_title>A Pilot Study to Evaluate the Feasibility of Post-Hematopoietic Stem Cell Transplant Prophylaxis With Decitabine Combined With Filgrastim for Children and Young Adults With AML, MDS and Related Myeloid Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Franziska Wachter</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Harvard Clinical and Translational Science Center (Harvard Catalyst)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to examine if it is feasible to administer decitabine and&#xD;
+      filgrastim after allogenic hematopoietic stem cell transplant (HCT) in children and young&#xD;
+      adults with myelodysplastic syndrome, acute myeloid leukemia and related myeloid disorders,&#xD;
+      and if the treatment is effective in preventing relapse after HCT.&#xD;
+&#xD;
+      The names of the study drugs involved in this study are:&#xD;
+&#xD;
+        -  Decitabine (a nucleoside metabolic inhibitor)&#xD;
+&#xD;
+        -  Filgrastim (a recombinant granulocyte colony-stimulating factor (G-CSF)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single arm, pilot study to determine if sequential cycles of maintenance therapy&#xD;
+      with decitabine and filgrastim post allogenic hematopoietic cell transplant (HCT) are&#xD;
+      feasible and effective in preventing relapse after HCT in pediatric and young adult patients&#xD;
+      with acute myeloid leukemia (AML), myelodysplastic syndrome (MDS) and treatment related&#xD;
+      myeloid malignancies (tAML/MDS) with either idiopathic disease or underlying germline&#xD;
+      disorders, including a subset that may be at higher risk for toxicity from treatment.&#xD;
+&#xD;
+      Decitabine in combination with filgrastim after stem cell transplant has been shown to be&#xD;
+      effective in a large study that included mainly adult patients with acute myeloid leukemia.&#xD;
+&#xD;
+      The research study procedures include screening for eligibility, study treatment including&#xD;
+      evaluations and follow up visits and blood tests. Bone marrow biopsies and aspirates will be&#xD;
+      performed as standard of care.&#xD;
+&#xD;
+      Participants will receive study treatment for 6 months if tolerated and will be followed for&#xD;
+      24 months after stem cell transplant.&#xD;
+&#xD;
+      It is expected about 37 people will take part in this research study.&#xD;
+&#xD;
+      This research study is supported by Dana-Farber Cancer Institute philanthropy and&#xD;
+      institutional grants from the Dana-Farber Cancer Institute and Boston Children's Hospital.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 19, 2023</start_date>
+  <completion_date type="Anticipated">September 1, 2029</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility Failure Rate (FFR)</measure>
+    <time_frame>Treatment duration up to 6 cycles (28 days/cycle) or 168 days</time_frame>
+    <description>Feasibility failure relates to decitabine exposure in the setting of post-hematopoietic stem cell transplant (HCT) maintenance and in combination with filgrastim; FFR is defined as the proportion of participants that do not initiate at least 5 of 6 planned cycles and/or receive fewer than 22/30 overall planned decitabine doses during maintenance phase.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>24-Month Probability Event-Free Survival (EFS)</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>EFS based on the Kaplan-Meier method is defined as the time from HCT until evidence of relapse of myelodysplastic syndrome (MDS) or leukemia, or death from any cause. Participants without an event are censored at the date of last follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>24-Month Probability Overall Survival (OS)</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>OS based on the Kaplan-Meier method is defined as the time from HCT to death or censored at date of last follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Tolerability Rate (TTR)</measure>
+    <time_frame>Up to the end of cycle 6 (28 days/cycle), or 168 days + 36 days post-treatment</time_frame>
+    <description>Tolerability is based on select adverse events (AE) deemed probably of definitely related to decitabine; TTR is the proportion of participants with grade 4 non-hematologic (NH) AEs except infection and febrile neutropenia, grade 3 NH AEs causing a delay in treatment by &gt;14 days, and hematologic AEs including ANC&lt;500 cells/uL or platelet count&lt;10,000 cells for &gt;1 week despite supportive care as well as day 28 ANC and platelet target levels or graft failure.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">37</enrollment>
+  <condition>Acute Myeloid Leukemia</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <condition>Myeloid Malignancies</condition>
+  <condition>MDS</condition>
+  <condition>Inherited Bone Marrow Failure Syndrome</condition>
+  <condition>Myeloid Neoplasm</condition>
+  <condition>Aml</condition>
+  <arm_group>
+    <arm_group_label>Cohort A: Standard Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with MDS, AML, AML/MDS, treatment related myeloid neoplasm (tAML/MDS) with either idiopathic disease or inherited bone marrow failure syndrome (iBMF) with standard risk for treatment related toxicities will be enrolled and will undergo study procedures as outlined:&#xD;
+Cycles 1: Study treatment start must occur 40 - 120 days post allogenic HCT.&#xD;
+Day 2 - 6 of 28-day cycle: Predetermined dose of Decitabine.&#xD;
+Day 1 - 6 of 28-day cycle: Predetermined dose of Filgrastim.&#xD;
+Cycles 2 - 6:&#xD;
+Day 2 - 6 of 28-day cycle: Predetermined dose of Decitabine.&#xD;
+Day 1 - 6 of 28-day cycle: Predetermined dose of Filgrastim.&#xD;
+Follow up visit every 6 months for 24 months post allogenic HCT.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B: inherited bone marrow failure (iBMF) with Increased Risk for treatment related toxicities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with MDS, AML, AML/MDS, tAML/MDS with iBMF with increased risk for treatment related toxicities will be enrolled and will undergo study procedures as outlined:&#xD;
+Cycles 1: Study treatment must occur 40 - 120 days post allogenic HCT.&#xD;
+Day 2 - 6 of 28-day cycle: Predetermined dose of Decitabine.&#xD;
+Day 1 - 6 of 28-day cycle: Predetermined dose of Filgrastim.&#xD;
+Cycles 2 - 6:&#xD;
+Day 2 - 6 of 28-day cycle: Predetermined dose of Decitabine.&#xD;
+Day 1 - 6 of 28-day cycle: Predetermined dose of Filgrastim.&#xD;
+Follow up visit every 6 months for 24 months post allogenic HCT.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Decitabine</intervention_name>
+    <description>Nucleoside metabolic inhibitor, via IV infusion.</description>
+    <arm_group_label>Cohort A: Standard Risk</arm_group_label>
+    <arm_group_label>Cohort B: inherited bone marrow failure (iBMF) with Increased Risk for treatment related toxicities</arm_group_label>
+    <other_name>Dacogen</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Filgrastim</intervention_name>
+    <description>Recombinant granulocyte colony-stimulating factor (G-CSF), via subcutaneous injection.</description>
+    <arm_group_label>Cohort A: Standard Risk</arm_group_label>
+    <arm_group_label>Cohort B: inherited bone marrow failure (iBMF) with Increased Risk for treatment related toxicities</arm_group_label>
+    <other_name>Nivestym, Granix, Zarxio, Neupogen, Filgrastim-aafi, Filgrastim-sndz, Tbo-filgrastim, Rhg-csf</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Disease Criteria: Participants must have a histologically confirmed diagnosis of one&#xD;
+             of the following hematologic malignancies for eligibility, as defined by the criteria&#xD;
+             below:&#xD;
+&#xD;
+               -  AML (relapsed, de-novo or secondary) based on WHO classification&#xD;
+&#xD;
+               -  MDS (relapsed, de-novo or secondary) based on WHO classification&#xD;
+&#xD;
+               -  Treatment myeloid neoplasm (tMDS/AML; relapsed disease included)&#xD;
+&#xD;
+          -  Note: MDS, AML, MDS/AML, or tMDS/AML as defined above may be idiopathic/de novo or&#xD;
+             derived from a germline predisposition to myeloid malignancy. For patients with an&#xD;
+             underlying germline disorder, those conditions that are not associated with increased&#xD;
+             risk for toxicity to treatment, including patients with known germline ANKRD26, DDX41,&#xD;
+             ELANE and other congenital neutropenia disorders, ETV6, GATA-2, Li-Fraumeni, RUNX1,&#xD;
+             SAMD9/SAMD9L, or Shwachman-Diamond Syndrome, will be analyzed within the general&#xD;
+             treatment cohort (Cohort A, see Table 1) along with patients with idiopathic disease&#xD;
+             (Cohort B, see Table 2).&#xD;
+&#xD;
+        MDS, AML, MDS/AML, or tMDS/AML derived from the following germline disorders will be&#xD;
+        enrolled in a separate cohort (B) and adverse events monitored closely for higher rates&#xD;
+        compared to cohort A:&#xD;
+&#xD;
+          -  Dyskeratosis Congenita or associated telomeropathies as defined by telomere length&#xD;
+             &lt;1st percentile on 3 out of 4 lymphocyte subsets and/or corresponding pathogenic&#xD;
+             genetic mutation.&#xD;
+&#xD;
+          -  Fanconi Anemia as defined by positive chromosomal breakage test to DEB/MMC and/or&#xD;
+             corresponding pathogenic genetic mutation.&#xD;
+&#xD;
+          -  Nijmegen Breakage Syndrome as defined by positive chromosomal breakage test to DEB/MMC&#xD;
+             and/or corresponding pathogenic genetic mutation&#xD;
+&#xD;
+          -  ERCC6L2 by genomic testing.&#xD;
+&#xD;
+        Table 2: Overview Inherited Bone Marrow Failure syndromes (iBMF)&#xD;
+&#xD;
+        -iBMF with Standard risk for Treatment Related toxicities:&#xD;
+&#xD;
+          -  germline mutations in ANKRD26&#xD;
+&#xD;
+          -  germline mutations in DDX41&#xD;
+&#xD;
+          -  ELANE and other Congenital Neutropenia Disorders&#xD;
+&#xD;
+          -  germline mutations in ETV6&#xD;
+&#xD;
+          -  germline mutations in GATA-2&#xD;
+&#xD;
+          -  Li-Fraumeni&#xD;
+&#xD;
+          -  germline mutations in RUNX1&#xD;
+&#xD;
+          -  SAMD9/SAMD9L&#xD;
+&#xD;
+          -  Shwachman-Diamond Syndrome&#xD;
+&#xD;
+          -  Familial MDS with thrombocytopenia&#xD;
+&#xD;
+          -  Diamond-Blackfan Anemia&#xD;
+&#xD;
+        Table 2: Overview Inherited Bone Marrow Failure syndromes (iBMF)&#xD;
+&#xD;
+          -  iBMF with Increased Risk for Treatment Related Toxicities:&#xD;
+&#xD;
+               -  Fanconi Anemia&#xD;
+&#xD;
+               -  Dyskeratosis Congenita and associated Telomere Disorders&#xD;
+&#xD;
+               -  Nijmegen Breakage Syndrome&#xD;
+&#xD;
+               -  ERCC6L2&#xD;
+&#xD;
+          -  Patients must be receiving an allogeneic hematopoietic stem cell transplant. All donor&#xD;
+             types and graft sources are permitted. All conditioning regimens are permitted. All&#xD;
+             GVHD prophylaxis regimens are permitted.&#xD;
+&#xD;
+          -  Timing of Enrollment: Registration can occur from day - 30 to day - 10 prior to stem&#xD;
+             cell infusion.&#xD;
+&#xD;
+          -  Disease Status: Study enrollment will occur pre HCT. Any disease status is acceptable&#xD;
+             at the time of enrollment; however, patients must be in a MRD negative remission (as&#xD;
+             defined by multidimensional flow cytometry (MDF) post HCT prior to protocol treatment&#xD;
+             start). Post HCT/ pretreatment disease status will be performed by Hematologics.&#xD;
+&#xD;
+          -  No limitations on prior therapy.&#xD;
+&#xD;
+          -  Age ≥1 year and ≤ 39 year of age.&#xD;
+&#xD;
+          -  ECOG performance status ≤2 (Lansky, Karnofsky ≥60%).&#xD;
+&#xD;
+          -  Participants must have adequate organ function to be eligible for allogenic HCT as per&#xD;
+             institutional standard.&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infected participants on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial.&#xD;
+             Anti- retroviral therapy must not have a non-acceptable drug interaction with protocol&#xD;
+             treatment.&#xD;
+&#xD;
+          -  For participants with evidence of chronic hepatitis B virus (HBV) infection, the HBV&#xD;
+             viral load must be undetectable on suppressive therapy, if indicated. Suppressive&#xD;
+             therapy must not have a non-acceptable drug interaction with protocol treatment.&#xD;
+&#xD;
+          -  Participants with a history of hepatitis C virus (HCV) infection must have been&#xD;
+             treated and cured. For participants with HCV infection who are currently on treatment,&#xD;
+             they are eligible if they have an undetectable HCV viral load. Ongoing antiviral&#xD;
+             therapy must not have a non-acceptable drug interaction with protocol treatment.&#xD;
+&#xD;
+          -  Participants with a malignancy in remission are eligible for this trial.&#xD;
+&#xD;
+          -  Participants with known history or current symptoms of cardiac disease should have a&#xD;
+             clinical risk assessment of cardiac function using the New York Heart Association&#xD;
+             Functional Classification. To be eligible for this trial, participants should be class&#xD;
+             2B or better.&#xD;
+&#xD;
+          -  The effects of filgrastim on the developing human fetus are unknown. For this reason&#xD;
+             and because decitabine is known to be teratogenic, women of child-bearing potential&#xD;
+             and men must agree to use adequate contraception (hormonal or barrier method of birth&#xD;
+             control; abstinence) prior to study entry and for the duration of study participation.&#xD;
+             Should a woman become pregnant or suspect she is pregnant while she or her partner is&#xD;
+             participating in this study, she should inform her treating physician immediately. Men&#xD;
+             treated or enrolled on this protocol must also agree to use adequate contraception&#xD;
+             prior to the study, for the duration of study participation, and 4 months after&#xD;
+             completion of decitabine administration.&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who have not recovered from adverse events due to prior anti-cancer&#xD;
+             therapy (i.e., have residual toxicities &gt; Grade 2) except for bone marrow suppression.&#xD;
+&#xD;
+          -  Participants should not be enrolled on another study that prohibits initiation of&#xD;
+             maintenance therapy.&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to decitabine or filgrastim.&#xD;
+&#xD;
+          -  Participants with uncontrolled intercurrent illness.&#xD;
+&#xD;
+          -  Participant who are not able to present for clinic visits for at least 7 months after&#xD;
+             study treatment initiation.&#xD;
+&#xD;
+          -  Participant with FLT3/ITD mutations are excluded as maintenance therapy with tyrosine&#xD;
+             kinase therapy should be considered in this context.&#xD;
+&#xD;
+          -  Participants with a concurrent active malignancy are not eligible for this trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>39 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Franziska Wachter, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Franziska Wachter, MD</last_name>
+    <phone>617-632-4583</phone>
+    <email>franziska_wachter@dfci.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franziska Wachter, MD</last_name>
+      <phone>617-632-4583</phone>
+      <email>Franziska_Wachter@dfci.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Franziska Wachter</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franziska Wachter, MD</last_name>
+      <phone>617-632-4583</phone>
+      <email>franziska_wachter@dfci.harvard.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Franziska Wachter</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Acute Myeloid Leukemia</keyword>
+  <keyword>Myelodysplastic Syndromes</keyword>
+  <keyword>Myeloid Malignancies</keyword>
+  <keyword>MDS</keyword>
+  <keyword>Inherited Bone Marrow Failure Syndrome</keyword>
+  <keyword>Myeloid Neoplasm</keyword>
+  <keyword>AML</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Bone Marrow Failure Disorders</mesh_term>
+    <mesh_term>Pancytopenia</mesh_term>
+    <mesh_term>Congenital Bone Marrow Failure Syndromes</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Decitabine</mesh_term>
+    <mesh_term>Lenograstim</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Belfer Office for Dana-Farber Innovations (BODFI) at innovation@dfci.harvard.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

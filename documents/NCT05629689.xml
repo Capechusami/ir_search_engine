@@ -1,0 +1,406 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GE-269-001</org_study_id>
+    <secondary_id>2022-000246-16</secondary_id>
+    <nct_id>NCT05629689</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate GEH200520/GEH200521 (18F) Safety and Tolerability When Used for PET Scans in Patients With Solid Tumour Malignancies</brief_title>
+  <official_title>A Phase 1a/1b, Multi-Centre, Open-Label, Dose-Escalation and Dose-Expansion Study in Patients With Solid Tumour Malignancies to Evaluate GEH200520 Injection / GEH200521 (18F) Injection Safety and Tolerability, PET Imaging, Pharmacokinetics, and Changes in Imaging After Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GE Healthcare</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GE Healthcare</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Part A: The purpose of this part is to assess the safety of GEH200520 and GEH200521 (18F)&#xD;
+      when administered to patients with solid cancer. Subjects will be requested to complete 3&#xD;
+      study visits: 1 screening visit, 1 imaging visit (over 24 hours) and 1 follow-up visit (7&#xD;
+      days later). The estimated duration of Part A is 21 days.&#xD;
+&#xD;
+      Part B: The purpose of this part of the study is to assess the imaging quality and findings&#xD;
+      as well as the safety and tolerability of GEH200520 and GEH200521 (18F) when administered to&#xD;
+      patients with cancer before and after immunotherapy treatment.&#xD;
+&#xD;
+      Subjects will be requested to complete 7 study visits: 1 screening visit, the first imaging&#xD;
+      visit, followed by 2 immunotherapy immune-checkpoint inhibitor (ICI) treatment visits and 2&#xD;
+      additional imaging and 1 follow-up visit . The estimated duration of Part B is approximately&#xD;
+      64 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 27, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: The incidence of AEs upon causality to the IMPs.</measure>
+    <time_frame>Part A: 7 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part A: The severity of AEs per National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI CTCAE version 5.0) upon causality to the IMPs.</measure>
+    <time_frame>Part A: 7 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To evaluate the time-course changes in GEH200521 (18F) Injection uptake after immune-checkpoint inhibitor (ICI) treatment cycles compared to baseline.</measure>
+    <time_frame>Part B: 50 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the radiation dosimetry of a fixed dose of GEH200521 (18F) Injection when administered with the different GEH200520 Injection mass doses by cumulated activity in source regions and by entire body.</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the optimal imaging time window for GEH200521 (18F) Injection positron emission tomography (PET) imaging when administered with different GEH200520 Injection mass doses for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the appropriate mass dose of GEH200520 Injection for administration with GEH200521 (18F) Injection to achieve an acceptable PET image quality for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the pharmacokinetic (PK) properties (AUC) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of different GEH200520 Injection mass doses with a fixed dose of GEH200521 (18F) Injection for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+    <description>The PK parameter to be assessed: AUC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the pharmacokinetic (PK) properties (Cmax) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of different GEH200520 Injection mass doses with a fixed dose of GEH200521 (18F) Injection for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+    <description>The PK parameter to be assessed: Cmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the pharmacokinetic (PK) properties (CL) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of different GEH200520 Injection mass doses with a fixed dose of GEH200521 (18F) Injection for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+    <description>The PK parameter to be assessed: CL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the pharmacokinetic (PK) properties (V) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of different GEH200520 Injection mass doses with a fixed dose of GEH200521 (18F) Injection for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+    <description>The PK parameter to be assessed: V</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the pharmacokinetic (PK) properties (t1/2) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of different GEH200520 Injection mass doses with a fixed dose of GEH200521 (18F) Injection for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+    <description>The PK parameter to be assessed: t1/2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collection of the incidence, severity, changes between visits for AEs/SAEs/AESIs, for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+    <description>Incidence of AEs, SAEs, and Treatment-emergent AEs by system organ class and preferred term</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in physical examination status following administration of GEH200520 and GEH200521 (18F) for Part A subjects</measure>
+    <time_frame>Baseline, 24 hours, 7 days post IMP administration</time_frame>
+    <description>The findings in the physical exam pre and post-administration will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the results of serum biochemistry test results following administration of GEH200520 and GEH200521 (18F) for Part A subjects.</measure>
+    <time_frame>Baseline, 24 hours, 7 days post IMP administration</time_frame>
+    <description>In this context, baseline is defined as the pre-treatment assessment at the screening visit. The occurrence of post injection values outside of normal limits and changes from baseline will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the results of haematology test results following administration of GEH200520 and GEH200521 (18F) for Part A subjects.</measure>
+    <time_frame>Baseline, 24 hours, 7 days post IMP administration</time_frame>
+    <description>Change from baseline in the results of haematology test results following administration of GEH200520 and GEH200521 (18F) for Part A subjects.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in heart rate as beats per minute following administration of GEH200520 and GEH200521 (18F) for Part A subjects</measure>
+    <time_frame>Baseline, 2 hours, 24 hours, 7 days post IMP administration</time_frame>
+    <description>The occurrence of post-administration heart rate values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood pressure in mmHg following administration of GEH200520 and GEH200521 (18F) for Part A subjects</measure>
+    <time_frame>Baseline, 2 hours, 24 hours, 7 days post IMP administration</time_frame>
+    <description>The occurrence of post-administration blood pressure values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in temperature as degree C following administration of GEH200520 and GEH200521 (18F) for Part A subjects</measure>
+    <time_frame>Baseline, 2 hours, 24 hours, 7 days post IMP administration</time_frame>
+    <description>The occurrence of post-administration body temperature values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the results of 12-lead electrocardiograms (ECGs) following administration of GEH200520 and GEH200521 (18F) for Part A subjects</measure>
+    <time_frame>Baseline, 2 hours, 24 hours, 7 days post IMP administration</time_frame>
+    <description>Descriptive statistics will be used to describe the observed values and change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess immunogenicity, via the incidence of treatment-induced anti-drug antibodies responses, after a single injection of the different GEH200520 Injection mass doses administered with a fixed dose of GEH200521 (18F) Injection for Part A subjects.</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collection of the incidence, severity, changes between visits for AEs/SAEs/AESIs</measure>
+    <time_frame>50 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the biodistribution and tumour uptake of GEH200521 (18F) Injection with the optimal GEH200520 Injection dose determined in Part A based on quantitative measurements of GEH200521 (18F) in regions of interest for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the relationship between tumour GEH200521 (18F) Injection uptake (SUV value) and immune cell CD8+ expression score from a biopsy sample/resected lesion when available based on IHC results for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare changes in tumour GEH200521 (18F) Injection uptake with changes in computed tomography (CT) image assessment, according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 for Part B subjects when available .</measure>
+    <time_frame>50 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare changes in tumour GEH200521 (18F) Injection uptake with changes in computed tomography (CT) image assessment, according to [18F]-fluorodeoxyglucose (FDG) scans, when available for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in physical examination status following administration of GEH200520 and GEH200521 (18F) for Part B subjects</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>The occurrence of post-administration physical exam status values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the results of serum biochemistry test results following administration of GEH200520 and GEH200521 (18F) for Part B subjects.</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>In this context, baseline is defined as the pre-treatment assessment at the screening visit. The occurrence of post injection values outside of normal limits and changes from baseline will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the results of haematology test results following administration of GEH200520 and GEH200521 (18F) for Part B subjects.</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>In this context, baseline is defined as the pre-treatment assessment at the screening visit. The occurrence of post injection values outside of normal limits and changes from baseline will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in heart rate as beats per minute following administration of GEH200520 and GEH200521 (18F) for Part B subjects</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>The occurrence of post-administration heart rate values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood pressure in mmHg following administration of GEH200520 and GEH200521 (18F) for Part B subjects</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>The occurrence of post-administration blood pressure values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in temperature as degree C following administration of GEH200520 and GEH200521 (18F) for Part B subjects</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>The occurrence of post-administration body temperature values outside the normal limits will be summarized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the results of 12-lead electrocardiograms (ECGs) following administration of GEH200520 and GEH200521 (18F) for Part B subjects</measure>
+    <time_frame>Baseline, Day 15, Day 36, Day 50</time_frame>
+    <description>Descriptive statistics will be used to describe the observed values and change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the PK properties (AUC) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of GEH200520 Injection with GEH200521 (18F) Injection for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+    <description>The PK parameter to be assessed: AUC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the PK properties (Cmax) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of GEH200520 Injection with GEH200521 (18F) Injection for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+    <description>The PK parameter to be assessed: Cmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the PK properties (CL) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of GEH200520 Injection with GEH200521 (18F) Injection for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+    <description>The PK parameter to be assessed: CL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the PK properties (V) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of GEH200520 Injection with GEH200521 (18F) Injection for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+    <description>The PK parameter to be assessed: V</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the PK properties (t1/2) of total protein (GEH200520 and [18F]GEH200521 combined) following administration of GEH200520 Injection with GEH200521 (18F) Injection for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+    <description>The PK parameter to be assessed: t1/2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare immunogenicity, via the incidence of treatment-induced anti-drug antibodies responses, after multiple administrations of GEH200520 Injection with GEH200521 (18F) Injection for Part B subjects.</measure>
+    <time_frame>50 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Malignant Solid Tumor</condition>
+  <condition>Oncology</condition>
+  <arm_group>
+    <arm_group_label>Part A Cohort 1 - 1 mg dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 mg mass dose of GEH200520 Injection with fixed dose of GEH200521 (18F) Injection administered together</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A Cohort 2 - 2 mg dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 mg mass dose of GEH200520 Injection with fixed dose of GEH200521 (18F) Injection administered together</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A Cohort 3 - 4 mg dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4 mg mass dose of GEH200520 Injection with fixed dose of GEH200521 (18F) Injection administered together</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A Cohort 4 - 8 mg dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>8 mg mass dose of GEH200520 Injection with fixed dose of GEH200521 (18F) Injection administered together</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A Cohort 5 (optional) - 12 or 15 mg dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 or 15 mg mass dose of GEH200520 Injection with fixed dose of GEH200521 (18F) Injection administered together</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A Cohort 6 - Optimal dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Selected (optimal) mass dose as determined from results of Cohorts 1 through 5 of GEH200520 Injection with fixed dose of GEH200521 (18F) Injection administered together</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Selected (optimal) dose of GEH200520 Injection from Part A with fixed dose of GEH200521 (18F) Injection administered together in 3 sequential repeat imaging visits</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GEH200520 Injection / GEH200521 (18F) Injection - Part A</intervention_name>
+    <description>Administration of GEH200520 Injection followed within 2 to 4 minutes by GEH200521 (18F) Injection followed by a 10mL saline flush</description>
+    <arm_group_label>Part A Cohort 1 - 1 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 2 - 2 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 3 - 4 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 4 - 8 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 5 (optional) - 12 or 15 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 6 - Optimal dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Dynamic and Static - PET/CT scan</intervention_name>
+    <description>Dynamic whole-body PET/CT scan starting at the time of injection (sequential scans over 90 minutes anticipated) followed by static whole-body scans starting at 150 minutes, 270 minutes, and (optional) 24 hours after injection.</description>
+    <arm_group_label>Part A Cohort 1 - 1 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 2 - 2 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 3 - 4 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 4 - 8 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 5 (optional) - 12 or 15 mg dose</arm_group_label>
+    <arm_group_label>Part A Cohort 6 - Optimal dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GEH200520 Injection / GEH200521 (18F) Injection - Part B</intervention_name>
+    <description>Administration of GEH200520 Injection followed within 2 to 4 minutes by GEH200521 (18F) Injection followed by a 10mL saline flush</description>
+    <arm_group_label>Part B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Static - PET/CT scan</intervention_name>
+    <description>Whole-body PET/CT scan (up to 30 min). Exact timing will be determined from Part A. An optional dynamic scan may be acquired in addition to the required whole-body PET/CT scan at each imaging visit.</description>
+    <arm_group_label>Part B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The subject is able and willing to comply with all study procedures as described in&#xD;
+             the protocol, including the imaging day pre-visit requirements, and has read, signed,&#xD;
+             and dated an informed consent form prior to any study procedures being performed.&#xD;
+&#xD;
+          -  The subject is male or female, ≥18 years of age.&#xD;
+&#xD;
+          -  Subject has a life expectancy ≥12 weeks.&#xD;
+&#xD;
+          -  Subject has Eastern Cooperative Oncology Group (ECOG) performance status 0-1.&#xD;
+&#xD;
+          -  Subject has an irresectable or metastatic solid tumour or a local and resectable head&#xD;
+             and neck squamous cell carcinoma.&#xD;
+&#xD;
+          -  Subject is eligible for ICI treatment.&#xD;
+&#xD;
+          -  Subject is male, or a female who agrees to comply with the protocol contraception&#xD;
+             method.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject is unable to undergo all procedures in the study and/or is unable to remain&#xD;
+             still and tolerate the imaging procedure.&#xD;
+&#xD;
+          -  Subject has 12-lead ECG significant findings during screening, per Investigator's&#xD;
+             assessment.&#xD;
+&#xD;
+          -  Subject is not stable due to medical condition or therapy that, in the opinion of the&#xD;
+             Investigator, could compromise subject safety or protocol objectives.&#xD;
+&#xD;
+          -  Subject has active autoimmune disease or a documented history of autoimmune disease or&#xD;
+             syndrome that requires systemic steroids or immunosuppressive agents.&#xD;
+&#xD;
+          -  Subject has any safety laboratory test results (clinical chemistry, haematology, and&#xD;
+             urinalysis) that, in the opinion of the Investigator, could compromise subject safety&#xD;
+             or protocol objectives.&#xD;
+&#xD;
+          -  Subject is pregnant or planning to become pregnant or is lactating.&#xD;
+&#xD;
+          -  Subject has a history of alcohol or drug abuse within the last year.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yaron Raiter, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>GE Healthcare</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yaron Raiter, MD</last_name>
+    <phone>+31 6 21288463</phone>
+    <email>yaron.raiter@ge.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jane Bateman, RN</last_name>
+    <phone>(508) 5730016</phone>
+    <email>Jane.Bateman@ge.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UMC Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Derk Jan de Groot, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>February 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 28, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

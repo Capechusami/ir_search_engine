@@ -1,0 +1,173 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05612152</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RSG-18-137-01-CPPB</org_study_id>
+    <nct_id>NCT05612152</nct_id>
+  </id_info>
+  <brief_title>Choose2Quit: Improving Equity in Smoking Cessation for Low Income Adults</brief_title>
+  <official_title>Choose2Quit: Improving Equity in Smoking Cessation for Low Income Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Case Western Reserve University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>MetroHealth Health System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to evaluate the effectiveness of a tobacco treatment navigator to&#xD;
+      improve primary care patient engagement in tobacco cessation support. We compare an ask,&#xD;
+      advise and connect to the quitline approach vs. the novel tobacco treatment navigator&#xD;
+      approach on the primary outcomes of receipt of tobacco cessation counseling sessions and&#xD;
+      receipt of tobacco cessation medications.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Our novel intervention, Choose2Quit, builds on our prior successes with the Ask, Advice,&#xD;
+      Connect study, but now 1) allows personalized choice of counseling modality (phone, text,&#xD;
+      web, in-person); 2) conveys the value and low/no-cost availability of medications to support&#xD;
+      quit attempt success and sends providers the patient's request in e-prescription to transmit&#xD;
+      to patient's pharmacy; 3) assesses patient's need to manage social barriers to quitting by&#xD;
+      linking them to Unite-US; and 4) uses an initial phone contact from a recognizable local&#xD;
+      number, will increase the engagement of patients in cessation treatment and in tobacco&#xD;
+      cessation. This study aims to:&#xD;
+&#xD;
+        1. Test the effect of a traditional eReferral vs. a Choose2Quit personalized guidance and&#xD;
+           choice approach on the ability to contact patients, and the proportion of patients that&#xD;
+           initiate tobacco cessation treatment, use tobacco cessation medications and make quit&#xD;
+           attempts.&#xD;
+&#xD;
+        2. Assess the impact of each intervention arm on equitable engagement in tobacco cessation&#xD;
+           treatment, medication use and quit outcomes across gender, race and age groups.&#xD;
+&#xD;
+        3. Evaluate intervention experience from the patient perspective.&#xD;
+&#xD;
+        4. Evaluate the cost to implement, and per engagement in each of the intervention arms.&#xD;
+&#xD;
+      The study is accomplished using a 2-arm randomized trial. Randomization into the traditional&#xD;
+      eReferral vs. Choose2Quit intervention arms will occur at the patient level with a 1:1 group&#xD;
+      assignment. Individuals that are ready to quit in the next 30 days and are interested in&#xD;
+      being connected with tobacco cessation resources will be randomized. Randomization of&#xD;
+      eligible patients occurs automatically with an electronic health record algorithm that routes&#xD;
+      the eReferral to the Quitline (traditional eReferral) or the Choose2Quit intervention. The&#xD;
+      Ask-Advise-Connect process is exactly the same for medical assistants; medical assistants and&#xD;
+      patients are blind to group assignment&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">July 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>receipt of tobacco cessation counseling</measure>
+    <time_frame>4 weeks after referral</time_frame>
+    <description>receipt of 1 or more tobacco cessation counseling sessions from referral sources</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>receipt of tobacco cessation medications</measure>
+    <time_frame>within 4 weeks after referral</time_frame>
+    <description>documentation of orders for nicotine replacement therapy, varenicline or bupropion in electronic health record</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>7-day point prevalence abstinence</measure>
+    <time_frame>8 weeks after referral</time_frame>
+    <description>7-day point prevalence abstinence from tobacco use</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1600</enrollment>
+  <condition>Tobacco Use</condition>
+  <arm_group>
+    <arm_group_label>Referral to Quitline</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients who indicate they are ready to quit in the next 30 days are offered an electronic referral to the state quitline for tobacco cessation services.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Choose2Quit</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who indicate they are ready to quit in the next 30 days are offered an electronic referral to the Choose2Quit tobacco treatment navigator who walks the patient through choices for tobacco cessation counseling, tobacco cessation medications and other supports (e.g. texting, apps) and facilitates placing referrals, orders and providing information.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Referral to Quitline</intervention_name>
+    <description>An electronic referral to the state quitline is placed. This prompts the quitline to proactively call the patient to enroll in counseling services.</description>
+    <arm_group_label>Referral to Quitline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Choose2Quit</intervention_name>
+    <description>An electronic referral to the Choose2quit tobacco cessation navigator is placed. This prompts the navigator to call the patient to review options for tobacco cessation counseling, tobacco cessation medications and other supports.</description>
+    <arm_group_label>Choose2Quit</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patient care visit to one of the participating primary care clinics during the study&#xD;
+             period&#xD;
+&#xD;
+          -  reports current tobacco use&#xD;
+&#xD;
+          -  reports interest in quitting tobacco in the next 30 days&#xD;
+&#xD;
+          -  accepts offer of referral to tobacco cessation support&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  not interested in quitting in next 30 days&#xD;
+&#xD;
+          -  not interested in assistance&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Susan Flocke</last_name>
+    <phone>216 965 5538</phone>
+    <email>flocke@ohsu.edu</email>
+  </overall_contact>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

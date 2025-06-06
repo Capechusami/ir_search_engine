@@ -1,0 +1,445 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05619913</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANZGOG 1828/2021</org_study_id>
+    <nct_id>NCT05619913</nct_id>
+  </id_info>
+  <brief_title>EPOCH: Eribulin and Pembrolizumab in Ovarian/Uterine Carcinosarcoma</brief_title>
+  <acronym>EPOCH</acronym>
+  <official_title>The EPOCH Study: Phase II Open Labelled Study Investigating the Use of Single Agent Eribulin and Eribulin in Combination With Pembrolizumab in Relapsed Tubo-ovarian or Uterine Carcinosarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Australia New Zealand Gynaecological Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eisai Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Australia New Zealand Gynaecological Oncology Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The EPOCH study population is patients with tubo-ovarian carcinosarcoma or uterine&#xD;
+      carcinosarcoma with evidence of recurrence or progression.&#xD;
+&#xD;
+      The study aims to determine the activity of eribulin as a single agent and the combination of&#xD;
+      eribulin and pembrolizumab as measured by clinical benefit rate (CBR) at 12 weeks.&#xD;
+&#xD;
+      Additionally, the study aims to establish whether high mobility group A2 (HMGA2) protein&#xD;
+      expression is a good functional biomarker to predict response to eribulin and pembrolizumab.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      EPOCH (Eribulin and Pembrolizumab in Tubo-Ovarian and Uterine Carcinosarcoma) is an&#xD;
+      international clinical trial, which aims to improve outcomes in people with the rare and&#xD;
+      highly lethal Ovarian Carcinosarcoma (OCS) or Uterine Carcinosarcoma (UCS) malignancies.&#xD;
+&#xD;
+      The underlying study rationale is based on robust preclinical evidence that demonstrated that&#xD;
+      eribulin, a microtubule inhibitor, can reprogram the tumour microenvironment, reversing&#xD;
+      epithelial mesenchymal transition (EMT) in these mesenchymal cancers, and potentiate the&#xD;
+      response to immune checkpoint blockade.&#xD;
+&#xD;
+      In addition, expression of HMGA2, a high mobility group protein has been associated with&#xD;
+      activation of EMT process and may be a predictive biomarker of eribulin-responsive cancers.&#xD;
+      This study is aimed at translating these laboratory findings to the clinic and treat patients&#xD;
+      with recurrent OCS and UCS with eribulin and the immune checkpoint inhibitor pembrolizumab,&#xD;
+      which targets and blocks the programmed cell death receptor 1 (PD-1).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Benefit Rate (CBR) by RECIST v1.1 in combination therapy arm</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>CBR defined as Partial Response (PR), Complete Response (CR) or Stable Disease (SD) by RECIST v1.1 in the combination therapy arm.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate (CBR) by Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 in single agent therapy arm</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>CBR defined as Partial Response, Complete Response or Stable Disease by RECIST v1.1 in the single agent therapy arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR) in both the single agent eribulin and combination eribulin/pembrolizumab arms</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Objective Response Rate (CR and PR by RECIST v1.1) at 12 weeks in both the single agent eribulin and combination eribulin/pembrolizumab arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate (CBR) by iRECIST (modified RECIST guidelines for use in cancer immunotherapy trials)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Clinical Benefit Rate (CR and PR and SD) by irRECIST at 12 weeks in both the single agent eribulin and combination eribulin/pembrolizumab arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression in the combination therapy arm</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Determine time to progression in the combination therapy arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Determine progression free survival (PFS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Determine Overall Survival (OS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Determine toxicity, frequency, and severity of Adverse Events (CTCAE V5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related Quality of Life using the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire for cancer patients (QLQ C30)</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Determine aspects of health-related quality of life using EORTC QLQ C30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related Quality of Life using the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire module for Ovarian Cancer patients (OV28)</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Determine aspects of health-related quality of life using EORTC OV28</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Duration of response represented in annotated swimmers plot</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>High mobility group A2 (HMGA2) protein expression</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>Evaluate HMGA2 expression as predictive biomarker for response benefit.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Ovarian Carcinosarcoma</condition>
+  <condition>Uterine Carcinosarcoma</condition>
+  <arm_group>
+    <arm_group_label>Arm 1 - Single agent eribulin arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eribulin until progression of disease (PD) as defined by RECIST v1.1, unacceptable toxicity or physician/patient discretion or choice to cease treatment.&#xD;
+Patients who progress on the single agent eribulin arm may receive combination eribulin and pembrolizumab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2 - Combination eribulin and pembrolizumab arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eribulin for a maximum of 6 cycles. Pembrolizumab until PD or a maximum of 35 cycles (including the 6 cycles where it is administered in combination with eribulin) or until unacceptable toxicity or physician/patient discretion or choice to cease treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Eribulin Mesylate</intervention_name>
+    <description>Eribulin mesilate is a first-in-class halichondrin B-based, microtubule dynamics inhibitor7. It inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into non-productive aggregates.</description>
+    <arm_group_label>Arm 1 - Single agent eribulin arm</arm_group_label>
+    <arm_group_label>Arm 2 - Combination eribulin and pembrolizumab arm</arm_group_label>
+    <other_name>Halaven</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab is a potent humanized immunoglobulin G4 (IgG4) monoclonal antibody (mAb) with high specificity of binding to the programmed cell death 1 (PD 1) receptor, thus inhibiting its interaction with programmed cell death ligand 1 (PD-L1) and programmed cell death ligand 2 (PD-L2).</description>
+    <arm_group_label>Arm 2 - Combination eribulin and pembrolizumab arm</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision of written informed consent prior to any study specific procedures and the&#xD;
+             ability to comply with the protocol for the duration of the study, including&#xD;
+             undergoing treatment and scheduled visits and examinations.&#xD;
+&#xD;
+          2. Patients &gt; 18 years old who have a histologically confirmed tubo-ovarian&#xD;
+             carcinosarcoma or uterine carcinosarcoma with evidence of recurrence or progression.&#xD;
+             The component of sarcoma in the diagnostic pathology sample must be equal to or &gt; 5%&#xD;
+             of tumour.&#xD;
+&#xD;
+          3. Must have Positron Emission Tomography (PET), Computerized Tomography CT, or Magnetic&#xD;
+             Resonance Imaging (MRI) -proven relapsed disease after completion of at least one line&#xD;
+             and not more than two lines of chemotherapy.&#xD;
+&#xD;
+          4. Must have at least one evaluable measurable lesion (other than the lesion that will be&#xD;
+             used for biopsy) using standard techniques according to the Response Evaluation&#xD;
+             Criteria in Solid Tumours (RECIST v1.1) guidelines (Appendix 1).&#xD;
+&#xD;
+          5. Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1&#xD;
+             (Appendix 5). Evaluation of ECOG is to be performed within 28 days prior to the first&#xD;
+             dose of the study intervention.&#xD;
+&#xD;
+          6. Have adequate organ function as defined below (refer also Appendix 6).&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥1.5 x 109/L&#xD;
+&#xD;
+               -  Platelets ≥100 x 109/L&#xD;
+&#xD;
+               -  Haemoglobin (Hb) ≥90 g/L or ≥5.6 mmol/L (criteria must be met without&#xD;
+                  erythropoietin dependency and without packed red blood cell (pRBC) transfusion&#xD;
+                  within last 2 weeks).&#xD;
+&#xD;
+               -  Creatinine ≤ 1.5 x Upper Limit Normal (ULN); OR Creatinine Clearance (CrCl) ≥ 30&#xD;
+                  mL/min (calculated per institutional standard) for participants with creatinine&#xD;
+                  levels &gt;1.5 ULN (glomerular filtration rate, GFR, can also be used in place of&#xD;
+                  creatinine or CrCl). (Patients with moderate renal impairment (CrCl 30-49ml/min)&#xD;
+                  will receive a 25% reduced dose of eribulin).&#xD;
+&#xD;
+               -  Total bilirubin ≤1.5 ×ULN OR direct bilirubin ≤ULN for participants with total&#xD;
+                  bilirubin levels &gt;1.5 × ULN&#xD;
+&#xD;
+               -  Alkaline phosphatase (ALP), Aspartate aminotransferase (AST) and alanine&#xD;
+                  aminotransferase (ALT) ≤2.5 × ULN (≤5 × ULN for participants with liver&#xD;
+                  metastases)&#xD;
+&#xD;
+               -  International normalized ratio (INR) OR prothrombin time (PT), Activated partial&#xD;
+                  thromboplastin time (aPTT) ≤1.5 × ULN unless participant is receiving&#xD;
+                  anticoagulant therapy as long as PT or aPTT is within therapeutic range of&#xD;
+                  intended use of anticoagulants Biological specimens must be collected within 28&#xD;
+                  days prior to the first dose of the study intervention (within 7 days, where&#xD;
+                  indicated in the SoA).&#xD;
+&#xD;
+          7. Available formalin fixed, paraffin embedded (FFPE) tumour sample from the primary&#xD;
+             cancer and/or metastatic tumour from the up-front or secondary debulking surgery with&#xD;
+             adequate neoplastic cell content (&gt;30%).&#xD;
+&#xD;
+          8. Must have disease amenable to biopsy and must be willing to undergo a paired biopsy&#xD;
+             for additional correlative analyses (the first biopsy to be performed within 28 days&#xD;
+             prior to the start of the study intervention and the second biopsy in the five-day&#xD;
+             window prior to Cycle 2 (post Cycle 1)). For patients that experience progression of&#xD;
+             their disease whilst on study, separate patient consent will be sought for additional&#xD;
+             biopsies of their tumour for research.&#xD;
+&#xD;
+          9. Willing to have blood samples collected for translational research&#xD;
+&#xD;
+         10. Must not be pregnant, not breastfeeding, and at least one of the following conditions&#xD;
+             applies:&#xD;
+&#xD;
+               1. Not a person of childbearing potential (POCBP). OR&#xD;
+&#xD;
+               2. A POCBP who agrees to follow the contraceptive guidance during the treatment&#xD;
+                  period and for at least 4 months (120 days) after the last dose of the study&#xD;
+                  treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Prior line of treatment involving immunotherapy with an anti-PD-1, anti-PD-L1, or anti&#xD;
+             PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell&#xD;
+             receptor. This criteria is applicable for both intervention arms as patients may&#xD;
+             cross-over from the non-immunotherapy arm during their study participation.&#xD;
+&#xD;
+          2. Prior treatment with eribulin for any malignancy.&#xD;
+&#xD;
+          3. Absence of a second disease site suitable for biopsy&#xD;
+&#xD;
+          4. Has received prior systemic anti-cancer therapy including investigational agents&#xD;
+             within 4 weeks prior to the first dose of the study intervention.&#xD;
+&#xD;
+          5. Has active autoimmune disease (such as Systemic Lupus Erythematosus) that has required&#xD;
+             systemic treatment in the past 2 years (i.e., with use of disease modifying agents,&#xD;
+             corticosteroids, or immunosuppressive drugs). Replacement therapy (e.g., thyroxine,&#xD;
+             insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary&#xD;
+             insufficiency, etc.) is not considered a form of systemic treatment and is allowed.&#xD;
+&#xD;
+          6. A POCBP who has a positive urine pregnancy test within 7 days prior to the first dose&#xD;
+             of the study intervention (see Appendix 7). If the urine pregnancy test is positive or&#xD;
+             cannot be confirmed as negative, a serum pregnancy test will be required.&#xD;
+&#xD;
+          7. Has received prior radiotherapy within 2 weeks of the start of the study intervention.&#xD;
+             Patients must have recovered from all radiation-related toxicities, not require&#xD;
+             corticosteroids, and not have had radiation pneumonitis. A 1-week washout is permitted&#xD;
+             for palliative radiation (≤2 weeks of radiotherapy) to non-central nervous system&#xD;
+             disease.&#xD;
+&#xD;
+          8. Known central nervous system malignancy or metastasis, including leptomeningeal&#xD;
+             metastasis or carcinomatous meningitis, unless adequately treated and patients are&#xD;
+             neurologically stable for at least one month prior to enrolment. Patients must be&#xD;
+             either off corticosteroids or on stable or decreasing dose of &lt; /=10 mg daily&#xD;
+             prednisone (or equivalent) within 28 days prior to the first dose of the study&#xD;
+             intervention. In the case of short-term use of systemic corticosteroids (less than 24&#xD;
+             hours within 28 days) of greater than 10 mg daily of prednisone or an equivalent&#xD;
+             corticosteroid, the required washout period prior to starting the first dose of the&#xD;
+             study intervention is 7 days. Anticonvulsants are allowed to be continued except for&#xD;
+             those which interfere with the study interventions or are associated with liver&#xD;
+             toxicity. However, patients receiving anticonvulsants must be discussed with Study&#xD;
+             Chair or Acting Chair of Trial Management Committee (TMC) prior to their enrolment to&#xD;
+             the study.&#xD;
+&#xD;
+          9. Symptomatic or clinically significant inflammatory bowel disease (Crohn's disease or&#xD;
+             ulcerative colitis).&#xD;
+&#xD;
+         10. Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy&#xD;
+             (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of&#xD;
+             immunosuppressive therapy within 7 days prior to the first dose of the study&#xD;
+             intervention.&#xD;
+&#xD;
+         11. Has received a live vaccine or live-attenuated vaccine within 30 days prior to the&#xD;
+             first dose of the study intervention. Live vaccine or live-attenuated vaccine cannot&#xD;
+             be administered during treatment with the study intervention and for 30 days post&#xD;
+             discontinuation of the study intervention. Administration of killed vaccines is&#xD;
+             allowed.&#xD;
+&#xD;
+         12. Has an active infection requiring systemic therapy.&#xD;
+&#xD;
+         13. Has had an allogenic tissue/solid organ transplant.&#xD;
+&#xD;
+         14. Has severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients.&#xD;
+&#xD;
+         15. Has a history of (non-infectious) pneumonitis/interstitial lung disease that required&#xD;
+             steroids or has current pneumonitis/interstitial lung disease.&#xD;
+&#xD;
+         16. Has a known history of Human Immunodeficiency Virus (HIV) infection. Note: no testing&#xD;
+             for HIV is required unless mandated by local health authority.&#xD;
+&#xD;
+         17. Has a known history of Hepatitis B (defined as Hepatitis B surface antigen [HBsAg]&#xD;
+             reactive) or known active Hepatitis C virus (defined as HCV RNA &gt; 25 international&#xD;
+             units/mL is detected) infection. Note: no testing for Hepatitis B and Hepatitis C is&#xD;
+             required unless mandated by local health authority.&#xD;
+&#xD;
+         18. Has a known additional active malignancy that is likely to interfere with assessment&#xD;
+             of response or tolerance to the study intervention.&#xD;
+&#xD;
+         19. Has a history or current evidence of any condition, therapy, or laboratory abnormality&#xD;
+             that might confound the results of the study, interfere with the patients'&#xD;
+             participation for the full duration of the study, or is not in the best interest of&#xD;
+             the patient to participate, in the opinion of the treating Investigator.&#xD;
+&#xD;
+         20. Inability to attend or comply with treatment or follow-up scheduling.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clare Scott, AM MB BS PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peter MacCallum Cancer Centre, Australia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clare Scott, AM MB BS PhD</last_name>
+    <phone>+61 3 9345 2350</phone>
+    <email>scottc@wehi.edu.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>John Andrews</last_name>
+    <phone>+61 2 8071 4881</phone>
+    <email>trials@anzgog.org.au</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Yen Chen Lee</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Women's Hospital</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Jeff Goh</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Monash Health</name>
+      <address>
+        <city>Clayton</city>
+        <state>Victoria</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Gwo Ho</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial College London</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Iain McNeish</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>October 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>April 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 28, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinosarcoma</mesh_term>
+    <mesh_term>Mixed Tumor, Mullerian</mesh_term>
+    <mesh_term>Uterine Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

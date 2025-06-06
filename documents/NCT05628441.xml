@@ -1,0 +1,170 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628441</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021.0269</org_study_id>
+    <nct_id>NCT05628441</nct_id>
+  </id_info>
+  <brief_title>Real-time Computer Aided Detection of Barrett's Neoplasia</brief_title>
+  <official_title>Real-time Computer Aided Detection of Barrett's Neoplasia: a Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the real-time pilot study, the performance of a recently developed Computer Aided&#xD;
+      Detection (CADe) system will be investigated in 30 patients during real-time live endoscopic&#xD;
+      examination. Three expert endoscopists in the field of Barrett's esophagus and endoscopic&#xD;
+      resection techniques will perform the inclusions following a standardized data acquisition&#xD;
+      protocol. In total, 15 patients with a visible neoplastic lesion in their Barrett's esophagus&#xD;
+      and 15 patients without any visible abnormalities in their Barrett's esophagus will be&#xD;
+      included in this study. Outcomes: to investigate feasibility of the use of the CADe system in&#xD;
+      the endoscopy suite, to investigate the performance of the CADe system when used by&#xD;
+      endoscopists.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients in this study will undergo a scheduled surveillance endoscopy (according to current&#xD;
+      guidelines; n = 15) or are referred to a tertiary referral center for endoscopic resection of&#xD;
+      a possible neoplastic area in their known Barrett's esophagus (n = 15).&#xD;
+&#xD;
+      Patients will be consciously sedated (standard care) before start of the procedure. During&#xD;
+      the endoscopic procedure, the endoscopist follows the standard protocol after extensive&#xD;
+      cleaning of the Barrett's segment: first, a standardized pullback video will be recorded,&#xD;
+      followed by a careful inspection of the Barrett segment every 2 centimeters. Per 2cm, a video&#xD;
+      of 10 seconds and 3 overview images are being recorded.&#xD;
+&#xD;
+      During the imaging protocol, the CADe system presents its prediction on a second screen, next&#xD;
+      to the main endoscopy monitor. After the imaging protocol, standard clinical care is being&#xD;
+      resumed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 16, 2022</start_date>
+  <completion_date type="Actual">October 13, 2022</completion_date>
+  <primary_completion_date type="Actual">October 13, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Combined performance of endoscopist + CADe system in terms of per-patient sensitivity and specificity</measure>
+    <time_frame>5 months</time_frame>
+    <description>To investigate the combined performance between endoscopist and CADe system on a per-patient level.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stand-alone performance of CADe system in terms of per-patient sensitivity and specificity</measure>
+    <time_frame>5 months</time_frame>
+    <description>To investigate the performance of the CADe system on new data on a per-patient level.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Barrett Esophagus</condition>
+  <condition>Barrett Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>CADe system</arm_group_label>
+    <description>All patients included in the study will undergo the endoscopic procedure according to standard clinical care and the study protocol. The CADe system will run in the back, not interfering with care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Computer Aided Detection system for Barrett's neoplasia</intervention_name>
+    <description>CADe system running in the back, not directly interfering with patient care</description>
+    <arm_group_label>CADe system</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients diagnosed with Barrett's esophagus, either receiving a surveillance endoscopy&#xD;
+        according to protocol or referred for endoscopic treatment for proven neoplasia in their&#xD;
+        Barrett's esophagus&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years;&#xD;
+&#xD;
+          -  Patients under surveillance for their diagnosed non-dysplastic Barrett's esophagus or&#xD;
+             patients refered for endoscopic treatment because of proven high-grade dysplasia or&#xD;
+             adenocarcinoma;&#xD;
+&#xD;
+          -  A circumferential Barrett length of at least 2cm&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Medical history of prior surgical or endoscopical treatment for neoplasia in their&#xD;
+             esophagus&#xD;
+&#xD;
+          -  Reflux esophagitis &gt; grade 2 (LA classification)&#xD;
+&#xD;
+          -  Inability to undergo endoscopic treatment and/or biopsies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>J.J. Bergman, MD PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Amsterdam University Medical Centers, location AMC</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Academic Medical Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</investigator_affiliation>
+    <investigator_full_name>prof. dr. J.J.G.H.M. Bergman</investigator_full_name>
+    <investigator_title>Professor of Gastroenterology</investigator_title>
+  </responsible_party>
+  <keyword>Barrett's Esophagus</keyword>
+  <keyword>Computer Aided Detection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Barrett Esophagus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Individual participant data will not be shared</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

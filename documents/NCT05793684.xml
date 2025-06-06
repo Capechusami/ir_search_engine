@@ -1,0 +1,368 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793684</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APV-001</org_study_id>
+    <nct_id>NCT05793684</nct_id>
+  </id_info>
+  <brief_title>AD816 Crossover Study</brief_title>
+  <acronym>VicTor</acronym>
+  <official_title>Phase 2 Randomized Double-Blind Placebo-Controlled Multiple-Dose 3-Period Crossover Study to Compare a Fixed Dose Combination of Viloxazine/Trazodone (AD816) to Viloxazine Alone and to Placebo in Obstructive Sleep Apnea</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Apnimed</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Apnimed</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The VicTor Study is a randomized, double blind, placebo-controlled, 3-period, multiple-dose&#xD;
+      crossover study in participants with OSA.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 28, 2023</start_date>
+  <completion_date type="Anticipated">August 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Double-blind study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Apnea-hypopnea index (AHI) 4%, AD816 vs. Placebo</measure>
+    <time_frame>14 days of treatment dosing per crossover arm (collected at the end of treatment dosing per crossover arm)</time_frame>
+    <description>Apnea-hypopnea index based on 4% hypopnea desaturation</description>
+  </primary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>OSA</condition>
+  <condition>Obstructive Sleep Apnea</condition>
+  <arm_group>
+    <arm_group_label>Order: Period A, Period B, Period C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The sequence of periods for each participant are assigned in random order. Each of the three crossover periods is 14 days of uninterrupted nightly dosing, with an initial lower-dose week of investigational product (IP) followed by a higher dose week (or placebo each week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Order: Period B, Period C, Period A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The sequence of periods for each participant are assigned in random order. Each of the three crossover periods is 14 days of uninterrupted nightly dosing, with an initial lower-dose week of investigational product (IP) followed by a higher dose week (or placebo each week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Order: Period C, Period A, Period B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The sequence of periods for each participant are assigned in random order. Each of the three crossover periods is 14 days of uninterrupted nightly dosing, with an initial lower-dose week of investigational product (IP) followed by a higher dose week (or placebo each week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Order: Period A, Period C, Period B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The sequence of periods for each participant are assigned in random order. Each of the three crossover periods is 14 days of uninterrupted nightly dosing, with an initial lower-dose week of investigational product (IP) followed by a higher dose week (or placebo each week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Order: Period B, Period A, Period C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The sequence of periods for each participant are assigned in random order. Each of the three crossover periods is 14 days of uninterrupted nightly dosing, with an initial lower-dose week of investigational product (IP) followed by a higher dose week (or placebo each week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Order: Period C, Period B, Period A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The sequence of periods for each participant are assigned in random order. Each of the three crossover periods is 14 days of uninterrupted nightly dosing, with an initial lower-dose week of investigational product (IP) followed by a higher dose week (or placebo each week).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period A</intervention_name>
+    <description>Week 1: Viloxazine low dose + placebo; Week 2: Viloxazine high dose + placebo</description>
+    <arm_group_label>Order: Period A, Period B, Period C</arm_group_label>
+    <arm_group_label>Order: Period A, Period C, Period B</arm_group_label>
+    <arm_group_label>Order: Period B, Period A, Period C</arm_group_label>
+    <arm_group_label>Order: Period B, Period C, Period A</arm_group_label>
+    <arm_group_label>Order: Period C, Period A, Period B</arm_group_label>
+    <arm_group_label>Order: Period C, Period B, Period A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period B</intervention_name>
+    <description>Week 1: Viloxazine low dose + Trazodone low dose; Week 2: Viloxazine high dose + Trazodone high dose</description>
+    <arm_group_label>Order: Period A, Period B, Period C</arm_group_label>
+    <arm_group_label>Order: Period A, Period C, Period B</arm_group_label>
+    <arm_group_label>Order: Period B, Period A, Period C</arm_group_label>
+    <arm_group_label>Order: Period B, Period C, Period A</arm_group_label>
+    <arm_group_label>Order: Period C, Period A, Period B</arm_group_label>
+    <arm_group_label>Order: Period C, Period B, Period A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period C</intervention_name>
+    <description>Week 1: Placebo + Placebo; Week 2: Placebo + Placebo</description>
+    <arm_group_label>Order: Period A, Period B, Period C</arm_group_label>
+    <arm_group_label>Order: Period A, Period C, Period B</arm_group_label>
+    <arm_group_label>Order: Period B, Period A, Period C</arm_group_label>
+    <arm_group_label>Order: Period B, Period C, Period A</arm_group_label>
+    <arm_group_label>Order: Period C, Period A, Period B</arm_group_label>
+    <arm_group_label>Order: Period C, Period B, Period A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Between 18 to 75 years of age, inclusive, at the Screening Visit&#xD;
+&#xD;
+          2. PSG criteria (V2 only)&#xD;
+&#xD;
+               1. AHI4 (Hypopneas defined by 4% oxygen desaturation) of 10-45, inclusive&#xD;
+&#xD;
+               2. ≤25% of events are central or mixed apneas&#xD;
+&#xD;
+          3. PROMIS Fatigue or sleep related impairment or sleep disturbance (raw score): &gt;11, i.e.&#xD;
+             at least &quot;very mild symptoms&quot; at V1&#xD;
+&#xD;
+          4. BMI between 18.5 and 40 kg/m2, inclusive&#xD;
+&#xD;
+             Male participants:&#xD;
+&#xD;
+          5. If sexually active with female partner(s) of childbearing potential, participant must&#xD;
+             agree, from Study Day 1 through 1 week after the last dose of study drug, to practice&#xD;
+             the protocol specified contraception&#xD;
+&#xD;
+             Female participants:&#xD;
+&#xD;
+          6. If of childbearing potential (WOCBP), the participant must agree, from Study Day 1&#xD;
+             through 1 week after the last dose of study drug, to practice the protocol specified&#xD;
+             contraception. All WOCBP must have negative result of a serum pregnancy test performed&#xD;
+             at screening.&#xD;
+&#xD;
+             a. Females of non-childbearing potential include postmenopausal (defined as age ≥ 55&#xD;
+             years with no menses for 12 or more months without an alternative medical cause) or&#xD;
+             permanently sterile (e.g. bilateral oophorectomy, bilateral salpingectomy or&#xD;
+             hysterectomy).&#xD;
+&#xD;
+          7. Participant voluntarily agrees to participate in this study and signs an Institutional&#xD;
+             Review Board (IRB)-approved informed consent prior to performing any of the Screening&#xD;
+             Visit procedures.&#xD;
+&#xD;
+          8. Participant must be able to understand the nature of the study and must have the&#xD;
+             opportunity to have any questions answered&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current clinically significant sleep disorder other than OSA of a severity that would&#xD;
+             interfere with study participation or interpretability of data.&#xD;
+&#xD;
+          2. Clinically significant craniofacial malformation or grade ≥3 tonsillar hypertrophy.&#xD;
+&#xD;
+          3. Current clinically significant cardiac disease (e.g., rhythm disturbances, coronary&#xD;
+             artery disease or cardiac failure) or poorly controlled hypertension (&gt;140/90mmHg).&#xD;
+&#xD;
+          4. Long QT syndrome or family history of long QT syndrome&#xD;
+&#xD;
+          5. Current clinically significant neurological disorder, including epilepsy/convulsions.&#xD;
+&#xD;
+          6. Other active major organ system disease including renal failure, lung disease,&#xD;
+             neuromuscular disease, or liver disease.&#xD;
+&#xD;
+          7. Schizophrenia, schizoaffective disorder or bipolar disorder according to Diagnostic&#xD;
+             and Statistical Manual of Mental Disorders-5 (DSM-5) or International Classification&#xD;
+             of Disease tenth edition criteria.&#xD;
+&#xD;
+          8. Attempted suicide within 1 year prior to screening, or current suicidal ideation.&#xD;
+&#xD;
+          9. Clinically significant urinary retention, gastric retention or other severe decreased&#xD;
+             gastrointestinal motility condition.&#xD;
+&#xD;
+         10. Benign prostatic hypertrophy that is actively being treated with alpha-1 adrenergic&#xD;
+             antagonist&#xD;
+&#xD;
+         11. Severe or frequent gastroesophageal reflux or constipation&#xD;
+&#xD;
+         12. Medically unexplained positive screen for drugs of abuse (excluding THC/marijuana) or&#xD;
+             history of substance use disorder as defined in DSM-V within 24 months prior to&#xD;
+             Screening Visit.&#xD;
+&#xD;
+         13. A serious illness or infection in the past 30 days as determined by investigator.&#xD;
+&#xD;
+         14. Clinically significant cognitive dysfunction as determined by investigator.&#xD;
+&#xD;
+         15. Untreated narrow angle glaucoma.&#xD;
+&#xD;
+         16. Women who are pregnant or nursing.&#xD;
+&#xD;
+         17. CPAP should not be used for at least 2 weeks prior to first study PSG and during&#xD;
+             entire participation in the study.&#xD;
+&#xD;
+         18. History of using oral or nasal devices for the treatment of OSA may enroll as long as&#xD;
+             the devices are not used for at least 2 weeks prior to first study PSG and during&#xD;
+             participation in the study.&#xD;
+&#xD;
+         19. History of using devices to affect participant sleeping position for the treatment of&#xD;
+             OSA, e.g. to discourage supine sleeping position, may enroll as long as the devices&#xD;
+             are not used for at least 2 weeks prior to first study PSG and during participation in&#xD;
+             the study.&#xD;
+&#xD;
+         20. Chronic oxygen therapy.&#xD;
+&#xD;
+         21. Patients with hypoglossal nerve stimulation implant. Prior/Concurrent Clinical Study&#xD;
+             Experience&#xD;
+&#xD;
+         22. Use of another investigational agent within 30 days or 5 half-lives, whichever is&#xD;
+             longer, prior to dosing.&#xD;
+&#xD;
+         23. Prolonged QT interval (&gt; 450 ms in men or &gt; 470 ms in women, after correction with&#xD;
+             most appropriate formula for observed heart rate), hypokalemia or hypomagnesemia&#xD;
+             (defined as &gt;0.1 mEq/L below lower limit of normal for the testing laboratory).&#xD;
+&#xD;
+         24. Hepatic transaminases &gt;2X the upper limit of normal (ULN), total bilirubin &gt;1.5X ULN&#xD;
+             (unless confirmed Gilbert syndrome), estimated glomerular filtration rate &lt; 50 ml/min.&#xD;
+&#xD;
+         25. Night- or shift-work sleep schedule which causes the major sleep period to be during&#xD;
+             the day, or planned travel across more than 1 time zone during the anticipated&#xD;
+             enrollment period&#xD;
+&#xD;
+         26. Employment as a commercial driver or operator of hazardous equipment.&#xD;
+&#xD;
+         27. Typically smoking more than 10 cigarettes or 2 cigars per day (or equivalent Vaping),&#xD;
+             or inability to abstain from smoking during overnight PSG visits.&#xD;
+&#xD;
+         28. Unwilling to use specified contraception.&#xD;
+&#xD;
+         29. History of regular alcohol consumption of more than 14 standard units per week (males)&#xD;
+             or more than 7 standard units per week (females), or unwillingness to limit alcohol&#xD;
+             consumption to no greater than 2 units/day (males), 1 unit per day (females). Alcohol&#xD;
+             is not to be consumed within 3 hours of bedtime or on PSG nights.&#xD;
+&#xD;
+         30. Unwilling to agree to limit during the study period caffeinated beverage intake (e.g.,&#xD;
+             coffee, cola, tea) to 200 mg/day or less of caffeine, not to be used within 3 hours of&#xD;
+             bedtime. Viloxazine may increase the duration of effect of caffeine.&#xD;
+&#xD;
+         31. Any condition that in the investigator's opinion would present an unreasonable risk to&#xD;
+             the participant, or which would interfere with their participation in the study or&#xD;
+             confound study interpretation.&#xD;
+&#xD;
+         32. Participant considered by the investigator, for any reason, an unsuitable candidate to&#xD;
+             receive viloxazine or trazodone, or unable or unlikely to understand or comply with&#xD;
+             the dosing schedule or study evaluations.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ronald Farkas, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Apnimed Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Cronin, MD</last_name>
+    <phone>617-500-8880</phone>
+    <email>jcronin@apnimed.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tracy Klopfer</last_name>
+    <email>tklopfer@apnimed.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Santa Monica Clinical Trials</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pooja Patel</last_name>
+      <phone>310-586-0843</phone>
+      <email>ppatel@smclinicaltrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Norman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ludovico Messineo, MD</last_name>
+      <phone>617-732-4013</phone>
+      <email>lmessineo@bwh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ludovico Messineo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clayton Sleep Institute</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Uhles</last_name>
+      <phone>314-645-5855</phone>
+      <email>uhlesm@claytonsleep.com</email>
+    </contact>
+    <investigator>
+      <last_name>Joseph M Ojile, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>March 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Apnea Syndromes</mesh_term>
+    <mesh_term>Sleep Apnea, Obstructive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,572 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05791409</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HO165 CLL</org_study_id>
+    <nct_id>NCT05791409</nct_id>
+  </id_info>
+  <brief_title>Venetoclax Treatment (26 Cycles) With 6 Cycles or 12 Cycles of Epcoritamab in Patients With Relapsed or Refractory CLL or SLL</brief_title>
+  <acronym>AETHER</acronym>
+  <official_title>A Prospective Randomized Phase I/II Trial of Venetoclax Treatment (26 Cycles) With 6 Cycles or 12 Cycles of Epcoritamab in Patients With Relapsed or Refractory Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stichting Hemato-Oncologie voor Volwassenen Nederland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nordic CLL Study Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>German CLL Study Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stichting Hemato-Oncologie voor Volwassenen Nederland</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, efficacy and safety of 2 regimens that combine the CD3-CD20 T cell engager&#xD;
+      epcoritamab with venetoclax will be tested in relapsed/refractory CLL and SLL patients. The&#xD;
+      trial starts with phase I part to establish the recommended dose level (RDL) of epcoritamab&#xD;
+      in the combination with venetoclax for the phase II trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 9, 2023</start_date>
+  <completion_date type="Anticipated">November 2032</completion_date>
+  <primary_completion_date type="Anticipated">March 2029</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>• Recommended phase II dose (RDL) for the combination of venetoclax and epcoritamab based on dose limiting toxicity (DLT)</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>endpoint for phase I and both arms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>• Proportion of undetectable minimal residual disease (uMRD) in BM by NGS and no progression according to IWCLL criteria after 26 cycles (i.e. 12 weeks after cycle 26) for all intent to treat patients</measure>
+    <time_frame>29 months</time_frame>
+    <description>endpoint for phase II and both arms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>• Minimal residual disease (MRD) status in PB at cycle 4, 6, 9, 12, 15, 18, 21, 24 and 12 weeks after cycle 26; following treatment: every 3 months for the first year, then every 6 months until relapse or until 6 years after registration</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>• Progression free survival (PFS), defined as time from registration to the first occurrence of disease progression or death from any cause, whichever occurs first.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS), defined as the time from registration to death from any cause.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best overall response rate (ORR) defined as the proportion of patients with a complete response (CR), complete response with incomplete marrow recovery (CRi), or partial response (PR) according to IWCLL 2018 criteria.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>• Event free survival (EFS), defined as time from registration to date off protocol, progression or death, whichever comes first.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>• Time to next CLL treatment (TTNT), defined as time from registration to next new line of treatment.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>• Treatment free survival (TFS), defined as time from date of last protocol treatment to date start of next (new) line of treatment, or death from any cause, whichever comes first.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR), defined as time from first response (i.e., ≥PR and CR) to PD or death from any cause.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>• Depth (level) of minimal residual disease (MRD) measured in BM after cycle 9 and 12 weeks after cycle 26.</measure>
+    <time_frame>29 months</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>• Depth (level) of minimal residual disease measured in PB at cycle 4, 6, 9, 12, 15, 18, 21, 24, 12 weeks after cycle 26 and thereafter every 3 months for the first year, then every 6 months until relapse or until 6 years after registration</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety parameters: Type, frequency, and severity of- adverse events (AEs) and- adverse events of special interest (AESI) and their relationship to study treatment (determined according to CTCAE v5.0).</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life (QoL) by EORTC QLQ-C30 questionnaires.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life (QoL) by QLQ-CLL17 questionnaires.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life (QoL) by PRO-CTCAE questionnaires.</measure>
+    <time_frame>6 years</time_frame>
+    <description>both arms</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">112</enrollment>
+  <condition>CLL/SLL</condition>
+  <arm_group>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 cycles epcoritamab + 26 cycles venetoclax</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 cycles epcoritamab + 26 cycles venetoclax</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Epcoritamab</intervention_name>
+    <description>Number of cycles of epcoritamab is either 6 (cycle 1-6) or 12 (cycle 1-12). Patients will be treated until they have received the total number of assigned treatment cycles or until progression, or severe toxicity, whichever comes first.</description>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_label>Arm B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Venetoclax</intervention_name>
+    <description>All patients will receive venetoclax cycle 1-26 (a 5 week ramp-up of venetoclax will precede the first cycle). Patients will be treated until they have received the total number of assigned treatment cycles or until progression, or severe toxicity, whichever comes first.</description>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_label>Arm B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented relapsed or refractory CLL or SLL (SLL in phase II part only) following at&#xD;
+             least one systemic 1st-line treatment&#xD;
+&#xD;
+          -  Requiring treatment according to IWCLL criteria (appendix A);&#xD;
+&#xD;
+          -  Age at least 18 years;&#xD;
+&#xD;
+          -  ECOG/WHO performance status 0-2;&#xD;
+&#xD;
+          -  In case of prior venetoclax treatment, enrollment can only occur at least 24 months&#xD;
+             after end of treatment and patients must not have progressed during venetoclax&#xD;
+             treatment;&#xD;
+&#xD;
+          -  Adequate BM function defined as:&#xD;
+&#xD;
+               -  Hemoglobin &gt;5.6 mmol/l or Hb &gt; 9 g/dL, unless low Hb is directly attributable to&#xD;
+                  CLL infiltration of the BM, proven by BM biopsy;&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) &gt;1.0 x 109/L (1,000/μL), unless low ANC is&#xD;
+                  directly attributable to CLL infiltration of the BM, proven by BM biopsy;&#xD;
+&#xD;
+               -  Platelet count &gt;30 x 109/L (30,000/μL), unless low platelets is directly&#xD;
+                  attributable to CLL infiltration in the BM;&#xD;
+&#xD;
+          -  Estimated Glomerular Filtration Rate (eGFR) (MDRD) or estimated creatinine clearance&#xD;
+             (CrCl) ≥ 50ml/min (Cockcroft-Gault appendix F);&#xD;
+&#xD;
+          -  Adequate liver function as indicated:&#xD;
+&#xD;
+               -  Serum aspartate transaminase (ASAT) and alanine transaminase (ALAT) ≤ 3.0 x upper&#xD;
+                  limit of normal (ULN);&#xD;
+&#xD;
+               -  Bilirubin ≤1.5 x ULN (unless bilirubin rise is due to Gilbert's syndrome or&#xD;
+                  controlled autoimmune hemolytic anemia);&#xD;
+&#xD;
+          -  Prothrombin time (PT)/International normal ratio (INR) &lt;1.5x ULN and activated partial&#xD;
+             thromboplastin time (aPTT) &lt;1.5 x ULN; unless receiving anticoagulation;&#xD;
+&#xD;
+          -  Negative serological testing for hepatitis B virus (HBV) (Hepatitis B surface antigen&#xD;
+             (HBsAg) negative and hepatitis B core antibody (anti-HBc) negative) and hepatitis C&#xD;
+             virus (hepatitis C antibody). Patients who are positive for anti-HBc or hepatitis C&#xD;
+             antibody may be included if they have a negative PCR within 6 weeks before enrollment.&#xD;
+             Those who are PCR positive will be excluded; Please note: For patients positive for&#xD;
+             anti-HBc, HBV-DNA PCR has to be repeated every month until 12 months after last dose&#xD;
+             of study treatment.&#xD;
+&#xD;
+          -  Patient is able and willing to adhere to the study visit schedule and other protocol&#xD;
+             requirements;&#xD;
+&#xD;
+          -  Patient is capable of giving informed consent;&#xD;
+&#xD;
+          -  Written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active CLL/SLL directed therapy within the last 14 days;&#xD;
+&#xD;
+          -  Prior treatment with a CD3 × CD20 bispecific antibody or CAR T-cell therapy&#xD;
+&#xD;
+          -  Transformation of CLL (Richter's transformation);&#xD;
+&#xD;
+          -  Prior allogeneic stem cell transplantation and/or solid organ transplantation;&#xD;
+&#xD;
+          -  Patient with a history of confirmed progressive multifocal leukoencephalopathy (PML);&#xD;
+&#xD;
+          -  Malignancies other than CLL currently requiring systemic therapy or not treated in&#xD;
+             curative intention or showing signs of progression after curative treatment;&#xD;
+&#xD;
+          -  Known allergy to xanthine oxidase inhibitors and/or rasburicase;&#xD;
+&#xD;
+          -  History of drug-specific hypersensitivity or anaphylaxis to any study drug (including&#xD;
+             active product or excipient components);&#xD;
+&#xD;
+          -  Active bleeding or uncontrolled severe bleeding diathesis (e.g., hemophilia or severe&#xD;
+             von Willebrand disease);&#xD;
+&#xD;
+          -  Active fungal, bacterial, and/or viral infection CTCAEgrade &gt; 1; Please note: active&#xD;
+             controlled as well as chronic/recurrent infections are at risk of&#xD;
+             reactivation/infection during treatment;&#xD;
+&#xD;
+          -  Concurrent severe and/or uncontrolled medical condition (e.g. uncontrolled: infection,&#xD;
+             auto-immune hemolysis, immune thrombocytopenia, diabetes, hypertension,&#xD;
+             hyperthyroidism or hypothyroidism etc.);&#xD;
+&#xD;
+          -  Patient known to be HIV-positive;&#xD;
+&#xD;
+          -  Patient requiring treatment with a strong cytochrome P450 (CYP) 3A inhibitor/inducer&#xD;
+             (see appendix J) or anticoagulant therapy with warfarin or phenoprocoumon or other&#xD;
+             vitamin K antagonists;&#xD;
+&#xD;
+          -  CTCAE grade III-IV cardiovascular disease including but not limited to:&#xD;
+&#xD;
+               -  Unstable or uncontrolled disease/condition related to or affecting cardiac&#xD;
+                  function, eg, unstable angina, congestive heart failure grade III or IV as&#xD;
+                  classified by the New York Heart Association (see appendix E), uncontrolled&#xD;
+                  clinically significant cardiac arrhythmia (CTCAE grade II or higher), or&#xD;
+                  clinically significant electrocardiogram (ECG) abnormalities.&#xD;
+&#xD;
+               -  Myocardial infarction, intracranial bleed, or stroke within the past 6 months.&#xD;
+&#xD;
+               -  Screening 12-lead ECG showing a baseline QT interval as corrected by Fridericia's&#xD;
+                  formula (QTcF) &gt;480 msec. NOTE: this criterion does not apply to subjects with a&#xD;
+                  left bundle branch block.&#xD;
+&#xD;
+               -  Stroke or intracranial hemorrhage within 6 months prior to registration.&#xD;
+&#xD;
+          -  Severe pulmonary dysfunction (CTCAE grade III-IV, see appendix D);&#xD;
+&#xD;
+          -  Severe neurological or psychiatric disease (CTCAE grade III-IV, see appendix D);&#xD;
+&#xD;
+          -  Neuropathy &gt; CTCAE grade II&#xD;
+&#xD;
+          -  Patient who has difficulty with or are unable to swallow oral medication, or have&#xD;
+             significant gastrointestinal disease that would limit absorption of oral medication;&#xD;
+&#xD;
+          -  Vaccination with live vaccines within 28 days prior to registration;&#xD;
+&#xD;
+          -  Use of any other experimental drug or therapy within 28 days of registration;&#xD;
+&#xD;
+          -  Major surgery within 28 days prior to registration;&#xD;
+&#xD;
+          -  Steroid therapy within 10 days prior to registration, with the exception of inhaled&#xD;
+             steroids for asthma, topical steroids, steroids up to 20 mg or dose equivalents&#xD;
+             (higher doses if limited course required for prophylaxis) of prednisolone daily to&#xD;
+             control autoimmune phenomena, or replacement/stress corticosteroids;&#xD;
+&#xD;
+          -  Pregnant women and nursing mothers;&#xD;
+&#xD;
+          -  Fertile men or women of childbearing potential unless: (1) surgically sterile or ≥ 2&#xD;
+             years after the onset of menopause; (2) willing to use a highly effective&#xD;
+             contraceptive method such as oral contraceptives, intrauterine device, sexual&#xD;
+             abstinence or combination of male condom with either cap, diaphragm, or sponge with&#xD;
+             spermicide (double barrier methods) during study treatment and for 12 months after&#xD;
+             last dose of epcoritamab and 30 days after last dose of venetoclax;&#xD;
+&#xD;
+          -  Previous participation in the HOVON 139 CLL or HOVON 140 CLL trial and eligible for&#xD;
+             and willing to participate in the HOVON 159 CLL trial;&#xD;
+&#xD;
+          -  Current participation in other clinical trial with medicinal products;&#xD;
+&#xD;
+          -  Any psychological, familial, sociological and geographical condition potentially&#xD;
+             hampering compliance with the study protocol and follow-up schedule.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Arnon Kater</last_name>
+    <phone>+31 6-11491753</phone>
+    <email>a.p.kater@amsterdamumc.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mark-David Levin</last_name>
+    <email>m-d.levin@asz.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>BE-Antwerpen Edegem-UZA</name>
+      <address>
+        <city>Antwerpen</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BE-Antwerpen-ZNASTUIVENBERG</name>
+      <address>
+        <city>Antwerpen</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BE-Roeselare-AZDELTA</name>
+      <address>
+        <city>Roeselare</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DK-Copenhagen-RIGSHOSPITALET</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DK-Odense-OUH</name>
+      <address>
+        <city>Odense</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Berlin-HELIOSBERLINBUCH</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Freiburg-UNIKLINIKFREIBURG</name>
+      <address>
+        <city>Freiburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Greifswald-UNIGREIFSWALD</name>
+      <address>
+        <city>Greifswald</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Köln-UKKOELN</name>
+      <address>
+        <city>Köln</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Munster-GEMEINSCHAFTSPRAXIS</name>
+      <address>
+        <city>Munster</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Stuttgart-RBK</name>
+      <address>
+        <city>Stuttgart</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DE-Ulm-UNIKLINKULM</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Alkmaar-NWZ</name>
+      <address>
+        <city>Alkmaar</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Amersfoort-MEANDERMC</name>
+      <address>
+        <city>Amersfoort</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Amsterdam-AMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Den Bosch-JBZ</name>
+      <address>
+        <city>Den Bosch</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Den Haag-HAGA</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Dordrecht-ASZ</name>
+      <address>
+        <city>Dordrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Ede-ZGV</name>
+      <address>
+        <city>Ede</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Eindhoven-CATHARINA</name>
+      <address>
+        <city>Eindhoven</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Groningen-UMCG</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Leeuwarden-MCL</name>
+      <address>
+        <city>Leeuwarden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Tilburg-ETZ</name>
+      <address>
+        <city>Tilburg</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NL-Utrecht-UMCUTRECHT</name>
+      <address>
+        <city>Utrecht-</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Denmark</country>
+    <country>Germany</country>
+    <country>Netherlands</country>
+  </location_countries>
+  <link>
+    <url>http://hovon.nl/en</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>February 1, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Venetoclax</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,208 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790551</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R43CE003533</org_study_id>
+    <nct_id>NCT05790551</nct_id>
+  </id_info>
+  <brief_title>Suboxone Dispenser for OUD</brief_title>
+  <official_title>Development of a Telehealth Medication-assisted Treatment (MAT) System for Patients With Opioid Use Disorder (OUD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Addinex Technologies, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centers for Disease Control and Prevention</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Addinex Technologies, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to evaluate the usability and acceptability of the Addinex system&#xD;
+      with patients receiving Suboxone in OUD treatment. The main questions it aims to answer are:&#xD;
+&#xD;
+        -  Are patients more likely to stay on their medication?&#xD;
+&#xD;
+        -  Is the risk of diversion being reduced?&#xD;
+&#xD;
+        -  How is the usability of the Addinex system for doctors and patients?&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Prescription opioids remain a popular drug class with 142 million (M) opioid prescriptions&#xD;
+      written in 2020. In that same year, 9.5M people aged 12 or older misused opioids representing&#xD;
+      3.3% of that population and overdose deaths from opioids rose to 70,029, an increase of 37%&#xD;
+      (which has since increased to 82,310 in 2021). The COVID-19 pandemic has exposed many&#xD;
+      vulnerabilities in the treatment of patients with OUD. Of patients prescribed opioids,&#xD;
+      between 3-10% will later develop opioid use disorder (OUD). Given that prescription opioids&#xD;
+      remain the dominant route through which OUD begins, reducing their abuse and diversion can&#xD;
+      translate over time into reduced deaths.&#xD;
+&#xD;
+      Many patients with OUD are treated by a combination of buprenorphine with counseling and&#xD;
+      behavioral therapies, also known as Medication Assisted Treatment (MAT). Although&#xD;
+      buprenorphine is less addictive than opioids or other treatments (e.g., methadone), it is not&#xD;
+      invulnerable to abuse or diversion. There is therefore a significant opportunity for the&#xD;
+      development of new technologies aimed at remotely treating OUD, and preventing drug misuse,&#xD;
+      abuse, and diversion. Although several secure dispenser technologies are under development,&#xD;
+      there remains a critical need for a comprehensive solution that prevents and/or treats&#xD;
+      addiction, tracks usage, collects data, and eliminates excess medication, while also&#xD;
+      remaining modular and cost effective enough to be widely accessible.&#xD;
+&#xD;
+      Addinex Technologies, Inc. is developing the only solution that combines: 1) a patented,&#xD;
+      secure, low-cost and modular medication-dispenser which controls medication access and&#xD;
+      encourages convenient and safe unused medication disposal, combined with 2) companion mobile&#xD;
+      patient app and physician/pharmacist web-based software that features interactive modules and&#xD;
+      surveys to improve patient education and engagement, caregiver monitoring, and teletherapy to&#xD;
+      facilitate patient-provider interactions.&#xD;
+&#xD;
+      Addinex will conduct a feasibility and acceptability study for its app-based and text-based&#xD;
+      system across patients (n = 60) undergoing OUD treatment. Successful completion of these aims&#xD;
+      will provide critical insights to further optimize the Addinex system and to guide the design&#xD;
+      of a larger, randomized controlled trial to demonstrate its efficacy and cost effectiveness.&#xD;
+&#xD;
+      This study will be the springboard for the development of a system that is cost efficient,&#xD;
+      widely accessible, and user-friendly, with the aim of increasing adherence, decreasing&#xD;
+      treatment time, decreasing the misuse of medication, increasing treatment retention, and&#xD;
+      reducing relapses in OUD treatment for the many who are suffering.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 24, 2023</start_date>
+  <completion_date type="Anticipated">August 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Drug Test for Opioid Use Disorder (Quest 12-Panel Drug Screen)</measure>
+    <time_frame>Up to four weeks</time_frame>
+    <description>Urine analysis will be completed on a biweekly basis for the research study</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS Self-Efficacy Scale</measure>
+    <time_frame>Up to four weeks</time_frame>
+    <description>Evaluation of participants' self-efficacy toward change over the course of the study</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Opioid Use Disorder</condition>
+  <condition>Opioid Withdrawal</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this arm will undergo standard at-home OUD treatment (n = 20/group) over 30-days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active - App</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this arm will undergo standard at-home OUD treatment in combination with the Addinex dispenser and app (n = 20/group) over 30-days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active - Text Messaging</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this arm will undergo standard at-home OUD treatment in combination with the Addinex dispenser and texting (n = 20/group) over 30-days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Addinex</intervention_name>
+    <description>Medication dispensing system for Suboxone</description>
+    <arm_group_label>Active - App</arm_group_label>
+    <arm_group_label>Active - Text Messaging</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A minimum of 18 years old at admission of study&#xD;
+&#xD;
+          -  Primary or secondary diagnosis of opioid use disorder (DSM-5; APA, 2013) diagnosis by&#xD;
+             clinician&#xD;
+&#xD;
+          -  Prospective patients have to select 'Yes' they are interested in Yale-approved&#xD;
+             research studies while enrolled at Aware Recovery Care and that researchers can&#xD;
+             contact them about research projects&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Meets criterion of DSM-V (APA, 2013) for bi-polar, schizophrenia, or psychiatric&#xD;
+             disorders&#xD;
+&#xD;
+          -  Unable to read and understand English at 5th grade level&#xD;
+&#xD;
+          -  Unable to complete the study because of anticipated incarceration or move&#xD;
+&#xD;
+          -  Life threatening or unstable medical problems&#xD;
+&#xD;
+          -  Current suicide or homicide risk&#xD;
+&#xD;
+          -  Anticipated/current pregnancy, or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Aware Recovery Care</name>
+      <address>
+        <city>North Haven</city>
+        <state>Connecticut</state>
+        <zip>06473</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shelley Halligan, DNP</last_name>
+      <phone>203-292-0980</phone>
+      <email>bhernandez@awarerecoverycare.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 24, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

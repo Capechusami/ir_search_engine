@@ -1,0 +1,455 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627063</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ABSK121-NX-101</org_study_id>
+    <nct_id>NCT05627063</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Safety, Tolerability, and Pharmacokinetics of ABSK121-NX in Patients With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1, Open-Label Study of ABSK121-NX to Assess Safety, Tolerability, and Pharmacokinetics in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abbisko Therapeutics Co, Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abbisko Therapeutics Co, Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label phase 1 study with expansion. The study will start with a dose&#xD;
+      escalation of single-agent ABSK121-NX administered in repeated 28-day cycles in patients with&#xD;
+      advanced solid tumors to evaluate safety and tolerability. The expansion part will&#xD;
+      investigate oral ABSK121-NX at the recommended dose for expansion (RDE) to further evaluate&#xD;
+      safety and tolerability among selected tumor types. Preliminary antitumor activity will also&#xD;
+      be assessed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Escalation Part:&#xD;
+&#xD;
+      Dose escalation of oral ABSK121-NX will be guided by the Bayesian optimal interval (BOIN)&#xD;
+      design based on safety data collected until a maximum tolerated dose (MTD) or maximum&#xD;
+      administered dose (MAD) has been identified. During the dose escalation part of the study,&#xD;
+      patients will receive a single dose of ABSK121 on Day -7 followed by a 7-day washout (Day -7&#xD;
+      dosing day as 1st day of wash out) as a run-in period to access the safety and PK of&#xD;
+      ABSK121-NX. Then, patients will continuously receive ABSK121-NX once daily (QD) beginning at&#xD;
+      C1D1.&#xD;
+&#xD;
+      The dose escalation will start at 3 mg QD followed by dose escalation of a total of 8&#xD;
+      potential dose levels. Once RDE is determined, an RDE-confirmation group of up to 24 more&#xD;
+      patients may be enrolled at the selected dose levels to further evaluate safety and efficacy&#xD;
+      (up to 12 per dose level/regimen), if approved by the sponsor. In addition, a preliminary&#xD;
+      food-effect (FE) may be evaluated in Cycle 1 D15 or later in at least 6 patients from the&#xD;
+      RDE- confirmation part.&#xD;
+&#xD;
+      After the RDE is determined in the dose escalation part, the dose expansion phase will be&#xD;
+      conducted.&#xD;
+&#xD;
+      Expansion Part:&#xD;
+&#xD;
+      When health authorities outside US require that the safety data in the local population be&#xD;
+      provided prior to the expansion part, a minimum of 3 local subjects will be enrolled and&#xD;
+      treated at the selected RDE dose level first in that country/region to evaluate the&#xD;
+      tolerability of ABSK121-NX. The inclusion and exclusion criteria for escalation part will&#xD;
+      apply for these subjects. After similar safety and tolerability of ABSK121-NX in patients in&#xD;
+      the relevant locality have been confirmed by local Investigators and the Sponsor, additional&#xD;
+      patients will be allowed to enroll in the expansion part.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of DLT</measure>
+    <time_frame>At the end of Cycle 1 (each cycle is 28 days)</time_frame>
+    <description>dose-limiting toxicities (DLTs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence and severity of adverse events (AEs)</measure>
+    <time_frame>Through study completion, an average of half year</time_frame>
+    <description>adverse events (AEs), adverse events of special interest (AESIs) and serious adverse events (SAEs)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>maximum observed concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>time to maximum observed concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>area under the concentration-time curve</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>t1/2</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>half-life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vz/F</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>apparent volume of distribution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CL/F</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>apparent oral clearance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax,ss</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>maximum observed concentration of steady/state</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin,ss</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>minimum observed concentration of steady/state</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUCtau,ss</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>area under the concentration-time curve after multiple dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AR</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>accumulation ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>overall response rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DoR</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>duration of response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DCR</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>disease control rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>Progression-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>Through the study completion, an average of half year</time_frame>
+    <description>overall survival</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">169</enrollment>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>ABSK121-NX</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose escalation of oral ABSK121-NX will be guided by the Bayesian optimal interval (BOIN) design based on safety data collected until a maximum tolerated dose (MTD) or maximum administered dose (MAD) has been identified. Patients will receive a single dose of ABSK121-NX on Day -7 followed by a 7-day washout, as a run-in period to access the safety and PK of ABSK121-NX. Then, patients will continuously receive ABSK121-NX once daily (QD).&#xD;
+The dose escalation will start at 3 mg QD followed by dose escalation of a total of 8 potential dose levels. Once RDE is determined, an RDE-confirmation group of up to 24 more patients may be enrolled at the selected dose levels to further evaluate safety and efficacy (up to 12 per dose level/regimen), if approved by the sponsor. In addition, a preliminary food-effect (FE) may be evaluated in at least 6 patients from the RDE- confirmation part.&#xD;
+After the RDE is confirmed in the dose Escalation part, the dose Expansion phase will be conducted.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABSK121-NX</intervention_name>
+    <description>In the escalation part, patients will receive a single dose of oral ABSK121-NX on Day -7 followed by a 7-day washout (Day -7 dosing day as 1st day of wash out) as a run-in period to access the safety and PK of ABSK121-NX. Then, patients will continuously receive ABSK121-NX once daily (QD) starting at C1D1 and continuing in subsequent cycles (28-day cycles). The starting dose is 3mg QD. In the expansion part, patients will each receive oral ABSK121-NX at the RDE in repeated 28-day cycles.</description>
+    <arm_group_label>ABSK121-NX</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients should understand, sign, and date the written informed consent form prior to&#xD;
+             screening&#xD;
+&#xD;
+          2. Male or female age 18 years or older&#xD;
+&#xD;
+          3. Patients with histologically confirmed locally-advanced or metastatic solid tumors who&#xD;
+             have progressed on, or are intolerant of standard therapy, or for whom no standard&#xD;
+             therapy exists, or reject standard therapy&#xD;
+&#xD;
+        For RDE-confirmation in the escalation part: patients with selected advanced solid tumors,&#xD;
+        i.e.,&#xD;
+&#xD;
+          1. Patients must have the following FGFR genetic alterations based on central laboratory&#xD;
+             tests or existing test reports of tumor tissue and/or blood:&#xD;
+&#xD;
+               1. Urothelial carcinoma (UC): pre-specified FGFR3 mutations (R248C, S249C, G370C,&#xD;
+                  Y373C) or FGFR2/3 fusions (partner gene is previously described or in frame), or&#xD;
+&#xD;
+               2. Intrahepatic Cholangiocarcinoma (iCCA): FGFR2 fusions or rearrangements which&#xD;
+                  containing an intact kinase domain as follows:&#xD;
+&#xD;
+                  • FGFR2 fusions: FGFR2 rearrangements with a literature-derived known partner&#xD;
+                  gene regardless of strand or frame, or FGFR2 rearrangements in the same 5' to 3'&#xD;
+                  orientation and in frame with a novel partner gene&#xD;
+&#xD;
+                  • FGFR2 rearrangements: FGFR2 rearrangements with one breakpoint in the hotspot&#xD;
+                  region (intron 17-exon 18) and the other breakpoint in an intergenic region or&#xD;
+                  within another gene, or intragenic duplication of the kinase domain (exon 9-17)&#xD;
+&#xD;
+          2. Patients must have at least one measurable target lesion according to RECIST 1.1&#xD;
+&#xD;
+        For the expansion Part:&#xD;
+&#xD;
+        1) Patients must have the following FGFR genetic alterations based on central laboratory&#xD;
+        tests or existing test reports of tumor tissue and/or blood:&#xD;
+&#xD;
+          1. Urothelial carcinoma: pre-specified FGFR3 mutations (R248C, S249C, G370C, Y373C) or&#xD;
+             FGFR2/3 fusions (partner gene is previously described or in frame)&#xD;
+&#xD;
+          2. Cholangiocarcinoma: FGFR2 fusions or rearrangements which containing an intact kinase&#xD;
+             domain as follows:&#xD;
+&#xD;
+               -  FGFR2 fusions: FGFR2 rearrangements with a literature-derived known partner gene&#xD;
+                  regardless of strand or frame, or FGFR2 rearrangements in the same 5' to 3'&#xD;
+                  orientation and in frame with a novel partner gene&#xD;
+&#xD;
+               -  FGFR2 rearrangements: FGFR2 rearrangements with one breakpoint in the hotspot&#xD;
+                  region (intron 17-exon 18) and the other breakpoint in an intergenic region or&#xD;
+                  within another gene, or intragenic duplication of the kinase domain (exon 9-17)&#xD;
+&#xD;
+          3. Other tumor types: solid tumors harboring FGFR1-4 alterations including activating&#xD;
+             mutations, fusions or rearrangements and amplifications, e.g., advanced/metastatic&#xD;
+             gastric cancer (GC) or gastroesophageal junction (GEJ) carcinoma harboring the FGFR2&#xD;
+             amplifications, or iCCA patients or UC patients with other FGFR alterations not&#xD;
+             mentioned above, are also allowed&#xD;
+&#xD;
+             2) Patients must have at least one measurable target lesion according to RECIST 1.1&#xD;
+&#xD;
+             3) Previous FGFR inhibitors treated and progressed cohort in UC or iCCA patients:&#xD;
+             received treatment with FGFR inhibitors and experienced disease progression/recurrence&#xD;
+             during or after FGFR inhibitors treatment&#xD;
+&#xD;
+             4. ECOG performance status 0 or 1&#xD;
+&#xD;
+             5. Life expectancy ≥3 months&#xD;
+&#xD;
+             6. Adequate organ function and bone marrow function as indicated by the following&#xD;
+             screening assessments performed within 14 days prior to the first dose of study drug:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥1.5×109/L (without the use of hematopoietic&#xD;
+                  colony-stimulating growth factors (e.g. G-CSF, GM-CSF, M-CSF) within 7 days&#xD;
+                  before testing)&#xD;
+&#xD;
+               2. Platelet count (PLT) ≥100×109/L (without transfusion within 14 days before&#xD;
+                  testing)&#xD;
+&#xD;
+               3. Hemoglobin (Hb) ≥90 g/L (without transfusion within 7 days before testing)&#xD;
+&#xD;
+               4. Total bilirubin (TBIL) ≤1×ULN&#xD;
+&#xD;
+               5. Aspartate transaminase (AST) and alanine transaminase (ALT) ≤2.5×ULN&#xD;
+&#xD;
+               6. Creatinine clearance (Crcl) ≥60 mL/min based on Cockcroft-Gault formula&#xD;
+&#xD;
+               7. Electrolyte: magnesium within 0.85 to 1.25 × institutional normal limits, sodium&#xD;
+                  ≥130 mmol/L, potassium within institutional normal limits 7. For patients&#xD;
+                  participating exploration of food effect:&#xD;
+&#xD;
+               1. be able to eat a standardized high-fat, high caloric meal within 30 minutes&#xD;
+&#xD;
+               2. be able to fast for 10 hours&#xD;
+&#xD;
+             Exclusion Criteria:&#xD;
+&#xD;
+               1. Known allergy or hypersensitivity to any component of the investigational product&#xD;
+&#xD;
+               2. RDE-confirmation in Escalation part: Prior treatment with any FGFR inhibitors&#xD;
+&#xD;
+               3. Expansion part:&#xD;
+&#xD;
+               1. Previously FGFR-inhibitors naive cohorts in UC or iCCA patients: Prior treatment&#xD;
+                  with any FGFR inhibitors&#xD;
+&#xD;
+               2. Other solid tumors cohort: Prior treatment with any FGFR inhibitors&#xD;
+&#xD;
+             4. Has a known additional malignancy that is progressing or has required active&#xD;
+             treatment.&#xD;
+&#xD;
+             5. Has persistent phosphate level &gt;ULN during screening (within 14 days prior to the&#xD;
+             first dose of study treatment) and despite medical management&#xD;
+&#xD;
+             6. Unable to swallow capsules or tablets or malabsorption syndrome, disease&#xD;
+             significantly affecting GI function, or resection of the stomach or small bowel,&#xD;
+             symptomatic inflammatory bowel disease or ulcerative colitis, or partial or complete&#xD;
+             bowel obstruction. If any of these conditions exist, the site should discuss with the&#xD;
+             sponsor to determine patient eligibility&#xD;
+&#xD;
+             7. Previous anti-cancer therapy, including chemotherapy (chemotherapy with nitrosourea&#xD;
+             or mitomycin received ≤ 6 weeks prior to initiation of study treatment), radiotherapy,&#xD;
+             molecular targeted therapy, antibody therapy or other investigational drugs received&#xD;
+             ≤4 weeks; endocrine therapy ≤2 weeks or ≤5 half-lives (whichever is shorter) prior to&#xD;
+             initiation of study treatment&#xD;
+&#xD;
+             8. Major surgery within 4 weeks of the first dose of study drug. Note that all&#xD;
+             surgical wounds must be healed and free of infection or dehiscence&#xD;
+&#xD;
+             9. Prior toxicities from chemotherapy, radiotherapy, and other anti-cancer therapies,&#xD;
+             including immunotherapy that have not regressed to Grade ≤1 severity (CTCAE v5.0) with&#xD;
+             the exception of alopecia, vitiligo and grade 2 peripheral neurotoxicity&#xD;
+&#xD;
+             10. Potent inhibitors or inducers of CYP3A4 within 2 weeks before the first dose of&#xD;
+             study treatment (3 weeks for St John's Wort). Refer to&#xD;
+             https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interac&#xD;
+             tions-table-substrates-inhibitors-and-inducers for a list of drugs&#xD;
+&#xD;
+             11. Active central nervous system (CNS) metastases including presence of cerebral&#xD;
+             edema, requirement for systemic steroid treatment, disease progression due to&#xD;
+             intracranial lesions, leptomeningeal metastasis, and other clinical symptoms related&#xD;
+             to CNS metastases&#xD;
+&#xD;
+             12. Impaired cardiac function or clinically significant cardiac disease, including any&#xD;
+             one of the following:&#xD;
+&#xD;
+               1. New York Heart Association class III or IV heart disease, active ischemia or any&#xD;
+                  other uncontrolled cardiac condition such as angina pectoris, clinically&#xD;
+                  significant cardiac arrhythmia requiring therapy, uncontrolled hypertension or&#xD;
+                  congestive heart failure,&#xD;
+&#xD;
+               2. Baseline prolongation of the rate-corrected QT interval based on repeated&#xD;
+                  demonstration of QTcF &gt;470 ms (average of screening triplicates) or history of&#xD;
+                  long QT interval corrected (QTc) syndrome (Note: QTc interval corrected by&#xD;
+                  Fridericia's formula),&#xD;
+&#xD;
+               3. Left ventricular ejection fraction (LVEF) &lt;50% or below the institutional lower&#xD;
+                  limit of normal (whichever is higher)&#xD;
+&#xD;
+             13. Known acquired immunodeficiency syndrome (AIDS)-related illness, or positive test&#xD;
+             for HIV 1/2 antibody&#xD;
+&#xD;
+             14. Exclusion of hepatitis infection based on the following results and/or criteria:&#xD;
+&#xD;
+               1. Active hepatitis B infection: positive tests for hepatitis B surface antigen&#xD;
+                  (HBsAg), or antibody to hepatitis B core antigen (anti-HBc). A patient with&#xD;
+                  positive tests for HBsAg or anti-HBc but with HBV-DNA measurements lower than&#xD;
+                  detectable (or per local practice) can be enrolled,&#xD;
+&#xD;
+               2. Active hepatitis C infection: positive Hepatitis C virus antibody. If positive&#xD;
+                  antibody to hepatitis C Virus (anti-HCV) is detected, Hepatitis C virus RNA by&#xD;
+                  polymerase chain reaction (PCR) is necessary. A patient with positive anti-HCV&#xD;
+                  but with a negative test for HCV RNA can be enrolled&#xD;
+&#xD;
+             15. Any of the following ophthalmological criteria:&#xD;
+&#xD;
+               1. Current evidence or previous history of retinal pigment epithelial detachment&#xD;
+                  (RPED) /Central serous retinopathy (CSR)&#xD;
+&#xD;
+               2. Previous laser treatment or intra-ocular injection for treatment of macular&#xD;
+                  degeneration&#xD;
+&#xD;
+               3. Current evidence or previous history of dry or wet age-related macular&#xD;
+                  degeneration&#xD;
+&#xD;
+               4. Current evidence or previous history of retinal vein occlusion (RVO)&#xD;
+&#xD;
+               5. Current evidence or previous history of retinal degenerative diseases (e.g.,&#xD;
+                  hereditary)&#xD;
+&#xD;
+               6. Diabetic retinopathy with macular edema&#xD;
+&#xD;
+               7. Current evidence or previous history of any other clinically relevant&#xD;
+                  chorioretinal defect&#xD;
+&#xD;
+               8. Uncontrolled glaucoma or intraocular pressure &gt; 21 mmHg [after intervention per&#xD;
+                  local standard of care (SOC)]&#xD;
+&#xD;
+               9. History of systemic disease or ophthalmologic disorders requiring chronic use of&#xD;
+                  ophthalmic steroids&#xD;
+&#xD;
+              10. Evidence of any ongoing ophthalmologic abnormalities or symptoms that are acute&#xD;
+                  (within 4 weeks prior to first dose) or actively progressing&#xD;
+&#xD;
+              11. Current evidence or previous history of corneal pathology such as keratopathy,&#xD;
+                  corneal abrasion or ulceration, or current evidence of conjunctivitis&#xD;
+&#xD;
+             16. Patients with refractory/uncontrolled ascites or pleural effusion&#xD;
+&#xD;
+             17. Pregnant or nursing (lactating) women, where pregnancy is defined as the state of&#xD;
+             a female after conception and until the termination of gestation, confirmed by a&#xD;
+             positive human chorionic gonadotropin (hCG) laboratory test within 7 days prior to the&#xD;
+             start of study drug&#xD;
+&#xD;
+             18. Non-surgically sterilized male or female patients of childbearing potential must&#xD;
+             agree to use highly effective methods of birth control during the study and for&#xD;
+             approximately 6 months after the last dose of study drug. A condom is also required to&#xD;
+             be used by vasectomized men to prevent delivery of the drug via seminal fluid&#xD;
+&#xD;
+             19. Vaccination with a live, attenuated vaccine within 4 weeks prior to the first dose&#xD;
+             of study treatment except for administration of inactivate vaccines (e.g., COVID-19&#xD;
+             vaccines, inactivated influenza vaccines)&#xD;
+&#xD;
+             20. Any other clinically significant comorbidities, such as uncontrolled pulmonary&#xD;
+             disease, active infection, or any other condition, which in the judgment of the&#xD;
+             Investigator, could compromise compliance with the protocol, interfere with the&#xD;
+             interpretation of study results, or predispose the patient to safety risks&#xD;
+&#xD;
+             21. Planned major surgery during study treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yuan Lu</last_name>
+    <role>Study Director</role>
+    <affiliation>Wuxi Abbisko Biomedical Technology Co., Ltd.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>May Litt</last_name>
+    <phone>+1 5033091243</phone>
+    <email>may.litt@abbisko.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yuan Lu</last_name>
+    <phone>+86 21 68910052</phone>
+    <email>clinical@abbisko.com</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

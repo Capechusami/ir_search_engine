@@ -1,0 +1,294 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077930</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCP TRIAL</org_study_id>
+    <nct_id>NCT05077930</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma Therapy for Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Validation Protocol for The Clinical Use of Convalescent Plasma for Hospitalized Patients With COVID-19. A Prospective Study at a Hospital in Southern Brazil.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tânia Portella Costa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centro de Hematologia e Hemoterapia do Paraná - Hemepar</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundação Oswaldo Cruz, Instituto Carlos Chagas, ICC Paraná</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Science Valley Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Science Valley Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Plasma from donors who have recovered from coronavirus disease 2019 (COVID-19) contain&#xD;
+      antibodies to SARS-CoV-2 and may be a potential therapy for hospitalized patients with&#xD;
+      COVID-19. The efficacy of high-titer convalescent plasma for COVID-19, however, still&#xD;
+      unclear. The present study aims to evaluate the efficacy and safety of using convalescent&#xD;
+      plasma for treating hospitalized patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, randomized controlled trial aimed to evaluate the efficacy and safety&#xD;
+      of using convalescent plasma for treating hospitalized patients with COVID-19. Participants&#xD;
+      must be adult hospitalized patients with a confirmed diagnosis of COVID-19 and time Between&#xD;
+      symptom onset and inclusion ≤ 7 days. Two hundred participants will be randomized in a 1:1&#xD;
+      ratio to receive either 200-400 mL of high-titer COVID-19 convalescent plasma or standard&#xD;
+      care. The primary endpoint is the proportion of patients with clinical improvement at day 14&#xD;
+      following randomization, defined by an increase of two points in the 7-point ordinal scale&#xD;
+      based on that recommended by the World Health Organization. Safety will be daily assessed by&#xD;
+      monitoring the occurrence of adverse effects and reactions to convalescent plasma&#xD;
+      transfusion. Study visits will occur on Day 1, Day 3, Day 7, and Day 14 or until hospital&#xD;
+      discharge, whichever comes first.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is an open-label, randomized study design (1: 1), controlled trial, in hospitalized patients with COVID-19.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical status on a 7-point ordinal scale</measure>
+    <time_frame>From randomization to end of study at Day 14</time_frame>
+    <description>Patients' clinical status over time assessed by a 7-point ordinal scale from World Health Organization (WHO). Lower scores are seen with better clinical outcomes. The scale categories are as follows: (1), not hospitalized with resumption of normal activities; (2), not hospitalized, but unable to resume normal activities; (3), hospitalized, not requiring supplemental oxygen; (4), hospitalized, requiring supplemental oxygen; (5), hospitalized, requiring high-flow oxygen therapy or noninvasive mechanical ventilation; (6), hospitalized, requiring ECMO (extracorporeal membrane oxygenation), IMV (intermittent mandatory ventilation), or both; (7), death.&#xD;
+Proportion of patients with clinical improvement, defined by an increase of two points in the ordinal scale of seven WHO categories.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants at each clinical status on a 7-point ordinal scale</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+    <description>Measure of patients' clinical status using an ordinal scale for clinical improvement created by World Health Organization (WHO) and based on 7-point scale categories. Lower scores in this scale are seen with better clinical outcomes. The scale categories are as follows: (1), not hospitalized with resumption of normal activities; (2), not hospitalized, but unable to resume normal activities; (3), hospitalized, not requiring supplemental oxygen; (4), hospitalized, requiring supplemental oxygen; (5), hospitalized, requiring high-flow oxygen therapy or noninvasive mechanical ventilation; (6), hospitalized, requiring ECMO, IMV, or both; (7), death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of oxygen-intake methods</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+    <description>Percentage of participants using oxygen by mask or nasal prongs, oxygen by non-invasive ventilation or high flow, intubation &amp; mechanical ventilation and ECMO.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The PaO2 / FiO2 ratio (for patients on mechanical mechanisms)</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and /or extension of affected lung areas on chest computed tomography</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in intensive care</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until independence from oxygen therapy in days</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In patients who needed mechanical ventilation, time to initiate mechanical ventilation (calculated in days, from entry into the protocol until orotracheal intubation)</measure>
+    <time_frame>Day 1, Day 3, Day 7, and Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of transfusion reactions to convalescent plasma infusion</measure>
+    <time_frame>Daily, until Day 14 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants who develop serious adverse events and adverse events considered as definitely or probably associated with plasma transfusion</measure>
+    <time_frame>Daily, until Day 14 after randomization</time_frame>
+    <description>Adverse events (worsening anemia, urticaria, skin rash, transfusion-associated circulatory overload, and others) assessed during hospitalization.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Association between the presence of comorbidities at baseline and clinical status on a 7-point ordinal scale</measure>
+    <time_frame>Day 1 and Day 14 after randomization</time_frame>
+    <description>Association between patients' clinical status assessed by a 7-point ordinal scale from World Health Organization (WHO) on Day 14 after randomization and baseline characteristics and history or comorbidities known at high risk for COVID-19 (age, sex, obesity - body mass index &gt;30 kg/m², history of hypertension, chronic heart disease, congestive heart failure, chronic bronchopulmonary disease, diabetes mellitus, and immunosuppression).&#xD;
+Lower scores in this scale are seen with better clinical outcomes. The scale categories are as follows: (1), not hospitalized with resumption of normal activities; (2), not hospitalized, but unable to resume normal activities; (3), hospitalized, not requiring supplemental oxygen; (4), hospitalized, requiring supplemental oxygen; (5), hospitalized, requiring high-flow oxygen therapy or noninvasive mechanical ventilation; (6), hospitalized, requiring ECMO, IMV, or both; (7), death.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Association between the volume of convalescent plasma transfused and clinical status on a 7-point ordinal scale</measure>
+    <time_frame>Day 1 and Day 14 after randomization</time_frame>
+    <description>Association between patients' clinical status assessed by a 7-point ordinal scale from World Health Organization (WHO) on Day 14 after randomization and the volume of a single unit of convalescent plasma transfused (200 mL or 400 mL). Lower scores in this scale are seen with better clinical outcomes. The scale categories are as follows: (1), not hospitalized with resumption of normal activities; (2), not hospitalized, but unable to resume normal activities; (3), hospitalized, not requiring supplemental oxygen; (4), hospitalized, requiring supplemental oxygen; (5), hospitalized, requiring high-flow oxygen therapy or noninvasive mechanical ventilation; (6), hospitalized, requiring ECMO, IMV, or both; (7), death.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes from baseline in inflammatory surrogate markers: white blood counts, lymphocyte counts, C-reactive protein (CRP) and D-dimer levels</measure>
+    <time_frame>Day 1 and Day 14 after randomization</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Association between the concentration of inflammatory surrogate markers and clinical status on a 7-point ordinal scale</measure>
+    <time_frame>Day 14 after randomization</time_frame>
+    <description>Association between patients' clinical status assessed by a 7-point ordinal scale from World Health Organization (WHO) on Day 14 after randomization and inflammatory surrogate markers, which include white blood counts, lymphocyte counts, C-reactive protein (CRP) and D-dimer levels. Lower scores in this scale are seen with better clinical outcomes. The scale categories are as follows: (1), not hospitalized with resumption of normal activities; (2), not hospitalized, but unable to resume normal activities; (3), hospitalized, not requiring supplemental oxygen; (4), hospitalized, requiring supplemental oxygen; (5), hospitalized, requiring high-flow oxygen therapy or noninvasive mechanical ventilation; (6), hospitalized, requiring ECMO, IMV, or both; (7), death.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Convalescent Plasma</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>Pneumonia</condition>
+  <condition>Coronavirus Infections</condition>
+  <condition>Respiratory Tract Diseases</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The investigational product is anti-SARS-CoV-2 convalescent plasma obtained from former patients identified as having recovered from COVID-19 and obtained by Centro de Hematologia e Hemoterapia do Paraná - Hemepar following national blood donation guidelines and Brazilian Health Regulatory Agency (ANVISA) criteria. Potential donors will be screened using an anti-SARS-CoV-2 serologic assay and antibody levels will be determined. Participants will receive the standard of care treatment and a single unit of convalescent plasma (volume=200 mL or 400 mL).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of care treatment according to the institutional protocol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent plasma</intervention_name>
+    <description>The intervention group will receive 200 or 400 mL of high-titer COVID-19 convalescent plasma, ABO compatible with the patient, within 24 hours of randomization.</description>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>The active comparator group will receive oxygen supplementation, corticoids, antiretrovirals, and/or monoclonal antibodies according to the institutional protocol.</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized patients aged ≥18 years.&#xD;
+&#xD;
+          -  Confirmed diagnosis of COVID-19 by RT-PCR or antigen test in respiratory samples.&#xD;
+&#xD;
+          -  Time between symptom onset and inclusion ≤ 7 days.&#xD;
+&#xD;
+          -  Enrolled within 5 days of hospitalization.&#xD;
+&#xD;
+          -  Sign the consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindication to transfusion due to inability to tolerate additional fluid, such as&#xD;
+             due to decompensated congestive heart failure.&#xD;
+&#xD;
+          -  History of previous severe allergic reactions to transfused blood products.&#xD;
+&#xD;
+          -  Limiting comorbidity for administering the therapies provided for in this protocol in&#xD;
+             the opinion of the investigator.&#xD;
+&#xD;
+          -  Not currently enrolled another interventional clinical trial of COVID-19 treatment.&#xD;
+&#xD;
+          -  Critically ill patient with COVID-19 being treated in intensive care.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kengi Itinose, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Maternidade e Cirurgia Nossa Senhora do Rocio/ SA - Hospital do Rocio</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tânia P Costa, Master</last_name>
+    <phone>+55 41 3136-2515</phone>
+    <email>tania.p@hospitaldorocio.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Leandro B Agati, PhD</last_name>
+    <phone>+55 11 4040-8670</phone>
+    <email>agati@svriglobal.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Maternidade e Cirurgia Nossa Senhora do Rocio/ SA - Hospital do Rocio</name>
+      <address>
+        <city>Campo Largo</city>
+        <state>Paraná</state>
+        <zip>83606-177</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tânia P Costa, Master</last_name>
+      <phone>+55 41 3136-2515</phone>
+      <email>tania.p@hospitaldorocio.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>Kengi Itinose, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <link>
+    <url>https://www.comet-initiative.org/assets/downloads/COVID-19%20meta%20COS_Table%201_15th%20March%202021.pdf</url>
+    <description>Core Outcome Set (COS) for studies of any intervention in hospitalised patients with confirmed or suspected COVID-19</description>
+  </link>
+  <reference>
+    <citation>Piechotta V, Chai KL, Valk SJ, Doree C, Monsef I, Wood EM, Lamikanra A, Kimber C, McQuilten Z, So-Osman C, Estcourt LJ, Skoetz N. Convalescent plasma or hyperimmune immunoglobulin for people with COVID-19: a living systematic review. Cochrane Database Syst Rev. 2020 Jul 10;7(7):CD013600. doi: 10.1002/14651858.CD013600.pub2.</citation>
+    <PMID>32648959</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>October 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Science Valley Research Institute</investigator_affiliation>
+    <investigator_full_name>Tânia Portella Costa</investigator_full_name>
+    <investigator_title>Tânia Portella Costa - Maternidade e Cirurgia Nossa Senhora do Rocio/ SA - Hospital do Rocio</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,348 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079009</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP180481</org_study_id>
+    <secondary_id>DR-2020-302</secondary_id>
+    <secondary_id>2020-A00156-33</secondary_id>
+    <nct_id>NCT05079009</nct_id>
+  </id_info>
+  <brief_title>Effects of Blood Pulsatility on Von Willebrand Factor During ECCO2R</brief_title>
+  <acronym>FLOW-ECCO2R</acronym>
+  <official_title>Effects of Blood Pulsatility on Von Willebrand Factor During Extracorporeal CO2 Removal (ECCO2R)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Xenios AG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the study is to demonstrate that the ECCO2R pulsatile configuration&#xD;
+      prevents the Willebrand factor high molecular weight multimers decrease observed under&#xD;
+      continuous blood flow configurations.&#xD;
+&#xD;
+      The secondary objectives are to quantify the CO2 extracorporeal removal in the pulsatile&#xD;
+      configuration, to describe complications (hemorrhagic, thrombotic and hemolytic), to describe&#xD;
+      patients' gas exchanges under ECCO2R, to describe the clinical course of the patients under&#xD;
+      ECCO2R as well as during the whole stay in the Intensive Care Unit (ICU).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A track of major interest to prevent bleeding complications in ECCO2R, and more generally in&#xD;
+      extracorporeal circulations, is to prevent acquired Willebrand disease. Indeed, a loss of&#xD;
+      Willebrand factor high molecular weight multimers (Whmwm) is frequently observed in&#xD;
+      conditions characterized by a continuous blood flow, associated with a high incidence of&#xD;
+      bleeding. A publication suggested the existence of this phenomenon under ECCO2R achieved&#xD;
+      through the medical device Hemolung (Alung technology, USA). We preliminary observed an&#xD;
+      almost constant and early (&lt; 24 hours) decrease in Willebrand factor high molecular weight&#xD;
+      multimers under ECCO2R. Such a phenomenon is considered as a major factor of hemorrhagic&#xD;
+      complications. We hypothesize that use of pulsatile extracorporeal blood flow configuration&#xD;
+      during the full length of ECCO2R therapy, as authorized by the Xenios console (Xenios AG,&#xD;
+      Heilbronn), would preserve a normal value of Whmwm, mainly by changing the conditions of&#xD;
+      shear constraints (&quot;shear stress&quot;).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 28, 2022</start_date>
+  <completion_date type="Anticipated">February 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Level course of Willebrand Factor high molecular weight multimers in plasma</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Quantification of plasma Willebrand Factor high molecular weight multimers by the Hydrasys system</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of specific adverse events</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>To describe the complications under ECCO2R: hemorrhagic, thrombotic and hemolytic adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of von Willebrand factor</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>To quantify von Willebrand activity/antigenemy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of P-Selectin</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of leucoplatelet aggregates</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of proplatelet aggregates</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of platelet</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of microparticles</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of leucocytes</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of endothelial cells</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of NETs (Neutrophil Extracellular Traps)</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of free DNA</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of Nucleosome</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Characterization of the blood coagulation system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of FiO2</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Recording of mechanical ventilator parameters (Non-Invasive Ventilation or Invasive Mechanical Ventilation) to describe the patients' clinical course under ECCO2R as well as during the whole stay in the ICU.v</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VT (Tidal Volume)</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Recording of mechanical ventilator parameters (Non-Invasive Ventilation or Invasive Mechanical Ventilation) to describe the patients' clinical course under ECCO2R as well as during the whole stay in the ICU.v</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Recording of mechanical ventilator parameters (Non-Invasive Ventilation or Invasive Mechanical Ventilation) to describe the patients' clinical course under ECCO2R as well as during the whole stay in the ICU.v</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of PaO2</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the arterial blood gas parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of PaCO2</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the arterial blood gas parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pH</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the arterial blood gas parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SaO2</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the arterial blood gas parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>To describe the patient vital parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>To describe the patient vital parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood Pressure</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>To describe the patient vital parameters under ECCO2R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pump speed</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the ECCO2R parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulsatility setting</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the ECCO2R parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extracorporal blood flow</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the ECCO2R parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extracorporal pressures</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Description of the ECCO2R parameters</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Extracorporeal CO2 Removal</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Chronic Obstructive Pulmonary Disease Exacerbation</condition>
+  <condition>Pulmonary Disease</condition>
+  <arm_group>
+    <arm_group_label>ECCO2R pulsatile configuration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adult patients hospitalized in the medical ICU for whom a treatment by ECCO2R has been indicated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ECCO2R pulsatile configuration</intervention_name>
+    <description>Use of the pulsatile extracorporeal blood flow configuration.</description>
+    <arm_group_label>ECCO2R pulsatile configuration</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patient hospitalized in the Georges Pompidou European Hospital medical ICU&#xD;
+&#xD;
+          -  Patient with or without SARS-CoV-2 infection&#xD;
+&#xD;
+          -  ECCO2R treatment decision made by the medical team (regardless of the FLOW-ECCO2R&#xD;
+             protocol): mainly ECCO2R to enable ultraprotective ventilation for Acute respiratory&#xD;
+             distress syndrome (ARDS) patients or to avoid intubation or to shorten invasive&#xD;
+             mechanical ventilation in Chronic obstructive pulmonary disease (COPD) patients&#xD;
+&#xD;
+          -  Affiliation to a social security regimen&#xD;
+&#xD;
+          -  Informed consent (patient, trusted person, close family) , by default emergency&#xD;
+             inclusion notified in medical file and pursuance consent sought&#xD;
+&#xD;
+          -  Negative serum or urinary β-hCG for women of child-bearing potential&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy to heparin or to any of the excipients of the specialty used&#xD;
+&#xD;
+          -  History of type II heparin-induced thrombopenia&#xD;
+&#xD;
+          -  Thrombocytopenia (platelet &lt; 100.000/mm3)&#xD;
+&#xD;
+          -  Constitutional hemostasis disease interfering with biological assays&#xD;
+&#xD;
+          -  Organic lesion likely to bleed&#xD;
+&#xD;
+          -  Bleeding manifestations or tendencies linked to disorders of hemostasis&#xD;
+&#xD;
+          -  Intracerebral hemorrhage&#xD;
+&#xD;
+          -  Participation in another interventional research involving human participants&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+          -  Protected adults (including individual under guardianship by court order)&#xD;
+&#xD;
+          -  Persons deprived of their liberty by judicial or administrative decision&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Luc Diehl, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>AP-HP, Hôpital Européen Georges Pompidou, Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cléo Bourgeois</last_name>
+    <phone>+331 56 09 56 38</phone>
+    <email>cleo.bourgeois@aphp.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hôpital européen Georges Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Luc MD Diehl, PhD</last_name>
+      <phone>+331 56 09 32 13</phone>
+      <email>jean-luc.diehl@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Kalbhenn J, Neuffer N, Zieger B, Schmutz A. Is Extracorporeal CO2 Removal Really &quot;Safe&quot; and &quot;Less&quot; Invasive? Observation of Blood Injury and Coagulation Impairment during ECCO2R. ASAIO J. 2017 Sep/Oct;63(5):666-671. doi: 10.1097/MAT.0000000000000544.</citation>
+    <PMID>28187047</PMID>
+  </reference>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>July 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>May 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 13, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ECCO2R</keyword>
+  <keyword>Willebrand factor</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>COPD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Disease Progression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data (IPD) that underlie results in publication could be shared. IPD detailed in the protocol of a planned metaanalysis could be shared</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Two years after the last publication</ipd_time_frame>
+    <ipd_access_criteria>Data sharing must be accepted by the sponsor and the PI based on a scientific project and scientific involvement of the PI team. Collaboration will be fostered.&#xD;
+Data sharing must respect the agreements made with funders.&#xD;
+Teams wishing obtain IPD must meet the sponsor and IP team to present scientific (and commercial) purpose, IPD needed, format of data transmission, and timeframe. Technical feasibility and financial support will be discussed before mandatory contractual agreement.&#xD;
+Processing of shared data must comply with European General Data Protection Regulation (GDPR).</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

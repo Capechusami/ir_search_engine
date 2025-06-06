@@ -1,0 +1,179 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615675</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1919687-1</org_study_id>
+    <nct_id>NCT05615675</nct_id>
+  </id_info>
+  <brief_title>Virtual Reality (VR) for Prone Pain Procedures</brief_title>
+  <official_title>Immersive Audiovisual Distraction With Virtual Reality (VR) in Prone Procedures in the Interventional Pain Clinic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Davis</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effectiveness of virtual reality (VR)&#xD;
+      distraction in patients undergoing interventional pain procedures in the prone position. VR&#xD;
+      has been shown to improve patient experience during interventional pain procedures, however,&#xD;
+      many of these procedures are done in the prone position making VR a challenge. This study&#xD;
+      will evaluate the effect of a VR headset and support in patients undergoing prone&#xD;
+      interventional pain procedures compared to control.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 2022</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anxiety Score</measure>
+    <time_frame>Immediately before procedure</time_frame>
+    <description>State-Trait Anxiety Inventory (Self-reported anxiety instrument containing two separate 2-item subscales that measure trait (baseline) and state (situational) anxiety; Total range 20 to 80 with higher scores indicating greater anxiety).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anxiety Score</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>State-Trait Anxiety Inventory (Self-reported anxiety instrument containing two separate 2-item subscales that measure trait (baseline) and state (situational) anxiety; Total range 20 to 80 with higher scores indicating greater anxiety).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety Score</measure>
+    <time_frame>Immediately before procedure, during procedure, and immediately after procedure</time_frame>
+    <description>Anxiety score on an 11-point numerical rating scale (Total range 0-10 with higher scores indicating greater pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Score</measure>
+    <time_frame>Immediately before procedure, during procedure, and immediately after procedure</time_frame>
+    <description>Pain score on an 11-point numerical rating scale (Total range 0-10 with higher scores indicating greater pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Impression of Change</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>Global Impression of Change on a 7-point scale (Lower scores indicating decline in clinical status, and higher scores indicating improvement in clinical status)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Experience Satisfaction</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>Experience Satisfaction on an 11-point scale (Total range 0-10 with higher scores indicating higher patient experience satisfaction)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sedation Requirements</measure>
+    <time_frame>During course of procedure</time_frame>
+    <description>Amount of benzodiazepines and opioid medications given</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Virtual Reality</condition>
+  <condition>Anxiety</condition>
+  <condition>Pain</condition>
+  <arm_group>
+    <arm_group_label>Virtual Reality</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo prone pain procedure with virtual reality distraction</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients undergo prone pain procedure without virtual reality distraction</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Virtual Reality Headset</intervention_name>
+    <description>Patient uses a virtual reality headset and support during prone pain procedure</description>
+    <arm_group_label>Virtual Reality</arm_group_label>
+    <other_name>Oculus Quest Virtual Reality Headset</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged 18 years old or older, who are referred to University of California&#xD;
+             Davis Pain Medicine Clinic and require an interventional pain procedure&#xD;
+&#xD;
+          -  English speaking and with the ability to understand oral and written instructions&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Prisoners&#xD;
+&#xD;
+          -  Patients who have high risk of motion sickness, seizure disorder, or visual/hearing&#xD;
+             impairment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Jung, MD MBA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Davis</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Jung, MD MBA</last_name>
+    <phone>916-734-7246</phone>
+    <email>mijjung@ucdavis.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amaad Sulahria, DO</last_name>
+    <email>asulahria@ucdavis.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UC Davis Interventional Pain Clinic</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Jung, MD MBA</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

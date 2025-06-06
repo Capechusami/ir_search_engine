@@ -1,0 +1,494 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626634</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LP352-202</org_study_id>
+    <nct_id>NCT05626634</nct_id>
+  </id_info>
+  <brief_title>Open-label, Long-term Safety Study of LP352 in Subjects With Developmental and Epileptic Encephalopathy</brief_title>
+  <official_title>A Phase 2, Multicenter, Open-label, Long-term Safety Study of LP352 in Subjects With Developmental and Epileptic Encephalopathy Who Completed Study LP352-201 and Are Candidates for Continuous Treatment for Up to 52 Weeks</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Longboard Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Longboard Pharmaceuticals</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to assess the long-term safety, tolerability, and efficacy of&#xD;
+      adjunctive therapy of LP352 in subjects with developmental and epileptic encephalopathies who&#xD;
+      completed participation in Study LP352-201.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 2, multicenter, open-label, multiple-dose extension clinical study is designed to&#xD;
+      evaluate long-term safety of LP352 in subjects with developmental and epileptic&#xD;
+      encephalopathy who completed Study LP352-201.&#xD;
+&#xD;
+      The study consists of a Screening Period (Day -1) and a 50-week open-label Treatment Period&#xD;
+      that includes a 15-day Up-titration Period (during which time subjects will titrate up to&#xD;
+      their highest tolerated doses) and an open-label Maintenance Period (48 weeks). The Treatment&#xD;
+      Period will be followed by a Down-titration/Taper Period (up to 15 days) and Follow-up Period&#xD;
+      (14 days after completion of down-titration). The starting dose of up-titration will be 6 mg&#xD;
+      TID. The target final maintenance doses are 6 mg TID, 9 mg TID, and 12 mg TID after a 15-day&#xD;
+      up-titration period, if tolerated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2022</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment-emergent Adverse Events</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>Incidence and severity of treatment-emergent adverse events, including serious adverse events and adverse events leading to study discontinuation and clinically significant changes in vital signs, physical examination endpoints, clinical safety laboratory values and ECGs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Columbia-Suicide Severity Rating Scale (C-SSRS) Response</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>Type of Suicidal Ideation, Intensity (1 - 5, with 5 being most severe), Suicidal Behavior</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire-9 Total Score and Question 9 Score</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>Severity Rating Scale: 0 - 27; higher scores indicate greater severity of depressive disorder</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change from Baseline in Observed Countable Motor Seizure Frequency During the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+    <description>Baseline Used for Seizure Frequency = Baseline from Study LP352-201 and Baseline from Study LP352-202</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Subjects with &gt; 50% Reduction in Total Seizures During the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Reduction in Individual Seizure Type During the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Subjects Requiring Rescue Medication During the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change from Baseline in the Number of Episodes of Status Epilepticus During the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Subjects with Countable Motor Seizure-free Days During the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change from Baseline in Non-motor and Difficult to Count Seizures</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LGS: Percentage Change from Baseline in the Frequency of Observed Drop Seizures Over the Treatment Period</measure>
+    <time_frame>Baseline to Week 50</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Developmental and Epileptic Encephalopathy</condition>
+  <condition>Dravet Syndrome</condition>
+  <condition>Lennox-Gastaut Syndrome</condition>
+  <arm_group>
+    <arm_group_label>LP352</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be titrated up to highest tolerated dose of LP352 during a 15-day period, followed by a 48-week maintenance period and a 15-day taper/down titration period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LP352</intervention_name>
+    <description>LP352 6 mg, 9 mg or 12 mg administered three times daily, orally or through G-tube</description>
+    <arm_group_label>LP352</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or non-pregnant, non-lactating female, age 12 to 65 years who have satisfactorily&#xD;
+             completed study LP352-201&#xD;
+&#xD;
+          2. Diagnosis of Dravet syndrome, Lennox-Gastaut syndrome, or other developmental and&#xD;
+             epileptic encephalopathy&#xD;
+&#xD;
+          3. The patient/parent/caregiver is able and willing to attend study visits, complete the&#xD;
+             diary and take study drug as instructed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Had an SAE in Study LP352-201 that was definitely, probably, or possibly related to&#xD;
+             exposure to study drug&#xD;
+&#xD;
+          2. Current or past history of cardiovascular or cerebrovascular disease, such as cardiac&#xD;
+             valvulopathy, myocardial infarction, stroke, pulmonary arterial hypertension or&#xD;
+             abnormal blood pressure&#xD;
+&#xD;
+          3. Has glaucoma, renal impairment, liver disease or any other medical condition that&#xD;
+             would affect study participation or pose a risk to the subject&#xD;
+&#xD;
+          4. Current or recent history of moderate or severe depression, anorexia nervosa, bulimia&#xD;
+             or at risk of suicidal behavior&#xD;
+&#xD;
+          5. Currently taking anorectic agents, monoamine oxidase inhibitors; serotonin agonists or&#xD;
+             antagonists including fenfluramine, atomoxetine, vortioxetine, or other medications&#xD;
+             for weight loss&#xD;
+&#xD;
+          6. Positive test result on the drug screen, except tetrahydrocannabinol (THC) for&#xD;
+             patients taking prescribed cannabidiol&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dennis J Dlugos, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Longboard Study Contact</last_name>
+    <phone>858-999-8858</phone>
+    <email>clinicalstudies@longboardpharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arkansas Children's Hospital</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rancho Los Amigos National Rehabilitation Center (RLANRC)</name>
+      <address>
+        <city>Downey</city>
+        <state>California</state>
+        <zip>90242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94158</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Florida Clinical Research Group</name>
+      <address>
+        <city>Gulf Breeze</city>
+        <state>Florida</state>
+        <zip>32561</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advent Health Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Institute of Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hawaii Pacific Neuroscience</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University Feinberg School of Medicine</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mid-Atlantic Epilepsy and Sleep Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Health Physicians LLP</name>
+      <address>
+        <city>Hawthorne</city>
+        <state>New York</state>
+        <zip>10532</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwell Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northeast Regional Epilepsy Group</name>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>OnSite Clinical Solutions LLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>98277</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University School of Medicine</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Neurological Specialties-East</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Epilepsy Care Center</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Valley Medical Center</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <zip>98055</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CDKL5 deficiency disorder</keyword>
+  <keyword>developmental and epileptic encephalopathy</keyword>
+  <keyword>Dravet Syndrome</keyword>
+  <keyword>epilepsy</keyword>
+  <keyword>Lennox-Gastaut Syndrome</keyword>
+  <keyword>treatment resistant epilepsy</keyword>
+  <keyword>tuberous sclerosis complex</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Epilepsies, Myoclonic</mesh_term>
+    <mesh_term>Lennox Gastaut Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,228 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615922</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-01155</org_study_id>
+    <nct_id>NCT05615922</nct_id>
+  </id_info>
+  <brief_title>Remotely Supervised Transcranial Direct Current Stimulation (tDCS) for Primary Progressive Aphasia (PPA)</brief_title>
+  <official_title>Remotely Supervised Transcranial Direct Current Stimulation (tDCS) for Primary Progressive Aphasia (PPA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to establish the feasibility of a program of remotely supervised&#xD;
+      transcranial direct current stimulation (RS-tDCS) paired with language skills practice for&#xD;
+      people living with the semantic or logopenic variants of primary progressive aphasia (PPA).&#xD;
+      There are currently no established standard-of-care treatments for PPA. This study will&#xD;
+      evaluate whether RS-tDCS combined with language skills practice is a feasible study design&#xD;
+      for individuals with PPA.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">November 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants who Complete 16 out of 20 Study Visits</measure>
+    <time_frame>Week 4</time_frame>
+    <description>Measure of feasibility.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Trained Language Probes at Treatment End</measure>
+    <time_frame>Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Untrained Language Probes at Treatment End</measure>
+    <time_frame>Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Aphasia Communication Outcome Measure (ACOM) Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>Measurement of patient-reported communicative functioning in aphasia. Scores are presented as T-Scores that range from 0 to 100; higher T-scores indicate greater functional communication skills.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Stroke and Aphasia Quality of Life-39 Item (SAQOL-39) Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>39-item assessment of quality of life among individuals with aphasia. Items are ranked on a Likert scale ranging from 1 (Couldn't do it at all) to 5 (No trouble at all). The total score is the average score of all items and ranges from 1 to 5; higher scores indicate greater quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient-Reported Outcomes Measurement Information System (PROMIS) - Social Roles and Activities Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>35-item measurement of the perceived ability to perform one's usual social roles and activities. Each item is rated on a Likert scale ranging from 5 (never) to 1 (always). The raw score is the sum of responses and is converted to a T-score that has a population mean score of 50 with a standard deviation of 10; higher scores indicate greater ability to perform social roles and activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient-Reported Outcomes Measurement Information System (PROMIS) - Global Health Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>10-item measurement of symptoms, functioning, and healthcare-related quality of life. The raw score is the sum of responses and is converted to a T-score that has a population mean score of 50 with a standard deviation of 10; higher scores indicate better QOL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quick Aphasia Battery (QAB) Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>Assessment of language function. Includes eight subtests, each of which comprise sets of items that probe different language domains, vary in difficulty, and are scored with a graded system to maximize the informativeness of each item. The total scores range from 0 to 10, where:&#xD;
+0.00-4.99 = Severe Aphasia&#xD;
+5.00-7.49 = Moderate Aphasia&#xD;
+7.50-8.89 = Mild Aphasia&#xD;
+8.90-10.00 = No Aphasia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Boston Naming Test (BNT)-Short form Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>Measures confrontational word retrieval in individuals with aphasia or other language disturbance. Consists of 15 line-drawn pictures presented in order of difficulty from &quot;easiest&quot; (e.g., &quot;house&quot;) to &quot;most difficult&quot; (e.g., &quot;palette&quot;). Participants have 20 seconds to name each item correctly with a cueing hierarchy. The total score is the sum of correct responses and ranges from 0 to 15; higher scores indicate greater confrontational word retrieval abilities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Controlled Oral Word Association Test (COWAT) Score</measure>
+    <time_frame>Baseline, Month 6</time_frame>
+    <description>The COWAT is verbal fluency test that measures spontaneous production of words belonging to the same category or beginning with some designated letter. The participants' task is to produce as many words as possible that begin with the given letter (F, A, or S) within a 1-minute time period. The total score is the total number of acceptable words produced for all three letters. Higher scores indicate greater verbal fluency.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Primary Progressive Aphasia</condition>
+  <arm_group>
+    <arm_group_label>Remotely Supervised tDCS and Word-Naming Practice</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>At each session, the tDCS device will deliver 2.0 mA electric current for 30 minutes over the left frontotemporal lobe with focus on the inferior frontal gyrus (IFG). Participants will receive 20 intervention sessions over the course of the interventional period (4 weeks) on weekdays (Monday-Friday). During the stimulation period, participants will engage in a picture-naming exercise as guided by the study tDCS clinicians.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial Direct Current Stimulation (tDCS)</intervention_name>
+    <description>tDCS is noninvasive brain stimulation device that modulates brain activity by delivering a low-intensity electrical current (2.0 mA) through scalp sponge electrodes. The device is preprogrammed to ramp up to 2.0 mA (for 30 seconds), provide constant current throughout session (29 minutes), and then ramp down (for 30 seconds) at the end.</description>
+    <arm_group_label>Remotely Supervised tDCS and Word-Naming Practice</arm_group_label>
+    <other_name>Soterix Medical mini-CT Model 1601-LTE Stimulator</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Word-Naming Activity</intervention_name>
+    <description>During each tDCS session, the tDCS clinician will guide the participant in a word-naming exercise. Participants will be presented with photos of target items and prompted to verbally produce the names of the pictures.</description>
+    <arm_group_label>Remotely Supervised tDCS and Word-Naming Practice</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Primary progressive aphasia diagnosis (logopenic or semantic variant)&#xD;
+&#xD;
+          2. Peabody Picture Vocabulary Test (PPVT) score &lt; -1.0 SD, serving as a literacy proxy&#xD;
+             for premorbid cognitive ability and ensuring English language fluency sufficient for&#xD;
+             participation in the study procedures.&#xD;
+&#xD;
+          3. WAIS-IV Matrix Reasoning T score &lt; 20, serving as an index of current general&#xD;
+             cognitive functioning to exclude those with severe cognitive impairment&#xD;
+&#xD;
+          4. Stable and continuous access to internet service, email (WiFi &quot;hotspot&quot; to be provided&#xD;
+             if needed)&#xD;
+&#xD;
+          5. Fluent in English language (due to outcomes validated in English versions only)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Disorder other than PPA known to cause language dysfunction&#xD;
+&#xD;
+          2. Diagnosis of nonfluent/agrammatic subtype of primary progressive aphasia&#xD;
+&#xD;
+          3. History of traumatic brain injury&#xD;
+&#xD;
+          4. Uncontrolled seizure disorder and/or recent (&lt;5 years) history of seizure&#xD;
+&#xD;
+          5. Metal implants in the head or neck&#xD;
+&#xD;
+          6. Any skin disorder or skin sensitive area near stimulation locations&#xD;
+&#xD;
+          7. Pregnant or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leigh Charvet, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eric McConathey</last_name>
+    <phone>929-455-5088</phone>
+    <email>Eric.mcconathey@nyulangone.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Matthew Lustberg</last_name>
+    <phone>929-455-5090</phone>
+    <email>matthew.lustberg@nyulangone.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Leigh Charvet, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Transcranial Direct Current Stimulation (tDCS)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aphasia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: [leigh.charvet@nyulangone.org]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>The investigator who proposed to use the data will have access to the data upon reasonable request. Requests should be directed to leigh.charvet@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

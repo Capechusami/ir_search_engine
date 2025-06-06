@@ -1,0 +1,483 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078580</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLNP023A2105</org_study_id>
+    <nct_id>NCT05078580</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetic (PK) and Safety Study of Iptacopan (LNP023) in Participants With Mild, Moderate, and Severe Hepatic Impairment Compared to Matched Control Healthy Participants With Normal Hepatic Function.</brief_title>
+  <official_title>A Phase 1, Single Dose, Open-label Study to Investigate the Pharmacokinetics and Safety of Iptacopan (LNP023) in Participants With Mild, Moderate, and Severe Hepatic Impairment Compared to Matched Control Healthy Participants With Normal Hepatic Function</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a an open-label, single dose, parallel group study to evaluate the PK of iptacopan in&#xD;
+      participants with mild, moderate, or severe hepatic impairment compared to matched healthy&#xD;
+      control participants&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 10, 2021</start_date>
+  <completion_date type="Actual">June 20, 2022</completion_date>
+  <primary_completion_date type="Actual">June 20, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetic parameters of iptacopan: Cmax The maximum (peak) observed plasma, blood, serum, or other body fluid drug concentration after single dose administration (mass × volume-1)</measure>
+    <time_frame>Day 1 (few time points), Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 8, Day 9, Day 10 and Day 11</time_frame>
+    <description>To assess the PK properties of iptacopan after a single oral dose of 200 mg in participants with mild, moderate, or severe hepatic impairment as compared to matched healthy participants with normal hepatic function (Child-Pugh classification).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameters of iptacopan: Tmax The time to reach maximum (peak) plasma, blood, serum, or other body fluid drug concentration after single dose administration (time)</measure>
+    <time_frame>Day 1 (few time pints), Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 8, Day 9, Day 10 and Day 11</time_frame>
+    <description>To assess the PK properties of iptacopan after a single oral dose of 200 mg in participants with mild, moderate, or severe hepatic impairment as compared to matched healthy participants with normal hepatic function (Child-Pugh classification).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic parameters of iptacopan: AUClast The AUC from time zero to the last measurable concentration sampling time (tlast) (mass × time × volume-1)</measure>
+    <time_frame>Day 1 (few time points), Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 8, Day 9, Day 10 and Day 11</time_frame>
+    <description>To assess the PK properties of iptacopan after a single oral dose of 200 mg in participants with mild, moderate, or severe hepatic impairment as compared to matched healthy participants with normal hepatic function (Child-Pugh classification).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameters of iptacopan: AUCinf The AUC from time zero to infinity (mass × time × volume-1)</measure>
+    <time_frame>Day 1 (few time points), Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 8, Day 9, Day 10 and Day 11</time_frame>
+    <description>to assess the PK properties of iptacopan after a single oral dose of 200 mg in participants with mild, moderate, or severe hepatic impairment as compared to matched healthy participants with normal hepatic function (Child-Pugh classification).</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">38</enrollment>
+  <condition>Hepatic Impairment</condition>
+  <arm_group>
+    <arm_group_label>Healthy participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Matched healthy participants with normal hepatic function</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild hepatic impairment patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mild hepatic impaired participants with Child-Pugh score of 5 to 6</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate hepatic impairment patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Moderate hepatic impaired participants with Child-Pugh score of 7 to 9</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe hepatic impairment patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Severe hepatic impaired participants with Child-Pugh score of 10 to 15</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Iptacopan</intervention_name>
+    <description>Single oral dose of iptacopan</description>
+    <arm_group_label>Healthy participants</arm_group_label>
+    <other_name>LNP023</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Iptacopan</intervention_name>
+    <description>Single oral dose of iptacopan</description>
+    <arm_group_label>Mild hepatic impairment patients</arm_group_label>
+    <other_name>LNP023</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Iptacopan</intervention_name>
+    <description>Single oral dose of Iptacopan</description>
+    <arm_group_label>Moderate hepatic impairment patients</arm_group_label>
+    <other_name>LNP023</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Iptacopan</intervention_name>
+    <description>Single oral dose of Iptacopan</description>
+    <arm_group_label>Severe hepatic impairment patients</arm_group_label>
+    <other_name>LNP023</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All participants:&#xD;
+&#xD;
+          1. Signed informed consent must be obtained prior to participation in the study.&#xD;
+&#xD;
+          2. Male participants and female participants of non-childbearing potential 18 to 75 years&#xD;
+             of age (inclusive)&#xD;
+&#xD;
+          3. Participants must weigh at least 55 kg to participate in the study and must have a&#xD;
+             body mass index (BMI) within the range of 18 to 35 kg/m2 for healthy participants. For&#xD;
+             hepatic impairment participants without overt ascites, the BMI should be within the&#xD;
+             range of 18 to 40 kg/m2. For hepatic impairment participants with overt ascites, the&#xD;
+             BMI should be within the range of 18 to 45 kg/m2.&#xD;
+&#xD;
+          4. Ability to communicate well with the investigator, to understand and comply with the&#xD;
+             requirements of the study.&#xD;
+&#xD;
+          5. Participant must be willing to remain in the clinical research unit as required by the&#xD;
+             protocol.&#xD;
+&#xD;
+             Group 1 (healthy participants)&#xD;
+&#xD;
+          6. Each participant must match in age (± 10 years), gender, weight (± 15%), and smoking&#xD;
+             status to an individual participant in Group 2, 3, or 4.&#xD;
+&#xD;
+          7. Participants must be in good health as determined by medical history, physical&#xD;
+             examination, vital signs, ECG, and laboratory tests&#xD;
+&#xD;
+               -  At Screening and Baseline, vital signs (systolic and diastolic blood pressure,&#xD;
+                  and pulse rate) will be assessed after sitting 3 minutes and must be within the&#xD;
+                  following ranges:&#xD;
+&#xD;
+               -  Oral body temperature, 35.0 to 37.5°C.&#xD;
+&#xD;
+               -  Systolic blood pressure, 89 to 139 mmHg.&#xD;
+&#xD;
+               -  Diastolic blood pressure, 50 to 89 mmHg.&#xD;
+&#xD;
+               -  Pulse rate, 50-100 bpm. Groups 2, 3, and 4 (participants with mild, moderate, or&#xD;
+                  severe hepatic impairment)&#xD;
+&#xD;
+          8. Vital signs will be assessed after sitting 3 minutes and must be within the following&#xD;
+             ranges:&#xD;
+&#xD;
+               -  Oral body temperature, 35.0 to 37.5°C.&#xD;
+&#xD;
+               -  Systolic blood pressure, 85 to 160 mmHg.&#xD;
+&#xD;
+               -  Diastolic blood pressure, 50 to 100 mmHg.&#xD;
+&#xD;
+               -  Pulse rate, 50-100 bpm.&#xD;
+&#xD;
+          9. A Child-Pugh score clinically determined and calculated as per the Child-Pugh&#xD;
+             classification (see Section 8.4.4, Table 8-2) in line with the hepatic impairment of&#xD;
+             each Group, i.e., Group 2, 3, and 4 (participants with mild, moderate, or severe&#xD;
+             hepatic impairment).&#xD;
+&#xD;
+               -  Group 2; mild; Child-Pugh score 5-6; Class A.&#xD;
+&#xD;
+               -  Group 3; moderate; Child-Pugh score 7-9; Class B.&#xD;
+&#xD;
+               -  Group 4; severe; Child-Pugh score 10-15; Class C.&#xD;
+&#xD;
+         10. Stable Child-Pugh status within 28 days prior to dosing per investigator's discretion&#xD;
+&#xD;
+         11. Participants with impaired hepatic function with other stable medical disorders such&#xD;
+             as controlled diabetes, hyperlipidemia, hypothyroidism, etc., may be eligible if they&#xD;
+             are considered appropriate for enrollment as determined by the investigator by past&#xD;
+             medical history, physical examination, vital signs, ECG, and laboratory tests at&#xD;
+             Screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        All participants&#xD;
+&#xD;
+          1. Use of other investigational drugs within the last 30 days or 5 half-lives prior to&#xD;
+             dosing, whichever is longer&#xD;
+&#xD;
+          2. History of hypersensitivity to the investigational compound/compound class or its&#xD;
+             excipients being used in this study.&#xD;
+&#xD;
+          3. Pregnant or nursing (lactating) women. Pregnancy is defined as the state of a female&#xD;
+             after conception and until termination of gestation, confirmed by a positive human&#xD;
+             chorionic gonadotropin (hCG) laboratory test.&#xD;
+&#xD;
+          4. Women of childbearing potential, defined as all women physiologically capable of&#xD;
+             becoming pregnant, unless they are using highly effective methods of contraception&#xD;
+             during dosing of study treatment. Women are considered post-menopausal and not of&#xD;
+             childbearing potential if they have had 12 months of natural (spontaneous) amenorrhea&#xD;
+             with an appropriate clinical profile (e.g., age-appropriate history of vasomotor&#xD;
+             symptoms) or have had surgical bilateral oophorectomy (with or without hysterectomy),&#xD;
+             total hysterectomy or bilateral tubal ligation at least 6 weeks prior to the first&#xD;
+             dosing. In the case of oophorectomy alone, only when the reproductive status of the&#xD;
+             woman has been confirmed by follow-up hormone level assessment is, she considered not&#xD;
+             of childbearing potential.&#xD;
+&#xD;
+          5. Known history of, or current clinically significant arrhythmias, history of prolonged&#xD;
+             QTcF interval or QTcF &gt; 450 msec (males) or QTcF &gt; 460 msec (females) at Screening in&#xD;
+             healthy participants and history of prolonged QTcF interval QTcF &gt; 470 msec (males) or&#xD;
+             QTcF &gt; 480 msec (females) at Screening in participants with hepatic impairment.&#xD;
+&#xD;
+          6. History of immunodeficiency diseases, or a positive human immunodeficiency virus (HIV)&#xD;
+             test result at Screening.&#xD;
+&#xD;
+          7. Acute hepatitis B or C infection at Screening or active infection requiring therapy&#xD;
+             that will not be completed before screening.&#xD;
+&#xD;
+          8. History or presence of malignancy of any organ system (other than localized basal cell&#xD;
+             carcinoma of the skin or in-situ cervical cancer), treated or untreated, within 3&#xD;
+             years of screening, regardless of whether there is evidence of local recurrence or&#xD;
+             metastases.&#xD;
+&#xD;
+          9. Donation or loss of 500 mL or more of blood within 8 weeks from Screening.&#xD;
+&#xD;
+         10. History of drug abuse within the last 12 months prior to dosing of study treatment or&#xD;
+             evidence of such abuse as indicated by the laboratory assays at Screening or&#xD;
+             Baseline..&#xD;
+&#xD;
+         11. History of unhealthy alcohol use within 12 months prior to dosing of study treatment,&#xD;
+             or evidence of such abuse as indicated by the laboratory assays conducted at Screening&#xD;
+             or Baseline. Excessive intake of alcohol defined as the regular consumption of more&#xD;
+             than 24 g of alcohol per day for men or 12 g of alcohol per day for women.&#xD;
+&#xD;
+         12. Any surgical or medical condition which might significantly alter the absorption,&#xD;
+             distribution, metabolism, or excretion of drugs (apart from cholecystectomy), or which&#xD;
+             may jeopardize the participants in case of participation in the study. The&#xD;
+             investigator should make this determination in consideration of the participant's&#xD;
+             medical history and/or clinical or laboratory evidence of any of the following:&#xD;
+&#xD;
+               -  Inflammatory bowel disease, peptic ulcers, gastrointestinal including rectal&#xD;
+                  bleeding within 3 months prior to Screening.&#xD;
+&#xD;
+               -  Major gastrointestinal tract surgery such as gastrectomy, gastroenterostomy, or&#xD;
+                  bowel resection.&#xD;
+&#xD;
+               -  Pancreatic injury or pancreatitis.&#xD;
+&#xD;
+         13. Unwillingness or inability (e.g., physical or cognitive) to comply with study&#xD;
+             procedures and medication administration (injections) and schedule.&#xD;
+&#xD;
+         14. History of invasive infections caused by meningococci.&#xD;
+&#xD;
+         15. Participant has clinical signs and symptoms consistent with COVID-19, e.g., fever, dry&#xD;
+             cough, dyspnea, sore throat, fatigue or confirmed infection by appropriate laboratory&#xD;
+             test within the last 4 weeks prior to Screening or on admission.&#xD;
+&#xD;
+         16. Participant who had severe course of COVID-19 (e.g., hospitalization and/or&#xD;
+             extracorporeal membrane oxygenation, mechanically ventilated).&#xD;
+&#xD;
+         17. COVID-19 vaccines given 2 weeks prior to dosing. Group 1 (healthy participants)&#xD;
+&#xD;
+         18. Significant illness which has not resolved within 2 weeks prior to dosing.&#xD;
+&#xD;
+         19. Any single parameter of ALT, AST, γ GT, or ALP exceeding 1.2 × upper limit of normal&#xD;
+             (ULN) or ≥ 1.5 × ULN total bilirubin OR any elevation above ULN of more than one&#xD;
+             parameter of ALT, AST, GGT, ALP, or serum bilirubin at Screening or Baseline.&#xD;
+&#xD;
+         20. Hemoglobin levels ≤ LLN at Screening or Baseline&#xD;
+&#xD;
+         21. Platelet count ≤ LLN at Screening or Baseline (unless deemed not clinically&#xD;
+             significant by the investigator).&#xD;
+&#xD;
+         22. Participants known to have Gilbert's syndrome.&#xD;
+&#xD;
+         23. Chronic hepatitis B or hepatitis C infection. A positive Hepatitis B surface antigen&#xD;
+             (HBsAg) test, or if standard local practice, a positive Hepatitis B Virus (HBV) core&#xD;
+             antigen test, is an exclusion. Participants with a positive Hepatitis C Virus (HCV) Ab&#xD;
+             test should have HCV RNA levels measured. Participants with positive (detectable) HCV&#xD;
+             RNA should be excluded.&#xD;
+&#xD;
+         24. Use of any prescription drugs or herbal supplements within the last 4 weeks of dosing&#xD;
+&#xD;
+         25. Use of any counter (OTC) medication, dietary supplement (vitamins included) within&#xD;
+             last 2 weeks prior to dosing. Limited use of acetaminophen is acceptable but must be&#xD;
+             documented in the Concomitant medications/Significant non-drug therapies page of the&#xD;
+             electronic Case Report Forms (eCRF).&#xD;
+&#xD;
+         26. Impaired renal function as indicated by clinically significantly abnormal creatinine&#xD;
+             or blood urea nitrogen (BUN) and/or urea values, or abnormal urinary constituents at&#xD;
+             Screening or Baseline.&#xD;
+&#xD;
+             Groups 2 and 3 (participants with mild or moderate hepatic impairment)&#xD;
+&#xD;
+         27. Participants with hepatic impairment with abnormal laboratory values for the following&#xD;
+             parameters at Screening or Baseline:&#xD;
+&#xD;
+               -  Hemoglobin &lt; 9 g/dL.&#xD;
+&#xD;
+               -  Platelet count &lt; 30 × 109/L.&#xD;
+&#xD;
+               -  White blood cell count &lt; 2.5 × 109/L.&#xD;
+&#xD;
+               -  Absolute neutrophil count &lt; 1.5 × 109/L.&#xD;
+&#xD;
+               -  Lymphocytes &lt; 0.8 × 109/L.&#xD;
+&#xD;
+               -  Total bilirubin &gt; 8 mg/dL.&#xD;
+&#xD;
+               -  Serum amylase &gt; 5 × ULN with no abdominal symptoms (&gt;2 x ULN with abdominal&#xD;
+                  symptoms)&#xD;
+&#xD;
+               -  International standardized ratio (INR) &gt; 2.3.&#xD;
+&#xD;
+               -  Corrected serum calcium &lt; 8.6 or &gt; 10.2 mg/dL.&#xD;
+&#xD;
+         28. Severe complications of liver disease within the preceding 3 months prior to dosing.&#xD;
+&#xD;
+         29. Hospitalization due to liver disease within the preceding 1 month prior to dosing.&#xD;
+&#xD;
+         30. Participants has received liver transplant at any time in the past and is on&#xD;
+             immunosuppressant therapy.&#xD;
+&#xD;
+         31. Participants requiring paracentesis more than every 3 weeks for the management of&#xD;
+             ascites are excluded. Participants who are receiving diuretics to manage ascites can&#xD;
+             be enrolled and will be assigned the Child-Pugh score for the degree of ascites while&#xD;
+             on diuretic treatment. The diuretic dose must have been stable for 7 days prior to&#xD;
+             dosing.&#xD;
+&#xD;
+         32. Transjugular intrahepatic portosystemic shunt and/or have undergone portacaval&#xD;
+             shunting.&#xD;
+&#xD;
+         33. Clinically significant abnormal findings in physical examination, ECG, or laboratory&#xD;
+             evaluations, not consistent with known clinical disease. Participants having&#xD;
+             myocardial infarction ≥ 5 years ago are eligible to participate.&#xD;
+&#xD;
+         34. Use of any prescription or non-prescription medication, dietary supplements, or&#xD;
+             vitamins that have the potential to interact with iptacopan during the study from&#xD;
+             dosing until the End of Study visit (Day 11) has been conducted. Participants with&#xD;
+             hepatic impairment should be excluded if there have been changes in dose regimen of&#xD;
+             medically required medication within 2 weeks prior to Screening or if there has been a&#xD;
+             significant change or addition to their routine medication (prescribed) within 1 month&#xD;
+             prior to drug administration. Minor changes to medication that require frequent dose&#xD;
+             adjustments, such as insulin or analgesia, can be made up to 2 weeks prior to drug&#xD;
+             administration, as agreed between the Investigator and Novartis.&#xD;
+&#xD;
+         35. Presence of moderate to severe impaired renal function as indicated by any or all of&#xD;
+             the following criteria:&#xD;
+&#xD;
+               -  Creatinine clearance &lt; 45 mL/min as calculated using the Cockcroft-Gault formula&#xD;
+                  or eGFR &lt; 45 mL/min/1.73 m2 based on MDRD calculation.&#xD;
+&#xD;
+               -  Serum creatinine &gt; 1.5 × ULN.&#xD;
+&#xD;
+         36. Encephalopathy Grade 3 or worse within 28 days of planned dosing.&#xD;
+&#xD;
+         37. Primary biliary cholangitis or biliary obstruction.&#xD;
+&#xD;
+         38. History of gastrointestinal bleeding requiring hospitalization within the past 3&#xD;
+             months prior to Screening.&#xD;
+&#xD;
+         39. Clinically significant abnormal findings in physical examination or clinical&#xD;
+             laboratory evaluations not consistent with known liver disease.&#xD;
+&#xD;
+         40. Clinically significant illness within 2 weeks prior to initial dosing that may&#xD;
+             jeopardize safety of the study participant and/or alter the study results as judged by&#xD;
+             the investigator&#xD;
+&#xD;
+             Group 4 (participants with severe hepatic impairment)&#xD;
+&#xD;
+         41. Participants with hepatic impairment with abnormal laboratory values for the following&#xD;
+             parameters at Screening or Baseline:&#xD;
+&#xD;
+               -  Hemoglobin &lt; 8.5 g/dL.&#xD;
+&#xD;
+               -  Platelet count &lt; 30 × 109/L.&#xD;
+&#xD;
+               -  White blood cell count &lt; 2.5 × 109/L.&#xD;
+&#xD;
+               -  Total bilirubin &gt; 8 mg/dL.&#xD;
+&#xD;
+               -  Serum amylase &gt; 5 × ULN with no abdominal symptoms (&gt;2 x ULN with abdominal&#xD;
+                  symptoms).&#xD;
+&#xD;
+               -  International standardized ratio (INR) &gt; 2.3.&#xD;
+&#xD;
+         42. Severe complications of liver disease within the preceding 3 months prior to dosing.&#xD;
+&#xD;
+         43. Hospitalization due to liver disease within the preceding 1 month prior to dosing.&#xD;
+&#xD;
+         44. Participant has received liver transplant at any time in the past and is on&#xD;
+             immunosuppressant therapy.&#xD;
+&#xD;
+         45. Participants requiring paracentesis more than every 3 weeks for the management of&#xD;
+             ascites are excluded. Participants who are receiving diuretics to manage ascites can&#xD;
+             be enrolled and will be assigned the Child-Pugh score for the degree of ascites while&#xD;
+             on diuretic treatment. The diuretic dose must have been stable for 7 days prior to&#xD;
+             dosing.&#xD;
+&#xD;
+         46. Transjugular intrahepatic portosystemic shunt and/or have undergone portacaval&#xD;
+             shunting.&#xD;
+&#xD;
+         47. Clinically significant abnormal findings in physical examination, ECG, or laboratory&#xD;
+             evaluations, not consistent with known clinical disease. Participants having&#xD;
+             myocardial infarction ≥ 5 years ago are eligible to participate.&#xD;
+&#xD;
+         48. Use of any prescription medications that have the potential to interact with iptacopan&#xD;
+             during the study from dosing until the EOS visit (Day 11) has been conducted.&#xD;
+             Participants with hepatic impairment should be excluded if there have been changes in&#xD;
+             the dose or schedule of medically-required medication within 2 weeks prior to&#xD;
+             Screening or if there has been a change or addition to their routine medication&#xD;
+             (prescribed) within 1 month prior to drug administration, except for changes to&#xD;
+             medication that require frequent dose adjustments, such as insulin or analgesia, which&#xD;
+             can be made within 2 weeks prior to drug administration, as agreed between the&#xD;
+             Investigator and Novartis.&#xD;
+&#xD;
+         49. Presence of moderate to severe impaired renal function as indicated by any or all of&#xD;
+             the following criteria:&#xD;
+&#xD;
+               -  Creatinine clearance &lt; 45 mL/min as calculated using the Cockroft-Gault formula&#xD;
+                  or eGFR &lt; 45 mL/min/1.73 m2 based on MDRD calculation.&#xD;
+&#xD;
+               -  Serum creatinine &gt; 1.5 × ULN.&#xD;
+&#xD;
+         50. Encephalopathy Grade 3 or worse within 28 days of planned dosing.&#xD;
+&#xD;
+         51. Primary biliary cholangitis or biliary obstruction.&#xD;
+&#xD;
+         52. History of gastrointestinal bleeding requiring hospitalization within the past 3&#xD;
+             months prior to Screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>October 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>September 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>LNP023</keyword>
+  <keyword>iptacopan</keyword>
+  <keyword>hepatic impairment</keyword>
+  <keyword>single-dose</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

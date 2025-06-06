@@ -1,0 +1,300 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079334</url>
+  </required_header>
+  <id_info>
+    <org_study_id>201202</org_study_id>
+    <secondary_id>U01CA232829</secondary_id>
+    <nct_id>NCT05079334</nct_id>
+  </id_info>
+  <brief_title>Family History and Cancer Risk Study</brief_title>
+  <acronym>FOREST</acronym>
+  <official_title>Improving Identification and Healthcare for Patients With Inherited Cancer Syndromes: Evidence-based EMR Implementation Using a Web-based Computer Platform</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigators from Vanderbilt University Medical Center (VUMC), Duke University, and Meharry&#xD;
+      Medical College (MMC) are collaborating on a family health history study to deploy a family&#xD;
+      health history (FHH) platform, MeTree. Recruited participants will complete surveys, the&#xD;
+      MeTree questionnaire, and MeTree will determine the participant's cancer risk based on&#xD;
+      current guidelines. The study team will offer genetic counseling to high-risk participants.&#xD;
+      Investigators will track participant outcomes and behaviors from the use of MeTree to&#xD;
+      determine the efficiency of the use of MeTree compared to completion of pedigrees in clinic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      From the earliest recognition of cancer-prone families over 100 years ago, clinicians have&#xD;
+      depended on the family health history (FHH) to identify and treat patients and family members&#xD;
+      who may have a cancer family syndrome. Once identified, patients can be offered lifesaving,&#xD;
+      evidence-based management strategies for many of these conditions. To fully realize the&#xD;
+      benefits of genetic healthcare, however, at risk individuals must be recognized, offered&#xD;
+      genetic counseling and testing, and then referred for specialized therapy or enhanced&#xD;
+      screening. While this is a promising time for these patients and families, there are&#xD;
+      significant challenges to implement a modern and efficient care delivery model across the&#xD;
+      many patients, provider, and health system stakeholders.&#xD;
+&#xD;
+      The practice of genetic medicine is changing as genetic discoveries are translated into new&#xD;
+      tests for an increasing number of health indications. In fact, the prevalence of high-risk&#xD;
+      individuals who are at risk for hereditary cancer has been rising due to new testing&#xD;
+      strategies. This has placed enormous pressure on the hospitals and clinics providing care for&#xD;
+      high-risk patients. Coupled with the healthcare systems need for greater efficiency, the&#xD;
+      traditional genetic clinic-based practice has become untenable. Barriers and challenges&#xD;
+      include low numbers of trained genetic workforce, lack of integrated FHH tools for patients&#xD;
+      and physicians, and long wait times for available clinic appointments. Further, while cancer&#xD;
+      syndromes are seen across all groups, gaps in care exist as underserved populations are often&#xD;
+      not recognized and referred for care.&#xD;
+&#xD;
+      Investigators propose that these barriers can be overcome by using innovations in informatics&#xD;
+      and telecommunications to develop a sustainable and scalable genomic care delivery model that&#xD;
+      can be replicated by other health systems. Such a program would need to integrate FHH&#xD;
+      applications that collect and analyze family data, SMART-on-FHIR capabilities that can link&#xD;
+      third party apps with the electronic medical record (EMR), and clinical decision support&#xD;
+      modules to assist providers and patients. MeTree is one such system with all these&#xD;
+      capabilities -- a validated and flexible patient-facing FHH collection tool that supports&#xD;
+      SMART-on-FHIR technology. This platform was the backbone of the Implementing Genomics in&#xD;
+      Practice (IGNITE) network's FHH clinical utility study that showed clear improvements in the&#xD;
+      quality and quantity of FHH collected in 5 geographically diverse primary care practices.&#xD;
+      Furthermore, MeTree was highly acceptable to patients and providers, and was able to properly&#xD;
+      identify participants at risk for 23 hereditary cancer syndromes for genetic counseling&#xD;
+      referral.&#xD;
+&#xD;
+      Our re-submission for this Beau Biden Moonshot grant opportunity is based on the hypothesis&#xD;
+      that an implementation science approach will improve the identification and management of&#xD;
+      high-risk patients from diverse clinical setting by systematically integrating FHH driven&#xD;
+      evidence-based guidelines into the EMR. Investigators plan to improve ascertainment of&#xD;
+      high-risk patients by imbedding MeTree in the workflow of primary and cancer care clinics.&#xD;
+      This will improve identification for genetic counseling, facilitate patient education about&#xD;
+      genetic testing, and risk management for at risk patients, as well as facilitate engagement&#xD;
+      of patients, family members, and providers with telegenetic and telephone counseling options.&#xD;
+      This collaborative effort from genetic, genomic, biomedical informatic, and implementation&#xD;
+      science researchers at Vanderbilt University Medical Center (VUMC), Meharry Medical Center&#xD;
+      (MMC) and Duke University is highly responsive to the five required elements in&#xD;
+      RFA-CA-19-017. The proposal has the following specific aims:&#xD;
+&#xD;
+      SA1. Deploy a care delivery model that will facilitate systematic risk assessment for&#xD;
+      hereditary cancers in diverse clinical environments.&#xD;
+&#xD;
+        -  4000 participants will be enrolled and randomized to usual care or MeTree FHH risk&#xD;
+           assessment&#xD;
+&#xD;
+        -  Deploy in academic medical center (VUMC) and a medical center (MMC) that serves&#xD;
+           underserved populations&#xD;
+&#xD;
+        -  Assess participants perceptions using online survey and qualitative semi-structured&#xD;
+           interviews&#xD;
+&#xD;
+      SA2. Improve access to genetic healthcare providers for participants at risk for hereditary&#xD;
+      cancer syndromes.&#xD;
+&#xD;
+        -  300 high risk participants in the VUMC Hereditary Cancer Clinic will be enrolled and&#xD;
+           randomized&#xD;
+&#xD;
+        -  Extend clinic capacity by lessening the need for in-clinic family history collection and&#xD;
+           basic counseling&#xD;
+&#xD;
+        -  Expand reach of clinic by using telephone and video genetic counseling, referral to&#xD;
+           specialists&#xD;
+&#xD;
+      SA3. Explore the feasibility of our care delivery model to improve family engagement for&#xD;
+      cancer risk assessment&#xD;
+&#xD;
+        -  Participants extend invitations to MeTree's family resource center to share results of&#xD;
+           genetic tests&#xD;
+&#xD;
+        -  Assist with education and referral needed for cascade testing for pathogenic variants&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2022</start_date>
+  <completion_date type="Anticipated">September 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Participants with MeTree recommendations and clinic visits with Genetic Counselors are compared to visits without MeTree recommendations to determine if MeTree improves quality and time of visit.</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Use of MeTree Questionnaire</measure>
+    <time_frame>3 years</time_frame>
+    <description>Investigators will measure the number of participants enrolled by the number of participants who complete the MeTree questionnaire. Participants will receive regular reminders to complete surveys and have additional methods and support complete the surveys in a timely manner.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>High-risk invitation to HCC</measure>
+    <time_frame>4 years</time_frame>
+    <description>From the number of participants that complete the MeTree questionnaire, investigators anticipate 2-5% of participants will be considered &quot;high-risk&quot; for certain conditions listed in MeTree. Investigators will invite the high-risk participants to the Hereditary Cancer Clinic (HCC) or other clinics for genetic counseling for additional information on their cancer risk. Accepted invitations and attendance of these visits will be measured.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">3500</enrollment>
+  <condition>Cancer-related Problem/Condition</condition>
+  <condition>Family Characteristics</condition>
+  <arm_group>
+    <arm_group_label>High Risk / MeTree</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>High risk for hereditary cancer and completes the MeTree questionnaire</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>MeTree Questionnaire</intervention_name>
+    <description>MeTree is a patient driven risk assessment program with Clinical Decision Support (CDS) that enables collection of a three plus generation family health history (FHH) on 128 conditions. CDS is provided in a report with a pedigree and tailored evidence-based guidelines. While patient drive, MeTree also includes a provider-facing report with additional references. These reports promote engagement by both patients and providers and enhance shared decision-making.&#xD;
+MeTree first generates information imported from the participant's EHR record. These data include basic demographic information, any recent lab results, and any listed diseases or conditions from the EHR. Next, MeTree gives the participant an opportunity to fill out a family history tree. The more information the participant provides on their own health and their family member's health, the better MeTree can provide recommendations from current literature.</description>
+    <arm_group_label>High Risk / MeTree</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Receiving care at sites included in study&#xD;
+&#xD;
+          -  Able to read and communicate in English&#xD;
+&#xD;
+          -  Willing to use the Internet&#xD;
+&#xD;
+          -  Currently enrolled in the patient portal, or willing to enroll (VUMC-specific)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-study site patient&#xD;
+&#xD;
+          -  Diagnosed with a terminal illness&#xD;
+&#xD;
+          -  Unable to speak/read English&#xD;
+&#xD;
+          -  Unable/unwilling to use the Internet&#xD;
+&#xD;
+          -  Previous genetic testing and/or counseling from the VUMC Hereditary Cancer Clinic&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Georgia Wiesner, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Georgia Wiesner, MD</last_name>
+    <phone>615-343-7400</phone>
+    <email>georgia.wiesner@vumc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sarah Bland, MPH</last_name>
+    <phone>615-875-7901</phone>
+    <email>sarah.bland@vumc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Meharry Medical College</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dana R Marshall, PhD</last_name>
+      <phone>615-327-6549</phone>
+      <email>dmarshall@mmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Clasherrol Edwards, MD</last_name>
+      <email>cedwards@mmc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sidd Pratap, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Raj Singh, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Georgia Wiesner, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Georgia Wiesner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>September 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt University Medical Center</investigator_affiliation>
+    <investigator_full_name>Georgia Wiesner</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 14, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/34/NCT05079334/Prot_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 25, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/34/NCT05079334/ICF_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

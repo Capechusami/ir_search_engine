@@ -1,0 +1,346 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620173</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL79107.000.22</org_study_id>
+    <nct_id>NCT05620173</nct_id>
+  </id_info>
+  <brief_title>Validation of New Virtual Reality Treatment for Children With Lazy Eye Using the Vedea Amblyopia Therapy (VAT)</brief_title>
+  <acronym>VAT</acronym>
+  <official_title>'Validation and Development of New Dichoptic VR-gaming Method to Treat Childhood Amblyopia; Vedea Amblyopia Therapy (VAT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vedea Healthware BV</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Health Holland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Oogziekenhuis Rotterdam</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rotterdams Oogheelkundig Instituut</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vedea Healthware BV</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this clinical study is to validate the effectiveness of the Vedea Amblyopia&#xD;
+      Therapy (VAT) as a treatment for children with lazy eye.&#xD;
+&#xD;
+      The main question it aims to answer is to prove that the VAT is as effective or more&#xD;
+      effective than the current gold standard for treating children with lazy eye. This is&#xD;
+      occlusion therapy by patching the dominant eye.&#xD;
+&#xD;
+      Participants will play VR-games specifically designed for children with lazy eye for 30&#xD;
+      minutes per day, 5 days per week for 16 weeks. This group of children will be compared to&#xD;
+      children that undergo regular occlusion therapy to see how both treatments options compare.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 22, 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in Visual Acuity measured in LogMAR lines</measure>
+    <time_frame>Each clinical visit (approximately 1 month)</time_frame>
+    <description>The LogMAR method is a validated and often used method of measuring visual acuity in children (with or without amblyopia). Possible scores range from 0 (perfect vision) to 1.0 or higher as really bad vision.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment adherence to the VAT defined as time played per day</measure>
+    <time_frame>Daily registration of time played up to week 16</time_frame>
+    <description>Adherence will be calculated using the following framework:&#xD;
+30 minutes per day = excellent treatment adherence&#xD;
+20-29 minutes per day = good treatment adherence&#xD;
+15-19 minutes per day = average treatment adherence ≤ 14 minutes per day = bad treatment adherence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change in visual acuity outcomes</measure>
+    <time_frame>Each clinical visit (approximately 1 month)</time_frame>
+    <description>Rate of change is defined as the number of weeks it takes to reach the highest visual acuity score.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change on Disease specific quality of life measured with the CAT-QoL</measure>
+    <time_frame>Baseline and at crossover (16 weeks after baseline)</time_frame>
+    <description>The CAT-QoL is a disease-specific health related quality of life (HRQoL) measure for amblyopia in children between 4 - 7 years of age. It has eight items (questions), which encompass physical, psychological and social aspects of daily life. Each item has three response levels.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>System Usability using the System Usability Scale (SUS)</measure>
+    <time_frame>At crossover (after 16 weeks) for the experimental group and at the end of crossover (after 32 weeks) for the active comparator group</time_frame>
+    <description>The System Usability Scale (SUS) provides a reliable tool for measuring the usability of a system. It consists of a 10 item questionnaire with five response options for respondents; from Strongly agree to Strongly disagree.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in stereopsis measured in seconds of arch</measure>
+    <time_frame>Each clinical visit (approximately 1 month)</time_frame>
+    <description>Stereopsis is calculated by taking the least difference in seconds of arc that the individual can perceive binocularly.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in the prism cover test using angle of deviation</measure>
+    <time_frame>Each clinical visit (approximately 1 month)</time_frame>
+    <description>The prism cover test (PCT) is an objective measurement and the gold standard in measuring strabismus, i.e. ocular misalignment, or a deviation of the eye. It is used by ophthalmologists and orthoptists in order to measure the vertical and horizontal deviation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in suppression/fusion measured in degrees</measure>
+    <time_frame>Each clinical visit (approximately 1 month)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Diplopia using a standardized questionnaire</measure>
+    <time_frame>Each clinical visit (approximately 1 month)</time_frame>
+    <description>The questionnaire is administered to the participants and their parents to assess the presence and frequency of diplopia</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">74</enrollment>
+  <condition>Amblyopia, Anisometropic</condition>
+  <condition>Amblyopia Strabismic</condition>
+  <condition>Amblyopia</condition>
+  <arm_group>
+    <arm_group_label>Vedea Amblyopia Therapy (VAT) then Vedea Amblyopia Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Children in this intervention arm will use the VAT for 16 weeks.&#xD;
+After the initial 16 weeks of treatment these children will be allowed to use the VAT for another 16 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Occlusion therapy then Vedea Amblyopia Therapy (VAT)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Children in this intervention arm will adhere to a 'care as usual' regimen consisting of occlusion therapy as prescribed by their health care provider. They will do so for 16 weeks.&#xD;
+After the initial 16 weeks of treatment these children will crossover into the experimental arm to examine if they are still responsive to the VAT after already completing 16 weeks of traditional treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Vedea Amblyopia Therapy (VAT)</intervention_name>
+    <description>Children will use the VAT for 5 days per week, 30 minutes per day. They play VR-games using a VR-headset, which content is optimized for dichoptic training.</description>
+    <arm_group_label>Occlusion therapy then Vedea Amblyopia Therapy (VAT)</arm_group_label>
+    <arm_group_label>Vedea Amblyopia Therapy (VAT) then Vedea Amblyopia Therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Occlusion therapy</intervention_name>
+    <description>Children are given an eye patch to occlude their dominant eye with for a prescribed number of hours per day. This may typically range anywhere between 2-8 hours per day, depending on the severity of the amblyopia.</description>
+    <arm_group_label>Occlusion therapy then Vedea Amblyopia Therapy (VAT)</arm_group_label>
+    <other_name>Patching</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  wearing the full corrected refraction for ≥14 weeks to adapt to the glasses&#xD;
+&#xD;
+          -  diagnosed with an unilateral anisometropic, strabismic and/or deprivation amblyopia.&#xD;
+&#xD;
+        Amblyopia was defined as an intraocular difference (IOD) in visual acuity (VA) of 0.2 log&#xD;
+        MAR (2 lines) or more. Angle of strabismus ≤ 10 prism diopters at near and distance&#xD;
+        fixation. Current clear media (in case of deprivation amblyopia after successful surgery).&#xD;
+&#xD;
+          -  currently under treatment or starting treatment for unilateral amblyopia&#xD;
+&#xD;
+          -  participants must have easy access to an Android device equal to or higher than a&#xD;
+             Samsung Galaxy S8&#xD;
+&#xD;
+          -  written informed consent by parents or legal guardians&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  current treatment with atropine penalisation&#xD;
+&#xD;
+          -  documented history of severe negative side effects that occur with exposure to VR&#xD;
+             usage (eg. seizures or epileptic spasms)&#xD;
+&#xD;
+          -  photosensitivity&#xD;
+&#xD;
+          -  no developmental delay&#xD;
+&#xD;
+          -  coexisting ocular pathology or systemic diseases&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Martha Tjon-Fo-Sang, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Rotterdam Eye Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Teun Aalbers, PhD</last_name>
+    <phone>+31621838699</phone>
+    <email>teun.aalbers@vedea.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Jansen</last_name>
+    <phone>+31611763232</phone>
+    <email>daniel.jansen@vedea.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Rotterdam Eye Hospital</name>
+      <address>
+        <city>Rotterdam</city>
+        <state>Zuid Holland</state>
+        <zip>3011 BH</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martha Tjon-Fo-Sang, PhD</last_name>
+      <phone>+31 (0)10 40 17 777</phone>
+      <email>M.Tjon@oogziekenhuis.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Susan Marinissen</last_name>
+      <phone>+31 (0)10 40 23 449</phone>
+      <email>S.Marinissen@oogziekenhuis.nl</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <reference>
+    <citation>Akizuki H, Uno A, Arai K, Morioka S, Ohyama S, Nishiike S, Tamura K, Takeda N. Effects of immersion in virtual reality on postural control. Neurosci Lett. 2005 Apr 29;379(1):23-6. doi: 10.1016/j.neulet.2004.12.041. Epub 2005 Jan 8.</citation>
+    <PMID>15814192</PMID>
+  </reference>
+  <reference>
+    <citation>Bailey IL, Lovie-Kitchin JE. Visual acuity testing. From the laboratory to the clinic. Vision Res. 2013 Sep 20;90:2-9. doi: 10.1016/j.visres.2013.05.004. Epub 2013 May 17.</citation>
+    <PMID>23685164</PMID>
+  </reference>
+  <reference>
+    <citation>Banks MS, Hoffman DM, Kim J, Wetzstein G. 3D Displays. Annu Rev Vis Sci. 2016 Oct 14;2:397-435. doi: 10.1146/annurev-vision-082114-035800. Epub 2016 Aug 15.</citation>
+    <PMID>28532351</PMID>
+  </reference>
+  <reference>
+    <citation>Birch EE, Li SL, Jost RM, Morale SE, De La Cruz A, Stager D Jr, Dao L, Stager DR Sr. Binocular iPad treatment for amblyopia in preschool children. J AAPOS. 2015 Feb;19(1):6-11. doi: 10.1016/j.jaapos.2014.09.009.</citation>
+    <PMID>25727578</PMID>
+  </reference>
+  <reference>
+    <citation>Black JM, Hess RF, Cooperstock JR, To L, Thompson B. The measurement and treatment of suppression in amblyopia. J Vis Exp. 2012 Dec 14;(70):e3927. doi: 10.3791/3927.</citation>
+    <PMID>23271400</PMID>
+  </reference>
+  <reference>
+    <citation>Coco-Martin MB, Pinero DP, Leal-Vega L, Hernandez-Rodriguez CJ, Adiego J, Molina-Martin A, de Fez D, Arenillas JF. The Potential of Virtual Reality for Inducing Neuroplasticity in Children with Amblyopia. J Ophthalmol. 2020 Jun 29;2020:7067846. doi: 10.1155/2020/7067846. eCollection 2020.</citation>
+    <PMID>32676202</PMID>
+  </reference>
+  <reference>
+    <citation>Feng J, Spence I, Pratt J. Playing an action video game reduces gender differences in spatial cognition. Psychol Sci. 2007 Oct;18(10):850-5. doi: 10.1111/j.1467-9280.2007.01990.x.</citation>
+    <PMID>17894600</PMID>
+  </reference>
+  <reference>
+    <citation>Foss AJ. Use of video games for the treatment of amblyopia. Curr Opin Ophthalmol. 2017 May;28(3):276-281. doi: 10.1097/ICU.0000000000000358.</citation>
+    <PMID>28141763</PMID>
+  </reference>
+  <reference>
+    <citation>Gao TY, Guo CX, Babu RJ, Black JM, Bobier WR, Chakraborty A, Dai S, Hess RF, Jenkins M, Jiang Y, Kearns LS, Kowal L, Lam CSY, Pang PCK, Parag V, Pieri R, Raveendren RN, South J, Staffieri SE, Wadham A, Walker N, Thompson B; BRAVO Study Team. Effectiveness of a Binocular Video Game vs Placebo Video Game for Improving Visual Functions in Older Children, Teenagers, and Adults With Amblyopia: A Randomized Clinical Trial. JAMA Ophthalmol. 2018 Feb 1;136(2):172-181. doi: 10.1001/jamaophthalmol.2017.6090.</citation>
+    <PMID>29302694</PMID>
+  </reference>
+  <reference>
+    <citation>Green CS, Bavelier D. Effect of action video games on the spatial distribution of visuospatial attention. J Exp Psychol Hum Percept Perform. 2006 Dec;32(6):1465-78. doi: 10.1037/0096-1523.32.6.1465.</citation>
+    <PMID>17154785</PMID>
+  </reference>
+  <reference>
+    <citation>Herbison N, Cobb S, Gregson R, Ash I, Eastgate R, Purdy J, Hepburn T, MacKeith D, Foss A; I-BiT study group. Interactive binocular treatment (I-BiT) for amblyopia: results of a pilot study of 3D shutter glasses system. Eye (Lond). 2013 Sep;27(9):1077-83. doi: 10.1038/eye.2013.113. Epub 2013 Jun 28.</citation>
+    <PMID>23807383</PMID>
+  </reference>
+  <reference>
+    <citation>Hess RF, Babu RJ, Clavagnier S, Black J, Bobier W, Thompson B. The iPod binocular home-based treatment for amblyopia in adults: efficacy and compliance. Clin Exp Optom. 2014 Sep;97(5):389-98. doi: 10.1111/cxo.12192. Epub 2014 Aug 18.</citation>
+    <PMID>25131694</PMID>
+  </reference>
+  <reference>
+    <citation>Holmes JM, Manh VM, Lazar EL, Beck RW, Birch EE, Kraker RT, Crouch ER, Erzurum SA, Khuddus N, Summers AI, Wallace DK; Pediatric Eye Disease Investigator Group. Effect of a Binocular iPad Game vs Part-time Patching in Children Aged 5 to 12 Years With Amblyopia: A Randomized Clinical Trial. JAMA Ophthalmol. 2016 Dec 1;134(12):1391-1400. doi: 10.1001/jamaophthalmol.2016.4262.</citation>
+    <PMID>27812703</PMID>
+  </reference>
+  <reference>
+    <citation>Kelly KR, Jost RM, Dao L, Beauchamp CL, Leffler JN, Birch EE. Binocular iPad Game vs Patching for Treatment of Amblyopia in Children: A Randomized Clinical Trial. JAMA Ophthalmol. 2016 Dec 1;134(12):1402-1408. doi: 10.1001/jamaophthalmol.2016.4224.</citation>
+    <PMID>27832248</PMID>
+  </reference>
+  <reference>
+    <citation>Levi DM. Rethinking amblyopia 2020. Vision Res. 2020 Nov;176:118-129. doi: 10.1016/j.visres.2020.07.014. Epub 2020 Aug 28.</citation>
+    <PMID>32866759</PMID>
+  </reference>
+  <reference>
+    <citation>Li R, Polat U, Makous W, Bavelier D. Enhancing the contrast sensitivity function through action video game training. Nat Neurosci. 2009 May;12(5):549-51. doi: 10.1038/nn.2296. Epub 2009 Mar 29.</citation>
+    <PMID>19330003</PMID>
+  </reference>
+  <reference>
+    <citation>Li SL, Jost RM, Morale SE, Stager DR, Dao L, Stager D, Birch EE. A binocular iPad treatment for amblyopic children. Eye (Lond). 2014 Oct;28(10):1246-53. doi: 10.1038/eye.2014.165. Epub 2014 Jul 25.</citation>
+    <PMID>25060850</PMID>
+  </reference>
+  <reference>
+    <citation>Li SL, Jost RM, Morale SE, De La Cruz A, Dao L, Stager D Jr, Birch EE. Binocular iPad treatment of amblyopia for lasting improvement of visual acuity. JAMA Ophthalmol. 2015 Apr;133(4):479-80. doi: 10.1001/jamaophthalmol.2014.5515. No abstract available.</citation>
+    <PMID>25611129</PMID>
+  </reference>
+  <reference>
+    <citation>Manh VM, Holmes JM, Lazar EL, Kraker RT, Wallace DK, Kulp MT, Galvin JA, Shah BK, Davis PL; Pediatric Eye Disease Investigator Group. A Randomized Trial of a Binocular iPad Game Versus Part-Time Patching in Children Aged 13 to 16 Years With Amblyopia. Am J Ophthalmol. 2018 Feb;186:104-115. doi: 10.1016/j.ajo.2017.11.017. Epub 2017 Nov 28.</citation>
+    <PMID>29196184</PMID>
+  </reference>
+  <reference>
+    <citation>Pang PCK, Lam CSY, Hess RF, Thompson B. Effect of dichoptic video game treatment on mild amblyopia - a pilot study. Acta Ophthalmol. 2021 May;99(3):e423-e432. doi: 10.1111/aos.14595. Epub 2020 Sep 30.</citation>
+    <PMID>32996689</PMID>
+  </reference>
+  <reference>
+    <citation>Tailor V, Ludden S, Bossi M, Bunce C, Greenwood JA, Dahlmann-Noor A. Binocular versus standard occlusion or blurring treatment for unilateral amblyopia in children aged three to eight years. Cochrane Database Syst Rev. 2022 Feb 7;2(2):CD011347. doi: 10.1002/14651858.CD011347.pub3.</citation>
+    <PMID>35129211</PMID>
+  </reference>
+  <reference>
+    <citation>Tychsen L, Foeller P. Effects of Immersive Virtual Reality Headset Viewing on Young Children: Visuomotor Function, Postural Stability, and Motion Sickness. Am J Ophthalmol. 2020 Jan;209:151-159. doi: 10.1016/j.ajo.2019.07.020. Epub 2019 Aug 1.</citation>
+    <PMID>31377280</PMID>
+  </reference>
+  <reference>
+    <citation>Tychsen L, Thio LL. Concern of Photosensitive Seizures Evoked by 3D Video Displays or Virtual Reality Headsets in Children: Current Perspective. Eye Brain. 2020 Feb 11;12:45-48. doi: 10.2147/EB.S233195. eCollection 2020.</citation>
+    <PMID>32104130</PMID>
+  </reference>
+  <reference>
+    <citation>Xiao S, Angjeli E, Wu HC, Gaier ED, Gomez S, Travers DA, Binenbaum G, Langer R, Hunter DG, Repka MX; Luminopia Pivotal Trial Group. Randomized Controlled Trial of a Dichoptic Digital Therapeutic for Amblyopia. Ophthalmology. 2022 Jan;129(1):77-85. doi: 10.1016/j.ophtha.2021.09.001. Epub 2021 Sep 14. Erratum In: Ophthalmology. 2022 May;129(5):593.</citation>
+    <PMID>34534556</PMID>
+  </reference>
+  <reference>
+    <citation>Ziak P, Holm A, Halicka J, Mojzis P, Pinero DP. Amblyopia treatment of adults with dichoptic training using the virtual reality oculus rift head mounted display: preliminary results. BMC Ophthalmol. 2017 Jun 28;17(1):105. doi: 10.1186/s12886-017-0501-8.</citation>
+    <PMID>28659140</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>October 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>May 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>RCT</keyword>
+  <keyword>children</keyword>
+  <keyword>Virtual Reality</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Amblyopia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

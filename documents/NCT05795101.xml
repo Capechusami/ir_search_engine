@@ -1,0 +1,457 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795101</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-544</org_study_id>
+    <nct_id>NCT05795101</nct_id>
+  </id_info>
+  <brief_title>TRUDI: TDXD+Durva in HER2+/Low IBC</brief_title>
+  <acronym>TRUDI</acronym>
+  <official_title>TRUDI: A Phase II Study of Neoadjuvant Trastuzumab Deruxtecan and Durvalumab for Stage III, HER2-expressing Inflammatory Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Filipa Lynce, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Daiichi Sankyo, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test the safety and effectiveness of an investigational drug&#xD;
+      combination (trastuzumab deruxtecan and durvalumab) to learn whether the intervention works&#xD;
+      in treating Human Epidermal growth factor Receptor-2 (HER2)-expressing inflammatory breast&#xD;
+      cancer.&#xD;
+&#xD;
+      The names of the study drugs involved in this study are:&#xD;
+&#xD;
+        -  Trastuzumab deruxtecan&#xD;
+&#xD;
+        -  Durvalumab&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 2 open label study of neoadjuvant trastuzumab deruxtecan plus durvalumab for&#xD;
+      patients with stage III, HER2-positive or HER2-low inflammatory breast cancer (IBC), who have&#xD;
+      not received prior therapy for ipsilateral breast cancer.&#xD;
+&#xD;
+      Participants will be enrolled into one of two study treatment groups: HER2 positive IBC&#xD;
+      (Cohort 1) or HER2 low IBC (Cohort 2).&#xD;
+&#xD;
+      Research procedures including screening for eligibility, clinic visits for treatment, tumor&#xD;
+      biopsies, and blood tests.&#xD;
+&#xD;
+      The U.S. Food and Drug Administration (FDA) has not approved Durvalamab or Trastuzumab&#xD;
+      deruxtecan for inflammatory breast cancer, but both have been approved for other uses.&#xD;
+&#xD;
+      Participation in this study is expected to last about 22 months.&#xD;
+&#xD;
+      It is expected that about 63 people will take part in this research study.&#xD;
+&#xD;
+      The pharmaceutical company, AstraZeneca, is supporting this research study by providing the&#xD;
+      study drugs and funding.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2032</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>two parallel cohorts</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathological complete response (pCR) Rate</measure>
+    <time_frame>Assessed on surgical tissue: surgery occurs no later than 6 weeks post 8 cycles of neo-adjuvant therapy (one cycle=21 days)</time_frame>
+    <description>pCR rate is the proportion of participants with absent invasive carcinoma in the breast and lymph nodes at time of surgery; in situ disease only is considered pCR; if off-treatment prior to surgery than considered not pCR.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Residual Cancer Burden (RCB) Response</measure>
+    <time_frame>Assessed on surgical tissue; surgery occurs +day 14 and no later than 6 weeks post 8 cycles of neo-adjuvant therapy (one cycle=21 days)</time_frame>
+    <description>RCB response is the number of participants by RCB category; the RCB calculator used is from M.D Anderson with parameters (see References for link).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event Free Survival (EFS)</measure>
+    <time_frame>Disease assessed every 6 weeks by chest xray (+/- 1 week) until completion of 8 cycles of neo-adjuvant therapy (one cycle=21 days); Follow-up assessments post-surgery every 6 months (+/- 8 weeks) until participant withdrawal or death up to 4 years</time_frame>
+    <description>EFS defined from the time of registration until the occurrence of the first of the following events:&#xD;
+Progression of disease that precludes surgery;&#xD;
+Local/regional recurrence: a recurrent or new invasive ipsilateral breast cancer, invasive breast cancer in the axilla, regional lymph nodes, chest wall, or skin of the ipsilateral breast;&#xD;
+Contralateral invasive breast cancer;&#xD;
+Distant recurrence: metastatic disease that has either been biopsy confirmed or clinically diagnosed as recurrent invasive breast cancer; or&#xD;
+Death from any cause. In the absence of an event, EFS is censored at date last disease assessment. t-year EFS to be estimated by Kaplan-Meier method, with time &quot;t&quot; specified according to median follow-up at time of reporting.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distant progression or distant disease-free survival (DP/DDFS)</measure>
+    <time_frame>Disease assessed every 6 weeks by chest xray (+/- 1 week) until 8 cycles of neo-adjuvant therapy (one cycle=21 days); Follow-up assessments post-surgery every 6 months (+/- 8 weeks) until participant withdrawal or death up to 4 years</time_frame>
+    <description>DP/DDFS defined from the time of registration until the occurrence of the first of the following events:&#xD;
+Distant progression of disease prior to surgery;&#xD;
+Distant recurrence: metastatic disease that has either been biopsy confirmed or clinically diagnosed as recurrent invasive breast cancer; or&#xD;
+Death from any cause. In the absence of an event, DP/DDFS is censored at date last disease assessment. t-year DP/DDFS to be estimated by Kaplan-Meier method, with time &quot;t&quot; specified according to median follow-up at time of reporting.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">63</enrollment>
+  <condition>Invasive Breast Cancer</condition>
+  <condition>Inflammatory Breast Cancer Stage III</condition>
+  <condition>HER2-positive Breast Cancer</condition>
+  <condition>HER2 Low Breast Adenocarcinoma</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>HER2 Positive</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be enrolled into one of two cohorts: HER2 positive IBC (cohort 1) and HER2 low IBC (cohort 2).&#xD;
+HER2-positive determined locally by the current ASCO/CAP guidelines&#xD;
+Participants will receive trastuzumab deruxtecan plus durvalumab for eight cycles prior to surgery. (Cycle Length is 21 days)&#xD;
+After surgery, Participants will receive therapy per physician's choice and to reflect current standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HER2-Low</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be enrolled into one of two cohorts: HER2 positive IBC (cohort 1) and HER2 low IBC (cohort 2)&#xD;
+HER2-low tumor expression (IHC 2+/ISH-, IHC 1+/ISH-, or IHC 1+/ISH untested)&#xD;
+Participants will receive trastuzumab deruxtecan plus durvalumab for eight cycles prior to surgery (Cycle Length is 21 days)&#xD;
+After surgery, Participants will receive therapy per physician's choice and to reflect current standard of care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trastuzumab deruxtecan</intervention_name>
+    <description>via IV, protocol determined dosage once per cycle up to eight cycles. Each cycle will last for 21 days (three weeks).</description>
+    <arm_group_label>HER2 Positive</arm_group_label>
+    <arm_group_label>HER2-Low</arm_group_label>
+    <other_name>Enhertu</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Durvalumab</intervention_name>
+    <description>via IV, protocol determined dosage once per cycle up to eight cycles. Each cycle will last for 21 days (three weeks).</description>
+    <arm_group_label>HER2 Positive</arm_group_label>
+    <arm_group_label>HER2-Low</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants must have a histological or cytological diagnosis of invasive breast&#xD;
+             cancer.&#xD;
+&#xD;
+          -  All histologic subtypes are eligible.&#xD;
+&#xD;
+          -  Participants must have a clinical diagnosis of stage III inflammatory breast cancer&#xD;
+             within the past 6 months&#xD;
+&#xD;
+          -  HER2-positive status as determined locally by the current ASCO/CAP guidelines or&#xD;
+             HER2-low tumor expression (IHC 2+/ISH-, IHC 1+/ISH-, or IHC 1+/ISH untested) (note:&#xD;
+             ISH may be determined by either fluorescence in situ hybridization [FISH] or dual in&#xD;
+             situ hybridization [DISH])&#xD;
+&#xD;
+          -  Any ER and PR expressions are permitted but must be known&#xD;
+&#xD;
+          -  Participants must be treatment-naïve&#xD;
+&#xD;
+          -  Participants must agree to undergo two research biopsies of the tumor (if safely&#xD;
+             accessible, as determined by the treating investigator): at baseline (prior to the&#xD;
+             first treatment) and after the first week of treatment on C1D8. Previously collected&#xD;
+             archival tissue will also be obtained on all participants. For participants for whom&#xD;
+             the tumor is not safely accessible, this archival tissue needs to be located and&#xD;
+             availability confirmed at time of registration.&#xD;
+&#xD;
+          -  Pre- and postmenopausal women or male patients ≥ 18 years of age&#xD;
+&#xD;
+          -  ECOG performance status 0-1 (Karnofsky &gt; 60%, see Appendix A).&#xD;
+&#xD;
+          -  LVEF ≥ 50% within 28 days prior to enrollment&#xD;
+&#xD;
+          -  Participants must have normal organ and marrow function prior to enrollment as defined&#xD;
+             below:&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥2,000/mcL&#xD;
+&#xD;
+               -  Platelets ≥100,000/mcL&#xD;
+&#xD;
+               -  Hemoglobin ≥ 9.0 g/dl&#xD;
+&#xD;
+               -  INR/PT/aPTT ≤1.5 × ULN unless participant is receiving anticoagulant therapy as&#xD;
+                  long as PT or aPTT is in therapeutic range of anticoagulant&#xD;
+&#xD;
+               -  Total bilirubin ≤1.5 × institutional upper limit of normal (ULN)(or ≤2.0 x ULN in&#xD;
+                  patients with documented Gilbert's Syndrome)&#xD;
+&#xD;
+               -  AST(SGOT)/ALT(SGPT) ≤2.5 × institutional ULN&#xD;
+&#xD;
+               -  Serum creatinine ≤1.5 × institutional ULN OR creatinine clearance ≥ 30 mL/min/&#xD;
+                  1.73m2 for participants with creatinine levels above institutional ULN.&#xD;
+&#xD;
+               -  Serum albumin ≥2.5 g/dL&#xD;
+&#xD;
+               -  International normalized ratio (INR)/prothrombin time (PT) and either partial&#xD;
+                  thromboplastin or activated partial thromboplastin time (aPTT) ≤1.5 × ULN&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) and WOCBP who are partners of male&#xD;
+             participants must agree to use one highly effective non-hormonal form of contraception&#xD;
+             or two effective forms of non-hormonal contraception for the duration of study&#xD;
+             treatment with durvalumab and 7 months after the last dose of study treatment&#xD;
+&#xD;
+          -  Males who are sexually active with WOCBP must agree to follow instructions for&#xD;
+             method(s) of contraception for the duration of study treatment with durvalumab and 4&#xD;
+             months after the last dose of study treatment&#xD;
+&#xD;
+          -  Must have a life expectancy of at least 12 weeks&#xD;
+&#xD;
+          -  Body weight &gt;30 kg&#xD;
+&#xD;
+          -  The participant must be capable of understanding and complying with the protocol and&#xD;
+             willing to sign a written informed consent document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has received prior systemic anti-cancer therapy for the current diagnosis of&#xD;
+             inflammatory breast cancer, including chemotherapy, immunotherapy, or targeted therapy&#xD;
+&#xD;
+          -  Has received any radiotherapy or surgery for the current diagnosis of inflammatory&#xD;
+             breast cancer. Tumor biopsies are not considered surgery for the purpose of&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Prior hypersensitivity to durvalumab or the excipients of durvalumab or trastuzumab&#xD;
+             deruxtecan or history of severe hypersensitivity reactions to other monoclonal&#xD;
+             antibodies.&#xD;
+&#xD;
+          -  Major surgery within 4 weeks prior to study treatment initiation. Patients must have&#xD;
+             recovered from any effects of any major surgery.&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness, including, but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable&#xD;
+             angina pectoris, uncontrolled cardiac arrhythmia, serious chronic gastrointestinal&#xD;
+             conditions associated with diarrhea, or psychiatric illness/social situations that&#xD;
+             would limit compliance with study requirements, substantially increase risk of&#xD;
+             incurring AEs, or compromise the ability of the patient to give written informed&#xD;
+             consent.&#xD;
+&#xD;
+          -  Participant has a medical condition that requires chronic systemic steroid therapy (&gt;&#xD;
+             10 mg of prednisone daily or equivalent) or any other form of immunosuppressive&#xD;
+             medication (including disease modifying agents) and has required such therapy in the&#xD;
+             last 2 years. Replacement therapy (e.g. thyroxine, insulin, or physiologic&#xD;
+             corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is&#xD;
+             not considered a form of systemic therapy.&#xD;
+&#xD;
+          -  Active or prior documented autoimmune or inflammatory disorders (including&#xD;
+             inflammatory bowel disease [eg, colitis or Crohn's disease], diverticulitis [with the&#xD;
+             exception of diverticulosis], systemic lupus erythematosus, sarcoidosis syndrome,&#xD;
+             Wegener syndrome [granulomatosis with polyangiitis], Graves' disease, and rheumatoid&#xD;
+             arthritis, hypophysitis, uveitis, etc). The following are exceptions to this&#xD;
+             criterion:&#xD;
+&#xD;
+             -- Patients with vitiligo or alopecia, Patients with hypothyroidism (eg, following&#xD;
+             Hashimoto syndrome) stable on hormone replacement, Patients with any chronic skin&#xD;
+             condition that does not require systemic therapy, Patients with celiac disease&#xD;
+             controlled by diet alone, who may also be included, but only after consultation with&#xD;
+             the Principal Investigator, Patients without active disease in the last 5 years, who&#xD;
+             may also be included but only after consultation with the Principal Investigator&#xD;
+&#xD;
+          -  History of (non-infectious) ILD/pneumonitis that required steroids, has current&#xD;
+             ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Lung-specific intercurrent clinically significant illnesses including, but not limited&#xD;
+             to, any underlying pulmonary disorder (ie, pulmonary emboli within 3 months of the&#xD;
+             study enrollment, severe asthma, severe chronic obstructive pulmonary disease (COPD),&#xD;
+             restrictive lung disease, pleural effusion etc.), and any autoimmune, connective&#xD;
+             tissue or inflammatory disorders with pulmonary involvement (ie, rheumatoid arthritis,&#xD;
+             Sjogren's syndrome, sarcoidosis etc.), and prior pneumonectomy&#xD;
+&#xD;
+          -  Corrected QT interval (QTcF) prolongation to &gt; 470 msec on screening EKG&#xD;
+&#xD;
+          -  Any factors that increase the risk of QTc prolongation or risk of arrhythmic events,&#xD;
+             such as heart failure, hypokalemia, potential for torsades de pointes, congenital long&#xD;
+             QT syndrome, family history of long QT syndrome or unexplained sudden death under 40&#xD;
+             years of age, or any concomitant medication known to prolong the QT interval&#xD;
+&#xD;
+          -  Any of the following procedures or conditions in the 6 months prior to enrollment:&#xD;
+             coronary artery bypass graft, angioplasty, vascular stent, myocardial infarction,&#xD;
+             angina pectoris, congestive heart failure (New York Heart Association Functional&#xD;
+             Classification Grade ≥2), and stroke. Subjects with troponin levels above ULN at&#xD;
+             screening (as defined by the manufacturer), and without any myocardial infarction&#xD;
+             related symptoms, should have a cardiology consultation before enrollment to rule out&#xD;
+             myocardial infarction.&#xD;
+&#xD;
+          -  Cardiac ejection fraction outside institutional range of normal or &lt;50% (whichever is&#xD;
+             higher) as measured by echocardiogram (or multiple-gated acquisition [MUGA] scan if an&#xD;
+             echocardiogram cannot be performed or is inconclusive).&#xD;
+&#xD;
+          -  History of another primary malignancy, except for Malignancy treated with curative&#xD;
+             intent and with no known active disease ≥5 years before the first dose of study&#xD;
+             treatment and of low potential risk for recurrence. Adequately treated non-melanoma&#xD;
+             skin cancer or lentigo maligna without evidence of disease, Adequately treated&#xD;
+             carcinoma in situ without evidence of disease&#xD;
+&#xD;
+          -  History of venous thromboembolism in the past 3 months.&#xD;
+&#xD;
+          -  History of active primary immunodeficiency.&#xD;
+&#xD;
+          -  Active infection including tuberculosis (clinical evaluation that includes clinical&#xD;
+             history, physical examination and radiographic findings, and tuberculosis testing in&#xD;
+             line with local practice), hepatitis B (known positive hepatitis B virus [HBV] surface&#xD;
+             antigen [HBsAg] result) or hepatitis C virus (HCV). Patients with a past or resolved&#xD;
+             HBV infection (defined as the presence of hepatitis B core antibody [anti-HBc] and&#xD;
+             absence of HBsAg) are eligible. Patients positive for hepatitis C antibody are&#xD;
+             eligible only if the polymerase chain reaction is negative for HCV RNA. Some&#xD;
+             medications used for these conditions have drug-drug interactions with the study&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Known to have previously tested positive for human immunodeficiency virus (HIV)&#xD;
+             (positive HIV 1/2 antibodies)(HIV testing is not required for participation on this&#xD;
+             study)&#xD;
+&#xD;
+          -  Receipt of a live vaccine within 30 days prior to study treatment initiation. Examples&#xD;
+             of live vaccines include, but are not limited to, the following: measles, mumps,&#xD;
+             rubella, varicella/zoster, yellow fever, rabies, BCG, and typhoid vaccine. The use of&#xD;
+             the inactivated seasonal influenza vaccine is allowed.&#xD;
+&#xD;
+          -  Has a history or current evidence of any condition, therapy, or laboratory abnormality&#xD;
+             that might confound the results of the study, interfere with the subject's&#xD;
+             participation for the full duration of the study, or is not in the best interest of&#xD;
+             the subject to participate, in the opinion of the treating investigator.&#xD;
+&#xD;
+          -  Use of potent inhibitors or inducers or substrates of CYP3A4 or substrates of CYP2C9&#xD;
+             or CYP2D6 within 2 weeks before the first dose of study treatment (3 weeks for St&#xD;
+             John's Wort)&#xD;
+&#xD;
+          -  Use of hydroxychloroquine in &lt;14 days prior to Day 1 of trastuzumab deruxtecan&#xD;
+             treatment&#xD;
+&#xD;
+          -  History of leptomeningeal carcinomatosis&#xD;
+&#xD;
+          -  Female patients who are pregnant, breastfeeding or of reproductive potential who are&#xD;
+             not willing to employ effective birth control from screening to 6 months after the&#xD;
+             last dose of durvalumab and at least 7 months after the final administration of&#xD;
+             trastuzumab deruxtecan due to the potential for teratogenic effects. And unknown but&#xD;
+             potential risk for adverse events in nursing infants secondary to treatment of the&#xD;
+             mother&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Filipa Lynce, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Filipa Lynce, MD</last_name>
+    <phone>(617) 632-3800</phone>
+    <email>filipa_lynce@dfci.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Filipa Lynce, MD</last_name>
+      <phone>617-632-3800</phone>
+    </contact>
+    <investigator>
+      <last_name>Filipa Lynce, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Filipa Lynce, MD</last_name>
+      <phone>617-632-3800</phone>
+      <email>Filipa_Lynce@DFCI.HARVARD.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Filipa Lynce, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org/breastcancer_RCB</url>
+    <description>RCB calculator from M.D. Anderson for secondary outcome measure</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>February 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>May 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Filipa Lynce, MD</investigator_full_name>
+    <investigator_title>Sponsor Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Invasive Breast Cancer</keyword>
+  <keyword>Inflammatory Breast Cancer Stage III</keyword>
+  <keyword>HER2-positive Breast Cancer</keyword>
+  <keyword>HER2 Low Breast Adenocarcinoma</keyword>
+  <keyword>Breast Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Inflammatory Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Durvalumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to Sponsor Investigator or designee. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Belfer Office for Dana-Farber Innovations (BODFI) at innovation@dfci.harvard.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

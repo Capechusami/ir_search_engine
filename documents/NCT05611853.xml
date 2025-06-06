@@ -1,0 +1,422 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611853</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BN301-101</org_study_id>
+    <nct_id>NCT05611853</nct_id>
+  </id_info>
+  <brief_title>Study of BN301, an Anti-CD74 Antibody Drug Conjugate, in Patients With Advanced B-Cell Malignancies</brief_title>
+  <official_title>A Multicenter Phase 1/2 Clinical Study to Evaluate the Safety and Efficacy of BN301，An Anti-CD74 Antibody Drug Conjugate, in Patients With Advanced B-cell Non-Hodgkin's Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNova Pharmaceuticals (Shanghai) LTD.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioNova Pharmaceuticals (Shanghai) LTD.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase 1/2 trial to study the safety, pharmacokinetics and preliminary efficacy of BN301 given&#xD;
+      intravenously every 3 weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, open-label Phase 1/2 clinical study to evaluate BN301 administered&#xD;
+      intravenously in patients with B-cell NHL who have previously failed standard therapy or who&#xD;
+      are intolerant to standard therapy. This study includes two parts: a Phase 1 dose escalation&#xD;
+      part and a Phase 2 dose expansion part. In Phase 1 and Phase 2, BN301 will be administered&#xD;
+      intravenously on Day 1 of every 21-day cycle until disease progression, intolerable toxicity,&#xD;
+      withdrawal of consent, loss to follow-up, death, or other conditions in which patients are&#xD;
+      not suitable for study treatment, whichever occurs first.&#xD;
+&#xD;
+      Laboratory tests will be performed weekly in Cycles 1-4 and every 3 weeks from Cycle 5&#xD;
+      onwards (see Study Flow Chart). PK sample analysis will be performed on Days 1, 2, and 8 of&#xD;
+      the first two treatment cycles, Day 1 of the third treatment cycle, and at specified time&#xD;
+      points at the end of treatment (see Attachment 1). Additional clinical assessments and&#xD;
+      laboratory tests may be performed at discretion of the investigator as clinically indicated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 25, 2022</start_date>
+  <completion_date type="Anticipated">December 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Related Adverse Events as Assessed by CTCAE v4.0.3</measure>
+    <time_frame>12 months</time_frame>
+    <description>Safety and tolerability</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective Response Rate of participants as assessed by the Lugano 2014 criteria.</measure>
+    <time_frame>2 years</time_frame>
+    <description>Efficacy</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum concentration (Cmax)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Cmax of BN301 in plasma of each subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to maximum concentration (Tmax)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Tmax of BN301 in plasma of each subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination half-life (t1/2)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Elimination half-life (t1/2) of BN301 in plasma of each subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration-time curve (AUC0-t)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Area under the plasma concentration-time curve (AUC0-t) of BN301 in plasma of each subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD74 expression</measure>
+    <time_frame>12 months</time_frame>
+    <description>The analysis of correlation between CD74 expression and BN301 efficacy</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>B-cell Lymphoma</condition>
+  <condition>Non Hodgkin Lymphoma</condition>
+  <condition>Diffuse Large B Cell Lymphoma</condition>
+  <condition>Follicular Lymphoma</condition>
+  <condition>Mantle Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>3.5mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Will be administered by intravenous infusion every 3 weeks on D1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4.2mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Will be administered by intravenous infusion every 3 weeks on D1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>5.0mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Will be administered by intravenous infusion every 3 weeks on D1</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BN301</intervention_name>
+    <description>BN301 will be administered intravenously on Day 1 of every 21-day cycle until disease progression, intolerable toxicity, withdrawal of consent, loss to follow-up, death, or other conditions in which patients are not suitable for study treatment, whichever occurs first. Since this is the first time BN301 will be used in Chinese patients, it is planned to enroll 1 subject at the first dose level of 3.5 mg/kg.</description>
+    <arm_group_label>3.5mg/kg</arm_group_label>
+    <arm_group_label>4.2mg/kg</arm_group_label>
+    <arm_group_label>5.0mg/kg</arm_group_label>
+    <other_name>STRO-001</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Have been fully informed about the study and have voluntarily signed the ICF;&#xD;
+&#xD;
+          2. Age ≥ 18 years;&#xD;
+&#xD;
+          3. Histologically confirmed as B-cell NHL (pathology report), including DLBCL, FL, MZL,&#xD;
+             and MCL, etc., and the disease requires further treatment;&#xD;
+&#xD;
+          4. Have relapsed/refractory disease or intolerance to prior therapy after ≥ 2 prior lines&#xD;
+             of therapy including anti-CD20 antibody-containing chemotherapy regimens (e.g.,&#xD;
+             R-CHOP, etc.) (see Section 3.1 for specific definitions);&#xD;
+&#xD;
+          5. At least 1 radiographically measurable lesion (≥ 1 lymph node lesion with longest&#xD;
+             diameter of &gt; 1.5 cm, and/or extranodal lesion with longest diameter of &gt;1.0 cm, as&#xD;
+             assessed by computed tomography [CT]), and no prior radiotherapy on the lesion&#xD;
+             (evidence of unequivocal progression is required if the lesion has received prior&#xD;
+             radiotherapy);&#xD;
+&#xD;
+          6. ECOG score 0-2;&#xD;
+&#xD;
+          7. Adequate hematological status (supportive care such as growth factor, platelet&#xD;
+             transfusion or blood transfusion or correction with drugs are not allowed within 5&#xD;
+             days prior to screening):&#xD;
+&#xD;
+             Absolute neutrophil count (ANC) ≥ 1.5 × 109/L Platelets ≥ 75 × 109/L Hemoglobin ≥ 9&#xD;
+             g/dL Note: In Phase 2, if the investigator believes that the above values below the&#xD;
+             lower limit of the protocol are due to bone marrow involvement by lymphoma, the&#xD;
+             patient could be enrolled after consultation between investigator and the Sponsor and&#xD;
+             obtaining written consent from the Sponsor;&#xD;
+&#xD;
+          8. Adequate hepatic, renal, and cardiac functions, defined as:&#xD;
+&#xD;
+             Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST)&#xD;
+&#xD;
+               -  2.5 × upper limit of normal (ULN); Total bilirubin ≤ 1.5 × ULN, total bilirubin ≤&#xD;
+                  3 × ULN for patients with Gilbert's disease; Creatinine clearance ≥ 50 mL/min as&#xD;
+                  estimated by the Cockcroft-Gault f formula (if &lt; 50 mL/min, e.g., creatinine ≤&#xD;
+                  130 μmol/L is also allowed); Left ventricular ejection fraction ≥ 45%; Note: In&#xD;
+                  Phase 2, the criteria for ALT or AST may be relaxed to ≤ 5 × ULN if the&#xD;
+                  investigator assesses that the increase in ALT or AST is due to liver invasion by&#xD;
+                  lymphoma;&#xD;
+&#xD;
+          9. Male or female patients of childbearing potential must agree to use effective methods&#xD;
+             of contraception, such as double barrier methods of contraception, condoms, oral or&#xD;
+             injectable contraceptives, intrauterine devices, etc., during the study and within 90&#xD;
+             days after the last dose of study drug. Postmenopausal women (&gt; 45 years of age and&#xD;
+             menopause for more than 1 year) and surgically sterilized women are not subject to&#xD;
+             this condition.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Chronic lymphocytic leukemia and T-cell malignancies;&#xD;
+&#xD;
+          2. Primary central nervous system lymphoma or lymphoma involving the central nervous&#xD;
+             system;&#xD;
+&#xD;
+          3. Known history of hepatitis B (HBsAg positive) or hepatitis C (HCV antibody positive).&#xD;
+             Subjects with occult or pre-hepatitis B infection (defined as HBcAb positive, HBsAg&#xD;
+             negative) could be enrolled if HBV DNA test result is negative, and subjects with&#xD;
+             serologically positive HCV antibody, such as negative HCV RNA test result, could also&#xD;
+             be enrolled;&#xD;
+&#xD;
+          4. Known human immunodeficiency virus (HIV) infection;&#xD;
+&#xD;
+          5. Concomitant clinically significant active infections requiring systemic treatment,&#xD;
+             including but not limited to chronic kidney infection, chronic chest infection with&#xD;
+             bronchiectasis and tuberculosis, etc.;&#xD;
+&#xD;
+          6. Expected survival of no more than 24 weeks as judged by the investigator;&#xD;
+&#xD;
+          7. Previous solid organ transplant; autologous hematopoietic stem cell transplant,&#xD;
+             allogeneic hematopoietic stem cell transplant, or chimeric antigen receptor T-cell&#xD;
+             (CAR-T) therapy within 60 days prior to enrollment, or had the following conditions:&#xD;
+&#xD;
+               -  Active graft versus host disease (GVHD);&#xD;
+&#xD;
+               -  Cytopenia due to unrecovered hematopoiesis after transplantation;&#xD;
+&#xD;
+               -  Anti-cytokine therapy (e.g., tocilizumab, glucocorticoids) is still required due&#xD;
+                  to CAR-T cell treatment toxicity, or neurological toxicity is &gt; Grade 1 after&#xD;
+                  CAR-T cell therapy;&#xD;
+&#xD;
+               -  Continuous use of immunosuppressive therapy;&#xD;
+&#xD;
+          8. Pregnant (positive pregnancy test at screening) or lactating female patients;&#xD;
+&#xD;
+          9. QTcF &gt; 450 msec in male patients or QTcF &gt; 470 msec in female patients or other&#xD;
+             significant ECG abnormalities as judged by the investigator;&#xD;
+&#xD;
+         10. Toxicities due to prior anti-lymphoma therapy have not stabilized and have not&#xD;
+             recovered to ≤ Grade 1 (except for clinically insignificant toxicities such as&#xD;
+             alopecia, etc.);&#xD;
+&#xD;
+         11. Other malignancies in the past 5 years, with the exception of radically treated basal&#xD;
+             cell carcinoma of skin, breast cancer in situ and cervix carcinoma in situ;&#xD;
+&#xD;
+         12. The time from prior systemic anti-tumor therapy or investigational therapy to the&#xD;
+             start of the planned study treatment is less than 4 weeks or 5 half-lives (whichever&#xD;
+             is shorter);&#xD;
+&#xD;
+         13. History of acute myocardial infarction, unstable angina pectoris, stroke, intracranial&#xD;
+             hemorrhage or transient ischemic attack within 6 months prior to enrollment; New York&#xD;
+             Heart Association (NYHA) Grade 3 and 4 congestive heart failure;&#xD;
+&#xD;
+         14. History of deep vein thrombosis or pulmonary embolism within 6 months prior to&#xD;
+             enrollment (Phase 1 dose escalation part only);&#xD;
+&#xD;
+         15. Grade ≥ 2 sensory or motor neuropathy;&#xD;
+&#xD;
+         16. Known severe chronic obstructive pulmonary disease or asthma, defined as forced&#xD;
+             expiratory volume in one second (FEV1) &lt; 60% of expected value;&#xD;
+&#xD;
+         17. Prior therapies targeting CD74;&#xD;
+&#xD;
+         18. Insufficient compliance of patients participating in this clinical study as judged by&#xD;
+             the investigator;&#xD;
+&#xD;
+         19. Any other disease, metabolic abnormality, physical examination abnormality, or&#xD;
+             clinically significant laboratory abnormality, for which in the investigator's&#xD;
+             judgment, there is reason to suspect that the patient has a disease or condition that&#xD;
+             is not suitable for the study drug, or will affect the interpretation of the study&#xD;
+             results, or place the patient at high risk (e.g., the suitability of patients for&#xD;
+             inclusion in the study will be determined by the investigator if they have recovered&#xD;
+             from COVID-19)；&#xD;
+&#xD;
+         20. Live viral vaccination within 28 days prior to the first dose of study drug.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Weili Zhao, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai Jiaotong University school of Medicine, Ruijin Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Liling Zhang, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wuhan Union Hospital, China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jie Jin, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The first affiliated hospital, Zhejiang Unviersity school of medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Zhenfang Liu, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The First Affiliated School of Guangxi Medical University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Baijun Fang, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Henan Oncology Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Zhengming Jin, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The First Affiliated Hospital of Soochow University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kate Chen</last_name>
+    <phone>+86 13370266125</phone>
+    <email>kate.chen@bionovapharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The first affiliated hospital, Zhejiang Unviersity school of medicine</name>
+      <address>
+        <city>Hangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jie Jin</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated School of Guangxi Medical University</name>
+      <address>
+        <city>Nanning</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhenfang Liu, Prof.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Zhenfang Liu, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai Jiao Tong University School of Medicine, Ruijin Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weili Zhao, Prof.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Weili Zhao, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Soochow University</name>
+      <address>
+        <city>Suzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhengming Jin, Prof.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Zhengming Jin, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Union Hospital, Tongji Medical College, Huazhong University of Science and Technology</name>
+      <address>
+        <city>Wuhan</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liling Zhang, Prof.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Liling Zhang, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henan Oncology Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Baijun Fang, Prof.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Baijun Fang, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>October 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>March 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

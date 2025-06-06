@@ -1,0 +1,498 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05625594</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22240</org_study_id>
+    <secondary_id>NCI-2022-09152</secondary_id>
+    <secondary_id>22240</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <secondary_id>R01CA266611</secondary_id>
+    <nct_id>NCT05625594</nct_id>
+  </id_info>
+  <brief_title>Intracerebroventricular Administration of CD19-CAR T Cells (CD19CAR-CD28-CD3zeta-EGFRt-expressing Tcm-enriched T-lymphocytes) for the Treatment of Primary Central Nervous System Lymphoma</brief_title>
+  <official_title>A Phase 1 Study to Evaluate Intracerebroventricular (ICV) Administration of CD19-Targeting Chimeric Antigen Receptor (CAR) T Cells in Patients With Primary CNS Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial tests the safety, side effects, and best dose of intracerebroventricularly&#xD;
+      (ICV) administered CD19-chimeric antigen receptor (CAR) T cells in treating patients with&#xD;
+      primary central nervous system (CNS) lymphoma. CAR T cell therapy is a type of treatment in&#xD;
+      which a patient's T cells (a type of immune system cell) are changed in the laboratory so&#xD;
+      they will attack cancer cells. T cells are taken from a patient's blood. Then the gene for a&#xD;
+      special receptor that binds to a certain protein, CD19, on the patient's cancer cells is&#xD;
+      added to the T cells in the laboratory. The special receptor is called a chimeric antigen&#xD;
+      receptor (CAR). Large numbers of the CAR T cells are grown in the laboratory and given to the&#xD;
+      patient by infusion for treatment of certain cancers. ICV is an injection technique that&#xD;
+      delivers the CD19-CAR T cells directly into the cerebrospinal fluid (which flows in and&#xD;
+      around the hollow spaces of the brain and spinal cord, and the thin layers of tissue that&#xD;
+      cover and protect the brain and spinal cord) in the brain, through a surgically placed&#xD;
+      catheter. Giving CD19-CAR T cells ICV may be more effective at treating patients with primary&#xD;
+      CNS lymphoma than giving them via other methods.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. Examine and describe the safety and feasibility of ICV delivery of&#xD;
+      CD19CAR-CD28-CD3zeta-EGFRt-expressing Tcm-enriched T-lymphocytes (CD19-CAR T cells) and&#xD;
+      determine the recommended phase 2 dose (RP2D) in participants with primary CNS lymphoma&#xD;
+      (PCNSL).&#xD;
+&#xD;
+      II. Determine the activity of ICV-delivered CD19-CAR T cells based on disease response at the&#xD;
+      maximum tolerated dose (MTD).&#xD;
+&#xD;
+      SECONDAY OBJECTIVES:&#xD;
+&#xD;
+      I. Describe persistence, expansion and phenotype of endogenous and CD19-CAR T cells in&#xD;
+      peripheral blood (PB), and cerebral spinal fluid (CSF), when available.&#xD;
+&#xD;
+      II. Describe cytokine levels (PB, CSF) over study period. III. Quantify B-cell aplasia over&#xD;
+      the treatment period as a surrogate for targeted cytotoxicity in the periphery.&#xD;
+&#xD;
+      IV. Assess prolonged cytopenia based on prolonged grade 4 continuous or intermittent anemia,&#xD;
+      neutropenia, thrombocytopenia, and hypogammaglobulinemia &gt; 60 days or deemed medically&#xD;
+      significant.&#xD;
+&#xD;
+      V. Estimate rates of disease response. VI Estimate rate of 6-month progression free survival&#xD;
+      (PFS6mon). VII. Estimate median overall survival (OS).&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. Characterize changes in potential molecular and gene-analysis based indicators of&#xD;
+      neurotoxicity in CSF and PB.&#xD;
+&#xD;
+      II. Describe the tumor phenotype pre- and post-therapy. III. Characterize functional and&#xD;
+      phenotypic metabolic profile of CAR T cells pre- and post-infusion.&#xD;
+&#xD;
+      IV. Assess the presence and magnitude of human anti-mouse antibody (HAMA).&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study followed by a dose-expansion study.&#xD;
+&#xD;
+      Patients may undergo catheterization, undergo leukapheresis, may receive fludarabine&#xD;
+      intravenously (IV) and cyclophosphamide IV, and receive CD19-CAR T cells ICV on study.&#xD;
+      Patients also undergo magnetic resonance imaging (MRI), positron emission tomography (PET),&#xD;
+      computed tomography (CT), collection of blood samples, and CSF aspiration throughout the&#xD;
+      trial, and lumbar puncture as clinically indicated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 22, 2022</start_date>
+  <completion_date type="Anticipated">November 6, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 6, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 15 years</time_frame>
+    <description>Will be assessed using the National Cancer Institute's Common Terminology Criteria for Adverse Events version 5.0, particularly dose-limiting toxicities (DLTs), cytokine release syndrome (CRS) based on the revised CRS grading system by American Society for Transplantation and Cellular Therapy Consensus Criteria, and all other toxicities. Rates and associated 90% Clopper and Pearson binomial confidence limits will be estimated for participants experiencing DLTs, each type of cytopenia, disease response and progression free survival (PFS) at 6 months. All toxicities and side effects will be summarized in tables by period, organ, severity and attribution.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease response</measure>
+    <time_frame>Up to 15 years</time_frame>
+    <description>Will be assessed per International Primary Central Nervous System Lymphoma Collaborative Group criteria.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Chimeric antigen receptor (CAR) T and endogenous T cell levels and phenotype</measure>
+    <time_frame>Through 1 year post T cell infusion</time_frame>
+    <description>Detected in peripheral blood (PB) and cerebral spinal fluid (CSF) when available, (absolute number per uL by flow). CAR T cell level and cytokines will be interrogated if CRS or neurotoxicity attributed at the probable level to CAR T cells are observed. Statistical and graphical longitudinal methods will be used to describe the profile of the CAR T cells, and endogenous immune cell populations including B cells through one-year post T cell infusion. Regression analysis will be used to assess the relationship between CAR T cell levels and B cells levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine levels</measure>
+    <time_frame>Up to 15 years</time_frame>
+    <description>Measured in PB, and CSF, when available. CAR T cell level and cytokines will be interrogated if CRS or neurotoxicity attributed at the probable level to CAR T cells are observed. Cytokine levels (PB and CSF) will be described using longitudinal statistical and graphical methods over the study period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>B cell level</measure>
+    <time_frame>Through 1 year post T cell infusion</time_frame>
+    <description>Measured in PB. CAR T cell level and cytokines will be interrogated if CRS or neurotoxicity attributed at the probable level to CAR T cells are observed. Statistical and graphical longitudinal methods will be used to describe the profile of the CAR T cells, and endogenous immune cell populations including B cells through one-year post T cell infusion. Regression analysis will be used to assess the relationship between CAR T cell levels and B cells levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anemia, neutropenia, thrombocytopenia, and hypogammaglobulinemia lasting longer than 60 days or deemed medically significant</measure>
+    <time_frame>Up to 15 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS time</measure>
+    <time_frame>At 6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) time</measure>
+    <time_frame>Up to 15 years</time_frame>
+    <description>Kaplan Meier methods will be used to estimate median OS and graph the results.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Central Nervous System Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients may undergo catheterization, undergo leukapheresis, may receive fludarabine IV and cyclophosphamide IV, and receive CD19-CAR T cells ICV on study. Patients also undergo MRI, PET, CT, collection of blood samples, and CSF aspiration throughout the trial, and lumbar puncture as clinically indicated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Aspiration</intervention_name>
+    <description>Undergo CSF aspiration</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo blood sample collection</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Catheterization</intervention_name>
+    <description>Undergo catheterization</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>Catheter Insertion</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CD19CAR-CD28-CD3zeta-EGFRt-expressing Tcm-enriched T-lymphocytes</intervention_name>
+    <description>Given ICV</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>CD19-CAR-specific/truncated EGFR Lentiviral Vector-transduced T Cells</other_name>
+    <other_name>CD19CAR-CD28-CD3zeta-EGFRt-expressing Tcm-enriched T Cells</other_name>
+    <other_name>CD19R(EQ)28zeta/EGFRt+ TCM</other_name>
+    <other_name>CD19R(EQ)28zeta/truncated Human EGFR+ Central Memory T Cells</other_name>
+    <other_name>CD19R:CD28:lentiviral/EGFRt+ T Cells</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>(-)-Cyclophosphamide</other_name>
+    <other_name>2H-1,3,2-Oxazaphosphorine, 2-[bis(2-chloroethyl)amino]tetrahydro-, 2-oxide, monohydrate</other_name>
+    <other_name>Carloxan</other_name>
+    <other_name>Ciclofosfamida</other_name>
+    <other_name>Ciclofosfamide</other_name>
+    <other_name>Cicloxal</other_name>
+    <other_name>Clafen</other_name>
+    <other_name>Claphene</other_name>
+    <other_name>CP monohydrate</other_name>
+    <other_name>CTX</other_name>
+    <other_name>CYCLO-cell</other_name>
+    <other_name>Cycloblastin</other_name>
+    <other_name>Cycloblastine</other_name>
+    <other_name>Cyclophospham</other_name>
+    <other_name>Cyclophosphamid monohydrate</other_name>
+    <other_name>Cyclophosphamide Monohydrate</other_name>
+    <other_name>Cyclophosphamidum</other_name>
+    <other_name>Cyclophosphan</other_name>
+    <other_name>Cyclophosphane</other_name>
+    <other_name>Cyclophosphanum</other_name>
+    <other_name>Cyclostin</other_name>
+    <other_name>Cyclostine</other_name>
+    <other_name>Cytophosphan</other_name>
+    <other_name>Cytophosphane</other_name>
+    <other_name>Cytoxan</other_name>
+    <other_name>Fosfaseron</other_name>
+    <other_name>Genoxal</other_name>
+    <other_name>Genuxal</other_name>
+    <other_name>Ledoxina</other_name>
+    <other_name>Mitoxan</other_name>
+    <other_name>Neosar</other_name>
+    <other_name>Revimmune</other_name>
+    <other_name>Syklofosfamid</other_name>
+    <other_name>WR- 138719</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>Fluradosa</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Leukapheresis</intervention_name>
+    <description>Undergo leukapheresis</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>Leukocytopheresis</other_name>
+    <other_name>Therapeutic Leukopheresis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Lumbar Puncture</intervention_name>
+    <description>Undergo lumbar puncture</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>LP</other_name>
+    <other_name>Spinal Tap</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Undergo MRI</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>Magnetic Resonance</other_name>
+    <other_name>Magnetic Resonance Imaging Scan</other_name>
+    <other_name>Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance</other_name>
+    <other_name>MR</other_name>
+    <other_name>MR Imaging</other_name>
+    <other_name>MRI</other_name>
+    <other_name>MRI Scan</other_name>
+    <other_name>NMR Imaging</other_name>
+    <other_name>NMRI</other_name>
+    <other_name>Nuclear Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Positron Emission Tomography</intervention_name>
+    <description>Undergo PET</description>
+    <arm_group_label>Treatment (leukapheresis, CD19-CAR T cells)</arm_group_label>
+    <other_name>Medical Imaging, Positron Emission Tomography</other_name>
+    <other_name>PET</other_name>
+    <other_name>PET Scan</other_name>
+    <other_name>Positron Emission Tomography Scan</other_name>
+    <other_name>Positron-Emission Tomography</other_name>
+    <other_name>proton magnetic resonance spectroscopic imaging</other_name>
+    <other_name>PT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant must have the ability to understand and the willingness to sign a written&#xD;
+             informed consent&#xD;
+&#xD;
+               -  Note: For research participants who do not speak English, a short form consent&#xD;
+                  may be used with a City of Hope (COH) certified interpreter/translator to proceed&#xD;
+                  with screening and leukapheresis, while the request for a translated full consent&#xD;
+                  is processed. However, the research participant can proceed with lymphodepletion&#xD;
+                  (if applicable) and CAR T cell infusion only after the translated full consent&#xD;
+                  form is signed&#xD;
+&#xD;
+          -  Agreement to allow the use of archival tissue from diagnostic tumor biopsies. If&#xD;
+             unavailable exceptions may be granted with study principal investigator (PI) approval&#xD;
+&#xD;
+          -  Age &gt;= 18 years&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0 - 2&#xD;
+&#xD;
+          -  Documented primary CNS lymphoma. Progression must be determined radiographically.&#xD;
+             Participant must have measurable disease which could be a measurable lymphomatous mass&#xD;
+             or, in the case of leptomeningeal only disease, measurable lymphoma cells in CSF by&#xD;
+             flow cytometry&#xD;
+&#xD;
+          -  Documented current CD19+ tumor expression if prior CD19 directed therapy was used&#xD;
+&#xD;
+          -  Participant must have received and failed or have been intolerant to CNS directed&#xD;
+             therapy like high dose methotrexate or high dose cytarabine based regimens.&#xD;
+             Participants are not required to have failed all of these agents if, in the&#xD;
+             investigator's opinion, they would benefit from treatment on the current protocol&#xD;
+&#xD;
+          -  No known contraindications to leukapheresis, steroids or tocilizumab&#xD;
+&#xD;
+          -  Participant of reproductive potential must agree to use acceptable birth control&#xD;
+             methods throughout study therapy and for 3 months after final dose of study treatment&#xD;
+&#xD;
+          -  Total serum bilirubin =&lt; 2.0 mg/dL (within 14 days of signing the screening and&#xD;
+             leukapheresis consent)&#xD;
+&#xD;
+               -  Patients with Gilbert syndrome may be included if their total bilirubin is =&lt; 3.0&#xD;
+                  x upper limit of normal (ULN) and direct bilirubin =&lt; 1.5 x ULN&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) =&lt; 2.5 x ULN (within 14 days of signing the screening&#xD;
+             and leukapheresis consent)&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) =&lt; 2.5 x ULN (within 14 days of signing the screening&#xD;
+             and leukapheresis consent)&#xD;
+&#xD;
+          -  Creatinine clearance of &gt;= 50 mL/min per the Cockcroft-Gault formula (within 14 days&#xD;
+             of signing the screening and leukapheresis consent)&#xD;
+&#xD;
+          -  Cardiac function (12 lead-electrocardiogram [ECG]) without acute abnormalities&#xD;
+             requiring investigation or intervention (within 14 days of signing the screening and&#xD;
+             leukapheresis consent)&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt;= 750/uL (within 14 days of signing the screening and&#xD;
+             leukapheresis consent)&#xD;
+&#xD;
+          -  Hemoglobin (Hb) &gt;= 8 g/dl (within 14 days of signing the screening and leukapheresis&#xD;
+             consent)&#xD;
+&#xD;
+          -  Platelet count &gt;= 50,000/uL (within 14 days of signing the screening and leukapheresis&#xD;
+             consent)&#xD;
+&#xD;
+          -  Ejection fraction measured by echocardiogram or multigated acquisition scan (MUGA) &gt;&#xD;
+             40% (evaluation within 6 weeks of screening does not need to be repeated) (within 14&#xD;
+             days of signing the screening and leukapheresis consent)&#xD;
+&#xD;
+          -  Oxygen (O2) saturation &gt; 92% not requiring oxygen supplementation (within 14 days of&#xD;
+             signing the screening and leukapheresis consent)&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP): negative urine or serum pregnancy test&#xD;
+             (within 14 days of signing the screening and leukapheresis consent)&#xD;
+&#xD;
+               -  If the urine test is positive or cannot be confirmed as negative, a serum&#xD;
+                  pregnancy test will be required&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who received prior CAR T cell therapy&#xD;
+&#xD;
+          -  Participant has not yet recovered from toxicities of prior therapy&#xD;
+&#xD;
+          -  Participant with clinically significant arrhythmia or arrhythmias not stable on&#xD;
+             medical management within two weeks of signing the screening and leukapheresis consent&#xD;
+&#xD;
+          -  Participant with known history or prior diagnosis of optic neuritis or other&#xD;
+             immunologic or inflammatory disease affecting the central nervous system, including&#xD;
+             seizure disorder&#xD;
+&#xD;
+          -  Active autoimmune disease requiring systemic immunosuppressive therapy&#xD;
+&#xD;
+          -  Needing dexamethasone more than 4mg/day (or equivalent) within 72 hours prior to&#xD;
+             leukapheresis or CAR T cell infusion&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition or other agents used in this study&#xD;
+&#xD;
+          -  Known bleeding disorders (e.g., von Willebrand's disease) or hemophilia&#xD;
+&#xD;
+          -  History of stroke or intracranial hemorrhage within 6 months prior to signing the&#xD;
+             screening and leukapheresis consent&#xD;
+&#xD;
+          -  History of other malignancies, except for malignancy surgically resected (or treated&#xD;
+             with other modalities) with curative intent with no known active disease present for&#xD;
+             &gt;= 3 years, basal cell carcinoma of the skin or localized squamous cell carcinoma of&#xD;
+             the skin&#xD;
+&#xD;
+          -  Uncontrolled active infection&#xD;
+&#xD;
+          -  Active hepatitis B or hepatitis C infection: subjects who are hepatitis B core&#xD;
+             antibody (anti-HBc) positive and who are surface antigen negative will need to have a&#xD;
+             negative polymerase chain reaction (PCR) result. Those who are hepatitis B surface&#xD;
+             antigen (HbsAg) positive or hepatitis B PCR positive will be excluded&#xD;
+&#xD;
+               -  Subjects who are hepatitis B core antibody positive (or have a known history of&#xD;
+                  hepatitis B virus [HBV] infection) should be monitored quarterly with a&#xD;
+                  quantitative PCR test for HBV deoxyribonucleic acid (DNA). HBV monitoring should&#xD;
+                  last until 12 months after last dose of study drug. Any subject with a rising&#xD;
+                  viral load (above lower limit of detection) should discontinue study drug and&#xD;
+                  have antiviral therapy instituted and a consultation with a physician with&#xD;
+                  expertise in managing hepatitis B. Subjects who are core antibody (Ab) positive&#xD;
+                  at study enrollment are strongly recommended to start Entecavir before start and&#xD;
+                  until completion of study treatment&#xD;
+&#xD;
+               -  Subjects who are hepatitis C antibody positive will need to have a negative PCR&#xD;
+                  result. Those who are hepatitis C PCR positive will be excluded&#xD;
+&#xD;
+          -  Subjects who are hepatitis C antibody positive will need to have a negative PCR&#xD;
+             result. Those who are hepatitis C PCR positive will be excluded&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV) infection&#xD;
+&#xD;
+          -  Active significant bacterial, fungal or viral (other than those listed) infections&#xD;
+&#xD;
+          -  Any other condition that would, in the investigator's judgment, contraindicate the&#xD;
+             subject's participation in the clinical study due to safety concerns with clinical&#xD;
+             study procedures&#xD;
+&#xD;
+          -  Prospective participants who, in the opinion of the investigator, may not be able to&#xD;
+             comply with all study procedures (including compliance issues related to&#xD;
+             feasibility/logistics)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tanya Siddiqi</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tanya Siddiqi</last_name>
+      <phone>626-803-3458</phone>
+      <email>tsiddiqi@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Tanya Siddiqi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>December 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,357 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614648</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STX-015-23-01</org_study_id>
+    <nct_id>NCT05614648</nct_id>
+  </id_info>
+  <brief_title>Sciatica Epidural Radiculopathy Experimental New Interventional TherapY Clonidine Micropellet</brief_title>
+  <acronym>SERENITY CM</acronym>
+  <official_title>A Phase 3, Prospective, Multicenter, Randomized, Double-blind, Sham-controlled Study of the Efficacy and Safety of STX-015 in the Treatment of Pain Associated With Lumbosacral Radiculopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sollis Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sollis Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety and effectiveness of a new pain medication in&#xD;
+      development, clonidine micropellet. Participants will receive a single injection of either&#xD;
+      clonidine micropellet or sham injection for the treatment of low back and leg pain from&#xD;
+      sciatica.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">April 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Clonidine Micropellet vs Sham-Control</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-Blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary efficacy: Pain Intensity Difference (PID) for the average pain Numeric Rating Scale (NRS) from baseline to D90 in lumbosacral radiculopathy.</measure>
+    <time_frame>Baseline to day 90</time_frame>
+    <description>Difference in average pain score, using a scale of 0-10 with 0 no pain and 10 worst possible pain, from baseline to day 90.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events.</measure>
+    <time_frame>Baseline to day 90</time_frame>
+    <description>Difference in incidence of adverse events and treatment due to radicular leg pain from Baseline to day 90 post injection based on physical examination findings and vital signs measurements.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of symptomatic hypotension as an adverse event of special interest.</measure>
+    <time_frame>Baseline to day 90</time_frame>
+    <description>Difference in incidence defined as low blood pressure associated with subject-reported symptoms of dizziness, lightheadedness, syncope, blurred vision, or nausea.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Oswestry Disability Index (ODI) score</measure>
+    <time_frame>Baseline to month12</time_frame>
+    <description>6 categories of 10 question, each question is scored from 0-5 (minimum to maximum). The scores range from 0-100% with lower scores meaning less disability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in Rescue medication consumption.</measure>
+    <time_frame>Baseline to month12</time_frame>
+    <description>Consumption from baseline through day 30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Average and Worst NRS from Day 90 post injection to 12 months post injection.</measure>
+    <time_frame>from Day 90 to month 12 post injection</time_frame>
+    <description>Difference in NRS pain scores from Day 90 to month 12 post injection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of subjects with significant improvement in pain.</measure>
+    <time_frame>Baseline to day 90</time_frame>
+    <description>30 percent improvement in pain from baseline to day 90.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">340</enrollment>
+  <condition>Lumbosacral Radiculopathy</condition>
+  <arm_group>
+    <arm_group_label>Clonidine Micropellets Injection</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Clonidine Micropellets single dose injection into the lumbar epidural space</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Insertion</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham Control non-epidural needle placement</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clonidine Micropellets</intervention_name>
+    <description>0.975 mg clonidine hydrochloride as 3 micropellets administered in one injection</description>
+    <arm_group_label>Clonidine Micropellets Injection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Tuohy epidural needle</intervention_name>
+    <description>18-gauge Tuohy epidural needle using a custom-built injector</description>
+    <arm_group_label>Clonidine Micropellets Injection</arm_group_label>
+    <arm_group_label>Sham Insertion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Must be between 18 and 70 years of age (inclusive) at time the Informed Consent Form&#xD;
+             (ICF) is signed.&#xD;
+&#xD;
+          2. Must have a primary diagnosis of unilateral lumbar and/or lumbosacral radiculopathy&#xD;
+             defined by all of the following: supported by history, physical examination, and&#xD;
+             radiologic pathology consistent with a disc protrusion, non-sequestered extrusion, or&#xD;
+             sequestered fragment, as evidenced by magnetic resonance imaging (MRI), that is&#xD;
+             consistent with the clinical signs and symptoms of lumbar or lumbosacral&#xD;
+             radiculopathy.&#xD;
+&#xD;
+          3. Subject's pain must have a radicular component (radiation into the leg along the L3-S1&#xD;
+             [inclusive] dermatomal pattern) and may or may not be associated with additional&#xD;
+             neuropathic features such as reduced sensory, motor, or deep tendon reflexes.&#xD;
+&#xD;
+               1. Worst radicular pain symptoms should be confined to a single dermatomal level as&#xD;
+                  confirmed on physical examination (to allow determination of injection level).&#xD;
+&#xD;
+               2. The NRS leg pain must be ≥4, must extend below the knee and be consistent with&#xD;
+                  one of the dermatomal distributions noted above.&#xD;
+&#xD;
+               3. Radicular pain symptoms in the current episode must have been present for at&#xD;
+                  least 8 weeks, but not longer than 9 months at the time of Screening.&#xD;
+&#xD;
+               4. Subjects must not have had a significant reduction in the pain in the 1 to 2&#xD;
+                  weeks before Screening (i.e., pain must not be improving significantly based on&#xD;
+                  the discretion of the Investigator).&#xD;
+&#xD;
+          4. Baseline 0-10 NRS average pain score localized to at least 1 target location must be&#xD;
+             ≥6 and ≤9.&#xD;
+&#xD;
+          5. Subjects must be able to separately distinguish and characterize the contribution of&#xD;
+             back and leg pain to their overall pain to independently assess the response of each&#xD;
+             to intervention. Investigators must confirm that subjects can do so based upon pain&#xD;
+             diagrams and direct questioning.&#xD;
+&#xD;
+          6. Subjects must have had no significant improvement following a minimum of 8 weeks of&#xD;
+             the following categories prior to Screening:&#xD;
+&#xD;
+               1. Mechanical intervention (eg, physical therapy, home exercise program, heat&#xD;
+                  compresses/massage, chiropractic treatment), and&#xD;
+&#xD;
+               2. Over-the-counter analgesics (non-steroidal anti-inflammatory drugs, topical&#xD;
+                  patches/creams/gels/ointments).&#xD;
+&#xD;
+          7. Subjects of childbearing potential must have a negative (serum) pregnancy test at&#xD;
+             Screening and a negative urine pregnancy test within 24 hours before the injection&#xD;
+             procedure and must commit to either abstain continuously from sexual intercourse or to&#xD;
+             use, at the Investigator's discretion, highly effective birth control during the study&#xD;
+             period.&#xD;
+&#xD;
+          8. Must sign an ICF indicating that they understand the purpose and any risks associated&#xD;
+             with the procedure required for the study and is willing to participate in the study&#xD;
+             to completion.&#xD;
+&#xD;
+          9. Must be willing and able to adhere to the prohibitions and restrictions specified in&#xD;
+             the protocol.&#xD;
+&#xD;
+         10. Must be able to read, write, understand, and complete study-related tasks, and&#xD;
+             adequately communicate in English.&#xD;
+&#xD;
+         11. Must have access to the internet and/or a smartphone in order to complete an EDQ.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject has significant pain unrelated to the lumbar or lumbosacral radiculopathy (eg,&#xD;
+             knee pain, hip pain, or rib pain) that, in the Investigator's opinion, could require&#xD;
+             chronic analgesic treatment and interfere with the assessment of IP therapeutic&#xD;
+             effect.&#xD;
+&#xD;
+          2. Subject has radiological findings or presenting features such as severe motor weakness&#xD;
+             (with or without reduced deep tendon reflexes) and is a candidate for surgical&#xD;
+             referral (i.e., progressive neurologic deficit or cauda equina syndrome).&#xD;
+&#xD;
+          3. Subject has evidence of pathology on MRI (obtained during the current episode of pain)&#xD;
+             that may result in pain unlikely to be addressed by the IP, including but not limited&#xD;
+             to the following:&#xD;
+&#xD;
+               1. Symptomatic (eg, neurogenic claudication) radiographically confirmed central&#xD;
+                  stenosis at any level or diffuse spine pathology.&#xD;
+&#xD;
+               2. Non-inflammatory or bony lateral recess or foraminal stenosis such as that caused&#xD;
+                  by facet hypertrophy or osteophytes that is a significant contributor to the&#xD;
+                  current episode of pain.&#xD;
+&#xD;
+               3. Spondylolisthesis &gt; 3 mm at the level of the involved dermatome.&#xD;
+&#xD;
+               4. Evidence of a lumbar vertebral compression fracture, synovial cyst, lumbar&#xD;
+                  epidural lipomatosis, or extraforaminal pathology.&#xD;
+&#xD;
+          4. Subject has a history of, or current diagnosis of, fibromyalgia.&#xD;
+&#xD;
+          5. Subject has a history of lumbar surgery and/or intradiscal interventions (including&#xD;
+             discography).&#xD;
+&#xD;
+          6. Subject has an active infection (eg, fever or other objective evidence of an infection&#xD;
+             within 7 days of the planned injection) or any skin condition visible at the injection&#xD;
+             site at time of Screening.&#xD;
+&#xD;
+          7. Subject has evidence of a coagulation abnormality or history of abnormal bleeding or&#xD;
+             is on anticoagulation therapy at time of Screening.&#xD;
+&#xD;
+          8. Subject has current untreated or clinically significant anxiety and/or depression as&#xD;
+             defined by the following:&#xD;
+&#xD;
+               1. Beck Anxiety Inventory® (BAI®) score ≥29 or,&#xD;
+&#xD;
+               2. Beck Depression Inventory-2® (BDI®) score ≥31.&#xD;
+&#xD;
+               3. Changes in medications administered for treatment of depression or anxiety within&#xD;
+                  the 30 days before Screening. Note: If a subject is taking antidepressant or&#xD;
+                  anti-anxiety medication, either for the treatment of depression/anxiety or as an&#xD;
+                  analgesic adjunct, the subject must agree to maintain a stable dose (no change in&#xD;
+                  dosage) for the first 3 months of the study.&#xD;
+&#xD;
+          9. Subject is planning to receive a spinal injection or spine procedure while&#xD;
+             participating in this study, unless this procedure can be postponed until study&#xD;
+             completion.&#xD;
+&#xD;
+         10. Subject has received an ESI, nerve block, or other similar procedure in the&#xD;
+             lumbosacral area performed during the 8 weeks prior to Screening.&#xD;
+&#xD;
+         11. Subject is receiving or has received the following medications prohibited in this&#xD;
+             study:&#xD;
+&#xD;
+               1. Short-acting opioids taken as needed (PRN) less than 4 days a week (hydrocodone,&#xD;
+                  oxycodone, tramadol, etc.) within 14 days prior to Screening.&#xD;
+&#xD;
+               2. Long-acting opioids or short-acting opioids taken regularly, i.e., more than 4&#xD;
+                  days a week within 30 days prior to Screening.&#xD;
+&#xD;
+               3. Anticonvulsants for treatment of radicular leg pain if the dose has changed in&#xD;
+                  the 30 days prior to Screening or the subject is unable to maintain a stable dose&#xD;
+                  for the first 3 months of the study.&#xD;
+&#xD;
+               4. Systemic corticosteroids within the 30 days prior to Screening.&#xD;
+&#xD;
+               5. Central alpha-agents, including clonidine-containing medication or&#xD;
+                  dexmedetomidine within 30 days before Screening.&#xD;
+&#xD;
+         12. Subject has a history of treatment, or has been recommended for treatment, of alcohol&#xD;
+             or drug use disorder treatment within the year prior to Screening.&#xD;
+&#xD;
+         13. Subject has a known or suspected allergy, hypersensitivity, or intolerance to any of&#xD;
+             the following:&#xD;
+&#xD;
+               1. Clonidine/clonidine hydrochloride.&#xD;
+&#xD;
+               2. Polylactic acid (found in products such as Lupron Depot®, Atridox®, some types of&#xD;
+                  dermal fillers, and some types of sutures).&#xD;
+&#xD;
+               3. Radiographic contrast agents or any other medications to be used during the&#xD;
+                  procedure.&#xD;
+&#xD;
+         14. Subject has recent (within previous 8 weeks) symptomatic hypotension, orthostatic&#xD;
+             hypotension, or bradycardia.&#xD;
+&#xD;
+         15. Subject has a Body Mass Index (BMI) or a body habitus that, in the Investigator's&#xD;
+             judgment, would require a needle longer than a 3.5-inch Tuohy needle.&#xD;
+&#xD;
+         16. Subject has participated in a clinical trial of an investigational drug or device&#xD;
+             within 30 days of Screening.&#xD;
+&#xD;
+         17. Subject has previously participated in a clinical trial sponsored by Sollis&#xD;
+             Therapeutics (including Protocol Number STX-015-18-01 and Protocol Number&#xD;
+             STX-015-18-02).&#xD;
+&#xD;
+         18. Subject has any medical condition that, in the Investigator's opinion, could adversely&#xD;
+             impact study participation or safety, require chronic analgesic treatment, or&#xD;
+             interfere with the pain assessments (eg, painful neuropathy, rheumatologic disorder,&#xD;
+             etc.).&#xD;
+&#xD;
+         19. Subject has worker's compensation benefits and/or is involved in any litigation&#xD;
+             related to his/her radicular pain.&#xD;
+&#xD;
+         20. Subject is currently pregnant or breast feeding, planning to become pregnant or, if of&#xD;
+             childbearing potential, is unwilling to have a pregnancy test administered or use&#xD;
+             appropriate, highly effective contraception.&#xD;
+&#xD;
+         21. Subject is unable or unwilling to undergo MRI examinations.&#xD;
+&#xD;
+         22. Subject is unable to adequately rate his/her pain in the EDQ.&#xD;
+&#xD;
+         23. Presence of active kidney disease, as evidenced by an estimated glomerular filtration&#xD;
+             rate of less than 60 mL/min/1.73m2 utilizing the Chronic Kidney Disease Epidemiology&#xD;
+             Collaboration equation.&#xD;
+&#xD;
+         24. Subjects will be excluded from randomization if they have any of the following during&#xD;
+             the 7-day Baseline Period:&#xD;
+&#xD;
+               1. Two or more ratings of NRS Average Leg Pain and/or Back Pain &gt; 9 (showing severe&#xD;
+                  pain),&#xD;
+&#xD;
+               2. Two or more ratings of NRS Average Leg Pain and/or Back Pain ≥ 9 AND ≤ 3 (showing&#xD;
+                  inconsistent pain).&#xD;
+&#xD;
+         25. Employees of Sollis Therapeutics, Novotech Health Holdings, or study site personnel&#xD;
+             directly affiliated with this study, and their immediate family members. Immediate&#xD;
+             family is defined as a spouse, parent, child, or sibling, whether biological or&#xD;
+             legally adopted.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Robert Daly, MS, PhD</last_name>
+    <phone>614-636-4971</phone>
+    <email>robert@sollistx.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Beth Mastin, MBA</last_name>
+    <phone>614-636-4971</phone>
+    <email>bmastin@sollistx.com</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Radiculopathy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Clonidine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

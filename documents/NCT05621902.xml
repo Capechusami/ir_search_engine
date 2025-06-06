@@ -1,0 +1,245 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621902</url>
+  </required_header>
+  <id_info>
+    <org_study_id>102877</org_study_id>
+    <nct_id>NCT05621902</nct_id>
+  </id_info>
+  <brief_title>Web-based Symptom Monitoring and Survival in Advanced Stage Lung Cancer</brief_title>
+  <acronym>LUCA-S</acronym>
+  <official_title>Web-based Symptom Monitoring and Survival in Advanced Stage Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mats Lambe</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Uppsala University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gävle Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to investigate if weekly symptom monitoring of patients&#xD;
+      with advanced lung cancer is associated with better survival and improved quality of life&#xD;
+      compared to standard follow-up.&#xD;
+&#xD;
+      Each week, participants in the intervention group will be asked to respond to an electronic&#xD;
+      weekly questionnaire covering 11 items related to current health status.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, multicentre, randomized, two-armed, open-label trial in which&#xD;
+      participants will be randomised to standard follow-up according to current management&#xD;
+      guidelines for lung cancer (control arm) or with the addition of weekly web-based symptom&#xD;
+      monitoring (intervention arm). Both study groups will be asked to fill out quality of life&#xD;
+      questionnaires before randomisation and every three months. In addition to comparing survival&#xD;
+      and quality of life, the study will also assess progression free survival, performance&#xD;
+      status, eligibility for second line anti-neoplastic treatment and health care consumption.&#xD;
+&#xD;
+      All subjects will be followed for 24 months. Updated data on survival will also be collected&#xD;
+      up to 5-years.&#xD;
+&#xD;
+      By innovative use of an IT platform already in use in Swedish cancer care, this trial will&#xD;
+      evaluate potential benefits of systematic symptom monitoring in patients with advanced lung&#xD;
+      cancer. If corroborating earlier reports of marked survival benefits, the results of this&#xD;
+      trial could change clinical practice and current guidelines for follow-up of lung cancer&#xD;
+      patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 18, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>From date of randomization until the date of death from any cause, assessed up to 60 months.</time_frame>
+    <description>Overall survival</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>From date of randomization until the date of first confirmed disease progression as judged by the investigator, assessed up to 24 months.</time_frame>
+    <description>First confirmed disease progression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance status</measure>
+    <time_frame>At baseline and at each clinical visit (approximately every 3-4 months), assessed up to 24 months.</time_frame>
+    <description>Performance status will be evaluated according to the ECOG Perfomance Status Scale (Scale 0-5: 0 = fully active, able to carry on all pre-disease performance without restriction, 5=dead).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients starting second-line anti-neoplastic treatment</measure>
+    <time_frame>Assessed up to 24 months.</time_frame>
+    <description>Proportion of patients starting second-line anti-neoplastic treatment within 12 weeks from date of confirmed disease progression after randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life</measure>
+    <time_frame>At baseline and every three months, assessed up to 24 months.</time_frame>
+    <description>Assessed by EORTC QLQ-C30-LC13 questionnaire. The QLQ-C30 is composed of both multi-item scales and single-item measures. All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher response level. Thus a high score for a functional scale represents a high / healthy level of functioning, a high score for the global health status / QoL represents a high QoL, but a high score for a symptom scale / item represents a high level of symptomatology / problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms of depression</measure>
+    <time_frame>At baseline and every three months, assessed up to 24 months.</time_frame>
+    <description>Assessed by the Patient Health Questionnaire (PHQ9). Score 0 (no symptoms) to 27 (severe symptoms).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of in-hospital care</measure>
+    <time_frame>Assessed up to 24 months.</time_frame>
+    <description>Health care consumption will be assessed as number of days of in-hospital care during study participation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">398</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Weekly symptom monitoring</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Web-based weekly symptom monitoring in addition to standard follow-up</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard follow-up according to guidelines</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Weekly symptom monitoring</intervention_name>
+    <description>Patients randomized to the intervention arm will be invited to respond to a web-based weekly 11-item signs- and symptoms questionnaire</description>
+    <arm_group_label>Weekly symptom monitoring</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically or cytology proven non-small cell lung cancer (NSCLC)&#xD;
+&#xD;
+          -  NSCLC stage III or IV&#xD;
+&#xD;
+          -  ≥ 18 years&#xD;
+&#xD;
+          -  ECOG performance status 0- 2&#xD;
+&#xD;
+          -  Eligible patients should have initiated first-line treatment for advanced or&#xD;
+             metastatic disease with chemotherapy and/or immunotherapy, radiochemotherapy or&#xD;
+             targeted treatment&#xD;
+&#xD;
+          -  Patients are eligible for inclusion if they have responded to first-line treatment&#xD;
+             with stable disease, or better, at the first radiological evaluation performed up to&#xD;
+             six months after start of treatment&#xD;
+&#xD;
+          -  Stable disease, or better, on radiological assessment within 28 days of enrolment (CT&#xD;
+             scan or FDG-PET/CT. Cerebral MRI if known brain metastasis)&#xD;
+&#xD;
+          -  Initial web-based application score of ≤ 6&#xD;
+&#xD;
+          -  Basic computer literacy&#xD;
+&#xD;
+          -  Bank-ID (electronic identification system) and access to &quot;1177 Vårdguiden&quot;&#xD;
+&#xD;
+          -  The subject has given written consent to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Symptomatic brain metastases&#xD;
+&#xD;
+          -  Pregnancy, breastfeeding, or planned pregnancy&#xD;
+&#xD;
+          -  Persons under guardianship or deprived of liberty&#xD;
+&#xD;
+          -  Mental inability, reluctance or language difficulties that result in difficulty&#xD;
+             understanding the meaning of study participation&#xD;
+&#xD;
+          -  Treatment or disease which, according to the investigator, can affect treatment or&#xD;
+             study results&#xD;
+&#xD;
+          -  Ongoing participation in another interventional clinical study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gunnar L Wagenius, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mats P Lambe, MD, PhD</last_name>
+    <phone>+46707715655</phone>
+    <email>mats.lambe@ki.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sandra Irenaeus, MD,PhD</last_name>
+    <phone>+46727180099</phone>
+    <email>sandra.irenaeus@rccmellan.se</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Denis F, Basch E, Septans AL, Bennouna J, Urban T, Dueck AC, Letellier C. Two-Year Survival Comparing Web-Based Symptom Monitoring vs Routine Surveillance Following Treatment for Lung Cancer. JAMA. 2019 Jan 22;321(3):306-307. doi: 10.1001/jama.2018.18085.</citation>
+    <PMID>30667494</PMID>
+  </reference>
+  <reference>
+    <citation>Temel JS, Greer JA, El-Jawahri A, Pirl WF, Park ER, Jackson VA, Back AL, Kamdar M, Jacobsen J, Chittenden EH, Rinaldi SP, Gallagher ER, Eusebio JR, Li Z, Muzikansky A, Ryan DP. Effects of Early Integrated Palliative Care in Patients With Lung and GI Cancer: A Randomized Clinical Trial. J Clin Oncol. 2017 Mar 10;35(8):834-841. doi: 10.1200/JCO.2016.70.5046. Epub 2016 Dec 28.</citation>
+    <PMID>28029308</PMID>
+  </reference>
+  <reference>
+    <citation>Nilsson J, Berglund A, Bergstrom S, Bergqvist M, Lambe M. The role of comorbidity in the management and prognosis in nonsmall cell lung cancer: a population-based study. Acta Oncol. 2017 Jul;56(7):949-956. doi: 10.1080/0284186X.2017.1324213. Epub 2017 May 9.</citation>
+    <PMID>28486004</PMID>
+  </reference>
+  <reference>
+    <citation>Nipp R, Temel J. The Patient Knows Best: Incorporating Patient-Reported Outcomes Into Routine Clinical Care. J Natl Cancer Inst. 2017 Sep 1;109(9). doi: 10.1093/jnci/djx044. No abstract available.</citation>
+    <PMID>28423408</PMID>
+  </reference>
+  <reference>
+    <citation>Basch E, Snyder C. Overcoming barriers to integrating patient-reported outcomes in clinical practice and electronic health records. Ann Oncol. 2017 Oct 1;28(10):2332-2333. doi: 10.1093/annonc/mdx506. No abstract available.</citation>
+    <PMID>28961852</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Mats Lambe</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Sweden</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

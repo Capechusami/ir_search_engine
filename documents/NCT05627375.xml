@@ -1,0 +1,615 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627375</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20PH285</org_study_id>
+    <nct_id>NCT05627375</nct_id>
+  </id_info>
+  <brief_title>Best Antithrombotic Therapy in Patients With Acute Venous ThromboEmbolism While Taking Antiplatelets</brief_title>
+  <acronym>BAT-VTE</acronym>
+  <official_title>Best Antithrombotic Therapy in Patients With Acute Venous ThromboEmbolism While Taking Antiplatelets</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Saint Etienne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Health, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Saint Etienne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Venous thromboembolism (VTE) and atherosclerotic cardiovascular disease share common risk&#xD;
+      factors and frequently coexist in the same patients.&#xD;
+&#xD;
+      Their management requires use of antithrombotic agents: anticoagulant therapy (AC) for&#xD;
+      secondary prevention of VTE recurrence, antiplatelet (AP) for secondary prevention of major&#xD;
+      adverse ischemic cardiovascular and cerebrovascular event (MACCE) in patients with&#xD;
+      atherosclerotic cardiovascular disease (coronary artery disease, atherosclerotic&#xD;
+      cerebrovascular disease, lower extremity peripheral arterial disease).&#xD;
+&#xD;
+      Side effects of antithrombotic drugs are the 1st cause of emergency admission and&#xD;
+      hospitalization for an adverse drug reaction (mainly bleeding), and the combination of AC&#xD;
+      with AP strongly increases this risk.&#xD;
+&#xD;
+      Up to one third of VTE patients receive concomitant AP therapy, with conflicting results on&#xD;
+      patient outcomes. Concomitant therapy (AC+AP) has been associated with a higher risk of&#xD;
+      bleeding (up to 3-fold) when aspirin was associated with vitamin-K antagonist (VKA) in a&#xD;
+      multicenter cohort study, or with direct oral anticoagulants (DOACs) for acute VTE in a&#xD;
+      post-hoc subgroup analysis. Conversely, patients with acute VTE in whom clinicians decided to&#xD;
+      maintain AC+AP were found to have an increased risk of MACCE without any higher risk of&#xD;
+      bleeding, in a multicenter registry. However, in most cases, the type (aspirin or another)&#xD;
+      and indication (primary versus secondary prevention) of AP was unknown, as was the duration&#xD;
+      of the combination AC+AP, and therefore these observational results may be confounded.&#xD;
+      Therefore, there is persistent equipoise regarding the benefit/risk of combining an&#xD;
+      antiplatelet therapy with anticoagulation in patients undergoing treatment for VTE, when&#xD;
+      there is a prior history of atherosclerotic cardiovascular disease. This may explain why&#xD;
+      clinical practice varies widely.&#xD;
+&#xD;
+      Considering the conflicting data about the risk of bleeding in patients on AP therapy for&#xD;
+      secondary prevention, who need to start full-dose anticoagulant therapy for acute VTE, a&#xD;
+      randomized trial comparing the two strategies, in patients with acute VTE and with history of&#xD;
+      stable atherosclerotic cardiovascular disease is needed and justified.&#xD;
+&#xD;
+      We hypothesize that a strategy based on the prescription of a full-dose AC therapy alone will&#xD;
+      decrease the risk of bleeding, when compared to the the strategy of combined AP and full-dose&#xD;
+      AC therapies, and that this strategy will translate in a positive net clinical benefit (a&#xD;
+      composite of clinically relevant bleeding, recurrent venous thromboembolism, and major&#xD;
+      adverse ischemic cardiovascular and cerebrovascular events).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">December 2028</completion_date>
+  <primary_completion_date type="Anticipated">December 2027</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinically relevant bleeding</measure>
+    <time_frame>end of the full-dose treatment period, up to 12 months</time_frame>
+    <description>Clinically relevant bleeding is composite of major bleeding events and clinically relevant non-major bleeding events).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Net clinical benefit</measure>
+    <time_frame>end of the full-dose AC treatment period, up to 12 months</time_frame>
+    <description>Net clinical benefit is defined by the composite of clinically relevant bleeding, recurrent venous thromboembolism, and major adverse ischemic cardiovascular and cerebrovascular events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinically relevant non-major bleeding</measure>
+    <time_frame>end of the full-dose treatment period, up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major bleeding events</measure>
+    <time_frame>end of the full-dose treatment period, up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>recurrent venous thromboembolism</measure>
+    <time_frame>end of the full-dose treatment period, up to 12 months</time_frame>
+    <description>proximal deep venous thromboembolism and/or pulmonary embolism symptomatic or incidental, and including fatal-PE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>arterial events</measure>
+    <time_frame>end of the full-dose treatment period, up to 12 months</time_frame>
+    <description>major adverse cardiovascular and cerebrovascular events (nonfatal ischemic stroke, nonfatal myocardial infarction, acute lower limb ischemia, lower limb amputation or revascularization for vascular causes, cardiovascular deaths),</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>venous thromboembolism (VTE) sequels</measure>
+    <time_frame>end of the full-dose treatment period, up to 12 months</time_frame>
+    <description>post-thrombotic syndrome (defined as a Villalta score up to 4) and post-PE syndrome (defined as the combination of a persistant dyspnea with a NYHA (New York Heart Association) scale more than I with residual vascular obstruction on lung scan</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1400</enrollment>
+  <condition>Venous Thromboembolic Disease</condition>
+  <arm_group>
+    <arm_group_label>strategy of full-dose anticoagulant therapy alone (AC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The experimental group receiving full-dose anticoagulant therapy alone (AC).&#xD;
+Anticoagulant (AC) therapy :at the investigator's discretion in accordance with international recommendations for the management of DVT/PE Antiplatelet therapy will be stopped.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>strategy of combined full-dose anticoagulant and antiplatelet therapies (AC+AP)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control group receiving the standard of care: Antiplatelet therapy will be combined to full-dose anticoagulant therapy.&#xD;
+Anticoagulant (AC) therapy :at the investigator's discretion in accordance with international recommendations for the management of DVT/PE&#xD;
+Antiplatelet (AP) therapy : Aspirin or Clopidogrel</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Full-dose anticoagulant therapy (AC)</intervention_name>
+    <description>Anticoagulant (AC) therapy: at the investigator's discretion in accordance with international recommendations for the management of DVT/PE</description>
+    <arm_group_label>strategy of combined full-dose anticoagulant and antiplatelet therapies (AC+AP)</arm_group_label>
+    <arm_group_label>strategy of full-dose anticoagulant therapy alone (AC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Antiplatelet therapy (AP)</intervention_name>
+    <description>Aspirin (at a daily dose ≤100 mg) or Clopidogrel (at a daily dose ≤75mg)</description>
+    <arm_group_label>strategy of combined full-dose anticoagulant and antiplatelet therapies (AC+AP)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Patients with acute objectively confirmed symptomatic proximal deep-vein thrombosis&#xD;
+             (DVT) or pulmonary embolism (PE) (with or without deep-vein thrombosis). Proximal&#xD;
+             deep-vein thrombosis is defined as thrombosis involving at least the popliteal vein or&#xD;
+             a more proximal vein of the lower limb.&#xD;
+&#xD;
+          -  Indication of full-dose anticoagulant therapy for at least 3 months.&#xD;
+&#xD;
+          -  Prescription of antiplatelet therapy for secondary prevention of atherosclerotic&#xD;
+             cardiovascular diseases, at the time of VTE diagnosis&#xD;
+&#xD;
+          -  Life expectancy more than 3 months&#xD;
+&#xD;
+          -  Social security affiliation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to give informed consent&#xD;
+&#xD;
+          -  Active bleeding or a high risk of bleeding contraindicating anticoagulant treatment; a&#xD;
+             systolic blood pressure of more than 180 mm Hg or a diastolic blood pressure of more&#xD;
+             than 110 mm Hg&#xD;
+&#xD;
+          -  Anticoagulation for more than 5 days prior to randomization&#xD;
+&#xD;
+          -  Active pregnancy or expected pregnancy or no effective contraception&#xD;
+&#xD;
+          -  Isolated distal deep vein thrombosis&#xD;
+&#xD;
+          -  Antiplatelet therapy prescribed for primary prevention of cardiovascular disease&#xD;
+&#xD;
+          -  Indication to maintain a dual-antiplatelet therapy.&#xD;
+&#xD;
+          -  Triple positive antiphospholipid syndrome, with arterial thrombosis&#xD;
+&#xD;
+          -  Major cardiovascular and cerebrovascular event in the past 12 months for acute&#xD;
+             coronary syndrome, and in the past 6 months for cerebrovascular diseases and&#xD;
+             peripheral arterial diseases&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laurent BERTOLETTI, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Saint-Etienne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laurent BERTOLETTI, MD PhD</last_name>
+    <phone>(0)477829121</phone>
+    <phone_ext>+33</phone_ext>
+    <email>laurent.bertoletti@chu-st-etienne.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carine LABRUYERE</last_name>
+    <phone>(0)477120469</phone>
+    <phone_ext>+33</phone_ext>
+    <email>carine.labruyere@chu-st-etienne.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Marie-Antoinette SEVESTRE-PIETRI, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Pierre-Marie ROY, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Besançon - Hôpital Jean Minjoz</name>
+      <address>
+        <city>Besançon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nicolas MENNEVEAU, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Brest - Hôpital la Cavale Blanche</name>
+      <address>
+        <city>Brest</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Francis COUTURAUD, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique du Parc - Castelnau-le -lez</name>
+      <address>
+        <city>Castelnau-le-Lez</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Dominique BRISOT, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Clermont-Ferrand - Hôpital Gabriel Montpied</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jeannot SCHMIDT, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Dijon</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nicolas FALVO, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH le Corbusier - Firminy</name>
+      <address>
+        <city>Firminy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>François BALLEREAU, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble - Hôpital la Tronche</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Gilles PERNOD, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH Le Puy - Hôpital Emile Roux</name>
+      <address>
+        <city>Le Puy-en-Velay</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Mathieu VALADIER, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Philippe LACROIX, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HCL - Hôpital Edouard Herriot</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Hélène DESMURS, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HCL - Lyon Sud</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Claire GRANGE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHM - Hôpital la Timone</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Gabrielle SARLON, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH du Forez - Montbrison</name>
+      <address>
+        <city>Montbrison</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Mikaël MARTINEZ, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Isabelle QUERE, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nancy - Hôpitaux de Brabois</name>
+      <address>
+        <city>Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Stéphane ZUILY, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes - Hôpital Hôtel-Dieu</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jérôme CONNAULT, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nice - Hôpital Pasteur</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Emile FERRARI, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Bicêtre</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>David MONTANI, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Européen Georges Pompidou HEGP</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Olivier SANCHEZ, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Louis Mourier</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Isabelle MAHE, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ygal BENHAMOU, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Saint-Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Laurent Bertoletti, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Strasbourg - Nouvel Hôpital Civil</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Dominique STEPHAN, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH Toulon - Hôpital Sainte Musse</name>
+      <address>
+        <city>Toulon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Antoine ELIAS, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse - Hôpital de Rangueil</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Alessandra BURA-RIVIERE, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Tours</name>
+      <address>
+        <city>Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Denis ANGOULVANT, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>April 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>deep venous thrombosis</keyword>
+  <keyword>pulmonary embolism</keyword>
+  <keyword>anticoagulant</keyword>
+  <keyword>antiplatelet</keyword>
+  <keyword>Venous Thromboembolism</keyword>
+  <keyword>Direct oral anticoagulants</keyword>
+  <keyword>major adverse ischemic cardiovascular and cerebrovascular event</keyword>
+  <keyword>secondary prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thromboembolism</mesh_term>
+    <mesh_term>Venous Thromboembolism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anticoagulants</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

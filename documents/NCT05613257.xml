@@ -1,0 +1,229 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613257</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00001778</org_study_id>
+    <nct_id>NCT05613257</nct_id>
+  </id_info>
+  <brief_title>Distal Targeter vs Free-hand</brief_title>
+  <official_title>A Randomized Controlled Trial Comparing Free-Hand Versus Distal Targeting Jig-Based for Distal Interlock Screw Placement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Stryker Nordic</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cedars-Sinai Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized controlled trial comparing the use of two different surgical&#xD;
+      techniques--free-hand versus distal targeting jig-based for distal interlock screw--placement&#xD;
+      and their effects on total operative time and intraoperative radiation exposure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Interlocking screw placement in intramedullary nailing of femoral and tibial shaft fractures&#xD;
+      improves rotational and length stability. However, free-hand perfect circle techniques can be&#xD;
+      technically challenging and may take up to an hour with increased radiation exposure to the&#xD;
+      surgeon and patient. Newer technologies aimed at reducing fluoroscope use such as&#xD;
+      electromagnetically-based aiming devices may increase the operative time. Proximally-based&#xD;
+      jigs have been shown to reduce fluoroscopy time in cadavers, however, have not been studied&#xD;
+      clinically. This study is a prospective, randomized controlled trial comparing a modern&#xD;
+      proximally-based distal targeting device and free-hand techniques for placement of&#xD;
+      interlocking screws in lower extremity nailing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 16, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomly assigned to cohorts based on the operative technique used to treat their respective fractures.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Radiation exposure</measure>
+    <time_frame>During surgery: The first fluoroscopy shot for distal interlocking screw placement to final fluoroscopy shot confirming the final screw's placement</time_frame>
+    <description>Number of fluoroscopic images taken intraoperatively for screw placement and cumulative radiation exposure (in grays)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total screw placement time</measure>
+    <time_frame>During surgery: the first fluoroscopy shot to localize the jig or obtain a perfect circle (start) to the last shot to confirm complete seating of the screw (end time)</time_frame>
+    <description>time taken to place interlocking screws</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of Screw Placement Angle</measure>
+    <time_frame>Intraoperatively (at end of surgery)</time_frame>
+    <description>Correct screw placement is at a right (90-degree) angle from the intramedullary nail, through the interlocking screw hole</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Learning curve</measure>
+    <time_frame>Through study completion (6 month study period)</time_frame>
+    <description>learning curve between distal targeter and freehand techniques stratified by level of training</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Training methods</measure>
+    <time_frame>Through study completion (6 month study period)</time_frame>
+    <description>Correlation of sawbones-based practice and clinical practice for interlocking screw placement with regards to time taken for screw placement and accuracy of screw placement (deviation from right angle relative to intramedullary device)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Femur Fracture</condition>
+  <condition>Tibial Fractures</condition>
+  <condition>Nonunion of Fracture</condition>
+  <condition>Nonunion of Fracture of Tibia</condition>
+  <condition>Nonunion of Fracture of Femur (Diagnosis)</condition>
+  <condition>Tibia Fracture</condition>
+  <arm_group>
+    <arm_group_label>Free-hand/perfect circles</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this group will have interlocking screw placement using a free-hand, perfect circles technique.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Distal targeting jig</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this group will have interlocking screw placement using a proximally placed distal targeting jig</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Distal targeting jig</intervention_name>
+    <description>Patients in this arm will have an assistive targeting device used for interlocking screw placement. The targeting device is attached to the nail proximally or distally (for antegrade or retrograde nailing, respectively) to guide screw placement through the other end of the intramedullary device.</description>
+    <arm_group_label>Distal targeting jig</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Free-hand/perfect circles technique</intervention_name>
+    <description>Patients in this arm will have no assistive targeting device use and the surgeon will use a free-hand technique for the placement of interlocking screws. With this technique, fluoroscopic images are taken such that the interlocking holes of the intramedullary device are &quot;perfect circles&quot; and indicate that a screw introduced in the same plane that the fluoroscopic image was taken would seat perpendicularly to the intramedullary device. This is the most commonly employed technique for interlocking screw placement through intramedullary devices.</description>
+    <arm_group_label>Free-hand/perfect circles</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years old and above&#xD;
+&#xD;
+          -  Undergoing intramedullary fixation of femur or tibia shaft for acute fracture or&#xD;
+             nonunion&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior ipsilateral tibial or femoral nail&#xD;
+&#xD;
+          -  Patients who cannot have interlocking screws placed&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Laura Sarmiento, CCRP</last_name>
+    <phone>310-423-4295</phone>
+    <email>laura.sarmiento@cshs.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joel Arnold</last_name>
+    <phone>310-423-4614</phone>
+    <email>joel.arnold@cshs.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Maqungo S, Horn A, Bernstein B, Keel M, Roche S. Distal interlocking screw placement in the femur: free-hand versus electromagnetic assisted technique (sureshot). J Orthop Trauma. 2014 Dec;28(12):e281-3. doi: 10.1097/BOT.0000000000000125.</citation>
+    <PMID>24714403</PMID>
+  </reference>
+  <reference>
+    <citation>Miclau T, Holmes W, Martin RE, Krettek C, Schandelmaier P. Plate osteosynthesis of the distal femur: surgical techniques and results. J South Orthop Assoc. 1998 Fall;7(3):161-70.</citation>
+    <PMID>9781891</PMID>
+  </reference>
+  <reference>
+    <citation>Whatling GM, Nokes LD. Literature review of current techniques for the insertion of distal screws into intramedullary locking nails. Injury. 2006 Feb;37(2):109-19. doi: 10.1016/j.injury.2005.09.009. Epub 2005 Nov 28.</citation>
+    <PMID>16310192</PMID>
+  </reference>
+  <reference>
+    <citation>Program of Randomized Trials to Evaluate Pre-operative Antiseptic Skin Solutions in Orthopaedic Trauma (PREP-IT) Investigators; Slobogean GP, Sprague S, Wells J, Bhandari M, Rojas A, Garibaldi A, Wood A, Howe A, Harris AD, Petrisor BA, Mullins DC, Pogorzelski D, Marvel D, Heels-Ansdell D, Mossuto F, Grissom F, Del Fabbro G, Guyatt GH, Della Rocca GJ, Demyanovich HK, Gitajn IL, Palmer J, D'Alleyrand JC, Friedrich J, Rivera J, Hebden J, Rudnicki J, Fowler J, Jeray KJ, Thabane L, Marchand L, O'Hara LM, Joshi MG, Talbot M, Camara M, Szasz OP, O'Hara NN, McKay P, Devereaux PJ, O'Toole RV, Zura R, Morshed S, Dodds S, Li S, Tanner SL, Scott T, Nguyen U. Effectiveness of Iodophor vs Chlorhexidine Solutions for Surgical Site Infections and Unplanned Reoperations for Patients Who Underwent Fracture Repair: The PREP-IT Master Protocol. JAMA Netw Open. 2020 Apr 1;3(4):e202215. doi: 10.1001/jamanetworkopen.2020.2215. Erratum In: JAMA Netw Open. 2020 Sep 1;3(9):e2021571. JAMA Netw Open. 2021 Jun 1;4(6):e2117240.</citation>
+    <PMID>32259266</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 31, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cedars-Sinai Medical Center</investigator_affiliation>
+    <investigator_full_name>Carol A. Lin, MD</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>femur fracture</keyword>
+  <keyword>tibia fracture</keyword>
+  <keyword>operative time</keyword>
+  <keyword>screw placement</keyword>
+  <keyword>jig</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fractures, Bone</mesh_term>
+    <mesh_term>Femoral Fractures</mesh_term>
+    <mesh_term>Tibial Fractures</mesh_term>
+    <mesh_term>Fractures, Ununited</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 21, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT05613257/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 27, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT05613257/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

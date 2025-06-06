@@ -1,0 +1,237 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795725</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-12-07</org_study_id>
+    <nct_id>NCT05795725</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Diagnostic Potential of Artificial Intelligence-assisted Fecal Microbiome Testing for Colon Cancer</brief_title>
+  <official_title>Comparison of the Diagnostic Potential of Colonoscopy, and Artificial Intelligence-assisted Fecal Microbiome Testing for Colon Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul Medipol University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bozyaka Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tepecik Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SB Istanbul Education and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bursa City Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Izmir Metropolitan Municipality Esrefpasa Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Istanbul Medipol University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evaluate the diagnostic potential of Artificial&#xD;
+      Intelligence-assisted Fecal Microbiome Testing for the diagnosis of colon cancer. The main&#xD;
+      question it aims to answer is:&#xD;
+&#xD;
+      • Is Artificial Intelligence-assisted Fecal Microbiome Testing a reliable screening test for&#xD;
+      colon cancer?&#xD;
+&#xD;
+      Participants will be asked to provide fecal samples to be analyzed with next-generation&#xD;
+      sequencing techniques.&#xD;
+&#xD;
+      If there is a comparison group: Researchers will compare the diagnostic performance of&#xD;
+      AI-assisted Fecal Microbiome Testing with colonoscopy to see the correlation between the&#xD;
+      results of both interventions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Colon cancer, also known as colorectal cancer, is the third most commonly diagnosed cancer&#xD;
+      worldwide and the second leading cause of cancer deaths. In the United States alone, it is&#xD;
+      estimated that there will be approximately 149,500 new cases and 52,980 deaths from&#xD;
+      colorectal cancer in 2021. However, if detected early, it is highly treatable and curable.&#xD;
+&#xD;
+      Currently, the gold standard for colon cancer screening is a colonoscopy, which involves the&#xD;
+      insertion of a flexible tube with a camera into the rectum to examine the colon for signs of&#xD;
+      cancer or precancerous growths called polyps. While effective, this procedure is invasive,&#xD;
+      uncomfortable, and can be costly. As a result, many people delay or avoid colon cancer&#xD;
+      screening, which can lead to delayed detection and worse outcomes.&#xD;
+&#xD;
+      Fecal microbiome testing is a promising alternative to colonoscopy as a screening tool for&#xD;
+      colon cancer. The human gut is home to trillions of bacteria that play a critical role in&#xD;
+      maintaining our health, and research has shown that changes in the gut microbiome can be&#xD;
+      associated with the development of colon cancer. Artificial Intelligence-assisted fecal&#xD;
+      microbiome testing involves analyzing the composition of the gut microbiome using advanced&#xD;
+      algorithms and machine learning techniques to identify patterns that are indicative of colon&#xD;
+      cancer.&#xD;
+&#xD;
+      This non-invasive, low-cost, and convenient screening test has the potential to significantly&#xD;
+      increase colon cancer screening rates and reduce the number of deaths from this disease. By&#xD;
+      identifying individuals at high risk of colon cancer at an early stage, Artificial&#xD;
+      Intelligence-assisted fecal microbiome testing can lead to earlier intervention and better&#xD;
+      outcomes. Therefore, the diagnostic potential of AI-assisted fecal microbiome testing for&#xD;
+      colon cancer is a highly relevant and important area of research.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 29, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Fecal samples will be obtained from patients who are enrolled for colonoscopy for the clinical suspicion of colon cancer</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The patients will be blinded to the microbiome results for the study period. The gastroenterologists will be blinded to microbiome results. The microbiome researchers will be blinded to colonoscopy results The statisticians will be blinded to both intervention results until the end of patient enrollment</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The diagnostic accuracy of the AI-assisted fecal microbiome testing in detecting colon cancer compared to colonoscopy</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The diagnostic accuracy of the AI-assisted fecal microbiome testing in detecting colon cancer, as measured by sensitivity, specificity, positive predictive value, negative predictive value, and area under the receiver operating characteristic curve (AUC-ROC).</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Colon Cancer</condition>
+  <condition>Microbiota</condition>
+  <condition>Colonoscopy</condition>
+  <arm_group>
+    <arm_group_label>Colonoscopy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Fecal samples will be obtained from patients who are enrolled for colonoscopy procedures for the suspicion of colon cancer.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Artificial Intelligence-assisted Fecal Microbiome Testing</intervention_name>
+    <description>Next-generation sequencing of fecal samples and artificial intelligence analysis of test results</description>
+    <arm_group_label>Colonoscopy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Colonoscopy</intervention_name>
+    <description>Colonoscopy procedure</description>
+    <arm_group_label>Colonoscopy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  over 18 years not pregnant not meeting any of the exclusion criteria Voluntary consent&#xD;
+             form signer * Indications for colonoscopy:&#xD;
+&#xD;
+        Colorectal cancer or adenomatous polyp in first-degree relatives Patients followed for more&#xD;
+        than 8 years with ulcerative colitis, Crohn's Disease, or individuals with a history of&#xD;
+        hereditary polyposis or non-polyposis syndrome. In these groups, the screening procedure&#xD;
+        should be started from the age of 40.&#xD;
+&#xD;
+        It is a population-based screening that begins at age 50 and ends at age 70 for all men and&#xD;
+        women (50 and 70 years will be included). However, especially in this group of patients;&#xD;
+&#xD;
+        Male patients presenting with iron deficiency anemia Female patients over 40 years of age&#xD;
+        presenting with iron deficiency anemia Patients with positive occult blood in stool in&#xD;
+        screening programs Patients presenting with rectal bleeding Patients with defecation&#xD;
+        irregularity, weight loss&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  under 18 years old&#xD;
+&#xD;
+          -  Pregnant or planning to become&#xD;
+&#xD;
+          -  Have another known diagnosis of gastrointestinal disease&#xD;
+&#xD;
+          -  Abdominal surgery other than appendectomy or hysterectomy history&#xD;
+&#xD;
+          -  Psychiatric comorbidity&#xD;
+&#xD;
+          -  Chronic diseases that will affect the microbiome (cancer, diabetes, cardiovascular&#xD;
+             disease, liver diseases, neurological diseases, etc.)&#xD;
+&#xD;
+          -  Use of drugs that may affect digestive function (including use in the last 4 weeks),&#xD;
+             probiotics, narcotic analgesics, lactulose (prebiotics) in the 4 weeks before the&#xD;
+             study&#xD;
+&#xD;
+          -  Patients taking dietary supplements will not be included in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Varol TUNALI, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Celal Bayar University Faculty of Medicine Parasitology Department</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Varol TUNALI, Dr.</last_name>
+    <phone>00905556303231</phone>
+    <email>varoltunali@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Medipol University Esenler Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Other (Non U.s.)</state>
+        <zip>34230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naciye Cigdem Arslan, MD</last_name>
+      <phone>05313890975</phone>
+    </contact>
+    <investigator>
+      <last_name>Naciye Cigdem Arslan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>March 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Microbiome</keyword>
+  <keyword>Colon cancer</keyword>
+  <keyword>Colonoscopy</keyword>
+  <keyword>Artificial intelligence</keyword>
+  <keyword>Screening test</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colonic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

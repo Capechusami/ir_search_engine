@@ -1,0 +1,296 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078931</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TBA</org_study_id>
+    <nct_id>NCT05078931</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Pembrolizumab Plus Lenvatinib in PD-L1 Positive TKI Resistant NSCLC Patients</brief_title>
+  <official_title>An Open-label, Single-arm Phase II Study of Pembrolizumab Plus Lenvatinib in PD-L1 Positive Patients With TKI-resistant EGFR-mutated Advanced Non-small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Chest Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanghai Chest Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate the efficacy and safety of the combination of pembrolizumab and&#xD;
+      lenvatinib in PD-L1 positive patients with TKI-resistant EGFR-mutated advanced NSCLC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Tyrosine Kinase Inhibitors (TKIs) are the standard front-line treatment for patients with&#xD;
+      EGFR sensitive mutations. Even though patients have a better response rate and longer PFS&#xD;
+      comparing to chemotherapy, drug resistance have been an inevitable issue associated with&#xD;
+      these drugs. The standard of subsequent treatment for TKI resistance at present is&#xD;
+      chemotherapy (platinum doublet chemotherapy), which shows limited benefit with ORR 20-30% and&#xD;
+      PFS nearly 4 months. Therefore, it is essential to develop the novel therapies.&#xD;
+&#xD;
+      Immune checkpoint therapy, which is based on negative regulatory mechanisms and targeted&#xD;
+      enhancement of the anti-tumor immune response, is a novel and important therapeutic strategy&#xD;
+      for lung cancer, especially for those patients with PD-1/PD-L1 positive advanced NSCLC. VEGF&#xD;
+      signaling regulates immune suppression by promoting the expansion of suppressive immune cell&#xD;
+      populations. Therefore, modulation of VEGF-mediated immune suppression could potentially&#xD;
+      augment the immunotherapeutic activity of immune checkpoint inhibitors. Lenvatinib is a&#xD;
+      multitargeted TKI with anti-tumor activity via inhibiting VEGFR 1-3, FGFR 1-4 and PDGFR. It&#xD;
+      modulates the cancer immunity associated with a decrease in the population of&#xD;
+      immunosuppressive tumor-associated macrophages and an increase in interferon-γ-producing CD8+&#xD;
+      T cells. The combination of immune check point inhibitors (PD-1/PD-L1 inhibitors) and&#xD;
+      lenvatinib could be a promising strategy to improve the immunotherapy outcome in lung cancer&#xD;
+      patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 23, 2021</start_date>
+  <completion_date type="Anticipated">May 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is an open-label, single-arm phase II study of lenvatinib plus pembrolizumab in PD-L1 positive patients with TKI-resistant EGFR-mutated advanced non-small cell lung cancer.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>Up to approximately 12 months</time_frame>
+    <description>the time from the start of intervention to evidence of radiographic progression as defined by RECIST criteria or death from any cause without evidence of disease progression, whichever occurs first. Cases with incomplete follow up or without adequate disease evaluations will be censored at date last documented to be progression free.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to approximately 24 months</time_frame>
+    <description>the time from the start of treatment until death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>Up to approximately 24 months</time_frame>
+    <description>the proportion of the total number of subjects with a confirmed CR or confirmed PR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Up to approximately 24 months</time_frame>
+    <description>the time from the earliest date of qualifying response until earliest date of PD or death from any cause, whichever comes first.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>NSCLC</condition>
+  <arm_group>
+    <arm_group_label>Pembrolizumab + Lenvatinib in PD-L1 Positive TKI resistant NSCLC patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The PD-L1 positive patients with TKI-resistant EGFR-mutated advanced NSCLC will receive the combination of pembrolizumab and lenvatinib.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab 200 mg will be administered as a 30-minute IV infusion every 3 weeks for up to 35 cycles</description>
+    <arm_group_label>Pembrolizumab + Lenvatinib in PD-L1 Positive TKI resistant NSCLC patients</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenvatinib</intervention_name>
+    <description>Lenvatinib 20mg will be administered orally daily.</description>
+    <arm_group_label>Pembrolizumab + Lenvatinib in PD-L1 Positive TKI resistant NSCLC patients</arm_group_label>
+    <other_name>Lenvima</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Have a histologically or cytologically confirmed stage IV NSCLC by American Joint&#xD;
+             Committee on Cancer Version 8&#xD;
+&#xD;
+          2. Have confirmation with sensitizing EGFR mutations, either DEL19 or L858R&#xD;
+&#xD;
+          3. Have undergone failure 1-2 prior EGFR-TKI (Osimertinib exposure required for T790M+)&#xD;
+&#xD;
+          4. Have measurable disease based on RECIST 1.1, as determined by the local site.&#xD;
+&#xD;
+             - Note: Lesions that appear measurable but are situated in a previously irradiated&#xD;
+             area can be considered measurable (eligible for selection as target lesions) if they&#xD;
+             have shown documented growth since the completion of radiation.&#xD;
+&#xD;
+          5. Tumor tissue that demonstrates PD-L1 expression in ≥1% of tumor cells (TPS ≥1%) as&#xD;
+             assessed by IHC 22C3 pharmDx.&#xD;
+&#xD;
+               -  Note: Assessment of PD-L1 expression must be made from provided archival tumor&#xD;
+                  tissue sample or newly obtained core or excisional biopsy of a tumor lesion not&#xD;
+                  previously irradiated. (A fine-needle aspirate, frozen sample, plastic embedded&#xD;
+                  sample, cell block, clot, bone, bone marrow, cytologic specimen, or decalcified&#xD;
+                  or formalin-fixed sample that was frozen at any point will not be acceptable for&#xD;
+                  analysis). Formalin-fixed, paraffin-embedded tissue blocks are preferred to&#xD;
+                  slides. Newly obtained biopsies are preferred to archived tissue.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has known untreated central nervous system metastases and/or carcinomatous meningitis.&#xD;
+             Participants with previously treated brain metastases may participate provided they&#xD;
+             are radiologically stable (ie, without evidence of progression for at least 4 weeks by&#xD;
+             repeat imaging (note: repeat imaging should be performed during study screening),&#xD;
+             clinically stable, and without requirement of steroid treatment for at least 14 days&#xD;
+             before first dose of study intervention.&#xD;
+&#xD;
+          2. Has clinically significant hemoptysis (at least 0.5 teaspoon of bright red blood) or&#xD;
+             tumor bleeding within 2 weeks before the first dose of study intervention.&#xD;
+&#xD;
+          3. Bleeding or thrombotic disorders or subjects at risk for severe hemorrhage. The degree&#xD;
+             of tumor invasion/infiltration of major blood vessels should be considered because of&#xD;
+             the potential risk of severe hemorrhage associated with tumor shrinkage/necrosis after&#xD;
+             lenvatinib therapy.&#xD;
+&#xD;
+          4. Has a known history of an additional malignancy, except if the participant has&#xD;
+             undergone potentially curative therapy with no evidence of that disease recurrence for&#xD;
+             at least 3 years since initiation of that therapy.&#xD;
+&#xD;
+             - Note: The time requirement for no evidence of disease for at least 3 years does not&#xD;
+             apply to the NSCLC for which a participant is enrolled in the study. The time&#xD;
+             requirement also does not apply to participants who underwent successful definitive&#xD;
+             resection of basal cell carcinoma of the skin, superficial bladder cancer, squamous&#xD;
+             cell carcinoma of the skin, in situ cervical cancer, or other in situ cancers.&#xD;
+&#xD;
+          5. Has an active autoimmune disease that has required systemic treatment in the past 2&#xD;
+             years (ie, with the use of disease-modifying agents, corticosteroids, or&#xD;
+             immunosuppressive drugs). Replacement therapy (eg, thyroxine, insulin, or physiologic&#xD;
+             corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is&#xD;
+             not considered a form of systemic treatment and is allowed.&#xD;
+&#xD;
+          6. Has had an allogeneic tissue/solid organ transplant.&#xD;
+&#xD;
+          7. Has a known history of human immunodeficiency virus (HIV) infection; HIV testing is&#xD;
+             not required unless mandated by the local health authority.&#xD;
+&#xD;
+          8. Has a history of (noninfectious) pneumonitis that required systemic steroids or&#xD;
+             current pneumonitis/interstitial lung disease.&#xD;
+&#xD;
+          9. Has a known history of hepatitis B (defined as hepatitis B surface antigen [HBsAg]&#xD;
+             reactive or hepatitis B virus [HBV]-DNA detected) or known active hepatitis C virus&#xD;
+             (HCV, defined as HCV-RNA [qualitative] detected or HCV antibody reactive, if HCV-RNA&#xD;
+             is not the local SOC) infection.&#xD;
+&#xD;
+             - Note: No testing for hepatitis B and hepatitis C is required unless mandated by the&#xD;
+             local health authority.&#xD;
+&#xD;
+         10. Has a history of a gastrointestinal condition or procedure that in the opinion of the&#xD;
+             investigator may affect oral study drug absorption.&#xD;
+&#xD;
+         11. Has significant cardiovascular impairment within 12 months of the first dose of study&#xD;
+             intervention, such as a history of congestive heart failure greater than New York&#xD;
+             Heart Association Class II, unstable angina, myocardial infarction, cerebrovascular&#xD;
+             accident (CVA)/stroke, or cardiac arrhythmia associated with hemodynamic instability.&#xD;
+&#xD;
+         12. Has not recovered adequately from any toxicity and/or complications from major surgery&#xD;
+             before starting therapy.&#xD;
+&#xD;
+         13. Has a known history of active tuberculosis (TB).&#xD;
+&#xD;
+         14. Has an active infection requiring systemic therapy.&#xD;
+&#xD;
+         15. Has a known psychiatric or substance abuse disorder that would interfere with the&#xD;
+             participant's cooperation for the requirements of the study.&#xD;
+&#xD;
+         16. Previously had a severe hypersensitivity reaction to treatment with an mAb or has a&#xD;
+             known sensitivity or intolerance to any component of lenvatinib or pembrolizumab.&#xD;
+&#xD;
+         17. WOCBP who has a positive urine pregnancy test within 72 hours before the first dose of&#xD;
+             study intervention. If the urine test is positive or cannot be confirmed as negative,&#xD;
+             a serum pregnancy test will be required.&#xD;
+&#xD;
+             - Note: In the event that 72 hours have elapsed between the screening pregnancy test&#xD;
+             and the first dose of study intervention, another pregnancy test (urine or serum) must&#xD;
+             be performed and must be negative for the participant to start receiving study&#xD;
+             intervention.&#xD;
+&#xD;
+         18. Is pregnant or breastfeeding or expecting to conceive or father children within the&#xD;
+             projected duration of the study, starting with the screening visit through 120 days&#xD;
+             after the last dose of study intervention.&#xD;
+&#xD;
+         19. Has received a live vaccine within 30 days prior to the first dose of study drug.&#xD;
+             Examples of live vaccines include, but are not limited to, the following: measles,&#xD;
+             mumps, rubella, varicella/zoster (chicken pox), yellow fever, rabies, Bacillus&#xD;
+             Calmette-Guérin (BCG), and typhoid vaccine. Seasonal influenza vaccines for injection&#xD;
+             are generally killed virus vaccines and are allowed; however, intranasal influenza&#xD;
+             vaccines (eg, FluMist®) are live attenuated vaccines and are not allowed.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shun Lu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai Chest Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ziming Li</last_name>
+    <phone>+8613764590226</phone>
+    <email>liziming1980@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Oncology, Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong University</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shun Lu</last_name>
+      <phone>86-21-22200000</phone>
+      <email>shunlu@sjtu.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai Chest Hospital</investigator_affiliation>
+    <investigator_full_name>Lu Shun</investigator_full_name>
+    <investigator_title>Chief of Shanghai Lung Cancer Center</investigator_title>
+  </responsible_party>
+  <keyword>Pembrolizumab</keyword>
+  <keyword>Lenvatinib</keyword>
+  <keyword>NSCLC</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Lenvatinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

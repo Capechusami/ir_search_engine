@@ -1,0 +1,277 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ITS_002</org_study_id>
+    <nct_id>NCT05790616</nct_id>
+  </id_info>
+  <brief_title>Accuracy of Pulse Oximeters During Profound Hypoxia</brief_title>
+  <acronym>APO</acronym>
+  <official_title>Accuracy of Pulse Oximeters During Profound Hypoxia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Philips Clinical &amp; Medical Affairs Global</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Philips Clinical &amp; Medical Affairs Global</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to calibrate and determine the accuracy for SpO2, pulse rate and&#xD;
+      respiratory rate of the newly in-house build Test Device wrist 1 (TDw1, or EVA) at Philips.&#xD;
+&#xD;
+      SpO2, pulse rate and respiratory rate during hypoxia will be calculated by using data of&#xD;
+      well-known reference devices, including:&#xD;
+&#xD;
+        -  A reference SpO2 sensor of Nellcor placed at a fingertip, that reflects also&#xD;
+           continuously the pulse rate Will be used to compare with the test device.&#xD;
+&#xD;
+        -  A reference respiratory rate device that calculates the respiratory rate based on&#xD;
+           detection of end-tidal CO2 peaks by capnography.&#xD;
+&#xD;
+        -  Oxygen saturation in arterial blood samples (SaO2), determined by a co-oximeter will be&#xD;
+           used to calculate the accuracy of the test device.&#xD;
+&#xD;
+      During the study the following devices will be additionally used by the volunteers:&#xD;
+&#xD;
+        -  AppleWatch 7&#xD;
+&#xD;
+        -  TDw2, watch build by philips, using the PPG and software technology developed by Philips&#xD;
+&#xD;
+        -  A smartphone that detects reflected PPG signals from the reflected screen at the&#xD;
+           handpalm, by the build in frontfacing camera (TDc) of the smartphone&#xD;
+&#xD;
+      Volunteers will undergo progressive hypoxia (9 min/% O2) from 21 to 10% O2 in an altitude&#xD;
+      room, resulting in a volunteer's SpO2 of 73%. During this deliberated hypoxia, the volunteers&#xD;
+      wear the test and reference devices.&#xD;
+&#xD;
+      This study consists of 4 sub-studies (NI = non-invasive; IN = invasive with an arterial&#xD;
+      line):&#xD;
+&#xD;
+        -  NI (Fast-Sitting): volunteers are seated in the hypoxia room in which the ambient oxygen&#xD;
+           concentration decreases at a speed of 9 min/% O2. If the volunteer reached a SpO2 ≤73%&#xD;
+           for more than 1 minute, he/she leaves the hypoxia room. And will breath air with 21%&#xD;
+           oxygen. Volunteers wear TDw1 and TDw2 and the reference devices.&#xD;
+&#xD;
+        -  NI(Fast-Lying): identical to NI(Fast-Sitting) but volunteers lay on a mattress.&#xD;
+           Volunteers wear TDw1 and AppleWatch 7 and the reference devices.&#xD;
+&#xD;
+        -  NI (Slow-Sitting): identical to NI (Fast-Sitting), but after one of the volunteers&#xD;
+           reaches a SpO2 ≤73% for more than one minute, oxygen in the room increases at a speed of&#xD;
+           9 min/% O2 until normal ambient air oxygen concentration of 21%. Volunteers wear TDw1&#xD;
+           and AppleWatch 7 and the reference devices.&#xD;
+&#xD;
+        -  IN(Fast-Sitting): identical to NI(Fast-Sitting) but the volunteer's oxygen saturation in&#xD;
+           blood samples withdrawn via an arterial line is measured in the laboratory.&#xD;
+&#xD;
+      The NI studies include 18 healthy participants in each sub-study. After the first volunteers&#xD;
+      have completed the study, small adaptations in the software of the study devices is still&#xD;
+      possible, e.g. to increase the quality of the PPG-signals. After the three sub-studies are&#xD;
+      completed, the algorithm for conversion of raw PPG signals to SpO2, pulse rate and&#xD;
+      respiratory rate will be defined and fixed for the test devices.&#xD;
+&#xD;
+      During the IN-study, which can only be started after completion of all NI studies, an&#xD;
+      arterial catheter will be inserted in the radial artery of the 12 participating volunteers,&#xD;
+      in order to take several blood samples to measure oxygen saturation in the blood (25 samples&#xD;
+      at well-defined moments during the study per volunteer). Using these results of arterial&#xD;
+      oxygen saturation, the accuracy of the test devices can be calculated.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 28, 2023</start_date>
+  <completion_date type="Anticipated">November 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Algorithm validation</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>the calculation and validation of the algorithm for&#xD;
+conversion of the modulation ratio R of theraw PPG signals to SpO2 for all wrist Test Devices.&#xD;
+conversion of PPG signals to PR and RR.&#xD;
+determining the accuracy of TDw1 and TDc with cooximetry as golden benchmark in the IN study.&#xD;
+Looking for the feasibility of TDw2 for further development&#xD;
+The accuracy is represented by A(rms), and specifically for the NI study, the SpO2 range is continuous (SpO2 100- 73%, about 16 000 samples per volunteer). During the IN study the accuracy is represented by A(rms) and calculated for SpO2 versus Sa O2 (about 20 to 25 samples per volunteer).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plateau 1</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Bias and 95% limits of agreement (LOA) of TDw1 SpO2 - Nellcor SpO2 in 90-100% Nellcor SpO2 range</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plateau 2</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Bias and 95% LOA of TDw1 SpO2 - Nellcor SpO2 in 80-90% Nellcor SpO2 range</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plateau 3</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Bias and 95% LOA of TDw1 SpO2 - Nellcor SpO2 in 70-80% Nellcor SpO2 range</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plateau 4</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Bias and 95% LOA of TDw1 SpO2 - Nellcor SpO2 in 70-100% Nellcor SpO2 range</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Statistics pooled subjects</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Bland-Altman of pooled subjects' TDw1 SpO2 - Nellcor SpO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Statistics individual subject</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Bland-Altman of Bias for each individual subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Statistics individual subject 2</measure>
+    <time_frame>90 minutes per test per participant</time_frame>
+    <description>Line listing for each individual subject</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>Hypoxia</condition>
+  <arm_group>
+    <arm_group_label>NI(Fast-Sitting)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subgroup Non-Invasive (Fast-Sitting): sitting volunteers undergo an ambient oxygen decrease from 21% to 10% (SpO2 &lt;73% for 1 minute) followed by a fast increase of ambient oxygen concentration.&#xD;
+Fast: if the study is completed for a volunteer reaching SpO2 ≤73%, the subject leaves the room and breaths 21% oxygen. The hypoxia inducing device is stopped after all subjects left the hypoxia room and the door of the hypoxia room is opened, allowing air with 21% O2 to enter the room. Airco fan stays running.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NI(Slow-Sitting)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Volunteers of subgroup Non-Invasive (Slow-Sitting) follow the NI (Rapid-Sitting) protocol, but after hypoxia at FiO2=0,10 oxygen normalization is programmed to increase at the same speed as the hypoxia creation.&#xD;
+Slow: after target hypoxia has been reached, air with 21% of oxygen is allowed to enter the room in such a way that the speed of increase of O2 to 21% is approximately equal to the decrease of the room's oxygen to 10%</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NI(Fast-Lying)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Volunteers included in the Non-Invasive (Fast-Lying) group follow the NI (Rapid-sitting) protocol although in lying position.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IN(Fast-Sitting)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After full completion of the Non-Invasive (NI) studies, and a defined algorithm to compute SpO2 by TDw1 is achieved, the study is repeated as described for the NI (Rapid-Sitting) protocol, but arterial blood oxygen saturation (SaO2) will be determined during 5 stable ambient oxygen plateaus (the Invasive (Fast-Sitting) study). These results are used as benchmark to define the final accuracy of TDw1 for SpO2 reproduction. In this part of the study, according to the minimal requirements of the regulatory agencies, 12 volunteers that successfully completed the study will be included.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Arterial blood draw</intervention_name>
+    <description>For the IN(Fast-Sitting) arm arterial blood will be collected to derive &quot;Gold-standard&quot; SaO2 reference values.</description>
+    <arm_group_label>IN(Fast-Sitting)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Oxygen reduction</intervention_name>
+    <description>Volunteers undergo an ambient oxygen decrease from 21% to 10%</description>
+    <arm_group_label>IN(Fast-Sitting)</arm_group_label>
+    <arm_group_label>NI(Fast-Lying)</arm_group_label>
+    <arm_group_label>NI(Fast-Sitting)</arm_group_label>
+    <arm_group_label>NI(Slow-Sitting)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        • Healthy subjects (ASA 1 and ASA 2) between 18 and 65 years of age upon signing the&#xD;
+        informed consent. (ASA: American Society of Anesthesiologist's health score). In each&#xD;
+        group, at least 30% of one gender need to be present, and at least 15% of participants have&#xD;
+        a Fitzpatrick's skin color scale of 5 or 6.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Heavy smokers or individuals exposed to high levels of carbon monoxide that result in&#xD;
+             elevated carboxyhemoglobin levels.&#xD;
+&#xD;
+          -  Individuals subject to conditions that result in elevated levels of methemoglobin.&#xD;
+&#xD;
+          -  Individuals with low SpO2 or SaO2 (&lt;95%) at FiO2 = 0,21&#xD;
+&#xD;
+          -  Moderate to severe claustrophobia for small rooms&#xD;
+&#xD;
+          -  Severe obesity (BMI &gt; 35 kg/m2)&#xD;
+&#xD;
+          -  Hemoglobinopathies&#xD;
+&#xD;
+          -  Arteriopathies, including Raynaud disease&#xD;
+&#xD;
+          -  ASA 3 to 5 subjects&#xD;
+&#xD;
+          -  Tattoo's, skin lesions,use of skin lotions or use of nail polish/fake nails at the&#xD;
+             region of interest for TDw and TDc&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Raf De Jongh, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hypoxia Centre of the Complementary Medical Centre (CMC) Genk</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Daphne van Scheppingen</last_name>
+    <phone>+316 3857 3076</phone>
+    <email>daphne.van.scheppingen@philips.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hypoxia Centre of the Complementary Medical Centre (CMC)</name>
+      <address>
+        <city>Genk</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raf De Jongh</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SpO2</keyword>
+  <keyword>photoplethysmography</keyword>
+  <keyword>camera based photoplethysmography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

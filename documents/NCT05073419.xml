@@ -1,0 +1,270 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05073419</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY21060027</org_study_id>
+    <nct_id>NCT05073419</nct_id>
+  </id_info>
+  <brief_title>Arrhythmia Detection After MI</brief_title>
+  <acronym>AID MI</acronym>
+  <official_title>Arrhythmia Detection After Myocardial Infarction Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samir Saba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Abbott</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients post acute myocardial infarction (AMI) have a high risk of mortality but the use of&#xD;
+      an implantable defibrillator in the early aftermath of an AMI has not been shown to improve&#xD;
+      patients' survival. The VEST trial recently demonstrated an improved overall survival in post&#xD;
+      AMI patients with the use of a wearable defibrillator. The same improvement was not&#xD;
+      demonstrated for the risk of sudden cardiac death. Monitoring patients after AMI using an&#xD;
+      implantable cardiac monitor (ICM) may document findings that can impact patient management&#xD;
+      and eventually improve their outcomes. We are therefore conducting the AID MI trial to&#xD;
+      examine the impact of ICM on patient management in the post AMI setting.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients who have ventricular tachycardia or fibrillation at least 48 hours after an acute&#xD;
+      myocardial infarction (AMI) have a higher risk of sudden cardiac death. Current guidelines&#xD;
+      recommend that for primary prevention of sudden cardiac death, patients with left ventricular&#xD;
+      ejection fraction (LVEF) ≤ 35% should wait at least 40 days post-AMI or 90 days post&#xD;
+      revascularization prior to receiving an implantable cardioverter defibrillator (ICD). This&#xD;
+      period of time potentially leaves a vulnerable population without protection from sudden&#xD;
+      cardiac death (SCD).&#xD;
+&#xD;
+      The landmark MADIT I and MADIT II trials demonstrated that ICD therapy was associated with&#xD;
+      significantly improved survival in patients with ischemic cardiomyopathy at any interval of&#xD;
+      time. The DINAMIT study demonstrated that ICD placement less than 40 days after AMI had a&#xD;
+      reduction in arrhythmic mortality at the cost of an increase in non-arrhythmic mortality.&#xD;
+      Results from these and other studies suggest that the risk of SCD after AMI may be&#xD;
+      time-dependent and that patients at increased risk for SCD are also at increased risk for&#xD;
+      death from other causes. Thus, there is a need for additional studies to identify subsets of&#xD;
+      patients with arrhythmias that may benefit from other therapeutic interventions such as&#xD;
+      ablations, anti-arrhythmic medications, implantable cardiac devices, or other therapies.&#xD;
+&#xD;
+      The CARISMA study was the first study to document the incidence of cardiac arrhythmias in&#xD;
+      post-AMI patients with left ventricular dysfunction (LVEF≤40%) using an implantable loop&#xD;
+      recorder. Results showed high incidences of arrhythmias such as new-onset AF (27.6%) and&#xD;
+      high-degree AV block (9.8%). Subsequent studies showed that these arrhythmias were associated&#xD;
+      with increased risk of major cardiovascular events such as heart failure, ventricular&#xD;
+      tachyarrhythmias, stroke, reinfarction, or cardiac death.&#xD;
+&#xD;
+      It has been shown that utilizing remote monitoring as part of clinical care in patients with&#xD;
+      cardiac implantable electronic devices is associated with improved all-cause survival; the&#xD;
+      magnitude of survival increases with the degree of adherence to remote monitoring and the&#xD;
+      timeliness to enroll and activate in remote monitoring shortly after device implantation.&#xD;
+&#xD;
+      These studies suggest the need for further investigation and evaluation of acute and&#xD;
+      long-term cardiac monitoring in post-AMI patients, in an effort to identify patients at&#xD;
+      greatest risk, inform clinical decision making and potentially reduce the risk of all-cause&#xD;
+      mortality. In addition, the ability to remotely monitor patients may minimize the time to&#xD;
+      diagnosis and enable early intervention in this patient population.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 9, 2022</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Pilot randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Clinical information regarding ICM implantation will be withheld from outcome assessors</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes to patient management</measure>
+    <time_frame>90 days post AMI</time_frame>
+    <description>Incidence (frequency) of cardiac arrhythmias (bradyarrhythmia, tachyarrhythmia, pause, etc…) that lead to actionable treatment change</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to diagnosis and/or treatment of cardiac arrhythmia</measure>
+    <time_frame>90 days post AMI</time_frame>
+    <description>days post randomization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes to patient management</measure>
+    <time_frame>24 months</time_frame>
+    <description>Incidence (frequency) of cardiac arrhythmias (bradyarrhythmia, tachyarrhythmia, pause, etc…) that lead to actionable treatment change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>at 90 days</time_frame>
+    <description>all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>at 24 months</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Depression and Anxiety Scale</measure>
+    <time_frame>at 90 days</time_frame>
+    <description>Hospital Anxiety and Depression Scale (HADS) Minimum 0 and maximum 21 0-7 = Normal 8-10 = Borderline abnormal (borderline case) 11-21 = Abnormal (case)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depression and Anxiety Scale</measure>
+    <time_frame>at 24 months</time_frame>
+    <description>Hospital Anxiety and Depression Scale (HADS) Minimum 0 and maximum 21 0-7 = Normal 8-10 = Borderline abnormal (borderline case) 11-21 = Abnormal (case)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physical and Mental Health</measure>
+    <time_frame>at 90 days</time_frame>
+    <description>PROMIS-29 scale Scale ranges from 29 to 145 with a higher number indicating better physical and mental health</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physical and Mental Health</measure>
+    <time_frame>at 24 months</time_frame>
+    <description>PROMIS-29 scale Scale ranges from 29 to 145 with a higher number indicating better physical and mental health</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Acute Myocardial Infarction</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Post-AMI patients in this arm will receive standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ICM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Post-AMI patients in this arm will receive standard of care and an ICM</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Routine monitoring of post AMI patient with clinic visits</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ICM Implantation</intervention_name>
+    <description>Implantation of ICM through small incision (2 mm) under the skin</description>
+    <arm_group_label>ICM</arm_group_label>
+    <other_name>ICM</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults, age 18 years or older&#xD;
+&#xD;
+          -  AMI (STEMI and NSTEMI)&#xD;
+&#xD;
+          -  Willing to give written informed consent&#xD;
+&#xD;
+          -  Expected discharge from hospital within 7 days of AMI&#xD;
+&#xD;
+          -  Willing to receive ICM insertion within 21 days of index AMI&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Existing pacemaker, ICD, ICM, or any other implantable cardiac electronic device&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Index AMI was more than 21 days&#xD;
+&#xD;
+          -  Unwilling/cannot insert ICM within 21 days post AMI&#xD;
+&#xD;
+          -  Planned ICD implant, planned CABG or any open-heart surgery (e.g. for severe valvular&#xD;
+             disease)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Samir F Saba, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Samir F Saba, MD</last_name>
+    <phone>412 647 2695</phone>
+    <email>sabas@upmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melissa Enlow</last_name>
+    <phone>412-647-1582</phone>
+    <email>enlowms@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UPMC Presbyterian Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Pasquantonio</last_name>
+      <phone>412-647-8210</phone>
+      <email>pasquantonioej@upmc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>September 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>October 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Samir Saba</investigator_full_name>
+    <investigator_title>Division Chief of Cardiology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Infarction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Publication of protocol, methods, results in aggregates</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>1 year after publication of the mainmanuscript</ipd_time_frame>
+    <ipd_access_criteria>Submit request to PI Only de-identified data will be shared</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

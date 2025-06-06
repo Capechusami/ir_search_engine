@@ -1,0 +1,149 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615441</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4-2022-1155</org_study_id>
+    <nct_id>NCT05615441</nct_id>
+  </id_info>
+  <brief_title>Effect of Nociception Level Monitoring During Remimazolam-based Total Intravenous Anesthesia on Intraoperative Opioid Requirements and Postoperative Pain</brief_title>
+  <official_title>Effect of Nociception Level Monitoring During Remimazolam-based Total Intravenous Anesthesia on Intraoperative Opioid Requirements and Postoperative Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yonsei University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yonsei University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to investigate whether the use of nociception monitoring during general&#xD;
+      anesthesia with remimazolam-based total intravenous anesthesia has an effect on&#xD;
+      intraoperative opioid requirements and postoperative pain. This study is a randomized trial&#xD;
+      with a 50% probability of being assigned to either group. Randomization will be done by an&#xD;
+      anesthesiologist not involved in anesthesia or postoperative outcome assessment. Patients and&#xD;
+      the investigator in charge of postoperative outcomes assessment will be blinded to group&#xD;
+      allocation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2022</start_date>
+  <completion_date type="Anticipated">November 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intraoperative remifentanil requirement</measure>
+    <time_frame>Within the intraoperative period</time_frame>
+    <description>Intraoperative remifentanil requirements will be collected as primary outcome as µg/kg/min</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">58</enrollment>
+  <condition>Adult Patients Aged 19-64, Scheduled for Elective Arthroscopic Knee Surgery</condition>
+  <arm_group>
+    <arm_group_label>ANI-guided</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receiving remimazolam-based total intravenous general anesthesia with nociception monitoring with the ANI monitor</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receiving remimazolam-based total intravenous general anesthesia based on hemodynamic variables and without ANI nociception monitoring</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Analgesia Nociception Index monitor</intervention_name>
+    <description>Patients will receive remimazolam-based total intravenous general anesthesia with nociception monitoring with the ANI monitor</description>
+    <arm_group_label>ANI-guided</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard monitoring</intervention_name>
+    <description>Patients will receive remimazolam-based total intravenous general anesthesia based on hemodynamic monitoring and without nociception monitoring</description>
+    <arm_group_label>Standard</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Adult patients between 19 and 64 years of age, ASA class I~III, scheduled for arthroscopic&#xD;
+        knee surgeryunder general anesthesia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patient refusal, patients unable to read consent form, active URI or uncontrolled asthma,&#xD;
+        pneumonia, history of allergies to benzodiazepines, decreased liver or kidney function,&#xD;
+        heart failure of ejection fraction&lt;55%, pregnant or breastfeeding patients, history of&#xD;
+        substance abuse/addiction&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Seokyung Shin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Anesthesiology and Pain Medicine, Yonsei University College of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Seokyung Shin</last_name>
+    <phone>82-2-2228-5785</phone>
+    <email>skshin@yuhs.ac</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yonsei University Health System, Severance Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Seokyung Shin</last_name>
+      <phone>82-2-2228-5785</phone>
+      <email>skshin@yuhs.ac</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pain, Postoperative</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

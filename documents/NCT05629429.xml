@@ -1,0 +1,416 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629429</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202202045MIPA</org_study_id>
+    <nct_id>NCT05629429</nct_id>
+  </id_info>
+  <brief_title>Olaparib Maintenance Therapy in Metastatic Breast Cancer</brief_title>
+  <official_title>Olaparib Maintenance Therapy in Patients With Metastatic Breast Cancer Following DNA-damaging Based Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Taiwan University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Taiwan University Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Olaparib, a PARP inhibitor, is proven as an effective therapy for germline BRCA1/2-mutated&#xD;
+      breast cancer; however, the therapeutic efficacy for somatic mutation in BRCA1/2 or genes of&#xD;
+      homologous recombination DNA repair is unclear. Maintenance of Oalaprib can delay the disease&#xD;
+      progression in patients with BRCA1/2 mutated advanced ovarian cancer after treatment with&#xD;
+      platinum based chemotherapy. The investigators design a phase 2 study to evaluate the&#xD;
+      efficacy of maintenance of Olaparib in patients with metastatic breast cancer. The&#xD;
+      investigators enroll patients with metastatic ER(+)Her2(-) or triple-negative breast cancer.&#xD;
+      Patients who are chemotherapy-naïve or prior 1-line chemotherapy are eligible for screening.&#xD;
+      All eligible patients will receive 4 cycles of platinum based chemotherapy. Gene test will be&#xD;
+      performed on their breast tumor. If patients have mutation of HR genes and at least stable&#xD;
+      disease after platinum based chemotherapy, they will be randomized to treatment arm (Olaparib&#xD;
+      maintenance) or control arm (continuation of chemotherapy). The primary end-point is&#xD;
+      progression-free survival, and the secondary end-point is to assess the response rate,&#xD;
+      overall survival and quality of life.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 12, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CT or MRI assessment</measure>
+    <time_frame>3 years</time_frame>
+    <description>Progression-free survival</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survive or death</measure>
+    <time_frame>3 years</time_frame>
+    <description>Overall survival rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CT or MRI assessment</measure>
+    <time_frame>3 years</time_frame>
+    <description>Response rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire</measure>
+    <time_frame>3 years</time_frame>
+    <description>Quality of life</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Metastatic Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: olaparib treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Olaparib 300mg BID PO</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm2: continuation of the chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>continuation of the current platinum based chemotherapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Olaparib</intervention_name>
+    <description>Olaparib 300mg BID PO</description>
+    <arm_group_label>Arm 1: olaparib treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chemotherapy drug</intervention_name>
+    <description>Continue platinum based chemotherapy</description>
+    <arm_group_label>Arm2: continuation of the chemotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients must have a life expectancy ≥ 16 weeks.&#xD;
+&#xD;
+          2. Provision of informed consent prior to any study specific procedures&#xD;
+&#xD;
+          3. 20 years of age or older; gender includes female and male&#xD;
+&#xD;
+          4. ECOG 0-1&#xD;
+&#xD;
+          5. Patients should be diagnosed as metastatic breast cancer ER(+)Her2(-) or TNBC,&#xD;
+             diagnosis could be by local hospital&#xD;
+&#xD;
+          6. HER2 negative [IHC 0, 1+ or IHC 2+ with corresponding ISH non-amplified of ratio less&#xD;
+             than 2.0 or ISH nonamplified ratio less than 2.0] as per ASCO-CAP HER2 guideline&#xD;
+             recommendations 2013 (ASCO-CAP).&#xD;
+&#xD;
+          7. At least one lesion, not previously irradiated, that can be accurately measured at&#xD;
+             baseline as ≥ 10 mm in the longest diameter (except lymph nodes which must have short&#xD;
+             axis ≥ 15 mm) with computed tomography (CT) or magnetic resonance imaging (MRI)&#xD;
+&#xD;
+          8. Postmenopausal or evidence of non-childbearing status for women of childbearing&#xD;
+             potential: negative urine or serum pregnancy test within 28 days of study treatment&#xD;
+             and confirmed prior to treatment on day 1. Postmenopausal is defined at least one of&#xD;
+             the followings: (a) Amenorrheic for 1 year or more following cessation of exogenous&#xD;
+             hormonal treatments; (b) Luteinizing hormone (LH) and Follicle stimulating hormone&#xD;
+             (FSH) levels in the post menopausal range for women under 50; (c) radiation- induced&#xD;
+             oophorectomy with last menses &gt;1 year ago; (d) chemotherapy-induced menopause with &gt;1&#xD;
+             year interval since last menses; (f) surgical sterilisation (bilateral oophorectomy or&#xD;
+             hysterectomy)&#xD;
+&#xD;
+          9. Male patients must use a condom during treatment and for 3 months after the last dose&#xD;
+             of olaparib when having sexual intercourse with a pregnant woman or with a woman of&#xD;
+             childbearing potential. Female partners of male patients should also use a highly&#xD;
+             effective form of contraception ([see appendix H for acceptable methods]) if they are&#xD;
+             of childbearing potential&#xD;
+&#xD;
+         10. No more than previous 0-1 line of chemotherapy after metastasis confirmed&#xD;
+&#xD;
+         11. For ER(+) breast cancer, patients should fail at least 1-line of hormone therapy&#xD;
+             (either in adjuvant setting or in metastatic cancer) before entering this study&#xD;
+&#xD;
+         12. Patients should undergo 4-cycles of platinum-based chemotherapy and have a CR, PS or&#xD;
+             SD prior to randomisation.&#xD;
+&#xD;
+         13. At least one measurable lesion that can be accurately assessed at baseline by computed&#xD;
+             tomography (CT) (magnetic resonance imaging [MRI] where CT is contraindicated) and is&#xD;
+             suitable for repeated assessment as per RECIST 1.1.&#xD;
+&#xD;
+         14. Patients must have normal organ and bone marrow function measured within 28 days prior&#xD;
+             to randomisation as defined below:&#xD;
+&#xD;
+               1. Haemoglobin (Hb) ≥10.0 g/dL&#xD;
+&#xD;
+               2. Absolute neutrophil count (ANC) ≥ 1.5 x 109/L&#xD;
+&#xD;
+               3. Platelet count ≥100 x 109/L&#xD;
+&#xD;
+               4. Total bilirubin ≤1.5 x institutional upper limit of normal (ULN) unless the&#xD;
+                  patient has documented Gilbert's Syndrome&#xD;
+&#xD;
+               5. Aspartate aminotransferase (AST) (Serum Glutamic Oxaloacetic Transaminase (SGOT))&#xD;
+                  / Alanine aminotransferase (ALT) (Serum Glutamic Pyruvate Transaminase (SGPT)) ≤&#xD;
+                  2.5 x institutional upper limit of normal unless liver metastases are present in&#xD;
+                  which case they must be ≤ 5x ULN&#xD;
+&#xD;
+               6. Patients must have creatinine clearance (CrCl) of ≥51 mL/min estimated or&#xD;
+                  measured using standard methodology at the investigating centre (i.e. Cockcroft-&#xD;
+&#xD;
+        Gault, MDRD, CK-EPI, EDTA or 24 hr urine):&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Patients should not enter the study if any of the following exclusion criteria are&#xD;
+        fulfilled:&#xD;
+&#xD;
+          1. Cytotoxic chemotherapy, hormonal or non hormonal targeted therapy within 21 days of&#xD;
+             Cycle 1 Day 1 is not permitted. Palliative radiotherapy must have been completed 21 or&#xD;
+             more days before Cycle 1 Day 1. The patient can receive a stable dose of&#xD;
+             bisphosphonates or denosumab for bone metastases, before and during the study as long&#xD;
+             as these were started at least 5 days prior to study treatment.&#xD;
+&#xD;
+          2. More than 2 prior lines of cytotoxic chemotherapy for metastatic disease.&#xD;
+&#xD;
+               1. Prior treatments with hormonal therapy and non hormonal targeted therapy are&#xD;
+                  allowed and not counted as a prior line of cytotoxic chemotherapy.&#xD;
+&#xD;
+               2. For the purposes of this protocol, the combination of &quot;an aromatase inhibitor and&#xD;
+                  everolimus&quot; or &quot;a hormonal therapy and CDK4/6 inhibitor&quot; is not considered&#xD;
+                  cytotoxic chemotherapy.&#xD;
+&#xD;
+               3. Treatment with biologics will not be considered as prior line of therapy.&#xD;
+&#xD;
+               4. Patients receiving any systemic chemotherapy or radiotherapy (except for&#xD;
+                  palliative reasons) within 3 weeks prior to study treatment&#xD;
+&#xD;
+          3. Previous treatment with a PARP inhibitor (including olaparib)&#xD;
+&#xD;
+          4. The minimum washout period for immune checkpoint blockade therapy shall be 21 days.&#xD;
+&#xD;
+          5. Patients with MDS/AML or with features suggestive of MDS/AML.&#xD;
+&#xD;
+          6. Patients with second primary cancer, EXCEPTIONS: adequately treated non melanoma skin&#xD;
+             cancer, curatively treated in-situ cancer of the cervix, Ductal Carcinoma in Situ&#xD;
+             (DCIS), stage 1 grade 1 endometrial carcinoma, or other solid tumours curatively&#xD;
+             treated with no evidence of disease for ≥ 5 years prior to study entry (including&#xD;
+             lymphomas [without bone marrow involvement]).&#xD;
+&#xD;
+          7. Mean resting corrected QTc interval using the Fridericia formula (QTcF) &gt;470&#xD;
+             msec/female patients and &gt;450 msec for male patients (as calculated per institutional&#xD;
+             standards) obtained from 3 ECGs performed 2-5 minutes apart at study entry, or&#xD;
+             congenital long QT syndrome.&#xD;
+&#xD;
+          8. Any of the following cardiac diseases currently or within the last 6 months&#xD;
+&#xD;
+               1. Unstable angina pectoris&#xD;
+&#xD;
+               2. Congestive heart failure ≥ Class 2 as defined by the New York Heart Association&#xD;
+&#xD;
+               3. Acute myocardial infarction&#xD;
+&#xD;
+               4. Conduction abnormality not controlled with pacemaker or medication (patients with&#xD;
+                  a conduction abnormality controlled with pacemaker or medication at the time of&#xD;
+                  screening are eligible)&#xD;
+&#xD;
+               5. Significant ventricular or supraventricular arrhythmias (patients with chronic&#xD;
+                  rate- controlled atrial fibrillation in the absence of other cardiac&#xD;
+                  abnormalities are eligible)&#xD;
+&#xD;
+          9. Concomitant use of known strong cytochrome P (CYP) 3A inhibitors (eg. itraconazole,&#xD;
+             telithromycin, clarithromycin, protease inhibitors boosted with ritonavir or&#xD;
+             cobicistat, indinavir, saquinavir, nelfinavir, boceprevir, telaprevir) or moderate&#xD;
+             CYP3A inhibitors (eg.&#xD;
+&#xD;
+             ciprofloxacin, erythromycin, diltiazem, fluconazole, verapamil). The required washout&#xD;
+             period prior to starting study treatment is 2 weeks.&#xD;
+&#xD;
+             Patient has had prescription or non-prescription drugs or other products known to be&#xD;
+             sensitive CYP3A4 substrates or CYP3A4 substrates with a narrow therapeutic index, or&#xD;
+             to be moderate to strong inhibitors/inducers of CYP3A4 which cannot be discontinued 2&#xD;
+             weeks prior to Day 1 of dosing and withheld throughout the study until 2 weeks after&#xD;
+             the last dose of study drug. Patients should stop using herbal medications 7 days&#xD;
+             prior to first dose of study treatment.&#xD;
+&#xD;
+         10. Concomitant use of known strong (eg. phenobarbital, enzalutamide, phenytoin,&#xD;
+             rifampicin, rifabutin, rifapentine, carbamazepine, nevirapine and St John's Wort) or&#xD;
+             moderate CYP3A inducers (eg. bosentan, efavirenz, modafinil). The required washout&#xD;
+             period prior to starting study treatment is 5 weeks for enzalutamide or phenobarbital&#xD;
+             and 3 weeks for other agents.&#xD;
+&#xD;
+         11. Persistent toxicities (≥ CTCAE grade 2) caused by previous cancer therapy, excluding&#xD;
+             alopecia.&#xD;
+&#xD;
+         12. Major surgery within 2 weeks of starting study treatment: patients must have recovered&#xD;
+             from any effects of any major surgery.&#xD;
+&#xD;
+         13. Immunocompromised patients, eg, patients who are known to be serologically positive&#xD;
+             for human immunodeficiency virus (HIV).&#xD;
+&#xD;
+         14. Patients considered a poor medical risk due to a serious, uncontrolled medical&#xD;
+             disorder, non-malignant systemic disease or active, uncontrolled infection.&#xD;
+&#xD;
+             a. Examples include, but are not limited to, uncontrolled ventricular arrhythmia,&#xD;
+             recent (within 3 months) myocardial infarction, uncontrolled major seizure disorder,&#xD;
+             unstable spinal cord compression, superior vena cava syndrome, extensive interstitial&#xD;
+             bilateral lung disease on High Resolution CT scan or any psychiatric disorder that&#xD;
+             prohibits obtaining informed consent, and any other medical condition that, in the&#xD;
+             opinion of the Investigator, places the patient at unacceptable risk of toxicity.&#xD;
+&#xD;
+         15. Patients with symptomatic uncontrolled brain metastases.&#xD;
+&#xD;
+               1. A scan to confirm the absence of brain metastases is not required. The patient&#xD;
+                  can receive a stable dose of corticosteroids before and during the study as long&#xD;
+                  as these were started at least 4 weeks prior to treatment. Patients with spinal&#xD;
+                  cord compression unless considered to have received definitive treatment for this&#xD;
+                  and evidence of clinically stable disease (SD) for 28 days.&#xD;
+&#xD;
+               2. Patients with a history of treated central nervous system (CNS) metastases are&#xD;
+                  eligible, provided they meet all of the following criteria: Disease outside the&#xD;
+                  CNS is present. No clinical evidence of progression since completion of&#xD;
+                  CNS-directed therapy. Minimum of 3 weeks between completion of radiotherapy and&#xD;
+                  Cycle 1 Day 1 and recovery from significant (Grade ≥3) acute toxicity with no&#xD;
+                  ongoing requirement for &gt;10 mg of prednisone per day or an equivalent dose of&#xD;
+                  other corticosteroid. If on corticosteroids, the patient should be receiving a&#xD;
+                  stable dose of corticosteroids, started at least 4 weeks prior to treatment.&#xD;
+&#xD;
+         16. Patients unable to swallow orally administered medication and patients with&#xD;
+             gastrointestinal disorders likely to interfere with absorption of the study&#xD;
+             medication.&#xD;
+&#xD;
+         17. Patients with a known hypersensitivity to olaparib or any of the excipients of the&#xD;
+             products.&#xD;
+&#xD;
+         18. Pregnant or breast feeding women.&#xD;
+&#xD;
+         19. Patients with HBV infection and uncontrolled hepatitis are not eligible. If patients&#xD;
+             are HBV carriers (HBsAg-positive without 2.5x elevation of AST/ALT), these patients&#xD;
+             can enter study if they have baseline HBV-DNA level assessed during screening, receive&#xD;
+             prophylactic medication and regularly monitored by GI doctor. Patients positive for&#xD;
+             hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction is&#xD;
+             negative for HCV RNA.&#xD;
+&#xD;
+         20. Previous allogenic bone marrow transplant or double umbilical cord blood&#xD;
+             transplantation (dUCBT)&#xD;
+&#xD;
+         21. Whole blood transfusions in the last 120 days prior to entry to the study (packed red&#xD;
+             blood cells and platelet transfusions are acceptable, for timing refer to inclusion&#xD;
+             criteria no.7&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Po-Han Lin</last_name>
+    <phone>886972653807</phone>
+    <email>pohanlin01@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yu-Ting Chiu</last_name>
+    <phone>886981020813</phone>
+    <email>candy987466@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital</name>
+      <address>
+        <city>Taipei City</city>
+        <state>Please Select</state>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chi-Cheng Huang</last_name>
+      <email>chishenh74@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ta-Chung Chao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <state>Please Select</state>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Po-Han Lin</last_name>
+      <phone>0223123456</phone>
+      <phone_ext>71928</phone_ext>
+      <email>pohanlin01@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital Yunlin branch</name>
+      <address>
+        <city>Yuanlin</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hsing-wu Chen</last_name>
+      <email>hsingwuc@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hsing-wu Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 27, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Olaparib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

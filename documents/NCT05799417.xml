@@ -1,0 +1,223 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799417</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-00970</org_study_id>
+    <nct_id>NCT05799417</nct_id>
+  </id_info>
+  <brief_title>Brain Oscillatory Signatures of Auditory Stimuli Across Different Vigilance and Sedation States</brief_title>
+  <official_title>Brain Oscillatory Signatures of Auditory Stimuli Across Different Vigilance and Sedation States</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Inselspital, Berne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Inselspital, Berne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators want to explore how presenting acoustic stimuli influences brain&#xD;
+      oscillatory signatures and heart rhythm- dynamics across different vigilance and sedation&#xD;
+      states.&#xD;
+&#xD;
+      The investigators will administer acoustic stimuli during sedation and anaesthesia while&#xD;
+      brain activity and heart activity are being recorded by electroencephalogram and&#xD;
+      electrocardiogram.&#xD;
+&#xD;
+      On the day following anaesthesia an optional nap/sleep period's EEG and ECG will be recorded.&#xD;
+      During this short sleep, patients will again be exposed to acoustic stimuli. The recorded EEG&#xD;
+      and ECG will be compared intra-and inter-individually to recordings from sedation and&#xD;
+      anaesthesia.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 28, 2023</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The investigators forecast a maximal enrollment of 80 participants. However, an interim-analysis will be conducted after 10-14 participants to check estimated effect-size of intervention.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>This study is designed as non-randomized clinical study where acoustic stimuli of different characteristics are played and compared to within-subject baselines across various sedation and/or sleep states.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brain oscillatory power derived by EEG</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Brain oscillatory response to acoustic stimuli derived by power spectral density in canonical frequency bands from 0.5 up to 40 Hz.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain oscillatory response derived by Hilbert Amplitude</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Brain oscillatory response to acoustic stimuli derived by Hilbert-transforming EEG data and extracting Hilbert amplitude in microVolts</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Spindle characteristics - number of spindles</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Number of spindles</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Spindle characteristics - amplitude of spindles</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Spindle amplitude in microVolts</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Spindle characteristics - frequency of spindles</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Frequency of spindles in Hz</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Spindle characteristics - duration of spindles</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Duration of spindles in ms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Heart rate derived from echocardiogram in bpm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Instantaneous heart rate</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Instantaneous heart rate derived from echocardiogram in bpm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate variability</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Heart rate variability derived from echocardiogram in ms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slow wave characteristics - amplitude</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Slow wave amplitude in microVolt</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slow wave characteristics - number</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Number of slow waves</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slow wave characteristics - frequency</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Frequency of slow waves in Hz</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slow wave characteristics - slope</measure>
+    <time_frame>Continuously across anaesthesia/sedation/sleep up to 8 hours</time_frame>
+    <description>Slope of slow waves in microVolts/s</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of sleep arousals</measure>
+    <time_frame>Continuously across sleep up to 8 hours</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Anesthesia</condition>
+  <condition>Sleep</condition>
+  <arm_group>
+    <arm_group_label>Acoustic stimuli</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acoustic stimuli and comparison to within-subject baseline</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Acoustic stimuli</intervention_name>
+    <description>During different states of sedation/anaesthesia and sleep, acoustic stimuli will be presented and compared to a within-subject baseline.</description>
+    <arm_group_label>Acoustic stimuli</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Informed Consent as documented by signature&#xD;
+&#xD;
+          -  Good general health status&#xD;
+&#xD;
+          -  Planned ophthalmic/plastic surgery at Inselspital Berne&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindications on ethical grounds&#xD;
+&#xD;
+          -  Neurological/neurodegenerative disorder&#xD;
+&#xD;
+          -  Hearing problems (only if patients are not able to perceive the acoustic stimuli)&#xD;
+&#xD;
+          -  Pacemaker&#xD;
+&#xD;
+          -  Deep brain stimulator&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Known or suspected drug or alcohol abuse&#xD;
+&#xD;
+          -  Critical surgery procedure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>84 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Friedrich Lersch</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Inselspital, Berne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Friedrich Lesch, MD, MSc.</last_name>
+    <phone>+41 31 632 21 11</phone>
+    <email>friedrich.lersch@insel.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Inselspital</name>
+      <address>
+        <city>Bern</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Friedrich Lersch</last_name>
+      <email>friedrich.lersch@insel.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stephanie Huwiler</last_name>
+      <email>stephanie.huwiler@hest.ethz.ch</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 1, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

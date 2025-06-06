@@ -1,0 +1,289 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610111</url>
+  </required_header>
+  <id_info>
+    <org_study_id>220300</org_study_id>
+    <secondary_id>2R01DK085623</secondary_id>
+    <nct_id>NCT05610111</nct_id>
+  </id_info>
+  <brief_title>Adaptive Biobehavioral Control (ABC) in a Closed-Loop System</brief_title>
+  <acronym>ABC-WIT</acronym>
+  <official_title>Adaptive Biobehavioral Control (ABC) in a Closed-Loop System: A Randomized Crossover Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sue Brown</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tandem Diabetes Care, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Virginia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is intended to test a Web-based Information Tool (WIT) software providing&#xD;
+      additional information regarding time in range, GMI, hypo- and hyperglycemia risks,&#xD;
+      variability tracker, daily glycemic profiles, and potential changes of insulin pump&#xD;
+      parameters, to users of a commercially available Closed-Loop Control (CLC) System (Control-IQ&#xD;
+      Technology).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized two-arm crossover group trial in which both groups will use the CLC&#xD;
+      (Control-IQ) plus WIT. The difference between the two groups will be the order of the&#xD;
+      interventions. Each group will undergo screening and collection of baseline data from their&#xD;
+      personal AID system (Control-IQ) followed by randomization 1:1 into two groups. Both groups&#xD;
+      will have the same three interventions but will progress in the study in a different order&#xD;
+      allowing for crossover comparisons. The three interventions are:&#xD;
+&#xD;
+        -  Use of personal CLC system for 2 weeks&#xD;
+&#xD;
+        -  Use of personal CLC system and adding a behavioral adaptation module (BAM) for 4 weeks&#xD;
+&#xD;
+        -  Use of personal CLC system and adding the ABC which includes: BAM and PAM (which&#xD;
+           includes ATM and WST described below) for 16 weeks.&#xD;
+&#xD;
+      The BAM will consist of modules in which information only is given to participants (e.g. time&#xD;
+      in range, Glucose Management Indicator (GMI), hyper-and hypoglycemic risks, daily glycemic&#xD;
+      profiles, and variability tracker). The PAM includes auto suggestions for titration of&#xD;
+      insulin pump parameters every two weeks (ATM) and is aided by a web simulation tool (WST)&#xD;
+      which can replay 'what if' scenarios for the participant based on various combinations of&#xD;
+      insulin pump parameter changes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 18, 2023</start_date>
+  <completion_date type="Anticipated">May 3, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CGM-measured percent time in range 70-180 mg/dL</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The primary outcome for this study is CGM-measured percent time in range 70-180 mg/dL over the last 4-week periods on CLC+ABC versus 2 weeks of the current CLC system. The intervention will be considered effective if the CLC+ABC is superior to the CLC alone in a crossover design using a statistical significance of α=0.05.&#xD;
+To preserve the overall type 1 error for selected key secondary endpoints, a hierarchical testing procedure will be used. If the primary analysis for time in range described above results in a statistically significant result (p &lt; 0.05), then testing (similar to the model for the primary outcome) will proceed to the next key secondary outcome metric in the following order entered.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CGM-measured percent above 180 mg/dL during the day</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>A key secondary outcome is CGM-measured percent above 180mg/dL during the day comparing last 4 weeks of CLC+ABC to 2 weeks of the CLC system alone. If the analysis results in a statistically significant result (p &lt; 0.05), then testing will proceed to the next secondary outcome metric in the following order entered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CGM-measured percent below 70 mg/dL during the day</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>A key secondary outcome is CGM-measured percent below 70 mg/dL during the day comparing last 4 weeks of CLC+ABC to 2 weeks of the CLC system alone. If the analysis results in a statistically significant result (p &lt; 0.05), then testing will proceed to the next secondary outcome metric in the following order entered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CGM-measured mean glucose</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>A key secondary outcome is CGM-measured mean glucose comparing the last 4 weeks of CLC+ABC to 2 weeks of the CLC system alone. If the analysis results in a statistically significant result (p &lt; 0.05), then testing will proceed to the next secondary outcome metric in the following order entered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CGM-measured coefficient of variation during the day</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>A key secondary outcome is CGM-measured percent coefficient of variation during the day comparing last 4 weeks of CLC+ABC to 2 weeks of the CLC system alone.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>CLC, then CLC+BAM, then CLC+ABC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be using closed loop control (CLC) for 2 weeks. Participants will then use closed loop control (CLC) with behavioral adaption module (BAM) for 4 weeks, followed by closed loop control (CLC) adaptive biobehavioral control (ABC) for 16 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CLC+ABC, then CLC+BAM, then CLC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be using closed loop control (CLC) with adaptive biobehavioral control (ABC) for 16 weeks. Participants will then use closed loop control (CLC) with behavioral adaptation module (BAM) for 4 weeks, followed by closed loop control (CLC) for 2 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CLC + BAM</intervention_name>
+    <description>Closed Loop Control with the Behavioral Adaption Module for 4 weeks</description>
+    <arm_group_label>CLC+ABC, then CLC+BAM, then CLC</arm_group_label>
+    <arm_group_label>CLC, then CLC+BAM, then CLC+ABC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CLC + ABC</intervention_name>
+    <description>Closed Loop Control with Adaptive Biobehavioral Control for 16 weeks</description>
+    <arm_group_label>CLC+ABC, then CLC+BAM, then CLC</arm_group_label>
+    <arm_group_label>CLC, then CLC+BAM, then CLC+ABC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥18.0 and ≤70 years old at time of consent&#xD;
+&#xD;
+          2. Clinical diagnosis, based on investigator assessment, of type 1 diabetes for at least&#xD;
+             one year&#xD;
+&#xD;
+          3. Currently using an insulin pump for at least six months&#xD;
+&#xD;
+          4. Currently using insulin for at least six months&#xD;
+&#xD;
+          5. Currently using the t:slim X2 insulin pump for at least two months&#xD;
+&#xD;
+          6. Currently using or anticipated to be using the t:slim X2 insulin pump with Control-IQ&#xD;
+             technology at randomization (Visit 3).&#xD;
+&#xD;
+          7. Using or willing to use insulin parameters such as carbohydrate ratio and correction&#xD;
+             factors consistently on their pump in order to dose insulin for meals or corrections&#xD;
+&#xD;
+          8. Access to internet and willingness to upload data during the study as needed&#xD;
+&#xD;
+          9. Willing to use an app on a smart phone during the study.&#xD;
+&#xD;
+         10. For females, not currently known to be pregnant or breastfeeding&#xD;
+&#xD;
+         11. If female, sexually active, and of childbearing potential, must agree to use a form of&#xD;
+             contraception to prevent pregnancy while a participant in the study. A negative serum&#xD;
+             or urine pregnancy test will be required for all females of childbearing potential.&#xD;
+             Participants who become pregnant will be discontinued from the study. Also,&#xD;
+             participants who during the study develop and express the intention to become pregnant&#xD;
+             within the timespan of the study will be discontinued.&#xD;
+&#xD;
+         12. Willingness to use only insulin analogs approved for use in the t:slim X2 pump such as&#xD;
+             lispro (Humalog) or as part (Novolog) and not use ultra-rapid acting insulin analogs&#xD;
+             (e.g., FiAsp) during the study&#xD;
+&#xD;
+         13. Total daily insulin dose (TDD) at least 10 units per day&#xD;
+&#xD;
+         14. Willingness not to start any new non-insulin glucose-lowering agent during the course&#xD;
+             of the trial (including metformin (biguanides), GLP-1 receptor agonists, pramlintide,&#xD;
+             DPP-4 inhibitors, SGLT-2 inhibitors, sulfonylureas)&#xD;
+&#xD;
+         15. An understanding and willingness to follow the protocol and signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Concurrent use of any non-insulin glucose-lowering agent other than metformin or GLP-1&#xD;
+             receptor agonists following screening (including pramlintide, DPP-4 inhibitors, SGLT-2&#xD;
+             inhibitors, sulfonylureas)&#xD;
+&#xD;
+          2. A condition, which in the opinion of the investigator or designee, would put the&#xD;
+             participant at risk or interfere with the completion of the protocol.&#xD;
+&#xD;
+          3. History of diabetic ketoacidosis (DKA) in the 12 months prior to enrollment&#xD;
+&#xD;
+          4. Severe hypoglycemia resulting in seizure or loss of consciousness in the 12 months&#xD;
+             prior to enrollment&#xD;
+&#xD;
+          5. Currently being treated for a seizure disorder&#xD;
+&#xD;
+          6. Hemophilia or any other bleeding disorder&#xD;
+&#xD;
+          7. Planned surgery during study duration&#xD;
+&#xD;
+          8. Participation in another pharmaceutical or device trial at the time of enrollment or&#xD;
+             during the study&#xD;
+&#xD;
+          9. Having a direct supervisor at place of employment who is also directly involved in&#xD;
+             conducting the clinical trial (e.g., study investigator, coordinator, etc.); or having&#xD;
+             a first-degree relative who is directly involved in conducting the clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sue Brown, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Virginia Center for Diabetes Technology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carlene Alix</last_name>
+    <phone>(434) 249-8961</phone>
+    <email>uax8yx@UVAHealth.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Olivia McLean</last_name>
+    <phone>(434) 466-6744</phone>
+    <email>ohm2eh@UVAHealth.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Virginia Center for Diabetes Technology</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sue Brown, MD</last_name>
+      <phone>434-982-0602</phone>
+      <email>sab2f@virginia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Patricio Colmegna, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Virginia</investigator_affiliation>
+    <investigator_full_name>Sue Brown</investigator_full_name>
+    <investigator_title>Study Physician</investigator_title>
+  </responsible_party>
+  <keyword>Type 1 Diabetes</keyword>
+  <keyword>Closed-Loop Control (CLC)</keyword>
+  <keyword>Continuous Glucose Monitoring (CGM)</keyword>
+  <keyword>Artificial Pancreas (AP)</keyword>
+  <keyword>Tandem t:slim Insulin Pump with Control-IQ Technology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Will follow the NIH Data Sharing Policy and Implementation Guidance. Limited deidentified data will be shared while sharing of complete data sets will be regulated by Data-Sharing Agreements.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Generally following completion of publications.</ipd_time_frame>
+    <ipd_access_criteria>Limited deidentified data will be shared while sharing of complete data sets will be regulated by Data-Sharing Agreements.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

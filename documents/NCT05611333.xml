@@ -1,0 +1,349 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611333</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022P002541</org_study_id>
+    <nct_id>NCT05611333</nct_id>
+  </id_info>
+  <brief_title>A Behavioral Science-Enhanced PHysician-led Remote Group Exercise InTervention for Women With Coronary Artery Disease</brief_title>
+  <acronym>BE-PHIT</acronym>
+  <official_title>BE-PHIT: a Behavioral Science-Enhanced PHysician-led Remote Group Exercise InTervention for Women With Coronary Artery Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ischemic heart disease is the leading cause of death in the United States and worldwide&#xD;
+      (Nowbar et al., 2019). Exercise has been shown to be effective in preventing repeat heart&#xD;
+      attacks, hospitalizations and death among heart attack survivors (Lawler et al., 2011). But,&#xD;
+      few heart attack survivors -- particularly women -- get the recommended amount of physical&#xD;
+      activity (Minges et al., 2017; Gorczyca et al., 2017). The goal of this pilot study is to&#xD;
+      test the potential of an innovative new doctor-led exercise program to improve physical&#xD;
+      activity and quality of life for women who have had heart attacks in the past. Women who take&#xD;
+      part in the study will be randomly assigned to participation in the exercise program (which&#xD;
+      will consist of three 45-minute exercise sessions on Zoom per week) or usual care (attending&#xD;
+      medical appointments and following doctors' recommendations). All participants will be asked&#xD;
+      to wear Fitbit activity trackers to track steps every day, to use blood pressure cuffs to&#xD;
+      measure blood pressure at home, and complete a brief set of surveys at the beginning of the&#xD;
+      study, after 4 weeks, and after 12 weeks. Additionally, 10 people in the exercise group group&#xD;
+      will be asked to participate in brief interviews after the program for feedback on the&#xD;
+      program.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will employ a mixed methods design including a pilot randomized controlled trial&#xD;
+      (RCT), followed by semi-structured interviews, to compare an intervention group and a control&#xD;
+      group receiving usual care.&#xD;
+&#xD;
+      The pilot RCT will include 60 sedentary adult women with a history of stable coronary artery&#xD;
+      disease (CAD) who will be randomized to the intervention arm (4-week physician-led remote&#xD;
+      exercise program) or usual care. The primary outcome will be change in minutes/week of&#xD;
+      moderate-to-vigorous physical activity (MVPA) at 4 weeks, which will be measured with Fitbit&#xD;
+      trackers provided to all participants. Secondary outcomes will include change in MVPA at 12&#xD;
+      weeks, the proportion of patients achieving guidelines-recommended volumes of physical&#xD;
+      activity (PA) at 4 and 12 weeks, change in minutes of sedentary time per week at 4 and 12&#xD;
+      weeks, change in cardiometabolic health measures (e.g. self-reported weight, blood pressure,&#xD;
+      and resting heart rate), and change in survey-based measures of self determination, intrinsic&#xD;
+      motivation, well-being, and quality of life. Additional feasibility outcomes will include&#xD;
+      satisfaction, and likelihood to recommend.&#xD;
+&#xD;
+      Following completion of the 4-week intervention, 10 participants in the intervention arm will&#xD;
+      be asked to participate in brief semi-structured interviews to provide general feedback on&#xD;
+      the exercise program.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2022</start_date>
+  <completion_date type="Anticipated">August 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in minutes of moderate-to-vigorous intensity physical activity (MVPA)/week</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>This will be assessed based on documented physical activity on Fitbit devices provided to all participants. A third-party research application program interface (API) called Fitabase (Small Steps Labs, LLC, San Diego, CA) will be used to exporting the data from the Fitbit at 60-second sampling intervals. Using its proprietary algorithm, the Fitbit tracker will convert raw acceleration data into activity counts in 60-s sampling intervals that define activity intensities as 0 = sedentary, 1 = light PA, 2 = moderate PA, and 3 = vigorous PA. MVPA minutes per week will be extracted through Fitabase (Semanik et al., 2019).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in minutes of moderate-to-vigorous intensity physical activity (MVPA)/week</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>This will be assessed based on documented physical activity on Fitbit devices provided to all participants. Fitabase (Small Steps Labs, LLC, San Diego, CA) will be used to exporting the data from the Fitbit at 60-second sampling intervals. Using its proprietary algorithm, the Fitbit tracker will convert raw acceleration data into activity counts in 60-s sampling intervals that define activity intensities as 0 = sedentary, 1 = light PA, 2 = moderate PA, and 3 = vigorous PA. MVPA minutes per week will be extracted through Fitabase (Semanik et al., 2019).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients achieving guideline-recommended volume of physical activity</measure>
+    <time_frame>4 weeks and 12 weeks</time_frame>
+    <description>Standard clinical guidelines recommend 150 minutes/week of moderate intensity or 75 minutes/week of vigorous intensity physical activity (Fihn et al., 2012). This will be measured based on objective physical activity captured on Fitbit devices provided to all participants. Fitabase (Small Steps Labs, LLC, San Diego, CA) will be used to exporting the data from the Fitbit at 60-second sampling intervals. Using its proprietary algorithm, the Fitbit tracker will convert raw acceleration data into activity counts in 60-s sampling intervals that define activity intensities as 0 = sedentary, 1 = light PA, 2 = moderate PA, and 3 = vigorous PA. MVPA minutes per week will be extracted through Fitabase (Semanik et al., 2019).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in minutes of sedentary time/week</measure>
+    <time_frame>4 weeks and 12 weeks</time_frame>
+    <description>Fitabase (Small Steps Labs, LLC, San Diego, CA) will be used to exporting the data from the Fitbit at 60-second sampling intervals. Using its proprietary algorithm, the Fitbit tracker will convert raw acceleration data into activity counts in 60-s sampling intervals that define activity intensities as 0 = sedentary, 1 = light PA, 2 = moderate PA, and 3 = vigorous PA (Redenius et al., 2019). Sedentary time per week will be extracted through Fitabase.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Self-reported physical activity</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>This will be assessed by the validated Exercise as a Vital Sign instrument (Grant et al., 2014).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in weight (kg)</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>This will be assessed based on reported weights by participants</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in blood pressure (mmHg)</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>This will be assessed based on reported home blood pressure measurements using study-provided automatic blood pressure cuffs.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in resting heart rate (bpm)</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>This will be determined from Fitbit tracker data. Fitabase (Small Steps Labs, LLC, San Diego, CA) will be used to exporting the data from the Fitbit at 60-second sampling intervals. Resting heart rate data will be extracted through Fitabase.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Self-determination</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>Self-determination is a psychology framework for human motivation and behavior that posits that individuals adopt and persist in activities when they are intrinsically motivated or when they have extrinsic motivation modulated by the belief that such activities are consistent with one's identity or that they will result in important outcomes (Teixeira et al., 2012). Self-determination will be assessed by administration of the validated Exercise Regulations Questionnaire (Wilson et al., 2006).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Psychological need satisfaction</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>Fulfillment of psychological needs for autonomy, competence, and relatedness is a key driver of intrinsic motivation. Therefore, psychological need satisfaction will be assessed by the validated Psychological Need Satisfaction in Exercise Scale (Wilson et al, 2006).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Well-being</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>Health-related well-being will be assessed by the validated WHO-5 Well-Being Scale (Topp et al., 2015).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health-related quality of life</measure>
+    <time_frame>4 and 12 weeks</time_frame>
+    <description>Health-related quality of life will be assessed by the validated Short Form-36 Survey (Failde et al., 2000).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>General satisfaction</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>General satisfaction with the exercise program will be assessed among participants randomized to the intervention arm with a 5-point Likert scale general satisfaction survey where 1 = very dissatisfied and 5 = very satisfied.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Likelihood to recommend</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The likelihood to recommend the exercise program will be assessed in intervention participants with the validated Net Promoter Score where 1 = not at all likely to recommend and 10 = very likely to recommend.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <condition>Physical Inactivity</condition>
+  <condition>Sedentary Behavior</condition>
+  <arm_group>
+    <arm_group_label>Physician-Led Remote Exercise Program Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the intervention arm will attend three 45-minute walking sessions over Zoom per week for 4 weeks. Additionally, 10 people in this group will be asked to participate in brief interviews after the program for feedback on the program. All participants will be asked to wear Fitbit activity trackers to track steps every day and to regularly use blood pressure cuffs to measure blood pressure at home. All participants will also be asked to complete a brief set of surveys at the beginning of the study, after 4 weeks, and after 12 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants in the control group will continue with usual care. All participants will be asked to wear Fitbit activity trackers to track steps every day and to regularly use blood pressure cuffs to measure blood pressure at home. All participants will also be asked to complete a brief set of surveys at the beginning of the study, after 4 weeks, and after 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Physician-Led Remote Exercise Program Intervention</intervention_name>
+    <description>The physician-led remote exercise program intervention consists of three 45-minute walking classes on Zoom per week for 4 weeks.</description>
+    <arm_group_label>Physician-Led Remote Exercise Program Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 40-75 years&#xD;
+&#xD;
+          2. Female sex&#xD;
+&#xD;
+          3. Diagnosis of coronary artery disease with history of myocardial infarction (MI) at&#xD;
+             least 12 months prior to enrollment, history of coronary artery bypass graft surgery&#xD;
+             (CABG), and/or history of percutaneous coronary intervention (PCI) with&#xD;
+&#xD;
+               1. Coronary angiogram completed at time of diagnosis with MI or completion of&#xD;
+                  CABG/PCI.&#xD;
+&#xD;
+               2. Stress test completed within 12 months after diagnosis of MI&#xD;
+&#xD;
+          4. Completed visit with Mass General Brigham (MGB) cardiologist within 12 months prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          5. Self-reported physical inactivity (any amount of PA less than guideline-recommended&#xD;
+             amount of 150 minutes/week of at least moderate intensity aerobic exercise)8 as&#xD;
+             reported on the brief &quot;Exercise as a Vital Sign&quot; (EVS) instrument (Grant et al.,&#xD;
+             2014).&#xD;
+&#xD;
+          6. Ability to ambulate independently&#xD;
+&#xD;
+          7. Possession of and ability to use a computer and/or smart device with video&#xD;
+             conferencing capability&#xD;
+&#xD;
+          8. Willing to use a Fitbit activity tracker daily.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A history of conditions that limit or contraindicate exercise (e.g., myocardial&#xD;
+             infarction within 48 hours, unstable angina, heart failure with reduced ejection&#xD;
+             fraction, severe aortic stenosis, uncontrolled cardiac arrhythmias, myocarditis, acute&#xD;
+             pulmonary embolism, severe pulmonary hypertension, aortic dissection, hypertrophic&#xD;
+             obstructive cardiomyopathy, hypertension greater than 200/110 mmHg, known obstruction&#xD;
+             of the left coronary artery)&#xD;
+&#xD;
+          2. Musculoskeletal or plantar wounds/injuries&#xD;
+&#xD;
+          3. Severe mental or cognitive disabilities&#xD;
+&#xD;
+          4. Inability to speak English&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Simin G Lee, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Simin G Lee, MD</last_name>
+    <phone>857-209-0949</phone>
+    <email>sglee@partners.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Simin G Lee, MD</last_name>
+      <phone>857-209-0949</phone>
+      <email>sglee@partners.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Nowbar AN, Gitto M, Howard JP, Francis DP, Al-Lamee R. Mortality From Ischemic Heart Disease. Circ Cardiovasc Qual Outcomes. 2019 Jun;12(6):e005375. doi: 10.1161/CIRCOUTCOMES.118.005375. Epub 2019 Jun 4.</citation>
+    <PMID>31163980</PMID>
+  </reference>
+  <reference>
+    <citation>Lawler PR, Filion KB, Eisenberg MJ. Efficacy of exercise-based cardiac rehabilitation post-myocardial infarction: a systematic review and meta-analysis of randomized controlled trials. Am Heart J. 2011 Oct;162(4):571-584.e2. doi: 10.1016/j.ahj.2011.07.017. Epub 2011 Sep 3.</citation>
+    <PMID>21982647</PMID>
+  </reference>
+  <reference>
+    <citation>Minges KE, Strait KM, Owen N, Dunstan DW, Camhi SM, Lichtman J, Geda M, Dreyer RP, Bueno H, Beltrame JF, Curtis JP, Krumholz HM. Gender differences in physical activity following acute myocardial infarction in adults: A prospective, observational study. Eur J Prev Cardiol. 2017 Jan;24(2):192-203. doi: 10.1177/2047487316679905. Epub 2016 Nov 25.</citation>
+    <PMID>27885060</PMID>
+  </reference>
+  <reference>
+    <citation>Gorczyca AM, Eaton CB, LaMonte MJ, Manson JE, Johnston JD, Bidulescu A, Waring ME, Manini T, Martin LW, Stefanick ML, He K, Chomistek AK. Change in Physical Activity and Sitting Time After Myocardial Infarction and Mortality Among Postmenopausal Women in the Women's Health Initiative-Observational Study. J Am Heart Assoc. 2017 May 15;6(5):e005354. doi: 10.1161/JAHA.116.005354.</citation>
+    <PMID>28507059</PMID>
+  </reference>
+  <reference>
+    <citation>Smith JR, Thomas RJ, Bonikowske AR, Hammer SM, Olson TP. Sex Differences in Cardiac Rehabilitation Outcomes. Circ Res. 2022 Feb 18;130(4):552-565. doi: 10.1161/CIRCRESAHA.121.319894. Epub 2022 Feb 17. Erratum In: Circ Res. 2022 Mar 18;130(6):e22.</citation>
+    <PMID>35175838</PMID>
+  </reference>
+  <reference>
+    <citation>Fihn SD, Gardin JM, Abrams J, Berra K, Blankenship JC, Dallas AP, Douglas PS, Foody JM, Gerber TC, Hinderliter AL, King SB 3rd, Kligfield PD, Krumholz HM, Kwong RY, Lim MJ, Linderbaum JA, Mack MJ, Munger MA, Prager RL, Sabik JF, Shaw LJ, Sikkema JD, Smith CR Jr, Smith SC Jr, Spertus JA, Williams SV; American College of Cardiology Foundation. 2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS guideline for the diagnosis and management of patients with stable ischemic heart disease: executive summary: a report of the American College of Cardiology Foundation/American Heart Association task force on practice guidelines, and the American College of Physicians, American Association for Thoracic Surgery, Preventive Cardiovascular Nurses Association, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic Surgeons. Circulation. 2012 Dec 18;126(25):3097-137. doi: 10.1161/CIR.0b013e3182776f83. Epub 2012 Nov 19. No abstract available. Erratum In: Circulation. 2014 Apr 22;129(16):e462.</citation>
+    <PMID>23166210</PMID>
+  </reference>
+  <reference>
+    <citation>Grant RW, Schmittdiel JA, Neugebauer RS, Uratsu CS, Sternfeld B. Exercise as a vital sign: a quasi-experimental analysis of a health system intervention to collect patient-reported exercise levels. J Gen Intern Med. 2014 Feb;29(2):341-8. doi: 10.1007/s11606-013-2693-9. Epub 2013 Dec 6.</citation>
+    <PMID>24309950</PMID>
+  </reference>
+  <reference>
+    <citation>Teixeira PJ, Carraca EV, Markland D, Silva MN, Ryan RM. Exercise, physical activity, and self-determination theory: a systematic review. Int J Behav Nutr Phys Act. 2012 Jun 22;9:78. doi: 10.1186/1479-5868-9-78.</citation>
+    <PMID>22726453</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson PM, Rodgers WM, Loitz CC, Sclme G, Wilson PM. &quot;It's Who I Am … Really!' The Importance of Integrated Regulation in Exercise Contexts. J Appl Biobehav Res. 2006;11(2):79-104.</citation>
+  </reference>
+  <reference>
+    <citation>Wilson PM, Rogers WT, Rodgers WM, Wild TC. The psychological need satisfaction in exercise scale. J Sport Exerc Psychol. 2006;28(3):231-251.</citation>
+  </reference>
+  <reference>
+    <citation>Topp CW, Ostergaard SD, Sondergaard S, Bech P. The WHO-5 Well-Being Index: a systematic review of the literature. Psychother Psychosom. 2015;84(3):167-76. doi: 10.1159/000376585. Epub 2015 Mar 28.</citation>
+    <PMID>25831962</PMID>
+  </reference>
+  <reference>
+    <citation>Failde I, Ramos I. Validity and reliability of the SF-36 Health Survey Questionnaire in patients with coronary artery disease. J Clin Epidemiol. 2000 Apr;53(4):359-65. doi: 10.1016/s0895-4356(99)00175-4.</citation>
+    <PMID>10785566</PMID>
+  </reference>
+  <reference>
+    <citation>Redenius N, Kim Y, Byun W. Concurrent validity of the Fitbit for assessing sedentary behavior and moderate-to-vigorous physical activity. BMC Med Res Methodol. 2019 Feb 7;19(1):29. doi: 10.1186/s12874-019-0668-1.</citation>
+    <PMID>30732582</PMID>
+  </reference>
+  <reference>
+    <citation>Semanik P, Lee J, Pellegrini CA, Song J, Dunlop DD, Chang RW. Comparison of Physical Activity Measures Derived From the Fitbit Flex and the ActiGraph GT3X+ in an Employee Population With Chronic Knee Symptoms. ACR Open Rheumatol. 2020 Jan;2(1):48-52. doi: 10.1002/acr2.11099. Epub 2019 Dec 2.</citation>
+    <PMID>31943970</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Simin G. Lee</investigator_full_name>
+    <investigator_title>Physician</investigator_title>
+  </responsible_party>
+  <keyword>Coronary Artery Disease</keyword>
+  <keyword>Exercise</keyword>
+  <keyword>Behavior change</keyword>
+  <keyword>Physical activity</keyword>
+  <keyword>Sedentary behavior</keyword>
+  <keyword>Fitness</keyword>
+  <keyword>Behavioral science</keyword>
+  <keyword>Women's health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

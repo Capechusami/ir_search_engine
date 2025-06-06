@@ -1,0 +1,208 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GlutProbiotic</org_study_id>
+    <nct_id>NCT05798689</nct_id>
+  </id_info>
+  <brief_title>Use of a Selected Mixture of Probiotic Strains for Degrading Gluten During Digestion</brief_title>
+  <official_title>Novel Probiotic Preparation With Gluten Degrading Activity and Gut Microbiota Modulating Effect</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Free University of Bozen-Bolzano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Evonik Operations GmbH, Germany</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Free University of Bozen-Bolzano</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Gluten intake spreads worldwide, being the major food protein consumed in the Western diets&#xD;
+      (up to 20 g gluten/d). But gluten has unique and unusual features. It resists the complete&#xD;
+      luminal digestion by gastric, pancreatic and intestinal brush border enzymes, and is&#xD;
+      susceptible to post-translational modification (deamidation) by mucosal transglutaminases.&#xD;
+      Apart from partial digestion, gluten per se has a negative impact on a consistent part of the&#xD;
+      worldwide population, which mainly results in the manifestations of celiac disease (CD) or&#xD;
+      other gluten-related disorders. This study will enable to test in vivo a novel multi-species&#xD;
+      probiotic that in vitro has proven to degrade gluten to non-immunotoxic peptides.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypothesis and Significance:&#xD;
+&#xD;
+      The project intends to confirm whether the novel multi-species probiotic preparation has the&#xD;
+      ability to degrade gluten upon digestion at increasing dosages (from 50mg/d up to 10g/d).&#xD;
+      Further we aim to evaluate the efficiency of the probiotic to persist and colonize the human&#xD;
+      gut as well as its ability to modulate the human gut microbiome.&#xD;
+&#xD;
+      Since this is a phase 1 trial, healthy participants will be recruited to avoid any triggers&#xD;
+      of CD symptoms. Participants will undergo gluten free diet for 10 days to eliminate any&#xD;
+      traces of gluten from their feces and will be provided probiotic/placebo capsules as long as&#xD;
+      specific amounts of gluten to be ingested with their meal. Faecal samples will be collected&#xD;
+      at the end of each period that increasing gluten amounts were ingested. Residual gluten&#xD;
+      amounts in feces will be evaluated and the fecal microbiome will be studied by 16S&#xD;
+      metabarcoding analysis. Fecal metabolome will be also assessed as long as the persistence and&#xD;
+      colonisation ability of the probiotic preparation by qPCR.&#xD;
+&#xD;
+      Specific Aim 1:&#xD;
+&#xD;
+      Evaluate the gluten depredating efficiency of the probiotic by ELISA&#xD;
+&#xD;
+      Specific Aim 2:&#xD;
+&#xD;
+      Investigate the gut microbiome alterations between the intervention groups and possible&#xD;
+      modulation&#xD;
+&#xD;
+      Specific Aim 2:&#xD;
+&#xD;
+      Investigate the fecal metabolome (Volatiles and short chain fatty acids) between intervention&#xD;
+      groups&#xD;
+&#xD;
+      Specific Aim 2:&#xD;
+&#xD;
+      Monitor the persistence and colonization ability of the probiotic preparation by qPCR&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Actual">May 31, 2021</completion_date>
+  <primary_completion_date type="Actual">April 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hydrolyzed gluten amount in feces by competitive Elisa R5 antibody (gluten ppm)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The collection of faecal samples will be at baseline (T0); 10 days of GFD (T1); 4 days of 50 mg/day gluten intake (T2); 4 days of 1 g/day gluten intake (T3); 4 days of 3 g/day gluten intake (T4); 20 days of 10 g/day gluten intake (T5), of which 10 last days were the wash-out (T6).The gluten degrading efficiency of the probiotic will be assessed in all above mentioned time points with competitive Elisa using the R5 antibody for hydrolysed gluten (gliadin epitopes). The concentration of gliadin (ppm) will be then converted to gluten according to the multiplication factor (2) reported by the manufacturer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gut microbiome</measure>
+    <time_frame>7 months</time_frame>
+    <description>Fecal samples DNA from baseline, intervention period and wash out will be sequenced targeting the V4 region of 16s rRNA gene to evaluate the alterations of the gut microbiome and possible modulation in the PR arm due to the probiotic mixture administrated</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Volatile compounds determination by GC-MS using SPME extraction</measure>
+    <time_frame>6 months</time_frame>
+    <description>Fecal samples at the beginning of intervention (T1), end of intervention (T5) and wash-out (T6) will be evaluated for their organic volatile compounds by GC-MS. Volatile compounds and short chain fatty acids composition will be compared between the intervention groups PL vs PR. 4-methyl-2pentanol (final concentration 1 mg L-1) will be used as an internal standard in all analyses, to quantify the identified compounds by interpolation of the relative areas versus internal standard area.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short chain fatty acids determination by GC-MS using SPME extraction</measure>
+    <time_frame>6 months</time_frame>
+    <description>Fecal samples at the beginning of intervention (T1), end of intervention (T5) and wash-out (T6) will be evaluated for SCFA by GC-MS. SCFA compounds and short chain fatty acids composition will be compared between the intervention groups PL vs PR. A stock solution containing the mixture of SCFA standards (acetic acid, butyric acid, propionic acid, isobutyric acid and valeric acid) will be dissolved in ultrapure water to obtain a calibration curve ranging from 1 μg mL-1 to 250 μg mL-1.The calibration curve will be constructed by plotting the normalized peak area versus concentration of individual SCFA. The relative peak of SCFA in faecal sample will be integrated and the concentration of SCFA will be calculated by the calibration curve equation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Persistence and colonization ability of probiotic preparation by quantitative PCR (copy numbers)</measure>
+    <time_frame>2 months</time_frame>
+    <description>The persistence and colonization ability of the probiotic preparation will be evaluated by qPCR on cDNA and DNA at T1, T5 and T6. For each species belonging to the probiotic preparation, species- specific primers will be used. The qPCR results (cycle threshold, CT) will be converted in Copy Number (CN) based on standard curves previously constructed by using serial dilutions of DNA extracted from pure cultures. The CN and CN(Log) will be calculated based on DNA concentration and amplicon length. The standard curves will be obtained by CT and CN(Log) interpolation.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">70</enrollment>
+  <condition>Probiotics</condition>
+  <arm_group>
+    <arm_group_label>PR</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Fifty healthy volunteers were randomly allocated in the probiotic arm. To eliminate residual traces of gluten and similar proteins from the faecal material, both groups underwent a gluten-free diet (GFD) from day-1 to day-10. After 10 days, gluten administration started. The increasing administration plan was as follows: 50 mg/day for 4 days; 1 g/day for subsequent 4 days; 3 g/day for subsequent 4 days; and 10 g/day (in this case, reintroducing an equivalent amount of wheat-based bread - 4 slices) for subsequent 20 days. At this stage (10 + 4 + 4 + 4 + 10 days = total of 32 days), the administration of the probiotic preparation was interrupted, with a period of 10 days of wash-out.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PL</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Twenty healthy volunteers were randomly allocated in the placebo.To eliminate residual traces of gluten and similar proteins from the faecal material, both groups underwent a gluten-free diet (GFD) from day-1 to day-10. After 10 days, gluten administration started. The increasing administration plan was as follows: 50 mg/day for 4 days; 1 g/day for subsequent 4 days; 3 g/day for subsequent 4 days; and 10 g/day (in this case, reintroducing an equivalent amount of wheat-based bread - 4 slices) for subsequent 20 days. At this stage (10 + 4 + 4 + 4 + 10 days = total of 32 days), the administration of placebo preparation was interrupted, with a period of 10 days of wash-out.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Probiotic administration and gluten</intervention_name>
+    <description>Probiotic preparation including multi-species strains of Lactobacillus and Bacillus. The probiotic was administered at baseline and interrupted after 32 days. At the same time the other arm received placebo. Gluten was provided after 10 days of gluten free diet in increasing amounts</description>
+    <arm_group_label>PR</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Placebo administration and gluten</intervention_name>
+    <description>The placebo was administered at baseline and interrupted after 32 days. At the same time the other arm received probiotic. Gluten was provided after 10 days of gluten free diet in increasing amounts</description>
+    <arm_group_label>PL</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  healthy individuals;&#xD;
+&#xD;
+          -  adherent to Mediterranean diet&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  known medical disease;&#xD;
+&#xD;
+          -  known digestive disease symptoms;&#xD;
+&#xD;
+          -  known family history of celiac disease (CD);&#xD;
+&#xD;
+          -  wheat allergy;&#xD;
+&#xD;
+          -  and use of prescription medications (including antibiotics or probiotics in the&#xD;
+             previous 2 months)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olga Nikoloudaki, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Free University of Bolzano-Bozen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Free University of Bolzano-Bozen</name>
+      <address>
+        <city>Bolzano</city>
+        <zip>39100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>De Angelis M, Siragusa S, Vacca M, Di Cagno R, Cristofori F, Schwarm M, Pelzer S, Flugel M, Speckmann B, Francavilla R, Gobbetti M. Selection of Gut-Resistant Bacteria and Construction of Microbial Consortia for Improving Gluten Digestion under Simulated Gastrointestinal Conditions. Nutrients. 2021 Mar 19;13(3):992. doi: 10.3390/nu13030992.</citation>
+    <PMID>33808622</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 3, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Gluten</keyword>
+  <keyword>Gut microbiome</keyword>
+  <keyword>Celiac disease</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

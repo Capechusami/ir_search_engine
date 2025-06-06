@@ -1,0 +1,154 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05793346</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PREDICT_Protocol_V1</org_study_id>
+    <nct_id>NCT05793346</nct_id>
+  </id_info>
+  <brief_title>Pregnancy-associated Progression of Chronic Kidney Disease: A Study Protocol for the Development and Validation of a Clinical Predictive Tool</brief_title>
+  <acronym>PREDICT</acronym>
+  <official_title>Pregnancy-associated Progression of Chronic Kidney Disease: A Study Protocol for the Development and Validation of a Clinical Predictive Tool</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>King's College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To develop and validate a tool that estimates the degree of pregnancy-associated progression&#xD;
+      of renal disease in women with CKD and pregnancy outcomes in an international multicentre&#xD;
+      cohort study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of this study is to develop and validate a tool that estimates the degree of&#xD;
+      pregnancy-associated progression of renal disease in women with CKD and pregnancy outcomes in&#xD;
+      an international multicentre cohort study. Two prediction models will be developed to&#xD;
+      estimate the likelihood of both outcomes. The models will be developed and internally&#xD;
+      validated in one cohort in the United Kingdom and then externally validated using four&#xD;
+      international datasets.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary outcome a 25% or greater decline in eGFR between six weeks and 12 months postpartum or initiation of dialysis</measure>
+    <time_frame>Six weeks to 12 months postpartum</time_frame>
+    <description>A &gt;=25% reduction in eGFR between six weeks and 12 months postpartum or initiation of dialysis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary outcome: a preterm birth less than 34 weeks or small for gestational age less than 3rd percentile.</measure>
+    <time_frame>To be recorded within 24 hours of date of delivery (Index event is the day of delivery). This outcome is measured on date of delivery.</time_frame>
+    <description>A composite outcome of preterm birth defined as less than 34 weeks gestation and/or SGA &lt; 3rd percentile.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Chronic Kidney Diseases</condition>
+  <condition>Pregnancy Related</condition>
+  <arm_group>
+    <arm_group_label>Dataset 1: National Registry of Rare Kidney Diseases</arm_group_label>
+    <description>This dataset is the: National Registry of Rare Kidney Diseases from the UK Renal Registry, this is a UK-wide, linked dataset. This cohort includes any woman who has previously had a previous diagnosis of kidney disease in the UK with maternity records and who has consented to participate.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dataset 2: Kent Integrated Data</arm_group_label>
+    <description>Maternal and laboratory data from East and West Kent in the UK.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dataset 3: Stockholm Creatinine Measurement</arm_group_label>
+    <description>An observational dataset with laboratory data from individuals in Stockholm (Sweden)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dataset 4: Ontario Renal Network Pregnancy Cohort</arm_group_label>
+    <description>A population-based cohort of women in Ontario who had an obstetric delivery with outpatient laboratory data.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dataset 5: Combined cohort of three obstetric studies within the UK</arm_group_label>
+    <description>A combined cohort derived from three obstetric studies within the UK.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Women with pre-existing chronic kidney disease, defined as eGFR &lt; 90mls/min/1.73m2 within&#xD;
+        24 months of conception.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women with an estimated Glomerular Filtration Rate (eGFR) using the Chronic Kidney&#xD;
+             Disease Epidemiology Collaboration (CKD-EPI) without ethnicity adjustment, less than&#xD;
+             90mls/min/1.73m2 within 24 months pre-conception will be included&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women established on dialysis at time of conception&#xD;
+&#xD;
+          -  Multi-fetal pregnancies&#xD;
+&#xD;
+          -  Known inpatient eGFR measurement&#xD;
+&#xD;
+          -  No preconception eGFR within 24 months will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Wiles K, Webster P, Seed PT, Bennett-Richards K, Bramham K, Brunskill N, Carr S, Hall M, Khan R, Nelson-Piercy C, Webster LM, Chappell LC, Lightstone L. The impact of chronic kidney disease Stages 3-5 on pregnancy outcomes. Nephrol Dial Transplant. 2021 Nov 9;36(11):2008-2017. doi: 10.1093/ndt/gfaa247.</citation>
+    <PMID>33313680</PMID>
+  </reference>
+  <reference>
+    <citation>Tong A, Jesudason S, Craig JC, Winkelmayer WC. Perspectives on pregnancy in women with chronic kidney disease: systematic review of qualitative studies. Nephrol Dial Transplant. 2015 Apr;30(4):652-61. doi: 10.1093/ndt/gfu378. Epub 2014 Dec 18.</citation>
+    <PMID>25523452</PMID>
+  </reference>
+  <reference>
+    <citation>Piccoli GB, Zakharova E, Attini R, Ibarra Hernandez M, Orozco Guillien A, Alrukhaimi M, Liu ZH, Ashuntantang G, Covella B, Cabiddu G, Li PKT, Garcia-Garcia G, Levin A. Pregnancy in Chronic Kidney Disease: Need for Higher Awareness. A Pragmatic Review Focused on What Could Be Improved in the Different CKD Stages and Phases. J Clin Med. 2018 Nov 5;7(11):415. doi: 10.3390/jcm7110415.</citation>
+    <PMID>30400594</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2023</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to share individual participant data.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,272 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05075265</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200323005</org_study_id>
+    <nct_id>NCT05075265</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics of Methadone in Adults Undergoing Cardiac Surgery With Extracorporeal Circulation</brief_title>
+  <official_title>Pharmacokinetics of Methadone in Adults Undergoing Cardiac Surgery With Extracorporeal Circulation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pontificia Universidad Catolica de Chile</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pontificia Universidad Catolica de Chile</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In cardiac surgery, the establishment of Cardiopulmonary bypass (CPB) involves profound&#xD;
+      changes that can alter the pharmacokinetics and clinical response to drugs. Methadone has&#xD;
+      characteristics that make it attractive for the management of postoperative pain, however, to&#xD;
+      date there are no pharmacokinetic or pharmacodynamic studies that allow guidance on how to&#xD;
+      perform the dosage and dose adjustment of methadone in patients undergoing cardiopulmonary&#xD;
+      bypass.&#xD;
+&#xD;
+      The main of this study is to describe the pharmacokinetics of methadone in adult patients&#xD;
+      undergoing cardiac surgery with extracorporeal circulation.&#xD;
+&#xD;
+      A pharmacokinetic clinical study will be proposed. Drug concentrations will be measured at&#xD;
+      different times, estimating how plasma levels vary before, during and after CPB. For the&#xD;
+      plasma methadone analysis, 10 blood samples will be taken from each patient following a&#xD;
+      pre-established schedule. They will be analyzed using a high performance liquid&#xD;
+      chromatography (HPLC) spectrofluorometric method.&#xD;
+&#xD;
+      Changes in volumes, clearance, and other covariates associated with CPB are not expected to&#xD;
+      significantly affect methadone plasma concentrations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction:&#xD;
+&#xD;
+      Pharmacokinetics studies the processes of absorption, distribution, metabolism and excretion&#xD;
+      of a drug. There are multiple conditions that can affect the expected pharmacokinetic&#xD;
+      behavior of a drug. In cardiac surgery, for example, most surgeries require stopping the&#xD;
+      heart. For this, different cardioplegia solutions and an extracorporeal circulation machine&#xD;
+      (ECC) are used to allow oxygenation and blood circulation to continue to the rest of the&#xD;
+      body. The establishment of Cardiopulmonary bypass (CPB) involves profound changes that can&#xD;
+      alter the pharmacokinetics and clinical response to drugs. An adequate knowledge of the&#xD;
+      magnitude and direction of these changes is therefore necessary for each drug in particular,&#xD;
+      in order to achieve an optimal dosage at the time of use. In order to optimize postoperative&#xD;
+      pain management in cardiac surgery, other drugs have been used as an alternative to the usual&#xD;
+      management of boluses of morphine or fentanyl. Methadone has pharmacokinetic and&#xD;
+      pharmacodynamic characteristics that make it attractive; however, despite being a relatively&#xD;
+      old drug, its use in cardiac surgery is relatively recent. To date, few studies have been&#xD;
+      published with the use of methadone in a single intraoperative bolus scheme, both studies&#xD;
+      report positive results. However, to date there are no pharmacokinetic or pharmacodynamic&#xD;
+      studies that provide guidance on how to dose and adjust the dose of methadone in patients&#xD;
+      undergoing cardiopulmonary bypass in this context.&#xD;
+&#xD;
+      THEORETICAL FRAMEWORK Pharmacokinetics is the branch of pharmacology that studies the&#xD;
+      relationship between the dose of a drug and its plasma concentrations, &quot;what the body does to&#xD;
+      the drug.&quot; Pharmacokinetics studies the processes of absorption, distribution, metabolism and&#xD;
+      excretion of a drug.&#xD;
+&#xD;
+      Compartment pharmacokinetic models emerge as a way of conceptualizing this study. They&#xD;
+      describe the organism as a set of compartments where each one represents a part of the&#xD;
+      biological material in which the drug is supposed to be uniformly distributed and has the&#xD;
+      same kinetic properties. It is possible to use 1 or more compartments to describe the&#xD;
+      kinetics of a drug. For the estimation of population parameters, specific study methods are&#xD;
+      required that allow the most accurate and precise estimation of population parameters, both&#xD;
+      of fixed effect, as well as of inter and intra-individual random effect. Among the available&#xD;
+      parametric methods, which assume a known probability distribution, one widely used is the&#xD;
+      non-linear mixed effects model. Proposed by Sheiner and Beal, it is currently the reference&#xD;
+      method in pharmacokinetic analysis in large population groups. This method allows estimating&#xD;
+      inter individual variability without ignoring the large number of limitations present in&#xD;
+      observational data.&#xD;
+&#xD;
+      From a clinical perspective, there are multiple conditions that can alter the expected&#xD;
+      pharmacokinetic behavior of a drug; diseases, for example, can modify the physiological&#xD;
+      functions of different organs, alter blood flow and alter the metabolism and elimination of&#xD;
+      some drugs. Another example is the case of cardiac surgery where, for the realization of most&#xD;
+      of the surgeries it is required to stop the heart. For this, different cardioplegia solutions&#xD;
+      and an extracorporeal circulation machine (CPB) are used to allow oxygenation and blood&#xD;
+      circulation to continue to the rest of the body during the surgical procedure. The&#xD;
+      establishment of CPB involves profound changes that can alter the pharmacokinetics and&#xD;
+      clinical response to drugs. An adequate knowledge of the magnitude and direction of these&#xD;
+      changes is therefore necessary for each drug in particular, in order to achieve an optimal&#xD;
+      dosage at the time of use.&#xD;
+&#xD;
+      At the start of CPB, acute hemodilution can cause a decrease in the plasma concentration of&#xD;
+      almost any drug. Hypothermia, frequently used in cardiac surgery, can also reduce metabolic&#xD;
+      activity in the liver and thus decrease metabolic clearance. The oxygenator membrane,&#xD;
+      reservoir filters, and ECC circuit can sequester varying amounts of some drugs. This occurs&#xD;
+      with fentanyl, for which a 25% decrease in plasma concentration upon entering CPB was&#xD;
+      initially described. A similar effect was described for sulfentanil. In the case of&#xD;
+      remifentanil that is metabolized by plasma esterases, a decrease in clearance is observed&#xD;
+      with hypothermia (6.3% per 1ºC). In this context, it has not been described how the&#xD;
+      pharmacokinetics of methadone could change in these patients.&#xD;
+&#xD;
+      Methadone is a synthetic opioid that has pharmacokinetic and pharmacodynamic characteristics&#xD;
+      that make it attractive for its perioperative use, both in acute pain and in chronic pain.&#xD;
+      Its long half-life allows more stable inter-dose plasma levels. Administered in a single dose&#xD;
+      of 0.2 to 0.3 mg / kg, it has not been associated with a higher incidence of adverse effects&#xD;
+      (compared to short-acting opioids), reaching a duration of analgesia between 24 hours and 35&#xD;
+      hours. It is highly bound to plasma proteins. Between 60 and 90% circulates bound to&#xD;
+      proteins, mainly acid glycoprotein. Unlike morphine, it does not generate active metabolites&#xD;
+      after its liver biotransformation and does not accumulate in kidney failure, which allows its&#xD;
+      use in patients with chronic kidney disease or hemodialysis. It is inexpensive compared to&#xD;
+      other opioids. In addition to its action on opioid receptors, it reduces the re-uptake of&#xD;
+      serotonin and norepinephrine involved in acute and chronic pain processes. It also exerts&#xD;
+      antagonistic activity at NMDA glutamatergic receptors. Glutamate is the main excitatory amino&#xD;
+      acid of the central nervous system and participates in the processes of nociceptive&#xD;
+      transmission at the spinal level. Its action on pain pathways is mainly mediated through&#xD;
+      ionotropic receptors (AMPA, NMDA and Kainic) involved in the generation and maintenance of&#xD;
+      states of hyperalgesia (exacerbated response to noxious stimulus) and allodynia (decreased&#xD;
+      pain threshold). These properties give it potential effectiveness in relieving neuropathic&#xD;
+      pain, also showing good results in the treatment of chronic pain and cancer pain.&#xD;
+&#xD;
+      Adequate control of postoperative pain is a relevant issue in cardiac surgery. Poorly treated&#xD;
+      acute pain can produce serious deleterious effects, namely; activation of the sympathetic&#xD;
+      system, tachycardia, arrhythmias and ischemia due to increased myocardial oxygen consumption.&#xD;
+      Pulmonary adverse effects (atelectasis and pneumonia), gastrointestinal (ileus),&#xD;
+      musculoskeletal (muscle weakness), endocrine (hypoglycemia) and psychological (depression).&#xD;
+      The presence of these complications delays and makes recovery difficult. With current&#xD;
+      techniques, incidences of acute pain between 30 and 75% are reported, with greater intensity&#xD;
+      during the first 2 days. Patients with high levels of postoperative pain have 3.5 times the&#xD;
+      risk of chronic pain and their inadequate treatment can lead to chronic or neuropathic pain&#xD;
+      that is difficult to manage . The incidence of chronic pain after cardiac surgery can reach&#xD;
+      up to 30-40% of patients during the first year.&#xD;
+&#xD;
+      In this scenario, the methadone use could confer certain advantages. Its long half-life would&#xD;
+      allow the establishment of simplified dosage schedules with less variability in plasma levels&#xD;
+      between doses than with the usual management that considers fentanyl or morphine in&#xD;
+      intermittent boluses. Its pharmacokinetics allow its administration in one dose per day,&#xD;
+      regardless of the need and cost of a continuous infusion pump. Methadone could reduce the&#xD;
+      incidence of chronic pain by optimizing acute pain control and its anti-NMDA activity.&#xD;
+      Finally, cardioprotective properties have been described.&#xD;
+&#xD;
+      Despite being a relatively old drug, the use of methadone as an alternative to short-acting&#xD;
+      opioids (fentanyl or morphine) in cardiac surgery is relatively recent. Few studies have been&#xD;
+      published with the use of intraoperative methadone in cardiac surgery and two report an&#xD;
+      adequate clinical effect with positive results. Although the presence of an adequate&#xD;
+      postoperative clinical effect suggests that exposure to cardiac surgery with cardiopulmonary&#xD;
+      bypass alone does not produce a significant change in postoperative methadone concentrations,&#xD;
+      the actual pharmacokinetic behavior of methadone in these circumstances is unknown. To date,&#xD;
+      there are no pharmacokinetic or pharmacodynamic studies that provide guidance on how to dose&#xD;
+      and adjust the dose of methadone in these patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Peak Plasma Concentration (Cmax)</measure>
+    <time_frame>Time Frame: 0, 5-10, 30, 60, 120, 240 minutes of operation of the CPB and 12 or 24 hours of CPB]</time_frame>
+    <description>Calculate maximum plasma concentration (Cmax) Methadone plasma levels measured with high pressure fluid (HPLC) after a single bolus of Methadone in enrolled adult Adults Undergoing Cardiac Surgery With Extracorporeal Circulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Describe the change of the levels of methadone plasmatic levels (ng/mL) measured by high pressure liquid chromatography (HPLC)</measure>
+    <time_frame>Time Frame: 0, 5-10, 30, 60, 120, 240 minutes of operation of the CPB and 12 or 24 hours of CPB]</time_frame>
+    <description>Change of the plasmatic levels of Methadone [ Time Frame: The concentrations will be measured in time: 0, 5-10, 30, 60, 120, 240 minutes of operation of the CPB and 12 or 24 hours of CPB]</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Cardiosurgery</condition>
+  <condition>Cardiopulmonary Bypass</condition>
+  <condition>Methadone</condition>
+  <arm_group>
+    <arm_group_label>Methadone Group</arm_group_label>
+    <description>adult patients undergoing cardiac surgery with extracorporeal circulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methadone</intervention_name>
+    <description>Standard dose of 0.2 ug/kg before Cardiopulmonary Bypass.</description>
+    <arm_group_label>Methadone Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult Patients who undergo cardiac surgery whith cardiopulmonary bypass.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients between 45 and 75 years old who undergo surgery of coronary bypass with CPB,&#xD;
+             univalvular replacement, bivalvular or coronary bypass plus univalvular on a scheduled&#xD;
+             basis at the UC-Christus Clinical Hospital (HCUC) and that have ASA II-III&#xD;
+             classification.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  BMI&gt; 35, history of chronic liver damage, kidney damage with estimated creatinine&#xD;
+             clearance &lt;60 ml / min, severe ventricular dysfunction (EF &lt;30% or severe dysfunction&#xD;
+             in ventriculography), recent cerebrovascular accident (CVA) or sequelae, endocarditis,&#xD;
+             use of intraoperative ultrafiltration or methadone in the previous 36 hours.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wilbaldo Salas, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pontificia Universidad Catolica de Chile</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Wilbaldo Salas, MD</last_name>
+    <phone>+56962061109</phone>
+    <email>wisalas@uc.cl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Juan Cristobal Pedemonte, MD</last_name>
+    <email>jcpedemo@uc.cl</email>
+  </overall_contact_backup>
+  <results_reference>
+    <citation>Mets B. The pharmacokinetics of anesthetic drugs and adjuvants during cardiopulmonary bypass. Acta Anaesthesiol Scand. 2000 Mar;44(3):261-73. doi: 10.1034/j.1399-6576.2000.440308.x.</citation>
+    <PMID>10714838</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Starkey ES, Sammons HM. Practical pharmacokinetics: what do you really need to know? Arch Dis Child Educ Pract Ed. 2015 Feb;100(1):37-43. doi: 10.1136/archdischild-2013-304555. Epub 2014 Aug 13.</citation>
+    <PMID>25122157</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Murphy GS, Szokol JW, Avram MJ, Greenberg SB, Marymont JH, Shear T, Parikh KN, Patel SS, Gupta DK. Intraoperative Methadone for the Prevention of Postoperative Pain: A Randomized, Double-blinded Clinical Trial in Cardiac Surgical Patients. Anesthesiology. 2015 May;122(5):1112-22. doi: 10.1097/ALN.0000000000000633.</citation>
+    <PMID>25837528</PMID>
+  </results_reference>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>September 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>September 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>extracorporeal circulation</keyword>
+  <keyword>pharmakinetics</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methadone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

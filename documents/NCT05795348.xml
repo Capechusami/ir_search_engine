@@ -1,0 +1,257 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05795348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ForceLoss II</org_study_id>
+    <nct_id>NCT05795348</nct_id>
+  </id_info>
+  <brief_title>Personalised Modeling and Simulations for the Differential Diagnosis of Dynapenia: Study on Patients With Osteoarthritis</brief_title>
+  <acronym>ForceLoss II</acronym>
+  <official_title>ForceLoss: Part II - Osteoarthritic Patients. Development and Validation of Methods to Generate Personalised Models for the Differential Diagnosis of the Loss of Muscle Force</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Ortopedico Rizzoli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituto Ortopedico Rizzoli</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ForceLoss study aims to develop personalised modeling and simulation procedures to enable&#xD;
+      the differential diagnosis for the loss of muscle force, namely dynapenia. The primary causes&#xD;
+      of dynapenia can be identified in a diffuse or selective sarcopenia, a lack of activation&#xD;
+      (inhibition), or suboptimal motor control. Each of these causes requires different&#xD;
+      interventions, but a reliable differential diagnosis is currently impossible. While&#xD;
+      biomedical instruments and tools can provide valuable information, it is often left to the&#xD;
+      experience of the single clinican to integrate such information into a complete diagnostic&#xD;
+      picture. An accurate diagnosis for dynapenia is important for a number of pathologies,&#xD;
+      including neurological diseases, age-related frailty, diabetes, and orthopaedic conditions.&#xD;
+&#xD;
+      The hypothesis is that the use of mechanistic, subject-specific models (digital twins) to&#xD;
+      simulate a maximal isometric knee extension task, informed by experimental measures may be&#xD;
+      employed to conduct a robust differential diagnosis for dynapenia.&#xD;
+&#xD;
+      In this study, on patients candidate for knee arthroplasty, the investigators will expand (i)&#xD;
+      the experimental protocol previously developed and tested on healthy volunteers with a&#xD;
+      measure of involuntary muscle contraction (superimposed neuromuscular electrical stimulation,&#xD;
+      SNMES), a hand-grip test, measures of bio-impedance and clinical questionnaires, and (ii) the&#xD;
+      modeling and simulation framework to include one additional step (to check for muscle&#xD;
+      inhibition).&#xD;
+&#xD;
+      Medical imaging, electromyography (EMG) and dynamometry data will be collected and combined&#xD;
+      to inform a digital twin of each participant. Biomechanical computer simulations of a Maximal&#xD;
+      Voluntary Isometric Contraction (MVIC) task will then be performed. Comparing the models'&#xD;
+      estimates to in vivo dynamometry measurements and EMG data, the investigators will test one&#xD;
+      by one the three possible causes of dynapenia, and, through a process of hypothesis&#xD;
+      falsification will exclude those that do not explain the observed loss of muscle force.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 28, 2023</start_date>
+  <completion_date type="Anticipated">May 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Muscle volume</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>Full lower limb MRI data will be acquired with subjects in supine position. Individual muscle volumes (in cm3) will be segmented using commercial software and stored in anonymized form.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MVIC Torque</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>Dynamometry data will be acquired while participants perform a MVIC leg extension test. The maximum torque values (Nm) measured over three repetitions will be recorded. These correspond to the values observed in correspondence of the plateaux of force, developed over a sustained contraction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Muscle Inhibition level</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>The difference between the maximal force exerted during the MVIC test (voluntary contraction) and that achieved when the muscles are electrically stimulated (involuntary contraction) will be computed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Co-contraction index (CCI)</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>Experimental EMG data will be recorded from the major lower limb muscles involved in the knee extension, while participants perform a maximal voluntary isometric contraction on a dynamometer (i.e., MVIC test to quantify muscle strength).&#xD;
+The co-contraction index, defined as the relative activation of agonist and antagonist muscles (for this task: quadriceps and hamstrings) in the act of kicking (MVIC test), will be computed according to Li et al (2020).</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Osteoarthritis, Knee</condition>
+  <arm_group>
+    <arm_group_label>Knee Osteoarthritic Patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients candidate for knee arthroplasty; Age: 65-80 years; Body Mass Index: 18.5-30 kg/m²; ASA Classification: 1 or 2; Diagnosis of primary osteoarthritis at the knee; Suspect sarcopenia.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Personalised Musculoskeletal Modeling</intervention_name>
+    <description>Magnetic resonance images, electromyography and dynamometry data will be used to develop and inform personalised musculoskeletal models</description>
+    <arm_group_label>Knee Osteoarthritic Patients</arm_group_label>
+    <other_name>Clinical measures (BIA, Hand-grip test)</other_name>
+    <other_name>Clinical questionnaires (WOMAC, KSS)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Primary Arthrosis at the knee (according to the American College of&#xD;
+             Rheumatology criteria), subjects elected for tota knee arthroplasty&#xD;
+&#xD;
+          -  Body Mass Index between 18.5 and 30 kg/m2&#xD;
+&#xD;
+          -  Health status (according to the American Society of Anesthesiology classification)&#xD;
+             equal to 1 or 2&#xD;
+&#xD;
+          -  Suspected systemic sarcopenia due to aging or localized sarcopenia due to disuse&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neurological, rheumatic or tumoral diseases&#xD;
+&#xD;
+          -  Inguinal or abdominal hernia&#xD;
+&#xD;
+          -  Diabetes&#xD;
+&#xD;
+          -  Severe Hypertension (Level 3)&#xD;
+&#xD;
+          -  Severe Cardio-pulmonary insufficiency&#xD;
+&#xD;
+          -  Diagnosis of Osteonecrosis in the lower limb joints&#xD;
+&#xD;
+          -  Pathologies or physical conditions incompatible with the use of magnetic resonance&#xD;
+             imaging and electrostimulation (i.e., active and passive implanted biomedical devices,&#xD;
+             epilepsy, severe venous insufficiency in the lower limbs)&#xD;
+&#xD;
+          -  Previous interventions or traumas to the joints of the lower limb&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marco Viceconti, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS Istituto Ortopedico Rizzoli</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marco Viceconti, Professor</last_name>
+    <phone>+39 051.63.66</phone>
+    <phone_ext>578</phone_ext>
+    <email>marco.viceconti@ior.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fabio Baruffaldi</last_name>
+    <phone>+39 051.63.66</phone>
+    <phone_ext>850</phone_ext>
+    <email>fabio.baruffaldi@ior.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IRCCS Istituto Ortopedico Rizzoli</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40136</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marco Viceconti, Professor</last_name>
+      <phone>+39 051.63.66</phone>
+      <phone_ext>578</phone_ext>
+      <email>marco.viceconti@ior.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fabio Baruffaldi</last_name>
+      <phone>+39 051.63.66</phone>
+      <phone_ext>850</phone_ext>
+      <email>fabio.baruffaldi@ior.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Marco Viceconti, Professor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Fernandez J, Zhang J, Heidlauf T, Sartori M, Besier T, Rohrle O, Lloyd D. Multiscale musculoskeletal modelling, data-model fusion and electromyography-informed modelling. Interface Focus. 2016 Apr 6;6(2):20150084. doi: 10.1098/rsfs.2015.0084.</citation>
+    <PMID>27051510</PMID>
+  </reference>
+  <reference>
+    <citation>Hermens HJ, Freriks B, Disselhorst-Klug C, Rau G. Development of recommendations for SEMG sensors and sensor placement procedures. J Electromyogr Kinesiol. 2000 Oct;10(5):361-74. doi: 10.1016/s1050-6411(00)00027-4.</citation>
+    <PMID>11018445</PMID>
+  </reference>
+  <reference>
+    <citation>Petterson SC, Barrance P, Buchanan T, Binder-Macleod S, Snyder-Mackler L. Mechanisms underlying quadriceps weakness in knee osteoarthritis. Med Sci Sports Exerc. 2008 Mar;40(3):422-7. doi: 10.1249/MSS.0b013e31815ef285.</citation>
+    <PMID>18379202</PMID>
+  </reference>
+  <reference>
+    <citation>Rice DA, McNair PJ. Quadriceps arthrogenic muscle inhibition: neural mechanisms and treatment perspectives. Semin Arthritis Rheum. 2010 Dec;40(3):250-66. doi: 10.1016/j.semarthrit.2009.10.001. Epub 2009 Dec 2.</citation>
+    <PMID>19954822</PMID>
+  </reference>
+  <reference>
+    <citation>Pons C, Borotikar B, Garetier M, Burdin V, Ben Salem D, Lempereur M, Brochard S. Quantifying skeletal muscle volume and shape in humans using MRI: A systematic review of validity and reliability. PLoS One. 2018 Nov 29;13(11):e0207847. doi: 10.1371/journal.pone.0207847. eCollection 2018.</citation>
+    <PMID>30496308</PMID>
+  </reference>
+  <reference>
+    <citation>Manini TM, Clark BC. Dynapenia and aging: an update. J Gerontol A Biol Sci Med Sci. 2012 Jan;67(1):28-40. doi: 10.1093/gerona/glr010. Epub 2011 Mar 28.</citation>
+    <PMID>21444359</PMID>
+  </reference>
+  <reference>
+    <citation>O'Brien TD, Reeves ND, Baltzopoulos V, Jones DA, Maganaris CN. The effects of agonist and antagonist muscle activation on the knee extension moment-angle relationship in adults and children. Eur J Appl Physiol. 2009 Aug;106(6):849-56. doi: 10.1007/s00421-009-1088-4. Epub 2009 May 27.</citation>
+    <PMID>19471955</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>March 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dynapenia</keyword>
+  <keyword>Osteoarthritic patients</keyword>
+  <keyword>In Silico Medicine</keyword>
+  <keyword>Digital Twins</keyword>
+  <keyword>Maximal Voluntary Isometric Contraction</keyword>
+  <keyword>Musculoskeletal Modeling</keyword>
+  <keyword>Dynamometry</keyword>
+  <keyword>Electromyography</keyword>
+  <keyword>Superimposed Neuromuscular Electrical Stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We plan to share a database of experimental data representative of a population of patients elected for total knee arthroplasty. The dataset will include torques profiles and EMG data recorded during the MVIC test, the torque profiles recorded while delivering the electrical stimulation, and may include processed Magnetic Resonance Imaging data (segmentations of lower limb bones bones and muscles). All data will be irreversibly anonymized.</ipd_description>
+    <ipd_time_frame>The (anonymized) dataset will be made available to the wider biomechanical community upon study completion</ipd_time_frame>
+    <ipd_access_criteria>Not yet defined</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

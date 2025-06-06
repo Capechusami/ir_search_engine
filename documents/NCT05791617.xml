@@ -1,0 +1,242 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05791617</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R-22-507</org_study_id>
+    <nct_id>NCT05791617</nct_id>
+  </id_info>
+  <brief_title>PET/MR in Post Stroke Cardiac Inflammation Study</brief_title>
+  <acronym>PEPSI</acronym>
+  <official_title>PET/MR in Post Stroke Cardiac Inflammation Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lawson Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lawson Health Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with stroke have a 25x higher risk of cardiovascular complications within the first&#xD;
+      30 days of the event compared to individuals without stroke. The mechanisms behind these&#xD;
+      complications are not well understood. Evidence suggests that inflammation plays a central&#xD;
+      role. With the present proof-of-concept prospective cohort study, the investigators aim to&#xD;
+      demonstrate that patients develop cardiac inflammation after stroke by performing positron&#xD;
+      emission tomography (PET) magnetic resonance imaging (MRI) of the heart within 15 days after&#xD;
+      stroke. As a secondary aim, the investigators will evaluate whether post-stroke cardiac&#xD;
+      inflammation persists at 3 months after stroke. The control group will be comprised of age-&#xD;
+      and sex-matched individuals without stroke.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">January 2, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cardiac Inflammation Levels at 30±5 Days Post-Stroke measured by PET/MR Scanning</measure>
+    <time_frame>At 30 days±5 post stroke</time_frame>
+    <description>Cardiac inflammation as measure on PET/MR scanning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiac Inflammation Levels at 90±5 Days Post-Stroke measured by PET/MR Scanning</measure>
+    <time_frame>At 90±5 days compared to first 30 days±5 post-stroke</time_frame>
+    <description>Cardiac inflammation as measure on PET/MR scanning.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in B-Type Natriuretic Peptide (NT-proBNP) and HS-TnT levels between 30±5 days and 90±5 days post-stroke.</measure>
+    <time_frame>At 90±5 days compared to first 30±5 days post stroke</time_frame>
+    <description>Change in levels of NT-proBNP and HS-TnT between 30±5 and 90±15 days post-stroke.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in systemic inflammatory markers between 30±5 and 90±5 days post-stroke</measure>
+    <time_frame>At 90±5 days compared to first 30±5 days</time_frame>
+    <description>Systemic inflammatory markers will be measured using a high-performance biomarker panel for the following 92 proteins (all of which will be informed in pg/mL):&#xD;
+ADA; ARTN; AXIN1; NGF; CCL13; CCL19; CCL2; CCL20; CCL23; CCL25; CCL28; CCL3; CCL4; CCL7; CCL8; CXCL10; CXCL11; CXCL5; CXCL6; CXCL9; CDCP1; CASP8; CST5; DNER; CCL11; EIF4EBP1; FGF19; FGF21; FGF23; FGF5; FLT3LG; CX3CL1; GDNF; CXCL1; HGF; IFNG; IL1A; IL10; IL10RA; IL10RB; IL12B; IL13; IL15RA; IL17A; IL17C; IL18; IL18R1; IL2; IL2RB; IL20; IL20RA; IL22RA1; IL24; IL33; IL4; IL5; IL6; IL7; CXCL8; MMP1; KITLG; LIF; LIFR; LTA; CSF1; SIRT2; CD244;NTF3;NRTN;OSM;CD274;S100A12;TGFA;STAMBP;SLAMF1;MMP10;SULT1A1;CD6;CD5;CD8A;TSLP;TGFB1;TNF;TNFSF10;TNFSF11;TNFSF12;TNFSF14;TNFRSF11B;CD40;TNFRSF9;PLAU;VEGFA</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Stroke</condition>
+  <condition>Inflammation</condition>
+  <arm_group>
+    <arm_group_label>Cases (Ischemic stroke)</arm_group_label>
+    <description>Left and right middle cerebral artery ischemic stroke Patients presenting with acute onset focal neurological deficits and DWI-MRI evidence of an acute brain infarct of the left or right middle cerebral artery ischemic stroke.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls (TIA)</arm_group_label>
+    <description>Patients with acute focal neurological symptoms without brain infarct on MRI. Patients presenting with acute onset focal neurological deficits presumed to be of vascular origin, WITHOUT DWI-MRI evidence of an acute brain infarct.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>cardiac PET/MRI</intervention_name>
+    <description>Patients will undergo cardiac PET/MRI scanning at 30±5 days and at 90±5 days post-stroke.</description>
+    <arm_group_label>Cases (Ischemic stroke)</arm_group_label>
+    <arm_group_label>Controls (TIA)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Inflammatory markers</intervention_name>
+    <description>Measurement of a panel of 92 systemic inflammatory markers on patients' blood samples at 30±5 days and at 90±5 days post-stroke</description>
+    <arm_group_label>Cases (Ischemic stroke)</arm_group_label>
+    <arm_group_label>Controls (TIA)</arm_group_label>
+    <other_name>Olink® Target-96 inflammatory biomarker panel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Diagnostic Test: NT-proBNP</intervention_name>
+    <description>NT-proBNP is useful both in the diagnosis and prognosis of heart failure and is considered to be a gold standard biomarker in heart failure. Measurement of NT-proBNP on patients' blood samples at 30±5 days and at 90±5 days post-stroke</description>
+    <arm_group_label>Cases (Ischemic stroke)</arm_group_label>
+    <arm_group_label>Controls (TIA)</arm_group_label>
+    <other_name>N-terminal prohormone of brain natriuretic peptide</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will comprise 4 patients with acute ischemic stroke in the right MCA&#xD;
+        territory involving the insular cortex, 4 patients in the left MCA territory involving the&#xD;
+        insular cortex, and 4 age- and sex-matched individuals presenting with acute stroke&#xD;
+        symptoms but no evidence of stroke on brain MRI.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥18 years willing to cons Age ≥18 years willing to consent&#xD;
+&#xD;
+          -  Patients with acute ischemic stroke in the right or left MCA territory, admitted to&#xD;
+             University Hospital, London Health Sciences Centre (LHSC) or evaluated at LHSC's&#xD;
+             Urgent TIA and Stroke Prevention Clinic. Acute ischemic stroke is defined as acute&#xD;
+             onset focal symptoms matching an acute brain infarct documented on a Head CT or on&#xD;
+             diffusion weighted imaging (DWI) MRI of the brain showing restricted diffusion.&#xD;
+&#xD;
+          -  Willing to consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of known heart disease defined as known atrial fibrillation, prior myocardial&#xD;
+             infarction, coronary artery disease, heart failure, prior cardiovascular surgery or&#xD;
+             percutaneous intervention&#xD;
+&#xD;
+          -  Stroke in the previous 3 months before the qualifying stroke.&#xD;
+&#xD;
+          -  High-sensitivity Troponin-T (HS-TnT) &gt;100 ng/L on routine standard of care acute&#xD;
+             stroke bloodwork.&#xD;
+&#xD;
+          -  Clinically or neurologically unstable patients as per the treating physician.&#xD;
+&#xD;
+          -  Ongoing infection or recent infection within the previous 3 months.&#xD;
+&#xD;
+          -  Surgery within 3 months before the stroke.&#xD;
+&#xD;
+          -  Concurrent inflammatory conditions (connective tissue diseases, rheumatological&#xD;
+             disease, etc.) or use of anti-inflammatory medications.&#xD;
+&#xD;
+          -  Contraindications to the use of gadolinium (e.g., pregnancy, stage IV renal&#xD;
+             insufficiency)&#xD;
+&#xD;
+          -  Subjects will be excluded if they fail the St. Joseph's Health Care standard MRI&#xD;
+             screening questionnaire. Briefly, this questionnaire screens for: Heart Pacemakers /&#xD;
+             Wires, Aneurysm Clips, Shunt / Surgical Clips, Shrapnel / Bullets, Dentures or Metal&#xD;
+             braces, Intra-Uterine Device, Heart Valves, Ear Implants, Prostheses, Medication&#xD;
+             Patches (Nicoderm, Habitrol, Transderm-Nitro, etc.), Claustrophobia, History of a head&#xD;
+             or eye injury involving metal fragments. Patients with an eGFR &lt; 40 will be excluded,&#xD;
+             as impaired renal function places the patient at a higher risk for a rare reaction to&#xD;
+             Gd-DTPA, the MRI contrast agent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luciano Sposato, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>London Health Sciences Center, Western University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Diana Ayan, MSc</last_name>
+    <phone>+1 519.685.8500</phone>
+    <phone_ext>35826</phone_ext>
+    <email>diana.ayan@lhsc.on.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Moussa</last_name>
+    <phone>+1 519.685.8500</phone>
+    <phone_ext>33110</phone_ext>
+    <email>jennifer.moussa@lhsc.on.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Heart &amp; Brain Lab, Western University</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5A5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diana Ayan, MSc</last_name>
+      <phone>+1(519) 685-8500</phone>
+      <phone_ext>35286</phone_ext>
+      <email>diana.ayan@lhsc.on.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Moussa</last_name>
+      <phone>+1(519) 685-8500</phone>
+      <phone_ext>33110</phone_ext>
+      <email>jennifer.moussa@lhsc.on.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Luciano Sposato, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>February 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>April 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stroke</keyword>
+  <keyword>PET/MRI</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>Heart</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Natriuretic Peptide, Brain</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

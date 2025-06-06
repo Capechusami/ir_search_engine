@@ -1,0 +1,189 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798065</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2023-16151</org_study_id>
+    <nct_id>NCT05798065</nct_id>
+  </id_info>
+  <brief_title>Inpatient Endoscopy Procedure Planning Delays and Impact on Length of Stay and 30-day Readmission</brief_title>
+  <acronym>Impatience</acronym>
+  <official_title>Inpatient Endoscopy Procedure Planning Delays and Impact on Length of Stay and 30-day Readmission</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radboud University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Radboud University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Single center retrospective cohort study of all inpatient endoscopy procedures to asses&#xD;
+      factors associated with inpatient endoscopy delays and impact on length of stay and 30-day&#xD;
+      readmission&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: Delays in inpatient endoscopy planning negatively influence the quality and&#xD;
+      accessibility of care. This may result in higher healthcare costs, negative health outcomes,&#xD;
+      and unnecessary readmissions and use of hospital beds. Additionally, prolonged hospital stay&#xD;
+      is associated with poorer health outcomes and risk of nosocomial infections, amongst others.&#xD;
+&#xD;
+      Objective: To asses factors associated with inpatient endoscopy delays and impact on length&#xD;
+      of stay and 30-day readmission&#xD;
+&#xD;
+      Study design: Single center retrospective cohort study of all inpatient endoscopy procedures&#xD;
+      (gastroscopy, colonoscopy, ERCP, sigmoidoscopy) during 2016-2022. Data will be identified and&#xD;
+      extracted using CTCue. Only pseudonymized data will be used. Inpatient endoscopy delay will&#xD;
+      be defined as the number of days between the planned date versus the actual date.&#xD;
+      Multivariable logistic regression models will be performed to assess factors associated with&#xD;
+      inpatient endoscopy delay.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of inpatient endoscopy delays (IED)</measure>
+    <time_frame>at endoscopic procedure</time_frame>
+    <description>IED will be defined as the number of days between the planned date versus the actual date.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difference in type of endoscopic procedure between patients with and without IED</measure>
+    <time_frame>at endoscopic procedure</time_frame>
+    <description>Type of endoscopic procedure: gastroscopy/colonoscopy/endoscopic retrograde cholangio-pancreaticography (ERCP)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difference in type of sedation between patients with and without IED</measure>
+    <time_frame>at endoscopic procedure</time_frame>
+    <description>Type of sedation during endoscopic procedure: No sedation/conscious sedation/general anesthesia</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Median length of hospital stay</measure>
+    <time_frame>through study cohort period from 1 january 2016 until 31 december 2022</time_frame>
+    <description>length of hospital admission in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>rate of 30-day readmissions</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>percentage of readmissions within 30 days after initial discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Odds ratio of presence of inpatient endoscopy delays for risk of prolonged length of hospital stay and 30-day readmissions</measure>
+    <time_frame>from admission till 30 days after discharge</time_frame>
+    <description>multivariable logistic regression modelling to assess factors associated with both outcomes and the impact of inpatient endoscopy delay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Odds ratio of presence of inpatient endoscopy delays for risk of 30-day readmissions</measure>
+    <time_frame>from admission till 30 days after discharge</time_frame>
+    <description>multivariable logistic regression modelling to assess factors associated with both outcomes and the impact of inpatient endoscopy delay</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">3700</enrollment>
+  <condition>Inpatient Endoscopy Delay</condition>
+  <condition>Readmission</condition>
+  <condition>Prolonged Hospital Stay</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Inpatient gastrointestinal endoscopy</intervention_name>
+    <description>all inpatient endoscopy procedures (gastroscopy, colonoscopy, ERCP, sigmoidoscopy) during 2016-2022.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult inpatients from all hospital departments undergoing endoscopy procedures. Patients&#xD;
+        will be selected via CTCue, with an admission based query that selects all adult patients&#xD;
+        with an admission of at least two days between 1-1-2014 and 1-12-2022 AND an endoscopic&#xD;
+        care activity.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients (&gt;18 years)&#xD;
+&#xD;
+          -  Clinical admission in any hospital department of at least two days during 1 January&#xD;
+             2016 and 1 December 2022&#xD;
+&#xD;
+          -  Endoscopic procedure during clinical admission, including gastroscopy, endoscopic&#xD;
+             retrograde cholangiopancreatography (ERCP), endoscopic ultrasound (EUS), flexible&#xD;
+             sigmoidoscopy, colonoscopy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Elective admission&#xD;
+&#xD;
+          -  Procedure only for insertion of nasogastric or nasojejunal (feeding) tube without any&#xD;
+             other diagnostic or therapeutic aims&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Siersema, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Radboud University Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Milou van Riswijk, MD, Msc</last_name>
+    <phone>+31615280185</phone>
+    <email>milou.vanriswijk@radboudumc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Radboud university medical center</name>
+      <address>
+        <city>Nijmegen</city>
+        <state>Gelderland</state>
+        <zip>6525GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD will be shared upon reasonable request</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>15 years after publication date</ipd_time_frame>
+    <ipd_access_criteria>supporting information will be shared upon reasonable request</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

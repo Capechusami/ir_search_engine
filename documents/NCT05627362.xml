@@ -1,0 +1,512 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627362</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLIN-60190-453</org_study_id>
+    <secondary_id>2022-002695-37</secondary_id>
+    <nct_id>NCT05627362</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Safety and Effectiveness of Elafibranor in Adult Participants With Primary Sclerosing Cholangitis.</brief_title>
+  <acronym>ELMWOOD</acronym>
+  <official_title>A Phase II, Multicenter, Double-Blind, Randomised, Placebo-Controlled Study and Open Label Long Term Extension to Evaluate the Safety and Efficacy of Elafibranor in Adult Participants With Primary Sclerosing Cholangitis (PSC).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ipsen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ipsen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the effects of elafibranor (the study drug) in participants with&#xD;
+      Primary Sclerosing Cholangitis (PSC). PSC is a rare disease of the liver that leads to injury&#xD;
+      and destruction of bile ducts. Damage to bile ducts leads to buildup of bile in the liver,&#xD;
+      which then causes further damage, and leads to disease progression. This study will compare&#xD;
+      elafibranor to a placebo, a dummy treatment. The main objective of the trial will be to study&#xD;
+      the safety and side effects of the study drug. The trial will also study the study drug's&#xD;
+      effects on blood tests and other tests related to PSC disease activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 27, 2023</start_date>
+  <completion_date type="Anticipated">December 13, 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 24, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With Treatment Emergent Adverse Event (TEAEs), Treatment Related TEAEs, Serious Adverse (SAEs) and Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>Double Blind Period: Baseline up to week 12, Open Label Extension (OLE) Period: Baseline up to week 100</time_frame>
+    <description>An Adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. AESIs are AEs that may not be serious but are of special importance to a particular drug or class of drugs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Clinically Significant Changes in Physical Examination Findings</measure>
+    <time_frame>Double Blind Period: Baseline up to week 12, OLE Period: Baseline up to week 100</time_frame>
+    <description>Percentage of participants with clinically significant changes in physical examination findings will be reported. The clinical significance will be decided by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Clinically Significant changes in Laboratory Parameters (blood chemistry, hematology and coagulation)</measure>
+    <time_frame>Double Blind Period: Baseline up to week 12, OLE Period: Baseline up to week 100</time_frame>
+    <description>Percentage of participants with clinically significant change in laboratory parameters (blood chemistry, hematology and coagulation) will be reported. The clinical significance will be decided by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Clinically Significant Changes in Vital Signs</measure>
+    <time_frame>Double Blind Period: Baseline up to week 12, OLE Period: Baseline up to week 100</time_frame>
+    <description>Percentage of participants with clinically significant changes in Vital Signs will be reported. The clinical significance will be decided by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Clinically Significant Changes in Electrocardiogram (ECG) Readings</measure>
+    <time_frame>Double Blind Period: Baseline up to week 12, OLE Period: Baseline up to week 100</time_frame>
+    <description>Percentage of participants with clinically significant changes in ECG readings will be reported. The clinical significance will be decided by the investigator.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Relative Change From Baseline in Alkaline Phosphate Levels (ALP)</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12, OLE Period: Baseline, Week 52, Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With ≥40% Decrease from Baseline in ALP Levels</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12, OLE Period: Baseline, Week 52, Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute Change from Baseline in ALP</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12, OLE Period: Baseline, Week 52, Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With ALP: &lt;1.3x Upper Limit of Normal (ULN) and &lt;1.5x ULN</measure>
+    <time_frame>Double Blind Period: Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Normalised ALP</measure>
+    <time_frame>Double Blind Period: Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Alanine Transaminase (ALT),Aspartate Transaminase (AST), Gamma-glutamyl transferase (GGT), 5' Nucleotidase and Fractionated ALP Levels at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Total bilirubin, Conjugated bilirubin Levels at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Albumin Levels at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Enhanced Liver Fibrosis (ELF) Test Score</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Liver Stiffness Measurement (LSM) Values Assessed by FibroScan® at Week 12</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Other Non-invasive Hepatic Fibrosis Serum Markers as Measured by PAI-1, TGF-β, Marker of type V Collagen Formation (Pro-C5), and Marker of Type III Collagen Formation (Pro-C3)</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fibrosis-4 (FIB-4) and AST to Platelet Ratio Index (APRI)</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Cytokeratin-18 (CK-18) (M65 and M30) Levels</measure>
+    <time_frame>Double Blind Period: Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK) of Elafibranor and its Metabolite GFT1007: Area Under the Concentration-time Curve Over the Dosing Interval from Time 0 to 24 hours(AUC0-24)</measure>
+    <time_frame>Pre-dose, 0.5 hour (h), 1h, between 1.5 hours and 2h, 4h, and 6h after dosing at Week 4</time_frame>
+    <description>AUC 0-24 will be recorded from the PK blood samples collected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK of Elafibranor and its Metabolite GFT1007: Maximum (peak) Observed Plasma Drug Concentration (Cmax)</measure>
+    <time_frame>Pre-dose, 0.5 hour (h), 1h, between 1.5h and 2h, 4h, and 6h after dosing at Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK of Elafibranor and its Metabolite GFT1007: Time to Maximum Observed Drug Concentration (Tmax)</measure>
+    <time_frame>Pre-dose, 0.5 hour (h), 1h, between 1.5h and 2h, 4h, and 6h after dosing at Week 4</time_frame>
+    <description>Tmax will be recorded from the PK blood samples collected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK of Elafibranor and its Metabolite GFT1007: Total Body Clearance (Cl/F)</measure>
+    <time_frame>Double Blind Period: Baseline up to Week 12</time_frame>
+    <description>Cl/F will be recorded from the PK blood samples collected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK of Elafibranor and its Metabolite GFT1007: Volume of distribution (Vz)</measure>
+    <time_frame>Double Blind Period: Baseline up to Week 12</time_frame>
+    <description>Vz will be recorded from the PK blood samples collected.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Primary Sclerosing Cholangitis</condition>
+  <arm_group>
+    <arm_group_label>Double-Blind Period: Elafibranor 80 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participant will receive two tablets per day (one tablet of elafibranor 80 mg + 1 tablet of placebo matching the 120 mg sized tablet) over the 12 weeks in Double-blind period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Double-Blind Period: Elafibranor 120 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participant will receive 2 tablets per day (one tablet of elafibranor 120 mg + 1 tablet of placebo matching the 80 mg sized tablet) over the 12 weeks in Double-blind period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Double-Blind Period: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participant will receive 2 placebo tablets per day (one matching the 80 mg sized tablet + one matching the 120 mg sized tablet) over the 12 weeks in Double-blind period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Open-Label Extension Period: Elafibranor 120 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participant will receive one tablet per day (elafibranor 120 mg) over the 96 weeks in Open-Label extension period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Elafibranor 80 mg</intervention_name>
+    <description>Oral Tablet</description>
+    <arm_group_label>Double-Blind Period: Elafibranor 80 mg</arm_group_label>
+    <other_name>GFT505</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Elafibranor 120 mg</intervention_name>
+    <description>Oral Tablet</description>
+    <arm_group_label>Double-Blind Period: Elafibranor 120 mg</arm_group_label>
+    <arm_group_label>Open-Label Extension Period: Elafibranor 120 mg</arm_group_label>
+    <other_name>GFT505</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Matched to Elafibranor 80 mg</intervention_name>
+    <description>Oral Tablet</description>
+    <arm_group_label>Double-Blind Period: Elafibranor 120 mg</arm_group_label>
+    <arm_group_label>Double-Blind Period: Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Matched to Elafibranor 120 mg</intervention_name>
+    <description>Oral Tablet</description>
+    <arm_group_label>Double-Blind Period: Elafibranor 80 mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria :&#xD;
+&#xD;
+          -  Participants with a diagnosis of Primary sclerosing cholangitis (PSC) as demonstrated&#xD;
+             by the presence of the following, and in the absence of apparent causes of secondary&#xD;
+             sclerosing cholangitis: i) Historical evidence of an elevated Alkaline phosphatase&#xD;
+             (ALP) &gt; Upper Limit Normal (ULN) since at least 6 months prior to SV1. ii)&#xD;
+             Cholangiogram (e.g. magnetic resonance cholangiopancreatography (MRCP), endoscopic&#xD;
+             retrograde cholangiopancreatography (ERCP), percutaneous transhepatic cholangiography&#xD;
+             (PTC) with features compatible with large duct PSC.&#xD;
+&#xD;
+          -  ALP ≥1.5x ULN during screening (with variability ≤30% based on two values).&#xD;
+&#xD;
+          -  Total bilirubin ≤2.0x ULN at Screening Visit 1(SV1)&#xD;
+&#xD;
+          -  Participants taking ursodeoxycholic acid (UDCA) at a total daily dose ≤23 mg/kg/day,&#xD;
+             with a minimum of 6 months of stable treatment prior to screening period and expected&#xD;
+             to remain on stable dose through the 12-week DBP. Minimum of 3 months off treatment&#xD;
+             prior to screening period if UDCA was recently discontinued.&#xD;
+&#xD;
+          -  For participants with Inflammatory bowel disease (IBD): i) Participants with Crohn's&#xD;
+             disease must be in remission based on the investigator's clinical assessment and&#xD;
+             should be on stable treatment prior to randomisation and during screening. ii)&#xD;
+             Participants with ulcerative colitis must be in remission or have low activity disease&#xD;
+             as per the judgement of the investigator and should be on stable treatment prior to&#xD;
+             randomisation and during screening. iii) Current treatment for IBD is permitted, if&#xD;
+             the participant has been well controlled for ≥3 months prior to the screening period&#xD;
+             and is anticipated to remain on a stable dose of drugs for IBD treatment, including&#xD;
+             biologics, immunosuppressants, immunomodulators, or systemic corticosteroids. iv)&#xD;
+             Participants with IBD should have a colonoscopy performed within one year prior to the&#xD;
+             screening period showing no evidence of dysplasia or cancer.&#xD;
+&#xD;
+          -  Medications for management of pruritus (e.g. cholestyramine, rifampin, naltrexone or&#xD;
+             sertraline) must be on a stable dose for ≥3 months prior to the screening period.&#xD;
+&#xD;
+          -  Contraceptive use should be consistent with local regulations regarding the methods of&#xD;
+             contraception for those participating in clinical studies. -A female participant is&#xD;
+             eligible to participate if she is not pregnant or breastfeeding at screening, is&#xD;
+             willing not to become pregnant during the study and is willing to follow applicable&#xD;
+             protocol requirements related to this. - Male participants are eligible to participate&#xD;
+             if they agree to follow applicable protocol requirements related to contraception.&#xD;
+&#xD;
+          -  Capable of giving signed informed consent which includes compliance with the&#xD;
+             requirements and restrictions listed in the informed consent form (ICF) and in this&#xD;
+             protocol.&#xD;
+&#xD;
+        Exclusion Criteria :&#xD;
+&#xD;
+          -  History or presence of other concomitant chronic liver disease including: i)&#xD;
+             ImmunoglobulinG 4 (IgG4) related sclerosing cholangitis, or IgG4 ≥4x ULN at SV1. ii)&#xD;
+             Small duct PSC. iii) Documented history of secondary sclerosing cholangitis. iv)&#xD;
+             Presence of hepatitis B surface antigen (HBsAg) at screening. v) Hepatitis C virus&#xD;
+             (HCV) infection vi) Primary biliary cholangitis (PBC) or positive anti-mitochondrial&#xD;
+             antibody. vii) Alcohol-related liver disease. viii) Autoimmune hepatitis (AIH):&#xD;
+             Simplified Diagnostic Criteria of the IAIHG ≥6. ix) Presence of history of PSC-PBC or&#xD;
+             PSC-AIH overlap syndrome. x) Non-alcoholic steatohepatitis (NASH). SMD form protocol&#xD;
+             master data--23- INT / Version 1 Known history of alpha-1 antitrypsin deficiency&#xD;
+&#xD;
+          -  Presence of percutaneous drain or bile duct stent at screening or within three months&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  History of bacterial cholangitis within 60 days prior to the screening period, or&#xD;
+             participant on antibiotics for prophylaxis of recurrent cholangitis.&#xD;
+&#xD;
+          -  History or any current suspicion of cholangiocarcinoma or elevated value of&#xD;
+             carbohydrate antigen 19-9 (CA19-9) &gt;129 U/mL at SV1.&#xD;
+&#xD;
+          -  Alpha-fetoprotein (AFP) &gt;20 ng/mL with 4-phase liver computerised tomography (CT) or&#xD;
+             magnetic resonance imaging (MRI) suggesting presence of liver cancer.&#xD;
+&#xD;
+          -  Participants with cirrhosis who are also classified as Child-Pugh B or C based on the&#xD;
+             Child-Pugh score. Participants with cirrhosis with Child-Pugh A score are allowed.&#xD;
+&#xD;
+          -  History of clinically significant hepatic decompensation as described in the study&#xD;
+             protocol&#xD;
+&#xD;
+          -  Presence or history of hepatocellular carcinoma.&#xD;
+&#xD;
+          -  Medical conditions that may cause non-hepatic increases in ALP (e.g. Paget's disease).&#xD;
+&#xD;
+          -  Medical conditions that may diminish life expectancy to &lt;2 years, including known&#xD;
+             cancers.&#xD;
+&#xD;
+          -  Participant has a positive test for human immunodeficiency virus (HIV) type 1 or 2 at&#xD;
+             SV1, or participant is known to have tested positive for HIV.&#xD;
+&#xD;
+          -  Evidence of any other unstable or untreated clinically significant immunological,&#xD;
+             endocrine, neurological, gastrointestinal, haematologic, psychiatric diseases as&#xD;
+             evaluated by the investigator; other clinically significant conditions that are not&#xD;
+             well controlled&#xD;
+&#xD;
+          -  Known malignancy or history of malignancy within the last 5 years, with the exception&#xD;
+             of local, successfully treated basal cell carcinoma or in-situ carcinoma of the&#xD;
+             uterine cervix.&#xD;
+&#xD;
+          -  Participants with previous exposure to elafibranor&#xD;
+&#xD;
+          -  ALT and/or AST &gt;5x ULN&#xD;
+&#xD;
+          -  Albumin &lt;3.0 g/dL at SV1.&#xD;
+&#xD;
+          -  Platelet count &lt;100,000/microliter.&#xD;
+&#xD;
+          -  International normalised ratio (INR) &gt;1.3 due to altered hepatic function.&#xD;
+&#xD;
+          -  Creatine phosphokinase (CPK) &gt;2x ULN during screening period.&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) &lt;60 mL/min/1.73m2&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ipsen Medical, Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Ipsen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ipsen Recruitment Enquiries</last_name>
+    <phone>see email</phone>
+    <email>clinical.trials@ipsen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Om Research LLC</name>
+      <address>
+        <city>Lancaster</city>
+        <state>California</state>
+        <zip>93534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Peak Gastroenterology Associates</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Denver Gastroenterology,P.C.</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Schiff Center for Liver Diseases - University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>American Research Corporation at The Texas Liver Institute</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liver Institute Northwest</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary</name>
+      <address>
+        <city>Alberta</city>
+        <zip>T2N 4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aspen Woods Clinic</name>
+      <address>
+        <city>Calgary</city>
+        <zip>T3H 0V5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>G.I Research Institute</name>
+      <address>
+        <city>Vancouver</city>
+        <zip>V6Z 2K5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Maranon (HGUGM)</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Puerta de Hierro</name>
+      <address>
+        <city>Majadahonda</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cholangitis</mesh_term>
+    <mesh_term>Cholangitis, Sclerosing</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, annotated case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of study participants.&#xD;
+Any requests should be submitted to www.vivli.org for assessment by an independent scientific review board.</ipd_description>
+    <ipd_time_frame>Where applicable, data from eligible studies are available 6 months after the studied medicine and indication have been approved in the US and EU or after the primary manuscript describing the results has been accepted for publication, whichever is later.</ipd_time_frame>
+    <ipd_access_criteria>Further details on Ipsen's sharing criteria, eligible studies and process for sharing are available here (https://vivli.org/members/ourmembers/).</ipd_access_criteria>
+    <ipd_url>https://vivli.org/members/ourmembers/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

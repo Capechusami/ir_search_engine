@@ -1,0 +1,294 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610241</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CI52248</org_study_id>
+    <nct_id>NCT05610241</nct_id>
+  </id_info>
+  <brief_title>Preliminary Investigation of a Smart Compression Therapy Prototype</brief_title>
+  <acronym>PRESUF-VLU</acronym>
+  <official_title>Preliminary Testing of the Safety, Usability and Functionality of an Innovative and Smart Medical Device: Compression Therapy System Prototype for Venous Leg Ulcer Treatment in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>DeRoyal Industries, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Royal College of Surgeons, Ireland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tyndall National Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Enterprise Ireland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>DeRoyal Industries, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Compression wraps treat venous leg ulcers when applied correctly. Often, clinicians apply the&#xD;
+      wraps at the wrong compression, or the wrap loosens, stopping clinical benefits. The study&#xD;
+      aims to show the feasibility of a smart compression prototype to maintain a set compression&#xD;
+      level in healthy volunteers. Each volunteer will wear the prototype device on one leg and a&#xD;
+      standard compression wrap on the other. Volunteers will pump their calves, walk, lie down,&#xD;
+      and stand at zero, one, and four hours. A pressure sensor placed over each calf will record&#xD;
+      the compression level during the activities. Volunteers will provide subjective feedback on&#xD;
+      each device concerning comfort and usability. After four hours, researchers will remove the&#xD;
+      standard wrap. Volunteers will use the prototype device during daily activities for three&#xD;
+      days. During the three days, the volunteers will complete a daily journal. The journal will&#xD;
+      capture the user experience and time the volunteer used the device. A final site visit allows&#xD;
+      researchers to conduct exit interviews and download the history of applied compression.&#xD;
+      Researchers will use the data to show that the prototype device maintains therapeutic&#xD;
+      compression and prove the usability of the device.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 4, 2023</start_date>
+  <completion_date type="Anticipated">March 21, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 18, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Healthy volunteer study where participants serve as their own control, the control condition will be assigned to one leg and the experimental condition applied to the other leg.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+    <masking_description>The clinical research nurse applying the compression interventions will be blinded from interface pressure measurements</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Apply Intervention by clinician</measure>
+    <time_frame>Measured on Day 0</time_frame>
+    <description>The time it takes a clinician to place the assigned intervention to each limb</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Apply compression therapy prototype by volunteer</measure>
+    <time_frame>Measured on Day 0</time_frame>
+    <description>The time it takes the volunteer to place the assigned intervention to each limb</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interface Pressure after Application of Intervention</measure>
+    <time_frame>Measured on Day 1</time_frame>
+    <description>Interface pressure measured by pressure sensor (Pico Press) following application by research clinician</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average Interface Pressure during Walking</measure>
+    <time_frame>Measured at 0 hours, 1 hour, and 4 hours on Day 1</time_frame>
+    <description>The participant walks on a treadmill for 10 minutes. A pressure sensor (Pico Press) continuously measures compression at the medial gastrocnemius head. The interface pressure measurements are averaged over ten minutes of data collection. The analysis compares changes in pressure over the three measurements for each intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average Interface Pressure during Calf Pumping</measure>
+    <time_frame>Measured at 0 hours, 1 hour, and 4 hours on Day 1</time_frame>
+    <description>The participant pumps each calf independently for 30 seconds. A pressure sensor (Pico Press) continuously measures compression at the medial gastrocnemius head. The interface pressure measurements are averaged over 30 seconds of data collection. The analysis compares changes in pressure over the three measurements for each intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average Interface Pressure during Standing</measure>
+    <time_frame>Measured at 0 hours, 1 hour, and 4 hours on Day 1</time_frame>
+    <description>The participant stands for 30 seconds. A pressure sensor (Pico Press) continuously measures compression at the medial gastrocnemius head. The interface pressure measurements are averaged over 30 seconds of data collection. The analysis compares changes in pressure over the three measurements for each intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average Interface Pressure while laying down</measure>
+    <time_frame>Measured at 0 hours, 1 hour, and 4 hours on Day 1</time_frame>
+    <description>The participant lays down on the bed for 30 seconds. A pressure sensor (Pico Press) continuously measures compression at the medial gastrocnemius head. The interface pressure measurements are averaged over 30 seconds of data collection. The analysis compares changes in pressure over the three measurements for each intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Accuracy of Compression Therapy System Prototype compared to Interface Pressure</measure>
+    <time_frame>Measured between 0 and 4 hours on day 1</time_frame>
+    <description>During data collection on day 1, the pressure sensor (Pico Press) will continuously monitor compression level applied to the calf. Researchers willl compare the pressure applied from the device to the measured pressure at the calf.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual Analogue Sensory (Pain) Assessment</measure>
+    <time_frame>Measured on Day 1 at hour 4</time_frame>
+    <description>Pain assessment completed by a 0 to 10 visual analog scale where 0 represents no pain and 10 represents severe pain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual Analogue Skin Redness Assessment</measure>
+    <time_frame>Measured on Day 1 at hour 4 for both interventions; Measured on Day 2 - 4 for Compression Therapy System Prototype</time_frame>
+    <description>Visual Analogue Scale between 0 (no redness) to 10 (severe redness)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Usability Assessment</measure>
+    <time_frame>Completed on Day 1 for both interventions and daily on Day 2, 3, and 4 for the compression therapy system prototype</time_frame>
+    <description>Questionnaire that allows research participants to score each intervention on a 1 (Strongly disagree) to 5 (Strongly agree) scale for the following questions:&#xD;
+The intervention stayed in place while you are wearing it. The appearance of the intervention is aesthetically appealing The dimensions of the intervention are appropriate The weight of the intervention is comfortable when wearing it Overall I was able to successfully use the compression therapy prototype The user manual is helpful for me in managing the compression therapy prototype The instructions in the user manual are understandable (compression therapy prototype only) Overall, the Compression Therapy System Prototype is user friendly Overall, I feel comfortable when I use the intervention Overall, I feel confident when I use the intervention Overall I feel there is no risk to me when I use the intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>At home usability assessment</measure>
+    <time_frame>Day 2 and 3</time_frame>
+    <description>Questions will be asked to healthy volunteers during three day period at home. Volunteers rate their response on a scale from 1 (strongly disagree) to 5 (strongly agree).&#xD;
+I learned to use the compression therapy prototype quickly I learned to use the compression therapy prototype easily I easily remember how to use the compression therapy prototype I quickly became skillful with the compression therapy prototype It isn't necessary to have too much previous knowledge to use the compression therapy prototype The instructions for use are clear and easy to understand&#xD;
+The LED signs from the compression therapy prototype is accurate Overall, I was able to successfully interpret the LED signs of the compression therapy prototype The LED signs of the compression therapy prototype are understandable and easy to interpret The LED signs were helpful for me in managing the compression therapy prototype The LED signs allow me to correct mistakes quickly and easily</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Venous Leg Ulcer</condition>
+  <condition>Venous Insufficiency of Leg</condition>
+  <arm_group>
+    <arm_group_label>Compression Therapy System Prototype</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Identifies legs randomized to receive the experimental intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Coban 2 (2 Layer Compression Wrap)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Identifies the legs randomized to receive the control intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Compression Therapy System Prototype</intervention_name>
+    <description>A device designed to deliver compression therapy at a pre-set level to the lower leg for legs with a circumference between 30-50 cm. The device provides compression through a series of three air bladders and is controlled by a battery-powered electronic module that controls compression levels by monitoring bladder pressure.</description>
+    <arm_group_label>Compression Therapy System Prototype</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard Compression</intervention_name>
+    <description>Coban 2 represents the standard of care 2-layer compression wrap used to treat venous leg ulcers. The device consists of a comfort layer and a compression layer. A clinician applies the device to establish compression therapy.</description>
+    <arm_group_label>Coban 2 (2 Layer Compression Wrap)</arm_group_label>
+    <other_name>2 Layer Compression Wrap</other_name>
+    <other_name>2 Layer Compression Bandage</other_name>
+    <other_name>Coban 2</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Intact, healthy skin at the application site in both legs&#xD;
+&#xD;
+          -  Calf circumferences to be within 30 - 50 cm between the medial and lateral head of the&#xD;
+             gastrocnemius&#xD;
+&#xD;
+          -  Able to understand the Patient Information Leaflet&#xD;
+&#xD;
+          -  Willing and able to give informed consent&#xD;
+&#xD;
+          -  Able to wear, don and doff the compression device without external help&#xD;
+&#xD;
+          -  Willing and able to follow the requirements of the clinical investigation plan&#xD;
+&#xD;
+          -  Presence of pedal pulses identified by hand-held Doppler (8 MHz)&#xD;
+&#xD;
+          -  Ankle Brachial Pressure Index between 0.9 and 1.4&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of signs of previous deep or superficial vein thrombosis/pulmonary embolism&#xD;
+&#xD;
+          -  Peripheral artery disease ( or ABPI &lt; 0.90 or &gt; 1.4), critical limb ischemia, or&#xD;
+             arterial ulceration&#xD;
+&#xD;
+          -  Varicose veins, varicose eczema, or venous ulceration&#xD;
+&#xD;
+          -  Chronic lower limb swelling, edema, lymphedema, or lipoedema&#xD;
+&#xD;
+          -  Recent surgery within the last three months (such as abdominal, gynecological, hip or&#xD;
+             knee replacement, or lower limb) that may affect the study in the opinion of the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Recent trauma to a lower limb within the last three months&#xD;
+&#xD;
+          -  Chronic obesity (defined as BMI index &gt;40 kg/m^2)&#xD;
+&#xD;
+          -  Diabetes mellitus&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  A pulse rate of fewer than 40 beats/minute&#xD;
+&#xD;
+          -  A sitting systolic blood pressure of &gt; 180 and &lt; 100 mmHg and/or a sitting diastolic&#xD;
+             pressure of &gt; 100 mmHg&#xD;
+&#xD;
+          -  Any significant illness during the previous four (4) weeks&#xD;
+&#xD;
+          -  Participation in any clinical study during the eight (8) weeks preceding the screening&#xD;
+             period&#xD;
+&#xD;
+          -  Any evidence of edema or pain&#xD;
+&#xD;
+          -  Skin diseases, including wounds on the feet or lower limbs&#xD;
+&#xD;
+          -  Any history of heart, liver, kidney, or vascular diseases&#xD;
+&#xD;
+          -  History of having been prescribed compression stockings for treatment of a medical&#xD;
+             condition&#xD;
+&#xD;
+          -  Serious allergies&#xD;
+&#xD;
+          -  Dermatitis with oozing or fragile skin&#xD;
+&#xD;
+          -  Persons currently using NSAID, Diuretics, Vasodilators, and steriods&#xD;
+&#xD;
+          -  Drivers and Driving Professionals&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Declan Patton, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>RCSI University of Medicine and Health Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Research Scientist</last_name>
+    <phone>8653621022</phone>
+    <email>woundstudy@deroyal.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>RCSI Education and Research Centre</name>
+      <address>
+        <city>Dublin</city>
+        <zip>YN77</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>353 1 402 2100</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Ireland</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>February 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Compression Therapy</keyword>
+  <keyword>Two Layer Compression Wrap</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Varicose Ulcer</mesh_term>
+    <mesh_term>Venous Insufficiency</mesh_term>
+    <mesh_term>Leg Ulcer</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

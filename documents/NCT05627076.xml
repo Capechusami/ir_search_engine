@@ -1,0 +1,134 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AB-PSP-006</org_study_id>
+    <nct_id>NCT05627076</nct_id>
+  </id_info>
+  <brief_title>Analytical Validation of the abioSCOPE Device With the IVD CAPSULE PSP Test: Comparison of PSP Values Measured With Venous Whole Blood and Those Measured With Arterial Whole Blood.</brief_title>
+  <official_title>Comparison of PSP Values Measured With Venous Whole Blood and Those Measured With Arterial Whole Blood.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abionic SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abionic SA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Abionic has developed a targeted, rapid test for pancreatic stone protein (PSP) in human&#xD;
+      K2-EDTA venous whole blood using the abioSCOPE instrument.&#xD;
+&#xD;
+      Currently no PSP study comparaison has been done between venous and arterial whole blood.&#xD;
+      Abionic would like to confirm the equivalence of the PSP between venous whole blood and&#xD;
+      arterial whole blood.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 29, 2022</start_date>
+  <completion_date type="Actual">October 31, 2022</completion_date>
+  <primary_completion_date type="Actual">October 11, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary assessment</measure>
+    <time_frame>through study completion, an average of 1.5 months</time_frame>
+    <description>Pairwise comparability of test results when performed with K2-EDTA anticoagulated venous whole blood or K2-EDTA anticoagulated arterial whole blood, represented as percent recovery of arterial whole blood compared to venous whole blood, as well as scatter plots with Weighted Deming and Passing Bablok Regression, and bias plots.</description>
+  </primary_outcome>
+  <enrollment type="Actual">46</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Sepsis Bacterial</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Blood Sampling</intervention_name>
+    <description>Blood samples will be collected for the PSP measurement using the abioSCOPE.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted at the hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provide signed and dated written informed consent by patient or close / family /&#xD;
+             trusted person prior to any mandatory study-specific procedures, sample collection, or&#xD;
+             analysis;&#xD;
+&#xD;
+          2. Male or female, 18 years of age or older;&#xD;
+&#xD;
+          3. Patient admitted to hospital&#xD;
+&#xD;
+          4. Need for venous and arterial blood samples as part of standard of care&#xD;
+&#xD;
+          5. Covered by a social security scheme.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject suffering from a hematological pathology (coagulation disorder, severe anemia)&#xD;
+             that could interfere with the blood draw procedure;&#xD;
+&#xD;
+          2. Subject under juridical protection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CHU Limoges, Réanimation Polyvalente</name>
+      <address>
+        <city>Limoges</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Abionic</keyword>
+  <keyword>Pancreatic Stone Protein</keyword>
+  <keyword>Point-of-care device</keyword>
+  <keyword>Immunoassay</keyword>
+  <keyword>IVD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

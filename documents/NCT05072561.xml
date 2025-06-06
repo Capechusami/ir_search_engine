@@ -1,0 +1,187 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05072561</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1957</org_study_id>
+    <nct_id>NCT05072561</nct_id>
+  </id_info>
+  <brief_title>Feasibility of Radioisotope-guided Excision of Mediastinal Lymph Nodes in Patients With Non-small Cells Lung Carcinoma</brief_title>
+  <acronym>SLN_NSCLC</acronym>
+  <official_title>Feasibility of Radioisotope-guided Excision of Mediastinal Lymph Nodes in Patients With Non-small Cells Lung Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Clinico Humanitas</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituto Clinico Humanitas</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Non-small cells lung carcinoma (NSCLC) represents one of the most common and lethal&#xD;
+      neoplasms. NSCLC is characterized by an early asymptomatic phase, which hinders the disease&#xD;
+      identification in its earliest stages. As a consequence, NSCLC is often diagnosed at a&#xD;
+      clinical stage when the potentially curative surgical approach is challenging. In general,&#xD;
+      NSCLC up to the TNM stage cT3N2M0 are considered operable; in particular, nodal localizations&#xD;
+      in the homolateral hilus (N1) and underneath the carina (N2) are considered surgically&#xD;
+      manageable. Identification of nodal disease on the pre-operative PET/CT does not guarantee&#xD;
+      that all disease-bearing lymph node will be retrieved in the course of the open operative&#xD;
+      procedure. Smaller nodes might be challenging to identify; moreover, the co-existence of&#xD;
+      macroscopic and microscopic disease might hinder the radicality of the surgical intervention.&#xD;
+      This process can be tracked using specific radioactive radiopharmaceuticals, such as&#xD;
+      radioisotope-labelled colloids, which can be injected in the immediate proximity of the&#xD;
+      primary and then travel toward the closest cluster of mediastinal lymph nodes. There, they&#xD;
+      are incorporated in the nodal structure and progress no farther. By employing a radioisotope&#xD;
+      probe during surgery, all of the first-line nodes (so-called sentinel lymph node, SLN), which&#xD;
+      receive the lymphatic flow from the tumor region directly, can be identified.&#xD;
+&#xD;
+      The hypothesis of the investigators is that, by performing a radioisotope SLN mapping&#xD;
+      intraoperatively, the surgeons will be able to detect the metastatization process more&#xD;
+      accurately than relying on pre-operative imaging alone.&#xD;
+&#xD;
+      The present study will be a prospective and monocentric trial. Clinical, histological, and&#xD;
+      imaging data collected from examinations performed according to the good clinical practice&#xD;
+      will be analyzed. The estimated duration of the study is 12 months. It will include the&#xD;
+      prospective inclusion of patients with a diagnosis of operable NSCLC, who will receive a&#xD;
+      surgical treatment with curative intent at the investigators' institution (ICH).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 17, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Detection rate (DR) of the SLN technique.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The DR is defined as the capability of the SLN of identifying the mediastinal lymph nodes receiving the lymphatic flow, i.e., the presence and the number of lymph nodes, which can be identified with the gamma probe intraoperatively. This parameter will be measured as the ratio between the number of removed lymph nodes that will show a signifcant uptake of the radiotracer (&gt;10 counts per minute) and the total number of removed lymph nodes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sensitivity (Se) of the SLN technique.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Se will be defined as the ratio between the number of identified nodal disease foci that will show a signifcant uptake of the radiotracer (&gt;10 counts per minute) and the total number of identified nodal disease foci.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of the efficiency of a portable gamma camera</measure>
+    <time_frame>12 months</time_frame>
+    <description>the measurement of the efficiency of a portable gamma camera, when compared with the standard gamma probe, in terms of DR. This parameter will be measured as the ratio between the number of removed lymph nodes that will show a signifcant uptake at the examination with the portable gamma camera (as evaluated by an expert operator) and the number of removed lymph nodes that will show a signifcant uptake of the radiotracer (&gt;10 counts per minute) with the standard gamma probe</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison between the lower (I-II) and the higher (III and above) disease stages</measure>
+    <time_frame>12 months</time_frame>
+    <description>The comparison of DR and Se between the lower (I-II) and the higher (III and above) disease stages. The analysis will be performed using the ROC curves for these parameters.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Sentinel lymph node scintigraphy</intervention_name>
+    <description>During the surgery, right after the identification of the primary, 18-37 MBq of 99mTc-Nanocolloids in two ml will be injected at four peritumoral locations. After a brief waiting time (5-10'), the thoracic surgeon will perform the clinical intervention, including the lobectomy (the injection sites will be resected alongside the tumour) and lymphadenectomy, according to the best clinical practice. All the excised lymph nodes will be ex vivo counted using a gamma probe: those with a detectable activity (at least 10% of the &quot;hottest&quot; lymph node) will be considered as SLN. Thereafter, the mediastinum will be scanned using the gamma probe and a handheld gamma-camera (the latter will not be employed in case of robotic-assisted surgery); any further source of radioactivity will be investigated and, should further lymph nodes be identified, these will be also resected and classified in SLN or non-SLN, based on ex vivo activity.</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Newly diagnosis of stage I-IIIa NSCLC (higher stage could be considered, pending a&#xD;
+             multidisciplinary evaluation and approval).&#xD;
+&#xD;
+          -  Baseline 18FFDG-PET-CT and ceCT&#xD;
+&#xD;
+          -  Treatment according to good clinical practice&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Unavailability of baseline images&#xD;
+&#xD;
+          -  Diagnosis other than NSCLC at definitive pathology&#xD;
+&#xD;
+          -  Surgery carried without complete resection or with no curative intent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Arturo Chiti, Professor</last_name>
+    <phone>+390282246621</phone>
+    <email>arturo.chiti@hunimed.eu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lidija Antunovic, MD</last_name>
+    <phone>+390282247545</phone>
+    <email>lidija.antunovic@humanitas.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Istituto Clinico Humanitas</name>
+      <address>
+        <city>Rozzano</city>
+        <state>Milano</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arturo Chiti, Professor</last_name>
+      <phone>+390282246621</phone>
+      <email>arturo.chiti@hunimed.eu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lidija Antunovic, MD</last_name>
+      <phone>+390282247545</phone>
+      <email>lidija.antunovic@humanitas.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>May 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

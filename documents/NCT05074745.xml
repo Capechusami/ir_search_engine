@@ -1,0 +1,193 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05074745</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO_CSM_01_2021</org_study_id>
+    <nct_id>NCT05074745</nct_id>
+  </id_info>
+  <brief_title>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Buccal Screening Evaluation Using an RT-PCR Assay and a Rapid ELISA Test Among Symptomatic and Asymptomatic Patients</brief_title>
+  <acronym>CORDAGES</acronym>
+  <official_title>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Buccal Screening Evaluation Using an RT-PCR Assay and a Rapid ELISA Test Among Symptomatic and Asymptomatic Patients: the CORDAGES Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Scientifique de Monaco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Department of Health Affairs, Monaco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Scientifique de Monaco</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective is to expand screening for severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2) by evaluating the diagnostic accuracy of the RT-PCR test (Cobas® Roche,&#xD;
+      Switzerland) and the ELISA Point of Contact Testing (PORTABLE COVID-19 ANTIGEN LAB® Stark,&#xD;
+      Italy) on buccal swab compared to the reference test, the RT-PCR test (Cobas® Roche,&#xD;
+      Switzerland) on nasopharyngeal swab.&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        -  To evaluate the diagnostic accuracy of oral swab RT-PCR and POCT relative to the&#xD;
+           quantitative amplification (Ct) values of the NP Swab RT-PCR assay.&#xD;
+&#xD;
+        -  Analyze RT-PCR amplification cycle thresholds (Ct) and POCT diagnostic accuracy as a&#xD;
+           function of the presence and timing of symptoms.&#xD;
+&#xD;
+        -  Among symptomatic participants, compare clinical presentations between positive and&#xD;
+           negative participants on the NP swab RT-PCR test.&#xD;
+&#xD;
+        -  The RT-PCR test may be imperfectly sensitive, ranging from 71 to 98%3. Using a Bayesian&#xD;
+           latent class model, the investigators will assess the true accuracy of POCT as it does&#xD;
+           not require the assumption that any one test or combination of tests is perfect14,15.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 18, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Monocentric, Prospective, 3 components Nasopharyngeal swab by PCR Buccal swab by PCR Buccal by ELISA POCT</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) positive patients for the two different sampling types (buccal vs nasopharyngeal) and two methods (ELISA POCT vs RT-PCR)</measure>
+    <time_frame>48 Hours</time_frame>
+    <description>Number of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) positive patients by sampling type (buccal and nasopharyngeal swab) and analytical method (ELISA POCT vs RT-PC)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of Ct values in buccal and nasopharyngeal swabs</measure>
+    <time_frame>48 Hours</time_frame>
+    <description>Ct values by PCR in buccal and nasopharyngeal swabs</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Buccal and nasopharyngeal swabs</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One patient will have 3 swabs taken, 2 buccal for PCR and ELISA POCT, 1 nasopharyngeal for PCR</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ELISA POCT vs RT-PCR</intervention_name>
+    <description>3 swabs taken, buccal for RT-PCR and ELISA POCT, nasopharyngeal for RT-PCR</description>
+    <arm_group_label>Buccal and nasopharyngeal swabs</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18+ patient eligible for COVID-19 testing in Monaco&#xD;
+&#xD;
+          -  symptoms suggestive of COVID-19&#xD;
+&#xD;
+          -  contact with a confirmed case of COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  refusal to participate in the study&#xD;
+&#xD;
+          -  preventive screening of professional groups&#xD;
+&#xD;
+          -  inability to return to the screening center within 48-72 hours of the first visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Eric VOIGLIO, MD, PhD</last_name>
+    <phone>+37798984850</phone>
+    <email>evoiglio@gouv.mc</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre National de Depistage - Espace Leo Ferre</name>
+      <address>
+        <city>Monaco</city>
+        <zip>98000</zip>
+        <country>Monaco</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric VOIGLIO, MD, PhD</last_name>
+      <phone>+37798984850</phone>
+      <email>evoiglio@gouv.mc</email>
+    </contact>
+    <contact_backup>
+      <last_name>Thomas ALTHAUS, MD, PhD</last_name>
+      <email>talthaus@gouv.mc</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eric VOIGLIO, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas ALTHAUS, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Herve RAPS, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Olivier DEJOUX, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Patrick RAMPAL, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Monaco</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>POCT</keyword>
+  <keyword>RT-PCR</keyword>
+  <keyword>Contact case</keyword>
+  <keyword>ELISA</keyword>
+  <keyword>Buccal</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

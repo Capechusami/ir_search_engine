@@ -1,0 +1,148 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618860</url>
+  </required_header>
+  <id_info>
+    <org_study_id>312778</org_study_id>
+    <nct_id>NCT05618860</nct_id>
+  </id_info>
+  <brief_title>Patient Perspectives on Artificial Intelligence in Radiology</brief_title>
+  <acronym>PPAIR</acronym>
+  <official_title>Patient Perspectives on Artificial Intelligence in Radiology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guy's and St Thomas' NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Guy's and St Thomas' NHS Foundation Trust</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will conduct a short questionnaire with patients who are waiting for&#xD;
+      radiology exams to understand their views on the use of artificial intelligence in radiology.&#xD;
+      The questionnaire will be anonymised and entirely optional. Results will be published in&#xD;
+      peer-reviewed publications and inform future implementation of AI in clinical radiology.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The project entails a patient questionnaire. Patients will firstly be informed about the&#xD;
+      study via a member of the radiology care team. Informed consent will be obtained by a member&#xD;
+      of the team. Each participant will be assigned a unique identifier number upon recruitment.&#xD;
+      Aside from the signed consent form, no identifiable information or medical details will be&#xD;
+      collected. Consent documentation will be stored within a locked drawer in the research&#xD;
+      department of the radiology department in GSTT. The signed consent document will be kept&#xD;
+      entirely separate and will not be linked in any way to the questionnaire answers. The&#xD;
+      questionnaire data will therefore be anonymised data. A document containing the following&#xD;
+      items will be created on a GSTT computer and updated as the study progresses:&#xD;
+&#xD;
+        1. Participant Unique Identifier&#xD;
+&#xD;
+        2. Questionnaire Answers 5.2 Questionnaire When the study identifier number is assigned, it&#xD;
+           will be entered at the top of a paper questionnaire. The questionnaire is thus&#xD;
+           anonymised from the beginning of the study. The questionnaire will include demographic&#xD;
+           variables and questions with multiple choice responses corresponding to a Likert scale,&#xD;
+           which will be completed by the patient. This information will be transferred to an NHS&#xD;
+           computer in the radiology department in GSTT.&#xD;
+&#xD;
+      Survey data will not include identifiable information. A Gaussian Graphical Model will be&#xD;
+      inferred indicating conditional dependencies between demographic variables and participant&#xD;
+      responses. This will be performed using the desparsified Graphical LASSO method of Jankova,&#xD;
+      implemented via the R package SILGGM.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2022</start_date>
+  <completion_date type="Anticipated">February 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>This study aims to evaluate patient opinion regarding the use of artificial intelligence in radiology by completing a questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>We aim to identify common concerns held by patients and to characterise the distribution of patient viewpoints regarding the use of artificial intelligence for radiology.This will allow identification of key issues from the patients' perspectives</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of patients' positivity towards AI technology in radiology by completing a questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>This will facilitate understanding between expert and lay stakeholders on this issue.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">175</enrollment>
+  <condition>Patients Waiting for Radiology Exams</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire</intervention_name>
+    <description>eligible participants in the radiology department waiting rooms will be asked to complete a questionnaire after taking consent.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients presenting to the radiology department waiting area for an elective appointment&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients presenting to the radiology department waiting area for an elective&#xD;
+             appointment will be eligible to participate.&#xD;
+&#xD;
+          2. Participants must be aged above 18 years.&#xD;
+&#xD;
+          3. Participants must have independent capacity to consent to the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Inpatients or acute patients presenting to the radiology department waiting area.&#xD;
+&#xD;
+          2. Those who cannot complete informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Carolyn Horst</last_name>
+    <phone>07809671293</phone>
+    <email>Carolyn.horst@gstt.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert O'Shea</last_name>
+    <phone>073 94761391</phone>
+    <email>robert.1.oshea@kcl.ac.uk</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

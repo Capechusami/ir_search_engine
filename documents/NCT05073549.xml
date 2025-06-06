@@ -1,0 +1,573 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05073549</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021144</org_study_id>
+    <nct_id>NCT05073549</nct_id>
+  </id_info>
+  <brief_title>Optimizing Antibiotic Use in Neonatal Intensive Care Units in China</brief_title>
+  <official_title>Optimizing Antibiotic Use in Neonatal Intensive Care Units: A Collaborative Antimicrobial Stewardship Program in China</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital of Fudan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>China Medical Board</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital of Fudan University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project aims to reduce antibiotic use in Chinese neonatal intensive care units (NICU) by&#xD;
+      1) developing an adaptable framework of NICU-targeted antimicrobial stewardship programs&#xD;
+      (ASP); 2) implementing the NICU-targeted ASP in NICUs using a collaborative quality&#xD;
+      improvement method; and 3) evaluating the impact of ASP implementation on neonatal antibiotic&#xD;
+      use.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Antibiotics overuse has been a critical problem in Chinese NICUs associated with the emerging&#xD;
+      antimicrobial resistance crisis. NICU-targeted ASP have rarely been implemented in Chinese&#xD;
+      NICUs. Collaborative quality improvement methods have been shown to facilitate clinical&#xD;
+      practice changes and improve outcomes.&#xD;
+&#xD;
+      In this two-year interventional pre-and post-study, a NICU-targeted ASP will be developed and&#xD;
+      implemented in Chinese NICUs using the collaborative quality improvement method. The&#xD;
+      investigators hypothesize that implementing the targeted ASP using a collaborative quality&#xD;
+      improvement method will reduce the overall antibiotic days of therapy by 20% over a two-year&#xD;
+      period, comparing the last year of intervention and the last year of baseline period before&#xD;
+      ASP implementation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Pre- and post-study&#xD;
+The period from October 1st, 2019 to September 30th, 2021 will be used as the baseline period before the intervention. Clinical data of eligible infants in this period will be retrospectively collected from a previously established database of preterm infants.&#xD;
+The intervention will be initiated on October 1st, 2021. The period from October 1st, 2021 to September 31st, 2023 will be the intervention period and data will be prospectively collected.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of antibiotics used per patient.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days of third-generation cephalosporin</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of third-generation cephalosporin used per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days of fourth-generation cephalosporin</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of fourth-generation cephalosporin used per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days of piperacillin-tazobactam</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of piperacillin-tazobactam used per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days of carbapenem</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of carbapenem used per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days of vancomycin</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of vancomycin used per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibiotic days of therapy (DOT) per 1000 patient-days of linezolid</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>DOT is calculated as the sum of days of linezolid used per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rate of infections caused by multi-resistant bacteria</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>Multi-resistant bacteria include carbapenem-resistant Enterobacter, methicillin-resistant Staphylococcus aureus, vancomycin-resistant Enterococcus, multi-resistant Acinetobacter, multi-resistant Pseudomonas aeruginosa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rate of infections caused by multi-resistant bacteria</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>Multi-resistant bacteria include carbapenem-resistant Enterobacter, methicillin-resistant Staphylococcus aureus [MRSA], vancomycin-resistant Enterococcus [VRE], multi-resistant Acinetobacter, multi-resistant Pseudomonas aeruginosa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rate of invasive fungal infections</measure>
+    <time_frame>up to 180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of mortality</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>Overall mortality and infection-related mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidences of major morbidities</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>Major morbidities include late-onset sepsis, necrotizing enterocolitis, bronchopulmonary dysplasia, retinopathy of prematurity and severe brain injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>up to 180 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of antibiotic courses initiated within 7 days after the discontinuity of the previous course</measure>
+    <time_frame>up to 180 days</time_frame>
+    <description>Safety measure which indicate insufficient antibiotic therapy.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Neonates</condition>
+  <arm_group>
+    <arm_group_label>Collaborative antimicrobial stewardship group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Collaborative antimicrobial stewardship intervention will be implemented in NICUs of this group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Collaborative Antimicrobial Stewardship Program (ASP)</intervention_name>
+    <description>The collaborative ASP interventions will be implemented from October 1st, 2021 to September 30th, 2023 in all participating NICUs.&#xD;
+The collaborative ASP interventions include two levels of interventions that will be delivered at the NICU level: the NICU-targeted ASP program and collaborative quality improvement interventions to facilitate implementation of the ASP.&#xD;
+The core elements of the NICU-targeted ASP program include the establishment of ú ASP leader and team, development of the facility-specific antibiotic guidelines, checklist-led audit and feedback, and staff education.&#xD;
+The collaborative quality improvement interventions include data feedback and benchmarking, a potential 'better practice' list on neonatal antibiotic use, implementation using Plan-Do-Study-Act cycles and collaborative learning.</description>
+    <arm_group_label>Collaborative antimicrobial stewardship group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All infants born at ≤31+6 weeks' gestation and admitted to the participating NICUs&#xD;
+             between October 1st, 2019 and September 30th, 2023.&#xD;
+&#xD;
+          -  The period from October 1st, 2019 to September 30th, 2021 will be used as the baseline&#xD;
+             period before ASP intervention. Clinical data of eligible infants in this period will&#xD;
+             be retrospectively collected from a previously established database of preterm&#xD;
+             infants.&#xD;
+&#xD;
+          -  The ASP implementation will be initiated on October 1st, 2021. The period from October&#xD;
+             1st, 2021 to September 31st, 2023 will be the ASP intervention period and data will be&#xD;
+             prospectively collected.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Infants who are transferred to non-participating NICUs within 24 hours after birth.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>0 Days</minimum_age>
+    <maximum_age>120 Days</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Siyuan Jiang, PhD</last_name>
+    <phone>8613761644971</phone>
+    <email>jiangsiyuan@fudan.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fujian Maternity and Child Health Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Changyi Yang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quanzhou Women and Children's Hospital</name>
+      <address>
+        <city>Quanzhou</city>
+        <state>Fujian</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dongmei Chen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gansu Provincial Maternity and Child Care Hospital</name>
+      <address>
+        <city>Lanzhou</city>
+        <state>Gansu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jingyun Shi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Guangzhou Women and Children's Medical Center</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Huayan Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shenzhen Maternity and Child Health Care Hospital</name>
+      <address>
+        <city>Shenzhen</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chuanzhong Yang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Women and Children's Hospital of Guangxi Zhuang Autonomous Region</name>
+      <address>
+        <city>Nanning</city>
+        <state>Guangxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qiufen Wei</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Guizhou Women and Children's Hospital/Guiyang Children's Hospital</name>
+      <address>
+        <city>Guiyang</city>
+        <state>Guizhou</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ling Liu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henan Children's Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wenqing Kang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Third Affiliated Hospital of Zhengzhou University</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Falin Xu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hunan Children's Hospital</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xirong Gao</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Nanjing Medical University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rui Cheng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nanjing Maternity and Child Health Care Hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shuping Han</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Soochow University</name>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bin Sun</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Suzhou Municipal Hospital affiliated to Nanjing Medical University</name>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zuming Yang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Bethune Hospital of Jilin University</name>
+      <address>
+        <city>Changchun</city>
+        <state>Jilin</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hui Wu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Ningxia Medical University</name>
+      <address>
+        <city>Xining</city>
+        <state>Ningxia</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yinpin Qiu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Women's and Children's Hospital</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhankui Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shaanxi Provincial People's Hospital</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qin Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Qingdao Women and Children's Hospital</name>
+      <address>
+        <city>Qingdao</city>
+        <state>Shandong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruobing Shan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Affiliated Hospital of Qingdao University</name>
+      <address>
+        <city>Qingdao</city>
+        <state>Shandong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hong Jiang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children' s Hospital of Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>201102</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Siyuan Jiang, PhD</last_name>
+      <email>jiangsiyuan@fudan.edu.cn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Shanghai</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaohui Gong</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin Obstetrics &amp; Gynecology Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiuying Tian</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>People's Hospital of Xinjiang Uygur Autonomous Region</name>
+      <address>
+        <city>Ürümqi</city>
+        <state>Xinjiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Long Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Xinjiang Medical University</name>
+      <address>
+        <city>Ürümqi</city>
+        <state>Xinjiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mingxia Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>First Affiliated Hospital of Kunming Medical University</name>
+      <address>
+        <city>Kunming</city>
+        <state>Yunnan</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kun Liang</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>September 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>October 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anti-Infective Agents</mesh_term>
+    <mesh_term>Anti-Bacterial Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

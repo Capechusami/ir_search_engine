@@ -1,0 +1,196 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615779</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B2022:074</org_study_id>
+    <nct_id>NCT05615779</nct_id>
+  </id_info>
+  <brief_title>Personalized B-fructan Diet in Inflammatory Bowel Disease Patients</brief_title>
+  <official_title>The Fibre Study: RCT of Personalized Fibre Diet in IBD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Manitoba</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to examine patient tolerability of personalized dietary fibre consumption&#xD;
+      recommendations (high-pectin diet versus high-B-fructan diet based on personalized&#xD;
+      responses), provided by an IBD dietician, based on our novel translational research findings.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">June 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diet tolerability</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Percentage of patients able to tolerate a personalized fiber diet provided by a dietitian will be evaluated at week 4 by measure of patient symptom score (PROMIS questionnaire) and willingness to continue adherence to diet advice provided.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory response to diet</measure>
+    <time_frame>1 week, 4 weeks, 8 weeks, 12 weeks</time_frame>
+    <description>Host inflammatory response to personalized dietary fibre recommendations provided by dietitian will be determined by examining changes in markers of inflammation in blood and stool</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Microbiota changes in response to diet</measure>
+    <time_frame>1 week, 4 weeks, 8 weeks, 12 weeks</time_frame>
+    <description>Host microbiota response to personalized dietary fibre recommendations provided by dietitian will be determined by examining changes in microbe abundance, diversity and functions by shotgun metagenomics in stool</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Inflammatory Bowel Diseases</condition>
+  <condition>Ulcerative Colitis</condition>
+  <arm_group>
+    <arm_group_label>Randomized pectin diet</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Randomized B-fructan diet</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Personalized pectin diet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Personalized B-fructan diet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo Comparator: Randomized pectin diet</intervention_name>
+    <description>UC and healthy control participants randomized to receive recommendations provided by a dietician increasing consumption of foods high in pectin</description>
+    <arm_group_label>Randomized pectin diet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Randomized B-fructan diet</intervention_name>
+    <description>UC and healthy control participants randomized to receive recommendations provided by a dietician increasing consumption of foods high in B-fructan</description>
+    <arm_group_label>Randomized B-fructan diet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Personalized pectin diet</intervention_name>
+    <description>UC and healthy control participants to receive recommendations provided by a dietician increasing consumption of foods high in pectin based on personal host (biopsy) and microbe (stool) response at baseline</description>
+    <arm_group_label>Personalized pectin diet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Personalized B-fructan diet</intervention_name>
+    <description>UC and healthy control participants to receive recommendations provided by a dietician increasing consumption of foods high in B-fructan based on personal host (biopsy) and microbe (stool) response at baseline</description>
+    <arm_group_label>Personalized B-fructan diet</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Children (age 6-17) or young adults (age 18-39).&#xD;
+&#xD;
+          -  Known or suspected UC or IBDU [there will be 2 control group: non-IBD (undergoing&#xD;
+             colonoscopy but found not to have IBD; and healthy (no GI symptoms, so not required to&#xD;
+             have colonoscopy; could be family members)]&#xD;
+&#xD;
+          -  For UC: Remission-mild-moderate disease: Mayo score &lt;10&#xD;
+&#xD;
+          -  Clinical indication for sedated colonoscopy&#xD;
+&#xD;
+          -  Disease location: E2-E4&#xD;
+&#xD;
+          -  Stable treatment (not on steroids; biologics or immunomodulator not changed in last&#xD;
+             month)&#xD;
+&#xD;
+          -  High likelihood that patients will be able to collect all samples and provide all data&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of antibiotics for a week or more over the last 3 months&#xD;
+&#xD;
+          -  Use of probiotics or prebiotics at pharmacological doses (adding fibre sources to food&#xD;
+             or probiotics in yogurt, for example, are allowed)&#xD;
+&#xD;
+          -  History of abdominal surgery, including appendectomy&#xD;
+&#xD;
+          -  Documented enteric infection during the 3 months prior to endoscopy&#xD;
+&#xD;
+          -  Presence of non-IBD bowel conditions (e.g., celiac), anatomical or mucosal&#xD;
+             abnormalities, motility disorder&#xD;
+&#xD;
+          -  Presence of a systemic disease requiring treatment (cancer, ischemic heart disease,&#xD;
+             kidney failure, etc)&#xD;
+&#xD;
+          -  Proctitis (E1)&#xD;
+&#xD;
+          -  Systemic steroids (above 10 mg/day of Prednisone)&#xD;
+&#xD;
+          -  Topical therapy within 1 week of endoscopy&#xD;
+&#xD;
+          -  Recent change in IBD treatment (started biologics or IM over the last month)&#xD;
+&#xD;
+          -  Pregnancy or planning to become pregnant during the study&#xD;
+&#xD;
+          -  Inability to understand or sign the consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>39 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Heather Armstrong, MSc, PhD</last_name>
+    <phone>2047893815</phone>
+    <email>heather.armstrong@umanitoba.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eytan Wine, MD, PhD</last_name>
+    <email>wine@umanitoba.ca</email>
+  </overall_contact_backup>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intestinal Diseases</mesh_term>
+    <mesh_term>Inflammatory Bowel Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Levan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

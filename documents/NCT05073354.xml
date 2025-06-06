@@ -1,0 +1,262 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05073354</url>
+  </required_header>
+  <id_info>
+    <org_study_id>50701</org_study_id>
+    <nct_id>NCT05073354</nct_id>
+  </id_info>
+  <brief_title>Rapid Treatment of Shock Without Trauma</brief_title>
+  <acronym>SWOT</acronym>
+  <official_title>Implementation of a Mobile In-hospital Resuscitation Model for the Rapid Treatment of Shock Without Trauma (SWOT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zoll Medical Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zoll Medical Corporation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluate the implementation of a standardized mobile resuscitation model to manage SWOT&#xD;
+      within a large acute care hospital setting.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Immediately upon identification of SWOT, the SWOT Team will be activated by clinicians to&#xD;
+      respond to the patient bedside. Clinicians on-site will initiate patient care as directed by&#xD;
+      hospital protocol. Upon arrival, the SWOT Team will take over the management of patient care.&#xD;
+      The team will include 1-2 intensivists and multiple clinicians with clearly defined roles,&#xD;
+      dependent upon clinical presentation. The mobile resuscitative platform equipped with&#xD;
+      critical care technology will be delivered to the bedside (refer to appendix for full&#xD;
+      equipment content).&#xD;
+&#xD;
+      The SWOT Team will implement goal-directed therapy using real-time monitoring and advanced&#xD;
+      diagnostic point-of-care tools. ultrasound, arterial and central lines will be placed by the&#xD;
+      intensivist(s) to monitor the physiology of the patient during treatment in real-time. Other&#xD;
+      team members (RNs, Respiratory Therapist's, residents, anesthesiologists, and technicians)&#xD;
+      will place the patient on continuous ECG and SPO2 monitoring, continuous capnographic&#xD;
+      monitoring via nasal canula or Endotracheal tube, and continuous cerebral and regional NIRS&#xD;
+      monitors. Point-of-care laboratory values will also be measured. Resuscitative interventions&#xD;
+      will be performed as directed by team leader to target the following physiological target&#xD;
+      parameters:&#xD;
+&#xD;
+        -  SpO2 &gt; 85%&#xD;
+&#xD;
+        -  PaO2 &gt; 50 mmHg&#xD;
+&#xD;
+        -  NIRS &gt; 65%&#xD;
+&#xD;
+        -  Lactate normal or trending down&#xD;
+&#xD;
+        -  EtCO2 &gt;20 mmHg&#xD;
+&#xD;
+        -  Mean Arterial Pressure &gt; 65 mmHg&#xD;
+&#xD;
+        -  SVO2 &gt; 60%&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">June 29, 2021</start_date>
+  <completion_date type="Anticipated">May 29, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 29, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Shock Reversal</measure>
+    <time_frame>From 24 hours to 72 hours after initial shock event</time_frame>
+    <description>Duration in minutes from activation of the SWOT Team to shock reversal, defined as stable arterial pressure (SBP &gt; 90 mmHg) without requirement for vasopressor administration for greater than 24 hours and normalization of systemic and local perfusion measures of lab-measured lactate indicating improved systemic perfusion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>30-day Mortality</measure>
+    <time_frame>30 days after initial shock event</time_frame>
+    <description>Patient all-cause mortality will be assessed at 30 days following initial identification of shock symptoms</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">138</enrollment>
+  <condition>Shock</condition>
+  <arm_group>
+    <arm_group_label>Pre-implementation</arm_group_label>
+    <description>Patients experiencing shock without trauma prior to any SWOT model training or devices</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Partial-implementation</arm_group_label>
+    <description>Patients experiencing shock without trauma after training and device deployment has been started but not fully implemented</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Full-implementation</arm_group_label>
+    <description>Patients experiencing shock without trauma once all training is in place and devices are deployed</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Full SWOT Model</intervention_name>
+    <description>Bundle of care that includes devices such as X Series monitor/defibrillator, AutoPusle automated compression device, Z Vent ventilator, and IPR therapies as well as bedside monitoring and diagnostics and training on a standardized care process.</description>
+    <arm_group_label>Full-implementation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Partial SWOT Model</intervention_name>
+    <description>Historical control. Partial bundle of care that includes some bedside monitoring and diagnostics as well as training on a standardize care process</description>
+    <arm_group_label>Partial-implementation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard of Care treatment to patients before development of SWOT protocol.</description>
+    <arm_group_label>Pre-implementation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients meeting all enrollment criteria will be eligible for enrollment in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 18 to 75 years of age (inclusive)&#xD;
+&#xD;
+          2. Presence of shock, defined as systolic blood pressure (SBP) less than 90 mmHg with&#xD;
+             signs of hypoperfusion, including at least one of the following (without alternate&#xD;
+             causes):&#xD;
+&#xD;
+               -  low cardiac index (&lt;2.2 L/min/m2)&#xD;
+&#xD;
+               -  elevated filling pressures of the left heart (pulmonary capillary wedge pressure&#xD;
+                  [PCWP] &gt;15 mmHg) and/or&#xD;
+&#xD;
+               -  right heart (central venous pressure [CVP] &gt;10 mmHg)&#xD;
+&#xD;
+               -  non-perfusing cardiac rhythm or cardiac arrest&#xD;
+&#xD;
+               -  mixed venous oxygen saturation &lt;60% or &gt;80% without non-shock cause&#xD;
+&#xD;
+               -  Heart rate &gt;90 beats per minute&#xD;
+&#xD;
+               -  Respiratory rate &gt;20 breaths per minute&#xD;
+&#xD;
+               -  White blood cell count &gt;12 or &lt; 4&#xD;
+&#xD;
+               -  Temperature &gt;38°C or &lt;35°C&#xD;
+&#xD;
+               -  SOFA score ≥2 with vasopressor requirement and elevated lactate &gt;2 mmol/L (&gt;18&#xD;
+                  mg/dL) despite adequate fluid resuscitation&#xD;
+&#xD;
+               -  Central venous pressure &lt;8 mmHg&#xD;
+&#xD;
+               -  Obstruction such as pulmonary embolus on imaging&#xD;
+&#xD;
+          3. Admitted to Abbott Northwestern&#xD;
+&#xD;
+          4. Rapid Response Team call or request&#xD;
+&#xD;
+          5. Patients who previously agreed to allow their medical record information to be used&#xD;
+             for Allina Health research (i.e. Minnesota Research Authorization (MRA) &quot;Yes&quot;) or&#xD;
+             those who have not explicitly declined use of their medical information in Allina&#xD;
+             Health research (i.e. MRA &quot;Null&quot;)&#xD;
+&#xD;
+        Candidates for the prospective case series must meet the following inclusion criterion:&#xD;
+&#xD;
+          1. Interventional assessment and treatment by SWOT Team (full-implementation period only)&#xD;
+&#xD;
+          2. Patients who previously agreed to allow their medical record information to be used&#xD;
+             for Allina Health research (i.e. Minnesota Research Authorization (MRA) &quot;Yes&quot;) or&#xD;
+             those who have not explicitly declined use of their medical information in Allina&#xD;
+             Health research (i.e. MRA &quot;Null&quot;)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known or suspected pregnancy&#xD;
+&#xD;
+          2. Significant trauma&#xD;
+&#xD;
+          3. BMI &gt; 50 kg/m2&#xD;
+&#xD;
+          4. Pre-existing Do Not Resuscitate order&#xD;
+&#xD;
+          5. Presence of orders limiting resuscitation efforts during the initial resuscitative&#xD;
+             period (less than 2 hours from the onset of protocol)&#xD;
+&#xD;
+          6. Refusal to receive whole blood or blood products&#xD;
+&#xD;
+          7. Severe brain injury (anoxic, traumatic, hemorrhagic or ischemic)&#xD;
+&#xD;
+          8. presence of an assist device such as intra-aortic balloon pump&#xD;
+&#xD;
+          9. Advanced chronic organ dysfunction&#xD;
+&#xD;
+         10. Known or presumed COVID-19&#xD;
+&#xD;
+         11. Patients with a status of MRA &quot;No&quot;&#xD;
+&#xD;
+         12. Patient in ICU at time of shock&#xD;
+&#xD;
+        Candidates for the prospective case series will be excluded if the following condition is&#xD;
+        present:&#xD;
+&#xD;
+          1. Patients with a status of MRA &quot;No&quot;&#xD;
+&#xD;
+          2. Patient in ICU at time of shock&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tonia M Mowbray-Donahue, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Allina Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Abbott Northwestern Hospital</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>September 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>May 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Shock</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,333 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HARKIT I-Care</org_study_id>
+    <nct_id>NCT05622292</nct_id>
+  </id_info>
+  <brief_title>The Effectivity of the Mobile App &quot;HARKIT I-Care&quot; in Secondary Prevention in Post-ACS Patients</brief_title>
+  <official_title>The Effectivity of the Mobile App &quot;HARKIT I-Care&quot; in Secondary Prevention in Post Acute Coronary Syndrome Patients in National Cardiovascular Center Harapan Kita Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cardiovascular Center Harapan Kita Hospital Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cardiovascular Center Harapan Kita Hospital Indonesia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      HARKIT I-Care is a mobile application developed by the National Cardiovascular Center Harapan&#xD;
+      Kita (NCCHK) to leverage patients in achieving their targets for the secondary prevention of&#xD;
+      cardiovascular diseases. The application contains various features, including exercise&#xD;
+      tracking and reminder, medication reminder, and updated educational content on cardiovascular&#xD;
+      health. Additionally, patients can log and record their blood pressure, heart rate, smoking&#xD;
+      behavior, Quality of Life, and laboratory parameters such as blood sugar and cholesterol. Our&#xD;
+      research aims to investigate whether implementing this app in post-acute coronary syndrome&#xD;
+      patients could improve their survival rate, hospitalization rate, medication adherence, and&#xD;
+      Quality of Life, along with improving their laboratory parameters to be within desirable&#xD;
+      targets.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Design: This study is a single-blinded, randomized clinical trial conducted in the National&#xD;
+      Cardiovascular Center Harapan Kita, and aims to investigate the effect of the mobile&#xD;
+      application &quot;HARKIT I-Care&quot; on the morbidity and mortality of post-acute coronary syndrome&#xD;
+      patients.&#xD;
+&#xD;
+      Subjects: Post-ACS patients hospitalized at the National Cardiovascular Center who are&#xD;
+      willing to be a subject in this research and have signed the informed consent form. Eligible&#xD;
+      subjects will be recruited and randomized to two groups: I-Care and control. Subjects in the&#xD;
+      I-Care group will be instructed to download 'HARKIT I-Care' application on their smartphone.&#xD;
+      Subjects will then be taught how to use the application, including logging blood pressure,&#xD;
+      blood sugar, and cholesterol levels, making use of exercise and medication reminders, and&#xD;
+      where to access health information and teleconsultation. Subjects are instructed to log their&#xD;
+      health parameters regularly according to the guidebook that has been prepared beforehand.&#xD;
+      Subjects in the control group will receive education on medication compliance and health&#xD;
+      information at the beginning of the enrolment. Education was conducted by another research&#xD;
+      team not involved in assessing outcomes.&#xD;
+&#xD;
+      Randomization: We conducted stratified permutated block random sampling using a computer&#xD;
+      application. Stratification used were: (1) Gender: male and female, (2) Age: &lt;65 and ≥65, and&#xD;
+      (3) Diagnosis: STEMI (ST-Elevation Myocardial Infarction), NSTEMI (Non-ST-segment Elevation&#xD;
+      Myocardial Infarction), and UAP (Unstable Angina Pectoris). Randomization was conducted using&#xD;
+      a computer app, and patient assignments were done using a sealed opaque envelope containing&#xD;
+      the assignment group. Randomization was conducted by a study statistician not involved in&#xD;
+      data collection. Outcome assessors were blinded to the treatment.&#xD;
+&#xD;
+      Statistical Analysis plan: We planned on conducting a survival analysis for MACE (major&#xD;
+      adverse cardiovascular events), cardiovascular mortality, all-cause mortality, and&#xD;
+      rehospitalization rate. We also intended to analyze the effect of HARKIT I-Care on medication&#xD;
+      compliance, laboratory parameters, smoking cessation and relapse, sodium consumption, and&#xD;
+      physical activity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is a single-blind, randomized, controlled clinical trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Major Adverse Cardiovascular Event</measure>
+    <time_frame>6 months</time_frame>
+    <description>Major Adverse Cardiovascular Event (MACE) is described as all cardiovascular deaths, myocardial infarction, stroke, heart failure hospitalization, and revascularization event</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>All-Cause Mortality</measure>
+    <time_frame>6 months</time_frame>
+    <description>All deaths, both cardiovascular mortality and non-cardiovascular mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiovascular Mortality</measure>
+    <time_frame>6 months</time_frame>
+    <description>We defined Cardiovascular Mortality as all deaths, excluding deaths which etiology definitely was a non-cardiovascular etiology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rehospitalization</measure>
+    <time_frame>6 months</time_frame>
+    <description>Rehospitalization is defined as all unplanned visits to the hospital, both to the emergency department or inpatient ward, with the diagnosis of cardiovascular diseases and related complications (bleeding, hypertension crisis, and hyperglycemia crisis). Events of the planned visit to the hospital are excluded.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Smoking Cessation</measure>
+    <time_frame>6 months</time_frame>
+    <description>Smoking cessation is defined as the number of patients who at the time of recruitment are active smokers and at the time of final follow up the patients have stopped smoking for at least one month</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Smoking Relapse</measure>
+    <time_frame>6 months</time_frame>
+    <description>Smoking relapse is defined as patient who at the time of recruitment is an ex smoker (defined as at least 1 month smoke-free before the time of recruitment) but during follow up time picks up smoking again</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Cholesterol Level (mg/dL)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Total Cholesterol level (in mg/dL) is measured at NCCHK laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HDL Level (mg/dL)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>HDL level (in mg/dL) is measured at NCCHK laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LDL Level (mg/dL)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>LDL level (in mg/dL) is measured at NCCHK laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Triglyceride Level (mg/dL)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Triglyceride level (in mg/dL) is measured at NCCHK laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood Glucose Level (mg/dL)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Blood Glucose Level (in mg/dL) is measured at NCCHK laboratory, including fasting blood glucose and postprandial blood glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HbA1c (%)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>HbA1c (in %) is measured at NCCHK laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SF-36 Quality of Life Questionnaire</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>SF 36 is a questionnaire developed to assess the Quality of Life in patients. Each question is scored from 0-100 and transformed into different scales (Physical functioning, Role limitations due to physical health, Role limitations due to emotional problems, Energy/fatigue, emotional well-being, social functioning, pain, and general health).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity level</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Physical activity level is measured using the International Physical Activity Questionnaire (IPAQ). The result of the questionnaire will be converted into MET minutes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication Adherence</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Medication adherence is measured using Morisky Medication Adherence Scale (MMAS)-8 questionnaire. The questionnaire contained 8 items, and each subject scored 1-8. Interpretation of the questionnaire is as follows: 8=high adherence, 7=medium adherence, ≤6=low adherence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart Disease Fact Questionnaire (HDFQ)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>HDFQ is a questionnaire measuring patient's knowledge regarding coronary heart disease risk factor</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sodium Consumption</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Sodium consumption is measured using WHO STEPS questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indirect Cost</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Indirect cost is defined as the cost used for transportation, consumption, accommodation, and caregiver hiring purposes. The data is gathered from direct interviews with subjects using the standardized instrument that had been prepared. The components are transportation, consumption, medical devices purchase, house renovation to foster medical necessities, caregiver fees, and loss of opportunity cost (the wage that should have been received if the subject works)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality-adjusted Life Years (QALYs)</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>QALYs are defined as the measure of health outcomes used to discover the effect of the intervention toward cost-effective analysis. This measurement is calculated by estimating the years of life remaining for a patient following a particular treatment or intervention multiplied by the changes in health quality caused by the intervention using the EQ-5D-5L questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost-Utility Analysis</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Cost-utility analysis is defined as incremental cost-effectiveness ratio (ICER), which is the absolute value calculated from the differences in cost between intervention and control divided by the differences of outcomes yielded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Direct Cost</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Direct cost is defined as the cost for outpatient clinic visits, medications, supporting examinations, and interventional procedures (including percutaneous coronary intervention and coronary artery bypass graft). It is measured from data stored in the finance department and information system of the hospital.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Application Uptake</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Application uptake is defined as at least one day of health data logged by subject in HARKIT I-Care application</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Application Adherence</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Application Adherence is defined as the number of patients who use the application based on the guideline provided for them for at least 12 days per month of health data logged by subject in HARKIT I-Care</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Application Completion</measure>
+    <time_frame>1, 3, and 6 months</time_frame>
+    <description>Application Completion is defined as the number of subjects who use the application for at least 6 months and recorded at the final follow-up period</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Acute Coronary Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects in the control group will receive education on the day of enrolment in NCCHK. Subjects are instructed to take medications and conduct hospital visits as usual.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>I-Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be instructed to download the &quot;HARKIT I-Care&quot; app from the google play store on their smartphones. Then, they will be guided to create an account and explained how to use the application, including how to log their progress (laboratory parameters and exercise tracking) and how to see messages from their physician. All follow-ups regarding treatment progress, education, and reminders will be done through the app. Patients are directed to conduct hospital visits once per month, where patients will be prescribed cardiovascular medications according to their current condition.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>HARKIT I-Care Application</intervention_name>
+    <description>HARKIT I-Care Application is an application available in the google play store. The application is specifically developed for the secondary prevention of cardiovascular disease. The features included in the application are (1) Health information logging, (2) Health information education, and (3) Teleconsultation with a cardiologist. Information that can be logged includes smoking behavior, medications, weight, blood sugar level, blood pressure, cholesterol level, physical activity, and Quality of life. Educational content can be accessed by patients in the form of articles and short videos.</description>
+    <arm_group_label>I-Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Acute Coronary Syndrome (ACS) patients, either ST-elevation myocardial infarction&#xD;
+             (STEMI), non-ST-elevation myocardial infarction (NSTEMI), or unstable angina pectoris&#xD;
+             (UAP) who have or have not undergone revascularization treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Does not have or know how to operate smartphone&#xD;
+&#xD;
+          -  Unable to perform a smartphone due to hearing, vision, or cognitive impairment&#xD;
+&#xD;
+          -  Withdrawn consent from the research&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bambang Dwiputra, MD, FIHA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cardiovascular Center Harapan Kita</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bambang Dwiputra, MD</last_name>
+    <phone>+6281371032882</phone>
+    <email>bambangdwiputra@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Cardiovascular Center Harapan Kita Hospital Indonesia</name>
+      <address>
+        <city>Jakarta</city>
+        <zip>11420</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bambang Dwiputra, MD, FIHA</last_name>
+      <phone>021-5684085</phone>
+      <phone_ext>2209</phone_ext>
+      <email>bambangdwiputra@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kevin Triangto, MD</last_name>
+      <phone>021-5684085</phone>
+      <phone_ext>2209</phone_ext>
+      <email>kevintriangto14@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <reference>
+    <citation>Szekely O, Lane DA, Lip GYH. Guideline-adherent secondary prevention post-acute coronary syndromes: the importance of patient uptake and persistence. Eur Heart J. 2018 Jul 1;39(25):2365-2367. doi: 10.1093/eurheartj/ehy308. No abstract available.</citation>
+    <PMID>29878099</PMID>
+  </reference>
+  <reference>
+    <citation>Chow CK, Brieger D, Ryan M, Kangaharan N, Hyun KK, Briffa T. Secondary prevention therapies in acute coronary syndrome and relation to outcomes: observational study. Heart Asia. 2019 Jan 12;11(1):e011122. doi: 10.1136/heartasia-2018-011122. eCollection 2019.</citation>
+    <PMID>30728864</PMID>
+  </reference>
+  <reference>
+    <citation>Mathews R, Peterson ED, Honeycutt E, Chin CT, Effron MB, Zettler M, Fonarow GC, Henry TD, Wang TY. Early Medication Nonadherence After Acute Myocardial Infarction: Insights into Actionable Opportunities From the TReatment with ADP receptor iNhibitorS: Longitudinal Assessment of Treatment Patterns and Events after Acute Coronary Syndrome (TRANSLATE-ACS) Study. Circ Cardiovasc Qual Outcomes. 2015 Jul;8(4):347-56. doi: 10.1161/CIRCOUTCOMES.114.001223. Epub 2015 Jun 2.</citation>
+    <PMID>26038524</PMID>
+  </reference>
+  <reference>
+    <citation>Park YT. Emerging New Era of Mobile Health Technologies. Healthc Inform Res. 2016 Oct;22(4):253-254. doi: 10.4258/hir.2016.22.4.253. Epub 2016 Oct 31. No abstract available.</citation>
+    <PMID>27895955</PMID>
+  </reference>
+  <reference>
+    <citation>Gandapur Y, Kianoush S, Kelli HM, Misra S, Urrea B, Blaha MJ, Graham G, Marvel FA, Martin SS. The role of mHealth for improving medication adherence in patients with cardiovascular disease: a systematic review. Eur Heart J Qual Care Clin Outcomes. 2016 Oct 1;2(4):237-244. doi: 10.1093/ehjqcco/qcw018.</citation>
+    <PMID>29474713</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>February 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Cardiovascular Center Harapan Kita Hospital Indonesia</investigator_affiliation>
+    <investigator_full_name>Bambang Dwiputra, MD</investigator_full_name>
+    <investigator_title>MD Cardiologist</investigator_title>
+  </responsible_party>
+  <keyword>Acute Coronary Syndrome</keyword>
+  <keyword>Mobile Health</keyword>
+  <keyword>Secondary Prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Coronary Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

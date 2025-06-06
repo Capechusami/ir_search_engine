@@ -1,0 +1,417 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790304</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D8532C00002</org_study_id>
+    <secondary_id>2022-502277-41-00</secondary_id>
+    <nct_id>NCT05790304</nct_id>
+  </id_info>
+  <brief_title>Study to Investigate Hepatic Impairment on PK, Safety, Tolerability of Camizestrant in Post-Menopausal Female Subjects</brief_title>
+  <official_title>A Phase I, Single Dose, Non-Randomised, Multicentre, Open-Label, Parallel Group Study to Investigate the Effect of Hepatic Impairment on the Pharmacokinetics, Safety and Tolerability of Camizestrant in Post Menopausal Female Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This will be a Phase I, multicentre, single-dose, non-randomized, open-label, parallel-group&#xD;
+      study to examine the PK, safety, and tolerability of camizestrant 75 mg in post-menopausal&#xD;
+      female participants with moderate or severe hepatic impairment compared with post-menopausal&#xD;
+      female participants with normal hepatic function.&#xD;
+&#xD;
+      Participants will be enrolled within the following groups based on their CP classification&#xD;
+      score as determined at screening:&#xD;
+&#xD;
+        -  Group 1: Matched-control healthy participants with normal hepatic function.&#xD;
+&#xD;
+        -  Group 2: Participants with moderate hepatic impairment (CP Class B, score of 7 to 9).&#xD;
+&#xD;
+        -  Group 3: Participants with severe hepatic impairment (CP Class C, score of 10 to 15).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This will be an open-label, non-randomized, multicentre, parallel-group, single-dose study to&#xD;
+      investigate the PK, safety, and tolerability of camizestrant 75 mg administered orally to&#xD;
+      post-menopausal female participants with moderate or severe hepatic impairment compared to&#xD;
+      control post-menopausal female participants with normal hepatic function. A total of&#xD;
+      approximately 14 participants with hepatic impairment (8 participants with moderate&#xD;
+      impairment and 6 participants with severe impairment per CP classification) and 8 to 14&#xD;
+      matched-control healthy participants with normal hepatic function are planned to be enrolled,&#xD;
+      with the goal of having approximately 8 participants with moderate impairment and&#xD;
+      approximately 6 participants with severe impairment and sufficient matching participants with&#xD;
+      normal hepatic function complete the study. All participants will receive a single oral dose&#xD;
+      of 75 mg camizestrant on Day 1 following an overnight fast. Study intervention will be&#xD;
+      administered orally with approximately 240 mL of water.&#xD;
+&#xD;
+      Child-Pugh scoring, detailed in Table 3, will be used to determine the level of hepatic&#xD;
+      impairment. Participants will be enrolled into the following groups based on their CP&#xD;
+      classification score as determined at screening:&#xD;
+&#xD;
+        -  Group 1: Matched-control healthy participants with normal hepatic function.&#xD;
+&#xD;
+        -  Group 2: Participants with moderate hepatic impairment (CP Class B, score of 7 to 9).&#xD;
+&#xD;
+        -  Group 3: Participants with severe hepatic impairment (CP Class C, score of 10 to 15).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 20, 2023</start_date>
+  <completion_date type="Anticipated">October 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be enrolled within the following groups based on their CP classification score as determined at screening:&#xD;
+Group 1: Matched-control healthy participants with normal hepatic function.&#xD;
+Group 2: Participants with moderate hepatic impairment (CP Class B, score of 7 to 9).&#xD;
+Group 3: Participants with severe hepatic impairment (CP Class C, score of 10 to 15).</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PK parameters Cmax</measure>
+    <time_frame>5 days</time_frame>
+    <description>Cmax: maximum concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters tmax</measure>
+    <time_frame>5 days</time_frame>
+    <description>tmax : time to maximum concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters AUClast,</measure>
+    <time_frame>5 days</time_frame>
+    <description>area under the concentration-time curve (AUC) from zero to the last measurable concentration (AUClast)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters AUCinf.;</measure>
+    <time_frame>5 days</time_frame>
+    <description>area under the concentration-time curve (AUC) from zero to infinity (AUCinf)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters tlast</measure>
+    <time_frame>5 days</time_frame>
+    <description>tlast: time of the last measurable concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters t1/2λz</measure>
+    <time_frame>5 days</time_frame>
+    <description>t1/2λz: apparent terminal elimination half-life</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters CL/F</measure>
+    <time_frame>5 days</time_frame>
+    <description>CL/F: apparent clearance;</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK parameters Vz/F.</measure>
+    <time_frame>5 days</time_frame>
+    <description>Vz/F: apparent volume of distribution.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects with adverse events (AEs) and serious adverse events (SAEs)</measure>
+    <time_frame>4.5 weeks</time_frame>
+    <description>The number of participants with adverse events (AEs) and serious adverse events (SAEs) to assess the safety and tolerability</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Hepatic Impairment</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Matched-control healthy participants with normal hepatic function.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants with moderate hepatic impairment (CP Class B, score of 7 to 9).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants with severe hepatic impairment (CP Class C, score of 10 to 15).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camizestrant</intervention_name>
+    <description>Camizestrant 75 mg tablets. Experimental drug.</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+    <other_name>AZD9833</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  For participant with hepatic impairment: Participant must be 50 to 75 years of age,&#xD;
+             inclusive, at the time of signing the informed consent.&#xD;
+&#xD;
+             -. For participant with normal hepatic function: Participant must be matched to&#xD;
+             participant with hepatic impairment by age (±10 years; determined at the time of&#xD;
+             signing the informed consent).&#xD;
+&#xD;
+          -  For participant with hepatic impairment:&#xD;
+&#xD;
+               1. Participant must have medical history, physical examination, vital signs, ECGs,&#xD;
+                  and laboratory safety tests consistent with a diagnosis of hepatic impairment,&#xD;
+                  but is otherwise judged to be in good health as determined by the investigator at&#xD;
+                  screening and Day -1.&#xD;
+&#xD;
+               2. Participant must have a diagnosis of chronic (&gt;6 months), stable (no acute&#xD;
+                  episodes of illness within the previous 2 months due to deterioration in hepatic&#xD;
+                  function) hepatic insufficiency with features of cirrhosis due to any aetiology&#xD;
+                  at screening and Day -1.&#xD;
+&#xD;
+          -  For participant with normal hepatic function: Participants must be medically healthy&#xD;
+             with no clinically significant medical history, physical examination, laboratory&#xD;
+             profiles (including serum amylase and lipase, haematology, and thyroid function),&#xD;
+             vital signs, or 12-lead ECGs, as deemed by the investigator at screening and Day -1&#xD;
+&#xD;
+          -  For participant with hepatic impairment: Body weight within 50 to 100 kg and BMI&#xD;
+             within the range 19.0 to 35.0 kg/m2 (inclusive) as measured at screening.&#xD;
+&#xD;
+          -  For participant with normal hepatic function: Participant must be matched to&#xD;
+             participant with hepatic impairment by weight in kg (±20%; data obtained at&#xD;
+             screening).&#xD;
+&#xD;
+          -  Female, post-menopausal. (a) Women will be considered post-menopausal if they have&#xD;
+             been amenorrhoeic for 12 months prior to the planned date of study intervention&#xD;
+             without an alternative medical or surgical cause, confirmed by an FSH result of ≥ 30&#xD;
+             IU/L obtained at screening.&#xD;
+&#xD;
+          -  Capable of giving signed informed consent which includes compliance with the&#xD;
+             requirements and restrictions listed in the ICF and in this protocol.&#xD;
+&#xD;
+          -  Must agree to not use warfarin or phenytoin (and other coumarin-derived vitamin K&#xD;
+             antagonist anticoagulants) from screening, throughout the study, and for 2 weeks after&#xD;
+             the dose of study drug&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of or ongoing, clinically significant, in the opinion of the investigator,&#xD;
+             visual disturbances including, but not limited to, visual hallucinations, migraine&#xD;
+             with visual symptoms, blurred vision, and frequent floaters/flashes associated with&#xD;
+             other symptoms such as dizziness at screening or Day -1&#xD;
+&#xD;
+          -  History or presence of clinically significant or unstable medical or psychiatric&#xD;
+             condition or disease in the opinion of the investigator at screening or Day -1&#xD;
+&#xD;
+          -  Participant is mentally or legally incapacitated or has significant emotional problems&#xD;
+             at the time of the screening or Day -1 visit or expected during the conduct of the&#xD;
+             study&#xD;
+&#xD;
+          -  History of any illness that, in the opinion of the investigator, might confound the&#xD;
+             results of the study or poses an additional risk to the participant by their&#xD;
+             participation in the study noted at screening or Day -1&#xD;
+&#xD;
+          -  Presence of any clinically significant, ongoing systemic bacterial, fungal, or viral&#xD;
+             infections (including upper respiratory tract infections, but excluding localized&#xD;
+             cutaneous fungal infections), in the opinion of the investigator at screening or Day&#xD;
+             -1&#xD;
+&#xD;
+          -  History of any major surgical procedure within 30 days prior to the dose of study drug&#xD;
+&#xD;
+          -  Any clinically significant condition that may affect camizestrant absorption in the&#xD;
+             opinion of the investigator, including gastric restrictions and bariatric surgery (eg,&#xD;
+             gastric bypass), noted at screening or Day -1&#xD;
+&#xD;
+          -  Signs or confirmation of COVID-19 infection at screening or Day -1&#xD;
+&#xD;
+          -  Unable to refrain from or anticipates the use of:&#xD;
+&#xD;
+               1. Any drugs known to prolong QT interval or drugs associated with a known risk of&#xD;
+                  Torsades de pointes within 4 weeks or 5 PK half-lives (whichever is longer) prior&#xD;
+                  to the dose of study drug and throughout the study.&#xD;
+&#xD;
+               2. Use of any prescribed or non-prescribed medication&#xD;
+&#xD;
+               3. Any drug known to be moderate or strong inhibitors or inducers of CYP3A and/or&#xD;
+                  P-gp, including St. John's Wort, within 14 and 28 days, respectively, prior to&#xD;
+                  the dose of study drug and throughout the study unless they are deemed acceptable&#xD;
+                  following consultation with the sponsor medical monitor and the investigator.&#xD;
+&#xD;
+               4. Human immunodeficiency virus protease inhibitor, anticoagulant within 14 days&#xD;
+                  prior to the dose of study drug and throughout the study.&#xD;
+&#xD;
+               5. Acetaminophen and ethacrynic acid within 24 hours prior to the dose of study drug&#xD;
+                  and throughout the study.&#xD;
+&#xD;
+          -  Dosed in another clinical trial within 28 days or 5 half-lives (if known), whichever&#xD;
+             is longer, prior to the dose of study drug&#xD;
+&#xD;
+          -  Previous enrolment in the present study.&#xD;
+&#xD;
+          -  Any clinically significant abnormalities at screening or Day -1 on 12-lead ECG as&#xD;
+             judged by the investigator&#xD;
+&#xD;
+          -  Known history of hypersensitivity to active or inactive excipients of camizestrant or&#xD;
+             drugs with a similar chemical structure or class to camizestrant noted at screening or&#xD;
+             Day -1&#xD;
+&#xD;
+          -  Donation of blood &gt; 500 mL or significant blood loss within 56 days prior to the dose&#xD;
+             of study drug&#xD;
+&#xD;
+          -  Plasma donation within 28 days prior to the dose of study drug.&#xD;
+&#xD;
+          -  Is working at or has an immediate family member (spouse or children) who works at the&#xD;
+             investigational site or is a sponsor staff directly involved with this study.&quot;&#xD;
+&#xD;
+          -  Involvement in the planning and/or conduct of the study (applies to both AstraZeneca&#xD;
+             staff and/or staff at the study site).&quot;&#xD;
+&#xD;
+          -  Judgment by the investigator that the participant should not participate in the study&#xD;
+             if the participant is unlikely to comply with study procedures, restrictions, and&#xD;
+             requirements.&#xD;
+&#xD;
+          -  Participants with hepatic impairment are excluded from the study if any of the&#xD;
+             following criteria apply:&#xD;
+&#xD;
+               -  History or presence of drug abuse within the past 2 years prior to screening.&#xD;
+&#xD;
+               -  Positive results for the alcohol test and/or urine drug screen at screening or&#xD;
+                  Day -1&#xD;
+&#xD;
+               -  Positive results at screening for hepatitis B surface antigen or HCV&#xD;
+&#xD;
+               -  Known history of HIV&#xD;
+&#xD;
+               -  Participant has evidence of hepatorenal syndrome or creatinine clearance &lt; 60&#xD;
+                  mL/minute&#xD;
+&#xD;
+               -  History of unstable diabetes mellitus&#xD;
+&#xD;
+               -  Presence of transjugular intrahepatic portosystemic shunt.&quot;&#xD;
+&#xD;
+          -  Participants with normal hepatic function are excluded from the study if any of the&#xD;
+             following criteria apply:&#xD;
+&#xD;
+               -  History or presence of clinically significant thyroid disease&#xD;
+&#xD;
+               -  History or presence of alcoholism and/or drug abuse within the past 2 years prior&#xD;
+                  to screening.&#xD;
+&#xD;
+               -  Positive results for the alcohol test and/or urine drug screen at screening or&#xD;
+                  Day -1&#xD;
+&#xD;
+               -  Known history of HIV, positive results at screening for hepatitis B surface&#xD;
+                  antigen or HCV.&#xD;
+&#xD;
+               -  Participant has creatinine clearance &lt;80 mL/minute&#xD;
+&#xD;
+               -  Supine blood pressure &lt; 90/40 mmHg or &gt; 150/95 mmHg at screening or Day -1.&#xD;
+&#xD;
+               -  Supine pulse rate &lt; 50 bpm or &gt; 99 bpm at screening or Day -1.&#xD;
+&#xD;
+               -  Haemoglobin level below the lower limit of normal at screening or Day -1&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Female, post-menopausal.</gender_description>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1612</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>831 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Bulgaria</country>
+    <country>Slovakia</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 25, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>April 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hepatic impairment</keyword>
+  <keyword>Moderate</keyword>
+  <keyword>Severe</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.&#xD;
+All request will be evaluated as per the AZ disclosure commitment:&#xD;
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure. Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.</ipd_description>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

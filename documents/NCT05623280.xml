@@ -1,0 +1,183 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623280</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Xiang'an Hospital of XMU</org_study_id>
+    <nct_id>NCT05623280</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence Analysis of Fluorescence Image to Intraoperatively Detect Metastatic Sentinel Lymph Node.</brief_title>
+  <official_title>Artificial Intelligence Analysis of Fluorescence Image to Intraoperatively Detect Metastatic Sentinel Lymph Node in Patients With Breast Cancer.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xiang'an Hospital of Xiamen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Xiang'an Hospital of Xiamen University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to analysis the fluorescence image of the breast sentinel lymph&#xD;
+      node (SLN) using Indocyanine green (ICG). Moreover, to investigate whether an artificial&#xD;
+      intelligence protocol was suitable for identifying metastatic status of SLN during the&#xD;
+      surgery, and evaluate the diagnosis consistency of the AI technique and pathological&#xD;
+      examinations for lymph node with and without metastasis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Assessment of the sentinel lymph node (SLN) in patients with early stage breast cancer is&#xD;
+      vital in selecting the appropriate surgical approach. But identification of metastatic LNs&#xD;
+      within the fibro-adipose tissue of the fossa axillaris specimen remains a challenge.&#xD;
+      Recently, indocyanine green (ICG) and methylene blue are commonly used in clinical practice.&#xD;
+      ICG as a fluorescent dyes, has effectiveness in mapping SLNs during surgery. Surgeons can&#xD;
+      follow the fluorescence display to detect SLN, and simultaneously capture real-time&#xD;
+      fluorescent video images. Several other groups has been demonstrated that the usage of ICG&#xD;
+      fluorescent surgical navigation system to detect SLNs in breast cancer patients is&#xD;
+      technically feasible. But no study investigate the variability between fluorescent images of&#xD;
+      breast sentinel lymph node with and without metastasis in the existing paper. Deep learning&#xD;
+      (DL) artificial intelligence (AI) algorithms in medical imaging are rapidly expanding.&#xD;
+&#xD;
+      In this study, the investigators aim to develop and validate an easy-to-use artificial&#xD;
+      intelligence prediction model to intraoperatively identify the sentinel lymph node metastasis&#xD;
+      status. Furthermore, to explore whether this independent and parallel intraoperative lymph&#xD;
+      node assessment workflow can provide rapid and accurate skull base on lymph node fluorescent&#xD;
+      images analysis, meanwhile detecting occult lymph node (micro-) metastasis, using optical&#xD;
+      imaging and artificial intelligence.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnosis of lymph node metastasis</measure>
+    <time_frame>Participants will be followed for the duration of hospital stay, an expected average of 3 months</time_frame>
+    <description>The lymph node metastasis (LNM) status was determined based on the pathological diagnosis of the surgical specimens.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Sentinel Lymph Node</condition>
+  <arm_group>
+    <arm_group_label>Indocyanine green</arm_group_label>
+    <description>Injection around the areola with 2-4 points Indocyanine green with 2ml of 1.25mg/mL; Achieve Intraoperative fluorescence images by Near-Infrared I ( NIR-I ) fluorescence imaging instrument.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Indocyanine green</intervention_name>
+    <description>Injection around the areola with 2-4 points Indocyanine green with 2ml of 1.25mg/mL</description>
+    <arm_group_label>Indocyanine green</arm_group_label>
+    <other_name>ICG</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Lymph node&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants were recruited from Xiang'An Hospital of Xiamen University, between November&#xD;
+        30, 2022, and November 30, 2024.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged 18-70 years female.&#xD;
+&#xD;
+          -  The preoperative core needle biopsy or open surgical excision biopsy diagnosis as&#xD;
+             breast cancer.&#xD;
+&#xD;
+          -  No clinical examination of suspicious axillary lymph node-positive.&#xD;
+&#xD;
+          -  Preoperative clinical or radiologic evidence without distant metastases (M0).&#xD;
+&#xD;
+          -  The patient has good compliance with the planned protocol during the study and signed&#xD;
+             informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy, breastfeeding.&#xD;
+&#xD;
+          -  Allergy to ICG.&#xD;
+&#xD;
+          -  Former operation or radiotherapy in the axilla or breast or thoracic wall in the same&#xD;
+             side of breast cancer.&#xD;
+&#xD;
+          -  Psychiatric or cognitive impairment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>women aged 18-70 years</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xueqi Fan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>School of Medicine, Xiamen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xueqi Fan, MD</last_name>
+    <phone>19859202604</phone>
+    <email>fanxq@stu.xmu.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xiamen Key Laboratory of Endocrine-Related Cancer Precision Medicine</name>
+      <address>
+        <city>Xiamen</city>
+        <state>Fujian</state>
+        <zip>361000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xueqi Fan, MD</last_name>
+      <phone>19859202604</phone>
+      <email>fanxq@stu.xmu.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

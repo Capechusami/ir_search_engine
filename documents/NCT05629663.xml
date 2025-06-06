@@ -1,0 +1,162 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-08-079</org_study_id>
+    <nct_id>NCT05629663</nct_id>
+  </id_info>
+  <brief_title>Utilizing of Augmented Reality Technology Education Program for Nurse.</brief_title>
+  <official_title>Utilizing of Augmented Reality Technology for Development, Application and Evaluation on Nurse Education Program.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsung Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Samsung Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is important to provide practice-oriented education for nurses in a safe environment. As&#xD;
+      it became difficult to maintain face-to-face education and practice environment due to&#xD;
+      COVID-19, a new paradigm for nurse education was required. The investigators tried to use&#xD;
+      augmented reality technology in nurse education, and based on this, research was conducted to&#xD;
+      devise, develop, apply, and evaluate the satisfaction and usability of educators. The field&#xD;
+      needs were checked through literature review, the subject of the augmented technology-based&#xD;
+      education program was selected, and the program was produced and applied, and this was&#xD;
+      evaluated through a questionnaire including a system usability evaluation scale and a&#xD;
+      technology acceptance model-based question.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As patient-centered nursing education is considered more important, the amount of nursing&#xD;
+      education required is also increasing. In addition, the safety of the educational environment&#xD;
+      is important for nurses' application education to various clinical environments. In the past,&#xD;
+      simulation education, which generally expects learning effects through practice and&#xD;
+      motivation, was mainly conducted. However, in the COVID-19 situation, it has become difficult&#xD;
+      for educators and educators to gather in one space to conduct clinical education.[4] Based on&#xD;
+      the need for alternatives to this, The investigators devised a nurse education program using&#xD;
+      various new technologies.&#xD;
+&#xD;
+      Recently, virtual training systems are being developed in various application fields thanks&#xD;
+      to the development of augmented reality and virtual reality. In particular, medical training&#xD;
+      and clinical application have become important since the recent international epidemic of&#xD;
+      COVID-19. The strength of new technologies such as Augmented Reality (AR) has enabled various&#xD;
+      programs for education and healthcare that have overcome the limitations of time and space.&#xD;
+      Augmented reality is already being applied to self-directed learning in various areas, which&#xD;
+      provides learners with a highly immersive learning environment so that medical personnel can&#xD;
+      receive more accurate and precise medical education in the field.&#xD;
+&#xD;
+      The investigators tried to develop an augmented reality technology-based program that can&#xD;
+      provide training to nurses using the Headmount display device, and to find out the evaluation&#xD;
+      that reaches usability and satisfaction after applying it to educators.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">July 1, 2022</start_date>
+  <completion_date type="Anticipated">November 20, 2022</completion_date>
+  <primary_completion_date type="Actual">August 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>interview</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>In depth interview for evaluation the program. The question consists of about 10 simple questions, and the scale is not used. It consists of open questions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>System usability scale</measure>
+    <time_frame>15 minutes</time_frame>
+    <description>survey for System Usability Scale. a five-point scale(1 point to 5 point), High scores can be positive for each question, and low scores can be positive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Technology acceptance scale</measure>
+    <time_frame>15 minutes</time_frame>
+    <description>It consists of 15 questions that assess trends in the latest technology with questions on a scale of 1 to 7.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">14</enrollment>
+  <condition>Nursing</condition>
+  <condition>Education</condition>
+  <arm_group>
+    <arm_group_label>AR program group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants in the AR group were guided by AR-based instructions and requested assistance with the head-mounted device.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>AR guidance with Hololens 2</intervention_name>
+    <description>The AR instructions were developed as a step-by-step guide, utilizing the dynamic 365 Guide (Software, Microsoft Corporation, Redmond, WA, USA). The AR instructions were delivered using the Microsoft HoloLens 2.</description>
+    <arm_group_label>AR program group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical staff who have participated, trained or trained in the production of&#xD;
+             ventilator/ECMO training programs using HoloLens 2&#xD;
+&#xD;
+          -  A person who has agreed to voluntarily participate in the study through the&#xD;
+             recruitment notice&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Medical staff who participate, train, or have not been trained in the production of&#xD;
+             ventilator/emo education programs using HoloLens 2&#xD;
+&#xD;
+          -  Medical staff who participated, trained, uneducated, or abandoned in the production of&#xD;
+             ventilator/emo education programs using HoloLens 2 If you disagree with the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Samsung Medical Centre</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Nursing, Education, Augmented reality</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

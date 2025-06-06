@@ -1,0 +1,212 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797610</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WA43966</org_study_id>
+    <secondary_id>2022-502102-32-00</secondary_id>
+    <nct_id>NCT05797610</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of RO7434656 in Participants With Primary Immunoglobulin A (IgA) Nephropathy at High Risk of Progression</brief_title>
+  <acronym>IMAGINATION</acronym>
+  <official_title>A Phase III, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of RO7434656, an Antisense Inhibitor of Complement Factor B, in Patients With Primary IgA Nephropathy at High Risk of Progression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy, safety, and pharmacokinetics of&#xD;
+      RO7434656, a novel Antisense Oligonucleotide (ASO) therapy in participants with primary IgA&#xD;
+      nephropathy (IgAN) who are at high risk of progressive kidney disease despite optimized&#xD;
+      supportive care.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 28, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2030</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2026</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in the Urine Protein-to-Creatinine Ratio (UPCR) at Week 37</measure>
+    <time_frame>Baseline, Week 37</time_frame>
+    <description>UPCR will be assessed in urine sampled over 24 hours.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Estimated Glomerular Filtration Rate (eGFR) Slope at Week 105 from Baseline</measure>
+    <time_frame>Baseline, Week 105</time_frame>
+    <description>eGFR will be calculated using the 2021 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) creatinine equation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to the Composite Kidney Failure Endpoint</measure>
+    <time_frame>Up to approximately 7 years</time_frame>
+    <description>Time to the composite kidney failure endpoint is defined as receipt of kidney transplantation, need for kidney replacement therapy, or a sustained decline in eGFR of ≥ 30% (requires two consecutive central laboratory eGFR values meeting criteria ≥ 4 weeks apart), whichever occurs first, without the receipt of other immunosuppressive or background therapies for the treatment of IgAN.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fatigue at Week 105</measure>
+    <time_frame>Baseline, Week 105</time_frame>
+    <description>Fatigue will be assessed with the Functional Assessment of Chronic Illness Therapy-Fatigue subscale (FACIT-F). The FACIT-F Scale is a 13-item scale used to measure self-reported fatigue. Items are assessed on a 5-point Likert scale, with responses ranging from 0 for &quot;not at all&quot; to 4 for &quot;very much&quot;. The total raw score is the sum of the values of each scored question and ranges from 0 to 52. A higher score indicates less fatigue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Symptoms and Health-Related Quality of Life at Week 105 as Assessed Using the Kidney Disease and Quality of Life 36-Item (KDQOL-36) Short Form</measure>
+    <time_frame>Baseline, Week 105</time_frame>
+    <description>The KDQOL-36 is an abbreviated questionnaire that combines generic and disease-specific components to assess participant's health-related quality of life. This 36-item questionnaire includes the Short Form 12 (SF-12), Version 1 (12 items) and 3 disease-related domains, symptoms/problems (12 items), burden of kidney disease (4 items), and effects of kidney disease (8 items). It uses a recall of 4 weeks, and items are assessed on 3- to 5-point Likert scales or with a dichotomous response option. Higher score indicates better health. The raw scores are transformed linearly to a range of 0 to 100, with higher scores indicating better health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Treatment-Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Up to approximately 7 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of RO7434656</measure>
+    <time_frame>Up to approximately 7 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">428</enrollment>
+  <condition>Primary IgA Nephropathy</condition>
+  <arm_group>
+    <arm_group_label>RO7434656</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive subcutaneous (SC) doses of RO7434656 on Days 1, 15, and 29 followed by once every 4 weeks until Week 105. After Week 105, participants may continue blinded treatment or enter open-label treatment up to 1 year after the date at which the last participant completes the Week 105 assessment, withdraws, or is discontinued from the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive SC doses of RO7434656 matching placebo on Days 1, 15, and 29 followed by once every 4 weeks until Week 105. After Week 105, participants may continue blinded treatment or enter open-label treatment up to 1 year after the date at which the last participant completes the Week 105 assessment, withdraws, or is discontinued from the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>RO7434656</intervention_name>
+    <description>RO7434656 will be administered subcutaneously per schedule as specified.</description>
+    <arm_group_label>RO7434656</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo will be administered subcutaneously per schedule as specified.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Primary IgAN, as evidenced by a kidney biopsy performed within 7 years prior to or&#xD;
+             during screening, without known secondary cause&#xD;
+&#xD;
+          -  Treatment with maximum tolerated doses of angiotensin-converting enzyme (ACE)&#xD;
+             inhibitors or angiotensin II receptor blockers (ARBs) for at least 90 days immediately&#xD;
+             prior to screening&#xD;
+&#xD;
+          -  Urine Protein-to-Creatinine Ratio (UPCR) ≥ 1 gram per gram (g/g) or urine protein&#xD;
+             excretion ≥ 1 gram per day (g/day) (with UPCR ≥ 0.8 g/g), all measured from a 24-hour&#xD;
+             urine collection during screening&#xD;
+&#xD;
+          -  eGFR ≥ 20 mL/min/1.73 m^2, as calculated by the 2021 Chronic Kidney Disease&#xD;
+             Epidemiology Collaboration (CKD-EPI) creatinine equation (Inker et al. 2021a)&#xD;
+&#xD;
+          -  Female participants of childbearing potential must use adequate contraception&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding, or intention of becoming pregnant during the study or&#xD;
+             within 12 weeks after the final dose of RO7434656&#xD;
+&#xD;
+          -  Histopathologic or other evidence of another autoimmune glomerular disease&#xD;
+&#xD;
+          -  Presence of ≥ 50% crescents on kidney biopsy, sustained doubling of serum creatinine&#xD;
+             within 3 months prior to screening, or rapidly progressive glomerulonephritis in the&#xD;
+             opinion of the investigator&#xD;
+&#xD;
+          -  Glycated Hemoglobin (HbA1c) ≥ 6.5% or a clinical diagnosis of diabetes mellitus of any&#xD;
+             type&#xD;
+&#xD;
+          -  Uncontrolled blood pressure, in the investigator's assessment, for 3 months prior to&#xD;
+             screening or during screening&#xD;
+&#xD;
+          -  Use of endothelin receptor antagonists, except those approved for use in IgAN&#xD;
+&#xD;
+          -  Initiation of mineralocorticoid receptor antagonists or endothelin receptor&#xD;
+             antagonists within 90 days prior to screening or during screening&#xD;
+&#xD;
+          -  Previous treatment with RO7434656&#xD;
+&#xD;
+          -  Use of herbal therapies within 90 days prior to or during screening&#xD;
+&#xD;
+          -  Treatment with oral or intravenous (IV) corticosteroids with a dose equivalent to ≥&#xD;
+             7.5 milligrams per day (mg/day) of prednisone for 7 days or equivalent to ≥ 5 mg/day&#xD;
+             of prednisone for 14 days within 90 days prior to screening&#xD;
+&#xD;
+          -  Treatment with other immunomodulatory agents within 6 months of randomization&#xD;
+             including, but not limited to, complement inhibitors, alkylating agents (e.g.,&#xD;
+             cyclophosphamide or chlorambucil), or mycophenolate&#xD;
+&#xD;
+          -  Treatment with a calcineurin inhibitor within 2 months prior to screening or during&#xD;
+             screening&#xD;
+&#xD;
+          -  Treatment with anti-CD20 therapy within 9 months of screening or during screening&#xD;
+&#xD;
+          -  Any serious medical condition or abnormality in clinical laboratory tests that&#xD;
+             precludes an individual's safe participation in and completion of the study&#xD;
+&#xD;
+          -  Planned major procedure or major surgery during screening or the study&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria may apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>WA43966 https://forpatients.roche.com/</last_name>
+    <phone>888-662-6728 (U.S. Only)</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 22, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Glomerulonephritis, IGA</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

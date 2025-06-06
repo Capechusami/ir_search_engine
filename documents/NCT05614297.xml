@@ -1,0 +1,181 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614297</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACL agreement study 2022</org_study_id>
+    <nct_id>NCT05614297</nct_id>
+  </id_info>
+  <brief_title>Agreement Between Rolimeter and Lachmeter in Patients With ACL Injury</brief_title>
+  <official_title>Agreement Between Two Methods for Assessing Knee Joint Laxity in Patients With ACL Injuries</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Region MidtJylland Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Region MidtJylland Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a quality assurance study, aiming to determine the agreement between two&#xD;
+      different measurement instruments for assessing knee joint laxity in patients with ACL&#xD;
+      injuries.&#xD;
+&#xD;
+      The study aims to include 60 patients with previous ACL injury, recruited in an outpatient&#xD;
+      clinic at Aarhus University Hospital from September 2022 to March 2023. For patients who&#xD;
+      consent to participate in the study, their knee joint laxity in both the injured and the&#xD;
+      non-injured knee is assessed using both a Rolimeter and a Lachmeter. Subsequently, the&#xD;
+      collected data are examined to determined the agreement between the two measurement&#xD;
+      instruments.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Methods:&#xD;
+&#xD;
+      In connection with their visit at either the orthopaedic or physiotherapy outpatient clinic,&#xD;
+      patients are invited to participate in the study. Patients consenting to participate will&#xD;
+      undergo knee joint laxity tests with both the Rolimeter and the Lachmeter, and in addition&#xD;
+      health-related and demographic data are collected.&#xD;
+&#xD;
+      The two tests are performed in random order for each patient, and the same physiotherapist&#xD;
+      conducts the two tests in each individual patient. The physiotherapist performing the two&#xD;
+      tests reads and notes the score on the first test, while a different physiotherapist, blinded&#xD;
+      to the score of the first test, reads and notes the score on the second test.&#xD;
+&#xD;
+      Agreement between the two scores are investigated using a Bland-Altman plot, with calculation&#xD;
+      of bias and upper and lower limits of agreements with 95% CIs. A priori, an acceptable&#xD;
+      difference between the two methods is set at 1 millimeter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2022</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Knee joint laxity (millimeters)</measure>
+    <time_frame>For surgicaly treated patients: Between 1 year and up to 5 years post-surgery. For non-surgically treated patients: Up to 12 weeks after ACL injury.</time_frame>
+    <description>Measurement of knee joint laxity using both a Rolimeter and a Lachmeter is conducted in connection with the patients' visit at the outpatient clinic.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Anterior Cruciate Ligament Injuries</condition>
+  <condition>Laxity of Ligament</condition>
+  <arm_group>
+    <arm_group_label>Patients with ACL injuries</arm_group_label>
+    <description>Patients who have sustained an ACL injury, surgically or non-surgically treated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Knee joint laxity test</intervention_name>
+    <description>Patients seen in an outpatient clinic in connection with an ACL injury or in connection with short or long-term follow-up after ACL surgery, will undergo a clinical assessment of their knee injury as part of standard care. This includes an assessment of knee joint laxity using both the Rolimeter and the Lachmeter, to allow for an assessment of agreement between the two methods.</description>
+    <arm_group_label>Patients with ACL injuries</arm_group_label>
+    <other_name>Rolimeter</other_name>
+    <other_name>Lachmeter</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients are recruited consecutively from either the orthopaedic outpatient clinic&#xD;
+        (patients with ACL-injury) or the physiotherapy outpatient clinic (patients who have&#xD;
+        previously undergone ACL surgery) at Aarhus University Hospital.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with ACL injury awaiting potential ACL-surgery&#xD;
+&#xD;
+          -  Patients with previous ACL-surgery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Multiligament injury&#xD;
+&#xD;
+          -  PCL injury&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nanna Rolving, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Aarhus University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nanna Rolving, PhD</last_name>
+    <phone>0045 21289188</phone>
+    <email>Nanna.Rolving@rm.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Torsten G Nielsen, MHSc</last_name>
+    <email>Torsten.Groenbech.Nielsen@auh.rm.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Aarhus University Hospital</name>
+      <address>
+        <city>Aarhus</city>
+        <state>Central Denmark Region</state>
+        <zip>8200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nanna Rolving, PhD</last_name>
+      <phone>0045 40321618</phone>
+      <email>Nanna.Rolving@rm.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Torsten G Nielsen, MHSc</last_name>
+      <email>Torsten.Groenbech.Nielsen@auh.rm.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Aarhus University Hospital</investigator_affiliation>
+    <investigator_full_name>Nanna Rolving</investigator_full_name>
+    <investigator_title>Senior researcher</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Anterior Cruciate Ligament Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

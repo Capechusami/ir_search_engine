@@ -1,0 +1,765 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611788</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-2021-03-058</org_study_id>
+    <nct_id>NCT05611788</nct_id>
+  </id_info>
+  <brief_title>Structure Learning Training and Cognitive Flexibility</brief_title>
+  <official_title>Structure Learning Training and Cognitive Flexibility</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanyang Technological University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nanyang Technological University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching aim of the project is to assess whether structure learning is an effective&#xD;
+      tool to train and improve cognitive flexibility and whether this is transferable to learning&#xD;
+      and other cognitive skills. The investigators will employ a multi-modal approach that combine&#xD;
+      both cognitive-behavioural and neuroimaging measures to examine how functional brain&#xD;
+      activations and/or cognitive performances are affected when participants go through a&#xD;
+      structure learning training paradigm relative to a working memory training paradigm (active&#xD;
+      control) or a no-training paradigm (passive control).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cognitive flexibility is critical for humans to perform complex tasks and ensures that humans&#xD;
+      exhibit appropriate behaviour in response to changing environments. Successful implementation&#xD;
+      of cognitive flexibility involves several sub-domains within executive functions. Prior&#xD;
+      researches on cognitive flexibility has portrayed it as various aspects of human cognition&#xD;
+      ranging from a cognitive skill related to set-shifting, or a by-product of cognitive&#xD;
+      processes, to part of the cognitive system. The operationalization of cognitive flexibility&#xD;
+      has been particularly difficult due to its multi-faceted nature. Current flexibility&#xD;
+      interventions and neuroimaging studies examining cognitive flexibility commonly utilise tasks&#xD;
+      that taps on to executive functions such as task-set switching or the Dimensional Change Card&#xD;
+      Sort (DCCS) task. Although effective, one concern related to using these tasks is that it&#xD;
+      does not tap merely into cognitive flexibility but also activate other executive functions&#xD;
+      such as inhibition and working memory. Hence, this reduces the precision and specificity of&#xD;
+      these tasks as training tools. The present project proposed structure learning as a more&#xD;
+      fundamental and apt training approach. It involves seeking patterns in the stochastic&#xD;
+      presentations of stimuli, without the need for explicit feedback and is in itself a basic&#xD;
+      building block for cognitive flexibility.&#xD;
+&#xD;
+      In the educational context, structure learning is analogous to patterning, a crucial&#xD;
+      cognitive ability that underpins mathematical and reading skills. Prior research has&#xD;
+      demonstrated a close relationship between pattern understanding and cognitive flexibility.&#xD;
+      Hence, structure learning training could potentially be beneficial in improving one's&#xD;
+      cognitive flexibility. Furthermore, emerging evidence has demonstrated that domain-general&#xD;
+      training of structure learning skills produced learning that transfer well beyond the&#xD;
+      learning task. However, there is a paucity in studies that examined whether structure&#xD;
+      learning training per se could produce generalisable improvements in cognitive flexibility.&#xD;
+      The present study aims to address this gap by examining if structure learning training,&#xD;
+      relative to working memory training and having no training, could produce changes in neural&#xD;
+      markers that relate to potential gains in cognitive flexibility.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 3, 2022</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants are pseudo-randomly assigned (matched for age, sex, intelligence and flexibility) to one of the following intervention groups: (1) Structure Learning and (2) No training (Passive Control)</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Structure Learning Outcome 1 - Performance Index (PI) Relative</measure>
+    <time_frame>Across two weeks of intervention</time_frame>
+    <description>Performance index (PI) is the minimum overlap between the distribution of participant responses and the distribution of presented targets per context. The overall PI is then the average of the performance indices across contexts. The PI relative is a normalised PI measure that quantifies participant's performance relative to random guessing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Structure Learning Outcome 2 - Strategy choice</measure>
+    <time_frame>Across two weeks of intervention</time_frame>
+    <description>Strategy choice is the difference between the Kullback-Leibler (KL) divergence from model matching to the response-based model and the KL divergence from model maximization to the response-based model. Negative strategy choice values indicate a strategy closer to matching, whereas positive values indicate a strategy closer to maximization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Structure Learning Outcome 3 - Strategy index (measured by the integral curve difference)</measure>
+    <time_frame>Across two weeks of intervention.</time_frame>
+    <description>Derived by calculating the integral of each participant's strategy curve and subtracting it from the integral of the exact matching curve, as defined by model matching across training.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Structure Learning Outcome 4 - Learning rate</measure>
+    <time_frame>Across two weeks of intervention.</time_frame>
+    <description>Rate of learning across the training sessions or days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Structure Learning Outcome 5 - Strategy shifting rate</measure>
+    <time_frame>Across two weeks of intervention.</time_frame>
+    <description>Rate of strategy change across the training sessions or days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 1 - Wisconsin Card Sorting Test (WCST): Proportion of perseverative errors</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Proportion of error trials where participants incorrectly choose a deck based on the rule from the previous set</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 2 - Wisconsin Card Sorting Test (WCST): Learning rate</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>This is a parameter extracted from a sequential learning model fitted to WCST data and represents how quickly participants updated their beliefs about the values associated with choices following respective negative and positive feedback.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 3 - Wisconsin Card Sorting Test (WCST): Decision consistency</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>This is a parameter extracted from a sequential learning model fitted to WCST data and influenced the estimated probability of choosing a specific stimulus per trial. Larger values indicated increased exploitation whereas lower values indicated increased exploration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 4 - Intra/Extra-Dimensional Set Shifting (IED): Extra-dimensional set errors</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The number of times that the subject failed to select the stimulus compatible with the current rule on the stage where the extra-dimensional shift occurs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 5 - Intra/Extra-Dimensional Set Shifting (IED): Extra-dimensional reversal errors</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>This is the total number of errors made in Stage 9. The lower the better.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 6 - Intra/Extra-Dimensional Set Shifting (IED): Learning rate</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from Feature Reinforcement Model</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 7 - Intra/Extra-Dimensional Set Shifting (IED): Choice determinism</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from Feature Reinforcement Model</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 8 - Intra/Extra-Dimensional Set Shifting (IED): Dimension primacy</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from Feature Reinforcement Model</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 9 - Probabilistic Reversal Learning (PRL): Perseveration</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Number of trials until the participant updates their response after the rule reversal.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 10 - Probabilistic Reversal Learning (PRL): Switch probability</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Number of switches in the participant responses following negative feedback (i.e. trap trials: when the less likely object is correct).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 11 - Probabilistic Reversal Learning (PRL): Trials to criterion in block 2 (Reversal)</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Number of trials before participant reach defined learning criterion during the Reversal phase</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 12 - Probabilistic Reversal Learning (PRL): Learning rates</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from the Reinforcement Learning Model based on the Rescorla-Wagner rule. Two learning rates i.e., one for positive error/reward and one for negative error/punishment can be extracted from the model.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 13 - Probabilistic Reversal Learning (PRL): Reinforcement sensitivity</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from the Reinforcement Learning Model based on the Rescorla-Wagner rule.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 14 - Probabilistic Reversal Learning (PRL): Stickiness</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from the Reinforcement Learning Model based on the Rescorla-Wagner rule.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 15 - Task Set Switching - Where (TSS-Where): Task switch cost in RT</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Switch cost in terms of reaction time (ms) is defined as the difference between the mean reaction time across switch trials with that of repeat trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 16 - Task Set Switching - Where (TSS-Where): Task switch cost in Accuracy</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Switch cost in terms of accuracy is defined as the difference between the accuracy in switch trials with that of repeat trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 17 - Task Set Switching - What (TSS-What): Task switch cost in RT</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Switch cost in terms of reaction time (ms) is defined as the difference between the mean reaction time across switch trials with that of repeat trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 18 - Task Set Switching - What (TSS-What): Task switch cost in Accuracy</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Switch cost in terms of accuracy is defined as the difference between the accuracy in switch trials with that of repeat trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 19 - Colour Shape Task (CST): Task switch cost in RT</measure>
+    <time_frame>Baseline (pre-intervention)</time_frame>
+    <description>Switch cost in terms of reaction time (ms) is defined as the difference between the mean reaction time across switch trials with that of repeat trials. Used for matching between Control and Training groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 20 - Colour Shape Task (CST): Task switch cost in Accuracy</measure>
+    <time_frame>Baseline (pre-intervention)</time_frame>
+    <description>Switch cost in terms of accuracy is defined as the difference between the accuracy in switch trials with that of repeat trials. Used for matching between Control and Training groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 21 - Colour Shape Task (CST): Task switch cost in RT</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Switch cost in terms of reaction time (ms) is defined as the difference between the mean reaction time across switch trials with that of repeat trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 22 - Colour Shape Task (CST): Task switch cost in Accuracy</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Switch cost in terms of reaction time (ms) is defined as the difference between the mean reaction time across switch trials with that of repeat trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 23 - Colour Shape Task (CST): Change in task switch cost in RT</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Change in switch cost as indexed by reaction time between pre and post intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 24 - Colour Shape Task (CST): Change in task switch cost in accuracy</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Change in switch cost as indexed by accuracy between pre and post intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Flexibility Outcome 25 - Trail Making Test (TMT): Ratio between time to complete Trail B to Trail A</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Participants are asked to complete Trail A (draw lines to connect numbered items in sequence) and subsequently Trail B (draw lines to connect a set of items alternating between letters and numbers) as quickly and as accurately as possible. We then take the ratio of the completion time of Trail B to Trail A to examine completion time of Trail B relative to Trail A.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Working Memory Outcome 1 - Backwards Digit Span (BDS): Total items correct</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Number of digit sequences that participant successfully recalled in the reverse order</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Working Memory Outcome 2 - Reading Span (RS): Number of correctly recalled digits</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Total number of correctly recalled digits across the different trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Working Memory Outcome 3 - Spatial Working Memory (SWM): Between search errors</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The number of times the subject incorrectly revisits a box in which a token has previously been found. Calculated across all assessed four, six and eight token trials.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Working Memory Outcome 4 - Spatial Working Memory (SWM): Strategy score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The number of times a subject begins a new search pattern from the same box they started with previously. If they always begin a search from the same starting point we infer that the subject is employing a planned strategy for finding the tokens. Therefore a low score indicates high strategy use (1 = they always begin the search from the same box), a high score indicates that they are beginning their searches from many different boxes. Calculated across assessed trials with 6 tokens or more.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inhibition Outcome 1 - Stroop Task: Interference measure for RT</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Difference between response latency of all correct congruent trials and response latency of all correct incongruent trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inhibition Outcome 2 - Stroop Task: Interference measure for accuracy</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Difference between proportion correct of all congruent trials and proportion correct of all incongruent trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inhibition Outcome 3 - Stop Signal Task (SST): Probability of Go responses on Stop trials</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Probability of reacting in Stop Signal Trials</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inhibition Outcome 4 - Stop Signal Task (SST): Stop Signal Reaction Time</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Estimation of the covert stop signal reaction time (SSRT) (the time required to stop the initiated go-process) using the integration method (see Verbruggen et al, 2019). The slower the SSRT the more difficult to stop the go-process. The faster the SSRT the easier to stop the go-process.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Stress Outcome 1 - Perceived Stress Scale (PSS): Perceived Stress Scale Score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The PSS measures the degree to which situations in one's life are appraised as stressful. Items were designed to tap how unpredictable, uncontrollable, and overloaded respondents find their lives. The questions in the PSS ask about feelings and thoughts during the last month. In each case, you will be asked to indicate how often you felt or thought a certain way. Possible scores range from 0 (never) to 4 (very often). Individual scores on the PSS can range from 0 to 40 with higher scores indicating higher perceived stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep Quality Outcome 1 - Pittsburgh Sleep Quality Index (PSQI): Global PSQI Score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The PSQI measures several different aspects of sleep. The component scores comprise subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, and daytime dysfunction. Each item is weighted on a 0-3 interval scale. The global PSQI score is then calculated by totalling the seven component scores and can range from 0 to 21, where lower scores denote a healthier sleep quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Empathy Outcome 1 - Empathy Quotient (EQ): Empathy Quotient Score</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Empathy Quotient (EQ) is a self-administered questionnaire designed to measure empathy in adults. It tests the ability to tune into how someone else is feeling, or what they might be thinking. Each item is a first-person statement which the test-taker must rate as either &quot;strongly agree&quot;, &quot;slightly agree&quot;, &quot;slightly disagree&quot;, or &quot;strongly disagree&quot;. This is then scored as 2, 1, or 0 depending on the question.&#xD;
+Individual scores on the EQ can range from 0 (the least empathetic possible) to 40 (the most empathetic possible)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language and Numeracy Outcome 1 - Woodcock Johnson IV (WJIV): Scores from Test 1 Letter-Word Identification</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The Letter-Word Identification task measures one's ability to read and produce phonetically correct word pronunciations. Words are presented one at a time on the testing easel and individuals are prompted to read them loudly and clearly. Each correct word pronunciation is scored 1 while incorrect word pronunciation is scored 0. The total possible score is 0 to 78 with higher scores indicating better reading ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language and Numeracy Outcome 2 - Woodcock Johnson IV (WJIV): Scores from Test 2 Applied Problems</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The Applied Problems task measures one's ability to analyse and solve math problems. Math problems are read out to individuals in a sequential order on the testing easel and they are asked to provide verbal responses to each item. Pen and paper are provided to perform rough workings. Each correct response is scored 1 while incorrect response is scored 0. The total possible score is 0 to 56 with higher scores indicating better math problem solving skills.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language and Numeracy Outcome 3 - Woodcock Johnson IV (WJIV): Scores from Test 4 Passage Comprehension</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The Passage Comprehension task measures one's ability to use syntactic and semantic cues to identify a missing word in a text. Individuals are asked to read each incomplete sentence silently, then verbally respond to provide a suitable word that fits in the blank. Each correct response is scored 1 while incorrect response is scored 0. The total possible score is 0 to 52 with higher scores indicating higher proficiency at using contextual cues for reading.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language and Numeracy Outcome 4 - Woodcock Johnson IV (WJIV): Scores from Test 5 Calculation</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The Calculation task measures one's ability to perform mathematical computations. Individuals are asked to write down their answers to as many mathematical operation questions as possible on a response sheet. Each correct response is scored 1 while incorrect response is scored 0. The total possible score is 0 to 57 with higher scores indicating higher proficiency at performing mathematical computations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language and Numeracy Outcome 5 - Woodcock Johnson IV (WJIV): Scores from Test 9 Sentence Reading Fluency</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The Sentence Reading Fluency task measures one's ability to read quickly and comprehend sentences. Individuals are asked to read sentences one at a time and judge whether they are true or false within a 3-minute time limit. If sentences are true, they have to circle 'Y' (Yes) and if sentences are false, they have to circle 'N' (No) on a response sheet. Each correct response is scored 1 while incorrect response is scored 0. The total possible score is 0 to 110 with higher scores indicating faster reading speed and cognitive processing speed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language and Numeracy Outcome 6 - Woodcock Johnson IV (WJIV): Scores from Test 10 Maths Fact Fluency</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The Math Facts Fluency task measures one's ability to perform simple arithmetic calculations (addition, subtraction, multiplication, division) under a timed setting. Individuals are asked to write down their answers to as many arithmetic questions as possible within a 3-minute time limit. Each correct response is scored 1 while incorrect response is scored 0. The total possible score is 0 to 160 with higher scores indicating faster calculation speed and cognitive processing speed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 1 - Social Value Orientation: Weighted average</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Weighted average of choices over different social allocations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 2 - Prisoner's Dilemma: Proportion of cooperative choices</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 3 - Trust Game: Trust preference</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Trust Game:&#xD;
+Trust game with the opponent (Player B)'s choice history&#xD;
+Trust game without Player B's choice history&#xD;
+Trust game (The participant as Player B) Measured by the switch point from not trusting the opponent to trusting the opponent or estimated from computational modelling</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 4 - Trust Game: Proportion of trust choices</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Trust Game:&#xD;
+Trust game with the opponent (Player B)'s choice history&#xD;
+Trust game without Player B's choice history&#xD;
+Trust game (The participant as Player B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 5 - Trust Game: Proportion of cooperative choices</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Trust Game:&#xD;
+Trust game with the opponent (Player B)'s choice history&#xD;
+Trust game without Player B's choice history&#xD;
+Trust game (The participant as Player B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 6 - Risk Preference: Risk Preference (Positive)</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Risk preference measured by the switch point from choosing the safe option to choosing the risky option or estimated from computational modelling</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 7 - Ambiguity Aversion: Ambiguity preference</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>Ambiguity preference is measured by the switch point from choosing the risky option to choosing the ambiguous option or estimated from computational modelling</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 8 - Personal Relative Deprivation Scale: Total personal relative deprivation score</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Personal Relative Deprivation Scale reflects the beliefs and feelings of an individual when comparing themselves with other people like them. Responses were rated on a 6-point likert scale, with 1 as 'strongly disagree' and 6 as 'strongly agree'. The total possible score ranges from 5 to 30, with higher scores indicating higher dissatisfaction levels when deprived.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 9 - Cooperativeness and Competitiveness Personality Scale: Score for Cooperativeness dimension</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Cooperativeness and Competitiveness Personality Scale measures the level of Cooperativeness and Competitiveness of an individual as two distinct traits. Within the scale, 13 items belong to the Cooperativeness dimension, which can be further subdivided into the subscales of Cognition, Behaviour and Affect. Test-takers have to respond on a 7-point likert scale that ranges from 1 as 'Do not agree at all' to 7 as 'Totally agree'. The total possible score ranges from 13 to 91, with higher scores indicating higher levels of cooperative trait.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social Decision Making Outcome 10 - Cooperativeness and Competitiveness Personality Scale: Score for Competitiveness dimension</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Cooperativeness and Competitiveness Personality Scale measures the level of Cooperativeness and Competitiveness of an individual as two distinct traits. Within the scale, 10 items belong to the Competitiveness dimension, which can be further subdivided into the subscales of Cognition, Behaviour and Affect. Test-takers have to respond on a 7-point likert scale that ranges from 1 as 'Do not agree at all' to 7 as 'Totally agree'. The total possible score ranges from 10 to 70, with higher scores indicating higher levels of competitive trait.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerance of Uncertainty Outcome 1 - Receptiveness to Opposing Views: Score from Questionnaire</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Receptiveness to Opposing Views scale is an 18-item self-report scale that measures one's willingness to take in and think about information that does not align with their personal opinions. There are four distinct dimensions in the scale - Intellectual curiosity, Derogation of opponents, Taboo issues, and Negative emotions, each with 4 to 5 items. Test-takers rate their responses on a 7-point Likert scale, where 1 is 'strongly disagree' and 7 is 'strongly agree'. The total receptiveness index is computed by reverse coding 13 items and averaging the total score. Hence, the possible total receptiveness index ranges from 1 to 7, with higher score indicating higher levels of receptiveness to opposing views.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerance of Uncertainty Outcome 2 - Need for Closure Scale: Score from Questionnaire</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Need for Closure Scale measures the level of desire for cognitive closure, an answer or an outcome. There are five distinct dimensions in the scale - Predictability, Close-Mindedness, Ambiguity, Order, and Decisiveness. The abridged version containing 15 items, 3 items each for the dimensions, is used. Test-takers provided their responses on a 6-point likert scale where 1 is 'strongly disagree' and 6 is 'strongly agree'. Both a total score ranging from 15 to 90 and subscale scores ranging from 1 to 18 is computed by adding up the items. Higher scores indicate greater need for closure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerance of Uncertainty Outcome 3 - Curiosity and Exploration: Score from Questionnaire</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Curiosity and Exploration Inventory measures the level of trait curiosity of an individual. There are two distinct dimensions in the scale - Embracing and Stretching, each with 5 items. Items within Embracing dimension measure the willingness to embrace new changes in everyday life whereas items within Stretching dimension reflect the motivation to seek out new knowledge and experiences. Test-takers rate their responses on a 5-point Likert scale, where 1 is 'Very slightly or not at all' and 5 is 'Extremely'. The total score ranges from 10 to 50, and higher score indicates higher level of trait curiosity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerance of Uncertainty Outcome 4 - Racial Essentialism Scale: Score from Questionnaire</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Racial Essentialism Scale reflects one's beliefs about grouping people into distinct racial groups based on their biological or genetic makeup and associate them with other qualities of the racial group. There are two distinct dimensions in the scale each with 4 items - Essentialist view of race and Social constructionist view of race. Test-takers rate their responses on a 6-point likert scale, where 1 is 'Strongly disagree' and 6 is 'Strongly agree. Two distinct subscale scores are calculated from averaging the items in each dimension. Possible subscale scores range from 1 to 6. Higher score in Essentialist view suggests a stronger belief in an underlying essence of a racial group that cannot be changed. Higher score in Social constructionist view suggests a stronger belief that racial groups are socially created constructs that are arbitrary and can be changed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Multilingualism Outcome 1 - Clip-Q Singapore Language History Questionnaire: Score from Questionnaire</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Basic demographic information; multilingualism in context; multilingualism in practice; linguistic diversity promotion; language use, history and proficiency; socioeconomic status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Social Support Outcome 1 - Multidimensional Scale of Perceived Social Support: Score from Questionnaire</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The Multidimensional Scale of Perceived Social Support measures one's perception of their level of social support from family, friends and a significant other. Test-takers rate their response on a 7-point likert scale, where 1 is 'Very strongly disagree' and 7 is 'Very strongly agree'. Three distinct subscale scores are calculated from averaging the 4 item scores for each source of social support. Possible subscale score ranges from 1 to 7, where higher score indicates higher perceived social support from that particular group of people/individual.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Personality Outcome 1 - Big Five Inventory: Score from Questionnaire</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>The Big Five Inventory reflects an individual's personality on 5 dimensions - Extraversion, Neuroticism, Openness, Agreeableness, &amp; Conscientiousness. Each dimension comprises 2 items, one of which is reverse coded. An additional reverse-coded item is added for the Openness to experience dimension due to test-takers misunderstanding the original item. Test-takers rate their response on a 5-point likert scale, where 1 is 'Disagree strongly' and 5 is 'Agree strongly'. Five distinct subscale scores are calculated from averaging the items within each dimension. Possible subscale score ranges from 1 to 5, where higher score indicates higher level of the trait.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 1 - GABA+ levels in left DLPFC</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>GABA+ is acquired with the Mescher-Garwood point-resolved spectroscopy (MEGA-PRESS) sequence. We are interested in the change in resting-state Gamma-aminobutyric acid + macromolecules (GABA+) levels in the left dorsolateral prefrontal cortex.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 2 - GABA+ levels in right DLPFC</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>GABA+ is acquired with the Mescher-Garwood point-resolved spectroscopy (MEGA-PRESS) sequence. We are interested in the change in resting-state Gamma-aminobutyric acid + macromolecules (GABA+) levels in the right dorsolateral prefrontal cortex.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 3 - Resting-state functional magnetic imaging (rsfMRI): Whole brain search analysis (beta value)</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>Will perform standard generalized linear model (GLM) analysis at each voxel of brain image.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 4 - Resting-state functional magnetic imaging (rsfMRI): Region of interest (ROI) based analysis (beta value)</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>Will perform individual GLM analysis on the brain regions within frontoparietal, and corticostriatal circuits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 5 - Resting-state functional magnetic imaging (rsfMRI): Group independent component (group ICA) analysis (weighted component score)</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>Group ICA will be used to decompose the rsfMRI time course to define functional cortical networks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 6 - Resting-state functional magnetic imaging (rsfMRI): Functional connectivity analysis</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>Two main indexes will be used. 1). Intrinsic connectivity is defined as the strength of connectivity between a given voxel and the rest of the brain within each ICA identified in the previous analysis. 2). Extrinsic connectivity will be calculated based on pairs of striatal and ICA identified in the previous analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 7 - Multiparameter mapping (MPM): Whole brain voxel-based quantification analyses</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>Longitudinal relaxation rate (R1) is estimated from PD weighted and T1 weighted images from different nominal flip angles and then corrected. Transverse relaxation rate (R2*) is estimated from the logarithm of the signal intensities at different echo times using a linear regression. Magnetisation transfer (MT) is derived from MT-weighting on 6 to 8 echoes. Proton density (PD) is estimated from the PD signal amplitude maps with correction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imaging Outcome 8 - Multiparameter mapping (MPM): ROI analyses</measure>
+    <time_frame>At pre-MRI scan (pre-intervention) and at post-MRI scan with minimum two-weeks interval (post-intervention)</time_frame>
+    <description>Voxel-based morphometry analysis with MPM-derived maps is done on individual ROIs within the frontoparietal, and corticostriatal circuits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General Intelligence Outcome 1 - Raven's Advanced Progressive Matrices (RAPM): Total correct</measure>
+    <time_frame>Baseline (pre-intervention)</time_frame>
+    <description>The Raven's Advanced Progressive Matrices provide a nonverbal estimate of fluid intelligence and measures ability to perform inductive and abstract reasoning. Each correct response is scored 1 while incorrect response is scored 0. The total possible score is 0 to 20 with higher scores indicating higher fluid intelligence. This is used for matching at baseline for group assignment of participants into Training or Control.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General Intelligence Outcome 2 - Raven's Advanced Progressive Matrices (RAPM): Change in accuracy score</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Raven's Advanced Progressive Matrices provide a nonverbal estimate of fluid intelligence and measures ability to perform inductive and abstract reasoning. Each correct response is scored 1 while incorrect response is scored 0. For both pre-intervention and post-intervention, the total possible score is 0 to 20 with higher scores indicating higher fluid intelligence. The change in accuracy score is calculated as the difference in score between the two administration time points (post-pre). A higher change in accuracy score may reflect improvement in abstract reasoning after the intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General Intelligence Outcome 3 - Wechsler Abbreviated Scale of Intelligence Block Design (WASI-B): Block design score</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>The WASI Block Design task measures one's ability to analyse and synthesise abstract visual items. Depending on the item number, a time limit ranging 45 to 120 seconds is given to complete the replication task. For all items, a score 0 is given if individuals fail to complete replication within time limit or if there is a rotation error more than 30 degrees. For items 5 to 8, individuals' scores vary according to the time taken to complete task - score ranges from 4 (21-60s), 5 (16-20s), 6 (11-15s) to 7 (1-10s). Similarly for items 9 to 13, score ranges from 4 (71-120s), 5 (46-70s), 6 (31-45s) to 7 (1-30s). The total possible score is 0 to 71 with higher scores indicating better spatial reasoning ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General Intelligence Outcome 4 - Wechsler Abbreviated Scale of Intelligence Vocabulary (WASI-V): Vocabulary score</measure>
+    <time_frame>Baseline (pre-intervention)</time_frame>
+    <description>The WASI vocabulary is used to measure the participant's word knowledge and verbal concept formation. It includes 3 picture items and 28 verbal items. Possible total scores ranges from 0 to 59 with higher scores indicating better verbal intelligence ability. This is used for matching at baseline for group assignment of participants into Training or Control and raw vocabulary score will be standardised to a T-score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 1 - Verbal Fluency Test (VFT): Mean fluency score (Category)</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Number of correct words came up with for a given category</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 2 - Verbal Fluency Test (VFT): Mean fluency score (Letter)</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Number of correct words came up with for a given letter</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 3 - Verbal Fluency Test (VFT): Clustering coefficient</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from a Semantic Network Model</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 4 - Verbal Fluency Test (VFT): Average shortest path length</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from a Semantic Network Model</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 5 - Verbal Fluency Test (VFT): Modularity</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Parameter extracted from a Semantic Network Model</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 6 - Alternate Uses Task (AUT): Total fluency score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>This score is the total number of valid responses given by the participant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 7 - Alternate Uses Task (AUT): Total originality score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>This score measures the statistical originality of participant's responses. A response would be deemed original if it has a low percent of occurrence in the participant pool and an unoriginal response would have a high percent of occurrence. Higher originality score would indicate higher creativity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 8 - Alternate Uses Task (AUT): Total flexibility score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>This score reflects how different the responses are. Flexibility scores are computed based on the number of distinct categories within the participants' responses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 9 - Remote Associates Test (RAT): Percentage of correct solutions</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creativity Outcome 10 - Creative Mindset: Score from Questionnaire</measure>
+    <time_frame>Baseline (pre-intervention) and 8 weeks (after post-MRI scan, post-intervention)</time_frame>
+    <description>The Creative Mindset scale reflects one's beliefs towards the malleability of creativity. Participants are presented with statements suggesting adoption of either a fixed mindset or a growth mindset to which participants then have to respond on a 5-point Likert scale, where 1 is 'definitely not' and 5 is 'definitely yes'. Two separate average scores of fixed and growth mindset are calculated from the 5 statements within each dimension. Higher score in fixed mindset suggests that individuals are more inclined to believe that creativity is innate and unchanging. Higher score in growth mindset suggests that individuals are more inclined to believe that creativity is malleable.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Edinburgh Handedness Inventory Score: Total handedness score</measure>
+    <time_frame>Baseline (pre-intervention)</time_frame>
+    <description>Obtained during recruitment to screen for eligibility. The Edinburgh Handedness Inventory Score measures the handedness of individuals based on their preference for using left/right hand for various activities. For each item, a laterality quotient (LQ) is scored based on individuals' response to a 5-point Likert scale - ranging from -10 (left only), -5 (left preferred), 0 (no preference), +5 (right preferred) to +10 (right only). Hence, the total possible score is -120 to +120, with more negative scores indicating higher left-handedness and more positive scores indicating higher right-handedness. As the inclusion criteria of this study, only right-handed individuals with LQ &gt; 60 are recruited.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 1 - Self-Assessment Manikin (SAM)</measure>
+    <time_frame>Daily across two weeks of intervention.</time_frame>
+    <description>Used as a control variable. This is a non-verbal pictorial assessment that measures an individual's emotional response. The original scale consists of three items rated on a nine-point scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 2 - Self-Assessment Manikin (SAM)</measure>
+    <time_frame>Four weeks from baseline, at pre-mri scan (pre-intervention)</time_frame>
+    <description>Used as a control variable. This is a non-verbal pictorial assessment that measures an individual's emotional response. The original scale consists of three items rated on a nine-point scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 3 - Self-Assessment Manikin (SAM)</measure>
+    <time_frame>Six weeks from baseline, at post-mri scan (post-intervention)</time_frame>
+    <description>Used as a control variable. This is a non-verbal pictorial assessment that measures an individual's emotional response. The original scale consists of three items rated on a nine-point scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 4 - Training Feedback: Task enjoyment level</measure>
+    <time_frame>Daily across two weeks of intervention.</time_frame>
+    <description>Used as a control variable. Participants are asked to report how enjoyable they find the training task at the end of each training session. Possible scores range from 0 (Not at all enjoyable) to 10 (Very much enjoyable). Higher scores indicate higher enjoyment level in intervention training.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 5 - Training Feedback: Task difficulty level</measure>
+    <time_frame>Daily across two weeks of intervention.</time_frame>
+    <description>Used as a control variable. Participants are asked to report how difficult they find the training task at the end of each training session. Possible scores range from 0 (Not at all difficult) to 10 (Extremely difficult). Higher scores indicate higher difficulty level of intervention training.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 6 - Patient Health Questionnaire-9 (PHQ-9): Total score</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>Used as a control variable. The PHQ-9 is an instrument whose 9 items are based on the Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) diagnostic criteria. Each of the 9 items can be scored from 0 (not at all) to 3 (nearly every day). Its validity and reliability as a diagnostic measure as well as its utility in assessing depression severity and monitoring treatment response are well-established.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 7 - Patient Health Questionnaire-9 (PHQ-9): Total score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Used as a control variable. The PHQ-9 is an instrument whose 9 items are based on the Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) diagnostic criteria. Each of the 9 items can be scored from 0 (not at all) to 3 (nearly every day). Its validity and reliability as a diagnostic measure as well as its utility in assessing depression severity and monitoring treatment response are well-established.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 8 - Generalized Anxiety Disorder-7 (GAD-7): Total score</measure>
+    <time_frame>One week before pre-MRI scan (pre-intervention)</time_frame>
+    <description>Used as a control variable. The GAD-7 items describe the most prominent diagnostic features of the Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) diagnostic criteria for Generalized Anxiety Disorder. On the GAD-7, subjects are asked how often, during the last 2 weeks, they have been bothered by 7 core symptoms of generalized anxiety disorder. Response options are &quot;not at all,&quot; &quot;several days,&quot; &quot;more than half the days,&quot; and &quot;nearly every day,&quot;.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and State Outcome 9 - Generalized Anxiety Disorder-7 (GAD-7): Total score</measure>
+    <time_frame>One week after post-MRI scan (post-intervention)</time_frame>
+    <description>Used as a control variable. The GAD-7 items describe the most prominent diagnostic features of the Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) diagnostic criteria for Generalized Anxiety Disorder. On the GAD-7, subjects are asked how often, during the last 2 weeks, they have been bothered by 7 core symptoms of generalized anxiety disorder. Response options are &quot;not at all,&quot; &quot;several days,&quot; &quot;more than half the days,&quot; and &quot;nearly every day,&quot;.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Structure Learning Training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention group will receive structure learning training that tap on their ability to extract patterns from prior stimuli presentations to make predictions. Participants will be presented with visual sequences of symbols determined by frequency statistics and upon mastery, more complex context-based statistics. No feedback will be provided and participants are trained in an adaptive manner</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Passive Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The passive control group will not receive any intervention but will receive the same pre-post cognitive-behavioural and neuroimaging intervention assessments.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Structure Learning Training</intervention_name>
+    <description>Participants will undergo 12 sessions of structure learning training lasting about 1 hour each along with 2 testing sessions interspersed within the 12 training sessions. Each session will be conducted in a remote-guided manner with an approximate 1-day gap in between sessions. The entire training will last around two weeks</description>
+    <arm_group_label>Structure Learning Training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy volunteer (male of female) between 18 and 55 years who gave written informed&#xD;
+             consent to participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current and/or prior history of learning disabilities&#xD;
+&#xD;
+          -  Current and/or prior history of neurological disorder&#xD;
+&#xD;
+          -  Current and/or prior history of psychiatric disorder&#xD;
+&#xD;
+          -  Current and/or prior history of cardiovascular disorder&#xD;
+&#xD;
+          -  Predominantly left-handed&#xD;
+&#xD;
+          -  Contraindications for MRI (e.g., pacemakers, implanted pumps, metal objects in the&#xD;
+             body)&#xD;
+&#xD;
+          -  Claustrophobic&#xD;
+&#xD;
+          -  Pregnancy (females)&#xD;
+&#xD;
+          -  Lactation (females)&#xD;
+&#xD;
+          -  Pronounced visual or auditory impairments&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Annabel Chen, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nanyang Technological University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaoqin Cheng, PhD</last_name>
+    <phone>+6596274376</phone>
+    <email>xiaoqin.cheng@ntu.edu.sg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chia-lun Liu, PhD</last_name>
+    <phone>+6582064989</phone>
+    <email>chia-lun.liu@ntu.edu.sg</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nanyang Technological University</name>
+      <address>
+        <city>Singapore</city>
+        <zip>639798</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoqin Cheng, PhD</last_name>
+      <phone>+6596274376</phone>
+      <email>xiaoqin.cheng@ntu.edu.sg</email>
+    </contact>
+    <contact_backup>
+      <last_name>Chia-lun Liu, PhD</last_name>
+      <phone>+6582064989</phone>
+      <email>chia-lun.liu@ntu.edu.sg</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Annabel Chen, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <reference>
+    <citation>Friedman NP, Miyake A. Unity and diversity of executive functions: Individual differences as a window on cognitive structure. Cortex. 2017 Jan;86:186-204. doi: 10.1016/j.cortex.2016.04.023. Epub 2016 May 10.</citation>
+    <PMID>27251123</PMID>
+  </reference>
+  <reference>
+    <citation>Dajani DR, Uddin LQ. Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends Neurosci. 2015 Sep;38(9):571-8. doi: 10.1016/j.tins.2015.07.003.</citation>
+    <PMID>26343956</PMID>
+  </reference>
+  <reference>
+    <citation>Uddin LQ. Cognitive and behavioural flexibility: neural mechanisms and clinical considerations. Nat Rev Neurosci. 2021 Mar;22(3):167-179. doi: 10.1038/s41583-021-00428-w. Epub 2021 Feb 3.</citation>
+    <PMID>33536614</PMID>
+  </reference>
+  <reference>
+    <citation>Karbach J, Kray J. How useful is executive control training? Age differences in near and far transfer of task-switching training. Dev Sci. 2009 Nov;12(6):978-90. doi: 10.1111/j.1467-7687.2009.00846.x.</citation>
+    <PMID>19840052</PMID>
+  </reference>
+  <reference>
+    <citation>Buttelmann F, Karbach J. Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front Psychol. 2017 Jun 20;8:1040. doi: 10.3389/fpsyg.2017.01040. eCollection 2017.</citation>
+    <PMID>28676784</PMID>
+  </reference>
+  <reference>
+    <citation>Kloo D, Perner J. Training transfer between card sorting and false belief understanding: helping children apply conflicting descriptions. Child Dev. 2003 Nov-Dec;74(6):1823-39. doi: 10.1046/j.1467-8624.2003.00640.x.</citation>
+    <PMID>14669898</PMID>
+  </reference>
+  <reference>
+    <citation>Wang R, Shen Y, Tino P, Welchman AE, Kourtzi Z. Learning predictive statistics from temporal sequences: Dynamics and strategies. J Vis. 2017 Oct 1;17(12):1. doi: 10.1167/17.12.1.</citation>
+    <PMID>28973111</PMID>
+  </reference>
+  <reference>
+    <citation>Wang R, Shen Y, Tino P, Welchman AE, Kourtzi Z. Learning Predictive Statistics: Strategies and Brain Mechanisms. J Neurosci. 2017 Aug 30;37(35):8412-8427. doi: 10.1523/JNEUROSCI.0144-17.2017. Epub 2017 Jul 31.</citation>
+    <PMID>28760866</PMID>
+  </reference>
+  <reference>
+    <citation>Karlaftis VM, Wang R, Shen Y, Tino P, Williams G, Welchman AE, Kourtzi Z. White-Matter Pathways for Statistical Learning of Temporal Structures. eNeuro. 2018 Jul 17;5(3):ENEURO.0382-17.2018. doi: 10.1523/ENEURO.0382-17.2018. eCollection 2018 May-Jun.</citation>
+    <PMID>30027110</PMID>
+  </reference>
+  <reference>
+    <citation>Karlaftis VM, Giorgio J, Vertes PE, Wang R, Shen Y, Tino P, Welchman AE, Kourtzi Z. Multimodal imaging of brain connectivity reveals predictors of individual decision strategy in statistical learning. Nat Hum Behav. 2019 Mar 1;3:297-307. doi: 10.1038/s41562-018-0503-4.</citation>
+    <PMID>30873437</PMID>
+  </reference>
+  <reference>
+    <citation>Giorgio J, Karlaftis VM, Wang R, Shen Y, Tino P, Welchman A, Kourtzi Z. Functional brain networks for learning predictive statistics. Cortex. 2018 Oct;107:204-219. doi: 10.1016/j.cortex.2017.08.014. Epub 2017 Aug 18.</citation>
+    <PMID>28923313</PMID>
+  </reference>
+  <reference>
+    <citation>Green CS, Bavelier D. Learning, attentional control, and action video games. Curr Biol. 2012 Mar 20;22(6):R197-206. doi: 10.1016/j.cub.2012.02.012.</citation>
+    <PMID>22440805</PMID>
+  </reference>
+  <reference>
+    <citation>Bock AM, Cartwright KB, McKnight PE, Patterson AB, Shriver AG, Leaf BM, Mohtasham MK, Vennergrund KC, Pasnak R. Patterning, Reading, and Executive Functions. Front Psychol. 2018 Sep 25;9:1802. doi: 10.3389/fpsyg.2018.01802. eCollection 2018.</citation>
+    <PMID>30319500</PMID>
+  </reference>
+  <reference>
+    <citation>Yeniad N, Malda M, Mesman J, Van IJzendoorn MH, Pieper S. Shifting ability predicts math and reading performance in children: A meta-analytical study. Learning and Individual Differences. 2013; 23:1-9.</citation>
+  </reference>
+  <reference>
+    <citation>Bock AM, Gallaway KC, Hund AM. Specifying links between executive functioning and theory of mind during middle childhood: Cognitive flexibility predicts social understanding. Journal of Cognition and Development. 2015;16(3):509-21.</citation>
+  </reference>
+  <reference>
+    <citation>Papic MM, Mulligan JT, Mitchelmore MC. Assessing the development of preschoolers' mathematical patterning. Journal for Research in Mathematics Education. 2011;42(3):237-68.</citation>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Nanyang Technological University</investigator_affiliation>
+    <investigator_full_name>SH Annabel Chen, PhD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Structure Learning</keyword>
+  <keyword>Cognitive Flexibility</keyword>
+  <keyword>Neural Activation</keyword>
+  <keyword>Intervention</keyword>
+  <keyword>Predictive statistics</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All data will be uploaded to the Centre of Lifelong Learning and Individualised Cognition (CLIC) network-attached storage (NAS) database and/or REDCAP server. Researchers may apply for access to the data.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>As soon as data collection commenced</ipd_time_frame>
+    <ipd_access_criteria>Researchers may apply for access to data</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

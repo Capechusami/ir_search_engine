@@ -1,0 +1,185 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05794776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>047/2022BO2</org_study_id>
+    <nct_id>NCT05794776</nct_id>
+  </id_info>
+  <brief_title>Effect of Spinal Cord Stimulation (SCS) on Insulin Secretion in Humans</brief_title>
+  <official_title>Effect of BurstDR and Tonic Spinal Cord Stimulation (SCS) on Glucose Metabolism in Patients With Neuropathic Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Tuebingen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Tuebingen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial investigates the effect of BurstDR and tonic spinal cord stimulation (SCS) on&#xD;
+      glucose metabolism and heart rate variability in patients with neuropathic pain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study investigates the effect of spinal cord stimulation (BurstDR stimulation versus&#xD;
+      tonic stimulation versus no stimulation) on glucose metabolism, insulin secretion and heart&#xD;
+      rate variability in patients with neuropathic pain. To assess insulin secretion,&#xD;
+      hyperglycaemic clamps are performed in 10 patients. Three different stimulation conditions&#xD;
+      (BurstDR, tonic and no stimulation) are tested in 10 hyperglycaemic clamps each. A total of&#xD;
+      30 clamps are carried out.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2023</start_date>
+  <completion_date type="Anticipated">May 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 12, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>First and second phase of insulin secretion</measure>
+    <time_frame>Insulinsecretion during clamp (2 hours)</time_frame>
+    <description>Modulation of insulin secretion by spinal cord stimulation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Root Mean Square of Successive Differences (RMSSD)</measure>
+    <time_frame>Heart rate variablity during stimulation (10 minutes)</time_frame>
+    <description>Modulation of heart rate variability by spinal cord stimulation assessed by electrocardiography</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Spinal Cord Stimulation</condition>
+  <condition>Insulin Secretion</condition>
+  <arm_group>
+    <arm_group_label>BurstDR stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BurstDR spinal cord stimulation during hyperglycemic clamp</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tonic stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tonic spinal cord stimulation during hyperglycemic clamp</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No stimulation</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>No spinal cord stimulation during hyperglycemic clamp</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>BurstDR stimulation</intervention_name>
+    <description>BurstDR spinal cord stimulation</description>
+    <arm_group_label>BurstDR stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Tonic stimulation</intervention_name>
+    <description>Tonic spinal cord stimulation</description>
+    <arm_group_label>Tonic stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>No stimulation</intervention_name>
+    <description>Stimulator is switched off</description>
+    <arm_group_label>No stimulation</arm_group_label>
+    <other_name>No spinal cord stimulation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  implanted BurstDR spinal cord stimulating system&#xD;
+&#xD;
+          -  body mass index 18-25 kg/m2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  neurological and psychatric diseases&#xD;
+&#xD;
+          -  decompensated diabetes mellitus&#xD;
+&#xD;
+          -  hemoglobin &lt; 13 g/dl&#xD;
+&#xD;
+          -  thrombocytopenia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthias Morgalla, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universitaetsklinikum Tuebingen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matthias Morgalla, Prof.</last_name>
+    <phone>07071 29 82712</phone>
+    <email>matthias.morgalla@med.uni-tuebingen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andreas Fritsche, Prof.</last_name>
+    <phone>07071 29 82712</phone>
+    <email>andreas.fritsche@med.uni-tuebingen.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Tuebingen</name>
+      <address>
+        <city>Tuebingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Fritsche, MD</last_name>
+      <phone>+49 7071 29</phone>
+      <phone_ext>82711</phone_ext>
+      <email>andreas.fritsche@med.uni-tuebingen.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Louise Fritsche, PhD</last_name>
+      <phone>+49 7071 29</phone>
+      <phone_ext>82711</phone_ext>
+      <email>louise.fritsche@med.uni-tuebingen.de</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>February 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

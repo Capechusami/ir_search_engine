@@ -1,0 +1,240 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05796726</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CINC280ADE01</org_study_id>
+    <nct_id>NCT05796726</nct_id>
+  </id_info>
+  <brief_title>Retrospective Chart Review and Historical Comparison of Capmatinib vs. Standard of Care for German Adult Patients With Locally Advanced or Metastatic Non-small Cell Lung Cancer (NSCLC) Harboring METex14 Mutations</brief_title>
+  <acronym>RECAP</acronym>
+  <official_title>Retrospective Chart Review and Historical Comparison of Capmatinib vs. Standard of Care for German Adult Patients With Locally Advanced or Metastatic NSCLC Harboring METex14 Mutations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <brief_summary>
+    <textblock>
+      The objective of the study was to compare the therapeutic benefit of capmatinib versus&#xD;
+      appropriate comparative therapy (ACT) defined by the German HTA agency G-BA for its benefit&#xD;
+      assessment of capmatinib but also versus the standard of care (SoC) practiced in German&#xD;
+      routine care. Due to its design as an adjusted, patient-level comparison, the RECAP study&#xD;
+      addresses the evidence gap due to the single-arm nature of pivotal evidence for capmatinib.&#xD;
+&#xD;
+      For this purpose, data on patients treated with ACT resp. SoC in German routine care has been&#xD;
+      collected via a retrospective chart review. This data was then used as an external control&#xD;
+      for a non-randomized, patient-level adjusted comparison with data from the GEOMETRY mono-1&#xD;
+      study of capmatinib (NCT02414139).&#xD;
+&#xD;
+      Due to the non-interventional nature of this study, the definition of endpoints as primary or&#xD;
+      secondary was omitted formally.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 10, 2021</start_date>
+  <completion_date type="Actual">March 22, 2022</completion_date>
+  <primary_completion_date type="Actual">March 22, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to an average of approximately 18 months</time_frame>
+    <description>OS was defined as time from start of treatment to death due to any cause. Per the protocol and due to the non-interventional nature of this study, outcome measures were not formally ranked as primary or secondary.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Up to an average of approximately 18 months</time_frame>
+    <description>PFS was defined as time from start of treatment to first documented disease progression or death due to any cause. Per the protocol and due to the non-interventional nature of this study, outcome measures were not formally ranked as primary or secondary.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to central nervous system (CNS) progression (CNSprog)</measure>
+    <time_frame>Up to an average of approximately 18 months</time_frame>
+    <description>For patients without brain metastases at start of treatment, CNSprog was defined as time from start of treatment to first radiologically documented brain metastases. Per the protocol and due to the non-interventional nature of this study, outcome measures were not formally ranked as primary or secondary.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>Up to an average of approximately 18 months</time_frame>
+    <description>For external control patients, ORR was defined as proportion of patients with a radiologically documented decrease in sum of tumor lesions (primary tumor and metastases). Decrease in sum of tumor lesions included complete cessation of any radiologically detectable tumor lesions.&#xD;
+For GEOMETRY mono-1 patients, ORR was defined as proportion of patients with a best overall response as complete response (CR) or partial response (PR). CR and PR were assessed per RECIST 1.1 by BIRC. Per the protocol and due to the non-interventional nature of this study, outcome measures were not formally ranked as primary or secondary.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">260</enrollment>
+  <condition>Locally Advanced or Metastatic Non-Small Cell Lung Cancer Harboring METex14 Mutations</condition>
+  <arm_group>
+    <arm_group_label>Capmatinib Patients</arm_group_label>
+    <description>Patients who received first- or second-line treatment with capmatinib in Study GEOMETRY mono-1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care Patients</arm_group_label>
+    <description>Patients who received appropriate comparative therapy (ACT) defined by the German HTA agency G-BA or standard of care (SoC) practiced in German routine care</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This was a retrospective, noninterventional cohort study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          -  NSCLC (any histology)&#xD;
+&#xD;
+               -  METex14 mutation&#xD;
+&#xD;
+               -  Epidermal Growth Factor Receptor (EGFR) wildtype&#xD;
+&#xD;
+               -  Anaplastic lymphoma kinase (ALK) rearrangement negative&#xD;
+&#xD;
+          -  Stage IV or Stage IIIB without indication for local therapy&#xD;
+&#xD;
+          -  First or second line of treatment&#xD;
+&#xD;
+          -  Age ≥18 years Exclusion criteria&#xD;
+&#xD;
+          -  Prior treatment with crizotinib, capmatinib, tepotinib or other MET inhibitors&#xD;
+&#xD;
+          -  Carcinomatous meningitis&#xD;
+&#xD;
+          -  Symptomatic brain metastases&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group Status (ECOG) &gt;1&#xD;
+&#xD;
+          -  Uncontrolled, clinically significant heart diseases&#xD;
+&#xD;
+          -  Malignant disease other than NSCLC within the past 3 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Düsseldorf</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Gießen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Köln</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>München</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Tübingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Würzburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 22, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

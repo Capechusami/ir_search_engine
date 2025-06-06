@@ -1,0 +1,506 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05628558</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022_DDAVP-HA_01</org_study_id>
+    <nct_id>NCT05628558</nct_id>
+  </id_info>
+  <brief_title>Genetic Influence of Genetic Factors Influencing the Desmopressin's Efficacy in Mild/Moderate Hemophilia A</brief_title>
+  <acronym>GIDEMHA</acronym>
+  <official_title>Retrospective, Observational and Multicenter Study of Factors Influencing the Pharmacokinetic of the Factor VIII After Intravenous Desmopressin in Patients With Moderate or Minor Hemophilia A</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Maladies hémorragiques de Bretagne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Groupe Maladies hémorragiques de Bretagne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hemophilia A (HA) is an X-linked bleeding disorder caused by mutations in the F8 gene.&#xD;
+      Bleeding in patients with moderate/mild HA can be treated with either FVIII concentrates or&#xD;
+      desmopressin (DDAVP). This drug acts as a vasopressin type 2-receptor agonist that causes&#xD;
+      endothelial cells to rapidly secrete von Willebrand factor (VWF) and factor VIII (FVIII) into&#xD;
+      the bloodstream. One advantage of DDAVP is that it increases the level of endogenous FVIII,&#xD;
+      thus avoiding the need for potentially immunogenic exogenous FVIII. It is also cheaper than&#xD;
+      FVIII concentrates. Finally, it is more widely available in pharmacies in all hospitals with&#xD;
+      emergency rooms and surgical facilities. DDAVP usually increases the basal FVIII (FVIII&#xD;
+      activity) level by 3- to 4-fold. Thus, complete correction of the FVIII level (&gt;0.5 IU.mL-1)&#xD;
+      was achieved in different series as early as 1 hour after its administration in 50-60% of&#xD;
+      patients with mild HA. Since responses to DDAVP vary widely between individuals, it is&#xD;
+      recommended that each patient undergoes a therapeutic test before treatment. Several factors&#xD;
+      influence the FVIII response to DDAVP. The two most important are basal FVIII levels and the&#xD;
+      F8 gene defect. Rare studies related to the effect of genotype on DDAVP responses, but&#xD;
+      included relatively small patient groups (&lt;100), with few patients sharing a similar&#xD;
+      genotype. As such, it has been difficult from a statistical point of view to formally&#xD;
+      demonstrate the influence of the F8 genotype on the DDAVP response.&#xD;
+&#xD;
+      The objectives of the GIDEMHA study (Genetic Influence of Desmopressin Efficacy in&#xD;
+      Mild/moderate Hemophilia A) are: description of the post-DDAVP FVIII pharmacokinetics (PK) in&#xD;
+      a large retrospective cohort of patients with mild/moderate HA, research of patients-related&#xD;
+      factors influencing this FVIII PK, and building of predictive population- and Bayesian-based&#xD;
+      models.&#xD;
+&#xD;
+      The study comprises 2 independent cohorts:&#xD;
+&#xD;
+        -  GIDEMHA-1 includes patients who had a DDAVP test from 2010 to 2020 in 4 centers. The&#xD;
+           influence of F8 variants on post-DDAVP FVIII PK is first analyzed then age, VWF level,&#xD;
+           blood group, weigh and DDAVP doses.&#xD;
+&#xD;
+        -  GIDEMHA-2 includes patients who had a DDAVP test from 2020 to 2023 in the previous 4&#xD;
+           centers (Angers, Caen, Nantes and Rennes) plus patients who had a DDAVP test from 2010&#xD;
+           to 2023 in 2 other centers (Brest and Tours). This is a replicative cohort allowing to&#xD;
+           build predictive models based on the above described influencing factors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      GIDEMHA is an observational, retrospective and multicentric clinical-biological study&#xD;
+      conducted in Hemophilia Treatment Centers (HTC) of the French Grand-Ouest interregion&#xD;
+      including HTCs of Angers, Brest, Caen, Nantes, Rennes and Tours.&#xD;
+&#xD;
+      Objectives of the GIDEMHA study are:&#xD;
+&#xD;
+        -  Description of the post-desmopressin (DDAVP) FVIII pharmacokinetics (PK) in a large&#xD;
+           retrospective cohort of patients with mild/moderate HA,&#xD;
+&#xD;
+        -  Research of patients-related factors influencing this FVIII PK,&#xD;
+&#xD;
+        -  Building of predictive population- and Bayesian-based models&#xD;
+&#xD;
+      Inclusion criteria:&#xD;
+&#xD;
+        -  Males at any ages with a mild or moderate hemophilia&#xD;
+&#xD;
+        -  Therapeutic test with DDAVP realized since 2010,&#xD;
+&#xD;
+        -  Factor VIII levels measurements realized at least 2 times during the therapeutic test,&#xD;
+           just before the DDAVP infusion and 30 or 60 minutes after,&#xD;
+&#xD;
+        -  Complete genotyping of the F8 gene for genetic diagnosis of hemophilia&#xD;
+&#xD;
+      Exclusion criteria:&#xD;
+&#xD;
+        -  Patients with an anti-factor VIII inhibitor&#xD;
+&#xD;
+        -  Refusal to participate in the study&#xD;
+&#xD;
+        -  Unable to understand the study's French letter of non-opposition and information&#xD;
+&#xD;
+      Description of the DDAVP therapeutic tests:&#xD;
+&#xD;
+      The procedure of the DDAVP therapeutic test was identical for all investigator centers as&#xD;
+      recommended by international and French guidelines. DDAVP was always administered&#xD;
+      intravenously at a dose of 0.3-0.4 μg.kg-1 diluted in 50 mL of saline solution over 30&#xD;
+      minutes. Hemostatic parameters were required to have been evaluated before and at least 30 or&#xD;
+      60 minutes after the DDAVP infusion. Subsequent measurements performed at T2h, T4h and T6h&#xD;
+      after the infusion are also recorded during the test.&#xD;
+&#xD;
+      Collected data:&#xD;
+&#xD;
+      All data collected in this study were issued from the medical files at the moment of the&#xD;
+      DDAVP therapeutic test. They include:&#xD;
+&#xD;
+        -  FVIII activity levels measured with a one-stage clotting assay from plasmas collected in&#xD;
+           0.109 M sodium citrate (fresh or stored at -80°C). These FVIII levels were measured just&#xD;
+           before and after the DDAVP infusion (until 24 hours if available).&#xD;
+&#xD;
+        -  Molecular analysis of the F8 gene.&#xD;
+&#xD;
+        -  Blood group&#xD;
+&#xD;
+        -  DDAVP doses&#xD;
+&#xD;
+        -  Von Willebrand factor levels during the DDAVP test&#xD;
+&#xD;
+        -  Age&#xD;
+&#xD;
+        -  Weight&#xD;
+&#xD;
+        -  Polymorphisms of genes influencing the FVIII clearance if available&#xD;
+&#xD;
+        -  Blood DDAVP levels after DDAVP infusions (only for patients of the HTC of Rennes and&#xD;
+           included during the last 5 years)&#xD;
+&#xD;
+      Pre/Post-DDAVP pharmacodynamic parameters The following pharmacokinetic parameters were&#xD;
+      calculated using FVIII activity versus time: basal FVIII, FVIII peak (highest level measured&#xD;
+      after DDAVP administration), FVIII recovery (recFVIII= peak FVIII / basal FVIII), FVIII&#xD;
+      half-life (FVIII T1/2) and clearance, and FVIII area under the curve (FVIII AUC). All&#xD;
+      parameter except T1/2 were estimated using non compartmental method. FVIII AUC was calculated&#xD;
+      using the trapezoidal from FVIII activity versus dosing time extrapolated to baseline, based&#xD;
+      on the last observed concentration.&#xD;
+&#xD;
+      The elimination rate constant (Ke) was calculated using one-compartment model approach with&#xD;
+      the following equation: C=C0*e(-Ke.t) where C, C0, Ke and t denote respectively, the&#xD;
+      post-DDAVP FVIII activity, peak FVIII activity, the elimination rate constant, and time after&#xD;
+      DDAVP administration. Goodness of fit statistic for the terminal elimination phase was&#xD;
+      adjusted for the number of points used in the estimation of Ke, and only those R2&gt;0.90 were&#xD;
+      conserved for further analyses. FVIII T1/2 was calculated as Ln(2)/Ke. T1/2 and AUC were&#xD;
+      calculated only if FVIII levels were measured at least at 4 different times, with basal and&#xD;
+      peak FVIII levels being available. To validate the method, the investigators carried out 2&#xD;
+      additional FVIII measurements (at 12h and 24h) in the last 10 patients enrolled. This allowed&#xD;
+      to compare the FVIII T1/2 obtained from 5 points (from T0 to T6h) with that obtained from 7&#xD;
+      points (from T0 to T24h).&#xD;
+&#xD;
+      Scores to measure the response to DDAVP&#xD;
+&#xD;
+      To qualitatively assess the biological response to DDAVP, the investigators used criteria&#xD;
+      previously reported by Stoof et al [11]:&#xD;
+&#xD;
+        -  The absolute response was either &quot;complete&quot; (peak FVIII ≥0.5 IU.mL-1), &quot;partial&quot; (FVIII&#xD;
+           ≥0.3 - &lt;0.5 IU.mL-1) or &quot;null&quot; (FVIII &lt;0.3 IU.mL-1).&#xD;
+&#xD;
+        -  The relative response was defined as &quot;complete&quot; (recFVIII &gt;3), &quot;partial&quot; (recFVIII ≥2 -&#xD;
+           &lt;3) or &quot;null&quot; (recFVIII &lt;2).&#xD;
+&#xD;
+      Two other scores, absolute duration and relative duration, were built to determine the&#xD;
+      evolution of the DDAVP response over time. They also comprised each 3 groups (short, medium&#xD;
+      and long) based on the data collected from all patients included, with at least 20% of&#xD;
+      patients per group:&#xD;
+&#xD;
+        -  The Absolute duration determined the time that the FVIII level was ≥ 0.5 IU.mL-1 after&#xD;
+           the FVIII peak. It was either &quot;short&quot; (≤3h), &quot;medium&quot; (&gt;3h - ≤6h), or &quot;long&quot; (&gt;6h).&#xD;
+&#xD;
+        -  The Relative duration corresponded to the FVIII T1/2 and was either &quot;short&quot; (≤3h),&#xD;
+           &quot;medium&quot; (&gt;3h - &lt;5h) or &quot;long&quot; (≥5h).&#xD;
+&#xD;
+      These 4 scores were determined for all patients, but statistical analyses by mutation were&#xD;
+      performed only for the so-called &quot;hot spot&quot; F8 mutations, defined as ≥5 patients having a&#xD;
+      similar gene defect.&#xD;
+&#xD;
+      Statistical analyses Descriptive characteristics were analyzed with median values, their&#xD;
+      25-75% interquartile ranges (IQR) and minimum-maximum values (MIN-MAX). Non-parametric&#xD;
+      Kruskal-Wallis and Mann-Whitney tests were used to compare continuous variables between the&#xD;
+      groups. Fisher's exact test was performed to compare proportions in contingency tables and&#xD;
+      the Odds ratio was calculated. A univariate linear logistic regression was used for the&#xD;
+      paired comparison of continuous values. Survival curves with FVIII ≥0.5 IU.mL-1 of different&#xD;
+      F8 hot spot mutations were compared by the Kaplan-Meier method. For qualitative values of AR&#xD;
+      and AD of the 4 mutation groups, positive predictive value (PPV), negative predictive value&#xD;
+      (NPV), sensibility and specificity were calculated. An approximate 95% confidence interval&#xD;
+      was determined (95% CI) for every statistical analysis and a p-value &lt;0.05 was considered&#xD;
+      statistically significant. SPSS 17.0 (SPSS Inc. Chicago, IL, USA) and GraphPad 5.0 (Prism&#xD;
+      Software Inc. San Diego CA) were used to perform the statistical analyses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Influence of different hot spot variants of the F8 gene responsible for hemophilia on the factor VIII pharmacokinetics after desmopressin infusion</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Genotyping of the F8 gene were all performed for the diagnosis of hemophilia A, so before patients inclusion in the study. They were realized with Sanger method. F8 variants will be presented according to the HGVS nomenclature and compared to the international EAHAD-F8 database. Mutations considered as hot spot mutations if they are carried by at least 5 enrolled patients.&#xD;
+All the hot spot F8 variants will be compared to all the primary outcome measures described below.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-DDAVP peak factor VIII (FVIII) levels</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Factor VIII levels were all measured with a chronometric one stage-assay, just before and after the DDAVP infusion (30 min and 1 hour).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-DDAVP recoveries of factor VIII (FVIII) levels</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Factor VIII levels were all measured with a chronometric one stage-assay, just before and after the DDAVP infusion (30 min and 1 hour).&#xD;
+Recoveries of FVIII = peak FVIII (post-DDAVP) / basal FVIII (pre-DDAVP)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-DDAVP factor VIII (FVIII) half-lives</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Factor VIII levels (in IU/mL) were all measured with a chronometric one stage-assay.&#xD;
+Half lives (in hours) will be caclulated following the formula : C=C0*e(-Ke.t) where C, C0, Ke and t denote respectively, the post-DDAVP FVIII, peak FVIII, the elimination rate constant, and time after DDAVP administration. FVIII half-lives = Ln(2)/Ke.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-DDAVP factor VIII (FVIII) area under the curve (AUC)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Factor VIII levels (in IU/mL) were all measured with a chronometric one stage-assay, just before and after the DDAVP infusion (30 min and 1 hour).&#xD;
+Half lives will be caclulated following the formula : C=C0*e(-Ke.t) where C, C0, Ke and t denote respectively, the post-DDAVP FVIII, peak FVIII, the elimination rate constant, and time after DDAVP administration. AUC (in h.IU/mL) will be determined with a trapezoidal method.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Absolute response of FVIII to DDAVP</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Absolute response is related to the height of the FVIII peak (in IU/mL). This score comprise 3 groups :&#xD;
+Null when peak FVIII &lt;0.3 IU/mL&#xD;
+Partial when 0.3 IU/mL≤ peak FVIII &lt;0.5 IU/mL&#xD;
+Complete when peak FVIII ≥0.5 IU/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Relative response of FVIII to DDAVP</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Relative response is related to the height of the FVIII recovery. This score comprise 3 groups :&#xD;
+Null when FVIII recovery &lt;2&#xD;
+Partial when 2≤ FVIII recovery &lt;3&#xD;
+Complete when FVIII recovery ≥3</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Absolute duration of FVIII to DDAVP</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The absolute duration determines the time (in hours) that the FVIII level is maintained ≥0.5 IU/mL after the FVIII peak. This score comprise 3 groups :&#xD;
+Short/null when duration &lt;3 hours&#xD;
+Medium when 3h≤ duration ≤6 hours&#xD;
+Complete when time &gt;6 hours</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Relative duration of FVIII to DDAVP</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The absolute duration is related to the FVIII half life after DDAVP. This score comprise 3 groups :&#xD;
+Short/null when FVIII half life &lt;3 hours&#xD;
+Medium when 3 hours&lt; FVIII half life &lt;5 hours&#xD;
+Complete when FVIII half life ≥6 hours</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Influence of the von Willebrand factor on the factor VIII pharmacokinetics after the desmopressin infusion</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Von Willebrand factors levels (in IU/mL) were all measured as antigenic values with immunologic method before and after DDAVP until 24h post-infusion.&#xD;
+Von Willebrand factor levels will be compared to primary outcome measures from 2 to 9.&#xD;
+This analysis will be performed at the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of age on the factor VIII pharmacokinetics after the desmopressin infusion</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Ages (in years) at the time of the desmopressin infusion will be compared to primary outcome measures from 2 to 9.&#xD;
+This analysis will be performed at the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of weight on the factor VIII pharmacokinetics after the desmopressin infusion</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Weights (in kilograms) at the time of the desmopressin infusion will be compared to primary outcome measures from 2 to 9.&#xD;
+This analysis will be performed at the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of the desmopressin dose on the factor VIII pharmacokinetics after the desmopressin infusion</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The dose of infused desmopressin (µg/Kg) will be compared to primary outcome measures from 2 to 9.&#xD;
+This analysis will be performed at the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influence of the blood group on the factor VIII pharmacokinetics after desmopressin infusion</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Blood groups will be collected in the medical files and will be compared to primary outcome measures from 2 to 9.&#xD;
+This analysis will be performed at the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphism CLEC4 on the post-DDAVP half-life of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>CLEC4 is a clearance receptor of factor VIII and von Willebrand factor. Its polymorphisms will be analyzed by sequencing with Sanger method. Results will be compared to the post-DDAVP FVIII half-life. This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of the DDAVP Cmax after its infusion on the post-DDAVP Cmax of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Measures of DDAVP level will be performed just before and after the DDAVP infusion from plasma samples systematically stocked following the standard care.&#xD;
+The Cmax of DDAVP will be compared to the post-DDAVP FVIII peak (Cmax). This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available plasmas of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphism STAT-2 on the post-DDAVP half-life of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>STAT-2 is a clearance receptor of factor VIII and von Willebrand factor. Its polymorphisms will be analyzed by sequencing with Sanger method. Results will be compared to the post-DDAVP FVIII half-life. This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphism LRP1 on the post-DDAVP half-life of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>LRP1 is a clearance receptor of factor VIII and von Willebrand factor. Its polymorphisms will be analyzed by sequencing with Sanger method. Results will be compared to the post-DDAVP FVIII half-life. This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphism LDLR on the post-DDAVP half-life of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>LDLR is a clearance receptor of factor VIII and von Willebrand factor. Its polymorphisms will be analyzed by sequencing with Sanger method. Results will be compared to the post-DDAVP FVIII half-life. This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphism STAB2 on the post-DDAVP half-life of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>LDLR is a clearance receptor of factor VIII and von Willebrand factor. Its polymorphisms will be analyzed by sequencing with Sanger method. Results will be compared to the post-DDAVP FVIII half-life. This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphisms of VWF D'-D3 domains on the post-DDAVP half-life of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>VWF D'-D3 domains are binding sites of VWF for FVIII. Its polymorphisms will be analyzed by sequencing with Sanger method. Results will be compared to the post-DDAVP FVIII half-life. This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphisms of AVPR2 on the post-DDAVP Cmax of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>AVPR2 is the main endothelial receptor of DDAVP. Its polymorphisms will be analyzed by sequencing with Sanger method. The Cmax of DDAVP will be compared to the post-DDAVP FVIII peak (Cmax). This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influence of polymorphisms of AVPR1b on the post-DDAVP Cmax of FVIII</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>AVPR1b is a receptor of DDAVP. Its polymorphisms will be analyzed by sequencing with Sanger method. The Cmax of DDAVP will be compared to the post-DDAVP FVIII peak (Cmax). This analysis will be performed after the total completion of the study with both cohorts GIDEMHA-1 and GIDEMHA-2, from the available DNA of included patients.</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Hemophilia A, Mild</condition>
+  <condition>Desmopressin</condition>
+  <condition>Factor VIII</condition>
+  <arm_group>
+    <arm_group_label>GIDEMHA-1</arm_group_label>
+    <description>First descriptive cohort of the study with patients with mild/moderate hemophilia A retrospectively enrolled for data soon recorded in medical files during the period 2010-2020 in 4 French hemophilia treatment centers (Angers, Caen, Nantes and Rennes).&#xD;
+All these patients received desmopressin with FVIII levels measurements pre/post desmopressin infusion.&#xD;
+Actual number of patients: 429</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GIDEMHA-2</arm_group_label>
+    <description>Replication cohort including patients with mild/moderate hemophilia A retrospectively enrolled for data soon recorded in medical files:&#xD;
+during the period 2020-2023 by the initial 4 hemophilia treatment centers (Angers, Caen, Nantes and Rennes)&#xD;
+during the period 2010-2023 by 2 other hemophilia treatment centers (Brest and Tours).&#xD;
+All these patients received desmopressin with FVIII levels measurements pre/post desmopressin infusion.&#xD;
+Anticipated number of patients : 371</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Desmopressin</intervention_name>
+    <description>The interventions with desmopressin recorded in this study were all realized following the internationally recommended standard care of patients with mild/moderate hemophilia A. They were all retrospectively collected. These interventions comprised:&#xD;
+An intravenous administration of desmopressin infused during 30 minutes at a dosage of 0,3-0,4 µg/Kg&#xD;
+Measurements of Factor and von Willebrand factors levels just before the desmopressin infusion and after at 30 minutes, 1 hour, 2 hours, 4 hours and for some patients 6 hours and 24 hours.&#xD;
+The F8 gene variants were also diagnosed in the standard care.</description>
+    <arm_group_label>GIDEMHA-1</arm_group_label>
+    <arm_group_label>GIDEMHA-2</arm_group_label>
+    <other_name>DDAVP</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Enrolled patients have a mild or moderate hemophilia A, had a desmopressin therapeutic test&#xD;
+        during the period 2010-2023, with factor VIII levels measurements before/after&#xD;
+        desmopressin, and had a genotyping of the F8 gene.&#xD;
+&#xD;
+        The procedure of the desmopressin therapeutic test was identical for all investigator&#xD;
+        centers. It was always administered intravenously at a dose of 0.3-0.4 μg.kg-1 diluted in&#xD;
+        50 mL of saline solution over 30 minutes. Hemostatic parameters were required to have been&#xD;
+        evaluated before and at least 30 or 60 minutes after the desmopressin infusion. Subsequent&#xD;
+        measurements performed at T2h, T4h and T6h after the infusion are also recorded during the&#xD;
+        test.&#xD;
+&#xD;
+        All the data collected in this study were issued from the medical files.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males with a mild or moderate hemophilia A,&#xD;
+&#xD;
+          -  Therapeutic test with desmopressin realized in the last 10 years,&#xD;
+&#xD;
+          -  Factor VIII levels measurements realized at least 2 times during the therapeutic test,&#xD;
+             just before the desmopressin infusion and 30 or 60 minutes after,&#xD;
+&#xD;
+          -  Complete genotyping of the F8 gene for genetic diagnosis of hemophilia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with an anti-factor VIII inhibitor&#xD;
+&#xD;
+          -  Refusal to participate in the study&#xD;
+&#xD;
+          -  Unable to understand the study's French letter of non-opposition and information&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benoît Guillet, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>CHU Rennes</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Benoît Guillet, MD</last_name>
+    <phone>33299282410</phone>
+    <email>benoit.guillet@chu-rennes.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sabrina Cochennec, CRA</last_name>
+    <phone>33299282410</phone>
+    <email>sabrina.cochennec@chu-rennes.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University hospital of Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <state>Bretagne</state>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benoît Guillet, MD PhD</last_name>
+      <phone>+33 299282410</phone>
+      <email>benoit.guillet@chu-rennes.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sabrina Cochennec, CRA</last_name>
+      <phone>+33 299289749</phone>
+      <email>sabrina.cochennec@chu-rennes.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Philippe Beurrier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brigitte Pan-Petesch, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yohann Répessé, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marc Trossaert, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Benoît Guillet, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laurent Ardillon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 28, 2022</study_first_posted>
+  <last_update_submitted>November 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemophilia A</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deamino Arginine Vasopressin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>The sharing of IPD will depend on the results obtained</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

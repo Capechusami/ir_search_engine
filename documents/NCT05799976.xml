@@ -1,0 +1,152 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799976</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RIN20230039</org_study_id>
+    <nct_id>NCT05799976</nct_id>
+  </id_info>
+  <brief_title>Text Message-Based Nudges Prior to Primary Care Visits to Increase Care Gap Closure</brief_title>
+  <official_title>A Stepped-Wedge Cluster Randomized Trial of Text Message-Based Nudges Prior to Primary Care Visits to Increase Care Gap Closure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ascension South East Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ascension South East Michigan</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary care visits are a key aspect of clinical care focused on helping patients to close&#xD;
+      care gaps related to preventive care such as vaccination, diabetes testing, statin therapy&#xD;
+      and cancer screening. However, less than 50% of care gaps are closed during these visits and&#xD;
+      new approaches are needed to prime patients for a discussion during these visits. In this&#xD;
+      study, the study team will evaluate a health system initiative that uses text messaging to&#xD;
+      patients in days preceding a primary care visit to prime patients to be amenable to ordering&#xD;
+      of vaccination, diabetes testing and cancer screening.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The United States Preventive Services Task Force has recommended tests and treatments for&#xD;
+      vaccination, diabetes testing, statin therapy, and cancer screening. These preventive&#xD;
+      services have been demonstrated to reduce illness and improve quality of care. Yet, more than&#xD;
+      50% of open care gaps go unaddressed during primary care visits.&#xD;
+&#xD;
+      Nudges are subtle changes to the way information is framed or choices are offered that can&#xD;
+      have a significant impact on behavior. In a previous randomized clinical trial, text messages&#xD;
+      sent to patients prior to primary care visits increased vaccination by up to 11% relative to&#xD;
+      control. The most effective message told patients the influenza vaccine was &quot;reserved for&#xD;
+      you,&quot; and sent two text messages to patients in the 3 days preceding a primary care&#xD;
+      appointment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">February 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This study will use a stepped-wedge cluster randomized clinical trial to evaluate a health system initiative to improve care gap closure. We will randomly assign primary care practices that use AthenaClinicals electronic health record at the following locations at Ascension's health system: Alabama-Birmingham, Kansas-Wichita, Tennessee-Nashville, Texas-Austin, and Texas-Waco. These practices will have the opportunity to opt-out from the program before randomization occurs. There will be 3 wedges. The first wedge is a 1-month pre-intervention period in which no practice is receiving the intervention. The second wedge is a 2-month period in which half of the practices from each location are receiving the intervention. The third wedge is a 2-month period in which all practices in each of the sites receive the intervention.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Care gap order rate</measure>
+    <time_frame>By the end of the day of the primary care visit</time_frame>
+    <description>The proportion of open care gaps that have a test or treatment ordered to address them</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Care gap completion rate</measure>
+    <time_frame>Within 3 months of the primary care visit</time_frame>
+    <description>The proportion of open care gaps that have a test or treatment completed to address them. Exploratory and only if data is available</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30000</enrollment>
+  <condition>Pneumonia, Pneumococcal</condition>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Breast Cancer</condition>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Text Message Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a group of primary care practices that will be randomized to have the text message intervention turned on first.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Text Message Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group of primary care practices will be randomized to have the text message intervention turned on approximately two months after the other group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Text message nudge</intervention_name>
+    <description>The text message nudge will be sent to patients 3 days and 1 day prior to a visit with the primary care practices and notify them of up to 3 care gaps based on electronic health record data. Care gaps will be selected based on availability and ranked in this order: pneumococcal vaccination, breast cancer screening, colorectal cancer screening, hemoglobin A1 testing, or statin therapy.</description>
+    <arm_group_label>Text Message Group 1</arm_group_label>
+    <arm_group_label>Text Message Group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 or older&#xD;
+&#xD;
+          -  Have documented consent to communicate electronically&#xD;
+&#xD;
+          -  Have a visit scheduled with a primary care practice&#xD;
+&#xD;
+          -  Have at least one open care gap among those in the intervention&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No phone number on file to send text messages&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mitesh Patel, MD</last_name>
+    <phone>646-580-2416</phone>
+    <email>mitesh.patel3@ascension.org</email>
+  </overall_contact>
+  <reference>
+    <citation>Milkman KL, Patel MS, Gandhi L, Graci HN, Gromet DM, Ho H, Kay JS, Lee TW, Akinola M, Beshears J, Bogard JE, Buttenheim A, Chabris CF, Chapman GB, Choi JJ, Dai H, Fox CR, Goren A, Hilchey MD, Hmurovic J, John LK, Karlan D, Kim M, Laibson D, Lamberton C, Madrian BC, Meyer MN, Modanu M, Nam J, Rogers T, Rondina R, Saccardo S, Shermohammed M, Soman D, Sparks J, Warren C, Weber M, Berman R, Evans CN, Snider CK, Tsukayama E, Van den Bulte C, Volpp KG, Duckworth AL. A megastudy of text-based nudges encouraging patients to get vaccinated at an upcoming doctor's appointment. Proc Natl Acad Sci U S A. 2021 May 18;118(20):e2101165118. doi: 10.1073/pnas.2101165118.</citation>
+    <PMID>33926993</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 22, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 4, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>April 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Pneumococcal</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Has patient information that we are not approved to share</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,173 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05614193</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AI-301</org_study_id>
+    <nct_id>NCT05614193</nct_id>
+  </id_info>
+  <brief_title>Deep Enhanced Imaging in Stroke and Vascular Neurology</brief_title>
+  <official_title>Deep Enhanced Imaging in Stroke and Vascular Neurology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese PLA General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese PLA General Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate the performance of enhanced computed tomography (CT) or magnetic resonance&#xD;
+      (MR) imaging by deep learning relative to conventional CT or MR imaging in brain stroke and&#xD;
+      vascular neurology. We expect that the deep enhanced imaging method can shorten the time stay&#xD;
+      in the imaging session of stroke patients, optimize the overall imaging quality and improve&#xD;
+      the patients' care in imaging session.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Early diagnosis of cerebral infarction, detection of ischemic penumbra, evaluation of&#xD;
+      collateral circulation and identification of vascular lesions by imaging are critical for&#xD;
+      treatment decision and outcome improvement in cerebral stroke. Multimodal computed tomography&#xD;
+      (CT) and magnetic resonance (MR) imaging are most prevalent and accessible approaches in&#xD;
+      clinical scenarios. These two approaches are downgraded either by radiation exposure or long&#xD;
+      scanning time which may hinder the rapid treatment for patients. Deep learning has shown&#xD;
+      substantial achievements in medical imaging enhancement. The added value of deep learning&#xD;
+      method in stroke and vascular neurology has not been thoroughly validated. In this study, we&#xD;
+      aimed to investigate the performance of enhanced computed tomography (CT) or magnetic&#xD;
+      resonance (MR) imaging by deep learning relative to conventional CT or MR imaging in brain&#xD;
+      stroke and vascular neurology. We expect that the deep enhanced imaging method can shorten&#xD;
+      the time stay in the imaging session of stroke patients, optimize the overall imaging quality&#xD;
+      and improve the patients' care in imaging session.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The performance of deep enhanced imaging in lesion detection and diagnosis</measure>
+    <time_frame>1 year</time_frame>
+    <description>The performance of deep enhanced imaging in lesion detection and diagnosis, including imaging quality, accuracy, sensitivity and specificity in lesion detection and imaging diagnosis.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Radiology</condition>
+  <condition>Cerebral Stroke</condition>
+  <condition>Vascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Imaging group</arm_group_label>
+    <description>Participants with suspecting brain stroke or vascular lesion conducted conventional CT or MR imaging and deep enhanced imaging.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Deep learning imaging enhancement</intervention_name>
+    <description>Conventional imaging or down-sampling imaging from CT or MR are enhanced by approved deep learning method.</description>
+    <arm_group_label>Imaging group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients have experienced stroke or cerebral ischemia and undergone brain imaging and&#xD;
+        vascular imaging.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  suspecting to have experienced stroke or cerebral ischemia and needed to undergo brain&#xD;
+             imaging and vascular imaging including CT or MRI&#xD;
+&#xD;
+          -  no history of kidney failure&#xD;
+&#xD;
+          -  a minimum age of 18 years&#xD;
+&#xD;
+          -  obtained written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  severe movement artifacts&#xD;
+&#xD;
+          -  incidental finding of tumor lesion or craniocerebral surgery history&#xD;
+&#xD;
+          -  poor imaging failed to perform deep learning method&#xD;
+&#xD;
+          -  women who pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lou Xin</last_name>
+    <role>Study Chair</role>
+    <affiliation>Chinese PLA General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jinhao Lyu</last_name>
+    <phone>+8615903562929</phone>
+    <email>330322990@qq.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chinese PLA General Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100853</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jinhao Lyu, MD</last_name>
+      <email>330322990@qq.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 5, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese PLA General Hospital</investigator_affiliation>
+    <investigator_full_name>Xin Lou</investigator_full_name>
+    <investigator_title>Chairman</investigator_title>
+  </responsible_party>
+  <keyword>Deep learning</keyword>
+  <keyword>Medical imaging</keyword>
+  <keyword>Cerebral stroke</keyword>
+  <keyword>Cerebrovascular disease</keyword>
+  <keyword>Vascular imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

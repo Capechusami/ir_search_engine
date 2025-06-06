@@ -1,0 +1,305 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078255</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U1111-1259-1491</org_study_id>
+    <nct_id>NCT05078255</nct_id>
+  </id_info>
+  <brief_title>The Separate and Combined Effects of Long-term GIP and GLP-1 Receptor Activation in Patients With Type 2 Diabetes</brief_title>
+  <official_title>The Separate and Combined Effects of Long-term GIP and GLP-1 Receptor Activation in Patients With Type 2 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Filip Krag Knop</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Gentofte, Copenhagen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Due to reports of a severely reduced insulinotropic effect of the incretin hormone&#xD;
+      glucose-dependent insulinotropic polypeptide (GIP) in type 2 diabetes (T2D), GIP has not been&#xD;
+      considered therapeutically viable in T2D. Recently, however, tirzepatide, a novel dual&#xD;
+      incretin receptor agonist (activating both the GIP receptor and the glucagon-like peptide 1&#xD;
+      (GLP-1) receptor) demonstrated massive improvements in glycaemic control and robust body&#xD;
+      weight losses; greater than observed with the GLP-1 receptor agonist semaglutide. However,&#xD;
+      the contribution of GIP receptor activation to these effects remains unknown. The present&#xD;
+      study will evaluate the glucose-lowering effect of GIP in the context of pharmacological&#xD;
+      GLP-1 receptor activation in patients with T2D.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 27, 2022</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean glucose levels (assessed by blinded continuous glucose monitoring (CGM))</measure>
+    <time_frame>14-day mean glucose levels during the last 14 days of the intervention period as compared to 14-day mean glucose levels during the last 14 days of the run-in period.</time_frame>
+    <description>The primary outcome is change in 14-day mean glucose levels (assessed by CGM) during the last 14 days of the intervention period as compared to 14-day mean glucose levels during the last 14 days of the run-in period.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>placebo injections + placebo infusion</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Semaglutide 1.34 mg/ml injections + GIP infusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo injections + GIP infusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Semaglutide 1.34 mg/ml injections + placebo infusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Semaglutide 1.34 MG/ML [Ozempic]</intervention_name>
+    <description>Semaglutide 1.34 mg/ml</description>
+    <arm_group_label>Semaglutide 1.34 mg/ml injections + GIP infusion</arm_group_label>
+    <arm_group_label>Semaglutide 1.34 mg/ml injections + placebo infusion</arm_group_label>
+    <other_name>Glucose-dependent insulinotropic polypeptide (GIP)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glucose-dependent insulinotropic polypeptide (GIP)</intervention_name>
+    <description>GIP</description>
+    <arm_group_label>Semaglutide 1.34 mg/ml injections + GIP infusion</arm_group_label>
+    <arm_group_label>placebo injections + GIP infusion</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Semaglutide 1.34 mg/ml placebo</intervention_name>
+    <description>Saline</description>
+    <arm_group_label>placebo injections + GIP infusion</arm_group_label>
+    <arm_group_label>placebo injections + placebo infusion</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>GIP placebo</intervention_name>
+    <description>Saline</description>
+    <arm_group_label>Semaglutide 1.34 mg/ml injections + placebo infusion</arm_group_label>
+    <arm_group_label>placebo injections + placebo infusion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent obtained before any trial-related activities. Trial-related&#xD;
+             activities are any procedures that are carried out as part of the trial, including&#xD;
+             activities to determine suitability for the trial&#xD;
+&#xD;
+          2. Men and women 18 to 74 years of age (both inclusive) at the time of signing informed&#xD;
+             consent&#xD;
+&#xD;
+          3. Diagnosed with type 2 diabetes for at least six months&#xD;
+&#xD;
+               1. Treated with diet and exercise and/or stable metformin and/or sodium-glucose&#xD;
+                  cotransporter 2 (SGLT-2) inhibitor and/or dipeptidyl-peptidase 4 inhibitor&#xD;
+                  (DPP-4i) and/or sulfonylureas (SU) treatment for at least 3 months If treated&#xD;
+                  with DPP-4i and/or SU, this treatment must be paused for 14 days prior to first&#xD;
+                  CGM period in the trial&#xD;
+&#xD;
+               2. HbA1c ≥48 to ≤91 mmol/mol&#xD;
+&#xD;
+          4. BMI ≥25 to ≤50 kg/m2&#xD;
+&#xD;
+          5. Stable body weight (less than 3 kg self-reported change during the previous 90 days)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        For an eligible participant, all exclusion criteria must be answered &quot;no&quot;.&#xD;
+&#xD;
+          1. Diagnosed with type 1 diabetes&#xD;
+&#xD;
+          2. Known or suspected hypersensitivity to trial product or related products&#xD;
+&#xD;
+          3. Acute decompensation of glycaemic control requiring immediate intensification of&#xD;
+             treatment to prevent acute complications of diabetes (e.g. diabetes ketoacidosis)&#xD;
+             which required help from doctor or hospitalisation within 90 days prior to screening&#xD;
+&#xD;
+          4. Previous participation in this trial. Participation is defined as signed informed&#xD;
+             consent. Participation is allowed if the protocol is updated to a newer version&#xD;
+&#xD;
+          5. Participation in another clinical trial within 90 days before screening&#xD;
+&#xD;
+          6. Woman who are pregnant, breast-feeding or intends to become pregnant or is of&#xD;
+             child-bearing potential and not using adequate contraceptive methods (intrauterine&#xD;
+             devices or hormonal contraception (oral contraceptive pills, implants, transdermal&#xD;
+             patches, vaginal rings or long-acting injections))&#xD;
+&#xD;
+          7. If previously treated with GLP-1RA, information about the time and reason for stopping&#xD;
+             will be collected. Based upon this, the eligibility will be judged by the investigator&#xD;
+&#xD;
+          8. Participation in an organised weight reduction programme within 3 months before&#xD;
+             screening&#xD;
+&#xD;
+          9. Any disorder which in the investigator's opinion might jeopardise participant's safety&#xD;
+             or compliance with the protocol&#xD;
+&#xD;
+         10. Anticipated change in lifestyle (e.g. smoking, eating or exercise pattern) during the&#xD;
+             trial&#xD;
+&#xD;
+         11. Any laboratory safety parameter at screening outside the below extended laboratory&#xD;
+             ranges, see laboratory manual for specific values&#xD;
+&#xD;
+               -  Albumin outside lower normal limit (LNL) -5% and upper normal limit (UNL) +5%&#xD;
+&#xD;
+               -  Alanine aminotransferase (ALT) outside LNL -100% and UNL +50%&#xD;
+&#xD;
+               -  Creatinine outside UNL +10%&#xD;
+&#xD;
+               -  Haemoglobin outside LNL -5% and UNL +10%&#xD;
+&#xD;
+               -  Leukocytes outside LNL -20% and UNL +20%&#xD;
+&#xD;
+               -  Thrombocytes outside LNL -15% and UNL +15%&#xD;
+&#xD;
+               -  Bilirubin (total) outside UNL +15%&#xD;
+&#xD;
+               -  Amylase ≥ UNL +100%&#xD;
+&#xD;
+         12. Untreated or uncontrolled hypothyroidism/hyperthyroidism defined as&#xD;
+             thyroid-stimulating hormone (TSH) &lt;0.4 mIU/L or &gt; 6 mIU/L&#xD;
+&#xD;
+         13. Obesity related to endocrinologic disorders (e.g. Cushing Syndrome)&#xD;
+&#xD;
+         14. Any blood draw in excess of 25 mL in the past month, or donation of blood or plasma in&#xD;
+             excess of 400 mL within the 90 days preceding screening&#xD;
+&#xD;
+         15. Use of any prescription or non-prescription medication (apart from oral&#xD;
+             contraceptives, routine vitamins, occasional use of paracetamol, acetylsalicylic acid,&#xD;
+             or ibuprofen) which could interfere with pharmacokinetic or pharmacodynamic results,&#xD;
+             as judged by the investigator, such as:&#xD;
+&#xD;
+               -  herbal products and non-routine vitamins&#xD;
+&#xD;
+               -  Glucose lowering medication (except metformin)&#xD;
+&#xD;
+               -  medication that may cause weight gain, including systemic corticosteroids,&#xD;
+                  tricyclic antidepressants, and atypical antipsychotics&#xD;
+&#xD;
+               -  orlistat, zonisamide, topiramate, phentermine, lorcaserin, bupropion, naltrexone&#xD;
+                  or other weight loss drugs&#xD;
+&#xD;
+               -  Blood pressure and lipid lowering agents (e.g. statins) drugs are allowed if&#xD;
+                  treatment has been stable for ≥ 1 month prior to screening and treatment should&#xD;
+                  preferably be kept unchanged during the trial&#xD;
+&#xD;
+         16. Personal or family history of medullary thyroid carcinoma or multiple endocrine&#xD;
+             neoplasia type 2&#xD;
+&#xD;
+         17. History of pancreatitis (acute or chronic)&#xD;
+&#xD;
+         18. History of major depressive disorder or other severe psychiatric disorders, e.g.&#xD;
+             schizophrenia or bipolar disorder within the last 2 years or lifetime history of&#xD;
+             suicide attempt&#xD;
+&#xD;
+         19. Surgery scheduled for the trial duration period, except for minor,&#xD;
+             non-gastrointestinal surgical procedures at the discretion of the investigator&#xD;
+&#xD;
+         20. Sitting blood pressure (after resting for at least 5 minutes) ≥160 mmHg systolic or ≥&#xD;
+             100 mmHg diastolic or heart rate of ≥ 90 beats/min after resting for at least 5&#xD;
+             minutes (if white-coat hypertension is suspected, one repeat measurement is allowed;&#xD;
+             last measure being conclusive and to be recorded in the case report form (CRF))&#xD;
+&#xD;
+         21. Cancer (past or present, except basal cell skin cancer or squamous cell skin cancer),&#xD;
+             which in the investigator's opinion could interfere with the results of the trial&#xD;
+&#xD;
+         22. Known or suspected alcohol abuse within 1 year from screening (defined as regular&#xD;
+             intake of more than 14 units weekly for men and 7 units weekly for women - one unit of&#xD;
+             alcohol equals about 300 mL of beer or lager, one glass (100 ml) of wine, or 25 ml&#xD;
+             spirits) or a positive result of an alcohol test&#xD;
+&#xD;
+         23. Known or suspected drug/chemical substance abuse within 1 year from screening&#xD;
+&#xD;
+         24. Inability or unwillingness to perform self-injection at the screening visit (with a&#xD;
+             placebo test pen)&#xD;
+&#xD;
+         25. Mental incapacity, language barriers or unwillingness to comply with the requirements&#xD;
+             of the protocol, which may preclude adequate understanding or co-operation during the&#xD;
+             trial, as judged by the investigator&#xD;
+&#xD;
+         26. Investigator, any sub-investigators, research assistants, pharmacist, trial&#xD;
+             coordinators, other staff, sponsor staff or relatives thereof directly or indirectly&#xD;
+             involved in the conduct of the trial cannot participate in the trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mads M Helsted, MD</last_name>
+    <phone>+4538673801</phone>
+    <email>mads.marstrand.helsted@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Center for Clinical Metabolic Research, Gentofte Hospital</name>
+      <address>
+        <city>Hellerup</city>
+        <state>Capital Region</state>
+        <zip>DK-2900</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mads M Helsted, MD</last_name>
+      <email>mhel0071@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Gentofte, Copenhagen</investigator_affiliation>
+    <investigator_full_name>Filip Krag Knop</investigator_full_name>
+    <investigator_title>Professor, MD PhD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gastric Inhibitory Polypeptide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

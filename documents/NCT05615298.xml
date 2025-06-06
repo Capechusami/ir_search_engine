@@ -1,0 +1,157 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615298</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LUN_MMG_121</org_study_id>
+    <nct_id>NCT05615298</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Effectiveness of Investigational Device in the Assistance of Detection and Diagnosis of Breast Cancer</brief_title>
+  <official_title>Multi-reader, Multi-case, Observer-blind, Retrospective, Pivotal Study to Evaluate Effectiveness of Investigational Device in the Assistance of Detection and Diagnosis of Breast Cancer During Screening Mammography Interpretation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lunit Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lunit Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate Effectiveness of Investigational Device, Lunit INSIGHT MMG, in&#xD;
+      the assistance of Detection and Diagnosis of Breast Cancer during Screening Mammography&#xD;
+      Interpretation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Lunit INSIGHT MMG is developed as a computer-assisted detection/diagnosis device based on&#xD;
+      deep learning technology. In this pivotal study, effectiveness of the investigational device,&#xD;
+      Lunit INSIGHT MMG, was examined by comparing the reading panelist's interpretation ability&#xD;
+      between CAD assisted and unassisted during screening mammography interpretation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 15, 2020</start_date>
+  <completion_date type="Actual">January 13, 2021</completion_date>
+  <primary_completion_date type="Actual">January 13, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient-level FBR (forced BI-RADS) area under the Receiver Operating Characteristic (ROC) curve</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+    <description>Patient-level FBR (forced BI-RADS) area under the Receiver Operating Characteristic (ROC) curve to measure the effectiveness of Investigational Device between CAD assited and unassisted environment</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">240</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cancer</arm_group_label>
+    <description>Negative image data: Has been interpreted as negative in screening mammograms&#xD;
+Benign image data: Has a suspicious lesion for breast cancer in screening mammograms but confirmed as a benign through the follow-up biopsy or has been interpreted as a benign in screening mammograms and confirmed as a benign in the further diagnostic images taken after at least two years from the screening mammograms.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-cancer</arm_group_label>
+    <description>Has a suspicious lesion for breast cancer in screening mammograms and confirmed as a cancer (malignant) through the follow-up biopsy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Mammography</intervention_name>
+    <description>FFDM (Full-Field Digital mammography)</description>
+    <arm_group_label>Cancer</arm_group_label>
+    <arm_group_label>Non-cancer</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Screenign Mammography Population&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Any ethnic origin&#xD;
+&#xD;
+          -  Acquired with devices from two manufacturers: Hologic and GE&#xD;
+&#xD;
+          -  4 views (RMLO, LMLO, RCC, LCC) images of FFDM (Full-Field Digital mammography)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous core needle biopsy in breast for past 2 years&#xD;
+&#xD;
+          -  Previous vacuum-assisted biopsy, surgical biopsy or surgery in breast&#xD;
+&#xD;
+          -  Previous breast cancer&#xD;
+&#xD;
+          -  Lactating when taking screening mammograms&#xD;
+&#xD;
+          -  Presence of a breast implant in screening mammograms&#xD;
+&#xD;
+          -  Presence of a pacemaker in screening mammograms&#xD;
+&#xD;
+          -  Inadequate quality status such as insufficient anatomical coverage of screening&#xD;
+             mammograms&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gregg Miller, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Atrius Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Atrius Health</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

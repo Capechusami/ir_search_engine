@@ -1,0 +1,269 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JD-LK-2022-151-01</org_study_id>
+    <nct_id>NCT05790447</nct_id>
+  </id_info>
+  <brief_title>Thymalfasin-based PRaG Mode for Advanced Refractory Solid Tumors</brief_title>
+  <official_title>Treatment of Advanced Refractory Solid Tumors Based on Precise Thymalfasin-regulated PRaG Mode: an Open-label, Prospective, Multicenter Study (PRaG 5.0 Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital of Soochow University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>SciClone Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Second Affiliated Hospital of Soochow University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, single-arm, Phase II investigator-initiated trial of precise&#xD;
+      thymalfasin-regulated therapy combined with hypofractionated radiotherapy, PD-1/PD-L1&#xD;
+      inhibitor sequential GM-CSF for treatment of advanced refractory solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      One cycle of activation cycle includes： Loading dose with thymalfasin was administrated based&#xD;
+      on the absolute number of T lymphocytes.&#xD;
+&#xD;
+      Radiotherapy (5 or 8Gy three fractions)was administrated to a metastatic lesion.&#xD;
+&#xD;
+      GM-CSF 200ug was subcutaneous injected for seven days from the first day of radiotherapy&#xD;
+      PD-1/L1 inhibitor was intravenous injected within one week after radiotherapy.&#xD;
+&#xD;
+      At least two activation cycles were administrated. Then maintenance treatment includes：&#xD;
+      Loading dose with thymalfasin was administrated based on the absolute number of T&#xD;
+      lymphocytes.&#xD;
+&#xD;
+      GM-CSF 200ug was subcutaneous injected for seven days. PD-1/L1 inhibitor was intravenous&#xD;
+      injected.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>24 months</time_frame>
+    <description>ORR is defined as the proportion of patients who have a partial (PR) or complete response (CR) to therapy among the total number of evaluable patients.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>24 months</time_frame>
+    <description>the percentage of patients who have achieved complete response (CR), partial response (PR) and stable disease (SD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>24 months</time_frame>
+    <description>The time from commencement of treatment to disease progression or death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>24 months</time_frame>
+    <description>The time from the first day of enrollment to death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>24 months</time_frame>
+    <description>the rate of AE</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Advanced Solid Tumor</condition>
+  <condition>Refractory Tumor</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A treatment cycle includes:&#xD;
+Loading dose with thymalfasin was administrated based on the absolute number of T lymphocytes.&#xD;
+Radiotherapy (5 or 8Gy three fractions)was administrated to a metastatic lesion GM-CSF 200ug was subcutaneous injected for seven days from the first day of radiotherapy PD-1/L1 inhibitor was intravenous injected within one week after radiotherapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Thymalfasin</intervention_name>
+    <description>loading dose with thymalfasin based on the amounts of T lymphocyte</description>
+    <arm_group_label>Intervention group</arm_group_label>
+    <other_name>Thymosin alpha-1</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy</intervention_name>
+    <description>hypofractionated radiotherapy/SBRT</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PD-1/PD-L1 inhibitor</intervention_name>
+    <description>The PD-1/PD-L1 inhibitors are used within one week after radiotherapy</description>
+    <arm_group_label>Intervention group</arm_group_label>
+    <other_name>PD-1/PD-L1 antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GM-CSF</intervention_name>
+    <description>subcutaneous injection daily for 7 consecutive days</description>
+    <arm_group_label>Intervention group</arm_group_label>
+    <other_name>:Recombinant Human Granulocyte/Macrophage Colony-stimulating Factor for Injection</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects aged≥ 18 years;&#xD;
+&#xD;
+          2. Enrolled subjects who shall meet the criteria of recurrent or metastatic advanced&#xD;
+             solid malignant tumors, have a definite pathology diagnosis report or medical history,&#xD;
+             without definitely recommended standard treatment regimen in the guidelines, and&#xD;
+             cannot tolerate or are unwilling to receive the standard treatment regimen, and have&#xD;
+             clear, measurable metastatic lesions (&gt;1cm);&#xD;
+&#xD;
+          3. Subjects who have not suffered from congestive heart failure, unstable angina, or&#xD;
+             unstable arrhythmia in the past 6 months;&#xD;
+&#xD;
+          4. Subjects who have the ECOG (Eastern Cooperative Oncology Group) performance status&#xD;
+             score of 0-3 and the life expectancy≥3 months;&#xD;
+&#xD;
+          5. Subjects who have no serious abnormalities of hematopoietic functions, heart, lung,&#xD;
+             liver, kidney functions, or immune deficiency in the past;&#xD;
+&#xD;
+          6. Subjects whose AST and ALT levels are ≤3.0 times the upper limit of normal (≤5.0 times&#xD;
+             the upper limit of normal for patients with liver cancer/metastasis liver carcinoma),&#xD;
+             and creatinine level is ≤3.0 times the upper limit of normal one week before&#xD;
+             enrollment.&#xD;
+&#xD;
+          7. Subjects who shall have the ability to understand and voluntarily sign the informed&#xD;
+             consent forms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant or lactating women.&#xD;
+&#xD;
+          2. Subjects who have a history of other malignant diseases in the last 5 years, expect&#xD;
+             for：malignancies that can be cured after treatment (including but not limited to&#xD;
+             adequately treated thyroid cancer, cervical carcinoma in situ, basal or squamous cell&#xD;
+             skin cancer).&#xD;
+&#xD;
+          3. Subjects who have a history of uncontrolled epilepsy, CNS disease or mental disorder.&#xD;
+&#xD;
+          4. Subjects with clinically severe (active) cardiac disease such as symptomatic coronary&#xD;
+             heart disease, NYHA Class II or worse congestive heart failure, or severe arrhythmias&#xD;
+             requiring medical intervention, or a history of myocardial infarction within the last&#xD;
+             12 months.&#xD;
+&#xD;
+          5. Subjects who require immunosuppressive therapy for organ transplantation.&#xD;
+&#xD;
+          6. Subjects with known significant active infection or significant disorders of blood,&#xD;
+             kidney, metabolism, gastrointestinal, endocrine functions or metabolisms as judged by&#xD;
+             the Investigator, or other severe, uncontrolled concomitant diseases.&#xD;
+&#xD;
+          7. Subjects who are allergic to any ingredient of the investigational drug.&#xD;
+&#xD;
+          8. Subjects who have a medical history of immunodeficiency, including HIV-positive or&#xD;
+             other acquired or congenital immunodeficiency diseases, or those with a history of&#xD;
+             organ transplantation, or those with other immune-related diseases requiring long-term&#xD;
+             oral hormone therapy.&#xD;
+&#xD;
+          9. Subjects who are in the stage of acute and chronic tuberculosis infections (positive&#xD;
+             result of T-spot test, with suspected tuberculous lesions on chest X-ray).&#xD;
+&#xD;
+         10. Other conditions that are not suitable for enrollment in the Investigator's opinions.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Liyuan Zhang</last_name>
+    <phone>0512-67784829</phone>
+    <email>zhangliyuan126@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of SchoowUniversity</name>
+      <address>
+        <city>Suzhou</city>
+        <zip>215004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liyuan Zhang</last_name>
+      <phone>+8613375183257</phone>
+      <email>kkyuehong@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Liyuan Zhang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kong Y, Zhao X, Xu M, Pan J, Ma Y, Zou L, Peng Q, Zhang J, Su C, Xu Z, Zhou W, Peng Y, Yang J, Zhou C, Li Y, Guo Q, Chen G, Wu H, Xing P, Zhang L. PD-1 Inhibitor Combined With Radiotherapy and GM-CSF (PRaG) in Patients With Metastatic Solid Tumors: An Open-Label Phase II Study. Front Immunol. 2022 Jul 8;13:952066. doi: 10.3389/fimmu.2022.952066. eCollection 2022.</citation>
+    <PMID>35874780</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Giacomini E, Severa M, Cruciani M, Etna MP, Rizzo F, Pardini M, Scagnolari C, Garaci E, Coccia EM. Dual effect of Thymosin alpha 1 on human monocyte-derived dendritic cell in vitro stimulated with viral and bacterial toll-like receptor agonists. Expert Opin Biol Ther. 2015;15 Suppl 1:S59-70. doi: 10.1517/14712598.2015.1019460. Epub 2015 Jun 22.</citation>
+    <PMID>26096650</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schulof RS, Lloyd MJ, Cleary PA, Palaszynski SR, Mai DA, Cox JW Jr, Alabaster O, Goldstein AL. A randomized trial to evaluate the immunorestorative properties of synthetic thymosin-alpha 1 in patients with lung cancer. J Biol Response Mod. 1985 Apr;4(2):147-58.</citation>
+    <PMID>3998766</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu F, Qiu B, Xi Y, Luo Y, Luo Q, Wu Y, Chen N, Zhou R, Guo J, Wu Q, Xiong M, Liu H. Efficacy of Thymosin alpha1 in Management of Radiation Pneumonitis in Patients With Locally Advanced Non-Small Cell Lung Cancer Treated With Concurrent Chemoradiotherapy: A Phase 2 Clinical Trial (GASTO-1043). Int J Radiat Oncol Biol Phys. 2022 Nov 1;114(3):433-443. doi: 10.1016/j.ijrobp.2022.07.009. Epub 2022 Jul 21.</citation>
+    <PMID>35870709</PMID>
+  </results_reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immune Checkpoint Inhibitors</mesh_term>
+    <mesh_term>Thymalfasin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

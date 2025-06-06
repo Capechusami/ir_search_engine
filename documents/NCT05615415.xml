@@ -1,0 +1,306 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05615415</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-00945</org_study_id>
+    <nct_id>NCT05615415</nct_id>
+  </id_info>
+  <brief_title>Neuropsychiatric Post-Acute Sequelae of SARS-CoV-2 (PASC) Using TSPO Positron Emission Tomography (PET) and MRI</brief_title>
+  <official_title>Assessment of Immunological and Vascular Dysfunction in Neuropsychiatric Post-Acute Sequelae of SARS-CoV-2 (PASC) Using TSPO PET and MRI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this study is to develop PET/MR techniques for the diagnosis of&#xD;
+      neuropsychiatric post-acute sequelae (PASC) of SARS-CoV-2. The central hypothesis is that&#xD;
+      immunological and cerebrovascular dysfunction after acute SARS-CoV-2 infections mediate&#xD;
+      neuropsychiatric PASC (NP-PASC).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Level of Translocator Protein (TSPO)</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Binding of PET tracer to TSPO.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of Microhemorrhages</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Evaluated using MRI images (Susceptibility Weighted MRI (SWI), Fluid Attenuated Inversion Recovery (FLAIR), Diffusion Weighted Imaging (DWI), and anatomical MRI).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Permeability Surface Area Product (PS)</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Used to evaluate disruptions in the blood-brain-barrier. Derived from the DCE-MRI.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cerebral Blood Flow</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Evaluated using cerebral blood flow maps from Arterial Spin Labeling (ASL).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peripheral Levels of Pro-Inflammatory Cytokines</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Evaluated using blood samples.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peripheral Levels of High-Sensitivity C-reactive Protein (hs-CRP)</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Evaluated using blood samples.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CSF Levels of Pro-Inflammatory Cytokines</measure>
+    <time_frame>CSF Visit (Screening) (Optional)</time_frame>
+    <description>Evaluated using cerebrospinal fluid collection (optional procedure).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CSF Levels of High-Sensitivity C-reactive Protein (hs-CRP)</measure>
+    <time_frame>CSF Visit (Screening) (Optional)</time_frame>
+    <description>Evaluated using cerebrospinal fluid collection (optional procedure).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Free Diffusing Water Fraction</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Calculated using DWI.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Extra-Axonal Water Fraction</measure>
+    <time_frame>PET/MR Visit (Day 1)</time_frame>
+    <description>Calculated using DWI.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Neuropsychiatric Post-Acute Sequelae of SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>NP-PASC (neuropsychiatric post-acute sequelae of SARS-CoV-2)</arm_group_label>
+    <description>Individuals with new onset a) cognitive and/or b) psychiatric symptoms following SARS-CoV-2 infection. Participants will undergo PET/MR scanning, during which a TSPO PET tracer and a Gadolinium-based MRI tracer will be administered intravenously and blood samples will be collected from an arterial line. In addition, blood samples will be taken at screening. Participants can elect to provide an optional cerebrospinal fluid (CSF) sample.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CC (COVID Control)</arm_group_label>
+    <description>Individuals with a history of SARS-CoV-2 infection who do not meet the criteria for any DSM-5 diagnosis and perform within normal limits on cognitive tests. Participants will undergo PET/MR scanning, during which a TSPO PET tracer and a Gadolinium-based MRI tracer will be administered intravenously and blood samples will be collected from an arterial line. In addition, blood samples will be taken at screening. Participants can elect to provide an optional cerebrospinal fluid (CSF) sample.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PET Tracer</intervention_name>
+    <description>Standard radiopharmaceutical injected via intravenous catheter during PET-MR scanning.</description>
+    <arm_group_label>CC (COVID Control)</arm_group_label>
+    <arm_group_label>NP-PASC (neuropsychiatric post-acute sequelae of SARS-CoV-2)</arm_group_label>
+    <other_name>C11-ER176</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MRI Tracer</intervention_name>
+    <description>Injected via intravenous catheter during PET-MR scanning.</description>
+    <arm_group_label>CC (COVID Control)</arm_group_label>
+    <arm_group_label>NP-PASC (neuropsychiatric post-acute sequelae of SARS-CoV-2)</arm_group_label>
+    <other_name>Gadolinium-Based Contrast Agent (GBCA)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>3T PET/MRI</intervention_name>
+    <description>Used to evaluate neuroinflammation and cerebrovascular measures. Some MRI image acquisitions will employ work in progress (WIP) sequences, including ASL (Arterial Spin Labeling), Diffusion and T2-weighted EPI (DT2W), Golden-angle radial sparse parallel (GRASP) DCE-MRI, and Magnetization Transfer (MT) imaging.</description>
+    <arm_group_label>CC (COVID Control)</arm_group_label>
+    <arm_group_label>NP-PASC (neuropsychiatric post-acute sequelae of SARS-CoV-2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population will include neuropsychiatric PASC patients, as well as patients with a&#xD;
+        history of SARS-CoV-2 but no NP-PASC. Potential participants may be directly identified,&#xD;
+        referred through the ongoing PASC projects at NYU Neurology, identified by the NYU&#xD;
+        Radiology research coordinators, or recruited via ads. Recruitment will strive to match the&#xD;
+        two groups in age, sex and BMI.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Neuropsychiatric symptoms are defined as respectively a) objective cognitive&#xD;
+             dysfunction on bedside cognitive testing (ACE-III (Addenbrooke's Cognitive Examination&#xD;
+             III) =&lt; 86/100, at least 12th grade educational level), and/or b) anxiety, depression&#xD;
+             or psychotic illness as indicated by the DSM-5 diagnostic criteria, evaluated with the&#xD;
+             MINI (Mini International Psychiatric Interview) or SCID-5 (Structured Clinical&#xD;
+             Interview for DSM-5 Disorders, Research Version). It is expected some patients may&#xD;
+             fall into both categories (cognitive and psychiatric complications), in which case&#xD;
+             they will be included in this study.&#xD;
+&#xD;
+          -  Infection with SARS-CoV-2 (3-12 months before study) will be verified based on&#xD;
+             positive PCR test results provided by the NYU EMR or subject records. We will further&#xD;
+             record the clinical history and perform nucleoprotein- and spike-antibody testing.&#xD;
+             Anecdotal evidence shows that anti-nucleoprotein and anti-spike tests will be positive&#xD;
+             in individuals who had past SARS-CoV-2 infection, but only anti-spike tests will be&#xD;
+             positive in individuals who were vaccinated but did not have past infection, unless&#xD;
+             the infected individual has already lost the antibodies due to natural infection .&#xD;
+&#xD;
+          -  Able to sign informed consent as evaluated by the UCSD Brief Assessment of Capacity to&#xD;
+             Consent (UBACC) test.&#xD;
+&#xD;
+        Subgroup Inclusion Criteria&#xD;
+&#xD;
+          -  NP-PASC subjects will have new onset a) cognitive and/or b) psychiatric symptoms&#xD;
+             following SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  CC will have a history of SARS-CoV-2 infection but will not meet the criteria for any&#xD;
+             DSM-5 diagnosis and will perform within normal limits on cognitive tests.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  If vaccinated for SARS-CoV-2, at least 3 months past the last vaccine administration.&#xD;
+&#xD;
+          -  Subjects with suicidal ideation who require inpatient or intensive level of care, as&#xD;
+             determined by a study clinician (Dr. Frankle or Dr. Iosifescu) based on the answers to&#xD;
+             the screening interview. These patients will be immediately referred to appropriate&#xD;
+             clinical treatment.&#xD;
+&#xD;
+          -  Pregnant women or those who become pregnant as determined by a urine test at the time&#xD;
+             of the blood test and on the day of the PET/MR scan.&#xD;
+&#xD;
+          -  Obese individuals (BMI &gt;= 30) and individuals with cardiovascular risk factors (e.g.,&#xD;
+             uncontrolled high blood pressure, hypercholesterolemia, current tobacco smokers or&#xD;
+             smoking in the last 12 months, diabetes mellitus).&#xD;
+&#xD;
+          -  Individuals with history of serious or unstable medical illness associated with&#xD;
+             chronic inflammation other than PASC (e.g., rheumatoid arthritis, SLE, etc).&#xD;
+&#xD;
+          -  Current traumatic brain injury. Subjects with a history of chronic pre-existing&#xD;
+             neurological disease (multiple sclerosis, degenerative disease such as ALS, Parkinson&#xD;
+             disease and any movement disorders, etc), i.e. neurological symptoms should be new&#xD;
+             onset for inclusion. Patients with substance use disorders, including alcohol, active&#xD;
+             within the last 12 months.&#xD;
+&#xD;
+          -  Clinical or laboratory evidence of hypothyroidism. A thyroid stimulating hormone (TSH)&#xD;
+             test will be drawn in blood, and the patient will be excluded if TSH is abnormal.&#xD;
+&#xD;
+          -  Patients who have had electroconvulsive therapy (ECT) within the 6 months preceding&#xD;
+             baseline.&#xD;
+&#xD;
+          -  Subjects who had recently taken psychotropic medications will be scanned only after a&#xD;
+             period greater than five half-lives since the last dose of their psychotropic&#xD;
+             medication. Subjects who choose to start treatment (with psychotropic medication) for&#xD;
+             their symptoms immediately will thus be excluded.&#xD;
+&#xD;
+          -  Contraindications to 3T whole body MRI scanners (e.g., pacemaker, cerebral aneurysm&#xD;
+             clip, cochlear implant, presence of shrapnel in strategic locations, metal in the eye,&#xD;
+             claustrophobia, or other problems).&#xD;
+&#xD;
+          -  Contraindications for Gadolinium-based MRI contrast (allergies to contrast agents and&#xD;
+             kidney health)&#xD;
+&#xD;
+          -  Recent exposure to radiation (i.e., PET from other research) which when combined with&#xD;
+             this study would be above the allowable limits of 5 rem per 12 months as confirmed by&#xD;
+             the Radiation safety questionnaire.&#xD;
+&#xD;
+          -  If CSF sampling: contraindication for a lumbar puncture (i.e. intracranial mass,&#xD;
+             bleeding diathesis, spinal developmental anomalies, or local skin infection involving&#xD;
+             the lower back). Complete blood count and coagulation studies will be drawn, and if&#xD;
+             abnormal (INR&gt;1.3, platelets less than 100), subjects will be able to complete imaging&#xD;
+             studies but will not be eligible for the lumbar puncture procedure part of the study.&#xD;
+&#xD;
+          -  Unable to sign informed consent or to comply with study assessments.&#xD;
+&#xD;
+          -  Urine will be collected for toxicology screening (amphetamine, barbiturates,&#xD;
+             benzodiazepines, cocaine, methadone, opiates, phencyclidine/PCP, THC, and tricyclic&#xD;
+             antidepressants). Subjects in whom THC is found will be scanned only after abstaining&#xD;
+             for 7 days. A pregnancy test will be performed on all premenopausal women to ensure&#xD;
+             exclusion criteria are appropriately screened.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven Baete</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Steven Baete</last_name>
+    <phone>2122634861</phone>
+    <email>Steven.baete@nyulangone.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Malika Kumbella</last_name>
+    <phone>6465010075</phone>
+    <email>Malika.Kumbella@nyulangone.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Baete</last_name>
+      <phone>212-263-4861</phone>
+      <email>Steven.baete@nyulangone.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicaltrials.med.nyu.edu/clinicaltrial/1805/assessment-immunological-vascular-dysfunction/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Long COVID</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Cognitive Deficit Following COVID-19</keyword>
+  <keyword>Depression and Anxiety following COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: [Steven.baete@nyulangone.org]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>Requests should be directed to Steven.baete@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,263 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626985</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GAMAD</org_study_id>
+    <nct_id>NCT05626985</nct_id>
+  </id_info>
+  <brief_title>Establishment of a Clinical Diagnostic Model GAMAD for Early-stage HCC Based on Circulating Tumor DNA Methylation</brief_title>
+  <official_title>Establishment of a Clinical Diagnostic Model GAMAD for Early-stage HCC Based on a Multilocus Blood-based Assay Targeting Circulating Tumor DNA Methylation: A Case-control Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Singlera Genomics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The First Hospital of Jilin University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Singlera Genomics Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Most hepatocellular carcinoma (HCC) cases were at advanced stage when diagnosis established.&#xD;
+      This study is intended to establish a clinical diagnostic model GAMAD for early-stage HCC and&#xD;
+      evaluate the diagnostic efficiency the same time. This study is a multicenter case control&#xD;
+      study. Participants including healthy control,HCC, liver cirrhosis, hepatitis and benign&#xD;
+      tumor-like lesions are consecutively recruited into the cohort. All the blood samples are&#xD;
+      collected before any treatments and will be tested in single center in order to decrease&#xD;
+      bias.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      GALAD score including age, sex, PIVKA-II(DCP), Alpha-fetoprotein (AFP) and alpha-fetoprotein&#xD;
+      L3 (AFP-L3), is a serum biomarker-based panel that can aid in early detection among patients&#xD;
+      with a high risk for liver cancer. While increasing studies showed the diagnostic accuracy of&#xD;
+      AFP-L3 was not as good as that of AFP or PIVKA-II, and AFP-L3 was not significant in the&#xD;
+      multivariable model. Thus, a model with better diagnostic accuracy and more suitable for&#xD;
+      Chinese patients is needed. Here, based on a multi-locus blood-based assay targeting&#xD;
+      circulating tumor DNA methylation, we aim to develop a novel diagnostic model--GAMAD (gender,&#xD;
+      age, mythylation, AFP and DCP) and validate its performance among HCC patients and those at&#xD;
+      high risk of developing HCC,such as liver cirrhosis, hepatitis patients. This is a&#xD;
+      multicenter, observational, case control study. After giving fully informed consent, the&#xD;
+      participants will undergo the regular treatment according to NCCN guidelines.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 19, 2022</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>GAMAD</measure>
+    <time_frame>Day one</time_frame>
+    <description>Using GAMAD calculator model to obtain the score of each group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>GALAD</measure>
+    <time_frame>Day one</time_frame>
+    <description>Using GALAD calculator to obtain the score of each group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>circulating tumor DNA methylation</measure>
+    <time_frame>Day one</time_frame>
+    <description>Using circulating tumor DNA methylation to obtain diagnostic value in pre-specified subgroups.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Hepatocellular Carcinoma patients</arm_group_label>
+    <description>Blood samples are collected before liver resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Liver cirrhosis</arm_group_label>
+    <description>The diagnosis of liver cirrhosis are based on triple-phase contrast enhanced computed tomography, magnetic resonance imaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hepatitis</arm_group_label>
+    <description>Patients with various hapatitis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Benign tumor-like lesions</arm_group_label>
+    <description>Benign hepatic tumors were diagnosed based on imaging findings and histological examinations after hepatic resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy control</arm_group_label>
+    <description>The healthy control group consist of people undergoing routine medical examination. Blood samples are collected.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>GAMAD</intervention_name>
+    <description>Blood samples are tested for tumor markers including PIVKA-II (DCP),AFP, ctDNA methylation and biochemical tests.</description>
+    <arm_group_label>Benign tumor-like lesions</arm_group_label>
+    <arm_group_label>Healthy control</arm_group_label>
+    <arm_group_label>Hepatitis</arm_group_label>
+    <arm_group_label>Hepatocellular Carcinoma patients</arm_group_label>
+    <arm_group_label>Liver cirrhosis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients must have baseline evaluations performed prior to the study and must meet all&#xD;
+        inclusion and exclusion criteria. In addition, the patient must be thoroughly informed&#xD;
+        about all aspects of the study, including the study visit schedule and required evaluations&#xD;
+        and all regulatory requirements for informed consent. The written informed consent must be&#xD;
+        obtained from the patient prior to enrollment. The following criteria apply to all patients&#xD;
+        enrolled onto the study unless otherwise specified&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age above 18&#xD;
+&#xD;
+          -  Establishing Diagnosis according to the European Association for the Study of&#xD;
+             Liver(EASL) criteria&#xD;
+&#xD;
+          -  High risk group of developing HCC including liver cirrhosis and hepatitis under the&#xD;
+             confirmed diagnosis&#xD;
+&#xD;
+          -  Able to provide sufficient and qualified blood samples for study tests&#xD;
+&#xD;
+          -  No prior or undergoing cancer treatment (local or systematic)&#xD;
+&#xD;
+          -  Able to provide a written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Obstructive jaundice patients&#xD;
+&#xD;
+          -  Medical history of taking warfarin&#xD;
+&#xD;
+          -  With other known malignant tumors or multiple primary tumors&#xD;
+&#xD;
+          -  Patients with autoimmune diseases, genetic diseases, mental diseases/ disabilities and&#xD;
+             other diseases considered unsuitable for the study by the investigator&#xD;
+&#xD;
+          -  During pregnancy or lactation&#xD;
+&#xD;
+          -  Recipient of blood transfusion within 3 months prior to study blood draw&#xD;
+&#xD;
+          -  Insufficient qualified blood sample for study test&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tian Yang, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Eastern Hepatobiliary Surgery Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Guoyue Lv, Ph.D</last_name>
+    <role>Study Chair</role>
+    <affiliation>The First Hospital of Jilin University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fengmei Wang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tianjin Third Central Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nanya Wang, Ph.D</last_name>
+    <phone>+8615804302611</phone>
+    <email>wangny@jlu.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tian Yang, Ph.D</last_name>
+    <phone>+8618917015805</phone>
+    <email>yangtian6666@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The First Hospital of Jilin University</name>
+      <address>
+        <city>Jilin</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nanya Wang, Ph.D</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Hepatobiliary Surgery Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tian Yang, PHD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin Third Central Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fengmei Wang, PHD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Yang T, Xing H, Wang G, Wang N, Liu M, Yan C, Li H, Wei L, Li S, Fan Z, Shi M, Chen W, Cai S, Pawlik TM, Soh A, Beshiri A, Lau WY, Wu M, Zheng Y, Shen F. A Novel Online Calculator Based on Serum Biomarkers to Detect Hepatocellular Carcinoma among Patients with Hepatitis B. Clin Chem. 2019 Dec;65(12):1543-1553. doi: 10.1373/clinchem.2019.308965. Epub 2019 Oct 31.</citation>
+    <PMID>31672853</PMID>
+  </reference>
+  <reference>
+    <citation>Liu S, Sun L, Yao L, Zhu H, Diao Y, Wang M, Xing H, Lau WY, Guan M, Pawlik TM, Shen F, Xu M, Tong X, Yang T. Diagnostic Performance of AFP, AFP-L3, or PIVKA-II for Hepatitis C Virus-Associated Hepatocellular Carcinoma: A Multicenter Analysis. J Clin Med. 2022 Aug 29;11(17):5075. doi: 10.3390/jcm11175075.</citation>
+    <PMID>36079006</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>April 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>early detection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

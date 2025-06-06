@@ -1,0 +1,347 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077891</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H21-01082</org_study_id>
+    <nct_id>NCT05077891</nct_id>
+  </id_info>
+  <brief_title>Postpartum Quality of Recovery &amp; Maternal Satisfaction After C/S</brief_title>
+  <acronym>QuReS</acronym>
+  <official_title>Relationship Between Patient Reported Postpartum Quality of Recovery and Maternal Satisfaction After Cesarean Delivery: A Prospective Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of British Columbia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of British Columbia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Measuring patient-oriented outcomes and satisfaction is important to guide meaningful changes&#xD;
+      in obstetric anesthesia care. Quality of Recovery (QoR) scores are patient rated measures,&#xD;
+      which provide a global measure of recovery after surgery. They go beyond the measure of&#xD;
+      physiological variables to include, physical, cognitive, emotive and functional outcomes.&#xD;
+      Satisfaction, in addition to QoR scores after anaesthesia is an important quality marker.&#xD;
+      Measuring satisfaction after the birth of a child is a complex and emotive subject.&#xD;
+      Understanding the factors that can influence maternal satisfaction may improve&#xD;
+      patient-centred care. Studies have shown that despite favorable clinical outcomes, many women&#xD;
+      undergoing caesarean deliveries continue to have poor experience with anaesthesia. These poor&#xD;
+      experiences go beyond inadequate pain control; many are due to poor communication with&#xD;
+      clinicians, lack of involvement in decision making, lack of provision of high quality&#xD;
+      education and information and a feeling of inadequate choice and control relating to&#xD;
+      decisions of the birth of their babies. In non-obstetric studies, satisfaction after&#xD;
+      anaesthesia has consistently been shown to be dependent on the information patient has&#xD;
+      received along with the quality of the communication and the quality of the&#xD;
+      anaesthetist-patient relationship.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 15, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quality of Recovery Score (ObsQoR-11)</measure>
+    <time_frame>5 Minutes</time_frame>
+    <description>Quality of recovery will be measured using the obstetric quality of recovery score (ObsQoR-11). This is a 11-item, multidimensional recovery scoring tool, which has been validated in this population</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maternal Satisfaction Scale for Cesarean Section (MSSCS)</measure>
+    <time_frame>5 Minutes</time_frame>
+    <description>This 22 item questionnaire measures satisfaction with the anaesthetic, needle insertion, side effects and the theatre atmosphere. Items are rated on a 7-point likert scale from strongly disagree to strongly agree.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Satisfaction with Received Care</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>First open ended question assessing: &quot;What aspects of your care were you most satisfied with?&quot;</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dissatisfaction with Received Care</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Second open ended question assessing: &quot;What aspects of your care were you most dissatisfied with?&quot;</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement of Satisfaction</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Third and last open ended question assessing: &quot;Do you have any suggestions on what would improve your satisfaction?&quot;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Obstetric History: Gravidity and Preterm</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Total frequency of gravidity and preterm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Age</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Patient age in years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gestational Age</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Gestational age in total weeks and days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Height</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Patient height measured in centimeters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Weight</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Patient weight measured in kilograms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Outcome of Delivery</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Result of singleton, twins, or other</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neonatal APGARs</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>APGAR scores at 1 minute and minutes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neonatal Birthweight</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Neonatal birthweight measured in grams</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient ASA Status</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>American Society of Anesthesiologists (ASA) physical status classification system ranging from 1 to 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pregnancy Medical Conditions</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Including: pregnancy induced HTN, pre-eclampsia, gestational diabetes, anemia, hyperemesis, cholestasis, and other.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Conditions Outside Pregnancy</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Including any medical conditions that do not constitute a pregnancy medical condition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuraxial Agents</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Neuraxial agents and dosage administered prior and during the cesarean section procedure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative Anxiolytics</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Intraoperative anxiolytics drug and dose administered prior and during the cesarean section procedure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anesthesia Procedure Start</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Time in military time format</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urgency of Cesarean Delivery</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Classified as: scheduled, STAT, P1, or P2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indication for Cesarean Delivery</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Reason for cesarean delivery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Labour Onset</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Indicated as: spontaneous, augmented, or induction of labour</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Labour Length</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Length of hours for both first stage and second stage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Relief During Labour</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Indicated as: epidural/CSE/DPE, Entonox, M&amp;G, or other</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative Complications</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Indicated as: hypotension, shivering, nausea, vomiting, itch, failed neuraxial, or other.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative Blood Loss</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Blood loss measured in milliliters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative Complications</measure>
+    <time_frame>1 Minute</time_frame>
+    <description>Any medical complication indicated after the caesarean delivery.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Quality of Recovery</condition>
+  <condition>Maternal Satisfaction</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All women above the age of 19 years old whom underwent a caesarean section will be eligible&#xD;
+        to participate. Women will be surveyed at 24 hours after their cesarean section. Data will&#xD;
+        be collected by means of validated paper questionnaires administered in person by a study&#xD;
+        investigator that is not part of clinical care.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Fluent English speaker&#xD;
+&#xD;
+          -  Older than 19 years of age&#xD;
+&#xD;
+          -  Received a cesarean delivery&#xD;
+&#xD;
+          -  Received a cesarean delivery 24-48 hours prior to time of recruitment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-English speaker&#xD;
+&#xD;
+          -  Below the age of 19 years&#xD;
+&#xD;
+          -  Did not receive a cesarean delivery&#xD;
+&#xD;
+          -  Received a cesarean delivery more than 48hrs after time of recruitment&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Anton Chau, MD MMSc</last_name>
+    <phone>6048752158</phone>
+    <email>anton.chau@ubc.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Luc Saulnier, BA (Hons.) MA</last_name>
+    <phone>6048752158</phone>
+    <phone_ext>6076</phone_ext>
+    <email>luc.saulnier@cw.bc.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>BC Women's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6H 3N1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anton Chau, MD MMSc</last_name>
+      <phone>6048752158</phone>
+      <phone_ext>6111</phone_ext>
+      <email>anton.chau@ubc.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Luc Saulnier, BA (Hons.) MA</last_name>
+      <phone>6048752158</phone>
+      <phone_ext>6076</phone_ext>
+      <email>luc.saulnier@cw.bc.ca</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>Ciechanowicz S, Setty T, Robson E, Sathasivam C, Chazapis M, Dick J, Carvalho B, Sultan P. Development and evaluation of an obstetric quality-of-recovery score (ObsQoR-11) after elective Caesarean delivery. Br J Anaesth. 2019 Jan;122(1):69-78. doi: 10.1016/j.bja.2018.06.011. Epub 2018 Jul 31.</citation>
+    <PMID>30579408</PMID>
+  </reference>
+  <reference>
+    <citation>Bowyer A, Jakobsson J, Ljungqvist O, Royse C. A review of the scope and measurement of postoperative quality of recovery. Anaesthesia. 2014 Nov;69(11):1266-78. doi: 10.1111/anae.12730. Epub 2014 Jun 2.</citation>
+    <PMID>24888412</PMID>
+  </reference>
+  <reference>
+    <citation>Heidegger T, Saal D, Nubling M. Patient satisfaction with anaesthesia - Part 1: satisfaction as part of outcome - and what satisfies patients. Anaesthesia. 2013 Nov;68(11):1165-72. doi: 10.1111/anae.12347. Epub 2013 Aug 8.</citation>
+    <PMID>23926924</PMID>
+  </reference>
+  <reference>
+    <citation>Barnett SF, Alagar RK, Grocott MP, Giannaris S, Dick JR, Moonesinghe SR. Patient-satisfaction measures in anesthesia: qualitative systematic review. Anesthesiology. 2013 Aug;119(2):452-78. doi: 10.1097/ALN.0b013e3182976014.</citation>
+    <PMID>23669268</PMID>
+  </reference>
+  <reference>
+    <citation>Camann W. Pain, Pain Relief, Satisfaction and Excellence in Obstetric Anesthesia: A Surprisingly Complex Relationship. Anesth Analg. 2017 Feb;124(2):383-385. doi: 10.1213/ANE.0000000000001676. No abstract available.</citation>
+    <PMID>28098685</PMID>
+  </reference>
+  <reference>
+    <citation>Kingsley C, Patel S. Patient-reported outcome measures and patient-reported experience measures. BJA Education. 2017;17(4):137-44.</citation>
+  </reference>
+  <reference>
+    <citation>Linda D. Results of the National Maternity Experience Survey 2020 2020 [Available from: https://yourexperience.ie/maternity/national-results/.</citation>
+  </reference>
+  <reference>
+    <citation>Porter M, van Teijlingen E, Chi Ying Yip L, Bhattacharya S. Satisfaction with cesarean section: qualitative analysis of open-ended questions in a large postal survey. Birth. 2007 Jun;34(2):148-54. doi: 10.1111/j.1523-536X.2007.00161.x.</citation>
+    <PMID>17542819</PMID>
+  </reference>
+  <reference>
+    <citation>Stewart MA. Effective physician-patient communication and health outcomes: a review. CMAJ. 1995 May 1;152(9):1423-33.</citation>
+    <PMID>7728691</PMID>
+  </reference>
+  <reference>
+    <citation>Cook K, Loomis C. The Impact of Choice and Control on Women's Childbirth Experiences. J Perinat Educ. 2012 Summer;21(3):158-68. doi: 10.1891/1058-1243.21.3.158.</citation>
+    <PMID>23730127</PMID>
+  </reference>
+  <reference>
+    <citation>Brooks H, Sullivan WJ. The importance of patient autonomy at birth. Int J Obstet Anesth. 2002 Jul;11(3):196-203. doi: 10.1054/ijoa.2002.0958.</citation>
+    <PMID>15321548</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan PJ, Halpern S, Lo J. The development of a maternal satisfaction scale for caesarean section. Int J Obstet Anesth. 1999 Jul;8(3):165-70. doi: 10.1016/s0959-289x(99)80132-0.</citation>
+    <PMID>15321139</PMID>
+  </reference>
+  <reference>
+    <citation>Berning V, Laupheimer M, Nubling M, Heidegger T. Influence of quality of recovery on patient satisfaction with anaesthesia and surgery: a prospective observational cohort study. Anaesthesia. 2017 Sep;72(9):1088-1096. doi: 10.1111/anae.13906. Epub 2017 May 16.</citation>
+    <PMID>28510285</PMID>
+  </reference>
+  <reference>
+    <citation>Myles PS, Reeves MD, Anderson H, Weeks AM. Measurement of quality of recovery in 5672 patients after anaesthesia and surgery. Anaesth Intensive Care. 2000 Jun;28(3):276-80. doi: 10.1177/0310057X0002800304.</citation>
+    <PMID>10853209</PMID>
+  </reference>
+  <reference>
+    <citation>Ciechanowicz S, Howle R, Heppolette C, Nakhjavani B, Carvalho B, Sultan P. Evaluation of the Obstetric Quality-of-Recovery score (ObsQoR-11) following non-elective caesarean delivery. Int J Obstet Anesth. 2019 Aug;39:51-59. doi: 10.1016/j.ijoa.2019.01.010. Epub 2019 Feb 2.</citation>
+    <PMID>30885691</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>September 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of British Columbia</investigator_affiliation>
+    <investigator_full_name>Anthony Chau</investigator_full_name>
+    <investigator_title>Director of Research</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

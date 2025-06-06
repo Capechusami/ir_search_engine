@@ -1,0 +1,194 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626699</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RTA II-01</org_study_id>
+    <secondary_id>5R44HL146012-03</secondary_id>
+    <nct_id>NCT05626699</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Clinical Tool to Improve Adherence to Ventilator Management</brief_title>
+  <official_title>Evaluation of Clinical Tool to Improve Adherence to Ventilator Management Protocols and Standardized Shift Reports</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Convergent Engineering, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Convergent Engineering, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Respiratory Therapists (RTs) have difficulty maintaining compliance with protocols and making&#xD;
+      efficient handoff communication. This project will evaluate the effectiveness of an&#xD;
+      electronic tool that will display a dashboard of key information on all the RTs patients and&#xD;
+      provide reminders that indicate whether evidence-based practice protocols are being followed.&#xD;
+      In addition, it will collect data from medical devices and the EMR and outline key&#xD;
+      information in the appropriate format to help standardize and improve handoff communication.&#xD;
+      The study will first collect blind baseline data for comparison with protocol adherence and&#xD;
+      silently evaluate shift change handoffs. In the second stage, the electronic tool will be&#xD;
+      installed and used to evaluate whether protocol compliance and shift change handoff is&#xD;
+      improved.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Respiratory Therapists (RTs) face challenges to provide high quality patient care including&#xD;
+      maintaining compliance with evidence-based practice protocols using lung protective&#xD;
+      ventilation (LPV) (tidal volume [VT] 4 to 8 ml predicted body weight and plateau pressure&#xD;
+      [Pplt] &lt; 30 cm H2O), efficient communication during patient handoffs at shift changes and&#xD;
+      maintaining situational awareness amidst a high patient-to-clinician ratio and elevated&#xD;
+      acuity of patient care. Lung-protective ventilation (LPV) guidelines, initially published by&#xD;
+      ARDS Net and supported by the American Thoracic Society, Society of Critical Care Medicine&#xD;
+      and European Society of Intensive Care Medicine. LPV guidelines recommend use of low tidal&#xD;
+      volume (VT) (6 to 8 ml predicted body weight [PBW]) and inspiratory plateau pressure (Pplt)&#xD;
+      (≤ 30 cm H2O), proven to lower mortality in patients with adult respiratory distress syndrome&#xD;
+      (ARDS). However, several studies revealed that many clinicians and institutions are not&#xD;
+      effectively implementing LPV guidelines many years after their publication in the New England&#xD;
+      Journal of Medicine in 2000. Clinicians who are unable and/or unwilling to apply low VT and&#xD;
+      Pplt as defined above jeopardize patient safety and risk increased mortality. One study found&#xD;
+      only 27% of patients received low VT and Pplt within 48 hours of the onset of ARDS. It was&#xD;
+      also found that &quot;. . . adoption of evidence-based mechanical ventilation in real world&#xD;
+      practice has been disturbingly slow.&quot;&#xD;
+&#xD;
+      Another daily challenge faced by an RRT is the transfer of vital patient information during&#xD;
+      shift changes. A less than optimal &quot;patient hand-off&quot; or communication of relevant patient&#xD;
+      care information during shift changes appears to be a major factor in preventable medical&#xD;
+      errors directly affecting patient safety. The primary objective of a patient hand-off is to&#xD;
+      provide accurate information about the patient's care, treatment and services, current&#xD;
+      condition and any recent or anticipated changes. While appearing to be relatively easy task,&#xD;
+      a comprehensive, high-quality patient hand-off can be a complex communication procedure. One&#xD;
+      study found that patient hand-off communication failures were responsible for 30% of&#xD;
+      malpractice claims in U.S. hospitals, resulting in 1,744 deaths and $1.7 billion in&#xD;
+      malpractice costs over five years. While the use of computerized patient handoff methods are&#xD;
+      likely to promote improved information transfer during patient hand-offs, there is a dearth&#xD;
+      of such easy-to-use, portable communication tools available for RTs. Other contributing&#xD;
+      factors adversely affecting patient hand-off communication appear to be unrecognized patient&#xD;
+      needs due to lack of accurate and real time electronic monitoring, task interruption from&#xD;
+      nuisance alarms and inability to quickly determine the correct clinical decision.&#xD;
+&#xD;
+      RT Assistant, a bedside, portable and hand-held electronic tool, was designed to help the RT&#xD;
+      with these challenges.&#xD;
+&#xD;
+      Goals:&#xD;
+&#xD;
+      Evaluate the clinical effectiveness of RT Assistant software for the following:&#xD;
+&#xD;
+      Maintaining patients according to established LPV guidelines for ventilator-dependent&#xD;
+      patients Maintaining established low oxygen therapy guidelines Improving patient shift report&#xD;
+      communication Collect baseline data from the selected ICU passively through the SickBay data&#xD;
+      aggregator, including percentage of time patients are within the LPV and oxygenation&#xD;
+      guidelines.&#xD;
+&#xD;
+      Collect baseline data on shift report quality by passively monitoring shift reports between&#xD;
+      RTs during the above baseline data collection Install the RT Assistant software, train&#xD;
+      participating RTs, and compare baseline data with the same data collected in the same ICU&#xD;
+      during the use of the RT Assistant software&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2022</start_date>
+  <completion_date type="Anticipated">January 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>RTs will be observed during patient care without the use of the RT Assistant during the non-interventional phase and with the use of the RT Assistant during the interventional phase. RTs will be observed by highly trained RTs during both phases. RTs will answer a likert scale questionnaire about the use of the RT Assistant used to make clinical decisions.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Respiratory Therapist Likert Scale Questionnaire</measure>
+    <time_frame>through study completion, an average of 60 days</time_frame>
+    <description>Questionnaire</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Respiratory Therapy</condition>
+  <arm_group>
+    <arm_group_label>RT's in ICU</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>We will collect ventilator pressure, flow, volume, oxygen and breathing pattern data, etc, as well as arterial blood-gas exchange and hemodynamic data of adults attached to ventilators. the RRT's will treat patients as normal without the assistance of the RT Assistant for the pre-intervention phase and will be observed collecting the same data and performing patient care with the assistance of the RT Assistant during the intervention phase. The RRTs will then be given a likert scale questionnaire on the use of the RT Assistant.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>RT Assistant</intervention_name>
+    <description>RRT's will be given the RT Assistant to use during a regular ICU shift to make patient care decisions.</description>
+    <arm_group_label>RT's in ICU</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Practicing RTs are eligible to participate in this study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  non-RTs or those who refuse to participate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philip Efron, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Neil Euliano, PhD</last_name>
+    <phone>3523784899</phone>
+    <phone_ext>107</phone_ext>
+    <email>neil@conveng.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Danay Harvey</last_name>
+    <phone>3523784899</phone>
+    <phone_ext>100</phone_ext>
+    <email>dharvey@conveng.com</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>October 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>November 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Any paper data, such as checklists, informed consents, and surveys will be maintained in locked cabinets in Department of Surgery offices. Electronic copies of such data will be stored in password protected, secure computer resources at UF and the sponsor, Convergent Engineering. Electronic data collected through the data aggregator will be stored on a secure, HIPAA certified, cloud-based server. Access to the server data is provided only via the web application protected by the UFHealth secure login system. Aggregated data will be extracted from the system by Convergent Engineering personnel and provided to a 3rd party statistician for analysis.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

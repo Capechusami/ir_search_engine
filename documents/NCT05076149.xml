@@ -1,0 +1,1863 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05076149</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VX20-121-103</org_study_id>
+    <secondary_id>2021-000694-85</secondary_id>
+    <nct_id>NCT05076149</nct_id>
+  </id_info>
+  <brief_title>A Study of VX-121 Combination Therapy in Participants With Cystic Fibrosis (CF) Who Are Homozygous for F508del, Heterozygous for F508del and a Gating (F/G) or Residual Function (F/RF) Mutation, or Have At Least 1 Other Triple Combination Responsive (TCR) CFTR Mutation and No F508del Mutation</brief_title>
+  <official_title>A Phase 3, Randomized, Double-blind, Controlled Study Evaluating the Efficacy and Safety of VX-121 Combination Therapy in Subjects With Cystic Fibrosis Who Are Homozygous for F508del, Heterozygous for F508del and a Gating (F/G) or Residual Function (F/RF) Mutation, or Have At Least 1 Other Triple Combination Responsive CFTR Mutation and No F508del Mutation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vertex Pharmaceuticals Incorporated</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vertex Pharmaceuticals Incorporated</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of&#xD;
+      VX-121/tezacaftor/deutivacaftor (VX-121/TEZ/D-IVA) in CF participants who are homozygous for&#xD;
+      F508del, heterozygous for F508del and a gating (F/G) or residual function (F/RF) mutation, or&#xD;
+      have at least 1 other TCR CF transmembrane conductance regulator (CFTR) gene mutation and no&#xD;
+      F508del mutation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 27, 2021</start_date>
+  <completion_date type="Anticipated">February 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Absolute Change From Baseline in Percent Predicted Forced Expiratory Volume in 1 Second (ppFEV1) Through Week 24</measure>
+    <time_frame>From Baseline Through Week 24</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Absolute Change From Baseline in Sweat Chloride (SwCl) Through Week 24</measure>
+    <time_frame>From Baseline Through Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With SwCl &lt;60 Millimole per Liter (mmol/L) Through Week 24 (Pooled With Data From Study VX20-121-102)</measure>
+    <time_frame>From Baseline Through Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With SwCl &lt;30 mmol/L Through Week 24 (Pooled With Data From Study VX20-121-102)</measure>
+    <time_frame>From Baseline Through Week 24</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">600</enrollment>
+  <condition>Cystic Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>VX-121/TEZ/D-IVA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive VX-121/TEZ/D-IVA in the morning.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ELX/TEZ/IVA</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive ELX/TEZ/IVA in the morning and IVA in the evening.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VX-121/TEZ/D-IVA</intervention_name>
+    <description>Fixed-dose combination tablets for oral administration.</description>
+    <arm_group_label>VX-121/TEZ/D-IVA</arm_group_label>
+    <other_name>VX-121/VX-661/CTP-656</other_name>
+    <other_name>VX-121/VX-661/VX-561</other_name>
+    <other_name>VX-121/tezacaftor/deutivacaftor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ELX/TEZ/IVA</intervention_name>
+    <description>Fixed-dose combination tablets for oral administration.</description>
+    <arm_group_label>ELX/TEZ/IVA</arm_group_label>
+    <other_name>VX-445/VX-661/VX-770</other_name>
+    <other_name>elexacaftor/tezacaftor/ivacaftor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IVA</intervention_name>
+    <description>Tablet for oral administration.</description>
+    <arm_group_label>ELX/TEZ/IVA</arm_group_label>
+    <other_name>VX-770</other_name>
+    <other_name>ivacaftor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (matched to VX-121/TEZ/D-IVA)</intervention_name>
+    <description>Placebo matched to VX-121/TEZ/D-IVA for oral administration.</description>
+    <arm_group_label>ELX/TEZ/IVA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (matched to ELX/TEZ/IVA)</intervention_name>
+    <description>Placebo matched to ELX/TEZ/IVA for oral administration.</description>
+    <arm_group_label>VX-121/TEZ/D-IVA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (matched to IVA)</intervention_name>
+    <description>Placebo matched to IVA for oral administration.</description>
+    <arm_group_label>VX-121/TEZ/D-IVA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant has one of the following genotypes:&#xD;
+&#xD;
+               -  Homozygous for F508del;&#xD;
+&#xD;
+               -  Heterozygous for F508del and a gating (F/G) mutation;&#xD;
+&#xD;
+               -  Heterozygous for F508del and a residual function (F/RF) mutation;&#xD;
+&#xD;
+               -  At least 1 other TCR CFTR gene mutation identified as responsive to ELX/TEZ/IVA&#xD;
+                  and no F508del mutation&#xD;
+&#xD;
+          -  Forced expiratory volume in 1 second (FEV1) value &gt;=40% and &lt;=90% of predicted mean&#xD;
+             for age, sex, and height for participants currently receiving CFTR protein modulator&#xD;
+             therapy; FEV1 &gt;=40% and &lt;=80% for participants not currently receiving CFTR protein&#xD;
+             modulator therapy&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  History of solid organ or hematological transplantation&#xD;
+&#xD;
+          -  Hepatic cirrhosis with portal hypertension, moderate hepatic impairment (Child Pugh&#xD;
+             Score 7 to 9), or severe hepatic impairment (Child Pugh Score 10 to 15)&#xD;
+&#xD;
+          -  Lung infection with organisms associated with a more rapid decline in pulmonary status&#xD;
+&#xD;
+          -  Pregnant or breast-feeding females&#xD;
+&#xD;
+        Other protocol defined Inclusion/Exclusion criteria may apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Banner University of Arizona Medical Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arkansas for Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Medical Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Jewish Health</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Specialty Care</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Florida Pulmonary Group, PA</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Specialty Care, Pensacola</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins All Children's Hospital Outpatient Care Center</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Emory Clinic at Chantilly</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luke's Cystic Fibrosis Center of Idaho</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ann &amp; Robert H. Lurie Children's Hospital of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Riley Hospital for Children at Indiana University Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Partners</name>
+      <address>
+        <city>Portland</city>
+        <state>Maine</state>
+        <zip>04102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Cystic Fibrosis Center Clinical Rsearch Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMass Memorial Medical Center</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan Medicine</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-5212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harper University Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Medical Group Adult Cystic Fibrosis Care Center</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49546</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Mercy Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Billings Clinic</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Medical Center</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07960</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CF Therapeutics Development Center of Western New York</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwell Health- Long Island Jewish Medical Center</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Health</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Akron Children's Hospital</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton Children's Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ProMedica Toledo Hospital/Toledo Children's Hospital/Pediatric Pulmonary &amp; Cystic Fibrosis Center</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santiago Reyes, M.D.</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UPMC Children's Hospital of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Prisma Health Richland Campus</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Children's Speciality Clinic</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Medical Center</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-8558</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Health Care System</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah - Primary Children's Medical Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vermont Lung Center</name>
+      <address>
+        <city>Colchester</city>
+        <state>Vermont</state>
+        <zip>05446</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health System</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of the King's Daughters</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Pediatric Pulmonary &amp; Cystic Fibrosis Clinic</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Virginia University</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital and UW Health Clinics</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Prince Alfred Hospital</name>
+      <address>
+        <city>Camperdown</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Prince Charles Hospital</name>
+      <address>
+        <city>Chermside</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Hospital</name>
+      <address>
+        <city>Melbourne, VIC</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute for Respiratory Health</name>
+      <address>
+        <city>Nedlands</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Telethon Kids Institute</name>
+      <address>
+        <city>Nedlands</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Children's Hospital</name>
+      <address>
+        <city>Parkville, VIC</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sydney Children's Hospital</name>
+      <address>
+        <city>Randwick</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Adult Hospital</name>
+      <address>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queensland Children's Hospital</name>
+      <address>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital</name>
+      <address>
+        <city>Westmead</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Graz</name>
+      <address>
+        <city>Graz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Universität Innsbruck</name>
+      <address>
+        <city>Innsbruck</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Uniklinikum Salzburg - Universitätsklinik für Pneumologie/Lungenheilkunde</name>
+      <address>
+        <city>Salzburg</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Universität Wien</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Abteilung fuer Pulmologie Klinikum Wels-Grieskirchen</name>
+      <address>
+        <city>Wels</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires de Bruxelles Hopital Erasme</name>
+      <address>
+        <city>Brussel</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Brussel - Campus Jette</name>
+      <address>
+        <city>Brussel</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Gent</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaire Ziekenhuizen Leuven - Campus Gasthuisberg</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires Saint-Luc</name>
+      <address>
+        <city>Woluwe-Saint-Lambert</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary Medical Clinic of the Foothills Medical Centre</name>
+      <address>
+        <city>Calgary</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stollery Children's Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Health Care London</name>
+      <address>
+        <city>London</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de l'Universite de Montreal (CHUM) Hotel-Dieu</name>
+      <address>
+        <city>Montreal</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre, Glen Site, Montreal Children's Hospital</name>
+      <address>
+        <city>Montréal</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Universitaire de Cardiologie et Pneumologie de Quebec - Universite Laval</name>
+      <address>
+        <city>Québec</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Michael's Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Children's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Paul's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aarhus University Hospital</name>
+      <address>
+        <city>Aarhus</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Juliane Marie Center, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitaler Pellegrin, CHU De Bordeaux</name>
+      <address>
+        <city>Bordeaux cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Lyon - Hopital Femme Mere-Enfant</name>
+      <address>
+        <city>Bron Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal Creteil</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Cœur Poumon, CHU de Lille</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Arnaud de Villeneuve</name>
+      <address>
+        <city>Montpellier Cedex 5</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire De Nantes - G. R. Laennec</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire (CHU) de Nice - Hopital Pasteur</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Necker, Enfants Malades</name>
+      <address>
+        <city>Paris Cedex 15</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Cochin</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Robert Debre</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Perharidy</name>
+      <address>
+        <city>Roscoff cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rouen - Hopital Charles Nicolle</name>
+      <address>
+        <city>Rouen Cedex, Seine Maritime</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital de Hautepierre, AX5</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Foch (Suresnes), Hopital Foch, Adultes</name>
+      <address>
+        <city>Suresnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier universitaire de Nancy, Hôpital de Braboi</name>
+      <address>
+        <city>Vandoeuvre Les Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charite Paediatric Pulmonology Department</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Friedrich-Alexander University of Erlangen-Nuremberg, University Children's Hospital</name>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ruhrlandklinik Westdeutsches Lungenzentrum am Klinikum Essen</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Essen (AoR), Kinderklinik III, Abt. fur Pneumologie</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Justus-Liebig-Universität Gießen Zentrum für Kinderheilkunde und Jugendmedizin</name>
+      <address>
+        <city>Gießen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pneumologisches Studienzentrum Muenchen-West</name>
+      <address>
+        <city>Muenchen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Thessaloniki &quot;Papanikolaou&quot;</name>
+      <address>
+        <city>Pilea Chortiatis</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Thessaloniki 'Hippokratio', 3rd Pediatrics Department of Aristotle University of Thessaloniki</name>
+      <address>
+        <city>Thessaloníki</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Koranyi Institute for TBC and Pulmonology</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pulmonology Institute Torokbalint</name>
+      <address>
+        <city>Torokbalint</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cork University Hospital</name>
+      <address>
+        <city>Cork</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Health Ireland at Crumlin</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Health Ireland at Tallaght</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's University Hospital, Dublin</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent's University Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Limerick (Adults)</name>
+      <address>
+        <city>Limerick</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Limerick (Pediatrics)</name>
+      <address>
+        <city>Limerick</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Organization</name>
+      <address>
+        <city>Jerusalem</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Schneider Children's Medical Center of Israel</name>
+      <address>
+        <city>Petach Tikvah</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center - The Edmond and Lili Safra Children's Hospital</name>
+      <address>
+        <city>Tel HaShomer</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Ospedale Riuniti</name>
+      <address>
+        <city>Ancona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Ospedale Pediatrico Meyer</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Istituto Giannina Gaslini-Ospedale Pediatrico</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Malattie Apparato Respiratorio 2 - Centro Fibrosi Cistica</name>
+      <address>
+        <city>Orbassano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Regionale Fibrosi Cistica, A.O. Ospedale San Carlo</name>
+      <address>
+        <city>Potenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera di Verona - Ospedale Civile Maggiore</name>
+      <address>
+        <city>Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Academisch Medisch Centrum (Academic Medical Centre)</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HagaZiekenhuis van den Haag</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMC St. Radboud</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center, Utrecht, Department of Pulmonology and Tuberculosis</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenlane Clinical Centre</name>
+      <address>
+        <city>Auckland</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Starship Children's Hospital</name>
+      <address>
+        <city>Auckland</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Canterbury Respiratory Research Group</name>
+      <address>
+        <city>Christchurch Hospital</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Waikato Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Haukeland Universitetssjukehus (CF)</name>
+      <address>
+        <city>Bergen</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oslo University Hospital, Department of Paediatric Medicine</name>
+      <address>
+        <city>Oslo</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pediatric Hospital Polanki named of Maciej Płażyński</name>
+      <address>
+        <city>Gdańsk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Tuberculosis and Lung Diseases</name>
+      <address>
+        <city>Rabka Zdrój</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinika Mukowiscydozy IMD Oddozial Chorob Pluc Szpzoz IM. Dzieci WarszaWY</name>
+      <address>
+        <city>Łomianki</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska Universitetssjukhuset</name>
+      <address>
+        <city>Göteborg</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lund University Skanes Universitetssjukhus</name>
+      <address>
+        <city>Malmoe</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska Universitetssjukhuset, Huddinge</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lindenhofspital - Quartier Bleu</name>
+      <address>
+        <city>Bern</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Réseau Hospitalier Neuchâtelois</name>
+      <address>
+        <city>Neuchâtel</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kinderspital Zuerich</name>
+      <address>
+        <city>Zürich</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Birmingham Children's Hospital</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Papworth Hospital NHS Foundation Trust</name>
+      <address>
+        <city>Cambridge</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Facility, Queen Elizabeth University Hospital</name>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Leeds General Infirmary</name>
+      <address>
+        <city>Leeds</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. James University Hospital</name>
+      <address>
+        <city>Leeds</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>King's College Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brompton Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Bartholomew's Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Manchester Children's Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wythenshawe Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>All Wales Adult Cystic Fibrosis Centre, University Hospital Llandough</name>
+      <address>
+        <city>Penarth</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southampton General Hospital</name>
+      <address>
+        <city>Southampton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>September 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>December 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cystic Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivacaftor</mesh_term>
+    <mesh_term>Elexacaftor</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Details on Vertex data sharing criteria and process for requesting access can be found at: https://www.vrtx.com/independent-research/clinical-trial-data-sharing</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

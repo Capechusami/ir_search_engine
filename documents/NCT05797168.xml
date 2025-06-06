@@ -1,0 +1,534 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05797168</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D8990C00001</org_study_id>
+    <nct_id>NCT05797168</nct_id>
+  </id_info>
+  <brief_title>Phase I/IIa Study for AZD5335 as Monotherapy and in Combination With Anti-cancer Agents in Participants With Solid Tumors</brief_title>
+  <acronym>FONTANA</acronym>
+  <official_title>FONTANA: A Modular Phase I/IIa, Open-label, Multi-center Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of Ascending Doses of AZD5335 Monotherapy and in Combination With Anti-cancer Agents in Participants With Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research is designed to determine if experimental treatment with Antibody-drug&#xD;
+      conjugate, AZD5335, alone, or in combination with anti-cancer agents is safe, tolerable, and&#xD;
+      has anti-cancer activity in patients with advanced tumors&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a Phase I/IIa modular, open-label, multi-center study of AZD5335 administered&#xD;
+      either as monotherapy or in combination with other anti-cancer agents in participants with&#xD;
+      advanced solid malignancies&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 10, 2023</start_date>
+  <completion_date type="Anticipated">October 6, 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 6, 2027</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>The study consists of individual modules, each evaluating the safety and tolerability of AZD5335 dosed as monotherapy or in combination with specific treatments.&#xD;
+Module 1 (AZD5335 monotherapy)&#xD;
+Module 2 (AZD5335 in combination with AZD5305)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events/serious adverse events</measure>
+    <time_frame>From time of Informed Consent to 30 days post last dose.</time_frame>
+    <description>Number of participants with incidence of adverse events and with serious adverse events including changes from baseline in laboratory parameters, vital signs, ECGs, and physical examination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number of participants with dose limiting toxicity(DLT), as defined in the protocol</measure>
+    <time_frame>From the first dose of AZD5335 on Cycle 1 Day 1 up to and including the planned end of Cycle 1( At the end of 21 days if every 3 week dosing is tested or 28 days if every 4 weeks dosing is explored)</time_frame>
+    <description>A DLT is defined as any ≥ Grade 3 treatment-emergent AE that occurs during the DLT evaluation period, not attributable to the underlying disease or extraneous causes (as defined in the protocol)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>From time of Informed Consent to progressive disease or withdrawal of consent.(approx 2 years)</time_frame>
+    <description>The percentage of participants with a confirmed CR or PR according to RECIST v1.1 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>From the first documented response to confirmed progression or death in the absence of disease progression.(approx 2 years)</time_frame>
+    <description>The time from the date of first response until date of disease progression or death in the absence of disease progression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>From time of Informed Consent until progression.(approx 15 weeks)</time_frame>
+    <description>The percentage of participants who have a best objective response of confirmed CR or PR or who have SD for at least 15 weeks after start of treatment (to allow for an early assessment within the assessment window).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free Survival (PFS)</measure>
+    <time_frame>From time of first dose of AZD5335 or AZD5305 until the date of objective disease progression or death (by any cause in the absence of progression).(approx 2 years)</time_frame>
+    <description>Progression-free survival is defined as the time from the start of treatment until the date of objective disease progression or death (by any cause in the absence of progression), regardless of whether the participant withdraws from assigned therapy or receives another anti-cancer therapy prior to progression. Participants who have not progressed or died at the time of analysis will be censored at the time of the latest date of assessment from their last evaluable RECIST v1.1 assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From time of first dose of AZD5335 or AZD5305 until death due to any cause.(approx 2 years)</time_frame>
+    <description>The time until death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 1: Pharmacokinetics of AZD5335: Area Under the concentration-time curve(AUC)</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335(approximately 12 weeks)</time_frame>
+    <description>Area under the plasma concentration-time curve</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 1: Pharmacokinetics of AZD5335: Maximum plasma concentration of the study drug (Cmax)</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335 (approximately 12 weeks)</time_frame>
+    <description>Maximum observed plasma concentration of the study drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 1: Pharmacokinetics of AZD5335: Time to maximum plasma concentration of the study drug (T-max)</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335 (approximately 12 weeks)</time_frame>
+    <description>Time to maximum observed plasma concentration of the study drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 1: Pharmacokinetics of AZD5335: Clearance</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335 (approximately 12 weeks)</time_frame>
+    <description>A pharmacokinetic measurement of the volume of plasma from which the study drug is completely removed per unit time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 1: Pharmacokinetics of AZD5335: Terminal elimination half-life (t 1/2)</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335 (approximately 12 weeks)</time_frame>
+    <description>Terminal elimination half life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics of AZD5335</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335(approx 2 years)</time_frame>
+    <description>The pharmacodynamics of AZD5335 by assessing changes in peripheral blood including, but not limited to cytokines, CA-125 and ctDNA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of AZD5335</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5535.(approx 2 years)</time_frame>
+    <description>The number and percentage of participants who develop ADAs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 1: To investigate baseline and on treatment changes in target expression.</measure>
+    <time_frame>Baseline and predicted intervals throughout the administration of AZD5335(approx 2 years)</time_frame>
+    <description>The clinical activity by baseline and on-treatment changes in tumor target expression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 2: Pharmacokinetics of AZD5335 and AZD5305 when given in combination.</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335 and AZD5305.(approx 12 weeks)</time_frame>
+    <description>The plasma concentrations of AZD5335, total antibody, and total unconjugated warhead.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 2: Area Under the concentration-time curve (AUC)</measure>
+    <time_frame>At predefined intervals throughout the treatment period (approximately 12 weeks)</time_frame>
+    <description>Area under the plasma concentration-time curve</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 2: Maximum plasma concentration of the study drug (Cmax)</measure>
+    <time_frame>At predefined intervals throughout the treatment period (approximately 12 weeks)</time_frame>
+    <description>Maximum observed plasma concentration of the study drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 2: Time to maximum plasma concentration of the study drug (T-max)</measure>
+    <time_frame>At predefined intervals throughout the treatment period (approximately 12 weeks)</time_frame>
+    <description>Time to maximum observed plasma concentration of the study drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 2: Clearance</measure>
+    <time_frame>At predefined intervals throughout the treatment period (approximately 12 weeks)</time_frame>
+    <description>A pharmacokinetic measurement of the volume of plasma from which the study drug is completely removed per unit time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Module 2: Terminal elimination half-life (t 1/2)</measure>
+    <time_frame>From the first dose of study intervention, at predefined intervals throughout the administration of AZD5335 (approximately 12 weeks)</time_frame>
+    <description>Terminal elimination half life.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <condition>Lung Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>Module 1: AZD5335 Monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD5335 Monotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Module 2: AZD5335 + AZD5305</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD5335 + AZD5305</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD5335</intervention_name>
+    <description>IV Antibody-drug conjugate</description>
+    <arm_group_label>Module 1: AZD5335 Monotherapy</arm_group_label>
+    <arm_group_label>Module 2: AZD5335 + AZD5305</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD5305</intervention_name>
+    <description>Oral PARP inhibitor</description>
+    <arm_group_label>Module 2: AZD5335 + AZD5305</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Core Inclusion Criteria:&#xD;
+&#xD;
+          -  Capable of giving signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the informed consent form and in this&#xD;
+             protocol.&#xD;
+&#xD;
+          -  Provision of signed and dated written Optional Genetic Research Information informed&#xD;
+             consent prior to collection of samples for optional genetic research that supports&#xD;
+             Genomic Initiative. Participants who do not provide informed consent for Optional&#xD;
+             Genetic Research may still be enrolled in the study.&#xD;
+&#xD;
+          -  Consent to provide adequate baseline tumor sample, as applicable per module-specific&#xD;
+             criteria.&#xD;
+&#xD;
+          -  Participant must be ≥ 18 years at the time of signing the informed consent.&#xD;
+&#xD;
+          -  Willing to provide archival or baseline tumor sample.&#xD;
+&#xD;
+          -  For participants who have previously received targeted therapies such as ADCs, a fresh&#xD;
+             baseline biopsy will be required.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group Performance Status of 0 or 1.&#xD;
+&#xD;
+          -  Participants with advanced solid tumors must have received prior adequate therapy in&#xD;
+             accordance with local practice for their tumor type and stage of disease, or, in the&#xD;
+             opinion of the Investigator, a clinical trial is the best option for the next&#xD;
+             treatment based on response and/or tolerability to prior therapy. Participants with&#xD;
+             contraindications or who refuse therapy in accordance with local practice may also be&#xD;
+             considered provided that it is documented that he/she was informed about all&#xD;
+             therapeutic options.&#xD;
+&#xD;
+          -  Participants must have measurable disease per RECIST v1.1,&#xD;
+&#xD;
+               1. A previously irradiated lesion can be considered a target lesion if the lesion is&#xD;
+                  progressing and well defined.&#xD;
+&#xD;
+               2. For participants who undergo biopsies at screening and/or on treatment, it is&#xD;
+                  preferred though not required, that the biopsied lesion, be distinct from any&#xD;
+                  target lesion used in the RECIST v1.1 evaluation.&#xD;
+&#xD;
+          -  Life expectancy ≥ 12 weeks.&#xD;
+&#xD;
+          -  Adequate organ and marrow function.&#xD;
+&#xD;
+          -  Contraceptive use by men or women should be consistent with local regulations&#xD;
+             regarding the methods of contraception for those participating in clinical studies.&#xD;
+&#xD;
+             (a) Male participants: (i) Non-sterilized male participants who are sexually active&#xD;
+             with a female partner of childbearing potential must use a male condom (plus&#xD;
+             spermicide, if available) post-screening through 5 half-lives (45 days) plus 6 months&#xD;
+             (approximately 7.5 months) following the last dose of study intervention. It is&#xD;
+             strongly recommended for the female partner of a male participant to also use a highly&#xD;
+             effective method of contraception throughout this period. In addition, male&#xD;
+             participants must refrain from sperm donation while on study and for 5 half lives (45&#xD;
+             days) plus 6 months (~7.5 months) following the last dose of study intervention.&#xD;
+&#xD;
+             (b) Female participants: (i) Females of childbearing potential must have a negative&#xD;
+             urine or serum pregnancy test within 72 hours prior to receiving the first dose of&#xD;
+             study intervention and a negative urine or serum pregnancy test prior to starting&#xD;
+             their next cycle of treatment. If the urine test is positive or cannot be confirmed as&#xD;
+             negative, a serum pregnancy test will be required.&#xD;
+&#xD;
+        Female participants of childbearing potential who are sexually active with a non-sterilized&#xD;
+        male partner must agree to use one highly effective method of birth control (defined as one&#xD;
+        that can achieve a failure rate of less than 1% per year when used consistently and&#xD;
+        correctly), from enrolment throughout the study and for 5 half-lives (45 days) plus 6&#xD;
+        months (In total, 7.5 months) following the last dose of study intervention. It is strongly&#xD;
+        recommended for the male partner of a female participants to also use male condom (plus&#xD;
+        spermicide, if available) throughout this period. Cessation of contraception after this&#xD;
+        point should be discussed with a responsible physician. In addition, female participants&#xD;
+        must refrain from egg donation while on study and for 5 half-lives (45 days) plus 6 months&#xD;
+        (~7.5 months) following the last dose of study intervention.&#xD;
+&#xD;
+        Core Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with spinal cord compression or a history of leptomeningeal carcinomatosis.&#xD;
+&#xD;
+          -  Patients with brain metastases unless, asymptomatic, stable, and not requiring&#xD;
+             continuous corticosteroids at a dose of &gt; 10 mg prednisone/day or equivalent for at&#xD;
+             least 4 weeks prior to first dose of study intervention.&#xD;
+&#xD;
+          -  Treatment with any of the following, without adequate washout periods or time before&#xD;
+             the first dose of study intervention.&#xD;
+&#xD;
+          -  Unresolved toxicities of Grade ≥ 2 (National Cancer Institute [NCI] Common Terminology&#xD;
+             Criteria for Adverse Events [CTCAE] v5.0) from prior therapy (excluding vitiligo,&#xD;
+             alopecia, and endocrine disorders that are controlled with replacement hormone&#xD;
+             therapy). Participants with stable ≤ Grade 2 neuropathy are eligible.&#xD;
+&#xD;
+          -  Active infection, including tuberculosis and infections with hepatitis B virus (HBV;&#xD;
+             verified by known positive hepatitis B surface antigen [HBsAg] result), hepatitis C&#xD;
+             virus (HCV) or known HIV infection that is not well controlled. All of the following&#xD;
+             criteria are required to define an HIV infection that is well controlled: undetectable&#xD;
+             viral RNA, CD4+ count ≥ 350/mm3, no history of acquired immune deficiency&#xD;
+             syndrome-defining opportunistic infection within the past 12 months, and stable for at&#xD;
+             least 4 weeks on the same anti-HIV medications (meaning there are no expected further&#xD;
+             changes in that time to the number or type of antiretroviral drugs in the regimen).&#xD;
+&#xD;
+        Patients with a past or resolved HBV/HCV infection are eligible if:&#xD;
+&#xD;
+        (a) Negative for HBsAg and positive for anti-HBc or (b) Are HBsAg + with chronic HBV&#xD;
+        infection (lasting 6 months or longer) and meet conditions i-iii below: (i) HBV DNA viral&#xD;
+        load &lt;100 IU/mL. (ii) Have normal transaminase values, or, if liver metastases are present,&#xD;
+        abnormal transaminases, with a result of AST/ALT &lt;3 × ULN, which are not attributable to&#xD;
+        HBV infection.&#xD;
+&#xD;
+        (iii) Start or maintain antiviral treatment if clinically indicated as per the Investigator&#xD;
+        or as per local guideline.&#xD;
+&#xD;
+        Note for Japan: Japanese patients with positive anti-HBs/anti-HBc and negative HBsAg will&#xD;
+        be assessed following local guidelines.&#xD;
+&#xD;
+        (c) Participants testing positive for HCV antibody are eligible only if the polymerase&#xD;
+        chain reaction test result is negative for HCV RNA.&#xD;
+&#xD;
+          -  Patient has ILD/pneumonitis or has a history of (non-infectious) ILD/pneumonitis that&#xD;
+             required oral or IV steroids or supplemental oxygen, or where suspected&#xD;
+             ILD/pneumonitis cannot be ruled out by imaging at screening.&#xD;
+&#xD;
+               -  Patients with a history of radiation pneumonitis which has clinically and&#xD;
+                  radiologically resolved and not requiring treatment with steroids may be&#xD;
+                  eligible.&#xD;
+&#xD;
+          -  History of another primary malignancy except for:&#xD;
+&#xD;
+               -  Malignancy treated with curative intent and with no known active disease for at&#xD;
+                  least 2 years prior to screening of study intervention and with low potential&#xD;
+                  risk for recurrence.&#xD;
+&#xD;
+               -  Adequately treated nonmelanoma skin cancer or lentigo maligna without evidence of&#xD;
+                  disease.&#xD;
+&#xD;
+               -  Adequately treated carcinoma in situ without evidence of disease.&#xD;
+&#xD;
+               -  Localized non-invasive primary disease under surveillance.&#xD;
+&#xD;
+          -  Patients with any of the following cardiac criteria:&#xD;
+&#xD;
+               -  History of arrhythmia (such as multifocal premature ventricular contractions,&#xD;
+                  bigeminy, trigeminy, and ventricular tachycardia), which is symptomatic or&#xD;
+                  requires treatment (NCI CTCAE v5.0 Grade 3); symptomatic or uncontrolled atrial&#xD;
+                  fibrillation despite treatment, or asymptomatic sustained ventricular&#xD;
+                  tachycardia.&#xD;
+&#xD;
+                    -  NOTE: significant abnormalities in serum electrolytes that can increase the&#xD;
+                       risk of arrhythmic events (ie, sodium, potassium, calcium, and magnesium)&#xD;
+                       should be corrected before starting the study intervention.&#xD;
+&#xD;
+               -  Uncontrolled hypertension.&#xD;
+&#xD;
+               -  Acute coronary syndrome/acute myocardial infarction, unstable angina pectoris,&#xD;
+                  coronary intervention procedure with percutaneous coronary intervention, or&#xD;
+                  coronary artery bypass grafting within 6 months of screening.&#xD;
+&#xD;
+               -  History of brain perfusion problems (eg, carotid stenosis) or stroke, or&#xD;
+                  transient ischemic attack in the last 6 months prior to screening.&#xD;
+&#xD;
+               -  Symptomatic heart failure (as defined by New York Heart Association class ≥ 2).&#xD;
+&#xD;
+               -  Prior or current cardiomyopathy.&#xD;
+&#xD;
+               -  Severe valvular heart disease.&#xD;
+&#xD;
+               -  Mean resting QTcF &gt; 470 msec obtained from triplicate ECGs and averaged, recorded&#xD;
+                  within 5 minutes.&#xD;
+&#xD;
+               -  Any factors that increase the risk of QTc prolongation or risk of arrhythmic&#xD;
+                  events such as heart failure, congenital long QT syndrome, family history of long&#xD;
+                  QT syndrome or unexplained sudden death under 40 years of age.&#xD;
+&#xD;
+               -  Concomitant medications known to prolong QTc should be used with caution and&#xD;
+                  cannot be used starting with the first dose of study intervention and through the&#xD;
+                  DLT review period or during the scheduled ECG assessments.&#xD;
+&#xD;
+               -  Concomitant use of medications or herbal supplements known to be strong or&#xD;
+                  moderate inhibitors of the cytochrome P450 (CYP3A4).&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness within 12 months prior to screening, including but&#xD;
+             not limited to serious chronic GI conditions associated with diarrhea, or psychiatric&#xD;
+             illness/social situations that would limit compliance with study requirement,&#xD;
+             substantially increase risk of incurring AEs or compromise the ability of the&#xD;
+             participant to give written informed consent.&#xD;
+&#xD;
+          -  Substance abuse or any other medical conditions that would increase the safety risk to&#xD;
+             the participant or interfere with participation of the participant or evaluation of&#xD;
+             the clinical study in the opinion of the Investigator.&#xD;
+&#xD;
+          -  Receipt of live attenuated vaccine within 30 days prior to the first dose of study&#xD;
+             intervention. Note: Participants, if enrolled, should not receive live vaccine whilst&#xD;
+             receiving study intervention and up to 30 days after the last dose of study&#xD;
+             intervention. Participants can receive Coronavirus (COVID)-19 vaccines, at the&#xD;
+             discretion of the Investigator, following a benefit/risk evaluation for the individual&#xD;
+             participant and in accordance with local rules and regulations and vaccination&#xD;
+             guidelines. Note: If a COVID-19 vaccine is administered it should be done &gt; 72 hours&#xD;
+             prior to study intervention initiation or after completion of the DLT period.&#xD;
+&#xD;
+          -  For women only - currently pregnant (confirmed with positive pregnancy test),&#xD;
+             lactating, breastfeeding, or intend to become pregnant during the study period.&#xD;
+&#xD;
+          -  Concurrent enrolment in another clinical study, unless it is an observational (non&#xD;
+             interventional) clinical study or during the follow-up period of an interventional&#xD;
+             study.&#xD;
+&#xD;
+          -  Patients with a known hypersensitivity to study intervention or any of the excipients&#xD;
+             of the product.&#xD;
+&#xD;
+          -  Involvement in the planning and/or conduct of the study (applies to both AstraZeneca&#xD;
+             staff and/or staff at the study site).&#xD;
+&#xD;
+          -  Judgment by the Investigator that the patient should not participate in the study if&#xD;
+             the patient is unlikely to comply with study procedures, restrictions and&#xD;
+             requirements.&#xD;
+&#xD;
+          -  Previous enrolment in the present study. **Other module specific criteria may apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>130 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ADC</keyword>
+  <keyword>PARP inhibitor</keyword>
+  <keyword>AZD5335</keyword>
+  <keyword>AZD5305</keyword>
+  <keyword>Ovarian Cancer</keyword>
+  <keyword>Lung Adenocarcinoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Adenocarcinoma of Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.&#xD;
+All request will be evaluated as per the AZ disclosure commitment:&#xD;
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.&#xD;
+Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,320 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626322</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4971003</org_study_id>
+    <secondary_id>2022-50242721-00</secondary_id>
+    <nct_id>NCT05626322</nct_id>
+  </id_info>
+  <brief_title>Effects of PF-07901801,Tafasitamab, and Lenalidomide in People With Relapsed or Refractory Diffuse Large B-cell Lymphoma</brief_title>
+  <official_title>A PHASE 1b/2 STUDY OF PF-07901801, A CD47 BLOCKING AGENT, WITH TAFASITAMAB AND LENALIDOMIDE FOR PARTICIPANTS WITH RELAPSED/REFRACTORY DIFFUSE LARGE B CELL LYMPHOMA NOT ELIGIBLE FOR STEM CELL TRANSPLANTATION</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>MorphoSys AG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Incyte Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to learn about the effects of three study medicines&#xD;
+      (PF-07901801, tafasitamab, and lenalidomide) when given together for the treatment of diffuse&#xD;
+      large B-cell lymphoma (DLBCL) that:&#xD;
+&#xD;
+        -  is relapsed (has returned after last treatment) or&#xD;
+&#xD;
+        -  is refractory (has not responded to last treatment)&#xD;
+&#xD;
+      DLBCL is a type of non-Hodgkin lymphoma (NHL). NHL is a cancer of the lymphatic system. It&#xD;
+      develops when the body makes abnormal B lymphocytes. These lymphocytes are a type of white&#xD;
+      blood cell that normally help to fight infections.&#xD;
+&#xD;
+      This study is seeking participants who are unable or unwilling to undergo a stem cell&#xD;
+      transplant. Stem cell transplant is when doctors put healthy blood cells back into your body.&#xD;
+&#xD;
+      Everyone in this study will receive all three medicines. Participants will receive&#xD;
+      PF-07901801 and tafasitamab at the study clinic by intravenous (IV) infusion (given directly&#xD;
+      into a vein). Study interventions will be administered in 28-day cycles. PF-0791801 will be&#xD;
+      given weekly for the first three cycles and then every two weeks. Tafasitamab will&#xD;
+      administered on Days 1, 4, 8, 15 and 22 in cycle 1, weekly in cycles 2 and 3 and then every 2&#xD;
+      weeks in cycle 4 and beyond. Lenalidomide will be taken by mouth at home every day for Days 1&#xD;
+      to 21 of each 28-day cycle for the first 12 cycles.&#xD;
+&#xD;
+      Participants can continue to take PF-07901801 and tafasitamab until their lymphoma is no&#xD;
+      longer responding. Lenalidomide is discontinued after 12 cycles.&#xD;
+&#xD;
+      PF-07901801 will be given at different doses to different participants. Everyone taking part&#xD;
+      will receive approved doses of tafasitamab and lenalidomide. We will compare the experiences&#xD;
+      of people receiving different doses of PF-07901801. This will help us to determine what dose&#xD;
+      is safe and effective dose when combined with the other 2 study medicines.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, open-label, Phase 1b/2 study to evaluate the safety, tolerability and&#xD;
+      potential clinical benefits of PF-07901801, an anti-CD47 molecule, in combination with&#xD;
+      standard doses of tafasitamab and lenalidomide in participants with relapsed/refractory (R/R)&#xD;
+      DLBCL not eligible for or unwilling to undergo high dose chemotherapy and subsequent&#xD;
+      autologous stem cell transplantation (ASCT) or unable to receive approved chimeric antigen&#xD;
+      receptor T-cell (CAR-T) therapy (for example, due to logistical limitations).&#xD;
+&#xD;
+      For Phase 1b, participants must have previously received at least 1 prior systemic treatment&#xD;
+      regimen. For Phase 2, participants must have received at least 1 but no more than 2 prior&#xD;
+      systemic treatment regimens. All participants must have previously received an anti-CD20&#xD;
+      containing regimen.&#xD;
+&#xD;
+      Phase 1b will assess dose-limiting toxicities of PF-07901801 when administered in combination&#xD;
+      with tafasitamab and lenalidomide, to select up to 2 doses for the Phase 2 part of the study.&#xD;
+      Phase 2 will evaluate safety and efficacy to determine the recommended Phase 3 dose of&#xD;
+      PF-07901801 to be administered in combination with tafasitamab and lenalidomide.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 21, 2023</start_date>
+  <completion_date type="Anticipated">March 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">September 11, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Open label/randomized</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1b: Dose limiting toxicity (DLT) rate</measure>
+    <time_frame>28 days following first dose</time_frame>
+    <description>DLTs are a predefined set of adverse events that are at least possibly related to any or all of the investigational agents.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2: Objective Response (OR)</measure>
+    <time_frame>Time from the date of first dose of study intervention until the first documentation of disease progression, death, or start of new anticancer therapy (assessed up to approximately 24 months)</time_frame>
+    <description>OR defined as complete response or partial response as per Lugano Response Classification Criteria 2014</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Frequency of adverse events (AE)</measure>
+    <time_frame>Time from the date of first dose of study intervention through 28 days after last dose of study intervention (assessed up to approximately 24 months)</time_frame>
+    <description>Type and severity (severity according to the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE], version 5.0).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Frequency of clinical laboratory abnormalities</measure>
+    <time_frame>Time from the date of first dose of study intervention through 28 days after last dose of study intervention (assessed up to approximately 24 months)</time_frame>
+    <description>Type and severity (severity according to the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE], version 5.0).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b: Objective Response (OR)</measure>
+    <time_frame>Time from the date of first dose of study intervention until the first documentation of disease progression, death, or start of new anticancer therapy (assessed up to approximately 24 months)</time_frame>
+    <description>OR defined as complete response or partial response per Lugano Response Classification Criteria 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Duration of Response (DoR)</measure>
+    <time_frame>Time from the first documentation of objective response until disease progression or death due to any cause, whichever occurs first (assessed up to approximately 24 months)</time_frame>
+    <description>CR and PR defined per Lugano Response Classification Criteria 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Complete Response (CR)</measure>
+    <time_frame>Time from the date of first dose of study intervention until the first documentation of disease progression, death, or start of new anticancer therapy (assessed up to approximately 24 months)</time_frame>
+    <description>CR defined per Lugano Response Classification Criteria 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Duration of Complete Response (DoCR)</measure>
+    <time_frame>Time from the first documentation of a CR until PD, or death due to any cause, whichever occurs first (assessed up to approximately 24 months)</time_frame>
+    <description>CR defined per Lugano Response Classification Criteria 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Progression Free Survival (PFS)</measure>
+    <time_frame>Time from the date of first dose of study intervention until PD, or death due to any cause, whichever occurs first (assessed up to approximately 24 months)</time_frame>
+    <description>Progression defined per Lugano Response Classification Criteria 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Pharmacokinetic parameters of PF-07901801</measure>
+    <time_frame>On the first and 8th day of the first 28-day cycle, then the first day of every cycle through 6 cycles, then every third cycle through 13 cycles and every sixth cycle thereafter until end of treatment (assessed up to approximately 24 months)</time_frame>
+    <description>Pre- and post-dose concentrations of PF-07901801</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Pharmacokinetic parameters of tafasitamab</measure>
+    <time_frame>On the first day of every 28-day cycle through 6 cycles, then every third cycle through 13 cycles and every sixth cycle thereafter until end of treatment (assessed up to approximately 24 months)</time_frame>
+    <description>Pre-dose concentrations of tafasitamab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Pharmacokinetic parameters of of lenalidomide</measure>
+    <time_frame>On the first first day of the first four 28-day cycles.</time_frame>
+    <description>Pre-dose concentrations of lenalidomide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Incidence of Anti-Drug Antibody (ADA) against PF-07901801</measure>
+    <time_frame>On the first day of every 28-day cycle through 6 cycles, then every third cycle through 13 cycles and every sixth cycle thereafter until end of treatment (assessed up to approximately 24 months)</time_frame>
+    <description>To evaluate immunogenicity of PF-07901801</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Incidence of Anti-Drug Antibody (ADA) against tafasitamab</measure>
+    <time_frame>On the first day of every 28-day cycle through 6 cycles, then every third cycle through 13 cycles and every sixth cycle thereafter until end of treatment (assessed up to approximately 24 months)</time_frame>
+    <description>To evaluate immunogenicity of tafasitamab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Neutralizing antibody (NAb) titers for PF-07901801</measure>
+    <time_frame>On the first day of every 28-day cycle through 6 cycles, then every third cycle through 13 cycles and every sixth cycle thereafter until end of treatment (assessed up to approximately 24 months)</time_frame>
+    <description>To evaluate immunogenicity of PF-07901801</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Neutralizing antibody (NAb) titers for tafasitamab</measure>
+    <time_frame>On the first day of every 28-day cycle through 6 cycles, then every third cycle through 13 cycles and every sixth cycle thereafter until end of treatment (assessed up to approximately 24 months)</time_frame>
+    <description>To evaluate immunogenicity of tafasitamab</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Diffuse Large B-Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Phase 1b</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be allocated to sequential dose levels of PF-07901801, administered in combination with standard doses of tafasitamab and lenalidomide, to select two doses for further evaluation in Phase 2. Approximately 20 participants will be enrolled.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to 1 of 2 different dose levels of PF-07901801 which will be administered in combination with standard doses of tafasitamab and lenalidomide. Approximately 50 participants will be enrolled (25 per dose).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-07901801</intervention_name>
+    <description>Intravenous infusion</description>
+    <arm_group_label>Phase 1b</arm_group_label>
+    <arm_group_label>Phase 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tafasitamab</intervention_name>
+    <description>Intravenous infusion</description>
+    <arm_group_label>Phase 1b</arm_group_label>
+    <arm_group_label>Phase 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide</intervention_name>
+    <description>Oral (by mouth)</description>
+    <arm_group_label>Phase 1b</arm_group_label>
+    <arm_group_label>Phase 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed diagnosis of DLBCL&#xD;
+&#xD;
+          -  Relapsed or refractory disease&#xD;
+&#xD;
+          -  Participant is not be a candidate for or is unwilling to undergo high dose&#xD;
+             chemotherapy and subsequent stem cell transplant and/or is unable to receive chimeric&#xD;
+             antigen receptor (CAR) T-cell therapy&#xD;
+&#xD;
+          -  Previous treatment with at least one prior line of systemic therapy (for phase 2, at&#xD;
+             least 1 and no more than 2 prior lines of systemic therapy). Prior therapy must&#xD;
+             include an anti-CD20 antibody.&#xD;
+&#xD;
+          -  Adequate bone marrow, hepatic and renal function&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) ≤2&#xD;
+&#xD;
+          -  Must provide a tumor tissue sample (fresh or archival, collected prior to start of&#xD;
+             treatment) for biomarker analysis&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior treatment with an anti-CD47 or anti-CD19 (other than CAR T) or immunomodulatory&#xD;
+             agents&#xD;
+&#xD;
+          -  Prior allogeneic stem cell transplantation or autologous stem cell transplantation&#xD;
+             within 12 weeks prior to enrolment&#xD;
+&#xD;
+          -  Participants with active, uncontrolled bacterial, fungal or viral infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Auxilio Mutuo Cancer Center</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4971003</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>April 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>DLBCL</keyword>
+  <keyword>Lymphoma</keyword>
+  <keyword>Relapsed</keyword>
+  <keyword>Refractory</keyword>
+  <keyword>CD19</keyword>
+  <keyword>CD47</keyword>
+  <keyword>Tafasitamab</keyword>
+  <keyword>Lenalidomide</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lenalidomide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

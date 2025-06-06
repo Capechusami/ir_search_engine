@@ -1,0 +1,243 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790473</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5526</org_study_id>
+    <nct_id>NCT05790473</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence Algorithm for the Screening of Abnormal Fetal Brain Findings at First Trimester Ultrasound Scan</brief_title>
+  <acronym>AIRFRAME</acronym>
+  <official_title>Artificial Intelligence Algorithm for the Screening of Abnormal Fetal Brain Findings at First Trimester Ultrasound Scan</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministero della Salute, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda Ospedaliero-Universitaria di Parma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale Di Venere, ASL BA, Bari Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Visualization of the posterior fossa brain spaces, their spatial relationship and&#xD;
+      measurements can be obtained in the midsagittal view of fetal head, the same used for NT&#xD;
+      measurement (9), and plays an important role in the early diagnosis of neural tube defects,&#xD;
+      such as open spinal dysraphism (5), and posterior fossa anomalies, such as DWM or BPC (7).&#xD;
+      However, assessment of the fetal posterior fossa in the first trimester is still challenging&#xD;
+      due to several limitations including involuntary movements of the fetus and small size of the&#xD;
+      brain structures, causing difficulties for examination and misdiagnosis. Moreover, it is also&#xD;
+      operator-dependent for the acquirement of high-quality ultrasound images, standard&#xD;
+      measurements, and precise diagnosis.&#xD;
+&#xD;
+      The use of new technologies to improve the acquisition of images, to help automatically&#xD;
+      perform measurements, or aid in the diagnosis of fetal abnormalities, may be of great&#xD;
+      importance for the optimal assessment of the fetal brain, particularly in the first trimester&#xD;
+      (10). Artificial intelligence (AI) is described as the ability of a computer program to&#xD;
+      perform processes associated with human intelligence, such as learning, thinking and&#xD;
+      problem-solving. Deep Learning (DL), a subset of Machine Learning (ML), is a branch of AI,&#xD;
+      deﬁned by the ability to learn features automatically from data without human intervention.&#xD;
+      In DL, the input and output are connected by multiple layers loosely modeled on the neural&#xD;
+      pathways of the human brain. In the image recognition field, one of the most promising type&#xD;
+      of DL networks is represented by convolutional neural networks (CNN). These are designed to&#xD;
+      extract highly representative image features in a fully automated way, which makes them&#xD;
+      applicable to diagnostic decision-making.&#xD;
+&#xD;
+      According to these observations, we propose a research project aimed to develop an&#xD;
+      ultrasound-based AI-algorithm, which is capable to assess the fetal posterior fossa&#xD;
+      structures during the first trimester ultrasound scan and discriminate between normal and&#xD;
+      abnormal findings through a fully automatic data processing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The application of AI in obstetric ultrasound includes three aspects: structure&#xD;
+      identification, automatic and standardized measurements, and classification diagnosis. Since&#xD;
+      obstetric ultrasound is time-consuming, the use of AI could also reduce examination time and&#xD;
+      improve workflow.&#xD;
+&#xD;
+      Study design: this is a multicenter retrospective observational cohort study and subsequent&#xD;
+      prospective cohort study. The study design will be organized in two different phases.&#xD;
+&#xD;
+      The first phase, the feasibility retrospective study, has the objective to develop and train&#xD;
+      AI-Algorithm with normal and abnormal images retrospectively acquired during first trimester&#xD;
+      ultrasound scan from ten international fetal medicine centers.&#xD;
+&#xD;
+      The second phase, a prospective clinical validation, has the objective to test the&#xD;
+      AI-Algorithm in the assessment of the fetal posterior fossa anatomy in a real clinic setting&#xD;
+      with real patients from each of the participating fetal medicine centers.&#xD;
+&#xD;
+      Setting: Three (3) fetal medicine centers.&#xD;
+&#xD;
+      Participants: singleton pregnant population who underwent ultrasound examination between 11 -&#xD;
+      14 weeks of gestation in ten fetal medicine centers.&#xD;
+&#xD;
+      Primary endpoint: To validate a novel AI-based technology, which could potentially be used as&#xD;
+      a screening tool for fetal brain abnormal findings in the first trimester.&#xD;
+&#xD;
+      Secondary endpoints: To improve the performance of the standard first trimester screening of&#xD;
+      fetal posterior fossa ensuring its reliable sonographic assessment within a shorter time of&#xD;
+      execution. To detect higher repeatability and reproducibility, allowing to implement the&#xD;
+      ultrasound screening also in terms of efficiency on a vast scale, optimizing healthcare&#xD;
+      resources In the first phase of the study, participating fetal medicine centers will search&#xD;
+      their electronic databases for midsagittal images of singleton pregnant women who underwent&#xD;
+      ultrasound imaging at 11+0 - 13+6 weeks of gestation with any fetal posterior fossa anomaly,&#xD;
+      such as open spinal dysraphism, DWM or BPC. Normal images of the fetal posterior fossa at the&#xD;
+      same gestational age will be provided by the promoting centers - i.e., Fondazione Policlinico&#xD;
+      A. Gemelli, IRCCS and University of Parma. Clinical, ultrasound, prenatal and postnatal&#xD;
+      information of each case will be retrieved from patient's medical records and entered an&#xD;
+      electronic database collection file by the principal investigator from each participating&#xD;
+      center. The acquired images will be anonymized, saved as DICOM and shared through a dedicated&#xD;
+      cloud storage system which will be set up by the bioengineering team. Each center will be&#xD;
+      able to access the web system using a personal ID and password.&#xD;
+&#xD;
+      In the second phase of the study, the algorithm will be prospectively tested and validated in&#xD;
+      a real clinical setting with real patients from each of the participating fetal medicine&#xD;
+      centers. Inclusion and exclusion criteria, imaging protocol and data collection will be the&#xD;
+      same carried out during the retrospective phase.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">May 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AI algorithm</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number of cases detected with AI algorithm application</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reproducibility</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of cases detected with AI algorithm application compared with those detected with standard techniques of prenatal diagnosis</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Fetal Anomaly</condition>
+  <condition>Brain Malformation</condition>
+  <arm_group>
+    <arm_group_label>Case</arm_group_label>
+    <description>Fetuses with brain anomalies</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <description>Normal with normal brain</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Artificial Intelligence</intervention_name>
+    <description>Development of AI algorithm for early detection of fetal brain anomalies in the first trimester of pregnancy</description>
+    <arm_group_label>Case</arm_group_label>
+    <arm_group_label>Controls</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All pregnancies undergoing first trimester screening&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women with single pregnancies who underwent ultrasound examination between 11+0 - 13+6&#xD;
+             weeks of gestation or a fetal crown-rump-length between 45 - 84 mm.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women who did not have the first trimester screening scan at the settled gestational&#xD;
+             age.&#xD;
+&#xD;
+          -  Women in which a good visualization of the mid-sagittal view of the fetal head was not&#xD;
+             technically possible.&#xD;
+&#xD;
+          -  Women who are not able to give the informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>pregnant women</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alessandra Familiari, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fondazione Policlinico Agostino Gemelli</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alessandra Familiari, MD</last_name>
+    <phone>3285887422</phone>
+    <email>familiari.ale@gmail.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Garcia-Rodriguez R, Garcia-Delgado R, Romero-Requejo A, Medina-Castellano M, Garcia-Hernandez JA, Gonzalez-Martin JM, Sepulveda W. First-trimester cystic posterior fossa: reference ranges, associated findings, and pregnancy outcomes. J Matern Fetal Neonatal Med. 2021 Mar;34(6):933-942. doi: 10.1080/14767058.2019.1622673. Epub 2019 Jun 4.</citation>
+    <PMID>31113257</PMID>
+  </reference>
+  <reference>
+    <citation>Chaoui R, Benoit B, Mitkowska-Wozniak H, Heling KS, Nicolaides KH. Assessment of intracranial translucency (IT) in the detection of spina bifida at the 11-13-week scan. Ultrasound Obstet Gynecol. 2009 Sep;34(3):249-52. doi: 10.1002/uog.7329.</citation>
+    <PMID>19705402</PMID>
+  </reference>
+  <reference>
+    <citation>Drukker L, Noble JA, Papageorghiou AT. Introduction to artificial intelligence in ultrasound imaging in obstetrics and gynecology. Ultrasound Obstet Gynecol. 2020 Oct;56(4):498-505. doi: 10.1002/uog.22122.</citation>
+    <PMID>32530098</PMID>
+  </reference>
+  <reference>
+    <citation>Chen Z, Liu Z, Du M, Wang Z. Artificial Intelligence in Obstetric Ultrasound: An Update and Future Applications. Front Med (Lausanne). 2021 Aug 27;8:733468. doi: 10.3389/fmed.2021.733468. eCollection 2021.</citation>
+    <PMID>34513890</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</investigator_affiliation>
+    <investigator_full_name>Familiari Alessandra</investigator_full_name>
+    <investigator_title>Clinician</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Congenital Abnormalities</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>DICOM images through a drive among the centres</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>after 1 year and for 1 year</ipd_time_frame>
+    <ipd_access_criteria>pathological cases</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

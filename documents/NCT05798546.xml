@@ -1,0 +1,308 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798546</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BGI-003</org_study_id>
+    <nct_id>NCT05798546</nct_id>
+  </id_info>
+  <brief_title>Treatment of Advanced Solid Tumors With Neo-T(GI-NeoT-02)</brief_title>
+  <official_title>The Safety,Tolerance and Efficacy of Neoantigen Targeting T Cells Suspension for Intravenous Infusion(Neo-T) to Advanced Solid Tumor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BGI, China</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BGI, China</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the safety of Neo-T in the treatment of&#xD;
+      advanced solid tumors.&#xD;
+&#xD;
+      The secondary objective of this study is to evaluate preliminarily the effect of Neo-T in the&#xD;
+      treatment of advanced solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single arm, open label and non-randomized clinical study with two parts.&#xD;
+&#xD;
+      In Part A, 6 subjects with advanced solid tumors will be enrolled to assess the safety and&#xD;
+      explore maximum tolerated dose(MTD) or recommended dose of Neo-T.&#xD;
+&#xD;
+      Depending on results in Part A, the study may proceed to Part B, where 15 subjects with&#xD;
+      advanced solid tumors will be enrolled to evaluate the effect of Neo-T.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2022</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events as assessed by CTCAE v5.0.</measure>
+    <time_frame>one month</time_frame>
+    <description>Keep records the adverse events experienced by subjects in 28 days after the first infusion.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate(ORR)</measure>
+    <time_frame>one year</time_frame>
+    <description>ORR is defined as the proportion of participants with tumor size reduction(CR,PR) assessed by RECIST 1.1 and iRECIST.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate(DCR)</measure>
+    <time_frame>one year</time_frame>
+    <description>DCR is defined as the proportion of participants with tumor size reduction(CR,PR) and stable disease(SD) assessed by RECIST 1.1 and iRECIST.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall survival(OS)</measure>
+    <time_frame>one year</time_frame>
+    <description>The time from the first infusion of Investigational Product until death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>progression-free survival(PFS)</measure>
+    <time_frame>one year</time_frame>
+    <description>PFS is defined as the time from the first infusion of Investigational Product until objective tumor progression, as assessed by RECIST 1.1 and iRECIST, or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response(DOR)</measure>
+    <time_frame>one year</time_frame>
+    <description>DOR refers to the period from the first evaluation of tumor as CR or PR to the first evaluation as PD(Progressive Disease) per RECIST1.1 and iRECIST.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Treament of Neo-T</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A dose escalation will use a 3+3 design and will enroll cohorts of 3-6 patients with MEL or NSCLC at escalating doses of 1.2×10^9 cells and 2.4×10^9 cells.&#xD;
+Part B will enroll 15 patients with MEL and 5 patients with NSCLC. The administration dose will be identified by the safty of Part A.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Neo-T</intervention_name>
+    <description>Patients will recive Neo-T iv on day 0. Three times of cell infusion with an interval of 7 days constitute a cycle,maximum four cycles of treatment for patients.</description>
+    <arm_group_label>Treament of Neo-T</arm_group_label>
+    <other_name>Neoantigen targeting T cells Suspension for Intravenous Infusion</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide 500 mg/m2/day iv on day-5 for one day.</description>
+    <arm_group_label>Treament of Neo-T</arm_group_label>
+    <other_name>CTX</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Fludarabine 25 mg/m2/day iv on day-5 and day-4 for two days.</description>
+    <arm_group_label>Treament of Neo-T</arm_group_label>
+    <other_name>FDR</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interleukin-2</intervention_name>
+    <description>500,000IU/m2 SC,after each cell infusion,IL-2 will start within 24 hours and every 8-12 hours for up to 6 doses.</description>
+    <arm_group_label>Treament of Neo-T</arm_group_label>
+    <other_name>IL-2</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Greater than or equal to 18 years of age and less than or equal to 75 years of age;&#xD;
+             all genders.&#xD;
+&#xD;
+          2. Advanced solid tumors including but not limited to some high frequency somatic&#xD;
+             mutations,such as melanoma,driver mutation-negative non-small cell lung cancer.&#xD;
+&#xD;
+          3. Advanced solid tumors patients who are HLA - A0201 /A1101/A2402 subtypes.&#xD;
+&#xD;
+          4. Measurable solid tumors with at least one lesion that is resectable or tumor biopsies&#xD;
+             for DNA extraction.&#xD;
+&#xD;
+          5. Patients who failed or were intolerant to standard treatment.&#xD;
+&#xD;
+          6. Possess venous access for mononuclear cell collection or intravenous blood collection.&#xD;
+&#xD;
+          7. Patients (or their legal representatives) who are able to understand and sign the&#xD;
+             Informed Consent Form and willing to sign a durable power of attorney.&#xD;
+&#xD;
+          8. Clinical performance status of ECOG is 0 or 1.&#xD;
+&#xD;
+          9. Patients who are able to cooperate to observe adverse reactions and the effect of the&#xD;
+             treatment,expected lifetime is greater than six month.&#xD;
+&#xD;
+         10. Patients of both genders must be willing to practice birth control from the time of&#xD;
+             enrollment to three months after treatment on this study,a fertile woman must have a&#xD;
+             negative pregnancy test.&#xD;
+&#xD;
+         11. The laboratory test values and the functions of important organs meet the following&#xD;
+             requirements:1）Serology: HIV antibody(-), hepatitis B DNA(-), hepatitis C antibody(-)&#xD;
+             and no active syphilis infection; 2）Hematology: Absolute neutrophil count is greater&#xD;
+             than or equal to 1.5×10^9/L; WBC is greater than or equal to 3×10^9/L; lymphocyte&#xD;
+             count is greater than or equal to 0.8×10^9/L; Platelet count is greater than or equal&#xD;
+             to 80×10^9/L; Hemoglobin is greater than or equal to 90g/L ; 3）Chemistry: Serum&#xD;
+             ALT/AST is less than or equal to 3 times ULN,except in patients with liver metastasis&#xD;
+             who must have ALT/AST less than or equal to 5 times ULN; Serum Creatinine is less than&#xD;
+             or equal to 1.5 times ULN ; Total bilirubin is less than or equal to 1.5 times ULN,&#xD;
+             except in patients with Gilbert's Syndrome who must have a total bilirubin less than 3&#xD;
+             times ULN;4）Blood Clotting Parameters:Prothrombin Time(PT) and International&#xD;
+             Normalised Ratio (INR) are less than or equal to 1.5 times ULN;Activated Partial&#xD;
+             Thromboplastin Time (APTT) is less than or equal to 1.5 times ULN;For subjects who&#xD;
+             frequently take anticoagulant drugs,their blood clotting parameters can meet the value&#xD;
+             range adptive to this special population;5）Left ventricular ejection fraction（LVEF）is&#xD;
+             more than or equal to 50%.&#xD;
+&#xD;
+         12. More than four weeks must have elapsed since any prior systemic therapy at the time&#xD;
+             the patient receives the lymphodepletion regimen, and toxicities must have recovered&#xD;
+             to grade 1 or less (except for toxicities such as alopecia or vitiligo).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant or lactating women.&#xD;
+&#xD;
+          2. History of severe immediate hypersensitivity reaction to Neo-T and any of the agents&#xD;
+             used in this study.&#xD;
+&#xD;
+          3. Subjects with a history of organ transplantation.&#xD;
+&#xD;
+          4. Subjects with unstable brain metastases.&#xD;
+&#xD;
+          5. Any active autoimmune disease or subjects with a history of autoimmune diseases that&#xD;
+             have been assessed by the investigator to be unsuitable for this study.Including but&#xD;
+             not limited to the following diseases: such as systemic lupus erythematosus, immune&#xD;
+             related neuropathy, multiple sclerosis, Guillain Barre syndrome, myasthenia gravis,&#xD;
+             connective tissue diseases, inflammatory bowel diseases(Crohn's disease and ulcerative&#xD;
+             colitis), excluding vitiligo, eczema, type I diabetes, rheumatoid arthritis and other&#xD;
+             joint diseases, Sjogren's syndrome and controlled psoriasis by local medication.&#xD;
+&#xD;
+          6. Active systemic infections,for example, acute infections requiring systemic&#xD;
+             antibiotic, antiviral, or antifungal treatment occur within 2 weeks before enrollment.&#xD;
+&#xD;
+          7. Severe liver and kidney function damage(gived treatment is still uncontrollable,and&#xD;
+             biochemical indicators cannot meet the Exclusion Criteria of 11th), uncontrollable&#xD;
+             diabetes, pulmonary fibrosis, interstitial lung disease, acute lung disease, or poorly&#xD;
+             controlled hypertension (systolic pressure&gt;160mmHg and/or diastolic pressure&gt;90mmHg);&#xD;
+             active cardiovascular and cerebrovascular diseases, such as acute stroke,myocardial&#xD;
+             infarction,unstable angina,congestive heart failure rated as Grade II or above by the&#xD;
+             New York Heart Association, severe cardiac arrhythmias that cannot be controlled with&#xD;
+             medication,electrocardiograms show significant abnormalities (three consecutive times&#xD;
+             with an interval of at least 5 minutes) which have been assessed by the investigator&#xD;
+             that affect subsequent cellular treatment; mental illness and drug abuse, or any&#xD;
+             situation that the investigator assessments may increase the risk of this study.&#xD;
+&#xD;
+          8. Subjects plan to receive glucocorticoid(the dose of prednisone or alternative drug is&#xD;
+             more than 10mg per day) or other immunosuppressant within 4 weeks before the&#xD;
+             administration of lymphocyte clearance.Tips: when there is no active autoimmune&#xD;
+             disease, it is allowed to use prednisone or alternative drug with a dose less than 10&#xD;
+             mg per day; Allowing subjects to use topical, ocular, intra articular, intranasal, and&#xD;
+             inhaled glucocorticoids for treatment.&#xD;
+&#xD;
+          9. Subjects plan to receive immunomodulatory drugs (such as interferon, GM-CSF, thymosin,&#xD;
+             gamma globulin, excluding IL-2) within 4 weeks before the administration of lymphocyte&#xD;
+             clearance.&#xD;
+&#xD;
+         10. The investigator assessed that the subject was unable or unwilling to comply with the&#xD;
+             requirements of the study protocol.&#xD;
+&#xD;
+         11. The genes correlated to functional defects in antigen presentation, antigen&#xD;
+             recognition, and cell killing have been detected.&#xD;
+&#xD;
+         12. With a history of other malignant tumors within the past 5 years; Excluding basal cell&#xD;
+             carcinoma, thyroid papillary carcinoma, cervical carcinoma in situ, or breast ductal&#xD;
+             carcinoma in situ.&#xD;
+&#xD;
+         13. The subject has any disease or medical condition that may affect the safety or&#xD;
+             effectiveness evaluation of the study treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing Chen, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wuhan Union Hospital, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jing Chen, Doctor</last_name>
+    <phone>027-65650989</phone>
+    <email>bswhunion@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Union Hospital, Tongji Medical College, Huazhong University of Science and Technology</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430023</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jing Chen, Doctor</last_name>
+      <phone>027-65650989</phone>
+      <email>bswhunion@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Melanoma</keyword>
+  <keyword>non-small cell lung cancer</keyword>
+  <keyword>NSCLC</keyword>
+  <keyword>Neoantigen</keyword>
+  <keyword>Adoptive T cell Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Interleukin-2</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

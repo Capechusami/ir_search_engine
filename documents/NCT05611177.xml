@@ -1,0 +1,210 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611177</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7/2021</org_study_id>
+    <nct_id>NCT05611177</nct_id>
+  </id_info>
+  <brief_title>Predicting ICU Mortality in ARDS Patients</brief_title>
+  <acronym>POSTCARDS</acronym>
+  <official_title>Predicting Mortality in Patients With the Acute Respiratory Distress Syndrome Using Machine Learning</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Negrin University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Unity Health Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dr. Negrin University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators are planning to perform a secondary analysis of an academic dataset of&#xD;
+      1,303 patients with moderate-to-severe acute respiratory distress syndrome (ARDS) included in&#xD;
+      several published cohorts (NCT00736892, NCT02288949, NCT02836444, NCT03145974), aimed to&#xD;
+      characterize the best early model to predict duration of mechanical ventilation and mortality&#xD;
+      in the intensive care unit (ICU) after ARDS diagnosis using machine learning approaches.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The acute respiratory distress syndrome (ARDS) is a severe form of acute hypoxemic&#xD;
+      respiratory failure in Critical Care Units worldwide. Most ARDS patients requiere mechanical&#xD;
+      ventilation (MV). Few studies have investigated the prediction of MV duration and mortality&#xD;
+      of ARDS.&#xD;
+&#xD;
+      For model description, the investigators will extract data from the first two ICU days after&#xD;
+      diagnosis of moderate-to-severe ARDS from patients included in the de-identified database,&#xD;
+      which includes 1,303 mechanically ventilated patients enrolled in several observational&#xD;
+      cohorts in Spain, coordinated by the principal investigator (JV), and funded by the Instituto&#xD;
+      de Salud Carlos III (ISCIII). The investigators will follow the TRIPOD guidelines and machine&#xD;
+      learning tecniques will be implemented (Random Forest, XGBoost, Logistic regression analysis,&#xD;
+      and/or neural networks) for development of the prediction model, and the accuracy will be&#xD;
+      compared to those of existing scoring systems for assessing ICU severity (APACHE II, SOFA)&#xD;
+      and the PaO2/FiO2 ratio. For external validation, the investigators will use 303 patients&#xD;
+      enrolled in a contemporary observational study (NCT03145974). The investigators will evaluate&#xD;
+      the accuracy of prediction models by calculating the respective confusion matrices and&#xD;
+      several statistics such as sensitivity, specificity, positive predictive value, and negative&#xD;
+      predictive value for mortality and duration of MV. Investigators will select the best&#xD;
+      probabilistic model with a minimum number of clinical variables.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 17, 2022</start_date>
+  <completion_date type="Anticipated">May 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ICU mortality</measure>
+    <time_frame>up to 6 months</time_frame>
+    <description>mortality in the intensive care unit</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MV duration</measure>
+    <time_frame>from ARDS diagnosis to extubation</time_frame>
+    <description>Duration of mechanical ventilation</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1303</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Derivation cohort</arm_group_label>
+    <description>It will contain 700 patients (70% of 1000 ARDS patients)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation cohort</arm_group_label>
+    <description>It will contain 300 patients (30% of 1000 ARDS patients)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Confirmatory cohort</arm_group_label>
+    <description>It will contain 303 patients (for external validation)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>machine learning analysis</intervention_name>
+    <description>We will use robust machine learning approaches, such as Random Forest, XGBoost or Neural Networks.</description>
+    <arm_group_label>Confirmatory cohort</arm_group_label>
+    <arm_group_label>Derivation cohort</arm_group_label>
+    <arm_group_label>Validation cohort</arm_group_label>
+    <other_name>Logistic regression</other_name>
+    <other_name>cross-validation</other_name>
+    <other_name>are aunder the ROC curves</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        De-identified dataset including 1,303 patients with moderate/severe ARDS admitted&#xD;
+        consecutively in a network of Spanish ICUs.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Berlin criteria for moderate to severe ARDS&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Postoperative patients ventilated &lt;24h; brain death patients.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jesús Villar, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario D. Negrin</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Negrin</name>
+      <address>
+        <city>Las Palmas De Gran Canaria</city>
+        <state>Las Palmas</state>
+        <zip>35019</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Anesthesia, Hospital Clinic</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz (ICU)</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Villar J, Ambros A, Mosteiro F, Martinez D, Fernandez L, Ferrando C, Carriedo D, Soler JA, Parrilla D, Hernandez M, Andaluz-Ojeda D, Anon JM, Vidal A, Gonzalez-Higueras E, Martin-Rodriguez C, Diaz-Lamas AM, Blanco J, Belda J, Diaz-Dominguez FJ, Rico-Feijoo J, Martin-Delgado C, Romera MA, Gonzalez-Martin JM, Fernandez RL, Kacmarek RM; Spanish Initiative for Epidemiology, Stratification and Therapies of ARDS (SIESTA) Network. A Prognostic Enrichment Strategy for Selection of Patients With Acute Respiratory Distress Syndrome in Clinical Trials. Crit Care Med. 2019 Mar;47(3):377-385. doi: 10.1097/CCM.0000000000003624.</citation>
+    <PMID>30624279</PMID>
+  </reference>
+  <reference>
+    <citation>Huang B, Liang D, Zou R, Yu X, Dan G, Huang H, Liu H, Liu Y. Mortality prediction for patients with acute respiratory distress syndrome based on machine learning: a population-based study. Ann Transl Med. 2021 May;9(9):794. doi: 10.21037/atm-20-6624.</citation>
+    <PMID>34268407</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dr. Negrin University Hospital</investigator_affiliation>
+    <investigator_full_name>Jesus Villar</investigator_full_name>
+    <investigator_title>principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>outcome</keyword>
+  <keyword>mechanical ventilation</keyword>
+  <keyword>intensive care unit</keyword>
+  <keyword>machine learning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

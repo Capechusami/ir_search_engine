@@ -1,0 +1,375 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798845</url>
+  </required_header>
+  <id_info>
+    <org_study_id>neoRT-Lung</org_study_id>
+    <nct_id>NCT05798845</nct_id>
+  </id_info>
+  <brief_title>The Effect of Toripalimab Plus Radiotherapy in Patients With Operable Stage II-IIIA (N+) Non Small Cell Lung Cancer</brief_title>
+  <official_title>Exploratory Phase II Clinical Study of Toripalimab Plus Radiotherapy Versus Toripalimab Plus Chemotherapy for the Neoadjuvant Treatment of Operable Stage II-IIIA (N+) Non-small Cell Lung Cancer (NSCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Chest Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shanghai Junshi Bioscience Co., Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanghai Chest Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial is to explore the clinical efficacy, safety and feasibility of&#xD;
+      neoadjuvant immunotherapy plus radiotherapy compared with neoadjuvant immunotherapy plus&#xD;
+      chemotherapy in operable stage II-IIIA (N+) non small cell lung cancer (NSCLC) and the&#xD;
+      optimal radiotherapy pattern.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In recent years, the survival rate after diagnosis of non small cell lung cancer (NSCLC) has&#xD;
+      improved with advances in treatment. In terms of 5-year average overall survival (OS) by&#xD;
+      stage at the time of diagnosis, OS decreases significantly from stage IB to IIIA NSCLC, with&#xD;
+      68% for stage IB, 53-60% for stage II, and 36% for stage IIIA. How to optimize the&#xD;
+      perioperative treatment strategy to reduce postoperative recurrence and prolong the survival&#xD;
+      of patients has raised great concern in early and mid-stage NSCLC. Radiotherapy combined with&#xD;
+      immunotherapy is suggested for advanced NSCLC in preclinical basic studies and recent&#xD;
+      clinical trials. Stereotactic body radiation therapy (SBRT) at 8 Gy × 3 Fx plays an effective&#xD;
+      immunoregulated role and can further enhance the antitumor immune response promoted by immune&#xD;
+      checkpoint inhibitors (ICIs). Although little is known about the optimal SBRT dose and&#xD;
+      fraction pattern, 6 Gy × 5 Fx or 8-9 Gy × 3 Fx have shown effectiveness in clinical studies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 20, 2023</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathlogical complete remission (pCR) rate</measure>
+    <time_frame>1 year</time_frame>
+    <description>Pathlogical complete remission rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>major pathologic response (MPR) of primary tumor</measure>
+    <time_frame>1 year</time_frame>
+    <description>proportion of residual tumor ≤10%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perioperative complications</measure>
+    <time_frame>1 year</time_frame>
+    <description>complications occurring during operation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completion of surgery</measure>
+    <time_frame>intraoperative</time_frame>
+    <description>whether the surgery is completed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of R0 resection</measure>
+    <time_frame>1 year</time_frame>
+    <description>rate of participants with tumor margin negative</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>treatment emergent adverse event (TEAE)</measure>
+    <time_frame>1 year</time_frame>
+    <description>number of participants who have adverse events occurring during the treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Event-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>circulating tumor DNA (ctDNA)</measure>
+    <time_frame>1 year</time_frame>
+    <description>the expression of circulating tumor DNA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune subtypes</measure>
+    <time_frame>1 year</time_frame>
+    <description>the tumor immune microenvironment subtype according to PD-L1 and tumor-infiltrating lymphocytes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PD-L1 expression</measure>
+    <time_frame>1 year</time_frame>
+    <description>the status of PD-L1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor mutation burden (TMB)</measure>
+    <time_frame>1 year</time_frame>
+    <description>frequency of tumor gene mutation</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">124</enrollment>
+  <condition>NSCLC</condition>
+  <arm_group>
+    <arm_group_label>Experimental: Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Radiation: primary tumor SBRT, DT: 24Gy/3Fx, d1-3, d22-24; positive lymph nodes LDRT, DT: 2Gy/4Fx, d1-4, d22-25 (2 cycles) ; Drug: toripalimab 240mg ivgtt d5, d26 (2 cycles)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conrol: Arm B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Drug: Chemotherapy + toripalimab 240mg ivgtt d1, d22 (2 cycles)&#xD;
+Chemotherapy regimen:&#xD;
+Non-squamous carcinoma: pemetrexed + platinum or paclitaxel + platinum. Squamous carcinoma: paclitaxel + platinum or gemcitabine + platinum</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>SBRT+LDRT</intervention_name>
+    <description>primary tumor SBRT, DT: 24Gy/3Fx, d1-3, d22-24; positive lymph nodes LDRT, DT: 2Gy/4Fx, d1-4, d22-25 (2 cycles)</description>
+    <arm_group_label>Experimental: Arm A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Toripalimab</intervention_name>
+    <description>toripalimab 240mg ivgtt d5, d26 (2 cycles)</description>
+    <arm_group_label>Experimental: Arm A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chemotherapy drug</intervention_name>
+    <description>Non-squamous carcinoma: pemetrexed + platinum or paclitaxel + platinum Squamous carcinoma: paclitaxel + platinum or gemcitabine + platinum</description>
+    <arm_group_label>Conrol: Arm B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Toripalimab</intervention_name>
+    <description>toripalimab 240mg ivgtt d1, d22 (2 cycles)</description>
+    <arm_group_label>Conrol: Arm B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 to 75 years old, gender is not limited.&#xD;
+&#xD;
+          2. ECOG performance status 0-1.&#xD;
+&#xD;
+          3. non-small cell lung cancer diagnosed by pathology.&#xD;
+&#xD;
+          4. sufficient tumor tissue available for biomarker analysis.&#xD;
+&#xD;
+          5. clinical staging of cT1-2N1-2M0 or T3N1M0, stage II-IIIA (8th UICC staging criteria).&#xD;
+&#xD;
+          6. Patients with distant metastases ruled out by CT or PET/CT and physically assessed as&#xD;
+             acceptable for radical lung cancer surgery.&#xD;
+&#xD;
+          7. histomolecular pathology confirming the absence of classic driver oncogene mutations&#xD;
+             in EGFR, ALK, or ROS1.&#xD;
+&#xD;
+          8. Basic normal function of all organs (laboratory test results within 1 week prior to&#xD;
+             enrollment).&#xD;
+&#xD;
+               -  Bone marrow function: absolute neutrophil count (ANC) ≥ 1.5x109 /L, platelet&#xD;
+                  count ≥ 100x109 /L, hemoglobin ≥ 9g/dL.&#xD;
+&#xD;
+               -  Liver: serum total bilirubin ≤ 1.5 times the upper limit of normal; ALT and AST ≤&#xD;
+                  2.5 times the upper limit of normal.&#xD;
+&#xD;
+               -  Kidney: blood creatinine level ≤ 1.5 times the upper limit of normal or&#xD;
+                  creatinine clearance ≥ 60 ml/min and urea nitrogen ≤ 200 mg/L.&#xD;
+&#xD;
+               -  Urine protein &lt;+, if urine protein + then total 24 hour protein must be &lt;500mg.&#xD;
+&#xD;
+               -  Blood glucose: within normal range and/or with diabetic patients on treatment but&#xD;
+                  with stable blood glucose control.&#xD;
+&#xD;
+               -  Pulmonary function: baseline FEV1 of at least 2L; if baseline FEV1 &lt; 2L then FEV1&#xD;
+                  &gt; 800ml is expected after surgery as assessed by a surgical specialist.&#xD;
+&#xD;
+               -  Cardiac function: no myocardial infarction within 1 year; no unstable angina; no&#xD;
+                  symptomatic severe arrhythmia; no cardiac insufficiency.&#xD;
+&#xD;
+          9. Voluntarily participated in this study and signed the informed consent form by himself&#xD;
+             or his agent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pathology suggestive of compound small cell lung cancer, etc.&#xD;
+&#xD;
+          2. History of previous lobectomy, radiotherapy or chemotherapy.&#xD;
+&#xD;
+          3. Those with concurrent second primary carcinoma and a history of previous malignancy of&#xD;
+             less than 5 years (except for completely cured cervical carcinoma in situ or basal&#xD;
+             cell or squamous epithelial cell skin cancer).&#xD;
+&#xD;
+          4. Patients with any active autoimmune disease or a history of autoimmune disease (e.g.,&#xD;
+             interstitial pneumonia, uveitis, enterocolitis, hepatitis, pituitary inflammation,&#xD;
+             vasculitis, myocarditis, nephritis, hyperthyroidism, hypothyroidism, etc.).&#xD;
+&#xD;
+          5. Have an active infection requiring systemic treatment or a history of active&#xD;
+             tuberculosis.&#xD;
+&#xD;
+          6. Known history of human immunodeficiency virus (HIV) or active chronic Hepatitis C or&#xD;
+             Hepatitis B virus infection or any uncontrolled active systemic infection requiring&#xD;
+             intravenous (iv) antimicrobial treatment.&#xD;
+&#xD;
+          7. Those with known presence or coexistence of other uncontrollable diseases that are not&#xD;
+             amenable to surgical treatment&#xD;
+&#xD;
+          8. Physical examination or clinical trial finds that, in the opinion of the investigator,&#xD;
+             may interfere with the results or place the patient at increased risk for treatment&#xD;
+             complications&#xD;
+&#xD;
+          9. Prior interstitial lung disease, drug-induced interstitial disease or any clinically&#xD;
+             evident active interstitial lung disease with idiopathic pulmonary fibrosis on&#xD;
+             baseline CT scan; uncontrolled massive pleural or pericardial effusion&#xD;
+&#xD;
+         10. Unstable systemic concomitant disease (active infection, moderate to severe chronic&#xD;
+             obstructive pulmonary disease, poorly controlled hypertensive disease, unstable angina&#xD;
+             pectoris, congestive heart failure, myocardial infarction occurring within 6 months,&#xD;
+             severe mental disorder requiring medication for control, liver, renal or other&#xD;
+             metabolic disease, neuropsychiatric pathology such as Alzheimer's disease)&#xD;
+&#xD;
+         11. History of congenital or acquired immunodeficiency disorders or organ transplantation&#xD;
+&#xD;
+         12. Received any of the following treatments:&#xD;
+&#xD;
+               -  Prior radiotherapy, treatment with anti PD-1, anti PD-L1 or anti PD-L2 drugs, or&#xD;
+                  other drugs that synergistically inhibit T-cell receptors such as CTLA-4, OX-40,&#xD;
+                  CD137.&#xD;
+&#xD;
+               -  Having received any investigational drug within 4 weeks&#xD;
+&#xD;
+               -  Concurrent enrollment in another clinical study, unless it is an observational&#xD;
+                  (non-interventional) clinical study or an interventional clinical study follow-up&#xD;
+&#xD;
+               -  Persons who have received an antineoplastic vaccine or who have received a live&#xD;
+                  vaccine within 4 weeks&#xD;
+&#xD;
+               -  Have undergone major surgery or had severe trauma within 4 weeks&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xiaolong Fu, MD</last_name>
+    <phone>862122200000</phone>
+    <phone_ext>3202</phone_ext>
+    <email>xlfu1964@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Wen Feng, MD</last_name>
+    <phone>862122200000</phone>
+    <phone_ext>3203</phone_ext>
+    <email>fengwen412@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Shanghai Chest Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaolong Fu, MD</last_name>
+      <phone>021-22200000</phone>
+      <phone_ext>3202</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Xiaolong Fu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wentao Fang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Howlader N, Forjaz G, Mooradian MJ, Meza R, Kong CY, Cronin KA, Mariotto AB, Lowy DR, Feuer EJ. The Effect of Advances in Lung-Cancer Treatment on Population Mortality. N Engl J Med. 2020 Aug 13;383(7):640-649. doi: 10.1056/NEJMoa1916623.</citation>
+    <PMID>32786189</PMID>
+  </reference>
+  <reference>
+    <citation>Rami-Porta R, Bolejack V, Crowley J, Ball D, Kim J, Lyons G, Rice T, Suzuki K, Thomas CF Jr, Travis WD, Wu YL; IASLC Staging and Prognostic Factors Committee, Advisory Boards and Participating Institutions. The IASLC Lung Cancer Staging Project: Proposals for the Revisions of the T Descriptors in the Forthcoming Eighth Edition of the TNM Classification for Lung Cancer. J Thorac Oncol. 2015 Jul;10(7):990-1003. doi: 10.1097/JTO.0000000000000559.</citation>
+    <PMID>26134221</PMID>
+  </reference>
+  <reference>
+    <citation>Ko EC, Raben D, Formenti SC. The Integration of Radiotherapy with Immunotherapy for the Treatment of Non-Small Cell Lung Cancer. Clin Cancer Res. 2018 Dec 1;24(23):5792-5806. doi: 10.1158/1078-0432.CCR-17-3620. Epub 2018 Jun 26.</citation>
+    <PMID>29945993</PMID>
+  </reference>
+  <reference>
+    <citation>Wang Y, Liu ZG, Yuan H, Deng W, Li J, Huang Y, Kim BYS, Story MD, Jiang W. The Reciprocity between Radiotherapy and Cancer Immunotherapy. Clin Cancer Res. 2019 Mar 15;25(6):1709-1717. doi: 10.1158/1078-0432.CCR-18-2581. Epub 2018 Nov 9.</citation>
+    <PMID>30413527</PMID>
+  </reference>
+  <reference>
+    <citation>Demaria S, Coleman CN, Formenti SC. Radiotherapy: Changing the Game in Immunotherapy. Trends Cancer. 2016 Jun;2(6):286-294. doi: 10.1016/j.trecan.2016.05.002.</citation>
+    <PMID>27774519</PMID>
+  </reference>
+  <reference>
+    <citation>Bernstein MB, Krishnan S, Hodge JW, Chang JY. Immunotherapy and stereotactic ablative radiotherapy (ISABR): a curative approach? Nat Rev Clin Oncol. 2016 Aug;13(8):516-24. doi: 10.1038/nrclinonc.2016.30. Epub 2016 Mar 8.</citation>
+    <PMID>26951040</PMID>
+  </reference>
+  <reference>
+    <citation>Theelen WSME, Chen D, Verma V, Hobbs BP, Peulen HMU, Aerts JGJV, Bahce I, Niemeijer ALN, Chang JY, de Groot PM, Nguyen QN, Comeaux NI, Simon GR, Skoulidis F, Lin SH, He K, Patel R, Heymach J, Baas P, Welsh JW. Pembrolizumab with or without radiotherapy for metastatic non-small-cell lung cancer: a pooled analysis of two randomised trials. Lancet Respir Med. 2021 May;9(5):467-475. doi: 10.1016/S2213-2600(20)30391-X. Epub 2020 Oct 20. Erratum In: Lancet Respir Med. 2021 Mar;9(3):e29.</citation>
+    <PMID>33096027</PMID>
+  </reference>
+  <reference>
+    <citation>Vanpouille-Box C, Alard A, Aryankalayil MJ, Sarfraz Y, Diamond JM, Schneider RJ, Inghirami G, Coleman CN, Formenti SC, Demaria S. DNA exonuclease Trex1 regulates radiotherapy-induced tumour immunogenicity. Nat Commun. 2017 Jun 9;8:15618. doi: 10.1038/ncomms15618.</citation>
+    <PMID>28598415</PMID>
+  </reference>
+  <reference>
+    <citation>Altorki NK, McGraw TE, Borczuk AC, Saxena A, Port JL, Stiles BM, Lee BE, Sanfilippo NJ, Scheff RJ, Pua BB, Gruden JF, Christos PJ, Spinelli C, Gakuria J, Uppal M, Binder B, Elemento O, Ballman KV, Formenti SC. Neoadjuvant durvalumab with or without stereotactic body radiotherapy in patients with early-stage non-small-cell lung cancer: a single-centre, randomised phase 2 trial. Lancet Oncol. 2021 Jun;22(6):824-835. doi: 10.1016/S1470-2045(21)00149-2. Epub 2021 May 18.</citation>
+    <PMID>34015311</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>April 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai Chest Hospital</investigator_affiliation>
+    <investigator_full_name>Xiaolong Fu</investigator_full_name>
+    <investigator_title>director,department of radiation oncology</investigator_title>
+  </responsible_party>
+  <keyword>neoadjuvant immunotherapy</keyword>
+  <keyword>radiotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,160 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-C-1252</org_study_id>
+    <nct_id>NCT05621421</nct_id>
+  </id_info>
+  <brief_title>The Implementation of Intravascular Ultrasound and Fractional Flow Reserve in the Percutaneous Treatment of Very Long Coronary Artery Lesions</brief_title>
+  <official_title>The Implementation of Intravascular Ultrasound and Fractional Flow Reserve in the Percutaneous Treatment of Very Long Coronary Artery Lesions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vilnius University Hospital Santaros Klinikos</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Vilnius University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vilnius University Hospital Santaros Klinikos</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A single center, prospective, observational study to investigate the impact of intravascular&#xD;
+      ultrasound (IVUS) on the functional percutaneous coronary intervention (PCI) result (assessed&#xD;
+      with fractional flow reserve (FFR)) and one-year target vessel failure (TVF) rate after&#xD;
+      percutaneous treatment of long coronary artery lesions&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2019</start_date>
+  <completion_date type="Actual">March 31, 2021</completion_date>
+  <primary_completion_date type="Actual">March 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of patients with optimal physiology result</measure>
+    <time_frame>1 day</time_frame>
+    <description>Post PCI FFR value ≥ 0.9</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of patients with optimal anatomy result</measure>
+    <time_frame>1 day</time_frame>
+    <description>If all the four following IVUS criteria met: (1) good stent apposition; (2) good stent expansion (minimal stent area (MSA) &gt;90% of distal reference lumen area and/or MSA ≥5.5mm2); (3) plaque burden 5mm proximal and distal to the stent &lt;50%); (4) no stent edge dissection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of patients with optimal physiology and anatomy result</measure>
+    <time_frame>1 day</time_frame>
+    <description>Post PCI FFR value ≥ 0.9 and all four IVUS criteria met</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The rate of target vessel failure (TVF)</measure>
+    <time_frame>12 months post PCI follow up</time_frame>
+    <description>Composite endpoint (target vessel related death (TV-death), target vessel related myocardial infarction (TV-MI), ischemia driven target vessel revascularization (TV-R))</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>Patients with long coronary artery lesions</arm_group_label>
+    <description>Consecutive patients with functionally significant (FFR ≤ 0.8) long lesion requiring a stent length of ≥ 30mm to undergo FFR and IVUS guided PCI.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>FFR and IVUS guided PCI</intervention_name>
+    <description>PCI to the long lesion guided with FFR and IVUS</description>
+    <arm_group_label>Patients with long coronary artery lesions</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with functionally significant long coronary artery lesions amenable to&#xD;
+        percutaenous coronary intervention.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Chronic coronary syndrome (stable angina; staged PCI to other lesions after acute&#xD;
+             myocardial infarction with ST segment elevation);&#xD;
+&#xD;
+          -  Acute coronary syndrome without ST segment elevation (unstable angina or myocardial&#xD;
+             infarction without ST segment elevation);&#xD;
+&#xD;
+          -  Functionally significant (FFR ≤ 0.8) lesion requiring a stent length of ≥ 30 mm and&#xD;
+             amenable for percutaneous coronary intervention.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient's age ≤ 18 years;&#xD;
+&#xD;
+          -  Acute myocardial infarction with ST segment elevation;&#xD;
+&#xD;
+          -  Treatment with dual antiplatelet therapy contraindicated;&#xD;
+&#xD;
+          -  Survival expectancy ≤ 1 year;&#xD;
+&#xD;
+          -  Known allergy to sirolimus, everolimus or zotarolimus.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giedrius Davidavicius, PhD, Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Vilnius University Hospital Santaros Klinikos</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Vilnius University Hospital Santaros Klinikos</name>
+      <address>
+        <city>Vilnius</city>
+        <zip>08410</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Lithuania</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vilnius University Hospital Santaros Klinikos</investigator_affiliation>
+    <investigator_full_name>Povilas Budrys</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

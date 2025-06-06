@@ -1,0 +1,453 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077969</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LDOS-21-001-02</org_study_id>
+    <nct_id>NCT05077969</nct_id>
+  </id_info>
+  <brief_title>Leidos-Enabled Adaptive Protocol (LEAP-CT) for Evaluation of Post-exposure Prophylaxis for Newly-infected COVID-19 Patients (Addendum 2)</brief_title>
+  <official_title>A Virtual Phase 2 Randomized, Placebo-controlled, Double-blind Study to Evaluate the Safety and Efficacy of the Combination of Famotidine and Celecoxib as a Post-exposure Prophylaxis (PEP) for Newly-infected COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Leidos Life Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Leidos Life Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to test the efficacy and safety of combinations of two well-understood&#xD;
+      agents - famotidine and celecoxib. Each of these agents separately demonstrate clinical&#xD;
+      activity in mitigating COVID-19 disease symptoms or severity, and each of which appear to&#xD;
+      have separate and complementary mechanisms of action.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Qualifying patients will have been confirmed positive for COVID-19 and have symptoms of World&#xD;
+      Health Organization (WHO) Ordinal Scale for Clinical Improvement with scores of ≤3 on the&#xD;
+      11-point scale and will be randomly assigned, in a 1:1 ratio, to one of two regimens, with&#xD;
+      659 participants per group, as follows:&#xD;
+&#xD;
+      Group 1 (study product) participants will receive 80 mg famotidine by mouth (PO) 4 times per&#xD;
+      day (QID) + 400 mg celecoxib as a first dose, followed by 200 mg celecoxib (PO) 2 times per&#xD;
+      day (BID), for 5 days. Following this 5-day period, participants will continue their&#xD;
+      famotidine treatment for an additional 9 days.&#xD;
+&#xD;
+      Group 2 (reference therapy) participants will receive matching placebos QID and BID, for 5&#xD;
+      days. Following this 5-day period, participants will continue to receive matching famotidine&#xD;
+      placebo, QID, for an additional 9 days.&#xD;
+&#xD;
+      Safety and efficacy of famotidine and celecoxib will be evaluated.&#xD;
+&#xD;
+      This is a completely virtual trial and you can participate from your own home. Please call&#xD;
+      1-888-370-9330 to speak to someone regarding study participation in your area.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Low recruitment&#xD;
+  </why_stopped>
+  <start_date type="Actual">December 29, 2021</start_date>
+  <completion_date type="Actual">July 8, 2022</completion_date>
+  <primary_completion_date type="Actual">June 28, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants randomized 1:1, study drug:placebo</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with at least one COVID-19-related medically attended contact due to increased COVID-19 symptom severity</measure>
+    <time_frame>Through Day 30</time_frame>
+    <description>Medically attended contact will be measured in whole numbers and reported as &quot;1 medically attended contact&quot; each time, in the electronic data capture system for all study participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients with at least one COVID-19-related medically attended contact due to death (all-cause mortality).</measure>
+    <time_frame>Through Day 30</time_frame>
+    <description>Medically attended contact will be measured in whole numbers and reported as &quot;1 medically attended contact&quot; in the electronic data capture system for all study participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Serious Adverse Events (SAE) as assessed by participant withdrawal</measure>
+    <time_frame>90 days</time_frame>
+    <description>Study discontinuation will be measured in whole units, by number of participants who are removed with the reason of &quot;SAE&quot; and captured by the electronic data capture system.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of death</measure>
+    <time_frame>90 days</time_frame>
+    <description>Deaths will be captured by whole numbers, by number of participants who are removed from the study with reason as &quot;death&quot; in the electronic data capture system.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">9</enrollment>
+  <condition>2019 Novel Coronavirus Disease</condition>
+  <condition>2019 Novel Coronavirus Infection</condition>
+  <condition>2019-nCoV Disease</condition>
+  <condition>2019-nCoV Infection</condition>
+  <condition>COVID-19</condition>
+  <condition>COVID-19 Pandemic</condition>
+  <condition>COVID-19 Virus Disease</condition>
+  <condition>COVID-19 Virus Infection</condition>
+  <condition>Covid19</condition>
+  <condition>Coronavirus Disease 2019</condition>
+  <condition>SARS-CoV2 Infection</condition>
+  <condition>SARS-CoV-2 Acute Respiratory Disease</condition>
+  <arm_group>
+    <arm_group_label>Group 1 (Study Product)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 80 mg famotidine (PO) QID and 400 mg celecoxib as a first dose, followed by 200 mg (PO) BID celecoxib, for 5 days. Following this 5-day period, participants will continue their famotidine treatment for an additional 9 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 (Reference Therapy)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive matching placebos QID and BID, for 5 days. Following this 5-day period, participants will continue to receive matching famotidine placebo, QID, for an additional 9 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Famotidine</intervention_name>
+    <description>80 mg tablet, QID for 14 days</description>
+    <arm_group_label>Group 1 (Study Product)</arm_group_label>
+    <other_name>Pepcid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Celecoxib</intervention_name>
+    <description>400 mg (initial dose), then 200 mg capsule, BID for 5 days</description>
+    <arm_group_label>Group 1 (Study Product)</arm_group_label>
+    <other_name>Celebrex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>tablet, QID for 14 days; capsule, BID for 5 days</description>
+    <arm_group_label>Group 2 (Reference Therapy)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants must be at least 18 years of age, inclusive, at the time&#xD;
+             of signing the informed consent form.&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 polymerase chain reaction (PCR) positive patient within 5 days of&#xD;
+             enrollment, as shown by medical history and reported PCR test result.&#xD;
+&#xD;
+          -  Reports having one or more symptoms consistent with SARS-CoV-2, as defined in Master&#xD;
+             Protocol Appendix 3 Table 4.&#xD;
+&#xD;
+          -  COVID-19 diagnosis must be WHO grade ≤3.&#xD;
+&#xD;
+          -  Contraceptive use by men or women should be consistent with Appendix 4 of the Master&#xD;
+             protocol (LDOS-21-001).&#xD;
+&#xD;
+          -  Reliable access to the Internet via a browser installed on personal device or&#xD;
+             computer.&#xD;
+&#xD;
+          -  Capable of understanding and providing signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+&#xD;
+          -  Ongoing antiviral or antiretroviral treatment&#xD;
+&#xD;
+          -  Known history of HIV&#xD;
+&#xD;
+          -  Ongoing anti-inflammatory treatment that cannot be temporarily discontinued during the&#xD;
+             study. This includes nonsteroidal anti-inflammatory drugs (NSAIDs), and&#xD;
+             corticosteroids - including Dexamethasone (dexamethasone administration restricted to&#xD;
+             recommended standard of care use per NIH COVID-19 Guidelines)&#xD;
+&#xD;
+               1. drugs dependent on gastric pH for absorption, e.g., dasatinib, delavirdine,&#xD;
+                  mesylate, cefditoren, and fosamprenavir;&#xD;
+&#xD;
+               2. tizanidine (CYP1A2) substrate;&#xD;
+&#xD;
+               3. drugs that interfere with hemostasis (e.g., warfarin, aspirin, selective&#xD;
+                  serotonin reuptake inhibitors [SSRIs]/serotonin norepinephrine reuptake&#xD;
+                  inhibitors (SNRIs]);&#xD;
+&#xD;
+               4. angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers&#xD;
+                  (ARB), or beta-blockers;&#xD;
+&#xD;
+               5. diuretics;&#xD;
+&#xD;
+               6. digoxin&#xD;
+&#xD;
+          -  Ongoing treatment that cannot be temporarily discontinued during the study, with:&#xD;
+             antimalarials, antiarrhythmics, tricyclic antidepressants, natalizumab, quinolones,&#xD;
+             macrolides, agalsidase alfa and beta&#xD;
+&#xD;
+          -  Ongoing famotidine or celecoxib or other COVID-19 clinical investigational&#xD;
+             treatment(s) within the past 30 days, or current participation in another&#xD;
+             investigational clinical trial&#xD;
+&#xD;
+          -  History of asthma, urticaria, or other allergic-type reactions after taking aspirin or&#xD;
+             other NSAIDs&#xD;
+&#xD;
+          -  History of immunosuppression&#xD;
+&#xD;
+          -  Rejection of participation by Principal Investigator or Sponsor&#xD;
+&#xD;
+          -  Any contraindication for famotidine or celecoxib treatment:&#xD;
+&#xD;
+               1. Famotidine or celecoxib hypersensitivity&#xD;
+&#xD;
+               2. Retinopathy, visual field or visual acuity disturbances&#xD;
+&#xD;
+               3. History of cardiovascular disease, such as congestive heart failure, QT&#xD;
+                  prolongation, myocardial infarction, bradycardia (&lt;50 bpm), ventricular&#xD;
+                  tachycardia, other arrhythmias&#xD;
+&#xD;
+               4. Myasthenia gravis&#xD;
+&#xD;
+               5. Psoriasis or porphyria&#xD;
+&#xD;
+               6. History of renal failure/dialysis or a glomerular clearance &lt;60 mL/min&#xD;
+&#xD;
+               7. History of severe hypoglycemia&#xD;
+&#xD;
+               8. Moderate or severe hepatic impairment, e.g., Child-Pugh Class B or C&#xD;
+&#xD;
+               9. Known or suspected to be poor CYP2C9 metabolizers based on genotype or previous&#xD;
+                  history or experience with other CYP2C9 substrates, such as warfarin and&#xD;
+                  phenytoin&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian A Roberts, MS, PMP</last_name>
+    <role>Study Director</role>
+    <affiliation>Leidos, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Health Solutions USA, Inc.</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30363</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc</name>
+      <address>
+        <city>Hazlehurst</city>
+        <state>Georgia</state>
+        <zip>31539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc</name>
+      <address>
+        <city>Prospect</city>
+        <state>Kentucky</state>
+        <zip>40059</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc</name>
+      <address>
+        <city>Frederick</city>
+        <state>Maryland</state>
+        <zip>21702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc</name>
+      <address>
+        <city>Gaithersburg</city>
+        <state>Maryland</state>
+        <zip>20878</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc</name>
+      <address>
+        <city>Dearborn</city>
+        <state>Michigan</state>
+        <zip>48120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Huntingdon</city>
+        <state>Pennsylvania</state>
+        <zip>16652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Integrated Therapeutic Solutions USA, Inc.</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.treatmycovid.com</url>
+    <description>Website to learn more about this virtual COVID-19 study</description>
+  </link>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>July 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Celecoxib</mesh_term>
+    <mesh_term>Famotidine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>It is not yet known if there will be a plan to make individual participant data (IPD) available.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

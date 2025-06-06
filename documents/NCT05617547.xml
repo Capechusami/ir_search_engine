@@ -1,0 +1,208 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617547</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SU_IRB_66947</org_study_id>
+    <nct_id>NCT05617547</nct_id>
+  </id_info>
+  <brief_title>Evaluating Pulse Oximetry Bias in Children With Darker Skin Pigmentation</brief_title>
+  <official_title>Prospective Clinical Study to Evaluate the Accuracy of Pulse Oximeters in Children With Darker Skin Pigmentation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Food and Drug Administration (FDA)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this prospective study, the investigators will enroll 154 children with arterial lines to&#xD;
+      determine the accuracy of pulse oximeters in children with darker skin pigmentation. Studies&#xD;
+      in adults suggest pulse oximeters may overestimate the true level of oxygenation in the blood&#xD;
+      as measured directly by co-oximetry. However, pediatric data are relatively limited. This&#xD;
+      study, which is funded by the FDA through the Stanford-UCSF (University of California San&#xD;
+      Francisco) Clinical Excellence in Regulatory Science and Innovation (CERSI) Program, will&#xD;
+      determine if the error/bias is associated with skin pigmentation and whether the error falls&#xD;
+      outside FDA standards. The broader purpose of the study is to work toward eliminating health&#xD;
+      disparities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As a conventional patient vital sign, pulse oximetry is used widely to determine whether a&#xD;
+      patient is adequately oxygenated. However, studies suggest that peripheral pulse oximetry&#xD;
+      (Sp02) systematically overestimates the true arterial oxygen saturation (Sa02) in patients&#xD;
+      with darker skin pigmentation. This error or bias places patients with darker skin&#xD;
+      pigmentation at considerable risk by failing to detect important levels of hypoxemia that&#xD;
+      drive critical treatment decisions like medication usage for Severe Acute Respiratory&#xD;
+      Syndrome (SARS)-COV-2 (COVID) infection, hospital admission, ICU transfer and intubation.&#xD;
+      Except for the original description of the problem published by Bickler and colleagues in&#xD;
+      2005, most studies (including one pediatric study) have been limited to retrospective studies&#xD;
+      where the racial/ethnic category is used as a proxy for skin pigmentation, so-called &quot;paired&quot;&#xD;
+      oximetry measurements may be separated by several minutes where the oxygen saturation can&#xD;
+      readily change, and important technical factors such a perfusion quality, motion artifact,&#xD;
+      and light transmittance are not reliably documented. This information is critical because&#xD;
+      emerging studies suggest that perfusion effects, as measured by the perfusion index (PI), may&#xD;
+      account for much of the error observed in patients with darker pigmentation. The limitations&#xD;
+      of prior studies can be readily overcome with a prospective study where skin pigmentation is&#xD;
+      measured objectively and at the location of the oximeter sensor, SpO2/SaO2 (arterial oxygen&#xD;
+      saturation) measurements are collected nearly simultaneously while at steady state, and&#xD;
+      technical factors such as perfusion status, transmittance, and temperature can be accurately&#xD;
+      recorded. This study will enroll 154 children at Stanford's Lucile Packard Children's&#xD;
+      Hospital to determine whether the mean bias (error) in FDA-cleared pulse oximeters increases&#xD;
+      with darker skin pigmentation, and whether this error falls outside of the FDA standard of&#xD;
+      3%. The primary study hypothesis is that in children ≤21 years of age managed in a real-world&#xD;
+      hospital setting, the mean bias (error) in FDA-cleared pulse oximeters increases with&#xD;
+      increased skin pigmentation as measured by colorimetry and standard pigmentation scales&#xD;
+      (Fitzpatrick and von Luschan pigmentation scales). The secondary hypothesis is that the mean&#xD;
+      bias is mitigated when technical factors like perfusion index are accounted for in adjusted&#xD;
+      models. Data generated from this study will help to identify the impact of darker skin&#xD;
+      pigmentation on medical device performance in the pediatric population and ultimately help&#xD;
+      eliminate health disparities.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 31, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Saturation by pulse oximetry (Sp02)</measure>
+    <time_frame>Up to 2 weeks after consent and arterial line placement (where Sp02 will be compared to simultaneous measurements of the Sa02, or oxygen saturation using blood from the artery)</time_frame>
+    <description>Oxygen saturation as measured by pulse oximetry</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">154</enrollment>
+  <condition>Congenital Heart Disease in Children</condition>
+  <condition>Cardiomyopathies</condition>
+  <arm_group>
+    <arm_group_label>Pulse Oximetry Observational Cohort</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Pulse Oximeter (Massimo)</intervention_name>
+    <description>The Massimo LNCS (low noise cabled sensors) pulse oximeter will be used to estimate the oxygen saturation and compared to the gold standard, the arterial oxygen saturation in the blood as measured by co-oximetry. The pulse oximeters is FDA cleared for this purpose so patients will not be exposed to any interventions that are not standard of care.</description>
+    <arm_group_label>Pulse Oximetry Observational Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All children ≤21 years of age receiving care at Lucile Packard Children's Hospital and who&#xD;
+        require an arterial vascular access catheter as part of their clinical care will be&#xD;
+        eligible for inclusion in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≤21 years of age&#xD;
+&#xD;
+          2. Requires arterial vascular access as part of routine clinical care&#xD;
+&#xD;
+          3. Patient or legally authorized representative (LAR) willing to provide written informed&#xD;
+             consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Anemia defined as a Hgb &lt;8 g/dL&#xD;
+&#xD;
+          2. Methemoglobinemia or carbon monoxide poisoning where the SpO2 is known to be&#xD;
+             inaccurate&#xD;
+&#xD;
+          3. Skin condition, such as epidermolysis bullosa, where pulse oximetry not expected to be&#xD;
+             accurate, or application of skin probes is medically inadvisable&#xD;
+&#xD;
+          4. Non-pulsatile patients (e.g., left ventricular assist device (LVAD), extracorporeal&#xD;
+             membrane oxygenation (ECMO)&#xD;
+&#xD;
+          5. Lack of informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christopher S Almond, MD, MPH</last_name>
+    <phone>650-7237913</phone>
+    <email>calmond@stanford.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Selena Gonzales, MPH</last_name>
+    <phone>650-723-7913</phone>
+    <email>selena.gonzales@stanford.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Lucile Packard Children's Hospital</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Almond, MD</last_name>
+      <phone>650-724-2439</phone>
+      <email>calmond@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rohan Taneja, MBA</last_name>
+      <phone>6507242439</phone>
+      <email>rohant@stanford.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>November 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Christopher Almond</investigator_full_name>
+    <investigator_title>Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Cardiomyopathies</mesh_term>
+    <mesh_term>Heart Defects, Congenital</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

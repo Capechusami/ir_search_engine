@@ -1,0 +1,330 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617313</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO00109146</org_study_id>
+    <secondary_id>HCRN LUN21-497</secondary_id>
+    <nct_id>NCT05617313</nct_id>
+  </id_info>
+  <brief_title>Study of GT103 in Combination With Pembrolizumab in Refractory, Metastatic Non-Small Cell Lung Cancer</brief_title>
+  <official_title>A Phase II Study of GT103 in Combination With Pembrolizumab in Refractory, Metastatic Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jeffrey Clarke</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Grid Therapeutics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This open-label, non-randomized Phase II trial is designed to assess the safety and&#xD;
+      tolerability of GT103 in combination with pembrolizumab in adult subjects with relapsed or&#xD;
+      refractory, metastatic NSCLC. The study will consist of a safety lead-in of 10-20 patients. A&#xD;
+      total of 50 patients will be treated with the combination at the safest dose of GT103 as&#xD;
+      determined in the safety lead-in. If 10 additional patients are enrolled to the dose level -1&#xD;
+      then the maximum of 60 subjects may be accrued to this trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 17, 2023</start_date>
+  <completion_date type="Anticipated">January 2030</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>3 years</time_frame>
+    <description>ORR will be defined as the proportion of patients with radiographic complete or partial response rate per RECIST v1.1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the Frequency and Severity of Adverse Events</measure>
+    <time_frame>6 months</time_frame>
+    <description>Safety and tolerability will be assessed by the proportion of patients with DLT observed during the first cycle of treatment. NCI CTCAE v5 will be used to grade adverse events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Characterize PK Profile: T1/2 of GT103 in combination with Pembrolizumab</measure>
+    <time_frame>6 months</time_frame>
+    <description>The time for the concentration of GT103 to reach half of the level administered when given in combination with Pembrolizumab (T1/2) will be measured by pharmacokinetic analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize PK Profile: Tmax of GT103 in combination with Pembrolizumab</measure>
+    <time_frame>6 months</time_frame>
+    <description>The time it takes GT103 to reach maximum concentration when administered with Pembrolizumab will be measured by pharmacokinetic analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize PK Profile: Peak Plasma Concentration (Cmax)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The maximum concentration (Cmax) of GT103 in the serum after administration in combination with Pembrolizumab will be measured by pharmacokinetic analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize PK Profile: Area Under the Plasma Concentration vs Time Curve (AUC)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Area under the plasma concentration vs time curve (AUC) for GT103 will be measured by pharmacokinetic analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>4 years</time_frame>
+    <description>PFS is defined as the time between initiation of treatment and progression by RECIST 1.1 or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>4 years</time_frame>
+    <description>OS is defined as the time between initiation of treatment and death from any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>Metastatic NSCLC</condition>
+  <condition>Recurrent Non Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Experimental Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pembrolizumab will be given intravenously on Day 1 of the 21 day cycle (For all cycles).&#xD;
+GT103 dose will be determined by the safety lead in prior to the study. Dosing calculations should be based on actual body weight where applicable. It will be taken intravenously on Day 1 of the 21 day cycle (For all cycles).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>200 mg intravenously on Day 1 of cycle.</description>
+    <arm_group_label>Experimental Group</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GT103</intervention_name>
+    <description>10mg/kg taken intravenously on Day 1 of cycle.</description>
+    <arm_group_label>Experimental Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subject must meet all of the following applicable inclusion criteria to participate in this&#xD;
+        study:&#xD;
+&#xD;
+          -  Written informed consent and HIPAA authorization for release of personal health&#xD;
+             information prior to registration. NOTE: HIPAA authorization may be included in the&#xD;
+             informed consent or obtained separately.&#xD;
+&#xD;
+          -  Age ≥ 18 years at the time of consent.&#xD;
+&#xD;
+          -  ECOG Performance Status 0 or 1 within 14 days prior to registration.&#xD;
+&#xD;
+          -  Histologically and/or cytologically confirmed Stage III-IV recurrent or metastatic&#xD;
+             NSCLC (American Joint Committee on Cancer (AJCC) Staging Manual 8th ed).&#xD;
+&#xD;
+          -  Relapsed or refractory to immunotherapy. NOTE: anti-PD-1/PD-L1; prior anti-CTLA4&#xD;
+             therapy is permitted; a minimum of 2 doses of prior immunotherapy is required. Prior&#xD;
+             treatment with chemotherapy is permitted. Neoadjuvant or adjuvant therapy is&#xD;
+             considered a line of treatment if given within 6 months of recurrent/metastatic&#xD;
+             disease. No more than 2 prior lines of therapy is permitted (this does not include&#xD;
+             oral targeted therapy).&#xD;
+&#xD;
+          -  Patients with EGFR, ALK, RET, BRAF, ROS1, or MET exon 14 alterations must have&#xD;
+             received at least one prior TKI and prior chemotherapy (at least one platinum doublet&#xD;
+             regimen; i.e. carboplatin/cisplatin plus pemetrexed/&#xD;
+             paclitaxel/docetaxel/gemcitabine). No more than 2 prior lines of therapy is permitted&#xD;
+             (this does not include oral targeted therapy). BRAF and MET exon 14 alterations must&#xD;
+             have had prior oral targeted therapy.&#xD;
+&#xD;
+          -  Disease must be measurable by RECIST 1.1 criteria. Tumor lesions in a previously&#xD;
+             irradiated area are considered measurable IF progression has been demonstrated in such&#xD;
+             lesions after radiation.&#xD;
+&#xD;
+          -  Demonstrate adequate organ function as defined in the table below. All screening labs&#xD;
+             to be obtained within 14 days prior to C1D1.&#xD;
+&#xD;
+               -  Hematological&#xD;
+&#xD;
+                    -  Absolute Neutrophil Count (ANC): ≥1500/µL&#xD;
+&#xD;
+                    -  Platelet Count: ≥100 000/µL&#xD;
+&#xD;
+                    -  Hemoglobin (Hgb): ≥ 9 g/dL; Criteria must be met without erythropoietin&#xD;
+                       dependency and without packed red blood cell (pRBC) transfusion within last&#xD;
+                       2 weeks.&#xD;
+&#xD;
+               -  Renal&#xD;
+&#xD;
+                  ---Serum creatinine OR Calculated creatinine clearance: ≤ 1.5 × ULN OR ≥ 30&#xD;
+                  mL/min for participant with creatinine levels &gt;1.5 × institutional ULN&#xD;
+&#xD;
+               -  Hepatic&#xD;
+&#xD;
+                    -  Total Serum Bilirubin: ≤1.5 ×ULN (Patients with known Gilbert Syndrome, a&#xD;
+                       total bilirubin ≤ 3.0 x ULN, with direct bilirubin ≤1.5 × ULN)&#xD;
+&#xD;
+                    -  Aspartate aminotransferase (AST) AND Alanine aminotransferase (ALT): ≤ 2.5 ×&#xD;
+                       ULN (≤5 × ULN for participants with liver metastases)&#xD;
+&#xD;
+               -  Coagulation ---International Normalized Ratio (INR) or Prothrombin Time (PT)&#xD;
+                  Activated Partial Thromboplastin Time (aPTT): ≤ 1.5 × ULN unless participant is&#xD;
+                  receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range&#xD;
+                  of intended use of anticoagulants&#xD;
+&#xD;
+          -  Females of childbearing potential must have a negative urine or serum pregnancy test&#xD;
+             at screening and within 72 hours of C1D1. See protocol for definition of childbearing&#xD;
+             potential.&#xD;
+&#xD;
+          -  Females of childbearing potential and males must be willing to abstain from&#xD;
+             heterosexual intercourse or to use an effective method(s) of contraception as outlined&#xD;
+             in protocol.&#xD;
+&#xD;
+          -  As determined by the enrolling physician or protocol designee, ability of the subject&#xD;
+             to understand and comply with study procedures for the entire length of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects meeting any of the criteria below may not participate in the study:&#xD;
+&#xD;
+          -  Patients currently receiving anticancer therapies or who have received anticancer&#xD;
+             therapies within 14 days prior to day 1 of study drug (including investigational&#xD;
+             agents, chemotherapy, and antibody-based therapy).&#xD;
+&#xD;
+          -  Radiation therapy within 14 days prior to day 1 of study drug. A 1-week washout is&#xD;
+             permitted for palliative radiation (≤ 2 weeks of radiotherapy) to non-CNS disease.&#xD;
+&#xD;
+          -  Intolerance to pembrolizumab or other PD-1/PD-L1 axis drug(s), or any other antibody&#xD;
+             or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways,&#xD;
+             including prior therapy with anti-tumor vaccines or other immune-stimulatory&#xD;
+             anti-tumor agents.&#xD;
+&#xD;
+          -  Known auto-immune conditions requiring systemic immune suppression therapy other than&#xD;
+             prednisone ≤10 mg daily (or equivalent).&#xD;
+&#xD;
+          -  History of (non-infectious) interstitial pneumonitis/interstitial lung disease that&#xD;
+             required steroids or has current pneumonitis/interstitial lung disease.&#xD;
+&#xD;
+          -  Receipt of allogeneic transplant (stem cell transplantation or solid organ).&#xD;
+&#xD;
+          -  Current use of medications specified by the protocol as prohibited for administration&#xD;
+             in combination with the study drugs. This includes patients with a condition requiring&#xD;
+             systemic treatment with either corticosteroids (&gt;10 mg daily prednisone equivalents)&#xD;
+             or other immunosuppressive medications within 14 days prior to day 1 of study drug.&#xD;
+             Inhaled or topical steroids and adrenal replacement doses &gt;10 mg daily prednisone&#xD;
+             equivalents are permitted in the absence of active autoimmune disease.&#xD;
+&#xD;
+          -  Known history of HIV seropositivity or known acquired immunodeficiency syndrome&#xD;
+             (AIDS), hepatitis C virus (allowed if received curative therapy), acute or chronic&#xD;
+             active hepatitis B infection, or other serious chronic infection requiring ongoing&#xD;
+             treatment. NOTE: no testing for Hepatitis B, Hepatitis C or HIV is required unless&#xD;
+             mandated by local health authority.&#xD;
+&#xD;
+          -  Current active infectious disease requiring systemic antibiotics, antifungal, or&#xD;
+             antiviral treatment on Day 1 of study drug. Patients receiving prophylactic&#xD;
+             antibiotics (e.g., for prevention of urinary tract infection or chronic obstructive&#xD;
+             pulmonary disease) are eligible.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding (NOTE: breast milk cannot be stored for future use while the&#xD;
+             mother is being treated on study).&#xD;
+&#xD;
+          -  Patients with a prior or concurrent malignancy whose natural history or treatment has&#xD;
+             the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen, per treating physician discretion, are not eligible for this&#xD;
+             trial.&#xD;
+&#xD;
+          -  Known active CNS metastases which are symptomatic. Eligible if metastases have been&#xD;
+             locally treated 14 days prior to Cycle 1 Day 1, are clinically controlled, or&#xD;
+             asymptomatic on Cycle 1 Day. Steroid dose must be equivalent of ≤10 mg prednisone&#xD;
+             daily or equivalent dose steroid. Untreated, asymptomatic brain metastases allowed if&#xD;
+             subject does not require corticosteroids or anticonvulsant therapy.&#xD;
+&#xD;
+          -  History of myocardial infarction, NYHA class III or IV congestive heart failure, or&#xD;
+             unstable angina, cardiac or other vascular stenting, angioplasty, or surgery within 6&#xD;
+             months prior to study enrollment.&#xD;
+&#xD;
+          -  Has received a live vaccine or live-attenuated vaccine within 30 days prior to the&#xD;
+             first dose of study drug. Administration of killed vaccines is allowed.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey Clarke, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jeffrey Clarke, MD</last_name>
+    <phone>919-684-8111</phone>
+    <email>jeffrey.clarke@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ahran Lee</last_name>
+    <phone>317-634-5842</phone>
+    <phone_ext>14</phone_ext>
+    <email>alee@hoosiercancer.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Duke Cancer Institute</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Candice Singletary</last_name>
+      <email>candice.singletary@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>February 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Duke University</investigator_affiliation>
+    <investigator_full_name>Jeffrey Clarke</investigator_full_name>
+    <investigator_title>Sponsor Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

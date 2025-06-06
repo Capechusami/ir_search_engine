@@ -1,0 +1,604 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798156</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R-Pola-Glo</org_study_id>
+    <secondary_id>2022-003398-51</secondary_id>
+    <secondary_id>GLA 2022-10</secondary_id>
+    <secondary_id>NHL-16</secondary_id>
+    <secondary_id>ML44400</secondary_id>
+    <nct_id>NCT05798156</nct_id>
+  </id_info>
+  <brief_title>Rituximab in Combination With Glofitamab and Polatuzumab Vedotin in Patients With Previously Untreated Aggressive Large B-cell Lymphoma Ineligible for R-CHOP</brief_title>
+  <acronym>R-Pola-Glo</acronym>
+  <official_title>A Prospective Multicenter Phase 2 Study of the Chemotherapy-light Combination of Intravenous Rituximab With the Antibody-drug Conjugate Polatuzumab Vedotin and the Bispecific Antibody Glofitamab in Previously Untreated Aggressive Large Bcell Lymphoma Patients Above 60 Years of Age Ineligible for a Fully Dosed R-CHOP</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut für Klinische Krebsforschung IKF GmbH at Krankenhaus Nordwest</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Charite University, Berlin, Germany</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Salzburg</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Arbeitsgemeinschaft medikamentoese Tumortherapie</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Roche Pharma AG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zentrum für Klinische Studien Leipzig</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institut für Klinische Krebsforschung IKF GmbH at Krankenhaus Nordwest</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the present trial the chemotherapy- light treatment concept R-Pola-Glo will be evaluated&#xD;
+      that combines the anti-CD20 antibody rituximab (R) with the ADC polatuzumab vedotin (Pola)&#xD;
+      and the (BiMabs) glofitamab (Glo) in elderly and/or medical unfit and previously untreated&#xD;
+      patients with aggressive B-cell lymphoma. The efficacy and feasibility data obtained here&#xD;
+      will be used for further clinical development of this new chemolight triple combination.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 31, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2028</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1 year progression-free survival (PFS) rate</measure>
+    <time_frame>12 months</time_frame>
+    <description>defined as the time from the day of inclusion until disease progression (PD) or relapse after complete remission (CR), or death due to any cause, whichever occurs first</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the time from the day of inclusion until progressive disease or relapse after complete remission, initiation of subsequent systemic antilymphoma treatment, radiation of single PET-CT positive lesions or death due to any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the time from the day of inclusion until death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate at different timepoints</measure>
+    <time_frame>6 weeks, 18 weeks, 36 weeks</time_frame>
+    <description>Response rates after 2 cycles (during target dose phase), 6 cycles (end of target dose phase before start of consolidation phase) and 12 cycles (end of treatment following completion of consolidation phase). i.e., complete remission (CR) rate, partial remission (PR) rate, overall remission rate (ORR: CR+PR), stable disease (SD) rate and progressive disease (PD) rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relapse rate</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the number of patients with relapse, divided by the number of patients achieving C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Conversion rate of PR to CR</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the number of patients achieving mCR at the end of study treatment (including consolidation phase) divided by the number of patients achieving PR after end of target dose phase (before start of consolidation phase)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the time from documentation of CR until relapse or lymphoma associated death without documented relapse</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate and type of adverse events (AEs) and serious adverse events (SAEs)</measure>
+    <time_frame>54 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of secondary malignancies</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the number of patients with secondary malignancies divided by the number of analyzable patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-related death rate</measure>
+    <time_frame>54 months</time_frame>
+    <description>defined as the number of treatment related deaths during therapy or up to 2 months after the end of study treatment, but before the start of further treatment, divided by the number of analyzable patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Protocol adherence</measure>
+    <time_frame>54 months</time_frame>
+    <description>number and duration of R-Pola-Glo cycles, number and duration of glofitamab maintenance, cumulative and relative doses of rituximab, glofitamab and polatuzumab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported outcomes for quality of life (QoL): EORTC QLQ-C30</measure>
+    <time_frame>54 months</time_frame>
+    <description>measured by EORTC QLQ-C30 (a 30-item questionnaire developed by the European Organisation for Research and Treatment of Cancer). All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher response level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported outcomes for quality of life (QoL): FACT-Lym</measure>
+    <time_frame>54 months</time_frame>
+    <description>measured by FACT-Lym (Functional Assessment of Cancer Therapy - Lymphoma; scores from 0 - 4; The higher the score, the better the QOL)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Rate of minimal residual disease (MRD)-negative patients after end of target phase and at end of treatment</measure>
+    <time_frame>54 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of molecular remission for MRD negative patients</measure>
+    <time_frame>54 months</time_frame>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Lymphoma, Large B-Cell, Diffuse</condition>
+  <arm_group>
+    <arm_group_label>chemolight R-Pola-Glo treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glofitamab</intervention_name>
+    <description>Glofitamab is a fully humanized, engineered monoclonal bivalent antibody of the IgG1 isotype.</description>
+    <arm_group_label>chemolight R-Pola-Glo treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Rituximab is a genetically engineered chimeric mouse/human anti-CD20 monoclonal antibody</description>
+    <arm_group_label>chemolight R-Pola-Glo treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Obinutuzumab</intervention_name>
+    <description>Obinutuzumab is a fully humanized, glycoengineered type II monoclonal antibody of the IgG1 isotype that binds to an epitope on CD20</description>
+    <arm_group_label>chemolight R-Pola-Glo treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Polatuzumab vedotin</intervention_name>
+    <description>Polatuzumab vedotin is an antibody-drug-conjugate that contains a humanized IgG1 anti-CD79b monoclonal antibody (MCDS4409A) and a potent anti-mitotic agent (MMAE) linked through a protease-cleavable linker.</description>
+    <arm_group_label>chemolight R-Pola-Glo treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient is able and willing to provide written informed consent and to comply with the&#xD;
+             study protocol and protocol mandated hospitalizations according to ICH and local&#xD;
+             regulations.&#xD;
+&#xD;
+          2. Patient is above 60 years of age&#xD;
+&#xD;
+          3. Patient is not eligible for a fully dosed R-CHOP&#xD;
+&#xD;
+          4. Patient has histologically confirmed aggressive B-cell lymphoma.&#xD;
+&#xD;
+          5. Patient has at least one measurable FDG PET-positive lymphoma manifestation; defined&#xD;
+             as lesional maximum FDG uptake higher than the maximum FDG uptake in unaffected liver&#xD;
+             parenchyma as measured in a reference volume-of-interest with &gt;10 mL&#xD;
+&#xD;
+          6. Baseline biopsy material is available for central review.&#xD;
+&#xD;
+          7. Female patients considered as women of childbearing potential (WOCBP, see section&#xD;
+             5.2.7 for definition) and male patients with female partners considered as WOCBP must:&#xD;
+&#xD;
+               1. agree to either remain completely abstinent (refrain from heterosexual&#xD;
+                  intercourse) or to use at least one effective contraceptive methods that results&#xD;
+                  in a failure rate of &lt; 1% per year&#xD;
+&#xD;
+               2. refrain from donating ova (female patients) or donating sperm (,ale patients)&#xD;
+&#xD;
+               3. in case of male patients with pregnant female partners, remain abstinent (refrain&#xD;
+                  from heterosexual intercourse) or use contraceptive measures such as a condom to&#xD;
+                  avoid exposing the embryo.&#xD;
+&#xD;
+          8. Patient did not receive any prior lymphoma therapy.&#xD;
+&#xD;
+          9. Patient has an ECOG performance status of ≤ 2.&#xD;
+&#xD;
+         10. Patient has with treatment a life expectancy (in the opinion of the investigator) of&#xD;
+             at least 12 weeks.&#xD;
+&#xD;
+         11. Patient has adequate liver function&#xD;
+&#xD;
+         12. Patient as adequate hematological function&#xD;
+&#xD;
+         13. Patient has adequate renal function&#xD;
+&#xD;
+         14. Patients has negative serologic and/or polymerase chain reaction (PCR) test results&#xD;
+             for:&#xD;
+&#xD;
+               -  Acute or chronic hepatitis B (HBV) infection.&#xD;
+&#xD;
+               -  Hepatis C virus (HCV) and human immunodeficiency virus (HIV)&#xD;
+&#xD;
+         15. Patient has no active SARS-CoV-2 infection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical conditions:&#xD;
+&#xD;
+          1. Patient with chronic lymphocytic leukemia (CLL), acute lymphoblastic leukemia (ALL)&#xD;
+             (including CD20+ ALL), lymphoblastic lymphoma, Richter's transformation, Burkitt&#xD;
+             lymphoma.&#xD;
+&#xD;
+          2. Patient ≤ 60 years&#xD;
+&#xD;
+          3. Patient with known active infection, or reactivation of a latent infection, whether&#xD;
+             bacterial (e.g., tuberculosis), viral (including, but not limited to severe pneumonia,&#xD;
+             COVID-19, Epstein-Barr virus [EBV], cytomegalovirus [CMV], hepatitis B, hepatitis C,&#xD;
+             and HIV], fungal, mycobacterial, or other pathogens (excluding fungal infections of&#xD;
+             nail beds) or any major episode of infection requiring hospitalization or treatment&#xD;
+             with IV antibiotics (for IV antibiotics this pertains to completion of last course of&#xD;
+             antibiotic treatment) within 4 weeks prior to study enrollment.&#xD;
+&#xD;
+          4. Patient with current &gt; Grade 1 peripheral neuropathy.&#xD;
+&#xD;
+          5. Patient with history of confirmed progressive multifocal leukoencephalopathy (PML).&#xD;
+&#xD;
+          6. Patient with history of leptomeningeal disease.&#xD;
+&#xD;
+          7. Patient with current or history of CNS lymphoma.&#xD;
+&#xD;
+          8. Patient with current or history of CNS disease, such as stroke, epilepsy, CNS&#xD;
+             vasculitis, or neurodegenerative disease with exceptions.&#xD;
+&#xD;
+          9. Patient with another invasive malignancy in the last 2 years (with the exception of&#xD;
+             basal cell carcinoma and tumors deemed by the Investigator to be of low likelihood for&#xD;
+             recurrence), with the exception of malignancies with a negligible risk of metastasis&#xD;
+             or death (e.g., 5-year OS rate 90%), such as adequately-treated carcinoma in situ of&#xD;
+             the cervix, non-melanoma skin carcinoma, localized prostate cancer, ductal carcinoma&#xD;
+             in situ, or Stage I uterine cancer.&#xD;
+&#xD;
+         10. Patient with significant or extensive history of cardiovascular disease (such as New&#xD;
+             York Heart Association (NYHA) Class ≥ II cardiac disease, congestive heart failure,&#xD;
+             myocardial infarction or cerebrovascular accident within the past 3 months, unstable&#xD;
+             arrhythmias, or unstable angina or history of multiple cardiovascular events) or&#xD;
+             significant pulmonary disease (including obstructive pulmonary disease and history of&#xD;
+             bronchospasm).&#xD;
+&#xD;
+         11. Patient with active or history of autoimmune disease or immune deficiency, including,&#xD;
+             but not limited to, myasthenia gravis, myositis, autoimmune hepatitis, systemic lupus&#xD;
+             erythematosus, rheumatoid arthritis, inflammatory bowel disease, antiphospholipid&#xD;
+             antibody syndrome, Wegener granulomatosis, Sjögren's syndrome, Guillain-Barré&#xD;
+             syndrome, or multiple sclerosis (see addendum for a more comprehensive list of&#xD;
+             autoimmune diseases and immune deficiencies), with exceptions.&#xD;
+&#xD;
+         12. Patient with uncontrolled pleural effusion, pericardial effusion, or ascites requiring&#xD;
+             recurrent drainage procedures (once monthly or more frequently).&#xD;
+&#xD;
+         13. Patient with history of idiopathic pulmonary fibrosis, organizing pneumonia (e.g.,&#xD;
+             bronchiolitis obliterans), drug-induced pneumonitis, or idiopathic.&#xD;
+&#xD;
+             Prior/Concomitant Therapy:&#xD;
+&#xD;
+         14. Patient received treatment with any other standard anti-cancer&#xD;
+             radiotherapy/chemotherapy including investigational therapy (defined as treatment for&#xD;
+             which there is currently no regulatory authority approved indication) within 4 weeks&#xD;
+             prior to study enrollment.&#xD;
+&#xD;
+         15. Patient with prior solid organ transplantation.&#xD;
+&#xD;
+         16. Patient with prior allogeneic stem cell transplantation.&#xD;
+&#xD;
+         17. Patient with prior treatment with targeted therapies (e.g., tyrosine kinase&#xD;
+             inhibitors, systemic immunotherapeutic/immunostimulating agents, including, but not&#xD;
+             limited to, CD137 agonists or immune checkpoint blockade therapies, including&#xD;
+             anti-CTLA-4, anti-PD-1, and anti-PD-L1 therapeutic antibodies, radio-immunoconjugates,&#xD;
+             antibody-drug conjugates, immune/cytokines, and monoclonal antibodies) within 4 weeks&#xD;
+             or five half-lives of the drug, whichever is shorter, prior to study enrollment.&#xD;
+&#xD;
+         18. Patient with toxicities from prior anti-cancer therapy including immunotherapy that&#xD;
+             did not resolve to ≤ Grade 1 except for alopecia, endocrinopathy managed with&#xD;
+             replacement therapy and stable vitiligo.&#xD;
+&#xD;
+         19. Patient with any history of immune related ≥ Grade 3 AE except for endocrinopathy&#xD;
+             managed with replacement therapy.&#xD;
+&#xD;
+         20. Patient with ongoing corticosteroid use 25 mg/day of prednisone or equivalent within 4&#xD;
+             weeks prior and during study treatment.&#xD;
+&#xD;
+         21. Patient with treatment with systemic immunosuppressive medication (including, but not&#xD;
+             limited to, cyclophosphamide, azathioprine, methotrexate, thalidomide, and anti-TNF&#xD;
+             agents) within 2 weeks prior to initiation of study treatment, or anticipation of need&#xD;
+             for systemic immunosuppressive medication during study treatment, with exceptions.&#xD;
+&#xD;
+         22. Patient who received administration of a live, attenuated vaccine within 4 weeks prior&#xD;
+             to study enrollment infusion or anticipation that such a live, attenuated vaccine will&#xD;
+             be required during the study or within 5 months after the last dose of study&#xD;
+             treatment.&#xD;
+&#xD;
+             Other Exclusions:&#xD;
+&#xD;
+         23. Patient with history of illicit drug or alcohol abuse within 12 months prior to&#xD;
+             screening, in the Investigator's judgment.&#xD;
+&#xD;
+         24. Patient with history of severe allergic anaphylactic reactions to chimeric or&#xD;
+             humanized monoclonal antibodies or recombinant antibody-related fusion proteins.&#xD;
+&#xD;
+         25. Patient with known hypersensitivity to Chinese hamster ovary (CHO) cell products or to&#xD;
+             any component of the rituximab, obinutuzumab, polatuzumab vedotin and/or glofitamab&#xD;
+             formulation and/or to the contrast agents used in the study.&#xD;
+&#xD;
+         26. Female patient is pregnant or breast feeding. Female patients of childbearing&#xD;
+             potential must have a negative serum pregnancy test result within 7 days prior to&#xD;
+             initiation of study treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>61 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Salah-Eddin Al-Batran, Prof. Dr.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Institut fuer Klinische Krebsforschung IKF GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Björn Chapuy, Univ.-Prof. Dr. med.</last_name>
+    <phone>+49 30 450 613423</phone>
+    <email>bjoern.chapuy@charite.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Richard Greil, Univ. Prof. Dr. med.</last_name>
+    <email>r.greil@salk.at</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Kepler Universitätsklinikum</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Clemens Schmitt</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ordensklinikum Linz - Barmherzige Schwestern</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ordensklinikum Linz - Elisabethinen</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Natalia Rotter</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Landeskrankenhaus Salzburg Universitätsklinikum der Paracelsus Medizinischen Privatuniversität</name>
+      <address>
+        <city>Salzburg</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Richard Greil, Prof. Dr. med.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. Klinikum St. Pölten</name>
+      <address>
+        <city>St. Pölten</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Petra Pichler</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AKH Meduni Wien</name>
+      <address>
+        <city>Wien</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Phillip Staber</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hanusch Krankenhaus</name>
+      <address>
+        <city>Wien</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - Universitätsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Björn Chapuy, Prof. Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HELIOS Klinikum Berlin-Buch</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pearl van Heteren, Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Chemnitz</name>
+      <address>
+        <city>Chemnitz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mathias Hänel, PD Dr. med. habil.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Erlangen</name>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Fabian Müller, PD. Dr. med</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Jena</name>
+      <address>
+        <city>Jena</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ulf Schnetzke, PD Dr. med.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Schleswig-Holstein Campus Kiel</name>
+      <address>
+        <city>Kiel</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Simone Heyn, Dr. med.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Ludwigshafen</name>
+      <address>
+        <city>Ludwigshafen</city>
+        <zip>67063</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Martin Hoffmann, Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>TU München (rechts des Isar)</name>
+      <address>
+        <city>München</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anna Lena Illert, Prof. Dr med.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Unversitätsklinikum Münster</name>
+      <address>
+        <city>Münster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Würzburg</name>
+      <address>
+        <city>Würzburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Johannes Düll, Dr.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>March 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Obinutuzumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No IPD will be shared.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

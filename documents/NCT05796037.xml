@@ -1,0 +1,195 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05796037</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TARGET-NEURO</org_study_id>
+    <nct_id>NCT05796037</nct_id>
+  </id_info>
+  <brief_title>An Observational Study of Patients Living With Chronic Neurological Diseases</brief_title>
+  <official_title>An Observational Study of Patients Living With Chronic Neurological Diseases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Target PharmaSolutions, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Target PharmaSolutions, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      TARGET-NEURO is an observational research study to conduct a comprehensive review of outcomes&#xD;
+      for patients living with chronic neurological diseases: Alzheimer's disease and related&#xD;
+      dementia (ADRD), mild cognitive impairment (MCI), Parkinson's disease (PD), and multiple&#xD;
+      sclerosis (MS).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 24, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2038</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2038</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To characterize the natural history of disease in patients living with chronic neurological diseases including ADRD, MCI, PD, or MS</measure>
+    <time_frame>15 Years</time_frame>
+    <description>A detailed analysis of available demographics (age, race, sex, country of birth, insurance status), medications, co-morbidities, and medical history from sites across the US will inform the profile for this patient population. Data from retrospective and prospectively collected medical records will be curated and analyzed to characterize disease natural history and current treatment paradigms. These data may also establish incidence rates of events of special interest. Collection of prospective medical records for each patient enables the continuation of these analyses longitudinally for changes and progression. Part of the characterization of disease or living with a chronic disease may also be informed by patient reported outcome (PRO) measures and care partner surveys.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess safety and effectiveness of disease treatments and treatments for complications of patients receiving various treatments, effectiveness of treatment, and medical events that develop while receiving treatment for ADRD, MCI, PD, or MS.</measure>
+    <time_frame>15 Years</time_frame>
+    <description>The study will evaluate the characteristics of patients receiving various treatments, effectiveness of treatment, and medical events that develop while receiving treatment for ADRD, MCI, PD, or MS. Interval disease and medical events may vary depending on the patient's stage and type of disease and extent of co-morbidities. The progression of pre-existing co-morbidities and variances across populations will also be evaluated.&#xD;
+The type, dose and duration of disease-specific therapies will be closely followed with a goal of monitoring treatment paradigms and various combination regimens for clinical response and disease stabilization/progression.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate provider management practices in the treatment of patients living with ADRD, MCI, PD, or MS</measure>
+    <time_frame>15 Years</time_frame>
+    <description>Health care provider type, clinic setting, reason for initiating/not initiating/adjusting dosing of treatments, reason for discontinuing/switching treatments, and monitoring outcomes on and off treatment, will be captured as available in the provided EHR and/or through linked data. Disease-specific quality measures will be selected and evaluated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate longitudinal and patient and care partner reported outcomes in patients with ADRD, MCI, PD, or MS, including care partner burden and quality of life.</measure>
+    <time_frame>15 Years</time_frame>
+    <description>Longitudinal clinical outcomes and disease progression will be assessed. Self and proxy-reported patient health measures collect information directly from patients or their informants to measure physical, mental, and social health. These measures can help clinicians better understand how the disease state and/or various treatments affect what patients are able to do and the symptoms they experience beyond what is typically derived and reported in the EHR as part of traditional clinical evaluations. The information can also be used to help patients make informed decisions about their healthcare and treatment options. Care partner surveys can help define the prevalence and needs of care partners who provide support and care to people living with ADRD, MCI, PD, and MS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>3. To select and evaluate quality of care measures for patients living with ADRD, MCI, PD, or MS</measure>
+    <time_frame>15 Years</time_frame>
+    <description>Identify deficiencies and best practices in care of patients living with neurological diseases&#xD;
+Develop a technology infrastructure to evaluate quality measures to support clinicians and clinical decision making</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>To evaluate the screening accuracy of a passive digital marker algorithm for early ADRD detection among several different healthcare institutions EHRs</measure>
+    <time_frame>15 Years</time_frame>
+    <description>TARGET-NEURO will enroll an Age Cohort of patients aged 60 years and older, who do not carry a diagnosis code for dementia or mild cognitive impairment. Patients enrolled in this cohort will have their structured and unstructured EHR data routinely screened using the PDM algorithm. 31 Over time, the refreshed data among Age Cohort patients will be screened for a newly presenting dementia diagnosis or mild cognitive impairment code that suggests symptomatic disease and compared with the PDM prediction. Records of those patients will be further evaluated to confirm clinical evidence of disease (positive case) and the patient will continue to be passively followed in the Disease Cohort for outcomes. This exploratory aim enables further validation of the generalizability of the PDM across more health centers and diverse populations.</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1500000</enrollment>
+  <condition>Neurological Diseases or Conditions</condition>
+  <condition>Dementia of Alzheimer Type</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Parkinson Disease</condition>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>Disease Cohort</arm_group_label>
+    <description>Observational</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Engaged Cohort</arm_group_label>
+    <description>Observational</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Age Cohort</arm_group_label>
+    <description>Observational</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood with serum&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will include adults who are being managed for ADRD, MCI, PD, or MS as well as&#xD;
+        patients aged 60 years and older.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Disease Cohort&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        •Adult patients at the time of enrollment with a diagnosis of ADRD, MCI, PD, or MS by&#xD;
+        select ICD-10 codes in the EHR interface&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Death&#xD;
+&#xD;
+          -  Manual removal (sponsor or site request)&#xD;
+&#xD;
+          -  No EHR interface encounter &gt; 3 years&#xD;
+&#xD;
+        Engaged Cohort&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients diagnosed and managed for these conditions invited to participate&#xD;
+&#xD;
+          -  Ability to provide written informed consent (or have a legally authorized&#xD;
+             representative to provide informed consent)&#xD;
+&#xD;
+          -  Care partners may be invited to participate in surveys and will provide informed&#xD;
+             consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient expressed desire to withdraw consent to complete PROs&#xD;
+&#xD;
+          -  Care partner expressed desire to withdraw consent to complete PROs&#xD;
+&#xD;
+          -  Failure to complete PROs within 24 weeks of initial invitation&#xD;
+&#xD;
+          -  Greater than 24 months lapse of survey completion after baseline surveys completed&#xD;
+&#xD;
+          -  Additionally, the criteria detailed for Disease Cohort apply to the Engaged Cohort&#xD;
+&#xD;
+        Age Cohort&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        •Adult patients aged 60 and older at time of enrollment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Death&#xD;
+&#xD;
+          -  Manual removal (sponsor or site request)&#xD;
+&#xD;
+          -  No EHR interface encounter &gt; 3 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2023</study_first_posted>
+  <last_update_submitted>April 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

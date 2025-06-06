@@ -1,0 +1,268 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05613218</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REDOX</org_study_id>
+    <nct_id>NCT05613218</nct_id>
+  </id_info>
+  <brief_title>Oxygen Targets in Acute Heart Failure With Pulmonary Congestion</brief_title>
+  <acronym>REDOX-AHF</acronym>
+  <official_title>Restrictive Versus Liberal Oxygenation Targets in Patients With Acute Heart Failure and Pulmonary Congestion - a Randomized Clinical Pilot-trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Copenhagen University Hospital, Hvidovre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bispebjerg Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Copenhagen University Hospital, Hvidovre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This investigator-initiated, prospective, randomized, blinded, multi-center, controlled trial&#xD;
+      will investigate the effect of a restrictive vs. liberal oxygenation-strategy in patients&#xD;
+      hospitalized with acute heart failure with pulmonary congestion.&#xD;
+&#xD;
+      Patients will be randomized 1:1 in the emergency department to either liberal or restrictive&#xD;
+      oxygenation after providing informed written consent.&#xD;
+&#xD;
+        1. Liberal oxygenation group = SpO2 target of 96%.&#xD;
+&#xD;
+        2. Restrictive oxygenation group = SpO2 target of 90%.&#xD;
+&#xD;
+      The allocation will be concealed through the use of an oxygen-delivery robot, termed O2MATIC.&#xD;
+      The study will include 122 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      One million hospitalizations occur each year with a primary diagnosis of acute heart failure&#xD;
+      in the USA, with comparable numbers in Europe. Most patients with acute heart failure are&#xD;
+      treated with supplemental oxygen during hospitalization and guidelines recommend initiation&#xD;
+      of oxygen therapy if SpO2 &lt;90% (class I, level C). However, no clinical trials of oxygen&#xD;
+      targets in humans with acute heart failure investigating clinically relevant endpoints have&#xD;
+      been performed.&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      To investigate the effect of a restrictive vs. liberal oxygenation-strategy in patients&#xD;
+      hospitalized with acute heart failure.&#xD;
+&#xD;
+      Hypothesis:&#xD;
+&#xD;
+      Restrictive oxygenation is associated with improved clinical outcome compared to liberal&#xD;
+      oxygenation.&#xD;
+&#xD;
+      Design: Investigator-initiated, prospective, randomized, blinded, multi-center, controlled&#xD;
+      trial.&#xD;
+&#xD;
+      Intervention:&#xD;
+&#xD;
+      Patients will be randomized 1:1 in the emergency department to either liberal or restrictive&#xD;
+      oxygenation after providing informed written consent.&#xD;
+&#xD;
+        1. Liberal oxygenation group = SpO2 target of 96%.&#xD;
+&#xD;
+        2. Restrictive oxygenation group = SpO2 target of 90%.&#xD;
+&#xD;
+      Patients will have nasal cannula or oxygen mask placed as the usual care, and oxygen is&#xD;
+      titrated to the prespecified target range.&#xD;
+&#xD;
+      Consented patients will be randomly allocated to study groups via the automated web-based&#xD;
+      system within REDCap. The allocation will be concealed. Time at randomization will be&#xD;
+      considered as study time zero (T0). All patients will receive usual standard of care except&#xD;
+      for their oxygen-administration.&#xD;
+&#xD;
+      The intervention-phase will be 24 h, and hereafter oxygen therapy will be at the discretion&#xD;
+      of the treating physician.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">August 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>1:1 allocation</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>Oxygen-delivery will be given through a robot, which adjusts oxygen-flow towards a given oxygen-saturation target. The robots monitor will be turned of during the intervention and will only alarm in case of clinically relevant hypoxemia.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pulmonary parenchymal fluid content after 24 hours</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Pulmonary parenchymal fluid content after 24 hours preceded by 10 minutes without oxygen-supplementation assessed noninvasively by the remote dielectric sensing (ReDS) device (Sensible Medical, Netanya, Israel)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Death from all causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive out-of-hospital</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to freedom from oxygen-supplementation</measure>
+    <time_frame>48 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>4) Change from baseline in log-transformed biomarkers N-Terminal Pro-Brain Natriuretic Peptide to 24 hours from admission.</measure>
+    <time_frame>24 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5) Arterial blood gas concentration after 24 hours preceded by 10 minutes without oxygen-supplementation.</measure>
+    <time_frame>24 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tricuspid annular plane systolic excursion</measure>
+    <time_frame>24 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global longitudinal strain of the right ventricle</measure>
+    <time_frame>24 hours</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">122</enrollment>
+  <condition>Acute Heart Failure</condition>
+  <condition>Pulmonary Congestion</condition>
+  <condition>Hypoxemia</condition>
+  <arm_group>
+    <arm_group_label>Liberal oxygenation group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SpO2 target of 96%</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Restrictive oxygenation group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SpO2 target of 90%.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxygen</intervention_name>
+    <description>Patients will have nasal cannula or oxygen mask placed as the usual standard of care.&#xD;
+Patients will be screened and randomized in the emergency department to either liberal or restrictive oxygenation after providing informed written consent and oxygen is titrated to the prespecified target range using an automated feedback device (O2MATIC). Consented patients will be randomly allocated to study groups via the web-based system within REDCap. The allocation will be concealed. Time at randomization will be considered as study time zero (T0). All patients will receive usual standard of care except for their O2 management. The intervention will last for 24 h. After 24 h, patients will be switched over to usual care for oxygen therapy. If the treating physician thinks, that the patient need another oxygenation target and it is thought to be harmful to continue with the allocated target, the intervention-phase can be stopped prematurely.</description>
+    <arm_group_label>Liberal oxygenation group</arm_group_label>
+    <arm_group_label>Restrictive oxygenation group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years&#xD;
+&#xD;
+          2. Acute (within minutes to days) onset or worsening of subjective dyspnea&#xD;
+&#xD;
+          3. Oxygen saturation &lt;92% (on arterial blood gas) or need of oxygen&#xD;
+&#xD;
+          4. At least one of the following clinical or radiological signs of congestion:&#xD;
+&#xD;
+        1. Pulmonary rales 2. Chest X-ray or CT with pulmonary congestion 3. Lung ultrasound with&#xD;
+        multiple B-lines&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. More than 4 hours from hospital admission to randomization&#xD;
+&#xD;
+          2. Suspected infection or sepsis&#xD;
+&#xD;
+          3. Known severe pulmonary disease&#xD;
+&#xD;
+          4. Systolic blood pressure &lt;90 mmHg&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jens Hove, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Copenhagen University Hospital Amager-Hvidovre Department of Cardiology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Johannes Grand, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Copenhagen University Hospital Amager-Hvidovre Department of Cardiology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ida Taraldsen, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Copenhagen University Hospital Amager-Hvidovre Department of Cardiology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Johannes Grand, MD, Phd</last_name>
+    <phone>+4535453545</phone>
+    <email>johannes.grand@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ida Taraldsen, MD</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bispebjerg Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olav W Nielsen, MD, DMSc</last_name>
+    </contact>
+    <investigator>
+      <last_name>Olav W Nielsen, MD DMSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2022</study_first_posted>
+  <last_update_submitted>November 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Copenhagen University Hospital, Hvidovre</investigator_affiliation>
+    <investigator_full_name>Johannes Grand</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>acute heart failure</keyword>
+  <keyword>Pulmonary edema</keyword>
+  <keyword>Oxygen</keyword>
+  <keyword>Pulmonary congestion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

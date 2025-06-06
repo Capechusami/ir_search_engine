@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05071456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP210446</org_study_id>
+    <nct_id>NCT05071456</nct_id>
+  </id_info>
+  <brief_title>Electrochemistry Measurement of Skin Hydration Parameters</brief_title>
+  <acronym>SKINBIOSENSE</acronym>
+  <official_title>Pilot Study Assessing the Feasibility and Reliability of Measurements of Skin's Parameters Hydration by Electrochemistry</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>SYNELVIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>WIRED BEAUTY Technologies</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To date measuring the effect of dermocosmetic products on the main identified factors of&#xD;
+      aging and alteration of the skin barrier is based on invasive and expensive experiments.&#xD;
+      Electrochemistry enables to measure a specific signal for a substance of interest e.g.&#xD;
+      Vitamin C using an surface contact with an electrode.&#xD;
+&#xD;
+      Therefore, this study will evaluate the reliability and feasibility of measurements of skin's&#xD;
+      hydration parameters such as NMF and squalene using electrochemistry. These study will be&#xD;
+      made on three groups of individuals with different skin types: dry skin i.e. atopic&#xD;
+      dermatitis patients, oily skin i.e. acne skin and a control group of individual without&#xD;
+      facial dermatosis. Collects of parameters of interest will be made by using patch using&#xD;
+      electrochemistry (contact with an electrode and potentiostat to detect an electric signal) .&#xD;
+      It is a simple method that relies on a sensor / electrode pair that allows a study of the&#xD;
+      surface molecules of the skin. Application in the measurement of vitamin C in food products&#xD;
+      has already been validated.&#xD;
+&#xD;
+      On a second hand, a collect by chromatography of the parameters of interest will be carried&#xD;
+      out in order to compare the new method with the reference method.&#xD;
+&#xD;
+      This procedure has been developed via a procedure including collecting surface parameters&#xD;
+      using a patch an developping special electrodes and miniaturized detecting signal tool&#xD;
+      (potentiostat)&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 15, 2021</start_date>
+  <completion_date type="Anticipated">December 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 16, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study will include sixty subjects separate into three groups of twenty subjects based on the skin disease: acne, atopic dermatitis and a group control.&#xD;
+This is a study validating the feasibility of a measure collected by a tool at the prototype stage with a view to pre-industrialization. The following process is:&#xD;
+Measurement by patches and sensors of substances of interest on 2 areas of the face separated by the midline (forehead / cheek).&#xD;
+Collection on the skin surface by 2 swabs repeated on 2 areas</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of collecting an electrochemical measure of skin hydration parameter (natural moisturizer factor electric signal) at two different sites of the face at T0 using patch and electrode</measure>
+    <time_frame>Day 0 or Day 1</time_frame>
+    <description>Feasibility of collecting an electrochemical measure of skin hydration parameter (natural moisturizer factor electric signal) at two different sites of the face at T0 using patch and electrode. Signal detection (mVolt) or not using a patch to collect skin surface parameter applied on an electrode to collect and electric signal.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Validation of the measure process for different skin type e.g: dry, oily, normal</measure>
+    <time_frame>Day 0 or Day 1</time_frame>
+    <description>Rate of failure by site or skin type, obtained measure mean and SD for all and regarding each group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the correlation between electrochemistry measures or skin hydration (level of electrical signal mvolt ) and reference method: corneometry or chromatography.</measure>
+    <time_frame>Day 0 or Day 1</time_frame>
+    <description>Those two methods are routinely used to asses skin hydration using a swab contact then migration in a chromatography column or use of sebumeter Correlation coefficient between level of electrochemical measure (signal) regarding skin types and measures issued from reference methodology (corneometry or chromatography)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe individuals' habits or daily routine for skin care using a questionnairemethodology (corneometry or chromatography)</measure>
+    <time_frame>Day 0 or Day 1</time_frame>
+    <description>Descriptive statistics: smoke, sun exposure, moisturizer use</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Atopic Dermatitis</condition>
+  <condition>Acne</condition>
+  <condition>Skin Electrochemistry</condition>
+  <arm_group>
+    <arm_group_label>Atopic dermatitis patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient with oily acne skin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group of patient without facial dermatosis</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Collects of skin's hydration</intervention_name>
+    <description>Collects of skin's hydration will be made by using patch using electrochemistry.</description>
+    <arm_group_label>Atopic dermatitis patients</arm_group_label>
+    <arm_group_label>Control group of patient without facial dermatosis</arm_group_label>
+    <arm_group_label>Patient with oily acne skin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 ≤ Age ≤ 70&#xD;
+&#xD;
+          -  Subjects with past history or follow-up for acne or rosacea stage I ou II, atopic&#xD;
+             dermatitis mild to moderate without immunosuppressive treatment&#xD;
+&#xD;
+          -  Subjects enabling to perform a one day visit at the hospital&#xD;
+&#xD;
+          -  Written consent according to local regulatory requirements&#xD;
+&#xD;
+          -  Affiliated to a social security scheme&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant women or breastfeeding&#xD;
+&#xD;
+          -  Patient under guardianship or curatorship, legal protection or protection of justice&#xD;
+&#xD;
+          -  Participation in other interventional research on skin moisturizer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tu Anh Duong, MD PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tu Anh Duong, MD PhD</last_name>
+    <phone>01 49 09 44 29</phone>
+    <phone_ext>+ 33</phone_ext>
+    <email>tu-anh.duong@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Schmitz</last_name>
+    <phone>01 49 81 36 32</phone>
+    <phone_ext>+ 33</phone_ext>
+    <email>david.schmitz@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Assistance Publique Hôpitaux de Paris - CHU Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94040 Créteil Cedex</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tu Anh Duong, MD PhD</last_name>
+      <phone>01 49 09 44 29</phone>
+      <phone_ext>+ 33</phone_ext>
+      <email>tu-anh.duong@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Electrochemistry</keyword>
+  <keyword>Squalene</keyword>
+  <keyword>NMF</keyword>
+  <keyword>Skin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dermatitis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

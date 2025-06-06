@@ -1,0 +1,206 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>14-0044</org_study_id>
+    <nct_id>NCT05629533</nct_id>
+  </id_info>
+  <brief_title>The Nanowear Wearable System SimpleSense Validation Trial for Cardiac Output</brief_title>
+  <official_title>The Nanowear Wearable System SimpleSense Validation Trial for Cardiac Output, Cardiac Power Output and Pulmonary Artery Pressure.in Patients Undergoing Right Heart Catheterization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanowear Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Westchester Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nanowear Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Nanowear SimpleSense study is a single center, prospective, non-randomized, feasibility,&#xD;
+      non- significant risk study The study will be done in 2 phases. Phase 1 will use SimpleSense&#xD;
+      data collected from the first set of subjects and associate the data from SimpleSense to the&#xD;
+      right heart catheterization values.' Phase 2 will evaluate the algorithms developed to&#xD;
+      estimate cardiac output from SimpleSense data using a second set of subjects from within the&#xD;
+      sample population that are sequestered from the first set used for association of data from&#xD;
+      SimpleSense to the data from the right heart catheterization.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients undergoing right heart catheterization for a clinical indication including but not&#xD;
+      limited to prognosis for advanced heart failure, during endomyocardial biopsy, candidacy for&#xD;
+      heart transplant or management of cardiogenic shock.&#xD;
+&#xD;
+      Study Design:&#xD;
+&#xD;
+      The Nanowear SimpleSense study is a single center, prospective, non-randomized, feasibility,&#xD;
+      non- significant risk study The study will be done in 2 phases. Phase 1 will use SimpleSense&#xD;
+      data collected from the first set of subjects and associate the data from SimpleSense to the&#xD;
+      right heart catheterization values.' Phase 2 will evaluate the algorithms developed to&#xD;
+      estimate cardiac output from SimpleSense data using a second set of subjects from within the&#xD;
+      sample population that are sequestered from the first set used for association of data from&#xD;
+      SimpleSense to the data from the right heart catheterization.&#xD;
+&#xD;
+      Number of subjects and sites:&#xD;
+&#xD;
+      The Nanowear SimpleSense study will enroll up to 100 subjects to collect data at Westchester&#xD;
+      Medical Center. The testing will include a SimpleSense device recording and simultaneous&#xD;
+      measurement of Cardiac Output, and Pulmonary Artery Pressure by right heart catheterization.&#xD;
+&#xD;
+      Duration of study:&#xD;
+&#xD;
+      The duration of the Nanowear SimpleSense study is expected to be 1 year.&#xD;
+&#xD;
+      Study Population:&#xD;
+&#xD;
+      Subjects of legal age to give informed consent who are undergoing right heart catheterization&#xD;
+      for a clinical indication including but not limited to :&#xD;
+&#xD;
+        -  Prognosis of advanced heart failure&#xD;
+&#xD;
+        -  During endomyocardial biopsy&#xD;
+&#xD;
+        -  Candidacy for heart transplant&#xD;
+&#xD;
+        -  Management of cardiogenic shock&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cardiac output algorithm</measure>
+    <time_frame>9-12 months</time_frame>
+    <description>To establish a correlation between the SimpleSense and the cardiac output from the right heart catheterization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Algorithm for Pulmonary Artery Pressure</measure>
+    <time_frame>9 -12 months</time_frame>
+    <description>To train a model for Pulmonary Artery Pressure estimation based on the data acquired for SimpleSense against the Pulmonary Artery Pressure data from the right heart catheterization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Algorithm for Pulmonary Wedge Pressure</measure>
+    <time_frame>9-12 months</time_frame>
+    <description>To train a model for Pulmonary Wedge Pressure estimation based on the data acquired for SimpleSense against the Pulmonary Wedge Pressure data from the right heart catheterization</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Right Heart Catheterization</condition>
+  <arm_group>
+    <arm_group_label>Phase 1</arm_group_label>
+    <description>Subjects to undergo right heart catheterization SimpleSense data collected from the first set of subjects and associate the data from SimpleSense to the right heart catheterization values.&#xD;
+Undergoing right heart catheterization for a clinical indication including but not limited to :&#xD;
+Prognosis of advanced heart failure&#xD;
+During endomyocardial biopsy&#xD;
+Candidacy for heart transplant&#xD;
+Management of cardiogenic shock</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2</arm_group_label>
+    <description>Subjects to undergo right heart catheterization SimpleSense data collected from the second set of subjects and evaluate the algorithms developed to estimate cardiac output from SimpleSense data. The second set of subjects are from within the sample population that are sequestered from the first set used for association of data from SimpleSense to the data from the right heart catheterization.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>SimpleSense</intervention_name>
+    <description>The study is observational only. No interventions will be triggered by the SimpleSense device</description>
+    <arm_group_label>Phase 1</arm_group_label>
+    <arm_group_label>Phase 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects of legal age to give informed consent who are&#xD;
+&#xD;
+        Undergoing right heart catheterization for a clinical indication including but not limited&#xD;
+        to :&#xD;
+&#xD;
+          -  Prognosis of advanced heart failure&#xD;
+&#xD;
+          -  During endomyocardial biopsy&#xD;
+&#xD;
+          -  Candidacy for heart transplant&#xD;
+&#xD;
+          -  Management of cardiogenic shock&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subject has provided informed consent&#xD;
+&#xD;
+          2. Male or female over the age of 18 years&#xD;
+&#xD;
+          3. The patient is undergoing right heart catheterization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject unwilling or unable to comply with wearing the Nanowear SimpleSense System.&#xD;
+&#xD;
+          2. Subjects who are pregnant&#xD;
+&#xD;
+          3. Severe aortic stenosis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Venk Varadan</last_name>
+    <phone>(718) 637-4815</phone>
+    <email>venk@nanowearinc.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alan Gass, MD</last_name>
+    <phone>(845) 368-8800</phone>
+    <email>alan.gass@wmchealth.org</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cardiac output</keyword>
+  <keyword>Right heart catheterization</keyword>
+  <keyword>SimpleSense</keyword>
+  <keyword>Algorithm</keyword>
+  <keyword>Pulmonary Artery Pressure</keyword>
+  <keyword>Heart failure</keyword>
+  <keyword>Endomyocardial biopsy</keyword>
+  <keyword>Cardiogenic shock</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

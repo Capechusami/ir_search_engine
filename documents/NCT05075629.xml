@@ -1,0 +1,220 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05075629</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UW/FP/IC/PSICOLOGIA/2021/002</org_study_id>
+    <nct_id>NCT05075629</nct_id>
+  </id_info>
+  <brief_title>Anxiety, Depression and Substance Use in Undergraduate Health Science Students During the Covid-19 Pandemic.</brief_title>
+  <official_title>Anxiety, Depression and Substance Use in Undergraduate Health Science Students During the Covid-19 Pandemic.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Westhill, Facultad de Psicología</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Westhill, Facultad de Psicología</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study will be conducted with a quantitative approach with correlational scope,&#xD;
+      observational analytical study, prospective cross-sectional. The objective is to compare the&#xD;
+      levels of anxious symptomatology, depressive symptomatology and substance use in university&#xD;
+      students who were exposed to SARS-CoV-2 with those who were not.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sampling:&#xD;
+&#xD;
+      A non-experimental sampling by volunteer subjects is performed, since the subjects will come&#xD;
+      to the study by a call on social networks.&#xD;
+&#xD;
+      Scenario:&#xD;
+&#xD;
+      The evaluation will be carried out in the application called Survey Monkey and will be&#xD;
+      distributed through social networks.&#xD;
+&#xD;
+      Methodological guidelines for reporting the study:&#xD;
+&#xD;
+      The guide to improve the quality of methodological reporting of cross-sectional online&#xD;
+      studies called CHERRIE will be used.&#xD;
+&#xD;
+      Sample size:&#xD;
+&#xD;
+      The infinite population formula for qualitative variables will be used, since we will be&#xD;
+      working with ordinal variables. In addition to the fact that the total number of observation&#xD;
+      units is unknown or when the population is greater than 100,000.&#xD;
+&#xD;
+      The sample size for 100,000 persons should be 384 persons per country, so that 95% of the&#xD;
+      time the data to be measured is within the ±5% interval with respect to the data observed in&#xD;
+      the evaluation.&#xD;
+&#xD;
+      Data analysis&#xD;
+&#xD;
+      Descriptive statistics were used to analyze the central tendency frequencies of the&#xD;
+      participants' characteristics. Non-parametric analyses will be applied, because the data do&#xD;
+      not meet the criteria of normality in the analysis of their distribution, the type of&#xD;
+      variable and the number of participants; therefore, Spearman correlations will be used to&#xD;
+      contrast ordinal data. On the other hand, odds ratio analysis will be used to determine the&#xD;
+      likelihood of a health condition or disease occurring in one population group versus the risk&#xD;
+      of it occurring in another.&#xD;
+&#xD;
+      Data analysis for instrument validation&#xD;
+&#xD;
+      Feasibility: This section will record the time participants took to complete the scale, the&#xD;
+      difficulties patients encountered in answering questions, and the number of missing values&#xD;
+      (patients who did not respond) for each question. Items will be analyzed by calculating the&#xD;
+      frequency of each response category within each item, as well as the blank response rate for&#xD;
+      each item. Floor and ceiling effects were also analyzed, both for each item and for the&#xD;
+      overall questionnaire.&#xD;
+&#xD;
+      Reliability: reliability was assessed by calculating Cronbach's alpha to determine internal&#xD;
+      consistency.&#xD;
+&#xD;
+      Validity:&#xD;
+&#xD;
+      (a) Construct: structural validity (or construct validity) was assessed by exploratory factor&#xD;
+      analysis using the common factor model, principal component extraction method and Oblimin&#xD;
+      rotation (if rotation was possible). The K1 rule (eigenvalues greater than one) and Cattell's&#xD;
+      screen test were used to decide the number of factors contained in the solution. A&#xD;
+      confirmatory factor analysis was also performed to corroborate the original structure,&#xD;
+      assuming the existence of a single factor where all items loaded. The maximum likelihood&#xD;
+      estimation method was used using R studio software.&#xD;
+&#xD;
+      b) Discriminant validity: discriminant validity will be calculated by dividing the sample&#xD;
+      into quartiles based on the total score of GAD-7 and the PHQ-9 and the upper quartile will be&#xD;
+      compared with the lower quartile, both for the mean scores of individual items and for the&#xD;
+      overall score. For other clinical criteria, validity will be assessed by calculating the&#xD;
+      related mean difference between the mean overall GAD-7 score of the diagnostic groups&#xD;
+      assigned by the clinical investigator, Student's t-test, Mann-Whitney U-test for independent&#xD;
+      groups or one-way ANOVAs were used, depending on the number of groups compared.&#xD;
+&#xD;
+      c) Criterion validity: the diagnostic performance curves (ROC curves) were analyzed and the&#xD;
+      sensitivity and specificity rates were calculated, as well as the positive and negative&#xD;
+      predictive values of the questionnaire, when comparing the resulting diagnostic&#xD;
+      classification with the reference clinical diagnosis.&#xD;
+&#xD;
+      d) Convergent validity: the degree of agreement between the GAD-7 and PHQ-9 scales and the&#xD;
+      Hospital Anxiety and Depression Scale (HADS, anxiety and depression domain) was calculated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 12, 2021</start_date>
+  <completion_date type="Actual">March 31, 2022</completion_date>
+  <primary_completion_date type="Actual">October 14, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire-9 (PHQ-9)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>It is a cross-culturally validated instrument and its confirmatory factor analysis suggested that the one-factor structure was a reasonably good fit. The internal consistency of the PHQ-9 was good (Cronbach's alpha&gt; = 0.8) overall and for subgroups defined by gender, literacy, and age. The PHQ-9 demonstrated good predictive validity: participants with a PHQ-9 diagnosis of depression had lower quality of life scores on the overall WHOQOL-BREF scale and on each of its domains. Using the results of the PHQ-9 as a gold standard, the optimal cut-off score of 10. Definition of the variable: A depressive episode is characterized by a period of depressed mood or decreased interest in activities occurring most of the day, almost every day for a period lasting at least two weeks accompanied by other symptoms such as difficulty concentrating, feelings of worthlessness or excessive or inappropriate guilt.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Generalized Anxiety Disorder scale (GAD-7)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The GAD-7 consists of the 7 items with the highest correlation with the total score of the 13-item scale (r = 0.75-0.85). It is an instrument with cross-cultural validation and analysis of receiver operating characteristics with this set of items showed an area under the curve (0.906) and scales with as much as the full 13-item set. These 7 items also had the highest rank correlations in the development sample (n = 1184) and the 2 replication samples (n = 965 and n = 591). The 2 core criteria (A and B) of the DSM-IV definition of GAD are captured by the first 3 items of the scale.26 Of note, 6 of the 7 items had the highest divergent validity (ie, the largest difference between item-total scale score correlation and item-PHQ-8 depression score correlation [Δ r = 0.16-0.21]). Because each of the 7 items is scored from 0 to 3, the GAD-7 scale score ranges from 0 to 21.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alcohol, Smoking and Substance Involvement Screening Test (ASSIST)</measure>
+    <time_frame>3 months</time_frame>
+    <description>Validation and cultural adaptation was carried out in university students through a non-experimental ex post facto study with 1,176 undergraduate students, mostly women (70.1%) aged 18 to 23 years (89.5%) and unmarried (87.5%). Concurrent validity was obtained by factor analysis and reliability and correlation tests between the alcohol subscale and AUDIT, the Tobacco subscale and Fargerström's Tes, and the marijuana subscale and the DAST-20. The results found adequate reliability coefficients for the ASSIST subscales for tobacco (alpha = 0.83), alcohol (alpha = 0.76) and marijuana (alpha = 0.73). Regarding interscale correlation, significant correlations were only found with the AUDIT (r = 0.71) and the alcohol subscale.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The hospital anxiety and depression scale (HADS)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The scale was adapted and validated by López-Alveranga et al. (2002). The scale is composed of 14 items and is a Likert-type scale ranging from zero to three, with a minimum score of zero and a maximum score of 21. A score equal to or greater than eight indicates the presence of a probable case of depression. Its reliability is good (α =.86).</description>
+  </secondary_outcome>
+  <enrollment type="Actual">384</enrollment>
+  <condition>Depression</condition>
+  <condition>Anxiety</condition>
+  <condition>Substance-Related Disorders</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Mexican university health students&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be an active undergraduate student at any university&#xD;
+&#xD;
+          -  Be currently taking at least one subject at the University.&#xD;
+&#xD;
+          -  Agree to voluntarily participate in the study.&#xD;
+&#xD;
+          -  Sign the informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Be studying a postgraduate course at the University&#xD;
+&#xD;
+          -  Students of the University who are receiving psychological or psychiatric treatment&#xD;
+             during the period of the study.&#xD;
+&#xD;
+          -  Not currently taking any course at the University.&#xD;
+&#xD;
+          -  Those participants who do not answer the scales completely.&#xD;
+&#xD;
+          -  Tener un diagnóstico confirmado de Covid-19 en las últimas 2 semanas&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alejandro Hernández Posadas, Master's Degree</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Westhill</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alejandro Hernández Posadas</name>
+      <address>
+        <city>Ciudad de México</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>April 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

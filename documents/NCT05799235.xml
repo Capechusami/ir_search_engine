@@ -1,0 +1,241 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799235</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022/2379</org_study_id>
+    <nct_id>NCT05799235</nct_id>
+  </id_info>
+  <brief_title>Telerehabilitation for Anterior Cruciate Ligament Reconstruction - TAR Program in Adolescents</brief_title>
+  <acronym>TAR</acronym>
+  <official_title>Feasibility and Effectiveness of Telerehabilitation for Anterior Cruciate Ligament Reconstruction - TAR Program Involving a Motion Capture Mobile Application in Adolescents: A Pilot Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>KK Women's and Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>KK Women's and Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Anterior cruciate ligament (ACL) injuries are common in adolescents and its prevalence has&#xD;
+      increased over the years, especially with more adolescents engaging in physical activities&#xD;
+      and competitive sports. Standard of care for these injuries would be an ACL reconstruction&#xD;
+      (ACLR) to allow return to function and sports and reduce the risk of post-traumatic arthritis&#xD;
+      and recurrent knee injuries. Rehabilitation post-ACLR is crucial to optimise surgical&#xD;
+      outcomes and prevent re-rupture of ACL. However, good compliance to rehabilitation is often a&#xD;
+      challenge for patients and healthcare providers.&#xD;
+&#xD;
+      Telerehabilitation for this group of patients may help to augment rehabilitation by improving&#xD;
+      patient compliance and overcome barriers to behavioural change often observed in traditional&#xD;
+      in-person physiotherapy. It can also allow remote monitoring and provide feedback to patients&#xD;
+      during exercises. In addition, it is a useful tool during pandemic when in-person visits are&#xD;
+      not possible. Currently, very few studies have evaluated the use of telerehabilitation with&#xD;
+      remote monitoring for ACLR, especially in adolescents. The use of home-based&#xD;
+      telerehabilitation post ACLR may be key to improving patient motivation and exercise&#xD;
+      compliance in adolescents.&#xD;
+&#xD;
+      For this pilot study, the intervention group will undergo the TAR program in addition to&#xD;
+      standard care, which involves self-administered exercises in initial 12 weeks post ACLR using&#xD;
+      a mobile application. The mobile application will detect key landmarks on the body for human&#xD;
+      pose estimation. Participants will be able to perform their exercises with real-time feedback&#xD;
+      given, allowing for proper execution of the exercises. Exercise adherence, range of motion&#xD;
+      and pain scores will be tracked via the application and therapists are able to monitor via&#xD;
+      the online dashboard. The control group will undergo standard in-person physiotherapy.&#xD;
+&#xD;
+      Primary aim of this study is to examine exercise adherence in TAR program versus standard&#xD;
+      care post ACLR in adolescents. Secondary aims of this study are to examine the effects of TAR&#xD;
+      program on knee strength, range, function, quality of life, treatment satisfaction,&#xD;
+      self-determination and number of face-to-face rehabilitation sessions required after ACLR.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2023</start_date>
+  <completion_date type="Anticipated">April 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Exercise adherence</measure>
+    <time_frame>Post-operatively: Week 3, Week 6, Week 9, Week 12</time_frame>
+    <description>This will be measured via the Exercise Adherence Rating Scale (via the 6 item questions on assessing adherence to prescribed home exercises) over 12 weeks post-operatively, via changes in scores over the time points. The scores will range from 0-24, with higher scores indicating higher adherence.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain intensity</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 3, Week 6, Week 9, Week 12</time_frame>
+    <description>Pain at rest and with movement will be measured on a 11-point numeric pain rating scale, with zero representing no pain at all and 10 representing worst imaginable pain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Range of motion</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 3, Week 6, Week 9, Week 12</time_frame>
+    <description>A goniometer will be used to measure knee range of motion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quadriceps and hamstring strength</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 6, Week 12</time_frame>
+    <description>Strength for quadriceps and hamstring will be obtained using the knee flexion extension machine (isotonic isometric).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>One leg sit to stand</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 6, Week 12</time_frame>
+    <description>One leg sit to stand test will be conducted with a standard chair height, with one leg sit to stand rate calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported function</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 6, Week 12</time_frame>
+    <description>Pedi-IKDC (Pediatric version of the International Knee Documentation Committee) questionnaire will be used to measure their self-reported lower limb function (scores range from 0-100, with higher scores indicating lower function or greater symptoms).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported quality of life</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 6, Week 12</time_frame>
+    <description>EQ-5D-Y (child-friendly EQ-5D version) quality of life questionnaire consists of two sections. First section covers five health domains: mobility, self-care, usual activities, pain or discomfort and feeling worried, sad or unhappy, with each domain responses as no problems, some problems and a lot of problems. The response categories will be reflected by a 1-digit number (1-3) and combined into a 5-digit number based on the domains to describe their health state.&#xD;
+The second section cover the EQ VAS, which requires rating of their health between 100 (the best health you can imagine) and 0 (the worst health you can imagine).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motivation</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 6, Week 12</time_frame>
+    <description>Treatment self-regulation questionnaire will be used to measure their self-determination/ motivation to exercise regularly. It consists of 15 questions on a 7-point scale from 'not at all true' to 'very true'. Scores for each question range from 1 to 7, with higher scores indicating the more dominant motivational style.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived competence</measure>
+    <time_frame>Pre-operatively (≤one month prior to operation), Post-operatively: Week 6, Week 12</time_frame>
+    <description>Perceived competence scale will be used to measure their perceived confidence to exercise regularly. It consists of four questions on a 7-point scale from 'not at all true' to 'very true'. Total scores range from 4 to 28, with higher scores indicating greater perceived confidence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment satisfaction</measure>
+    <time_frame>Post-operatively: Week 6, Week 12</time_frame>
+    <description>A 11-point numeric rating scale will be used for participants to rate their satisfaction and convenience of treatment received, with zero indicating not satisfied at all/ not convenient at all and 10 indicating completely satisfied/ most convenient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of face to face rehabilitation session</measure>
+    <time_frame>Post-operatively: Week 12</time_frame>
+    <description>Number of in person rehabilitation sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mHealth App Usability Questionnaire (MAUQ)</measure>
+    <time_frame>Post-operatively: Week 12</time_frame>
+    <description>This will be used with participants in the intervention group to gather feedback and determine usability of the use of this mobile application for home-based rehabilitation post ACLR. Each survey question consists of a Likert scale rating (on a scale of five), with higher scores indicating greater ease of use and satisfaction, system information arrangement, usefulness and intention to use.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Telerehabilitation</condition>
+  <condition>Anterior Cruciate Ligament Injuries</condition>
+  <condition>Anterior Cruciate Ligament</condition>
+  <arm_group>
+    <arm_group_label>Telerehabilitation TAR program using a mobile application (intervention group)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the intervention group will undergo the telerehabilitation TAR program and install and utilise the application on their mobile device, and self-administer the home exercises as prescribed by their physiotherapists. The mobile application uses novel deep learning algorithm on a mobile platform to detect key landmarks on the body for human pose estimation. Participants will be able to perform their rehabilitation exercise with real-time feedback allowing for proper execution of the exercises. The participants will be instructed on the installation and use of the mobile application and will be expected to perform the prescribed exercises independently (using the application) as instructed by their Physiotherapists. This application will be used for the initial 12 weeks of post-op rehabilitation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard rehabilitation (control group)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in the control group will attend standard in person rehabilitation sessions at the outpatient clinic. Participants will be prescribed a home exercise program as per standard care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Telerehabilitation TAR program using a mobile application</intervention_name>
+    <description>Participants in this study arm will use a mobile application which allows participants to perform their home exercises with real-time feedback given, allowing for proper execution of exercises, on top of standard care.</description>
+    <arm_group_label>Telerehabilitation TAR program using a mobile application (intervention group)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard rehabilitation sessions</intervention_name>
+    <description>Participants in this control group will attend standard in person rehabilitation sessions with home exercise program given as per standard care.</description>
+    <arm_group_label>Standard rehabilitation (control group)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants age 12 to 20 years old&#xD;
+&#xD;
+          -  Participants undergoing ACLR surgery&#xD;
+&#xD;
+          -  Participants willing to be included in either the intervention group (utilizing the&#xD;
+             mobile application) or control group&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with complications after ACLR surgery&#xD;
+&#xD;
+          -  Participants with significant neurological or other lower limb impairments or&#xD;
+             conditions affecting mobility and function&#xD;
+&#xD;
+          -  Participants with previous ACL surgeries of the same affected lower limb&#xD;
+&#xD;
+          -  Participants with previous surgeries or trauma to the unaffected lower limb&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>20 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Siao Hui Toh, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>KK Women's and Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cheri Chan</last_name>
+    <phone>+65 6225 5554</phone>
+    <email>cheri.chan.s.h@kkh.com.sg</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>KK Women's and Children's Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>KK Women's and Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Siao Hui Toh</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Telerehabilitation</keyword>
+  <keyword>Anterior Cruciate Ligament Injuries</keyword>
+  <keyword>Anterior Cruciate Ligament Reconstruction</keyword>
+  <keyword>Mobile application</keyword>
+  <keyword>Adolescent</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anterior Cruciate Ligament Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

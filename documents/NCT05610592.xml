@@ -1,0 +1,164 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GIHSYSU-31</org_study_id>
+    <nct_id>NCT05610592</nct_id>
+  </id_info>
+  <brief_title>Tumor Budding in Patients With Colorectal Cancer Under Different MMR Status</brief_title>
+  <official_title>Prognostic Impact of Tumor Budding and Tumor-infiltrating Lymphocytes in Patients With Colorectal Cancer Under Different MMR Status: A Single-Center, Open-Label, Retrospective, Observational Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sun Yat-sen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sun Yat-sen University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the ability of tumor budding to identify prognosis in different MMR&#xD;
+      states and different levels of tumor lymphocyte infiltration. Tumor budding is usually&#xD;
+      defined as an isolated single cancer cell or a cluster of up to four cancer cells located at&#xD;
+      the front of an infiltrating tumor.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As a component of the tumor microenvironment, tumor budding is associated with the epidermal&#xD;
+      mesenchymal transition of tumor cells and may predict disease progression and poor survival.&#xD;
+      The current assessment of tumor budding levels is mainly based on the ITBCC grading system.&#xD;
+      The dMMR phenotype of colorectal cancer is associated with the generation of&#xD;
+      non-self-recognizing neoantigens by the immune system, with tumor-associated extensive&#xD;
+      inflammatory cell infiltration, and often the dMMR phenotype of colorectal cancer has a lower&#xD;
+      level of outgrowth, possibly with the generation of local immune responses capable of&#xD;
+      eradicating tumor budding cells. The prognostic value of the conventional tumor budding&#xD;
+      grading system has been validated mainly in stage I and II colorectal cancers and does not&#xD;
+      consider the effect of MMR status on tumor budding. This retrospective study is designed to&#xD;
+      investigate whether the high grade of tumor budding under high immune response status implies&#xD;
+      immune escape of tumor cells and brings worse survival outcome, establish a more independent&#xD;
+      risk grading system to maximize the prognostic value of tumor budding in dMMR phenotype of&#xD;
+      colorectal cancer in combination with tumor-infiltrating lymphocytes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2009</start_date>
+  <completion_date type="Actual">November 1, 2022</completion_date>
+  <primary_completion_date type="Actual">November 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>5-year event-free survival rate</measure>
+    <time_frame>5 years after the surgery</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>5-year overall survival rate</measure>
+    <time_frame>5 years after the surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local recurrence</measure>
+    <time_frame>5 years after the surgery</time_frame>
+    <description>Defined as an intrapelvic recurrence following a primary rectal cancer resection, with or without distal metastasis</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">480</enrollment>
+  <condition>Tumor Budding</condition>
+  <condition>Rectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Rectal cancer</arm_group_label>
+    <description>patients underwent curative surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>total mesorectal exicision</intervention_name>
+    <arm_group_label>Rectal cancer</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Rectal cancer patients underwent curative surgery&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Confirmed colorectal adenocarcinoma cancer pathologically&#xD;
+&#xD;
+          2. Underwent primary surgery&#xD;
+&#xD;
+          3. With records for tumor budding staining&#xD;
+&#xD;
+          4. Willing and able to provide written informed consent for participation in this study&#xD;
+&#xD;
+          5. Non-complicated primary tumor (complete obstruction, perforation, bleeding)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. With distant metastases at the time of initial diagnosis&#xD;
+&#xD;
+          2. Without a complete pathological date&#xD;
+&#xD;
+          3. Hereditary colorectal cancer&#xD;
+&#xD;
+          4. Subjects with a history of a prior malignancy within the past 5 years, except for&#xD;
+             adequately treated basal cell or squamous cell skin cancer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of colorectal surgery, the Sixth Affiliated Hospital, Sun Yat-Sen University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sun Yat-sen University</investigator_affiliation>
+    <investigator_full_name>Yanhong Deng</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Tumor budding</keyword>
+  <keyword>Rectal cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rectal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Anonymous information may be provided upon reasonable request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,314 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-YJ12</org_study_id>
+    <nct_id>NCT05622552</nct_id>
+  </id_info>
+  <brief_title>Effect of tDCS Combined With Pharmacological Treatments for Bipolar Mania</brief_title>
+  <official_title>Study on the Efficacy of tDCS Combined With Pharmacological Treatments on Manic Episodes and Its Effect on Brain Function</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dongbin Lyu</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Mental Health Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to conduct a randomized double-blind controlled trial to&#xD;
+      explore the efficacy and safety of transcranial direct current stimulation (tDCS) in the&#xD;
+      treatment of manic episode (ME) and analyzes the brain functional connectivity to construct&#xD;
+      the therapeutic effect prediction model of tDCS for ME.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        -  A randomized double-blind controlled trial is conducted to clarify the efficacy and&#xD;
+           safety of tDCS combined with pharmacological treatments in the ME.&#xD;
+&#xD;
+        -  A therapeutic effect prediction model of tDCS for ME by using functional near-infrared&#xD;
+           spectroscopy to evaluate brain function.&#xD;
+&#xD;
+      Participants will be receive:&#xD;
+&#xD;
+        -  clinical data interview and clinical symptom assessment.&#xD;
+&#xD;
+        -  the functional near-infrared spectroscopy (fNIRS) to analysis brain functional&#xD;
+           connectivity.&#xD;
+&#xD;
+        -  tDCS stimulation, which was performed once a day sessions of active or sham anodal tDCS&#xD;
+           to the right dorsolateral prefrontal cortex and Cathode to the left OFC (2 mA, 20&#xD;
+           minutes, 10 sessions).&#xD;
+&#xD;
+      In the active group, current stimulations were gradually ramped up to 2 mA (in 30 seconds)&#xD;
+      intensity for 20 minutes, once a day, for 10 days. For sham stimulation, the procedure was&#xD;
+      identical, except that the current was gradually ramped up to 2mA and rapidly down to zero&#xD;
+      (in 30 seconds), thus leading to the same initial sensations of tDCS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Manic Episode (ME) is a form of bipolar disorder, characterized by a distinct period of&#xD;
+      abnormally and persistently elevated, expansive, or irritable mood and abnormally and&#xD;
+      persistently increased goal-directed activity or energy, lasting at least 1 week and present&#xD;
+      most of the day, nearly every day (or any duration if hospitalization is necessary).&#xD;
+      Transcranial direct current stimulation (tDCS), which uses weak current to stimulate specific&#xD;
+      brain areas, is a non-invasion neuromodulation.&#xD;
+&#xD;
+      This study intends to conduct a randomized double-blind controlled trial to explore the&#xD;
+      efficacy and safety of right dorsolateral prefrontal cortex stimulation (R-DLPFC) in the&#xD;
+      treatment of ME. In addition, the brain functional connectivity was analyzed by machine&#xD;
+      learning analysis based on the brain function detection data, and the therapeutic effect&#xD;
+      prediction model of tDCS for ME was constructed to provide a basis for the precise navigation&#xD;
+      and individualized treatment of ME by tDCS.&#xD;
+&#xD;
+      70 patients with manic episode diagnosed by the Structured Clinical Interview for DSM-IV,&#xD;
+      Axis I Disorders, Patient Version (SCID-I/P) were recruited from the Shanghai Mental Health&#xD;
+      Center. Written, informed and competent consent was obtained before their participation in&#xD;
+      the study and a structured interview would be completed.&#xD;
+&#xD;
+      After strict inclusion and exclusion criteria for participants, clinical data interview and&#xD;
+      clinical symptom assessment will be conducted by a trained psychiatrists at the Shanghai&#xD;
+      Mental Health Center. And the functional near-infrared spectroscopy (fNIRS) would be used to&#xD;
+      analysis brain functional connectivity at the baseline and the end of the 10 seesions. The&#xD;
+      study would randomize all participants in a 1:1 ratio, one was &quot;active group&quot;, and the other&#xD;
+      was &quot;sham group&quot;. The anode of tDCS was placed over right dorsolateral prefrontal cortex&#xD;
+      (R-DLPFC) and the cathode to the left orbitofrontal cortex (OFC). In the active group,&#xD;
+      current stimulations were gradually ramped up to 2 mA (in 30 seconds) intensity for 20&#xD;
+      minutes, once a day, for 10 days. For sham stimulation, the procedure was identical, except&#xD;
+      that the current was gradually ramped up to 2mA and rapidly down to zero (in 30 seconds),&#xD;
+      thus leading to the same initial sensations of tDCS. The study was 8 weeks long, and&#xD;
+      procedure of visit would be occurred at the following time points: baseline, week 2, 4 and&#xD;
+      8.At each visit, psychometric outcome measures including the Young Manic Rating Scale (YMRS),&#xD;
+      Montgomery-Åsberg Depression Rating Scale (MADRS), Quick Inventory of Depressive&#xD;
+      Symptomatology (QIDS SR-16), Altman Self-Rating Mania Scale (ASRM), Wisconsin Card Sorting&#xD;
+      Test (WCST), Stroop Color Word Test, Morisky Medication Adherence Scale-8 (MMAS-8), Global&#xD;
+      Assessment of Functioning (GAF).The reduction in YMRS after 10 sessions of tDCS was the&#xD;
+      primary outcome.&#xD;
+&#xD;
+      The study will require active reporting of adverse effects from the participants, as well as&#xD;
+      reports from observations of researchers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>tDCS stimulation, which was performed once a day sessions of active or sham anodal tDCS to the right dorsolateral prefrontal cortex and cathode to the left OFC (2 mA, 20 minutes, 10 sessions).&#xD;
+In the active group, current stimulations were gradually ramped up to 2 mA (in 30 seconds) intensity for 20 minutes, once a day, for 10 days. For sham stimulation, the procedure was identical, except that the current was gradually ramped up to 2mA and rapidly down to zero (in 30 seconds), thus leading to the same initial sensations of tDCS.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The random numbers generated by the computer software and corresponding to the serial number were assigned to the DLPFC 2mA once/day group and the sham stimulation once/day group, and the random number sequence was recorded. Patients eligible for inclusion were randomly assigned to different treatment groups in a 1:1 ratio. Those who determine the random number grouping shall not participate in the inclusion of subjects.&#xD;
+The implementation of randomization and the verification and storage of grouping information were operated by specialists. Study operators, clinical evaluators, and patients were not aware of their intervention grouping. In case of urgent adverse events, blinding should be undone, and the relationship between adverse events and treatment should be studied and reported to the ethics committee.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>the reduction in YMRS after two weeks of study</measure>
+    <time_frame>two weeks of study</time_frame>
+    <description>Young Manic Rating Scale (YMRS), as the most widely used assessment tool for severity of manic symptoms in bipolar patients. We used it to assess the symptoms of mania in subjects and calculated the reduction from the scores before and after 2 weeks of treatment. The response was defined as &gt;50% reduction in YMRS after two weeks of study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the scale of MADRS</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>Montgomery-Åsberg Depression Rating Scale (MADRS), used to evaluate the depressive symptom in mood disorder.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the scale of QIDS-16</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>SR16 is a professional, systematic, and very rigorous self-rating scale, which is characterized by simplicity and clarity, and can quickly understand the degree of depression through this questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the scale of ASRM</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>Altman Self-Rating Mania Scale (ASRM), is a 5-item self rating mania scale, designed to assess the presence and/or severity of manic symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the scale of WCST</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>Wisconsin Card Sorting Test (WCST) is a neuropsychological test that is frequently used to measure such higher-level cognitive processes as attention, perseverance, WM, abstract thinking, CF, and set shifting.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the scale of Stroop Color Word Test</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>The Stroop Color and Word Test (SCWT) is a neuropsychological test extensively used to assess the ability to inhibit cognitive interference.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the scale of MMAS-8</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>The Morisky Medication Adherence Scale (MMAS) is a validated assessment tool used to measure non-adherence in a variety of patient populations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the scale of GAF</measure>
+    <time_frame>each visit of study in 8 weeks</time_frame>
+    <description>The Global Assessment of Functioning (GAF) is a number between 0 and 100 that summarizes the clinician's view of the patient's current degree of impairment in terms of psychosocial and occupational or educational function.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Manic Episode</condition>
+  <arm_group>
+    <arm_group_label>active group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>tDCS stimulation, which was performed once a day sessions of active anodal tDCS to the right dorsolateral prefrontal cortex and cathode to the left OFC (2 mA, 20 minutes, 10 sessions over 2 weeks).&#xD;
+In the active group, current stimulations were gradually ramped up to 2 mA (in 30 seconds) intensity for 20 minutes, once a day, for 10 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sham group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>tDCS stimulation, which was performed once a day sessions of sham anodal tDCS to the right dorsolateral prefrontal cortex and cathode to the left OFC (2 mA, 20 minutes, 10 sessions over 2 weeks).&#xD;
+For sham stimulation, the procedure was identical, except that the current was gradually ramped up to 2mA and rapidly down to zero (in 30 seconds), thus leading to the same initial sensations of tDCS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>active group of tDCS</intervention_name>
+    <description>Transcranial direct current stimulation(tDCS) is a neurostimulation that has aroused concern in psychiatry. As a non-invasive brain modulation that delivered a weak direct current (0.5-2 mA) via two scalp electrodes (an anode and a cathode) overlying targeted cortical areas. It can produce polarity-dependent effects, like inducing functional changes in resting membrane potential and cerebral blood flow. Specifically, a depolarization of the neurons membranes by anodal stimulation and thus invokes an increase of the spontaneous neuronal firing rate, whereas cathodal stimulation induces neuronal hyperpolarization.&#xD;
+In the active group, current stimulations were gradually ramped up to 2 mA (in 30 seconds) intensity for 20 minutes, once a day, for 10 days.</description>
+    <arm_group_label>active group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>sham group of tDCS</intervention_name>
+    <description>Transcranial direct current stimulation(tDCS) is a neurostimulation that has aroused concern in psychiatry. As a non-invasive brain modulation that delivered a weak direct current (0.5-2 mA) via two scalp electrodes (an anode and a cathode) overlying targeted cortical areas. It can produce polarity-dependent effects, like inducing functional changes in resting membrane potential and cerebral blood flow. Specifically, a depolarization of the neurons membranes by anodal stimulation and thus invokes an increase of the spontaneous neuronal firing rate, whereas cathodal stimulation induces neuronal hyperpolarization.&#xD;
+For sham stimulation, the procedure was identical, except that the current was gradually ramped up to 2mA and rapidly down to zero (in 30 seconds), thus leading to the same initial sensations of tDCS.</description>
+    <arm_group_label>sham group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1. Manic episode in patient with bipolar disorder, as assessed by the Structured&#xD;
+             Clinical Interview for DSM-IV, Axis I Disorders, Patient Version (SCID-I/P).&#xD;
+&#xD;
+          -  2. Young Mania Rating Scale (YMRS) score above or equal 13.&#xD;
+&#xD;
+          -  3. Patients of both genders between 18 and 65 years of age (when obtaining informed&#xD;
+             consent) ,right-handed.&#xD;
+&#xD;
+          -  4. Junior high school education and above, with understanding of the content of the&#xD;
+             study.&#xD;
+&#xD;
+          -  5. Written, informed and competent consent was obtained before participation in the&#xD;
+             study.&#xD;
+&#xD;
+          -  6. The regimens and dosages of mood stabilizers and atypical antipsychotics remained&#xD;
+             stable from the start of tDCS to the completion of 10 tDCS sessions. One mood&#xD;
+             stabilizer and/or one atypical antipsychotics could be administered, and no new or&#xD;
+             discontinued drugs were added&#xD;
+&#xD;
+          -  7. Did not receive other trials of neurostimulation treatments (include tCS, rTMS,&#xD;
+             MECT.etc) and psychotherapies 1 month before tDCS treatment to 2 weeks after the end&#xD;
+             of treatment.&#xD;
+&#xD;
+          -  8. Benzodiazepines and antidepressants were not used from 1 month before tDCS&#xD;
+             treatment to 2 weeks after the end of treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1. Laboratory abnormalities that are judged to be clinically significant and that&#xD;
+             clinicians consider to affect the efficacy of the trial or the safety of the subjects.&#xD;
+&#xD;
+          -  2. With severe or unstable diseases, including: Patients with neurological diseases&#xD;
+             (delirium, dementia, stroke, epilepsy, migraine, high intracranial pressure,&#xD;
+             craniocerebral surgery, etc.), congestive heart failure, angina pectoris, myocardial&#xD;
+             infarction, arrhythmia, hypertension (including untreated or uncontrolled&#xD;
+             hypertension), apnea syndrome, malignant tumors, immunocompromised subjects, acute or&#xD;
+             chronic liver and kidney failure, cirrhosis or active liver disease, Or blood glucose&#xD;
+             higher than 12mmol/L.&#xD;
+&#xD;
+          -  3.Alcohol or drug dependence within 6 months before the trial.&#xD;
+&#xD;
+          -  4.Pregnant and lactating women. Male and female subjects who are not using effective&#xD;
+             contraception or who plan to become pregnant within 3 months of starting the trial.&#xD;
+&#xD;
+          -  5.Family history of epilepsy (within three generations).&#xD;
+&#xD;
+          -  6.History of head trauma or craniocerebral surgery such as open wound or skull repair.&#xD;
+&#xD;
+          -  7.Other conditions that were not appropriate for participation in the clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dongbin Lyu, MBBS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai Mental Health Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dongbin Lyu, MBBS</last_name>
+    <phone>+86 64387250</phone>
+    <email>shuiysuper@foxmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Weichieh Yang, MBBS</last_name>
+    <phone>+8613701635337</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Shanghai Mental Health Center</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Donbin Lyu</last_name>
+      <phone>+86 64387250</phone>
+      <email>shuiysuper@foxmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Weichieh Yang</last_name>
+      <phone>+86 13701635337</phone>
+      <email>weichieh_yang@163.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai Mental Health Center</investigator_affiliation>
+    <investigator_full_name>Dongbin Lyu</investigator_full_name>
+    <investigator_title>Resident</investigator_title>
+  </responsible_party>
+  <keyword>manic episode</keyword>
+  <keyword>Transcranial direct current stimulation</keyword>
+  <keyword>tDCS</keyword>
+  <keyword>Functional near-infrared spectroscopy</keyword>
+  <keyword>fNIRS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mania</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

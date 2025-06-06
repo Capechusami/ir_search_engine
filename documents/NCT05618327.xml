@@ -1,0 +1,293 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618327</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JS203-001-I</org_study_id>
+    <nct_id>NCT05618327</nct_id>
+  </id_info>
+  <brief_title>Phase I Clinical Study of JS203 in Patients With Relapsed/Refractory B-cell Non-Hodgkin's Lymphoma</brief_title>
+  <official_title>Phase I Clinical Study of JS203 in Patients With Relapsed/Refractory B-cell Non-Hodgkin's Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Junshi Bioscience Co., Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Junshi Bioscience Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open phase I clinical study to evaluate the safety, tolerability, pharmacokinetic&#xD;
+      (PK) profile, pharmacodynamic (PD) profile, immunogenicity, and preliminary efficacy of JS203&#xD;
+      in patients with relapsed/refractory B-cell non-Hodgkin's lymphoma. The study is divided into&#xD;
+      three phases: a dose-escalation phase, a dose-expansion phase, and an efficacy expansion&#xD;
+      phase.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 22, 2022</start_date>
+  <completion_date type="Anticipated">February 22, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 24, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MTD</measure>
+    <time_frame>Throughout the dose escalation and dose expansion phases,, an average of 1.5 years</time_frame>
+    <description>It is suitable for dose escalation and dose extension.If the number of DLT patients is 0 and the next higher dose is unacceptable, the current dose is declared MTD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>RP2D</measure>
+    <time_frame>Throughout the dose escalation and dose expansion phases, an average of 1.5 years</time_frame>
+    <description>It is suitable for dose escalation and dose extension.RP2D will be determined based on a combination of safety, tolerability, PK and/or pharmacodynamic studies .</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DLT events</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Incidence and severity of DLT events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (AEs)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Incidence and severity of adverse events (AEs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events (SAEs)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Incidence and severity of serious adverse events (SAEs).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>abnormal changes in clinically significant laboratory tests and other examinations</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>abnormal changes in clinically significant laboratory tests and other examinations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Objective Response Rate (ORR) as Assessed by Investigator according to Lugano 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Response (CR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Complete Response (CR) as Assessed by Investigator according to Lugano 2014</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Objective Response (DOR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Duration of Objective Response (DOR) as Assessed by Investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Complete Response (DOCR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Duration of Complete Response (DOCR) as Assessed by Investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response(TTR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Time to Response(TTR) as Assessed by Investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Progression-Free Survival (PFS) as Determined by Investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Overall Survival (OS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antidrug antibodies (ADA) and/or neutralizing antibodies (Nab)</measure>
+    <time_frame>At pre-defined intervals up to 2 years</time_frame>
+    <description>incidence of antidrug antibodies (ADA) and/or neutralizing antibodies (Nab)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total exposure(AUC) of JS203</measure>
+    <time_frame>At pre-defined intervals up to 2 years</time_frame>
+    <description>Total exposure(AUC) of JS203</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma Concentration (Cmax) of JS203</measure>
+    <time_frame>At pre-defined intervals up to 2 years</time_frame>
+    <description>Maximum Plasma Concentration (Cmax) of JS203</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life(T1/2) of JS203</measure>
+    <time_frame>At pre-defined intervals up to 2 years</time_frame>
+    <description>Half-life(T1/2) of JS203</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance(CL) of JS203</measure>
+    <time_frame>At pre-defined intervals up to 2 years</time_frame>
+    <description>Clearance(CL) of JS203</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Distribution (Vss) of JS203</measure>
+    <time_frame>At pre-defined intervals up to 2 years</time_frame>
+    <description>Volume of Distribution (Vss) of JS203</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic (PD) characteristics</measure>
+    <time_frame>At pre-defined interval up to 2 years</time_frame>
+    <description>CD20 receptor occupancy rate in peripheral blood cells</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic (PD) characteristics</measure>
+    <time_frame>At pre-defined interval up to 2 years</time_frame>
+    <description>Changes in peripheral blood immune cell subtypes (B cells, T cells) before and after drug administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic (PD) characteristics</measure>
+    <time_frame>At pre-defined interval up to 2 years</time_frame>
+    <description>Changes in peripheral blood cytokines (IL-2, IL-4, IL-6, IL-10, TNF-α, IFN-γ) before and after drug administration</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">219</enrollment>
+  <condition>Relapsed/Refractory B-cell Non-Hodgkin's Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>JS203</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JS203 for Injection</intervention_name>
+    <description>2-steps:JS203 for Injection is administered on the first and eighth day of the first cycle and every 3 weeks thereafter.&#xD;
+3-steps:JS203 for Injection is administered on the first, eighth and fifteenth day of the first cycle and every 3 weeks thereafter.&#xD;
+4-steps:JS203 for Injection is administered on the first, eighth, fifteenth and twenty-second day of the first cycle and every 3 weeks thereafter.</description>
+    <arm_group_label>JS203</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Understand and voluntarily sign the informed consent form.&#xD;
+&#xD;
+          2. Age 18 - 75 years (both 18 and 75 years), both sexes&#xD;
+&#xD;
+          3. Expected survival of ≥ 12 weeks.&#xD;
+&#xD;
+          4. Eastern Collaborative Oncology Group (ECOG) physical status score: 0 to 1.&#xD;
+&#xD;
+          5. B-cell non-Hodgkin's lymphoma expressing CD20 antigen clearly diagnosed by pathology&#xD;
+&#xD;
+          6. Patients with non-Hodgkin's lymphoma must have measurable lesions that meet the Lugano&#xD;
+             2014 criteria for lymphoma efficacy assessment, requiring lymph node lesions &gt;1.5 cm&#xD;
+             in either length or extra-nodal lesions &gt;1.0 cm in either length.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. history of severe allergy or anaphylactic reaction to monoclonal antibody therapy (or&#xD;
+             recombinant antibody-associated fusion protein).&#xD;
+&#xD;
+          2. previous treatment with CD20-CD3 bispecific antibodies.&#xD;
+&#xD;
+          3. failure to resolve toxicity after prior antitumor therapy, i.e., no return to baseline&#xD;
+             or grade 0-1 as defined by NCI-CTCAE 5.0 (except for alopecia, hyperpigmentation).&#xD;
+             Irreversible toxicity that is not reasonably expected to be exacerbated by the study&#xD;
+             drug and may be enrolled upon confirmation with the sponsor.&#xD;
+&#xD;
+          4. Received antitumor therapy such as chemotherapy, radiotherapy, targeted therapy,&#xD;
+             immunotherapy, or biologic therapy within 4 weeks or 5 half-lives (whichever is&#xD;
+             shorter) prior to the first dose. Non-tumor related conditions that are amenable to&#xD;
+             hormone therapy (e.g. insulin therapy for diabetes and hormone replacement therapy).&#xD;
+&#xD;
+          5. receive autologous hematopoietic stem cell transplantation within 100 days prior to&#xD;
+             the first dose&#xD;
+&#xD;
+          6. have undergone, or are expected to require during the study period, major surgery (as&#xD;
+             judged by the investigator) or are recovering from surgery within 4 weeks prior to the&#xD;
+             first dose&#xD;
+&#xD;
+          7. active hepatitis B or C. Active hepatitis B defined as positive for hepatitis B core&#xD;
+             antibody (HBcAb) or hepatitis B surface antigen (HBsAg) with HBV DNA above the upper&#xD;
+             limit of the study center's normal value; active hepatitis C defined as positive for&#xD;
+             hepatitis C antibody and HCV RNA above the upper limit of the study center's normal&#xD;
+             value.&#xD;
+&#xD;
+          8. history of cardiac disease: New York Heart Association (NYHA) &gt; Class II congestive&#xD;
+             heart failure, myocardial infarction occurring within 6 months prior to enrollment, or&#xD;
+             arrhythmia requiring antiarrhythmic therapy and/or left ventricular ejection fraction&#xD;
+             &lt; 50%.&#xD;
+&#xD;
+          9. two or more malignancies within 5 years prior to the first dose. Except for early&#xD;
+             malignancies that have been eradicated (carcinoma in situ or stage I tumors), such as&#xD;
+             adequately treated cervical carcinoma in situ, basal cell or squamous epithelial cell&#xD;
+             skin cancer.&#xD;
+&#xD;
+         10. persons with uncontrollable psychiatric disorders&#xD;
+&#xD;
+         11. patients with a history of drug abuse or alcohol abuse&#xD;
+&#xD;
+         12. other conditions judged by the investigator to be inappropriate for participation in&#xD;
+             this study, including but not limited to having any disease or medical history that&#xD;
+             may confound study results and interfere with patient compliance&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yuqin Song, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University Cancer Hospital &amp; Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhihao Jiang</last_name>
+    <phone>86-15350403639</phone>
+    <email>zhihao_jiang@junshipharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Beijing Cancer Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Wanli Shen</last_name>
+      <phone>86-010-88196393</phone>
+      <email>gcp_shenwl@bjcancer.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

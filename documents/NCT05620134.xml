@@ -1,0 +1,547 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620134</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JK08.1.01</org_study_id>
+    <secondary_id>2022-000339-21</secondary_id>
+    <nct_id>NCT05620134</nct_id>
+  </id_info>
+  <brief_title>A Study of JK08, an IL-15 Antibody Fusion Protein Targeting CTLA-4, in Patients With Unresectable Locally Advanced or Metastatic Cancer</brief_title>
+  <official_title>A Phase 1/2, Multicenter, Open Label, Dose Escalation &amp; Dose Expansion Study of JK08, an IL-15 Antibody Fusion Protein Targeting CTLA-4, in Patients With Unresectable Locally Advanced or Metastatic Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Salubris Biotherapeutics Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Salubris Biotherapeutics Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2, open-label, multi-center, first-in-human, dose escalation and cohort&#xD;
+      expansion study evaluating multiple doses and schedules of subcutaneously administered JK08&#xD;
+      in patients with unresectable locally, advanced or metastatic cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 1/2, open label, dose escalation and cohort expansion study is designed to&#xD;
+      evaluate and characterize the safety, tolerability, pharmacokinetics, pharmacodynamics,&#xD;
+      immunogenicity, and preliminary anti-tumor activity of JK08 administered subcutaneously in&#xD;
+      patients with unresectable locally, advanced or metastatic cancer.&#xD;
+&#xD;
+      The study consists of a Dose Escalation phase to determine the maximum tolerated&#xD;
+      dose/recommended phase 2 dose of JK08, followed by a Cohort Expansion phase to further define&#xD;
+      the safety and initial efficacy of JK08 in three tumor specific cohorts (melanoma, colorectal&#xD;
+      cancer, and breast cancer) and a basket cohort of mixed solid tumors.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 17, 2022</start_date>
+  <completion_date type="Anticipated">February 20, 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 17, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-limiting Toxicity (DLT)</measure>
+    <time_frame>First 21 days of treatment.</time_frame>
+    <description>The incidence of DLTs during the DLT assessment period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dose-Finding</measure>
+    <time_frame>Screening to 90 days from last dose.</time_frame>
+    <description>Determination of the maximum-tolerated dose/recommended Phase 2 dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>First treatment through 28 days after last dose of treatment or End of Treatment [EOT] visit, whichever is later.</time_frame>
+    <description>Incidence, nature, and severity of treatment-emergent adverse events [TEAEs]. Defined as any AE that occurs during the treatment period (i.e., after any treatment) and up to 28 days after the last dose of study treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>Screening date through 30 days after last dose of treatment or End of Treatment [EOT] visit, whichever is later.</time_frame>
+    <description>Incidence, nature, and severity of Serious Adverse Events [SAEs].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>Screening date through 30 days after last dose of treatment or End of Treatment [EOT] visit, whichever is later.</time_frame>
+    <description>Incidence, nature, and severity of adverse events [AEs].</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of JK08</measure>
+    <time_frame>Day 1 of dosing through 21 days post last dose.</time_frame>
+    <description>Maximum Plasma Concentration (Cmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of JK08</measure>
+    <time_frame>Day 1 of dosing through 21 days post last dose.</time_frame>
+    <description>Area Under the Curve (AUC)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Day 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>ORR according to RECIST v1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>ay 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>The percentage of patients with a complete response, partial response, or stable disease for at least 2 consecutive tumor assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Day 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>Time from the date of initiation of study therapy to the date measurement criteria are first met for progressive disease or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Day 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>Time from the date of initiation of study therapy to the date of death from any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">149</enrollment>
+  <condition>Cancer</condition>
+  <condition>Tumor, Solid</condition>
+  <condition>Advanced Solid Tumor</condition>
+  <condition>Metastatic Cancer</condition>
+  <condition>Melanoma</condition>
+  <condition>Colorectal Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Dose Escalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating repeated doses of JK08 administered as a subcutaneous injection. A cycle of treatment is defined as 21 days, in which three doses of JK08 will be planned for administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Expansion - Melanoma Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>JK08 administered at the maximum-tolerated dose/recommended Phase 2 dose as a subcutaneous injection in patients with melanoma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Expansion - Colorectal Cancer Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>JK08 administered at the maximum-tolerated dose/recommended Phase 2 dose as a subcutaneous injection in patients with colorectal cancer.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Expansion - Breast Cancer Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>JK08 administered at the maximum-tolerated dose/recommended Phase 2 dose as a subcutaneous injection in patients with breast cancer.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Expansion - Mixed Solid Tumors Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>JK08 administered at the maximum-tolerated dose/recommended Phase 2 dose as a subcutaneous injection in patients with a mix of solid tumors.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JK08</intervention_name>
+    <description>Recombinant fusion protein consisting of two functional elements, which are a fully human monoclonal antibody, directed against CTLA-4 and a protein complex formed by the human IL-15 and the Sushi domain of human IL-15Rα.</description>
+    <arm_group_label>Dose Escalation</arm_group_label>
+    <arm_group_label>Dose Expansion - Breast Cancer Cohort</arm_group_label>
+    <arm_group_label>Dose Expansion - Colorectal Cancer Cohort</arm_group_label>
+    <arm_group_label>Dose Expansion - Melanoma Cohort</arm_group_label>
+    <arm_group_label>Dose Expansion - Mixed Solid Tumors Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years old.&#xD;
+&#xD;
+          2. Signed informed consent and willing and able to comply with study procedures and&#xD;
+             scheduled visits.&#xD;
+&#xD;
+          3. For Dose Escalation, patients with one of the following histologically diagnosed&#xD;
+             unresectable, locally advanced, or metastatic tumor types:&#xD;
+&#xD;
+               -  Non-small cell lung cancer (NSCLC).&#xD;
+&#xD;
+               -  Small cell lung cancer (SCLC).&#xD;
+&#xD;
+               -  Melanoma.&#xD;
+&#xD;
+               -  Clear cell or papillary renal cell carcinoma (RCC).&#xD;
+&#xD;
+               -  Urothelial cancer (UC).&#xD;
+&#xD;
+               -  Head and neck squamous cell cancer (HNSCC).&#xD;
+&#xD;
+               -  Luminal B (ER+, PR-, any HER2 status) or triple-negative breast cancer.&#xD;
+&#xD;
+               -  Gastric or gastro esophageal adenocarcinoma (GC/GEJ).&#xD;
+&#xD;
+               -  Esophageal squamous cell cancer.&#xD;
+&#xD;
+               -  Skin squamous cell carcinoma (SCC).&#xD;
+&#xD;
+               -  Pancreatic adenocarcinoma.&#xD;
+&#xD;
+               -  Hepatocellular carcinoma (Childs-Pugh A or B7 only).&#xD;
+&#xD;
+               -  Colorectal adenocarcinoma (CRC).&#xD;
+&#xD;
+               -  Epithelial ovarian cancer.&#xD;
+&#xD;
+               -  Cervical cancer.&#xD;
+&#xD;
+               -  Endometrial adenocarcinoma.&#xD;
+&#xD;
+               -  Thyroid cancer (follicular or papillary). For the escalation cohorts, patients&#xD;
+                  must have experienced progressive disease on or be intolerant to an established&#xD;
+                  standard systemic anti-cancer therapy for a given tumor type or have been&#xD;
+                  intolerant to such therapy, or in the opinion of the Investigator have been&#xD;
+                  considered ineligible for a particular form of standard therapy on medical&#xD;
+                  grounds. Patients must have no available proven curative or life prolonging&#xD;
+                  therapies.&#xD;
+&#xD;
+          4. For Cohort Expansion, four tumor specific cohorts of the following tumor types:&#xD;
+&#xD;
+               1. Melanoma Cohort: histologically confirmed diagnosis of advanced and/or metastatic&#xD;
+                  cutaneous melanoma in which radiological progression has been demonstrated during&#xD;
+                  therapy with a PD-(L)1 immune CPI and for which no existing options are&#xD;
+                  considered to provide clinical benefit (only one line of PD-(L)1 therapy is&#xD;
+                  permitted). Progression on ipilimumab is not required. BRAF V600 mutation&#xD;
+                  patients must have progressed on, or are intolerant to, BRAF +/- MEK inhibitor&#xD;
+                  therapy.&#xD;
+&#xD;
+                    -  Patients with BRAF V600-positive tumor(s) should have received prior&#xD;
+                       treatment with a BRAF inhibitor (alone or in combination with a MEK&#xD;
+                       inhibitor) in addition to treatment with pembrolizumab or nivolumab with or&#xD;
+                       without ipilimumab or to have declined targeted therapy. NOTE: Patients with&#xD;
+                       BRAF V600-positive tumors with no clinically significant tumor-related&#xD;
+                       symptoms or evidence of rapidly progressive disease are not required to be&#xD;
+                       treated with a BRAF inhibitor (alone or in combination with a MEK inhibitor)&#xD;
+                       based on investigator's decision.&#xD;
+&#xD;
+               2. Colorectal Cohort: histologically confirmed diagnosis of advanced and/or&#xD;
+                  metastatic colorectal adenocarcinoma. Patients must have had recurrence,&#xD;
+                  progression or intolerance to standard therapy consisting of at least 2 prior&#xD;
+                  standard regimens (containing a fluoropyrimidine plus a platinum analogue and/or&#xD;
+                  irinotecan) for metastatic disease. Patients who are inappropriate candidates for&#xD;
+                  or have refused treatment with these regimens are also eligible. Patients should&#xD;
+                  have received no more than 4 prior regimens.&#xD;
+&#xD;
+               3. Luminal B or Triple-Negative Breast Cancer: histologically confirmed diagnosis of&#xD;
+                  advanced and/or metastatic luminal B or triple-negative breast cancer. Patient&#xD;
+                  must have had recurrence, progression or intolerance to standard therapy for&#xD;
+                  metastatic disease consisting of at least 2 prior regimens, but no more than 3&#xD;
+                  standard chemotherapy regimens. Hormonal treatment regimens without concomitant&#xD;
+                  non-hormonal therapy will not be counted as lines of therapy.&#xD;
+&#xD;
+               4. Basket Cohort: patients with histologically diagnosed unresectable, locally&#xD;
+                  advanced, or metastatic tumor types eligible in Dose Escalation not listed in&#xD;
+                  tumor specific expansion cohorts. Patients must have experienced progressive&#xD;
+                  disease on an established standard systemic anti-cancer therapy for a given tumor&#xD;
+                  type or have been intolerant to such therapy, or in the opinion of the&#xD;
+                  Investigator have been considered ineligible for a particular form of standard&#xD;
+                  therapy on medical grounds. Patients must have no available proven curative or&#xD;
+                  life prolonging therapies.&#xD;
+&#xD;
+          5. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1.&#xD;
+&#xD;
+          6. Life expectancy ≥12 weeks.&#xD;
+&#xD;
+          7. Measurable disease as per RECIST 1.1 criteria and documented by CT and/or MRI. Note:&#xD;
+             lesions treated previously with radiation must demonstrate clear evidence of&#xD;
+             radiographic progression since the completion of prior radiotherapy and prior to study&#xD;
+             enrollment.&#xD;
+&#xD;
+          8. Acceptable laboratory parameters:&#xD;
+&#xD;
+               -  Albumin ≥ 2.8 g/dL.&#xD;
+&#xD;
+               -  Platelet count ≥ 75,000.&#xD;
+&#xD;
+               -  Hemoglobin ≥ 8.0 g/dL.&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1,500/µL.&#xD;
+&#xD;
+               -  ALT/AST ≤ 3.0 times ULN.&#xD;
+&#xD;
+                    -  ALT/AST ≤ 5 × ULN for patients with liver metastases.&#xD;
+&#xD;
+               -  Total bilirubin ≤ 1.5 ULN or ≤ 3 x ULN for patients with Gilbert's disease.&#xD;
+&#xD;
+                    -  Direct bilirubin ≤ ULN for patients with total bilirubin &gt; 1.5 ULN.&#xD;
+&#xD;
+               -  Creatinine ≤ 1.8 mg/dL.&#xD;
+&#xD;
+                    -  Or calculated/measured creatinine clearance &gt; 30 mL/minute.&#xD;
+&#xD;
+          9. Identification of an archival tumor sample (i.e., tissue block (formalin-fixed&#xD;
+             paraffin-embedded [FFPE]) or a series of approximately 10-15 slides).&#xD;
+&#xD;
+         10. Consent to pre- and on- treatment fresh tumor biopsy for all patients enrolled as back&#xD;
+             fill in Dose Escalation or for at least 6 additional patients per expansion cohort in&#xD;
+             Cohort Expansion in Simon Stage 2.&#xD;
+&#xD;
+         11. Women of childbearing potential (WOCBP) not surgically sterilized and between menarche&#xD;
+             and 1 year post menopause must:&#xD;
+&#xD;
+               -  Have a negative serum or urine pregnancy test performed within 72 hours prior to&#xD;
+                  the initiation of study drug administration.&#xD;
+&#xD;
+               -  Be willing to use 2 forms of effective contraception throughout the study,&#xD;
+                  starting with the screening and through 90 days after the last dose of JK08.&#xD;
+&#xD;
+               -  Abstinence is considered a highly effective method if this is the established and&#xD;
+                  preferred contraception method for the patient and is defined as refraining from&#xD;
+                  heterosexual intercourse during the entire period of risk associated with the&#xD;
+                  study treatments. Periodic abstinence [e.g., calendar, ovulation, symptothermal,&#xD;
+                  postovulation methods], withdrawal, spermicides only, and lactational amenorrhea&#xD;
+                  method are not acceptable methods of contraception. Female and male condoms&#xD;
+                  should not be used together.&#xD;
+&#xD;
+         12. Male patients with partners of childbearing potential, even if surgically sterilized&#xD;
+             (i.e., status post-vasectomy) must agree to:&#xD;
+&#xD;
+               -  Use effective barrier contraception from the time of consent through 90 days&#xD;
+                  after discontinuation; or&#xD;
+&#xD;
+               -  Agree to practice true abstinence, if this is the established and preferred&#xD;
+                  contraception method by the patient and is defined as refraining from&#xD;
+                  heterosexual intercourse during the entire period of risk associated with the&#xD;
+                  study treatments. Periodic abstinence [e.g., calendar, symptothermal,&#xD;
+                  post-ovulation methods], withdrawal, spermicides only, and lactational amenorrhea&#xD;
+                  method are not acceptable methods of contraception. Female and male condoms&#xD;
+                  should not be used together.&#xD;
+&#xD;
+               -  In addition, male patients should also have their partners use contraception for&#xD;
+                  the same period of time.&#xD;
+&#xD;
+         13. Central nervous system (CNS) metastases must have been treated, be asymptomatic for&#xD;
+             ≥14 days, and meet the following at the time of enrollment:&#xD;
+&#xD;
+               -  No concurrent treatment for CNS disease (e.g., surgery, radiation,&#xD;
+                  corticosteroids ≥ 10 mg prednisone/day or equivalent).&#xD;
+&#xD;
+               -  No concurrent or past history of leptomeningeal disease or cord compression.&#xD;
+&#xD;
+         14. Must be willing and able to comply with clinic visits and procedures outlined in the&#xD;
+             study protocol.&#xD;
+&#xD;
+         15. Concurrent use of hormones for breast cancer or for non cancer related conditions&#xD;
+             (e.g., insulin for diabetes, hormone replacement therapy) is acceptable.&#xD;
+             Bisphosphonates or RANK-L inhibitor or analogues are permitted for supportive care of&#xD;
+             patients with bone metastases.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with symptomatic or unstable CNS primary tumor or metastases and/or&#xD;
+             carcinomatous meningitis. Patients with documented treated CNS metastases stable for&#xD;
+             at least 4 weeks may be enrolled at the discretion of the investigator.&#xD;
+&#xD;
+          2. Patients with active, or history of, severe autoimmune disease who in the opinion of&#xD;
+             the investigator and/or the Sponsor or Sponsor's designee would be exposed to&#xD;
+             unacceptable risk by participating in the study.&#xD;
+&#xD;
+          3. Major surgery within 6 weeks from treatment initiation.&#xD;
+&#xD;
+          4. Clinically significant cardiovascular/vascular disease ≤ 6 months before first dose:&#xD;
+&#xD;
+               -  Myocardial infarction or unstable angina.&#xD;
+&#xD;
+               -  Clinically significant cardiac arrhythmias.&#xD;
+&#xD;
+               -  Uncontrolled hypertension: systolic blood pressure (SBP) &gt; 180 mmHg, diastolic&#xD;
+                  blood pressure (DBP) &gt; 100 mmHg.&#xD;
+&#xD;
+               -  Pulmonary embolism, symptomatic cerebrovascular events or any other serious&#xD;
+                  cardiac condition (e.g., pericardial effusion or restrictive cardiomyopathy).&#xD;
+&#xD;
+               -  QTcF prolongation &gt; 480 msec.&#xD;
+&#xD;
+               -  Congestive heart failure (New York Heart Association class III-IV).&#xD;
+&#xD;
+               -  Myocarditis/clinically significant pericarditis.&#xD;
+&#xD;
+          5. Clinically significant gastrointestinal disorders including:&#xD;
+&#xD;
+               -  Gastrointestinal perforation or unhealed ulcerations &lt; 6 months prior to study&#xD;
+                  drug administration. Patients must have documented evidence (e.g., upper&#xD;
+                  endoscopy, colonoscopy) of completely healed area of prior perforation.&#xD;
+&#xD;
+               -  Clinically significant gastrointestinal bleeding &lt; 3 months prior to study drug&#xD;
+                  administration.&#xD;
+&#xD;
+               -  Pancreatitis &lt; 6 months prior to study drug administration.&#xD;
+&#xD;
+               -  History of Crohn's disease or ulcerative colitis.&#xD;
+&#xD;
+          6. Clinically significant pulmonary compromise requiring supplemental oxygen use.&#xD;
+&#xD;
+          7. History of Grade 3 or greater drug-related immune-mediated AE during treatment with&#xD;
+             CPIs such as anti-PD-(L)1 or anti-CTLA-4 antibodies.&#xD;
+&#xD;
+          8. Vaccination with any live virus vaccine within 4 weeks prior to the initiation of&#xD;
+             study drug administration. Inactivated annual influenza vaccination is allowed. At&#xD;
+             least 2 doses of COVID-19 vaccination must have been completed prior to enrollment&#xD;
+             (see Section 8.2 for further details).&#xD;
+&#xD;
+          9. Known hypersensitivity to JK08 or any excipient (histidine/histidine-HCl, sucrose,&#xD;
+             glycine, PS-80).&#xD;
+&#xD;
+         10. Second primary invasive malignancy not in remission for ≥ 1 year. Exceptions include&#xD;
+             non melanoma skin cancer, cervical carcinoma in situ, resected melanoma in situ, or&#xD;
+             any malignancy considered to be indolent and never required therapy.&#xD;
+&#xD;
+         11. Any serious underlying medical or psychiatric condition that would preclude&#xD;
+             understanding and rendering of informed consent or impair the ability of the patient&#xD;
+             to receive or tolerate the planned treatment.&#xD;
+&#xD;
+         12. Recent or ongoing serious infection including the following:&#xD;
+&#xD;
+               -  Any uncontrolled Grade 3 or higher (per CTCAE v5.0) viral, bacterial, or fungal&#xD;
+                  infection within 2 weeks prior to the first dose of JK08. Routine antimicrobial&#xD;
+                  prophylaxis is allowed.&#xD;
+&#xD;
+               -  Uncontrolled infection with human immunodeficiency virus (HIV). Patients on&#xD;
+                  stable highly active antiretroviral therapy (HAART) therapy with undetectable&#xD;
+                  viral load and normal CD4 counts for at least 6 months prior to study entry are&#xD;
+                  eligible. Serological testing for HIV at screening is not required.&#xD;
+&#xD;
+               -  Known to be positive for hepatitis B (HBV) surface antigen, or any other positive&#xD;
+                  test for hepatitis B indicating acute or chronic infection. Patients who are or&#xD;
+                  have received anti-HBV therapy and have undetectable HBV DNA for at least 6&#xD;
+                  months prior to study entry are eligible. Serological testing for hepatitis B at&#xD;
+                  screening is not required.&#xD;
+&#xD;
+               -  Known active hepatitis C (HCV) as determined by positive serology and confirmed&#xD;
+                  by polymerase chain reaction (PCR). Patients on or having received antiviral&#xD;
+                  therapy are eligible provided they are virus-free by PCR for at least 6 months&#xD;
+                  prior to study entry. Serological testing for hepatitis C at screening is not&#xD;
+                  required.&#xD;
+&#xD;
+               -  Known active or latent tuberculosis (testing at screening not required).&#xD;
+&#xD;
+         13. Use of systemic corticosteroids within 15 days or other immunosuppressive drugs within&#xD;
+             30 days prior to start of the study, with the exception of corticosteroids as&#xD;
+             replacement therapy up to an equivalent of prednisone 10 mg/day which is allowed.&#xD;
+             Inhaled, topical, or intraarticular steroids are allowed.&#xD;
+&#xD;
+         14. Prior systemic anti-cancer treatment as follows:&#xD;
+&#xD;
+               -  For cytotoxic chemotherapy, small molecule inhibitors, radiation, or similar&#xD;
+                  investigational treatments, ≤ 2 weeks or 5 half lives, whichever is shorter.&#xD;
+&#xD;
+               -  For monoclonal antibodies or similar experimental therapies: ≤ 3 weeks or 5&#xD;
+                  half-lives, whichever is shorter.&#xD;
+&#xD;
+               -  Antibody drug conjugates and radioimmunoconjugates or other similar experimental&#xD;
+                  therapies ≤ 6 weeks or 5 half-lives, whichever is shorter.&#xD;
+&#xD;
+         15. Ascites or pleural effusions requiring large volume para- or pleurocentesis within 4&#xD;
+             weeks of treatment initiation.&#xD;
+&#xD;
+         16. Pregnant or nursing.&#xD;
+&#xD;
+         17. Therapeutic anticoagulation for a thromboembolic event that occurred within 3 months&#xD;
+             of dosing; prophylactic anticoagulation is permitted.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sam Murphy, PhD</last_name>
+    <phone>617-584-3853</phone>
+    <email>sam.murphy@salubrisbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institut Jules Bordet</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nuria Kotecki, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Oncology Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Omar Saavedra, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Oncology Madrid</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Valentina Boni, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>START Madrid</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria de Miguel, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>January 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

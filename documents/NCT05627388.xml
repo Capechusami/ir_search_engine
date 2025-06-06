@@ -1,0 +1,198 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627388</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Dreem</org_study_id>
+    <nct_id>NCT05627388</nct_id>
+  </id_info>
+  <brief_title>Feasibility Study of At-Home EEG Monitoring for Hypersomnia</brief_title>
+  <official_title>Feasibility Study of Utilizing At-Home Electroencephalography Monitoring for Diagnosing and Treatment Monitoring of Hypersomnia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kaiser Permanente</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dreem SAS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Kaiser Permanente</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The central hypothesis is that home EEG monitoring (Dream 3 wearable) can be feasibly&#xD;
+      utilized for data capture of continuous sleep and wake measurements for the diagnostic&#xD;
+      evaluation and treatment monitoring of hypersomnia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical study is a prospective, single group assessment which will enroll patients who&#xD;
+      are prescribed a multiple sleep latency test (MSLT) at the Fontana Medical Sleep Center.&#xD;
+      Patients will be mailed an actigraph and a Dreem 3 system to undergo the following&#xD;
+      assessments:&#xD;
+&#xD;
+        -  1 initial in-person sleep physician encounter to discuss your sleep symptoms and review&#xD;
+           the informed consent form&#xD;
+&#xD;
+        -  1 week of actigraphy and Dreem 3 System monitoring. Actigraphy will be continuously&#xD;
+           monitored for 1 week to log sleep and wake periods. Dreem 3 System will be monitored for&#xD;
+           the first 5 nights and the last 2 days will be 48-hour continuous monitoring (i.e., day&#xD;
+           and night). Additionally, we will ask you to log your sleep/wake activity in a sleep&#xD;
+           diary.&#xD;
+&#xD;
+        -  2 consecutive in-lab sleep studies within a 24-hour period&#xD;
+&#xD;
+        -  A few reminder telephone calls for at-home monitoring&#xD;
+&#xD;
+      Patients will have a follow up encounter with a physician after their in-lab visit. If a&#xD;
+      diagnosis is confirmed and treatment is initiated, the patient will be asked if they want to&#xD;
+      pursue treatment follow-up for the study. Again, patient will wear the Dreem 3 System and the&#xD;
+      actigraph during 5 nights, while keeping the actigraph on during the day, to monitor&#xD;
+      sleep/wake cycle. Then, for an additional continuous 48 hour measurement, patients will wear&#xD;
+      the Dreem 3 system and actigraph (i.e. monitoring day and night). This procedure will occur&#xD;
+      once treatment is initiated as well as 1 month and 3 months after treatment initiation.&#xD;
+&#xD;
+      Patients will be asked to complete various sleep and quality of life questionnaires&#xD;
+      throughout the duration of the study. Questionnaires should take approximately 10-15 minutes&#xD;
+      to complete.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">February 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measuring sleep and wake events for the evaluation of hypersomnia disorders</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Evaluating feasibility, quality, &amp; patient compliance of Dreem monitoring.&#xD;
+The following aggregated metrics will produce an environment similar to standard care procedures for assessing hypersomnia in order to evaluate the monitoring capabilities of Dreem and actigraphy devices.&#xD;
+Usability Questionnaires: means, standard deviations, frequencies, &amp; scores&#xD;
+Number, type &amp; structure of sleep events as automatically determined by Dreem/Actigraphy devices, which are considered relevant for the initial evaluation of hypersomnia disorders by the physician&#xD;
+Dreem compliance: median/mean hours of usage over 24 hrs&#xD;
+% of Dreem records which pass the quality control criteria</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Performance of the automatic scoring of the Dreem 3 compared to the consensus of 5 certified sleep scorers realized on the polysomnography, during PSG and MSLT</measure>
+    <time_frame>2 days</time_frame>
+    <description>Epoch by Epoch sleep stage scoring will be analyzed by generating the 5x5 confusion matrix between Dreem automatic sleep scoring and the 5 sleep scorers' consensus rating.&#xD;
+The stability and correlation of each sleep variable will be examined graphically and using intraclass correlation coefficients (ICC) with 95% confidence intervals (95% CI).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measuring Treatment Efficacy with At-home EEG Monitoring (Dreem 3 System)</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Evaluating feasibility, quality, &amp; patient compliance of Dreem monitoring after treatment initiation,1 month &amp; 3 months.&#xD;
+The following aggregated metrics will produce an environment similar to standard care procedures for assessing hypersomnia in order to evaluate the treatment efficacy with the Dreem device.&#xD;
+Clinical &amp; QoL PRO: Mean change from baseline in ESS/NSS/IHSS/FOSQ10/EQ5D5L&#xD;
+Usability Questionnaires: means, standard deviations, frequencies, &amp; scores&#xD;
+Number, type &amp; structure of sleep events as automatically determined by Dreem/Actigraphy devices, which are considered relevant for the treatment efficacy evaluation of hypersomnia by the physician&#xD;
+Dreem compliance: median/mean hours of usage over 24 hrs&#xD;
+% of Dreem records which pass the quality control criteria</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Hypersomnia</condition>
+  <condition>Narcolepsy</condition>
+  <arm_group>
+    <arm_group_label>Dreem 3 System</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dreem 3 System At-Home Monitoring</intervention_name>
+    <description>Patients will be asked to wear the Dreem 3 System and actigraphy devices at home. Research support staff will teach patients how set up the device beforehand. Patients will wear Dreem and actigraph for 5 nights, while keeping the actigraph on during the day, to monitor sleep/wake cycle. Then, for an additional continuous 48hr measurement, patients will wear the Dreem and actigraph. The patient will be given 2 devices, as one device can record up to 24h of data continuously. Patients are not required to stay home during the 48hr testing period. However, patients will be instructed to refrain from participating in activities which may shift or require removal of Dreem. Patients who wish to remain home for the 48hr testing period should have adequate sustenance (i.e., groceries). Any caffeine and sleep medication intake will be logged by the patient in a sleep diary. If needed, patients will be given an off work order from work/school for the 48hr assessment.</description>
+    <arm_group_label>Dreem 3 System</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must be a Kaiser Permanente member&#xD;
+&#xD;
+          -  Patients must be ≥ 6 years old.&#xD;
+&#xD;
+          -  Patients must have an indication for Multiple Sleep Latency Test for a diagnosis of&#xD;
+             hypersomnia&#xD;
+&#xD;
+          -  Patients are able/willing to consent and willing to undergo the electrophysiological&#xD;
+             routine assessments described in the protocol&#xD;
+&#xD;
+          -  Patients do not meet any exclusion criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients under 6 years old.&#xD;
+&#xD;
+          -  If a patient is taking a wake promoting medication and is unsafe to withdraw the&#xD;
+             medication during the 2 weeks prior to the in-lab Polysomnography/Multiple Sleep&#xD;
+             Latency study&#xD;
+&#xD;
+          -  Patients suffering from mental and/or physical disorders that could interfere with the&#xD;
+             study protocol or the interpretation of the results (exclusion based on clinical&#xD;
+             judgment)&#xD;
+&#xD;
+          -  Shift workers or patients working unusual hours will be excluded&#xD;
+&#xD;
+          -  Patients not able to sign an informed consent form&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jessica Arguelles</last_name>
+    <phone>909-427-3032</phone>
+    <email>jessica.arguelles@kp.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Matthew Klimper</last_name>
+    <phone>909-427-3034</phone>
+    <email>matthew.t.klimper@kp.org</email>
+  </overall_contact_backup>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>September 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>February 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kaiser Permanente</investigator_affiliation>
+    <investigator_full_name>Dennis Hwang, MD</investigator_full_name>
+    <investigator_title>Medical Director</investigator_title>
+  </responsible_party>
+  <keyword>At-Home Sleep EEG-Based Monitoring</keyword>
+  <keyword>Dreem 3 System</keyword>
+  <keyword>Polysomnography (PSG)</keyword>
+  <keyword>Multiple Sleep Latency Test (MSLT)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Narcolepsy</mesh_term>
+    <mesh_term>Disorders of Excessive Somnolence</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

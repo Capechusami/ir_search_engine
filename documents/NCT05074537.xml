@@ -1,0 +1,214 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05074537</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RP0310/2017H0429</org_study_id>
+    <nct_id>NCT05074537</nct_id>
+  </id_info>
+  <brief_title>The Wright Center of Innovation Imaging Archive</brief_title>
+  <acronym>WIIA</acronym>
+  <official_title>The WIIA - The Wright Center of Innovation Imaging Archive</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ohio State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This data bank will serve as a data resource for a multidisciplinary team of clinicians and&#xD;
+      basic scientists. Specifically, this data bank will allow investigators to generate&#xD;
+      preliminary data for competitive consideration in intermural and extramural funding while&#xD;
+      enabling advanced analytical tool development and deep learning methodologies. This effort&#xD;
+      will enable the use for leading edge innovation in biomedical imaging by using clinical&#xD;
+      imaging studies that otherwise could not be used for such developments. We aim to use these&#xD;
+      data to improve diagnostics and disease management. With this data bank, we hope to improve&#xD;
+      the quality of imaging and the precision of imaging based analytics to better detect&#xD;
+      potential health risks, predict treatment response, and monitor disease progression in order&#xD;
+      to guide management of future patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The constant advances in computational capabilities and abilities of deep learning&#xD;
+      necessitate the availability of large imaging data sets that can be further analyzed. We&#xD;
+      therefore create the WIIA - The Wright Center of Innovation Imaging Archive - to serve as a&#xD;
+      repository for advanced data analytics and simulation. This will provide researchers access&#xD;
+      to a robust, comprehensive pool of imaging data for impactful research. The patient&#xD;
+      population under study includes adults who are 18 years of age and older. Children will be&#xD;
+      excluded from this study as they are unable to give voluntary consent. A partial waiver of&#xD;
+      HIPAA authorization will be requested to permit access to and use of PHI for recruitment&#xD;
+      purposes. However, investigational data will only be collected once consent to participate in&#xD;
+      the study is acquired. There will be no upper limit to the number of people who participate&#xD;
+      in this study. We expect 100-150 participants per year, with plans for the study to continue&#xD;
+      indefinitely. Data collected will include coded demographics, abbreviated medical history,&#xD;
+      current diagnoses, coded medical reports, coded surgical/nonsurgical treatment procedures,&#xD;
+      and follow up information. These data will be collected from Standard of Care (SOC) or&#xD;
+      investigational imaging studies. These data will be coded and stored in the Wright Center of&#xD;
+      Innovation Imaging Archive, which is a secure database of imaging studies. Data will be&#xD;
+      stored indefinitely. Administrative staff will construct and maintain the database as well as&#xD;
+      conduct annual quality assurance assessments of bank data. Oversight of the bank will be the&#xD;
+      responsibility of the Principal and Co-Investigators of the study. To maximize the use of&#xD;
+      this data bank and to promote collaborative, multi-institutional research, we are not&#xD;
+      limiting future data use. Data may be shared with Ohio State or non-Ohio State researchers.&#xD;
+      However, only investigators with sound, hypothesis driven research proposals can request data&#xD;
+      by completing a Data Request Form. This study will impose minimal medical risk to&#xD;
+      participants. At data leak is the primary risk, which will be minimized through precautions&#xD;
+      to protect PHI. Nevertheless, in the event of a data breach, the nature of the collected data&#xD;
+      ensures minimal financial or professional impact on the patient. This study does not confer a&#xD;
+      direct benefit to the patient. However, society may benefit from imaging advancements that&#xD;
+      arise from future studies using this data.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2019</start_date>
+  <completion_date type="Anticipated">May 2030</completion_date>
+  <primary_completion_date type="Anticipated">May 2028</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Image quality</measure>
+    <time_frame>through study completion (roughly 10 years)</time_frame>
+    <description>We will be assessing image quality using a likert scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anatomic Variability - Likert Scale</measure>
+    <time_frame>through study completion (roughly 10 years)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anatomic Variability - Length</measure>
+    <time_frame>through study completion (roughly 10 years)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anatomic Variability - Volume</measure>
+    <time_frame>through study completion (roughly 10 years)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anatomic Variability - Density</measure>
+    <time_frame>through study completion (roughly 10 years)</time_frame>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Medical Imaging Data</condition>
+  <arm_group>
+    <arm_group_label>MRI Participants</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PET/CT Participants</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CT Participants</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>MRI exam</intervention_name>
+    <description>Participants who are receiving standard of care or investigational MRI exams at the Wright Center will be eligible for enrollment in this data bank.</description>
+    <arm_group_label>MRI Participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>PET/CT imaging exam</intervention_name>
+    <description>Participants who are receiving standard of care or investigational PET/CT exams at the Wright Center will be eligible for enrollment in this data bank.</description>
+    <arm_group_label>PET/CT Participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>CT imaging exam</intervention_name>
+    <description>Participants who are receiving standard of care or investigational CT exams at the Wright Center will be eligible for enrollment in this data bank.</description>
+    <arm_group_label>CT Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The patient population under study includes adults who are 18 years of age and older.&#xD;
+        Children will be excluded from this study as they are unable to give voluntary consent. A&#xD;
+        partial waiver of HIPAA authorization will be requested to permit access to and use of PHI&#xD;
+        for recruitment purposes. However, investigational data will only be collected once consent&#xD;
+        to participate in the study is acquired.&#xD;
+&#xD;
+        Participants can include or donate their imaging data independently if it was performed at&#xD;
+        OSU or outside of OSU. For example, a subject may be willing to donate an imaging study&#xD;
+        performed previously or for different purposes and provides the WIIA with a CD or other&#xD;
+        data set.&#xD;
+&#xD;
+        There will be no upper limit to the number of people who participate in this study. We&#xD;
+        expect 100-150 participants per year, with plans for the study to continue indefinitely.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient provides consent&#xD;
+&#xD;
+          -  Patient is receiving or has received a SOC or investigational imaging scan&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient does not wish to or is unable to provide consent&#xD;
+&#xD;
+          -  Patient is below the age of 18&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Martha Morehouse Medical Plaza</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 25, 2019</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ohio State University</investigator_affiliation>
+    <investigator_full_name>Chadwick Wright</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 20, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT05074537/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

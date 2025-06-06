@@ -1,0 +1,662 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05074953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>POINTED</org_study_id>
+    <nct_id>NCT05074953</nct_id>
+  </id_info>
+  <brief_title>Post-COVID-19 Monitoring in Routine Health Insurance Data</brief_title>
+  <acronym>POINTED</acronym>
+  <official_title>Post-COVID-19 Monitoring in Routine Health Insurance Data</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Technische Universität Dresden</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>InGef - Institut für angewandte Gesundheitsforschung Berlin GmbH</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>BARMER Institut für Gesundheitssystemforschung (bifg)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AOK Bayern</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AOK PLUS</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>DAK Gesundheit</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Techniker Krankenkasse</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Technische Universität Dresden</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SARS-CoV-2 infection was in 2020 responsible for new disease related chronic conditions&#xD;
+      which have been referred to as Post-COVID. To date it is still unknown how common this&#xD;
+      condition is and which symptoms are related to it. The aim of the study is to monitor the&#xD;
+      onset of these conditions in a large observational study consisting of German health&#xD;
+      insurance data.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 is a virus of the coronavirus family, which includes a large number of viruses&#xD;
+      that can cause a wide variety of diseases in humans. The SARS-CoV-2 virus causes acute&#xD;
+      symptoms associated with the infection and can cause chronic conditions known as Post-COVID.&#xD;
+      To understand the prevalence and variety of Post-COVID a large observational study of health&#xD;
+      insurance data from Germany was set up. The exposed patients were identified by a diagnosis&#xD;
+      indicating a confirmed laboratory test for COVID.&#xD;
+&#xD;
+      The basic question concerns the burden of the Post-COVID condition. The study investigate&#xD;
+      which symptoms are more common in humans after the exposure to the virus compared to a&#xD;
+      matched unexposed cohort. Further will this be investigated in the subgroup of children and&#xD;
+      adolescents and those who have been hospitalized due to the virus infection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of abdominal pain</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of abdominal pain recorded in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of acute pain</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of acute pain recorded in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of adjustment disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of adjustment disorder recorded in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of anuria/oliguria</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of anuria/oliguria in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of anxiety disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of anxiety disorder in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of arthritides</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of arthritides in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of ascites</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of ascites in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of behavioral symptoms</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of behavioral symptoms in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of cachexia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of cachexia in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of carditis due to viruses</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of carditis due to viruses in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of changes in bowel habits</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of changes in bowel habits due to viruses in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of chronic fatigue syndrome</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of chronic fatigue syndrome in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of cognitive function impairment</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of cognitive function impairment in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of concentration impairment/concentration deficit</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of concentration impairment/concentration deficit in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of cough</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of cough in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of COVID toe</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of COVID toe in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of depression</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of depression in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of developmental delay</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of developmental delay in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of disorientation</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of disorientation in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dysgeusia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of dysgeusia in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dyslexia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of dyslexia in in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dysmenorrhea</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of dysmenorrhea in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dysphagia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of dysphagia in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dyspnea</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of dyspnea in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dysuria</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of dysuria in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of emotional and behavioral disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of emotional and behavioral disorder in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of epistaxis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of epistaxis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of eye pain</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of eye pain in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of facial nerve paralysis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of facial nerve paralysis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of fever</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of fever in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of flatulence</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of flatulence in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of gangrene</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of gangrene in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of general symptoms</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of general symptoms in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hair loss</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hair loss in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of headache</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of headache in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hearing loss/tinnitus</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hearing loss/tinnitus in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of heart failure</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of heart failure in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of heart murmurs</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of heart murmurs in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of heartburn</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of heartburn in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hemorrhage</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hemorrhage in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hepatomegaly and splenomegaly</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hepatomegaly and splenomegaly in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hoarseness</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hoarseness in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hyperhidrosis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hyperhidrosis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hypotension</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of hypotension in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of impaired balance</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of impaired balance in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of joint pain</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of joint pain in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of loss of appetite</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of Loss of appetite in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of lymphadenopathy</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of lymphadenopathy in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Malaise/fatigue/exhaustion</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of Malaise/fatigue/exhaustion in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of memory impairment</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of memory impairment in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of meningismus</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of meningismus in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of mood disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of mood disorder in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of movement disorders</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of movement disorders in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of myalgia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of myalgia in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of myocardial infarction</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of myocardial infarction in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of myocarditis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of myocarditis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of nausea</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of nausea in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of neurasthenia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of neurasthenia in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of neurological manifestation of Post-COVID</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of Neurological manifestation of Post-COVID in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of obsessive-compulsive disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of obsessive-compulsive disorder in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of oedema</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of oedema in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of other cardiac arrhythmias</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of other cardiac arrhythmias in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of other coordination disorders/ataxia</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of other coordination disorders/ataxia in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of other symptoms of the urinary system</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of other symptoms of the urinary system in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of pain, not elsewhere classified</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of pain, not elsewhere classified in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of paresis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of paresis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of paresthesia of skin</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of paresthesia of skin in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of pathological findings from male genital tract</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of pathological findings from male genital tract in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of pathological lung findings</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of pathological lung findings from male genital tract in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of pathological reflexes</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of pathological reflexes in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of pericarditis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of pericarditis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of polyuria</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of polyuria in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Post-COVID</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of Post-COVID in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of pulmonary embolism</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of pulmonary embolism in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of rash</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of rash in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of respiratory insufficiency</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of respiratory insufficiency in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of seizures</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of seizures in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of sensation and perception disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of sensation and perception disorder in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of shock</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of shock in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of sinus vein thrombosis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of sinus vein thrombosis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of sleep disorders</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of sleep disorders in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of somatization disorder</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of somatization disorder in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of somnolence</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of somnolence in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of sopor/coma</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of sopor/coma in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of speech and language disorders</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of speech and language disorders in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of stroke</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of stroke in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subcutaneous nodules</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of subcutaneous nodules in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of syncope</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of syncope in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of tetany</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of tetany in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of throat/chest pain</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of throat/chest pain in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of thrombosis</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of thrombosis in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of urethral discharge</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of urethral discharge in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of urinary retention</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of urinary retention in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of vertigo</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of vertigo in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of visual disturbances</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of visual disturbances in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of weight gain/loss, eating disorders</measure>
+    <time_frame>At least 12 weeks after the infection by SARS-CoV-2</time_frame>
+    <description>Incidence of a diagnosis of weight gain/loss, eating disorders in outpatient or inpatient setting</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">157134</enrollment>
+  <condition>Virus Diseases</condition>
+  <condition>Epidemiology</condition>
+  <arm_group>
+    <arm_group_label>Adults</arm_group_label>
+    <description>145184 patients with COVID-19 over 17 years of age.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Children and adolescents</arm_group_label>
+    <description>11950 patients with COVID-19 under 18 years of age.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exposed to a SARS-CoV-2 infection</intervention_name>
+    <description>The study compared humans exposed to the SARS-CoV-2 infection with a matched group of those not exposed. No Intervention was applied.</description>
+    <arm_group_label>Adults</arm_group_label>
+    <arm_group_label>Children and adolescents</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients were collected from six different health insurances in Germany during the first&#xD;
+        and second quarter in 2020. All insurances together have over 35 million members.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  At least one outpatient or inpatient diagnosis of COVID-19 with laboratory detection&#xD;
+             of the virus (ICD-10: U07.1!)&#xD;
+&#xD;
+          -  Continuously insured with the respective health insurance between 2019-01-01/birth and&#xD;
+             2020-12-31/death&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Falko Tesch</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Center for Evidence-Based Healthcare, Technische Universität Dresden</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jochen Schmitt, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Center for Evidence-Based Healthcare, Technische Universität Dresden</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Center for Evidence-Based Healthcare</name>
+      <address>
+        <city>Dresden</city>
+        <state>Saxony</state>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>October 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>July 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Technische Universität Dresden</investigator_affiliation>
+    <investigator_full_name>Falko Tesch</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Post-COVID</keyword>
+  <keyword>Cohort study</keyword>
+  <keyword>Children</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

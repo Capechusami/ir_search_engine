@@ -1,0 +1,214 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629026</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RC31/22/0128</org_study_id>
+    <nct_id>NCT05629026</nct_id>
+  </id_info>
+  <brief_title>Study of Lymphatic Dysfunction in Primary and Secondary Lymphedema</brief_title>
+  <acronym>LYMPHODYS</acronym>
+  <official_title>Study of Lymphatic Dysfunction in Primary and Secondary Lymphedema</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Toulouse</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Toulouse</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Lymphedema is a disorder of the lymphatic vascular system characterized by impaired lymphatic&#xD;
+      return and swelling of the extremities and accumulation of undrained interstitial fluid/lymph&#xD;
+      that results in fibrosis and adipose tissue deposition in the affected area. It can be an&#xD;
+      inherited condition (primary lymphedema) or occurs after cancer surgery and lymph node&#xD;
+      removal (secondary lymphedema). It causes a significant morbidity and is a common disabling&#xD;
+      disease affecting more than 200 million people worldwide, however there is no curative&#xD;
+      treatment for primary or secondary lymphedema.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary lymphedema is an inherited condition whereas secondary lymphedema develops after&#xD;
+      cancer treatments. Despite common phenotype, a molecular and histological comparison of these&#xD;
+      two pathologies has never been performed. Primary lymphedema is associated with heterozygous&#xD;
+      inactivating mutations of the gene encoding vascular endothelial growth factor C and D&#xD;
+      receptor (VEGFR-3). Primary lymphedema is rare, affecting 1 in 100,000 individuals. Secondary&#xD;
+      lymphedema is the most common cause of the disease and affects more than 200 million people&#xD;
+      worldwide.&#xD;
+&#xD;
+      Secondary lymphedema occurs months, sometimes years after cancer surgery suggesting that&#xD;
+      lymphedema is not only a side effect of the surgery, but involves modifications of the&#xD;
+      lymphatic architecture as well as its microenvironment, in particular adipose tissue that&#xD;
+      accumulates in the limb.&#xD;
+&#xD;
+      There is no cure for lymphedema because of the lack of identified therapeutic strategies able&#xD;
+      to restore collecting lymphatic draining function in the arm or in the leg. The goal will be&#xD;
+      to establish if these pathologies which possess a common denomination exhibit a similar gene&#xD;
+      expression.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>cross-sectional sample of patients with primary or secondary lymphoedema.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of RNA transcripts between lymphoedema limb and healthy limb</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The gene expression profile of primary and secondary lymphedema will be determined by high-throughput RNA sequencing (RNAseq) or next-generation sequencing (NGS). It is a molecular methodology that allows the rapid sequencing of thousands to millions of RNA molecules simultaneously, determining the unique and specific order of nucleic acid bases. It is a random sequencing of the whole transcriptome which is used to identify and quantify the RNA resulting from the transcription of the genome at a given time.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>LYVE-1 expression in primary and secondary lymphedema by immuno-histology</measure>
+    <time_frame>Day 1</time_frame>
+    <description>LYVE-1 (lymphatic vessel endothelial hyaluronan receptor-1) will be determined from immunodetection and staining performed on paraffin sections of lymphedema tissue in comparison with healthy tissue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Podoplanin expression in primary and secondary lymphedema by immuno-histology</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Podoplanin expression will be determined from immunodetection and staining performed on paraffin sections of lymphedema tissue in comparison with healthy tissue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chromatography analysis of Lipids in adipose tissues from primary and secondary lymphoedema</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To describe lipid profile in adipose tissues from primary and secondary lymphoedema, in comparison to the healthy limb by chromatography analysis expressed in pg lipid/mg protein.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Lymphedema</condition>
+  <arm_group>
+    <arm_group_label>primary lymphoedema</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patients with primary lymphoedema</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>secondary lymphoedema</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patients with secondary lymphoedema</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Micro-biopsies</intervention_name>
+    <description>Two micro-biopsies of limb tissue will be carried out, one on the lymphedema and one in the upper limb not affected.</description>
+    <arm_group_label>primary lymphoedema</arm_group_label>
+    <arm_group_label>secondary lymphoedema</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients in who developed primary lymphedema or secondary lymphedema after breast&#xD;
+             cancer treatment.&#xD;
+&#xD;
+          2. Male and female over the age of 18 and under 75.&#xD;
+&#xD;
+          3. Patient affiliated to a social security scheme in France.&#xD;
+&#xD;
+          4. Patient having signed informed consent prior to inclusion in the study and prior to&#xD;
+             any specific procedure for the study.&#xD;
+&#xD;
+          5. Patients with no recidive &gt; 3 years after cancer surgery.&#xD;
+&#xD;
+          6. Patients with Body Mass Index &lt;35.&#xD;
+&#xD;
+          7. Patient enrolled in a care pathway for the management of their lymphedema (medical and&#xD;
+             educational care).&#xD;
+&#xD;
+          8. Patients wearing a compression orthosis on the limb with lymphedema.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with strong suspicion or with active bacterial or fungal infection.&#xD;
+&#xD;
+          2. Patient with venous insufficiency associated with lymphedema.&#xD;
+&#xD;
+          3. Patient with a history of deep venous thrombosis on the limb with lymphedema.&#xD;
+&#xD;
+          4. History of chronic inflammatory disease.&#xD;
+&#xD;
+          5. Active neoplasia during parallel management.&#xD;
+&#xD;
+          6. Patient already included in another therapeutic trial.&#xD;
+&#xD;
+          7. Pregnant or breastfeeding woman.&#xD;
+&#xD;
+          8. Metastatic cancer.&#xD;
+&#xD;
+          9. Bilateral breast cancer.&#xD;
+&#xD;
+         10. Obliterative arterial disease.&#xD;
+&#xD;
+         11. Multiple erysipelas.&#xD;
+&#xD;
+         12. Active smoking (delayed healing).&#xD;
+&#xD;
+         13. Medicines that may promote delayed healing (Corticosteroid therapy,&#xD;
+             immunosuppressants).&#xD;
+&#xD;
+         14. Medication that thins the blood (aspirin and antiplatelet agent, anti-coagulant).&#xD;
+&#xD;
+         15. Betadine allergy.&#xD;
+&#xD;
+         16. Patient under guardianship or trusteeship, persons placed under the protection of&#xD;
+             justice&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julie Malloizel-Delaunay, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Toulouse</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Julie MALLOIZEL-DELAUNAY, MD</last_name>
+    <phone>+33 (0)5 61 32 30 33</phone>
+    <email>malloizel-delaunay.j@chu-toulouse.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Charline DAGUZAN</last_name>
+    <phone>+33 (0)5 61 77 84 99</phone>
+    <email>daguzan.c@chu-toulouse.fr</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>January 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphedema</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,337 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05627011</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2000033551</org_study_id>
+    <secondary_id>5R01MD014853</secondary_id>
+    <nct_id>NCT05627011</nct_id>
+  </id_info>
+  <brief_title>Dissemination and Implementation of Improving Pediatric Obesity Practice Using Prompts</brief_title>
+  <acronym>iPOP-UP</acronym>
+  <official_title>Dissemination and Implementation of Decision Support for the Management of Overweight and Obesity in Pediatric Primary Care - Improving Pediatric Obesity Practice Using Prompts</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Minority Health and Health Disparities (NIMHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the dissemination and implementation of electronic&#xD;
+      health record-based clinical decision support tools for the management of pediatric&#xD;
+      overweight and obesity in primary care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will evaluate iPOP-UP, a newly-optimized intervention to improve adherence to&#xD;
+      national guidelines for the management of childhood obesity, among 77 primary care practices&#xD;
+      affiliated with three health systems serving children with racial and ethnic, socio-economic,&#xD;
+      rural-urban, and geographic diversity.&#xD;
+&#xD;
+      This multi-site, parallel 2-arm cluster randomized controlled &quot;Hybrid Type 2&quot;&#xD;
+      effectiveness-implementation trial will use mixed methods (electronic health record (EHR)&#xD;
+      data analysis, surveys, interviews, and focus groups) to simultaneously evaluate (1) the&#xD;
+      effectiveness of the iPOP-UP implementation package in improving clinical care and children's&#xD;
+      BMI outcomes in pediatric primary care setting and (2) the impact of the implementation&#xD;
+      strategy on the reach, adoption, fidelity, cost, and maintenance of the intervention.&#xD;
+&#xD;
+      The unit of randomization in this study is pediatric primary care practices. Within the&#xD;
+      participating 77 practices, pediatric primary care clinicians working at the implementation&#xD;
+      sites will be invited to participate in pre- and post-intervention surveys assessing their&#xD;
+      practice behaviors, obesity-related attitudes, beliefs, and self-efficacy, EHR usage and&#xD;
+      attitudes, and training preferences. In addition, a limited data set of EHR from patients&#xD;
+      visits will be queried and analyzed to evaluate clinical care outcomes and children's BMI&#xD;
+      outcomes. Limited data (to include dates and geographic information but no facial&#xD;
+      identifiers) will be queried and analyzed for all children 1) age 2.0 to ≤18 years-old at&#xD;
+      baseline, 2) with a well-child visit, during which height and weight are measured, at one of&#xD;
+      the participating practices during the study period, and 3) with a BMI ≥85th percentile for&#xD;
+      age/sex (CDC criteria for overweight/obesity).&#xD;
+&#xD;
+      Outcomes include: (a) change in BMI, measured as the yearly change in BMI expressed as a&#xD;
+      percentage of the 95th percentile (%BMIp95); (b) Change in clinicians' objective practice&#xD;
+      around managing elevated BMI in primary care using EHR data; (c) Change in clinicians'&#xD;
+      self-reported knowledge, attitudes, and practice around managing elevated BMI in primary&#xD;
+      care; and (d) Utilization of Clinical Decision Support (CDS) tools. The investigators will&#xD;
+      also describe implementation outcomes (reach, adoption, fidelity/adaptation, and cost)&#xD;
+      through qualitative and quantitative data collection from members of the study team&#xD;
+      throughout the process of implementation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 9, 2023</start_date>
+  <completion_date type="Anticipated">November 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a multi-site, parallel 2-arm cluster randomized controlled trial &quot;Hybrid Type 2&quot; effectiveness-implementation study to simultaneously evaluate (1) the effectiveness of iPOP-UP in improving clinical care and child weight outcomes in pediatric primary care setting and (2) the impact of the implementation strategy on the reach, adoption, fidelity, cost, and maintenance of the intervention.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in %BMIp95</measure>
+    <time_frame>Up to 15 months after first primary care visit following trial launch</time_frame>
+    <description>Change in %BMIp95, calculated from height and weight measured as part of routine clinical practice during primary care clinic visits and documented in the electronic health record.&#xD;
+A negative percentage indicates that the participant's BMI has decreased since trial launch.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in composite measure of clinician's adherence to clinical guidelines, for visits completed among children 2-18 years-old with BMI ≥85th percentile.</measure>
+    <time_frame>Baseline through 6 months after trial launch</time_frame>
+    <description>Six-month change in composite measure of adherence to clinical guidelines, calculated from practice behaviors queried from the electronic health record. A dichotomous variable, adherence is defined as whether or not, for each relevant visit, the clinician followed all evidence of recommended obesity-related care during the study period:&#xD;
+Inclusion of diagnosis code indicating high BMI in visit diagnosis associated with the visit or as an active diagnosis in the problem list&#xD;
+Recommended lab orders for obesity related comorbidities, if eligible&#xD;
+Appropriate BP measurement in children 3 and older&#xD;
+Counseling diagnosis codes or structured documentation (every visit)&#xD;
+Follow-up visit requested at visit or active referral order for further management of obesity&#xD;
+A score of 1 indicates that a clinician followed all evidence of recommended obesity-related care; a score of 0 indicates that a clinician did not follow at least one recommendation for obesity-related care.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in composite measure of clinician's adherence to clinical guidelines</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Change from baseline through 12 and 18 months in composite measure of adherence to clinical guidelines, calculated from practice behaviors queried from the electronic health record. A dichotomous variable, adherence is defined as whether or not, for each relevant visit, the clinician followed all evidence of recommended obesity-related care during the study period:&#xD;
+Inclusion of diagnosis code indicating high BMI in visit diagnosis associated with the visit or as an active diagnosis in the problem list&#xD;
+Recommended lab orders for obesity related comorbidities, if eligible&#xD;
+Appropriate BP measurement in children 3 and older&#xD;
+Counseling diagnosis codes or structured documentation (every visit)&#xD;
+Follow-up visit requested at visit or active referral order for further management of obesity&#xD;
+A score of 1 indicates that a clinician followed all evidence of recommended obesity-related care; a score of 0 indicates that a clinician did not follow at least one recommendation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in inclusion of diagnosis code indicating high BMI in problem list</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of inclusion of diagnosis code indicating high BMI in problem list, queried from the electronic health record at baseline, 6, 12, and 18 months to see change at 6 months and how it's sustained at 12 and 18 months.&#xD;
+A higher proportion of visits with relevant diagnosis code is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in inclusion of diagnosis code indicating high BMI in visit diagnosis</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of inclusion of diagnosis code indicating high BMI queried from the electronic health record.&#xD;
+A higher proportion of visits with relevant diagnosis code is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in adherence to guideline recommended screening lab orders for obesity related comorbidities, if eligible</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of screening lab orders for obesity-related comorbidities recommended by the American Academy of Pediatrics clinical practice guideline for obesity based on age and BMI percentile, queried from the electronic health record.&#xD;
+A higher proportion of visits with recommended screening lab orders is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in appropriate blood pressure screening in children 3 and older</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 3-18 years with BMI ≥85th percentile during the study period with evidence of appropriate blood pressure screening queried from the electronic health record.&#xD;
+A higher proportion of visits with blood pressure screening is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in structured documentation of counseling</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of counseling structured documentation queried from the electronic health record.&#xD;
+A higher proportion of visits with counseling structured documentation is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in follow-up visit requested</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of follow-up visit requested, queried from the electronic health record.&#xD;
+A higher proportion of visits with follow-up visit requested is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in referral for further management of obesity</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of referral for further management of obesity queried from the electronic health record.&#xD;
+A higher proportion of visits with follow-up or referral for further management of obesity is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in weight loss medication orders, if eligible</measure>
+    <time_frame>Baseline through 18 months after trial post intervention launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of weight loss medication orders, if eligible, queried from the electronic health record.&#xD;
+A higher proportion of visits with weight loss medication orders, when eligible, is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in bariatric surgery program referrals, if eligible</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of bariatric surgery program referrals, if eligible queried from the electronic health record.&#xD;
+A higher proportion of referrals to bariatric surgery programs, when eligible, is consistent with recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in potentially unnecessary insulin or thyroid laboratory tests ordered</measure>
+    <time_frame>Baseline through 18 months after trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of insulin or thyroid lab orders, not routinely recommended for evaluation of children with obesity, queried from the electronic health record.&#xD;
+A lower proportion indicates better adherence to recommended care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinicians' utilization of the clinical decision support tools</measure>
+    <time_frame>During the 18 months following trial launch</time_frame>
+    <description>Visits completed among children 2-18 years with BMI ≥85th percentile during the study period with evidence of clinician use of the clinical decision support tools in the electronic health record developed for this trial, calculated from electronic health record query.&#xD;
+Measure= % of visits at intervention sites at which the clinicians' uses clinical decision support tools through18 months&#xD;
+A higher proportion indicates greater utilization of clinical decision support tools.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clinicians' attitudes and practice around managing elevated BMI in primary care</measure>
+    <time_frame>Pre-intervention and 6 months post intervention launch</time_frame>
+    <description>Change in clinician's attitudes and practice around management of elevated BMI measured using survey questions; Possible responses range from 1 (strongly disagree) to 5 (strongly agree) for attitudes or 1 (never) to 5 (almost always).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost and cost-effectiveness of iPOP-UP</measure>
+    <time_frame>6 months before trial launch and up to 15 months after first primary care visit following trial launch</time_frame>
+    <description>Site-specific costs of implementing iPOP-UP per practice site and per patient incremental cost of iPOP-UP compared with usual care.&#xD;
+Calculated based on study team logs, EHR data on healthcare utilization, and surveys of clinicians.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">240772</enrollment>
+  <condition>Obesity, Childhood</condition>
+  <arm_group>
+    <arm_group_label>Clinical Decision Support Tool</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Practices assigned to iPOP-UP intervention which involves EHR-based CDS tools refined through a formative evaluation and user-centered design.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Practices assigned to usual care that will not have access to the iPOP-UP CDS tool but will have access to many opportunities available to all pediatric clinicians nationally around the release of the new American Academy of Pediatrics guidelines for obesity management.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Improving Pediatric Obesity Practice Using Prompts (iPOP-UP)</intervention_name>
+    <description>EHR-based CDS tools refined through a formative evaluation and user-centered design process that immediately preceded this study.</description>
+    <arm_group_label>Clinical Decision Support Tool</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Primary Care Practices: all primary care practices using the EHR system of one of the&#xD;
+             3 health systems participating in the study that agree to participate in the iPOP-UP&#xD;
+             trial;&#xD;
+&#xD;
+          -  Clinician-participants: all clinicians who delivery pediatric primary care at the&#xD;
+             participating practices, including physicians and physicians-in-training (residents&#xD;
+             and fellows), physician assistants (PA), nurse practitioners (NP)/advanced practice&#xD;
+             registered nurses (APRNs);&#xD;
+&#xD;
+          -  Patient-participants: all patients ages 2-18 with overweight/obesity seen during the&#xD;
+             study period may be impacted by the intervention. A limited dataset will be collected&#xD;
+             for the subset of these 2 to 18 years old patients with BMI ≥ 85th percentile for age&#xD;
+             and sex seen for a well or follow-up visit during the study period in a primary care&#xD;
+             department and conducted by a prescribing clinician (physician, NP, PA)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None - exclusion criteria are purposefully limited in this real-world implementation&#xD;
+             study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mahnoosh (Mona) Sharifi, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mahnoosh (Mona) Sharifi, MD, MPH</last_name>
+    <phone>(203) 785-7821</phone>
+    <email>mona.sharifi@yale.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Emily B Finn, MPH</last_name>
+    <email>e.finn@yale.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Eskenazi Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Randall W Grout, MD</last_name>
+      <email>rgrout@iu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dean S Miner, MD</last_name>
+      <email>dean.miner@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Charles T Wood, MD, MPH</last_name>
+      <email>charles.wood@duke.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeremy J Michel, MD, MHS</last_name>
+      <email>michelj@chop.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2022</study_first_posted>
+  <last_update_submitted>May 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Clinical Decision Support</keyword>
+  <keyword>Implementation Science</keyword>
+  <keyword>Pediatric Obesity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Pediatric Obesity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

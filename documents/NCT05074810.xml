@@ -1,0 +1,404 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05074810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VS-6766-203</org_study_id>
+    <nct_id>NCT05074810</nct_id>
+  </id_info>
+  <brief_title>Phase 1/2 Study of Avutometinib (VS-6766) + Sotorasib in G12C NSCLC Patients</brief_title>
+  <acronym>RAMP203</acronym>
+  <official_title>A Phase 1/2 Study of Avutometinib (VS-6766) in Combination With Sotorasib in Patients With KRAS G12C Mutant Non-Small Cell Lung Cancer (NSCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Verastem, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Amgen</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Verastem, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess the safety and efficacy of avutometinib (VS-6766) in combination with&#xD;
+      sotorasib in patients with G12C Non-Small Cell Lung Cancer (NSCLC) in patients who have been&#xD;
+      exposed to prior G12C inhibitor and those who have not been exposed to prior G12C inhibitor.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, non-randomized, open-label Phase 1/2 study designed to evaluate safety&#xD;
+      and tolerability and efficacy of avutometinib (VS-6766) in combination with sotorasib in&#xD;
+      patients with KRAS G12C mutant NSCLC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 12, 2022</start_date>
+  <completion_date type="Anticipated">September 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: To determine RP2D for avutometinib(VS-6766) in combination with sotorasib</measure>
+    <time_frame>From start of treatment to confirmation of RP2D; 28 days</time_frame>
+    <description>Assessment of Dose-limiting toxicities (DLTs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: To determine the efficacy of the optimal regimen identified from Part A</measure>
+    <time_frame>From start of treatment to confirmation of response; 16 weeks</time_frame>
+    <description>Confirmed overall response rate per RECIST 1.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To characterize the safety and toxicity profile</measure>
+    <time_frame>24 months</time_frame>
+    <description>Treatment emergent adverse events/ treatment emergent serious adverse events - their frequency, duration and severity, lab parameters, vital signs and ECG changes based on CTCAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>Time from the first documentation of response to first documentation of progressive disease or death due to any cause, greater than or equal to 6 months</time_frame>
+    <description>Time of first response to PD as assessed per RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Greater than or equal to 8 weeks</time_frame>
+    <description>CR and PR stable disease as assessed per RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>24 months</time_frame>
+    <description>From the time of first dose of study intervention to PD or death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>From time of first dose of study intervention to death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Pharmacokinetics (PK) of VS 6766, sotorasib, and relevant metabolites - Tmax</measure>
+    <time_frame>10 weeks</time_frame>
+    <description>time of Maximum concentration (Tmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Pharmacokinetics (PK) of VS 6766, sotorasib, and relevant metabolites -AUC</measure>
+    <time_frame>10 weeks</time_frame>
+    <description>Area under plasma Concentration (AUC) 0 to t</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Pharmacokinetics (PK) of VS 6766, sotorasib, and relevant metabolites half-life</measure>
+    <time_frame>10 weeks</time_frame>
+    <description>concentration Half-life (T1/2)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">53</enrollment>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>KRAS Activating Mutation</condition>
+  <arm_group>
+    <arm_group_label>avutometinib (VS-6766)+sotorasib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>To determine the recommended phase 2 dose (RP2D) for avutometinib (VS 6766) in combination with sotorasib in G12C inhibitor naïve and exposed patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>avutometinib (VS-6766)+sotorasib - G12C inhibitor naïve</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>To determine the efficacy of the RP2D identified from Part A in G12C inhibitor naïve patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>avutometinib (VS-6766)+sotorasib - G12C inhibitor exposed</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>To determine the efficacy of the RP2D identified from Part A in G12C inhibitor exposed patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>avutometinib (VS-6766) and sotorasib</intervention_name>
+    <description>The RP2D of avutometinib(VS-6766) + sotorasib determined in Part A will be used in Part B dose expansion</description>
+    <arm_group_label>avutometinib (VS-6766)+sotorasib</arm_group_label>
+    <arm_group_label>avutometinib (VS-6766)+sotorasib - G12C inhibitor exposed</arm_group_label>
+    <arm_group_label>avutometinib (VS-6766)+sotorasib - G12C inhibitor naïve</arm_group_label>
+    <other_name>AMG 510</other_name>
+    <other_name>LUMAKRAS™</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients ≥ 18 years of age&#xD;
+&#xD;
+          -  Histologic or cytologic evidence of NSCLC&#xD;
+&#xD;
+          -  Known G12C KRAS mutation&#xD;
+&#xD;
+          -  Have not received a KRAS inhibitor to be included in Part A and Part B, Cohort 1&#xD;
+&#xD;
+          -  Received at least 1 dose of a G12C inhibitor to be included in Part A or Part B Cohort&#xD;
+             2&#xD;
+&#xD;
+          -  Must have received appropriate treatment with at least one prior systemic regimen, but&#xD;
+             no more than 3 prior regimens, for Stage 3B-C or 4 NSCLC&#xD;
+&#xD;
+          -  Measurable disease according to RECIST 1.1&#xD;
+&#xD;
+          -  An Eastern Cooperative Group (ECOG) performance status ≤ 1&#xD;
+&#xD;
+          -  Adequate organ function&#xD;
+&#xD;
+          -  Adequate recovery from toxicities related to prior treatments&#xD;
+&#xD;
+          -  Agreement to use highly effective method of contraceptive&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Systemic anti-cancer therapy within 4 weeks of the first dose of study therapy&#xD;
+&#xD;
+          -  History of prior malignancy, with the exception of curatively treated malignancies&#xD;
+&#xD;
+          -  Major surgery within 4 weeks (excluding placement of vascular access)&#xD;
+&#xD;
+          -  History of treatment with a direct and specific inhibitor of MEK&#xD;
+&#xD;
+          -  Exposure to strong CYP3A4 inhibitors or inducers within 14 days prior to the first&#xD;
+             dose and during the course of therapy&#xD;
+&#xD;
+          -  Symptomatic brain metastases requiring steroids or other local interventions.&#xD;
+&#xD;
+          -  Known SARS-Cov2 infection ≤28 days prior to first dose of study therapy&#xD;
+&#xD;
+          -  Known hepatitis B, hepatitis C, or human immunodeficiency virus infection that is&#xD;
+             active&#xD;
+&#xD;
+          -  Active skin disorder that has required systemic therapy within the past year&#xD;
+&#xD;
+          -  History of rhabdomyolysis&#xD;
+&#xD;
+          -  Concurrent ocular disorders&#xD;
+&#xD;
+          -  Concurrent heart disease or severe obstructive pulmonary disease&#xD;
+&#xD;
+          -  Inability to swallow oral medications&#xD;
+&#xD;
+          -  Female patients that are pregnant or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MD Verastem</last_name>
+    <role>Study Director</role>
+    <affiliation>Verastem, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Verastem Call Center</last_name>
+    <phone>781-292-4204</phone>
+    <email>clinicaltrials@verastem.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeannette Crawford</last_name>
+      <phone>202-687-0893</phone>
+      <email>jeanette.g.crawford@medstar.net</email>
+    </contact>
+    <investigator>
+      <last_name>Joshua Reuss, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois Cancer Specialists</name>
+      <address>
+        <city>Arlington Heights</city>
+        <state>Illinois</state>
+        <zip>60005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Lozano</last_name>
+      <phone>847-463-2604</phone>
+      <email>Laura.Lozano@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rajat Malhotra, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dana Farber Cancer Institute</last_name>
+      <phone>877-338-7425</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark Awad, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marybeth McCarthy</last_name>
+      <phone>313-725-7855</phone>
+      <email>mmccart2@hfhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Shirish Gadgeel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tara Ryan</last_name>
+      <phone>314-273-0144</phone>
+      <email>rtara@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ramaswamy Govindan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Ressel</last_name>
+      <phone>512-427-9400</phone>
+      <email>amy.ressel@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey Yorio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology and Hematology Associates of Southwest Virginia, Inc., DBA Blue Ridge Cancer Care</name>
+      <address>
+        <city>Blacksburg</city>
+        <state>Virginia</state>
+        <zip>24060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natasha Holt</last_name>
+      <phone>540-808-1704</phone>
+      <email>mailto:Natasha.Holt@USONCOLOGY.COM</email>
+    </contact>
+    <investigator>
+      <last_name>Jerome Goldschmidt</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Cancer Specialists, PC</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carrie Friedman</last_name>
+      <phone>703-636-1473</phone>
+      <email>mailto:carrie.friedman@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alexander Spira, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>September 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>March 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>NSCLC</keyword>
+  <keyword>KRAS G12C</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

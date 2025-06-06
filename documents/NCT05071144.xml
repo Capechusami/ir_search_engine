@@ -1,0 +1,352 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05071144</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-P00039760</org_study_id>
+    <nct_id>NCT05071144</nct_id>
+  </id_info>
+  <brief_title>Spine Procedures Assisted With RoboTics And Navigation</brief_title>
+  <acronym>SPARTAN</acronym>
+  <official_title>Spine Procedures Assisted With RoboTics And Navigation Registry</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pediatric Orthopaedic Society of North America</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medtronic</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Hospital Colorado</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital for Special Surgery, New York</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Healthcare of Atlanta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Creation of a pediatric robotic spine surgery registry will allow for data collection and&#xD;
+      analysis on the coupled use of robotics and navigation in pediatric spine deformity surgery&#xD;
+      across participating study institutions. Eventually, an educational and informative framework&#xD;
+      for this technology will be established.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 13, 2021</start_date>
+  <completion_date type="Anticipated">December 2031</completion_date>
+  <primary_completion_date type="Anticipated">December 2030</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>proportion of pedicle screws within 2 mm of cortical breach</measure>
+    <time_frame>Time of surgery</time_frame>
+    <description>The proportion of pedicle screws within 2 mm of cortical breach when assessed on intraoperative O-arm scans and postoperative CT scans (when applicable).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>radiation dose to patient and surgeon per screw</measure>
+    <time_frame>Time of surgery</time_frame>
+    <description>Radiation dose to patient and surgeon per screw based on the following imaging studies when performed: preoperative CT scan, intraoperative O-arm scans, and fluoroscopy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Scoliosis Research Society (SRS-30) Questionnaire</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>Questionnaires will be completed by both the patient and caregiver based on their appropriate diagnosis (i.e. idiopathic, congenital, spondylolisthesis, etc.).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Early Onset Scoliosis 24-Item Questionnaire (EOSQ-24)</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>Questionnaires will be completed by both the patient and caregiver based on their appropriate diagnosis (i.e. idiopathic, congenital, spondylolisthesis, etc.).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver Priorities &amp; Child Health Index of Life with Disabilities (CP Child)</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>Questionnaires will be completed by both the patient and caregiver based on their appropriate diagnosis (i.e. idiopathic, congenital, spondylolisthesis, etc.).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS) Physical Activity</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>&quot;Self-reported capability rather than actual performance of physical activities. This includes the functioning of one's upper extremities (dexterity), lower extremities (walking or mobility), and central regions (neck, back), as well as instrumental activities of daily living.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS) Emotional Distress - Anxiety</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>&quot;Fear (fearfulness, panic), anxious misery (worry, dread), hyperarousal (tension, nervousness, restlessness), and somatic symptoms related to arousal (racing heart, dizziness).&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS) Emotional Distress - Depressive Symptoms</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>&quot;Negative mood (sadness, guilt), views of self (self- criticism, worthlessness), and social cognition (loneliness, interpersonal alienation), as well as decreased positive affect and engagement (loss of interest, meaning, and purpose).&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS) Physical Function - Mobility</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>&quot;Activities of physical mobility such as getting out of bed or a chair to activities such as running.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS) Pain - Interference</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>&quot;Consequences of pain on relevant aspects of one's life. This includes the extent to which pain hinders engagement with social, cognitive, emotional, physical, and recreational activities.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS) Peer Relationships</measure>
+    <time_frame>Baseline, 6 Months, 1 Year, 2 Years, and 5 Years</time_frame>
+    <description>&quot;Quality of relationships with friends and other acquaintances.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Operative time</measure>
+    <time_frame>Time of surgery</time_frame>
+    <description>Data collection on time related to robotics-navigation, including registration, screw planning, screw placement, and total time related to platform use defined as the beginning of registration to last screw placement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated blood loss (EBL)</measure>
+    <time_frame>Time of surgery</time_frame>
+    <description>EBL during surgery will be reported by the surgeon or extracted from surgical documentation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total operative cost</measure>
+    <time_frame>Time of surgery</time_frame>
+    <description>Capital expenses associated with the equipment and software, preoperative planning time, surgical time, and costs for revision surgery caused by screw malposition.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Spine Deformity</condition>
+  <condition>Idiopathic Scoliosis</condition>
+  <condition>Adolescent Idiopathic Scoliosis</condition>
+  <condition>Spondylolisthesis</condition>
+  <condition>Congenital Scoliosis</condition>
+  <condition>Neuromuscular Scoliosis</condition>
+  <arm_group>
+    <arm_group_label>Pediatric Spine Deformity Patients</arm_group_label>
+    <description>Standard of care surgery using robotics coupled with navigation</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study participants will be those receiving treatment for spinal deformity at one of the&#xD;
+        participating sites. Eligible patients will be identified from clinical databases of&#xD;
+        children undergoing surgery for spinal deformity.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of a spine deformity&#xD;
+&#xD;
+          -  Scheduled for surgery using robotics and navigation&#xD;
+&#xD;
+          -  Younger than 18 years of age (0-17 years old)&#xD;
+&#xD;
+          -  Speak and read English or Spanish&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>0 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel Hedequist, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicole Welch, BA</last_name>
+    <phone>857-218-3272</phone>
+    <email>Nicole.Welch@childrens.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Becky Parmeter, MPH</last_name>
+    <phone>781-216-3080</phone>
+    <email>Becky.Parmeter@childrens.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Florian Miller</last_name>
+      <email>Florian.Miller@childrenscolorado.org</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Erickson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Healthcare of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Numera Sachwani</last_name>
+      <email>numera.sachwani@choa.org</email>
+    </contact>
+    <investigator>
+      <last_name>Dennis Devito, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole Welch, BA</last_name>
+      <phone>857-218-3272</phone>
+      <email>Nicole.Welch@childrens.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Becky Parmeter, MPH</last_name>
+      <phone>781-216-3080</phone>
+      <email>Becky.Parmeter@childrens.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Daniel Hedequist, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ankush Thakur</last_name>
+      <email>thakuran@HSS.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Roger Widmann, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rainbow Babies &amp; Children's Hospital</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michael Glotzbecker</last_name>
+      <email>Michael.Glotzbecker@UHhospitals.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Glotzbecker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dell Children's Medical Center</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kirsten Ross</last_name>
+      <email>kross@ctpomd.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kirsten Ross, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Daniel Hedequist</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Pediatric</keyword>
+  <keyword>Spine</keyword>
+  <keyword>Surgery</keyword>
+  <keyword>Registry</keyword>
+  <keyword>Robotic</keyword>
+  <keyword>Navigation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Scoliosis</mesh_term>
+    <mesh_term>Spondylolisthesis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data for this study may also be sent to the Pediatric Spine Foundation Study Group (PSSG) and/or the HARMS Study Group in the future. The study data may be stored in PSSG for use in future research studies conducted by the members of PSSG. To help protect participant confidentiality, any data we send to these groups will not include their name or any other identifying information. Data will be tagged with a study ID.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>The sharing timeline is dependent on study investigators and will be considered after enrollment closure.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

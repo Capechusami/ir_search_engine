@@ -1,0 +1,310 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05072444</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Qpex-201</org_study_id>
+    <nct_id>NCT05072444</nct_id>
+  </id_info>
+  <brief_title>Drug-Drug Interaction Study of IV QPX2014 Combined With QPX7728 in Healthy Adult Subjects</brief_title>
+  <official_title>A Phase 1, Randomized, Double-Blind, Single-Dose, Drug-Drug Interaction Study to Determine the Impact of Co-administration of QPX7728 on the Pharmacokinetics of QPX2014 in Healthy Adult Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Qpex Biopharma, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biomedical Advanced Research and Development Authority</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Qpex Biopharma, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      QPX7728 is an ultra-broad-spectrum beta-lactamase inhibitor, with activity against numerous&#xD;
+      beta-lactamases, including class A extended spectrum betalactamases (ESBLs), class C&#xD;
+      cephalosporinases, and extended spectrum class D oxacillinases (OXA) that can hydrolyze&#xD;
+      cephalosporins and can be found in Enterobacteriaceae and Pseudomonas aeruginosa (P.&#xD;
+      aeruginosa). QPX7728 is also a potent inhibitor of carbapenemases from all molecular classes,&#xD;
+      such as class A Klebsiella pheumoniae carbapenemase (KPC), class B New-Dehli&#xD;
+      Metalo-beta-lactamase (NDM) and Verona integron-encoded metallo-betalactamase (VIM), and&#xD;
+      class D OXA-48 that are found in carbapenem resistant Enterobacteriaceae, and also class D&#xD;
+      carbapenemases such as OXA-23 that are found in carbapenem resistant Acinetobacter baumannii.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Centers for Disease Control (CDC) has listed carbapenem-resistant Enterobacteriaceae and&#xD;
+      Acinetobacter as urgent threats and multidrug resistant Pseudomonas, and extended spectrum&#xD;
+      beta-lactamase (ESBL)-producing Enterobacteriaceae as serious threats [CDC, 2019]. Consistent&#xD;
+      with the global nature of these resistant bacteria, the World Health Organization (WHO) has&#xD;
+      designated carbapenem-resistant, ESBL-producing Enterobacteriaceae, carbapenem-resistant&#xD;
+      Acinetobacter baumannii, and carbapenem-resistant Pseudomonas aeruginosa as pathogens for&#xD;
+      which new agents are critically needed [WHO, 2017]. Qpex Biopharma is developing a fixed&#xD;
+      combination antibiotic of QPX2014 plus an ultra-broad spectrum beta-lactamase inhibitor,&#xD;
+      QPX7728.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Actual">November 23, 2021</completion_date>
+  <primary_completion_date type="Actual">November 23, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double-Blind, Single-Dose, Drug-Drug Interaction Study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Double-Blind, Single-Dose</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC) between dosing groups</measure>
+    <time_frame>up to 9 days</time_frame>
+    <description>Comparison will be performed between the dosing groups for AUC. Mean graphical presentation of the data will be reported.&#xD;
+Statistical analysis of exposure parameters will be performed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peak plasma Concentration measurements by subject and by dosing group</measure>
+    <time_frame>up to 9 days</time_frame>
+    <description>Comparison will be performed between the dosing groups. Mean graphical presentation of the data will be reported.&#xD;
+Statistical analysis of exposure parameters will be performed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Urine Pharmacokinetic (PK) amount excreted by subject and by dosing group</measure>
+    <time_frame>up to 9 days</time_frame>
+    <description>Urine PK parameters such as amount excreted will be calculated from urinary excretion data</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Urine PK % dose excreted by subject and by dosing group</measure>
+    <time_frame>up to 9 days</time_frame>
+    <description>Urine PK parameters such as amount of % dose excreted will be calculated from urinary excretion data</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Treatment -Emergent Adverse events (AEs) by subject and by dosing group</measure>
+    <time_frame>up to 9 days</time_frame>
+    <description>Number of patients with Treatment-Emergent AEs by treatment arm, severity and relationship to treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients with changes from baseline in safety parameters</measure>
+    <time_frame>up to 9 days</time_frame>
+    <description>Number of patients with changes in safety parameters before and after dosing by subject and treatment arm</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Bacterial Infections</condition>
+  <arm_group>
+    <arm_group_label>QPX7728</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: QPX7728 beta lactamase inhibitor Other names: IV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>QPX2014</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: QPX2014 antibiotic Other names: IV</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>QPX7728</intervention_name>
+    <description>beta lactamase inhibitor</description>
+    <arm_group_label>QPX7728</arm_group_label>
+    <other_name>IV</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>QPX2014</intervention_name>
+    <description>antibiotic</description>
+    <arm_group_label>QPX2014</arm_group_label>
+    <arm_group_label>QPX7728</arm_group_label>
+    <other_name>IV</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy adult males and/or females of non-childbearing potential, 18 to 55 years of&#xD;
+             age (inclusive) at the time of screening.&#xD;
+&#xD;
+          2. Body mass index (BMI) ≥ 18.5 and ≤ 29.9 (kg/m2) and weight between 55.0 and 100.0 kg&#xD;
+             (inclusive) at the time of screening.&#xD;
+&#xD;
+          3. Medically healthy with clinically insignificant screening results (e.g., laboratory&#xD;
+             profiles, medical histories, electrocardiograms [ECGs], physical examination) as&#xD;
+             assessed by the PI.&#xD;
+&#xD;
+          4. Voluntarily consent to participate in the study.&#xD;
+&#xD;
+          5. Male volunteers must agree to be sexually abstinent or agree to use a condom when&#xD;
+             engaging in any sexual activity from study check-in (on Day -1) through 30 days&#xD;
+             following the last administration of the study drug, and to not donate sperm during&#xD;
+             this same period of time. If engaging in sexual activity with a female partner of&#xD;
+             childbearing potential, an additional method of birth control must be used.&#xD;
+&#xD;
+             Approved additional methods of birth control include:&#xD;
+&#xD;
+               1. Intrauterine device (IUD) in place for at least 3 months prior to Day 1 through&#xD;
+                  30 days following the final dosing of the study drug.&#xD;
+&#xD;
+               2. Barrier method (diaphragm) for at least 14 days prior to Day 1 through 30 days&#xD;
+                  following dosing of the study drug.&#xD;
+&#xD;
+               3. Stable hormonal contraceptive for at least 3 months prior to Day 1 through 30&#xD;
+                  days following dosing of the study drug.&#xD;
+&#xD;
+               4. Surgical sterilization (vasectomy) at least 6 months prior to Day 1.&#xD;
+&#xD;
+          6. Females of non-childbearing potential must be either postmenopausal (defined as 12&#xD;
+             months spontaneous amenorrhea) with a serum FSH ≥ 40 mIU/mL or have undergone one of&#xD;
+             the following sterilization procedures at least 6 months prior to Day 1 (and is&#xD;
+             documented):&#xD;
+&#xD;
+               1. Bilateral tubal ligation;&#xD;
+&#xD;
+               2. Hysterectomy;&#xD;
+&#xD;
+               3. Hysterectomy with unilateral or bilateral oophorectomy;&#xD;
+&#xD;
+               4. Bilateral oophorectomy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History or presence of significant (based on the PI assessment) cardiovascular,&#xD;
+             pulmonary, hepatic, renal, hematological, gastrointestinal, endocrine, immunologic,&#xD;
+             dermatologic, neurological, or psychiatric disease.&#xD;
+&#xD;
+          2. Positive pregnancy test at screening or check-in (Day 1) for women.&#xD;
+&#xD;
+          3. Positive urine drug/alcohol testing at screening or check-in (Day -1). A repeat test&#xD;
+             may be performed at the Investigator's discretion in circumstances where a positive&#xD;
+             result is suspected to be caused by consumption of non-illicit substances.&#xD;
+&#xD;
+          4. Positive pregnancy test at screening or check-in (Day 1) for women.&#xD;
+&#xD;
+          5. Positive testing for human immunodeficiency virus (HIV), hepatitis B surface antigen&#xD;
+             (HBsAg), or hepatitis C antibodies (HCV).&#xD;
+&#xD;
+          6. History or presence of alcoholism or drug abuse within the 2 years prior to Day 1.&#xD;
+&#xD;
+          7. Use of more than an average of 5 packs/week of tobacco/nicotine-containing product&#xD;
+             within 6 months prior to Day 1. Subjects must agree to refrain from smoking within 48&#xD;
+             hours prior to confinement and for the duration of the study.&#xD;
+&#xD;
+          8. Excessive intake of alcohol, defined as an average daily intake of greater than 2&#xD;
+             standard drinks for women and 4 standard drinks for men, (1 bottle of beer (375mL) is&#xD;
+             equivalent to approximately 1.4 standard drinks, 1 glass of spirits (30mL) is&#xD;
+             equivalent to approximately 1 standard drink and 1 glass (150mL) of wine is equivalent&#xD;
+             to approximately 1.5 standard drinks).&#xD;
+&#xD;
+          9. Use of any prescription medication (with the exception of hormone replacement therapy&#xD;
+             for females) within 14 days prior to Day 1.&#xD;
+&#xD;
+         10. Use of any over-the-counter (OTC) medication, including herbal products, probiotics&#xD;
+             and vitamins, within the 7 days prior to Day 1. Up to 2 grams per day of acetaminophen&#xD;
+             is allowed for acute events at the discretion of the PI.&#xD;
+&#xD;
+         11. Use of antacids, H2 receptor blockers or proton pump inhibitors within 3 days prior to&#xD;
+             Day 1.&#xD;
+&#xD;
+         12. Documented hypersensitivity reaction or anaphylaxis to any medication, including&#xD;
+             beta-lactam antibiotics.&#xD;
+&#xD;
+         13. Blood donation or significant blood loss (i.e., &gt; 500 mL) within 56 days prior to Day&#xD;
+             1.&#xD;
+&#xD;
+         14. Plasma donation within 7 days prior to Day 1.&#xD;
+&#xD;
+         15. Participation in another investigational clinical trial within 30 days prior to Day 1&#xD;
+             or within 5 half-lives of the previous investigational drug, whichever is longer.&#xD;
+&#xD;
+         16. Surgery within the past three months prior to Day 1 determined by the PI to be&#xD;
+             clinically relevant. Minor surgeries allowed include laser vision, minor dental and&#xD;
+             tooth extraction, mole or basal cell skin removal, endoscopy, and biopsy.&#xD;
+&#xD;
+         17. Any significant acute illness (based on the PI assessment) within 30 days prior to Day&#xD;
+             1.&#xD;
+&#xD;
+         18. QTcF interval &gt;450 msec for males and &gt;470 msec for females or history of prolonged QT&#xD;
+             syndrome at screening or check-in (Day -1).&#xD;
+&#xD;
+         19. Calculated creatinine clearance less than 80 mL/min (Cockcroft- Gault method) at&#xD;
+             screening or check-in (Day -1).&#xD;
+&#xD;
+         20. Subjects who have any clinically significant laboratory value abnormalities at&#xD;
+             screening or check-in (Day -1), in particular:&#xD;
+&#xD;
+               1. White blood cell count &lt; 3,000/mm3, hemoglobin &lt; 11g/dL.&#xD;
+&#xD;
+               2. Absolute neutrophil count &lt; 1,200/mm3 or platelet count &lt; 120,000/mm3.&#xD;
+&#xD;
+         21. Liver function abnormalities at screening or check-in (Day -1) (defined by an&#xD;
+             elevation in bilirubin, AST or ALT &gt; ULN for subjects based on age and sex).&#xD;
+&#xD;
+         22. Any other condition or prior therapy, which, in the opinion of the PI, would make the&#xD;
+             subject unsuitable for this study.&#xD;
+&#xD;
+         23. Participation in a previous QPX7728 or QPX7831 study.&#xD;
+&#xD;
+         24. Participation of research site staff, their close family, or significant others.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeff S Loutit, MBChB</last_name>
+    <role>Study Director</role>
+    <affiliation>Qpex Biopharma, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Altasciences</name>
+      <address>
+        <city>Cypress</city>
+        <state>California</state>
+        <zip>90630</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>September 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>October 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>beta-lactam antibiotic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bacterial Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>QPX7728</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

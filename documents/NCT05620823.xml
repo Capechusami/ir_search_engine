@@ -1,0 +1,815 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05620823</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INCB 54707-301</org_study_id>
+    <nct_id>NCT05620823</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of Povorcitinib (INCB054707) in Participants With Moderate to Severe Hidradenitis Suppurativa</brief_title>
+  <acronym>STOP-HS1</acronym>
+  <official_title>A Phase 3, Double-Blind, Randomized, Placebo-Controlled, Efficacy and Safety Study of Povorcitinib (INCB054707) in Participants With Moderate to Severe Hidradenitis Suppurativa</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Incyte Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Incyte Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of Povorcitinib (INCB054707)&#xD;
+      in participants with moderate to severe Hidradenitis Suppurativa (HS) over a 12-week placebo&#xD;
+      controlled period, followed by a 42-week extension period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 19, 2022</start_date>
+  <completion_date type="Anticipated">January 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 11, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized 1:1:1 to Povorcitinib Dose A, Povorcitinib Dose B, or placebo once a day (QD); participants who complete the placebo controlled (PC) 12-week period may continue to a 42-week extension(EXT) period with Povorcitinib (Dose A or Dose B) QD.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who achieve Hidradenitis Suppurativa Clinical Response (HiSCR)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>HiSCR is defined as at least a 50% reduction from baseline in the total abscess and inflammatory nodule count, with no increase from baseline in abscess or draining tunnel count.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieve Hidradenitis Suppurativa Clinical Response 75 (HiSCR75)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>HiSCR75 is defined as at least a 75% reduction from baseline in the total abscess and inflammatory nodule count, with no increase from baseline in abscess or draining tunnel count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with flare</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Participants who experience at least 1 flare over 12 weeks; flare is defined as at least a 25% increase in the total abscess and inflammatory nodule count with a minimum increase of 2 relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with a ≥ 3-point decrease in Skin Pain Numeric Rating Scale (NRS) score among participants with baseline Skin Pain NRS score ≥ 3.</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Participants with a Skin Pain score of at least 3 at baseline and who experience at least a 3-point decrease in Skin Pain score at Week 12, relative to baseline. Skin Pain is an 11 point NRS, ranging from 0 (no skin pain) to 10 (worst skin pain).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieve Skin Pain NRS30 among participants with baseline Skin Pain NRS score ≥ 3.</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Participants with a Skin Pain score of at least 3 at baseline and who achieve at Week 12 Skin Pain NRS30, defined as at least a 30% reduction and at least 1-unit reduction from baseline in the Skin Pain NRS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with a ≥ 4-point increase from baseline in Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT F) score</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Participants with a baseline FACIT-F score ≤ 48 and who experience at least a 4-point increase in FACIT-F score at Week 12, relative to baseline. The FACIT-F scale is a 13-item questionnaire that assesses self reported fatigue and its impact upon daily activities and function over the past 7 days, with scores ranging from 0 (worst fatigue) to 52 (no fatigue).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Dermatology Life Quality Index (DLQI) score at each visit</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>The DLQI is a skin disease specific questionnaire aimed at the evaluation of how symptoms and treatment affect participants' health-related quality of life (QoL). The DLQI total score ranges from 0 to 30, with higher scores indicating lower skin health related QoL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in abscess count at each visit.</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>Defined as mean change of Abscess count relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change from baseline in abscess count at every visit</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>Percent change from baseline in number of abscess(es)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in inflammatory nodule count at each visit</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>Defined as mean change of inflammatory nodule count relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change from baseline in inflammatory nodule count at each visit.</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>Defined as percent change from baseline in number of inflammatory nodule(s)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in draining tunnel count at each visit.</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>Defined as mean change of draining tunnel count relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change from baseline in draining tunnel count at each visit.</measure>
+    <time_frame>54 weeks</time_frame>
+    <description>Defined as percent change from baseline in number of draining tunnel(s)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants who achieve HiSCR</measure>
+    <time_frame>Week 24</time_frame>
+    <description>HiSCR is defined as at least a 50% reduction from baseline in the total abscess and inflammatory nodule count, with no increase from baseline in abscess or draining tunnel count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants who achieve HiSCR75</measure>
+    <time_frame>Week 24</time_frame>
+    <description>HiSCR75 is defined as at least a 75% reduction from baseline in the total abscess and inflammatory nodule count, with no increase from baseline in abscess or draining tunnel count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants with flare</measure>
+    <time_frame>From Week 12 through Week 24</time_frame>
+    <description>Participants who experience at least 1 flare over the period under assessment; flare is defined as at least a 25% increase in the total abscess and inflammatory nodule count with a minimum increase of 2 relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants who achieved Skin Pain NRS30 among participants with baseline Skin Pain NRS score ≥ 3</measure>
+    <time_frame>Week 24</time_frame>
+    <description>Skin Pain NRS30 defined as at least a 30% reduction and at least 1-unit reduction from baseline in the Skin Pain NRS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants who achieve HiSCR</measure>
+    <time_frame>Week 54</time_frame>
+    <description>HiSCR is defined as at least a 50% reduction from baseline in the total abscess and inflammatory nodule count, with no increase from baseline in abscess or draining tunnel count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants who achieve HiSCR75</measure>
+    <time_frame>Week 54</time_frame>
+    <description>HiSCR75 is defined as at least a 75% reduction from baseline in the total abscess and inflammatory nodule count, with no increase from baseline in abscess or draining tunnel count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period : Proportion of participants with flare</measure>
+    <time_frame>From Week 12 through Week 54</time_frame>
+    <description>Participants who experience at least 1 flare over the period under assessment; flare is defined as at least a 25% increase in the total abscess and inflammatory nodule count with a minimum increase of 2 relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period: Proportion of participants who achieved Skin Pain NRS30 among participants with baseline Skin Pain NRS score ≥ 3.</measure>
+    <time_frame>Week 54</time_frame>
+    <description>Participants with a Skin Pain score of at least 3 at baseline and who achieve at Week 24 Skin Pain NRS30, defined as at least a 30% reduction and at least 1-unit reduction from baseline in the Skin Pain NRS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period:Proportion of participants who achieve maintenance of HiSCR or greater response at each visit</measure>
+    <time_frame>From Week 12 through Week 54</time_frame>
+    <description>Maintenance of response defined as participants who achieve HiSCR at Week 12 and maintain it or achieve greater response at each visit during the EXT period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension Period : Proportion of participants who achieve maintenance of HiSCR75 or greater response at each visit</measure>
+    <time_frame>From Week 12 through Week 54</time_frame>
+    <description>Maintenance of response defined as participants who achieve HiSCR75 at Week 12 and maintain it or achieve greater response at each visit during the EXT period.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Hidradenitis Suppurativa (HS)</condition>
+  <arm_group>
+    <arm_group_label>Povorcitinib Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Povorcitinib Dose A for 54 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Povorcitinib Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Povorcitinib Dose B for 54 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive Placebo for 12 weeks, followed by Povorcitinib (Dose A or Dose B) for 42 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Povorcitinib</intervention_name>
+    <description>Oral; Tablet</description>
+    <arm_group_label>Povorcitinib Dose A</arm_group_label>
+    <arm_group_label>Povorcitinib Dose B</arm_group_label>
+    <other_name>INCB054707</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral; Tablet</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of moderate to severe HS for at least 3 months prior to the screening visit.&#xD;
+&#xD;
+          -  Total abscess and inflammatory nodule count of at least 5 at both the screening and&#xD;
+             baseline visits&#xD;
+&#xD;
+          -  HS lesions in at least 2 distinct anatomical areas (examples include but are not&#xD;
+             limited to left and right axilla or left and right inguinocrural fold), 1 of which&#xD;
+             must be at least Hurley Stage II or Hurley Stage III, at both the screening and&#xD;
+             baseline visits&#xD;
+&#xD;
+          -  Documented history of inadequate response to at least a 3-month course of at least 1&#xD;
+             conventional systemic therapy (oral antibiotic or biologic drug) for HS (or&#xD;
+             demonstrated intolerance to, or have a contraindication to, a conventional systemic&#xD;
+             therapy for treatment of their HS).&#xD;
+&#xD;
+          -  Agreement to NOT use topical and systemic antibiotics for treatment of HS during the&#xD;
+             placebo-controlled period.&#xD;
+&#xD;
+          -  Agreement to NOT use a diluted bleach bath or topical antiseptic washes containing&#xD;
+             chlorhexidine gluconate or benzoyl peroxide on the areas affected by HS lesions during&#xD;
+             the placebo-controlled period. Note: Over-the-counter soap and water is allowed.&#xD;
+&#xD;
+          -  Agreement to use contraception&#xD;
+&#xD;
+          -  Willing and able to comply with the study protocol and procedures.&#xD;
+&#xD;
+          -  Further inclusion criteria apply.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of &gt; 20 draining tunnels (fistulas) at either the screening or baseline&#xD;
+             visit.&#xD;
+&#xD;
+          -  Women who are pregnant (or who are considering pregnancy) or breastfeeding.&#xD;
+&#xD;
+          -  Medical history including thrombocytopenia, coagulopathy or platelet dysfunction,&#xD;
+             Q-wave interval abnormalities, current or history of certain infections, cancer,&#xD;
+             lymphoproliferative disorders and other medical conditions at the discretion of the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Laboratory values outside of the protocol-defined ranges.&#xD;
+&#xD;
+          -  Further exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Incyte Corporation Call Center (US)</last_name>
+    <phone>1.855.463.3463</phone>
+    <email>medinfo@incyte.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Incyte Corporation Call Center (ex-US)</last_name>
+    <phone>+800 00027423</phone>
+    <email>eumedinfo@incyte.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Investigative Site US303</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US323</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US306</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33486</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US320</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33486</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US317</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012-3618</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US321</name>
+      <address>
+        <city>North Miami Beach</city>
+        <state>Florida</state>
+        <zip>33162-4708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US322</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site US300</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site AT304</name>
+      <address>
+        <city>Graz</city>
+        <zip>08036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site AT302</name>
+      <address>
+        <city>Linz</city>
+        <zip>04020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site AT303</name>
+      <address>
+        <city>Vienna</city>
+        <zip>01030</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site AT305</name>
+      <address>
+        <city>Wien</city>
+        <zip>01090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site AT301</name>
+      <address>
+        <city>Wien</city>
+        <zip>01100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site AT300</name>
+      <address>
+        <city>Wien</city>
+        <zip>01130</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site BE304</name>
+      <address>
+        <city>Brussels</city>
+        <zip>01200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site BE301</name>
+      <address>
+        <city>Gent</city>
+        <zip>09000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site BE306</name>
+      <address>
+        <city>Gent</city>
+        <zip>09000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site BE305</name>
+      <address>
+        <city>Leuven</city>
+        <zip>03000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site BE302</name>
+      <address>
+        <city>Liege</city>
+        <zip>04000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site BE303</name>
+      <address>
+        <city>Namur</city>
+        <zip>05000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA301</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3M 3Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA304</name>
+      <address>
+        <city>Barrie</city>
+        <state>Ontario</state>
+        <zip>L4M 1G7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA303</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6H 5L5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA305</name>
+      <address>
+        <city>Newmarket</city>
+        <state>Ontario</state>
+        <zip>L3Y 5G8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA302</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9J 5K2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA306</name>
+      <address>
+        <city>Laval</city>
+        <state>Quebec</state>
+        <zip>H7N 6L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CA307</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2K 4L5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CZ301</name>
+      <address>
+        <city>Ostrava - Poruba</city>
+        <zip>708 52</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site CZ300</name>
+      <address>
+        <city>Praha 5</city>
+        <zip>150 06</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site FR301</name>
+      <address>
+        <city>Saint Etienne Cedex 2</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE302</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE306</name>
+      <address>
+        <city>Duesseldorf</city>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE301</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE303</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE300</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30519</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE305</name>
+      <address>
+        <city>Hessen</city>
+        <zip>64297</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE304</name>
+      <address>
+        <city>Langenau</city>
+        <zip>89129</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site DE307</name>
+      <address>
+        <city>Memmingen</city>
+        <zip>87700</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site PL301</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>50-566</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site ES302</name>
+      <address>
+        <city>Badalona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site ES303</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site ES301</name>
+      <address>
+        <city>Granada</city>
+        <zip>18014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site ES305</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site ES300</name>
+      <address>
+        <city>Pontevedra</city>
+        <zip>36001</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site ES304</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Czechia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hidradenitis Suppurativa</keyword>
+  <keyword>Hidradenitis</keyword>
+  <keyword>Acne inversa</keyword>
+  <keyword>HS</keyword>
+  <keyword>INCB054707</keyword>
+  <keyword>Povorcitinib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hidradenitis Suppurativa</mesh_term>
+    <mesh_term>Hidradenitis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Incyte shares data with qualified external researchers after a research proposal is submitted. These requests are reviewed and approved by a review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.&#xD;
+The trial data availability is according to the criteria and process described on https://www.incyte.com/our-company/compliance-and-transparency</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data will be shared after the primary publication or 2 years after the study has ended for market authorized products and indications.</ipd_time_frame>
+    <ipd_access_criteria>Data from eligible studies will be shared with qualified researchers according to the criteria and process described in the Data Sharing section of the www.incyteclinicaltrials.com website. For approved requests, the researchers will be granted access to anonymized data under the terms of a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://www.incyte.com/our-company/compliance-and-transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

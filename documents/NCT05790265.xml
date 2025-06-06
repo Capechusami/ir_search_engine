@@ -1,0 +1,120 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05790265</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-2375</org_study_id>
+    <nct_id>NCT05790265</nct_id>
+  </id_info>
+  <brief_title>Assessing Innovative Wireless and Wearable Sensors for Continuous Blood Pressure Measurement in Obese Pregnant Women</brief_title>
+  <official_title>Assessing Innovative Wireless and Wearable Sensors for Continuous Blood Pressure Measurement in Obese and Super-obese Pregnant Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sibel Health Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of North Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sibel Health Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a prospective study targeting at least 20 obese and super-obese patients&#xD;
+      admitted to Labor &amp; Delivery (L&amp;D) for delivery at UNC Medical Center. Patients with clinical&#xD;
+      indicated radial A-lines either planned or already in-situ will be offered participation. The&#xD;
+      study will evaluate the accuracy of noninvasive blood pressure measurements with the ANNE One&#xD;
+      system to blood pressure readings with the radial A-line.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean absolute error (MAE) and standard deviation of blood pressure measurements with ANNE One compared to arterial line</measure>
+    <time_frame>8 hours</time_frame>
+    <description>Mean absolute error and standard deviation between the non-invasive blood pressure measurement provided by the device under test and the invasive blood pressure measurement from the arterial line.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Blood Pressure</condition>
+  <arm_group>
+    <arm_group_label>Comparison of ANNE One system blood pressure measurements to arterial line</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ANNE One</intervention_name>
+    <description>Chest sensor for single lead ECG and finger sensor for pulse oximetry.</description>
+    <arm_group_label>Comparison of ANNE One system blood pressure measurements to arterial line</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;= 18 years old&#xD;
+&#xD;
+          -  Ability and willingness to provide written informed consent&#xD;
+&#xD;
+          -  Admitted for delivery at UNC Medical Center&#xD;
+&#xD;
+          -  BMI of &gt;= 40 kg/m2&#xD;
+&#xD;
+          -  Clinically indicated radial A-lines either planned or already in-situ prior to&#xD;
+             delivery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Skin sensitivity or allergy that precludes placement of ANNE One&#xD;
+&#xD;
+          -  Any condition (social or medical) which, in the opinion of the study staff would make&#xD;
+             any study participation unsafe or complicate data interpretation&#xD;
+&#xD;
+          -  Expected delivery within &lt;= 1 hour of arrival to L&amp;D&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sarah E Coughlin</last_name>
+    <phone>(224)251-8859</phone>
+    <email>sarah.coughlin@sibelhealth.com</email>
+  </overall_contact>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 15, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

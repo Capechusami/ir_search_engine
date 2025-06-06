@@ -1,0 +1,415 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05626049</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00109780</org_study_id>
+    <nct_id>NCT05626049</nct_id>
+  </id_info>
+  <brief_title>Implementation of the ACP Guideline for Low Back Pain (IMPACt-LBP)</brief_title>
+  <acronym>IMPACt-LBP</acronym>
+  <official_title>Implementation of the American College of Physicians Guideline for Low Back Pain: A Cluster Randomized Trial (IMPACt-LBP)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dartmouth-Hitchcock Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Iowa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Duke Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Palmer College of Chiropractic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess whether the primary spine practitioner (PSP) model of&#xD;
+      care will lead to improvements in patient outcomes, as compared to usual care, based on&#xD;
+      change in patient-reported PROMIS Pain Interference and Physical Function from baseline to 3&#xD;
+      months in patients aged 18 years and older with a primary complaint of low back pain (LBP).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a pragmatic, multi-site, two-arm cluster-randomized trial with the unit of&#xD;
+      randomization at the primary care clinic level. The overall goal is to evaluate&#xD;
+      implementation of the American College of Physicians (ACP) guideline for LBP by assessing the&#xD;
+      comparative effectiveness of the PSP model, which involves first contact care for LBP&#xD;
+      patients from either a physical therapist (PT) or a doctor of chiropractic (DC), versus usual&#xD;
+      care, which involves first contact care with primary care physicians. The study includes&#xD;
+      patients aged 18 years and older with a chief complaint of LBP.&#xD;
+&#xD;
+      Co-primary endpoints to be assessed are changes in Patient- Reported Outcomes Measurement&#xD;
+      Information System (PROMIS) Pain Interference and Physical Function from baseline to 3&#xD;
+      months. The Investigators have chosen to use these co-primary endpoints as they represent two&#xD;
+      domains that are important factors related to patient improvement.&#xD;
+&#xD;
+      Secondary endpoints collected at baseline, 3, 6 and 12 months include Pain Catastrophizing&#xD;
+      Scale - 4-item short form, PROMIS Global-10 (v1.2), total prescribed opioid dosage, imaging&#xD;
+      and diagnostic testing, provider visits, and LBP-associated procedures and treatments:&#xD;
+      surgical procedures, medication prescriptions, hospital admissions and emergency room visits.&#xD;
+&#xD;
+      Additional exploratory analyses among enrolled patients will assess whether the PSP model&#xD;
+      leads to 1) long-term improvement compared to usual care using the PROMIS Pain Interference&#xD;
+      and Physical Function at 6, 12, and 24 months; and 2) lower healthcare utilization and costs&#xD;
+      for LBP at 12 and 24 months.&#xD;
+&#xD;
+      Patients enrolled within the first 18 months of the data collection phase will be included in&#xD;
+      the 24-month exploratory analyses. Additional analyses will evaluate LBP-related utilization&#xD;
+      within the academic healthcare systems among all patients seen in intervention versus control&#xD;
+      primary care clinics utilizing de-identified clinic level data extracted from the EHR.&#xD;
+&#xD;
+      A total of approximately 1,800 patients who seek care at a participating primary care clinic&#xD;
+      with a complaint of LBP and meet study eligibility criteria will be enrolled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2025</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Primary care clinics across three academic HCS will be allocated 1:1 to each arm (PSP model versus usual care) of the study. Clinics randomized to provide the PSP model will provide patient information regarding the ACP guideline for LBP and an LBP scheduling assistant will help patients make an appointment with either a DC or PT at the initial point of contact.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Patients, clinicians delivering care, LBP schedulers and site research coordinators will not be blinded to clinic intervention assignment in this pragmatic clinical trial. There will be both blinded and unblinded analysis teams.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Pain Interference as measured by PROMIS (Patient-Reported Outcomes Measurement Information System)</measure>
+    <time_frame>Baseline, 3 Months</time_frame>
+    <description>The Investigators will compare the change in PROMIS Pain Interference scores, individually, from baseline to 3- month follow-up between usual care and intervention arms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical Function as measured by PROMIS (Patient-Reported Outcomes Measurement Information System)</measure>
+    <time_frame>Baseline, 3 Months</time_frame>
+    <description>The Investigators will compare the change in PROMIS Physical Function scores, individually, from baseline to 3- month follow-up between usual care and intervention arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>NIH Low Back Pain Questions</measure>
+    <time_frame>Baseline, 12 Months</time_frame>
+    <description>The NIH LBP questions consist of 2-items that were developed by the NIH Task Force and are used determined patients' chronicity with LBP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Satisfaction</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The Investigators will assess patient satisfaction with care using a single item used in prior spine studies including SPORT: &quot;Overall, how satisfied are you with the care you received for your back pain? Very satisfied, Somewhat satisfied, Neutral, Somewhat dissatisfied, Very dissatisfied.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Improvement</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The Investigators will measure global improvement using a one-item scale that has been used in prior pragmatic trials of low back pain: &quot;Compared to your first visit, your low back pain is much worse, a little worse, about the same, a little better, moderately better, much better or completely gone.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Experience</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The Investigators will compare patient experience with the clinical care between groups at 3 months using a modified satisfaction with outpatient physiotherapy instrument. Domains compared will include expectations, clinician, communication, health organization, and treatment satisfaction. Physiotherapy outpatient satisfaction questionnaire (modified), score range: 32 to 160. Higher score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Prescribed Opioid Dosage</measure>
+    <time_frame>Baseline, 3 Months, 6 Months, 12 Months</time_frame>
+    <description>The Investigators will compare total opioid dosage (morphine equivalents) in the 12 months after baseline. In order to be able to compare opioid doses across classes, the Investigators will use a standard formula to calculate morphine equivalents from the CDC Morphine Equivalent Factors. Within 12 months after baseline, the Investigators will determine morphine equivalent dose.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS Global 10 (v1.2) - Physical Health</measure>
+    <time_frame>Baseline, 3 Months, 6 Months, 12 Months</time_frame>
+    <description>The PROMIS Global-10 is a 10 item PRO questionnaire which has response options presented as 5-point rating scales; Results are used to calculate a global physical health score and global mental health score with higher scores indicating better health.Patient Reported Outcomes Measurement Information System Global Health Short Form Range: 0 - 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS Global 10 (v1.2) - Mental Health</measure>
+    <time_frame>Baseline, 3 Months, 6 Months, 12 Months</time_frame>
+    <description>The PROMIS Global-10 is a 10 item PRO questionnaire which has response options presented as 5-point rating scales; Results are used to calculate a global physical health score and global mental health score with higher scores indicating better health.Patient Reported Outcomes Measurement Information System Global Health Short Form Range: 0 - 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of LBP-related Imaging and Diagnostic Tests</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any imaging and diagnostic tests from the time from enrollment through 12 months or study end. These measures will be extracted from the electronic health record using ICD and CPT codes. The imaging and diagnostics include magnetic resonance imaging, computed tomography, plain film x-rays, discography, electromyography, and nerve conduction studies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of LBP-related Injection Procedures</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any LBP-related injection procedures conducted from the time from enrollment until 12 months or study end. These procedures will be extracted by the electronic health record using ICD and CPT codes. The injection procedure types include fascia, facet joint, intervertebral disc, and muscle.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of LBP-related Surgical Procedures</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any LBP-related surgical procedures conducted from the time from enrollment until 12 months or study end. These surgical procedures will be extracted by the electronic health record using ICD and CPT codes. The surgical procedure types include discectomy, fusion, and decompression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of LBP-related Medical Prescriptions</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any LBP-related medication prescriptions from the time from enrollment until 12 months or study end. These medication prescriptions will be extracted from the electronic health record using commonly used codes during routine clinical practice. The medication types include opioids, NSAIDS, muscle relaxers, anticonvulsants, and SNRIs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of LBP-related Provider Visits</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any provider visits from the time from enrollment until 12 months or study end. These visits will be extracted by the electronic health record using ICD and CPT codes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospital Admissions</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any hospital admissions from the time from enrollment through 12 months or study end. These admissions will be extracted by the electronic health record using ICD and CPT codes. The admission types include routine, emergency, and elective.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Emergency Room Visits</measure>
+    <time_frame>Up to approximately 12 Months</time_frame>
+    <description>The Investigators will collect any emergency room visits from the time from enrollment until 12 months or study end. These visits will be extracted by the electronic health record using ICD and CPT codes.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Total Prescribed Opioid Dosage</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will compare total opioid dosage (morphine equivalents) in the 24 months after baseline. In order to be able to compare opioid doses across classes, the Investigators will use a standard formula to calculate morphine equivalents from the CDC Morphine Equivalent Factors. Within 24 months after baseline, the Investigators will determine morphine equivalent dose.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PROMIS Global 10 (v1.2) - Physical Health</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The PROMIS Global-10 is a 10 item PRO questionnaire which has response options presented as 5-point rating scales; Results are used to calculate a global physical health score and global mental health score with higher scores indicating better health.Patient Reported Outcomes Measurement Information System Global Health Short Form Range: 0 - 100</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PROMIS Global 10 (v1.2) - Mental Health</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The PROMIS Global-10 is a 10 item PRO questionnaire which has response options presented as 5-point rating scales; Results are used to calculate a global physical health score and global mental health score with higher scores indicating better health.Patient Reported Outcomes Measurement Information System Global Health Short Form Range: 0 - 100</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of LBP-related Imaging and Diagnostic Tests</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any imaging and diagnostic tests from the time from enrollment through 24 months or study end. These measures will be extracted from the electronic health record using ICD and CPT codes. The imaging and diagnostics include magnetic resonance imaging, computed tomography, plain film x-rays, discography, electromyography, and nerve conduction studies.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of LBP-related Injection Procedures</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any LBP-related injection procedures conducted from the time from enrollment until 24 months or study end. These procedures will be extracted by the electronic health record using ICD and CPT codes. The injection procedure types include fascia, facet joint, intervertebral disc, and muscle.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of LBP-related Surgical Procedures</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any LBP-related surgical procedures conducted from the time from enrollment until 24 months or study end. These surgical procedures will be extracted by the electronic health record using ICD and CPT codes. The surgical procedure types include discectomy, fusion, and decompression.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of LBP-related Medical Prescriptions</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any LBP-related medication prescriptions from the time from enrollment until 24 months or study end. These medication prescriptions will be extracted from the electronic health record using commonly used codes during routine clinical practice. The medication types include opioids, NSAIDS, muscle relaxers, anticonvulsants, and SNRIs</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of LBP-related Provider Visits</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any provider visits from the time from enrollment until 24 months or study end. These visits will be extracted by the electronic health record using ICD and CPT codes</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Hospital Admissions</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any hospital admissions from the time from enrollment through 24 months or study end. These admissions will be extracted by the electronic health record using ICD and CPT codes. The admission types include routine, emergency, and elective.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Emergency Room Visits</measure>
+    <time_frame>Up to approximately 24 Months</time_frame>
+    <description>The Investigators will collect any emergency room visits from the time from enrollment until 24 months or study end. These visits will be extracted by the electronic health record using ICD and CPT codes.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1800</enrollment>
+  <condition>Pain, Back</condition>
+  <arm_group>
+    <arm_group_label>Usual Medical Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This group will consist of patients who contact clinics that have been randomized to usual medical care (no change to medical care).Usual care is defined as any care designated by a primary care physician (PCP).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Primary Spine Provider Model</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will consist of patients who contact clinics that have been randomized to the primary spine provider (PSP) model (intervention clinics). Patients seeking care at intervention clinics will be given the option of seeing either a DC or a PT as their first contact clinician for an initial trial of PSP care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Primary Spine Provider Model</intervention_name>
+    <description>Patients with LBP seeking care at intervention clinics will be offered an appointment with a DC or PT at the initial point of contact.</description>
+    <arm_group_label>Primary Spine Provider Model</arm_group_label>
+    <other_name>PSP Model</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual Care</intervention_name>
+    <description>Patients in this arm will receive usual care (no change to medical care).Usual care is defined as any care designated by a primary care physician (PCP).</description>
+    <arm_group_label>Usual Medical Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. aged 18 years and older&#xD;
+&#xD;
+          2. initiating an outpatient visit for LBP at a participating PCP clinic&#xD;
+&#xD;
+          3. agree to participate and complete baseline questionnaire (in lieu of formal written&#xD;
+             documentation of consent)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. inability to provide consent or complete outcome questionnaires&#xD;
+&#xD;
+          2. positive screening for cauda equina symptoms (loss of bowel/bladder control,&#xD;
+             progressive muscle weakness)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christine Goertz, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke Clinical Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kelley Ryan</last_name>
+    <phone>919-668-7519</phone>
+    <email>kelley.ryan@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adam Goode, PhD</last_name>
+    <phone>919-681-6154</phone>
+    <email>adam.goode@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barcey T Levy, MD, PhD</last_name>
+      <phone>319-384-7622</phone>
+      <email>barcey-levy@uiowa.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jeanette M Daly, PhD</last_name>
+      <phone>319-3984-8995</phone>
+      <email>jeanette-daly@uiowa.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Barcey T Levy, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Health</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Corie L Lynn</last_name>
+      <phone>843-251-8956</phone>
+      <email>corie.l.lynn@hitchcock.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jon D Lurie, MD, MS</last_name>
+      <phone>603-650-8303</phone>
+      <email>jon.d.lurie@dartmouth.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jon D Lurie, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Health</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jhoanna Z Aquino</last_name>
+      <phone>919-668-9245</phone>
+      <email>jhoannazaida.aquino@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rowena J Dolor, MD, MHS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2022</study_first_posted>
+  <last_update_submitted>April 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 11, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pain</keyword>
+  <keyword>back pain</keyword>
+  <keyword>low back pain</keyword>
+  <keyword>primary spine provider</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Back Pain</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>In collaboration with the NCCIH, the Investigators will develop a process to facilitate access to study data and will follow the Department of Health and Human Services guidance regarding HIPAA-compliant data sharing.&#xD;
+Access to the limited dataset (Enrolled Cohort) will require a Data Use Agreement and IRB approval. This is a custom dataset created to include just the subset of data needed.&#xD;
+Access to the de-identified dataset (Longitudinal Cohort) does not require a Data Use Agreement or IRB approval and is not subject to HIPAA's minimum necessary standards.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Data will not be shared until the end of the grant period (June 30, 2026).</ipd_time_frame>
+    <ipd_access_criteria>De-identified data or limited datasets for proposed use, with appropriate documentation, will be provided via secure transfer methods to the requestor following institutional approval and data use agreements as appropriate.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

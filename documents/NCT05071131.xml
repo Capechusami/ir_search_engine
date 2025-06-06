@@ -1,0 +1,309 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05071131</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RESTORE</org_study_id>
+    <nct_id>NCT05071131</nct_id>
+  </id_info>
+  <brief_title>Effect of Inulin on Gut Microbiota and Gut Barrier in Chronic Kidney Disease</brief_title>
+  <acronym>RESTORE</acronym>
+  <official_title>Investigating the Effect of Inulin on Gut Microbiota and Gut Barrier in Advanced Chronic Kidney Disease - a Randomised, Placebo-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Charite University, Berlin, Germany</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Charite University, Berlin, Germany</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An adequate fiber intake is crucial for a well-balanced diet and reduces the risk of chronic&#xD;
+      diseases. However, nutritional recommendations for chronic kidney disease patients lead to an&#xD;
+      insufficient fiber intake with possible maladaptive effects on the gut microbiome. Therefore,&#xD;
+      we want to study the effects of a 35-day inulin supplementation on the gut microbiome, gut&#xD;
+      barrier function, bacterial metabolites and immune cell states in chronic kidney disease&#xD;
+      patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2022</start_date>
+  <completion_date type="Anticipated">February 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plasma concentration of Zonulin-1</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by ELISA [ng/ml]</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of soluble CD14</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by ELISA [ng/ml]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short-chain fatty acid-associated bacterial gene expression</measure>
+    <time_frame>After 35 days compared to placebo and adjusted for baseline</time_frame>
+    <description>Measured by quantitative PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short-chain fatty acid-associated gene expression in immune cells</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by quantitative PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indole-associated bacterial gene expression</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by quantitative PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indole-associated gene expression in immune cells</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by quantitative PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fecal metabolome</measure>
+    <time_frame>After 35 days compared to placebo and adjusted for baseline</time_frame>
+    <description>Measured by mass spectrometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum metabolome</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by mass spectrometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration of Trimethylamine-N-Oxide (TMAO)</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by LC-MS [µM]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fecal microbiome taxonomy</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by 16S amplicon sequencing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activation potential of aryl hydrocarbon receptor (AhR) in serum</measure>
+    <time_frame>After 35 days compared to placebo and adjusted for baseline</time_frame>
+    <description>Measured by cell-based luciferase reporter assay (delta luminescence)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of circulating T-cell subtypes</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by flow cytometry (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Office systolic blood pressure</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Mean of five consecutive blood pressure measurements (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Office diastolic blood pressure</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Mean of five consecutive blood pressure measurements (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of IL-1</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by ELISA [pg/ml]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of IL-6</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by ELISA [pg/ml]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of TNF-alpha</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured by ELISA [pg/ml]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Creatine serum concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cystatin c</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Cystatin c serum concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine / cystatin c ratio</measure>
+    <time_frame>After 35 days compared to placebo</time_frame>
+    <description>Measured in serum</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Chronic Kidney Disease 5D</condition>
+  <arm_group>
+    <arm_group_label>Inulin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>15 grams inulin per day for 7 days, followed by 30 grams inulin per day for 28 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>15 grams maltodextrin per day for 7 days, followed by 30 grams maltodextrin per day for 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Inulin</intervention_name>
+    <description>1 sachet à 15 grams daily for 7 days, followed by 2 sachets à 15 grams daily for 28 days</description>
+    <arm_group_label>Inulin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>1 sachet à 15 grams daily for 7 days, followed by 2 sachets à 15 grams daily for 28 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women in a ratio of 1:1&#xD;
+&#xD;
+          -  Age 18-75 years&#xD;
+&#xD;
+          -  Body mass index 25.0 - 39.9 kg/m^2&#xD;
+&#xD;
+          -  End-stage kidney disease, which has been treated regularly with hemodialysis for at&#xD;
+             least 3 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Malignant diseases&#xD;
+&#xD;
+          -  Recent or current hospitalization&#xD;
+&#xD;
+          -  Postoperative phase&#xD;
+&#xD;
+          -  Acute infections&#xD;
+&#xD;
+          -  Malnutrition&#xD;
+&#xD;
+          -  Antibiotic treatment within the last 4 weeks&#xD;
+&#xD;
+          -  Regular intake of probiotics and/or prebiotics&#xD;
+&#xD;
+          -  Change of body weight of more than 2 kg in the month prior to study entry&#xD;
+&#xD;
+          -  Known drug or alcohol abuse&#xD;
+&#xD;
+        Changes applied in July 2022 according to amendment no. 1:&#xD;
+&#xD;
+          -  Two inclusion criteria were changed to improve recruitment&#xD;
+&#xD;
+               -  Age range was changed from 18-70 to 18-75 years&#xD;
+&#xD;
+               -  BMI range was changed from 18.5 - 34.9 to 25.0 - 39.9 kg/m^2&#xD;
+&#xD;
+          -  The intervention scheme was adapted to increase patient adherence&#xD;
+&#xD;
+               -  A 7-day adaption phase with half of the dose (15 grams per day) at the start of&#xD;
+                  the intervention was introduced, changing treatment duration from 28 to 35 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anja Mähler, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charite University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nicola Wilck, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charite University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Victoria McParland, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charite University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Johannes Holle, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charite University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Victoria McParland, PhD</last_name>
+    <phone>+49 30 450 540 464</phone>
+    <email>victoria.mcparland@charite.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Experimental and Clinical Research Center</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Victoria McParland, PhD</last_name>
+      <phone>+4930450540464</phone>
+      <email>victoria.mcparland@charite.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicola Wilck, MD</last_name>
+      <phone>+4930450540459</phone>
+      <email>nicola.wilck@charite.de</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2021</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Charite University, Berlin, Germany</investigator_affiliation>
+    <investigator_full_name>Anja Maehler</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Hemodialysis</keyword>
+  <keyword>Fiber</keyword>
+  <keyword>Zonulin</keyword>
+  <keyword>Short chain fatty acids</keyword>
+  <keyword>Dietary analysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results of reported articles (text, tables, figures, supplemental data) will be shared after deidentification.</ipd_description>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Researchers who provide a methodologically sound proposal.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

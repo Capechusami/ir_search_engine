@@ -1,0 +1,290 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05076292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>78618</org_study_id>
+    <secondary_id>2021-001342-34</secondary_id>
+    <nct_id>NCT05076292</nct_id>
+  </id_info>
+  <brief_title>Low-dose Glucagon for Prevention of Exercise-Induced Hypoglycemia in People With Type 1 Diabetes</brief_title>
+  <official_title>Low-dose Glucagon for Prevention of Exercise-Induced Hypoglycemia in People With Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Steno Diabetes Center Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Steno Diabetes Center Copenhagen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of the study is to compare the efficacy of single-administration low-dose&#xD;
+      glucagon and split-administration low-dose glucagon to placebo for prevention of&#xD;
+      exercise-induced hypoglycemia in people with type 1 diabetes using insulin pumps and multiple&#xD;
+      daily injections (MDI).&#xD;
+&#xD;
+      The secondary aim is to compare the accuracy of three continuous glucose monitors (CGM)&#xD;
+      during and after exercise in inpatient and outpatient settings.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A randomized, single-blinded, placebo-controlled three-arm cross-over study will be conducted&#xD;
+      to assess the study objectives. 22 participants with type 1 diabetes will complete three&#xD;
+      study visits in random order. At every visit the participants will exercise for 60 min&#xD;
+      receiving different low doses of glucagon before or before and after exercise compared with&#xD;
+      placebo.&#xD;
+&#xD;
+      During the visits and in an outpatient period the participants will have 3 different CGM&#xD;
+      devices installed and the values will be compared with self-monitored blood glucose values.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 23, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>A randomized, single-blinded, placebo-controlled three-arm cross-over study</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Single-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence rate of hypoglycemia (PG &lt; 3.9 mmol/l)</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time below range (PG &lt; 3.9)</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time in range (PG ≥ 3.9 mmol/l and ≤ 10.0 mmol/l)</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (min) to hypoglycemia (PG &lt; 3.9 mmol/l)</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma glucose levels</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rate of hyperglycemia (PG &gt; 10 mmol/l)</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nadir plasma glucose concentration</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak plasma glucose concentration</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incremental peak in plasma glucose concentration</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean plasma glucose concentration</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma glucose Area Under the Curve (AUC)</measure>
+    <time_frame>From 0 to 180 min post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time in hyperglycemia (PG &gt; 10 mmol/l)</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in visual analogue scale (VAS) for nausea, headache, stomachache, injection site pain and palpitations from intervention (tintervention = 0) to 180 min post-intervention</measure>
+    <time_frame>From 0-180 minutes post-intervention</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean absolute relative difference (MARD) during the 60-minutes exercise session (using SMBG as the reference value)</measure>
+    <time_frame>During exercise</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MARD during the three-day outpatient period (using the 5 daily SMBG as the reference value)</measure>
+    <time_frame>During the three-day outpatient period</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MARD during the three-hour inpatient study visit (using YSI as reference value)</measure>
+    <time_frame>During exercise</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate-of change (ROC) accuracy (using SMBG and YSI as the reference value)</measure>
+    <time_frame>During exercise and during the three-day outpatient period</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Point accuracy with the Clarke Error Grid Analysis (CEGA) (using SMBG and YSI as the reference value)</measure>
+    <time_frame>During exercise and during the three-day outpatient period</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">22</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <condition>Hypoglycemia</condition>
+  <arm_group>
+    <arm_group_label>150 ug glucagon before exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>150 ug glucagon will be administered subcutaneously just before exercise and placebo will be administered after exercise.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2*75 ug glucagon before exercise and after exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>75 ug glucagon will be administered subcutaneously just before exercise and another 75 ug of glucagon will be administered immediately after exercise.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Saline as placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Saline as placebo will be administered in the same amount as glucagon before and after exercise.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GlucaGen</intervention_name>
+    <description>150 ug or 75*2 ug glucagon will be administered subcutaneously to the participants before and after exercise.</description>
+    <arm_group_label>150 ug glucagon before exercise</arm_group_label>
+    <arm_group_label>2*75 ug glucagon before exercise and after exercise</arm_group_label>
+    <other_name>Glucagon, GlucaGen®, Novo Nordisk, ATC code H04AA01</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>Saline will be used as placebo before and after exercise.</description>
+    <arm_group_label>Saline as placebo</arm_group_label>
+    <other_name>ATC-code: Natriumklorid isotonisk &quot;BAUER&quot; B05BB01, V07AB</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18&#xD;
+&#xD;
+          -  T1D ≥ 2 years&#xD;
+&#xD;
+          -  Use of insulin pump or MDI therapy for ≥ 6 months&#xD;
+&#xD;
+          -  Current use of insulin aspart&#xD;
+&#xD;
+          -  HbA1c ≤ 70mmol/mol (8.5%)&#xD;
+&#xD;
+          -  Body mass index (BMI) ≤ 30 kg/m2&#xD;
+&#xD;
+          -  Performs exercise ≥1 time per week&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of anti-diabetic medicine (other than insulin), corticosteroids or other drugs&#xD;
+             affecting glucose metabolism during the study period and within 30 days prior to study&#xD;
+             start&#xD;
+&#xD;
+          -  Professional athletes or highly active individuals ( ≥ 5 hours of exercise per week)&#xD;
+&#xD;
+          -  Known or suspected allergies to glucagon or related products&#xD;
+&#xD;
+          -  History of hypersensitivity or allergic reaction to glucagon or lactose&#xD;
+&#xD;
+          -  Allergy to the patch of the CGM devices&#xD;
+&#xD;
+          -  Patients with pheochromocytoma, insulinoma or gastroparesis&#xD;
+&#xD;
+          -  Females of childbearing potential who are pregnant, breast-feeding or intend to become&#xD;
+             pregnant or are not using adequate contraceptive methods (methods are considered&#xD;
+             adequate for study enrollment for females: an intrauterine device, hormonal&#xD;
+             contraception (birth control pills, implant, patch, vaginal ring or injection), a&#xD;
+             single partner who is sterile or infertile, or sexual abstinence. Contraception is&#xD;
+             required throughout the study duration. Sterilized or postmenopausal women (&gt;12 months&#xD;
+             since last period) are not required to use contraception)&#xD;
+&#xD;
+          -  Inability to understand the individual information and to give informed consent&#xD;
+&#xD;
+          -  Current participation in another clinical trial that, in the judgment of the&#xD;
+             investigator, will compromise the results of the study or the safety of the subject&#xD;
+&#xD;
+          -  Concomitant medical or psychological conditions identified through review of medical&#xD;
+             history, physical examination and clinical laboratory analysis that, according to the&#xD;
+             investigator's assessment, makes the individual unsuitable for study participation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sissel B Lundemose, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Steno Diabetes Center Copenhagen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sissel B Lundemose, MD</last_name>
+    <phone>24846602</phone>
+    <email>sissel.lundemose@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sissel Banner Lundemose</name>
+      <address>
+        <city>Gentofte</city>
+        <zip>2820</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sissel B Lundemose, MD</last_name>
+      <phone>24846602</phone>
+      <email>sissel.lundemose@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>September 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>May 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 5, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type 1 Diabetes</keyword>
+  <keyword>Exercise</keyword>
+  <keyword>Hypoglycemia</keyword>
+  <keyword>Glucagon</keyword>
+  <keyword>Continuous Glucose Monitoring</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+    <mesh_term>Hypoglycemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glucagon</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

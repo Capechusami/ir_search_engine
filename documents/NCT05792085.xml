@@ -1,0 +1,243 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05792085</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00000000000</org_study_id>
+    <nct_id>NCT05792085</nct_id>
+  </id_info>
+  <brief_title>Improving HF Treatment and GDMT in IHS</brief_title>
+  <official_title>Improving the Quality of Heart Failure Care Among American Indian Patients in the Indian Health Service: A Pragmatic Clinic Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Indian Health Service</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Heart failure causes significant morbidity and mortality, particularly in Navajo Nation.&#xD;
+      There are well-established evidence of improved mortality and lower heart failure&#xD;
+      hospitalizations with certain pharmacotherapies for heart failure with reduced ejection&#xD;
+      fraction (HFrEF). However, these medications are underutilized nationally, including in the&#xD;
+      Indian Health Service which is one important driver of poor heart failure outcomes.&#xD;
+      Therefore, as part of an EHR-based pragmatic clinic trial, we are implementing and testing a&#xD;
+      model that identifies American Indian HFrEF patients receiving care at one large Indian&#xD;
+      Health Service Site who meet clinical criteria for, but are not on appropriate therapy, and&#xD;
+      implement a model in which our study team will get patients on appropriate therapy while also&#xD;
+      supporting primary care providers with cardiology telementorship. We will evaluate the impact&#xD;
+      of this model to improve uptake of GDMT among HFrEF patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 3, 2023</start_date>
+  <completion_date type="Anticipated">June 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Waitlist Design with Crossover</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage that had Increase in Classes of Guideline Directed Medical Therapy</measure>
+    <time_frame>30 days</time_frame>
+    <description>% of Patients that had Increase in the number of classes of Guideline Directed Medical Therapy (Beta-blocker, ACEi/Angiotensin receptor blockers, Angiotensin Receptor-Neprilysin Inhibitor, Aldosterone receptor antagonists, SGLT2i)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage that had Increase in Classes of Guideline Directed Medical Therapy</measure>
+    <time_frame>60 days</time_frame>
+    <description>% of Patients that had Increase in the number of classes of Guideline Directed Medical Therapy (Beta-blocker, Angiotensin-converting enzyme inhibitors/Angiotensin receptor blockers, Angiotensin Receptor-Neprilysin Inhibitor, Aldosterone receptor antagonists, Sodium-glucose co-transporter 2 inhibitors)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage that had Increase in Classes of Guideline Directed Medical Therapy</measure>
+    <time_frame>6 months</time_frame>
+    <description>% of Patients that had Increase in the number of classes of Guideline Directed Medical Therapy (Beta-blocker, Angiotensin-converting enzyme inhibitors/Angiotensin receptor blockers, Angiotensin Receptor-Neprilysin Inhibitor, Aldosterone receptor antagonists, Sodium-glucose co-transporter 2 inhibitors)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage that had Increase in Classes of Guideline Directed Medical Therapy</measure>
+    <time_frame>12 months</time_frame>
+    <description>% of Patients that had Increase in the number of classes of Guideline Directed Medical Therapy (B-blocker, Angiotensin-converting enzyme inhibitors/Angiotensin receptor blockers, Angiotensin Receptor-Neprilysin Inhibitor, Aldosterone receptor antagonists, Sodium-glucose co-transporter 2 inhibitors)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Angiotensin Receptor-Neprilysin Inhibitor</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Rates of Rx for Entresto (Sacubritril-Valsartan)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Sodium-glucose co-transporter 2 inhibitors</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Rates of Rx for Sodium-glucose co-transporter 2 inhibitors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Aldosterone receptor antagonists</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Rates of Rx for Aldosterone receptor antagonists</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Angiotensin-converting enzyme inhibitors</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Rates of Rx for Angiotensin-converting enzyme inhibitors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Angiotensin receptor blockers</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Rates of Rx for Angiotensin receptor blockers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose change of Angiotensin receptor blockers</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Dose change of Rx for Angiotensin receptor blockers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose change of Angiotensin Receptor-Neprilysin Inhibitor</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Dose change of Rx for Angiotensin Receptor-Neprilysin Inhibitor</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose change of Angiotensin-converting enzyme inhibitors</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Dose change of Rx for Angiotensin-converting enzyme inhibitors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose change of Beta-blocker</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Dose change of Rx for Beta-blocker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose change of Aldosterone receptor antagonists</measure>
+    <time_frame>30 days, 60 days, 6 months, 12 months</time_frame>
+    <description>Dose change of Rx for Aldosterone receptor antagonists</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Patient and Provider Satisfaction</measure>
+    <time_frame>1, 6 months</time_frame>
+    <description>Through a provider survey, we will assess how satisfied (1-10) patients and (separately) providers are with the implementation of this model.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Provider Comfort with Guideline Directed Medical Therapy prescribing</measure>
+    <time_frame>Baseline, 1, 6 months</time_frame>
+    <description>Baseline and follow up comfort prescribing therapy: Through survey we will assess at baseline and on follow-up how comfortable (from 1-10) providers feel with prescribing each of the following medications: Beta-blocker, Aldosterone receptor antagonist, Angiotensin-converting enzyme inhibitors, Angiotensin Receptor-Neprilysin Inhibitors, Sodium-glucose co-transporter 2 inhibitors.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>GDMT EHR-Model</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patient enrolled in the GDMT EHR-based HF improvement program</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Usual care, control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>EHR-based GDMT Optimization</intervention_name>
+    <description>Patients will be prescribed appropriate GDMT for HFrEF if they meet clinical criteria by the study team, appropriate lab work and follow up testing will be sent and followed up by the team. All recommendations and plans will be copied to primary care providers who can opt out if disagree, but also to improve telementoring to build clinical comfort.</description>
+    <arm_group_label>GDMT EHR-Model</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with heart failure with reduced ejection fraction with last ejection fraction&#xD;
+             equal to or less than 40%&#xD;
+&#xD;
+          -  Have a primary care physician at Gallup Indian Medical Center or Tohatchi Health&#xD;
+             Center&#xD;
+&#xD;
+          -  Have been seen in the last 12 months at Gallup Indian Medical Center or Tohatchi&#xD;
+             Health Center&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  On hospice&#xD;
+&#xD;
+          -  LVAD/translant&#xD;
+&#xD;
+          -  Home inotropes&#xD;
+&#xD;
+          -  No visit in last 12 months at Gallup Indian Medical Center or Tohatchi Health Center&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maricruz Merino, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Indian Health Service</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lauren Eberly, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indian Health Service, Upenn</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lauren Eberly, MD, MPH</last_name>
+    <phone>267-624-4449</phone>
+    <email>Lauren.Eberly@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Gallup Indian Medical Center</name>
+      <address>
+        <city>Gallup</city>
+        <state>New Mexico</state>
+        <zip>87301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lauren Eberly, MD, MPH</last_name>
+      <phone>267-624-4449</phone>
+      <email>Lauren.Eberly@pennmedicine.upenn.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 26, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2023</study_first_posted>
+  <last_update_submitted>March 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Patient data is protected by the Navajo Nation Human Research Board</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

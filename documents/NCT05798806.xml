@@ -1,0 +1,167 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798806</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2394</org_study_id>
+    <nct_id>NCT05798806</nct_id>
+  </id_info>
+  <brief_title>Predictive Model of Axillary Nodal Status After Neoadjuvant Chemotherapy in Breast Cancer Patients</brief_title>
+  <acronym>LNNEO</acronym>
+  <official_title>Retrospective, Observational, Multicentric Study Aimed at Developing a Model for Prediction of Axillary Lymph Node Status After Neoadjuvant Chemotherapy in Breast Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituti Clinici Scientifici Maugeri SpA</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituti Clinici Scientifici Maugeri SpA</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The management of patients diagnosed with breast cancer (BC) with axillary nodal involvement&#xD;
+      is still a controversial topic. These patients' treatment usually involves the administration&#xD;
+      of a neoadjuvant chemotherapy (NAC) in order to improve survival rates and increase local&#xD;
+      disease control. Depending on the tumor subtype, an axillary pathologic complete response&#xD;
+      (pCR) is achieved in 40-70% of initially axillary node-positive patients (cN+). Concerning&#xD;
+      patients with an axillary pCR, thus a clinically negative node status (cN0), axillary&#xD;
+      lymphadenectomy (ALND) might be replaced by less invasive surgical approaches and sentinel&#xD;
+      lymph node biopsy (SLNB) is considered, in these cases, an effective alternative treatment.&#xD;
+&#xD;
+      However, the relatively high false negative rates, reported in several validation trials,&#xD;
+      points out the complexity concerning these patients' treatment. Moreover, histological&#xD;
+      findings' predictive and prognostic value, after SLNB, of micrometastases and isolated tumor&#xD;
+      cells (ITCs) is still unclear.&#xD;
+&#xD;
+      Currently, dual-tracer-guided lymph node biopsy and the surgical removal of ≥ 3 sentinel&#xD;
+      lymph nodes are known as effective strategies aimed to reduce the false negative rates.&#xD;
+&#xD;
+      There are several ongoing clinical trials to understand and define the best approach for&#xD;
+      these patients.&#xD;
+&#xD;
+      Nowadays, there's great interest in potential prognostic role of systemic inflammation's&#xD;
+      biochemical markers such as neutrophil-to-lymphocyte ratio (NLR). Systemic inflammation's&#xD;
+      markers may be nodal pCR's predictors after NAC in node-positive breast cancer patients.&#xD;
+&#xD;
+      The aim of the study is to develop and validate a pre-operative model, able to predict pCR&#xD;
+      after NAC to select the patients suitable for a surgery de-escalation strategy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a retrospective, observational, multicentric and no profit study. The study involves&#xD;
+      patients with diagnosis of cN+ breast cancer who underwent neoadjuvant treatment and then&#xD;
+      treated with lymph node biopsy or axillary lymphadenectomy, referring to the participating&#xD;
+      centers.&#xD;
+&#xD;
+      For each patient the following clinical-anamnestic information will be collected: age,&#xD;
+      pre-NAC blood cell count, tumor dimension, clinical staging (cT, cN), histological&#xD;
+      information (tumor subtype, grading, receptors' status, Ki-67 value), neoadjuvant treatment&#xD;
+      regimen, clinical and radiological local response after NAC, clinical and radiological nodal&#xD;
+      response after NAC, type of surgery, number of examined lymph nodes, number of positive lymph&#xD;
+      nodes, pathological staging after surgery (ypT, ypN).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 4, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Actual">May 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Selection of features</measure>
+    <time_frame>48 months</time_frame>
+    <description>Identification of pre-operative clinical-pathological features predictive for ypN0 status after NAC in patients with cN+ breast cancer (Logistic regression model will be performed)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Nomogram</measure>
+    <time_frame>48 months</time_frame>
+    <description>Development and validation of a nomogram, based on selected clinical-pathological features, able to predict nodal status after neoadjuvant chemoterapy</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">1950</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients with diagnosis of cN+ breast cancer who underwent neoadjuvant treatment</arm_group_label>
+    <description>Patients with diagnosis of cN+ breast cancer who underwent neoadjuvant treatment and then treated with lymph node biopsy or axillary lymphadenectomy</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study involves patients with diagnosis of cN+ breast cancer who underwent neoadjuvant&#xD;
+        chemotherapy and afterwards treated with lymph node biopsy or axillary lymphadenectomy,&#xD;
+        referring to the participating centers.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of breast cancer confirmed by histological examination&#xD;
+&#xD;
+          -  Patients who underwent neoadjuvant chemotherapy&#xD;
+&#xD;
+          -  Axillary lymph nodes involvement at diagnosis (cN≥1), identified by clinical&#xD;
+             examination and/or imaging techniques and/or axillary lymph node cytology aspirate&#xD;
+             positive for breast cancer cells.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with M+ at diagnosis&#xD;
+&#xD;
+          -  Contraindications for neoadjuvant chemotherapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Breast cancer is gender based</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Istituti Clinici Scientifici Maugeri SpA</name>
+      <address>
+        <city>Pavia</city>
+        <state>Lombardia</state>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 22, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istituti Clinici Scientifici Maugeri SpA</investigator_affiliation>
+    <investigator_full_name>fabio.corsi@icsmaugeri.it</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

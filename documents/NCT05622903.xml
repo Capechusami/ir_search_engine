@@ -1,0 +1,205 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622903</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022P000093</org_study_id>
+    <nct_id>NCT05622903</nct_id>
+  </id_info>
+  <brief_title>Effect of Cash Benefits on Health Care Utilization</brief_title>
+  <official_title>Effect of Cash Benefits on Health Care Utilization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Harvard Medical School (HMS and HSDM)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cambridge Health Alliance</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Harvard Medical School (HMS and HSDM)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Using data from the Chelsea Eats program, we propose to study a randomized controlled trial&#xD;
+      in which the City of Chelsea, Massachusetts held a lottery to allocate cash benefits to its&#xD;
+      residents for ten months during the first two years of the COVID-19 pandemic. We will analyze&#xD;
+      the impact of the cash benefit on health care utilization and health.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 27, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2023</completion_date>
+  <primary_completion_date type="Actual">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Emergency department use</measure>
+    <time_frame>10 months</time_frame>
+    <description>Count of visits to the emergency department (ED) using the electronic health record</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Behavioral health-related ED visit</measure>
+    <time_frame>10 months</time_frame>
+    <description>Visits to the ED with a behavioral health-related diagnosis code</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Substance use disorder-related ED visit</measure>
+    <time_frame>10 months</time_frame>
+    <description>Visits to the ED with a substance use disorder-related diagnosis code</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potentially avoidable ED visit</measure>
+    <time_frame>10 months</time_frame>
+    <description>Visits to the ED that are potentially avoidable, categorized as avoidable according to the previously validated New York University algorithm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ED visit resulting in admission to the hospital</measure>
+    <time_frame>10 months</time_frame>
+    <description>Visits to the ED that result in a hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Outpatient service use</measure>
+    <time_frame>10 months</time_frame>
+    <description>Office visits and visits for other types of outpatient care such as imaging and procedures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID vaccination</measure>
+    <time_frame>10 months</time_frame>
+    <description>Binary variable for having received at least one dose of any COVID vaccine by the end of the trial period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin A1c</measure>
+    <time_frame>10 months</time_frame>
+    <description>Continuous measure of diabetes, using the latest available reading or result during trial period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood pressure</measure>
+    <time_frame>10 months</time_frame>
+    <description>Continuous measure of blood pressure, using the latest available reading or result during trial period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight</measure>
+    <time_frame>10 months</time_frame>
+    <description>Continuous measure of weight, using the latest available reading or result during trial period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cholesterol</measure>
+    <time_frame>10 months</time_frame>
+    <description>Continuous measure of cholesterol, using the latest available reading or result during trial period</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3615</enrollment>
+  <condition>Health Care Utilization</condition>
+  <arm_group>
+    <arm_group_label>Treatment Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the treatment group received up to $400 per month.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in the control group did not receive monthly cash benefits.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cash Benefit</intervention_name>
+    <description>Spending from the cards was not restricted to food but could be spent on anything and anywhere Visa was accepted. The debit cards were credited with the first payment on November 18th, 2020 and the second payment on December 18th, 2020. The program continued with monthly credits through August 2021.</description>
+    <arm_group_label>Treatment Group</arm_group_label>
+    <other_name>Basic Income</other_name>
+    <other_name>Debit Card</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No Cash Benefit</intervention_name>
+    <description>No monthly cash benefit.</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Resident of Chelsea, Massachusetts&#xD;
+&#xD;
+          -  Household income at or below 30% of the U.S. Department of Housing and Urban&#xD;
+             Development's Area Median Income&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  See inclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sumit Agarwal, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital and Harvard Medical School</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Harvard Medical School</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Harvard Medical School (HMS and HSDM)</investigator_affiliation>
+    <investigator_full_name>Sumit Agarwal</investigator_full_name>
+    <investigator_title>Instructor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 14, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/03/NCT05622903/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

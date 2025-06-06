@@ -1,0 +1,389 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621837</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INT 48/21</org_study_id>
+    <nct_id>NCT05621837</nct_id>
+  </id_info>
+  <brief_title>Quantifying Systemic Immunosuppression to Personalize Cancer Therapy</brief_title>
+  <acronym>Serpentine</acronym>
+  <official_title>Quantifying Systemic Immunosuppression to Personalize Cancer Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Serpentine (Stratify cancER PatiENTs by ImmuNosupprEssion) project, represents the most&#xD;
+      consistent effort so far attempted to translate MDSC into clinical practise by producing an&#xD;
+      off-the-shelf compliant assay for quantifying these cells in peripheral blood.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will demonstrate that this assay helps personalizing cancer therapies by tailoring&#xD;
+      them to immune patient features. The project will also take advantage of innovative and&#xD;
+      high-throughput techniques to define additional MDSC related biomarkers and, most&#xD;
+      importantly, to identify novel drugs for Myeloid-derived Suppressor Cells (MDSC) blocking in&#xD;
+      predisposed patients. Finally,it will perform the first survey assessing the link between&#xD;
+      MDSC and &quot;perceived social isolation&quot;, an emerging western social problem recently shown to&#xD;
+      cause myeloid cell dysfunction and immunosuppression though neuroendocrine circuits.&#xD;
+      Globally, the Serpentine proposal has the ambitious goal to translate into the clinical&#xD;
+      oncological practise the use of MDSC quantification as a tool for the systematic assessment&#xD;
+      of systemic immunosuppression, providing at the same time operational insights into the&#xD;
+      strategies to overcome this pillar mechanism of cancer progression.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 10, 2022</start_date>
+  <completion_date type="Anticipated">May 17, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 17, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immunological endpoint</measure>
+    <time_frame>baseline, that is prior to start the therapy (Visit_1)</time_frame>
+    <description>Frequency, in terms of percentage and absolute count of the defined cell subsets in whole blood and stored PBMC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological endpoint</measure>
+    <time_frame>around one month/before the time-corresponding treatment cycle (Visit_2)</time_frame>
+    <description>Frequency, in terms of percentage and absolute count of the defined cell subsets in whole blood and stored PBMC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological endpoint</measure>
+    <time_frame>around three months/before the time-corresponding treatment cycle (Visit_3)</time_frame>
+    <description>Frequency, in terms of percentage and absolute count of the defined cell subsets in whole blood and stored PBMC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological endpoint</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Frequency, in terms of percentage and absolute count of the defined cell subsets in whole blood and stored PBMC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical endpoint_PFS</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Progression-Free Survival (PFS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical endpoint_OS</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Overall Survival (OS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical endpoint_ORR</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Overall Response Rate (ORR)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Myeloid Index Score (MIS)</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Myeloid Index Score (MIS)=0 vs MIS&gt;0 or higher values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Index score values</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Index score values on plasma cytokine concentration or MDSC-miRs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transcriptional signatures_PBMC</measure>
+    <time_frame>baseline, that is prior to start the therapy (Visit_1) or at the first disease evaluation (around after three months)</time_frame>
+    <description>Transcriptional signatures identified on PBMC and sorted myeloid cells form whole blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transcriptional signatures_myeloid cells</measure>
+    <time_frame>baseline, that is prior to start the therapy (Visit_1) or at the first disease evaluation (around after three months)</time_frame>
+    <description>Transcriptional signatures identified on sorted myeloid cells form whole blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phospho-kinome signature result</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Phospho-kinome signature as assessed by Cytof analysis in stored PBMC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Metabolomic profiles</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>The concentration of individual metabolites or cluster of metabolites implicated in amino acid and lipid metabolism</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Socio-Economical-Psychological (SEP) score</measure>
+    <time_frame>Through study completion, an average of 2 year</time_frame>
+    <description>Socioeconomic and psychological (perceived social isolation) score, calculated through a dedicated questionnaire</description>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Melanoma</condition>
+  <condition>Breast Cancer</condition>
+  <condition>Renal Cell Carcinoma</condition>
+  <condition>Urinary Bladder Cancer</condition>
+  <condition>Squamous Cell Carcinoma of Head and Neck</condition>
+  <condition>Small Cell Carcinoma</condition>
+  <condition>NSCLC</condition>
+  <arm_group>
+    <arm_group_label>Metastatic melanoma patients</arm_group_label>
+    <description>MDSC quantification in Metastatic melanoma patients undergoing first/second-line treatment with BRAF and MEK inhibitors (BRAFi+MEKi) or immune checkpoint inhibitors (antagonists of PD-1 or CTL4, or both) (n=100);</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>hormone receptor positive/Human Epidermal growth factor Receptor-2 negative cancer patients</arm_group_label>
+    <description>MDSC quantification in Metastatic HR+(hormone receptor positive)/ HER2-(Human Epidermal growth factor Receptor-2 negative) breast cancer patients already treated with a combination of an hormonal agent and a CDK(Cyclin-dependent kinase)4/6 inhibitor and receiving chemotherapy (n=100);</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Advanced RCC(renal cell carcinoma) patients</arm_group_label>
+    <description>MDSC quantification Advanced RCC patients receiving immune checkpoint inhibitors (antagonists of PD-1, PD-L1 or CTL4, or combinations) or anti-angiogenics alone or combined with immune checkpoint inhibitors; locally advanced/metastatic UC(Urothelial Carcinoma) patients receiving first-line chemotherapy, immune checkpoint inhibitors or combinations (n=100);</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SCCHN or SCC(Small Cell Carcinoma) patients</arm_group_label>
+    <description>MDSC quantification in SCCHN or SCC(Small Cell Carcinoma) patients treated with first-line chemotherapy, cetuximab,immune checkpoint inhibitors or combinations (n=100).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NSCLC patients</arm_group_label>
+    <description>MDSC quantification in NSCLC patients undergoing radical surgery for stage III cancer (n=100);patients with unresectable/metastatic NSCLC receiving first line treatment with chemotherapy, immune checkpoint inhibitors (antagonists of PD-1, PD-L1 or CTL4) or combinations (n=100).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Age and gender-matched healthy donors</arm_group_label>
+    <description>Age and gender-matched healthy donors (n=400) will be enrolled in the study, to allow us investigating the same immunological parameters under physiological conditions and define normal values for the myeloid-related biomarkers here assessed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MDSC quantification</intervention_name>
+    <description>Blood sample will be collected at baseline and during therapy, and, optionally, in case of disease progression (PD).</description>
+    <arm_group_label>Advanced RCC(renal cell carcinoma) patients</arm_group_label>
+    <arm_group_label>Age and gender-matched healthy donors</arm_group_label>
+    <arm_group_label>Metastatic melanoma patients</arm_group_label>
+    <arm_group_label>NSCLC patients</arm_group_label>
+    <arm_group_label>SCCHN or SCC(Small Cell Carcinoma) patients</arm_group_label>
+    <arm_group_label>hormone receptor positive/Human Epidermal growth factor Receptor-2 negative cancer patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood sample;if available, archival tumor biopsies: they will also be collected to&#xD;
+      perform the characterization of the immune infiltrate by immunohistochemistry (starting from&#xD;
+      CD8+(cytotoxic T lymphocytes)/CD163+ ratio) or by transcriptional profile, including&#xD;
+      IFN(Interferon) and adaptive immunity- related signatures.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with five diverse tumor histotypes (n=600) will be collected in parallel clinical&#xD;
+        case-sets, with power calculation estimated on the basis of MIS validation in melanoma&#xD;
+        (n=100 patients per histotypes, with the exception of the 200 patients to be enrolled for&#xD;
+        NSCLC). In addition, a group of age and gender-matched healthy donors (n=400) will be also&#xD;
+        included to provide normal values of the myeloid-related parameters under physiological&#xD;
+        conditions.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Histologically documented diagnosis of metastatic/locally advanced melanoma,&#xD;
+             hormone-refractory breast cancer, RCC and UC, SCCHN, SCC or NSCLC, stage III&#xD;
+             resectable NSCLC will also be included&#xD;
+&#xD;
+          -  Will and ability to comply with the protocol&#xD;
+&#xD;
+          -  Willingness and ability to provide an adequate archival Formalin-Fixed&#xD;
+             Paraffin-Embedded (FFPE) tumor sample available for exploratory biomarker analysis&#xD;
+&#xD;
+          -  Age from 18 to 90 years at the time of recruitment&#xD;
+&#xD;
+          -  ECOG Performance Status &lt;= 2&#xD;
+&#xD;
+          -  Understanding and signature of the informed consent&#xD;
+&#xD;
+          -  Consenting to participate to the socio-economical-psychological survey&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Known history of HIV infection&#xD;
+&#xD;
+          -  Serious neurological or psychiatric disorders&#xD;
+&#xD;
+          -  Pregnancy or lactation&#xD;
+&#xD;
+          -  Inability or unwillingness of participant to give written informed consent&#xD;
+&#xD;
+          -  Inability or unwillingness to be regularly followed up at the same center&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Licia Rivoltini</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fondazione IRCCS Istituto Nazionale Tumori - Milan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Licia Rivoltini</last_name>
+    <phone>+3902/23903245</phone>
+    <email>licia.rivoltini@istitutotumori.mi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Paola Frati</last_name>
+    <phone>+3902/23903036</phone>
+    <email>paola.frati@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Istituto Nazionale dei Tumori</name>
+      <address>
+        <city>Milan</city>
+        <zip>20033</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Licia Rivoltini, MD</last_name>
+      <phone>+3902/23903245</phone>
+      <email>licia.rivoltini@istitutotumori.mi.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Paola Frati</last_name>
+      <phone>+3902/23903036</phone>
+      <email>paola.frati@istitutotumori.mi.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Huber V, Vallacchi V, Fleming V, Hu X, Cova A, Dugo M, Shahaj E, Sulsenti R, Vergani E, Filipazzi P, De Laurentiis A, Lalli L, Di Guardo L, Patuzzo R, Vergani B, Casiraghi E, Cossa M, Gualeni A, Bollati V, Arienti F, De Braud F, Mariani L, Villa A, Altevogt P, Umansky V, Rodolfo M, Rivoltini L. Tumor-derived microRNAs induce myeloid suppressor cells and predict immunotherapy resistance in melanoma. J Clin Invest. 2018 Dec 3;128(12):5505-5516. doi: 10.1172/JCI98060. Epub 2018 Nov 5.</citation>
+    <PMID>30260323</PMID>
+  </reference>
+  <reference>
+    <citation>Ribas A, Wolchok JD. Cancer immunotherapy using checkpoint blockade. Science. 2018 Mar 23;359(6382):1350-1355. doi: 10.1126/science.aar4060. Epub 2018 Mar 22.</citation>
+    <PMID>29567705</PMID>
+  </reference>
+  <reference>
+    <citation>Galluzzi L, Buque A, Kepp O, Zitvogel L, Kroemer G. Immunological Effects of Conventional Chemotherapy and Targeted Anticancer Agents. Cancer Cell. 2015 Dec 14;28(6):690-714. doi: 10.1016/j.ccell.2015.10.012.</citation>
+    <PMID>26678337</PMID>
+  </reference>
+  <reference>
+    <citation>Apetoh L, Tesniere A, Ghiringhelli F, Kroemer G, Zitvogel L. Molecular interactions between dying tumor cells and the innate immune system determine the efficacy of conventional anticancer therapies. Cancer Res. 2008 Jun 1;68(11):4026-30. doi: 10.1158/0008-5472.CAN-08-0427.</citation>
+    <PMID>18519658</PMID>
+  </reference>
+  <reference>
+    <citation>Peguillet I, Milder M, Louis D, Vincent-Salomon A, Dorval T, Piperno-Neumann S, Scholl SM, Lantz O. High numbers of differentiated effector CD4 T cells are found in patients with cancer and correlate with clinical response after neoadjuvant therapy of breast cancer. Cancer Res. 2014 Apr 15;74(8):2204-16. doi: 10.1158/0008-5472.CAN-13-2269. Epub 2014 Feb 17.</citation>
+    <PMID>24535711</PMID>
+  </reference>
+  <reference>
+    <citation>Wilmott JS, Long GV, Howle JR, Haydu LE, Sharma RN, Thompson JF, Kefford RF, Hersey P, Scolyer RA. Selective BRAF inhibitors induce marked T-cell infiltration into human metastatic melanoma. Clin Cancer Res. 2012 Mar 1;18(5):1386-94. doi: 10.1158/1078-0432.CCR-11-2479. Epub 2011 Dec 12.</citation>
+    <PMID>22156613</PMID>
+  </reference>
+  <reference>
+    <citation>Steinberg SM, Shabaneh TB, Zhang P, Martyanov V, Li Z, Malik BT, Wood TA, Boni A, Molodtsov A, Angeles CV, Curiel TJ, Whitfield ML, Turk MJ. Myeloid Cells That Impair Immunotherapy Are Restored in Melanomas with Acquired Resistance to BRAF Inhibitors. Cancer Res. 2017 Apr 1;77(7):1599-1610. doi: 10.1158/0008-5472.CAN-16-1755. Epub 2017 Feb 15.</citation>
+    <PMID>28202513</PMID>
+  </reference>
+  <reference>
+    <citation>Spitzer MH, Carmi Y, Reticker-Flynn NE, Kwek SS, Madhireddy D, Martins MM, Gherardini PF, Prestwood TR, Chabon J, Bendall SC, Fong L, Nolan GP, Engleman EG. Systemic Immunity Is Required for Effective Cancer Immunotherapy. Cell. 2017 Jan 26;168(3):487-502.e15. doi: 10.1016/j.cell.2016.12.022. Epub 2017 Jan 19.</citation>
+    <PMID>28111070</PMID>
+  </reference>
+  <reference>
+    <citation>Dumeaux V, Fjukstad B, Fjosne HE, Frantzen JO, Holmen MM, Rodegerdts E, Schlichting E, Borresen-Dale AL, Bongo LA, Lund E, Hallett M. Interactions between the tumor and the blood systemic response of breast cancer patients. PLoS Comput Biol. 2017 Sep 28;13(9):e1005680. doi: 10.1371/journal.pcbi.1005680. eCollection 2017 Sep.</citation>
+    <PMID>28957325</PMID>
+  </reference>
+  <reference>
+    <citation>Cortez-Retamozo V, Etzrodt M, Newton A, Rauch PJ, Chudnovskiy A, Berger C, Ryan RJ, Iwamoto Y, Marinelli B, Gorbatov R, Forghani R, Novobrantseva TI, Koteliansky V, Figueiredo JL, Chen JW, Anderson DG, Nahrendorf M, Swirski FK, Weissleder R, Pittet MJ. Origins of tumor-associated macrophages and neutrophils. Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2491-6. doi: 10.1073/pnas.1113744109. Epub 2012 Jan 30.</citation>
+    <PMID>22308361</PMID>
+  </reference>
+  <reference>
+    <citation>Gabrilovich DI. Myeloid-Derived Suppressor Cells. Cancer Immunol Res. 2017 Jan;5(1):3-8. doi: 10.1158/2326-6066.CIR-16-0297.</citation>
+    <PMID>28052991</PMID>
+  </reference>
+  <reference>
+    <citation>Groth C, Hu X, Weber R, Fleming V, Altevogt P, Utikal J, Umansky V. Immunosuppression mediated by myeloid-derived suppressor cells (MDSCs) during tumour progression. Br J Cancer. 2019 Jan;120(1):16-25. doi: 10.1038/s41416-018-0333-1. Epub 2018 Nov 9.</citation>
+    <PMID>30413826</PMID>
+  </reference>
+  <reference>
+    <citation>Ostrand-Rosenberg S. Myeloid derived-suppressor cells: their role in cancer and obesity. Curr Opin Immunol. 2018 Apr;51:68-75. doi: 10.1016/j.coi.2018.03.007. Epub 2018 Mar 13.</citation>
+    <PMID>29544121</PMID>
+  </reference>
+  <reference>
+    <citation>Wesolowski R, Markowitz J, Carson WE 3rd. Myeloid derived suppressor cells - a new therapeutic target in the treatment of cancer. J Immunother Cancer. 2013 Jul 15;1:10. doi: 10.1186/2051-1426-1-10. eCollection 2013.</citation>
+    <PMID>24829747</PMID>
+  </reference>
+  <reference>
+    <citation>Fleming V, Hu X, Weber R, Nagibin V, Groth C, Altevogt P, Utikal J, Umansky V. Targeting Myeloid-Derived Suppressor Cells to Bypass Tumor-Induced Immunosuppression. Front Immunol. 2018 Mar 2;9:398. doi: 10.3389/fimmu.2018.00398. eCollection 2018.</citation>
+    <PMID>29552012</PMID>
+  </reference>
+  <reference>
+    <citation>Engblom C, Pfirschke C, Pittet MJ. The role of myeloid cells in cancer therapies. Nat Rev Cancer. 2016 Jul;16(7):447-62. doi: 10.1038/nrc.2016.54.</citation>
+    <PMID>27339708</PMID>
+  </reference>
+  <reference>
+    <citation>Filipazzi P, Valenti R, Huber V, Pilla L, Canese P, Iero M, Castelli C, Mariani L, Parmiani G, Rivoltini L. Identification of a new subset of myeloid suppressor cells in peripheral blood of melanoma patients with modulation by a granulocyte-macrophage colony-stimulation factor-based antitumor vaccine. J Clin Oncol. 2007 Jun 20;25(18):2546-53. doi: 10.1200/JCO.2006.08.5829.</citation>
+    <PMID>17577033</PMID>
+  </reference>
+  <reference>
+    <citation>Filipazzi P, Huber V, Rivoltini L. Phenotype, function and clinical implications of myeloid-derived suppressor cells in cancer patients. Cancer Immunol Immunother. 2012 Feb;61(2):255-263. doi: 10.1007/s00262-011-1161-9. Epub 2011 Nov 27.</citation>
+    <PMID>22120756</PMID>
+  </reference>
+  <reference>
+    <citation>Blattner C, Fleming V, Weber R, Himmelhan B, Altevogt P, Gebhardt C, Schulze TJ, Razon H, Hawila E, Wildbaum G, Utikal J, Karin N, Umansky V. CCR5+ Myeloid-Derived Suppressor Cells Are Enriched and Activated in Melanoma Lesions. Cancer Res. 2018 Jan 1;78(1):157-167. doi: 10.1158/0008-5472.CAN-17-0348. Epub 2017 Oct 31.</citation>
+    <PMID>29089297</PMID>
+  </reference>
+  <reference>
+    <citation>Bronte V, Brandau S, Chen SH, Colombo MP, Frey AB, Greten TF, Mandruzzato S, Murray PJ, Ochoa A, Ostrand-Rosenberg S, Rodriguez PC, Sica A, Umansky V, Vonderheide RH, Gabrilovich DI. Recommendations for myeloid-derived suppressor cell nomenclature and characterization standards. Nat Commun. 2016 Jul 6;7:12150. doi: 10.1038/ncomms12150.</citation>
+    <PMID>27381735</PMID>
+  </reference>
+  <reference>
+    <citation>De Henau O, Rausch M, Winkler D, Campesato LF, Liu C, Cymerman DH, Budhu S, Ghosh A, Pink M, Tchaicha J, Douglas M, Tibbitts T, Sharma S, Proctor J, Kosmider N, White K, Stern H, Soglia J, Adams J, Palombella VJ, McGovern K, Kutok JL, Wolchok JD, Merghoub T. Overcoming resistance to checkpoint blockade therapy by targeting PI3Kgamma in myeloid cells. Nature. 2016 Nov 17;539(7629):443-447. doi: 10.1038/nature20554. Epub 2016 Nov 9.</citation>
+    <PMID>27828943</PMID>
+  </reference>
+  <reference>
+    <citation>Welters MJ, van der Sluis TC, van Meir H, Loof NM, van Ham VJ, van Duikeren S, Santegoets SJ, Arens R, de Kam ML, Cohen AF, van Poelgeest MI, Kenter GG, Kroep JR, Burggraaf J, Melief CJ, van der Burg SH. Vaccination during myeloid cell depletion by cancer chemotherapy fosters robust T cell responses. Sci Transl Med. 2016 Apr 13;8(334):334ra52. doi: 10.1126/scitranslmed.aad8307.</citation>
+    <PMID>27075626</PMID>
+  </reference>
+  <reference>
+    <citation>Crunkhorn S. Cancer: New path to improving immunotherapy. Nat Rev Drug Discov. 2018 Mar;17(3):164. doi: 10.1038/nrd.2018.22. Epub 2018 Feb 16. No abstract available.</citation>
+    <PMID>29449711</PMID>
+  </reference>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>October 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+    <mesh_term>Carcinoma, Small Cell</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

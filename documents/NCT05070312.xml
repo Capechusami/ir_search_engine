@@ -1,0 +1,417 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05070312</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D9182C00002</org_study_id>
+    <nct_id>NCT05070312</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics, Immunogenicity, Safety and Tolerability of MEDI3506 in Health Chinese Participants</brief_title>
+  <official_title>A Phase I, Randomized, Double-blind, Placebo-controlled, Dose-ascending Study to Evaluate the Pharmacokinetics, Immunogenicity, Safety, and Tolerability of MEDI3506 in Healthy Chinese Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to evaluate the pharmacokinetics, immunogenicity, safety and tolerability of&#xD;
+      investigational drug MEDI3506 with single dose in Healthy Chinese participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A phase I, randomised, double-blind, placebo-controlled parallel-group study to evaluate the&#xD;
+      pharmacokinetics, immunogenicity, safety, and tolerability of single dose of MEDI3506 in&#xD;
+      healthy Chinese Participants&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 23, 2021</start_date>
+  <completion_date type="Actual">February 7, 2022</completion_date>
+  <primary_completion_date type="Actual">February 7, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum observed concentration (Cmax)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To assess the maximum plasma concentration of MEDI3506 after single subcutaneous administrations in healthy Chinese participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the serum concentration time curve to the infinite (AUC0-inf)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To assess the area under the serum concentration time curve from pre-dose until infinite after single Subcutaneous administration of MEDI3506 in healthy Chinese participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the serum concentration time curve to the last observation(AUC0-t)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To assess the area under the serum concentration time curve from pre-dose until the last observation quantified after single Subcutaneous administration of MEDI3506 in healthy Chinese participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Terminal Elimination half-life (t1/2)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To assess the terminal elimination half-life after single Subcutaneous administration of MEDI3506 in healthy Chinese participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent total body Clearance (CL/F)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To evaluate the apparent MEDI3506 total body clearance from serum after single subcutaneous administration of MEDI3506 in healthy Chinese participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent volume of distribution based on terminal phase (Vz/F)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To assess the apparent volume of distribution of MEDI3506 after single subcutaneous administration of MEDI3506 in healthy Chinese participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to reach maximum observed concentration (tmax)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>To assess the MEDI3506 time to reach peak serum concentration after single subcutaneous administration of MEDI3506 in healthy Chinese participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity determined by prevalence of antidrug antibodies (ADA)</measure>
+    <time_frame>Day 1 (-30~0 min before IP administration), and on Day 8, Day 29, Day 57, Day 85 and Day 113</time_frame>
+    <description>Immunogenicity prevalence measured as number of participants with ADA positive at baseline and/or post-baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity determined by incidence of ADA</measure>
+    <time_frame>Day 1 (-30~0 min before IP administration), and on Day 8, Day 29, Day 57, Day 85 and Day 113</time_frame>
+    <description>Immunogenicity incidence measured as number of participants with positive treatment emergent ADA</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incidence of treatment-emergent AE</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>The number and percentage of participants with treatment-emergent AE will be displayed by MedDRA SOC and PT</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of treatment-emergent SAE</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>The number and percentage of participants with treatment-emergent SAE will be displayed by MedDRA SOC and PT</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by evaluation of blood pressure in mmHg</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of blood pressure (systolic and diastolic in mmHg)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by evaluation of Pulse rate in beats per minute</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of Pulse rate in beats per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by evaluation of Respiratory rate in beats per minute</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of Respiratory rate in beats per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by evaluation of body temperature in degree Celsius</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of body temperature in degree Celsius</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by analysis of 12-lead ECG: heart rate (unit: beats per minute)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>The ECG heart rate will be summarized by absolute value at each visit by treatment group, together with the corresponding changes from baseline.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by analysis of 12-lead ECG QT interval (units: milliseconds)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>The ECG variable will be summarized by absolute value at each visit by treatment group, together with the corresponding changes from baseline.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by analysis of 12-lead ECG QTcF interval (units: milliseconds)</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>The ECG variable will be summarized by absolute value at each visit by treatment group, together with the corresponding changes from baseline.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by abnormality in hematology</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of red blood cell count, Leukocyte count, Leukocyte differential count, haemoglobin, platelets, PT, aPTT, INR.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by abnormality in clinical chemistry</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of kidney function (blood urea nitrogen creatinine, Uric acid), liver function (ALP, ALT, AST, albumin, total bilirubin), total protein, potassium, calcium total, sodium, creatine kinase, glucose.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety as determined by abnormality in urinalysis</measure>
+    <time_frame>Day 1 to Day 113</time_frame>
+    <description>Measurement of glucose, ketones, leukocytes, erythrocytes, blood and protein.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">39</enrollment>
+  <condition>Healthy Volunteer</condition>
+  <arm_group>
+    <arm_group_label>MEDI3506 dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MEDI3506 dose1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MEDI3506 dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MEDI3506 dose 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo 2 mL and 4 mL</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MEDI3506</intervention_name>
+    <description>MEDI3506</description>
+    <arm_group_label>MEDI3506 dose 1</arm_group_label>
+    <arm_group_label>MEDI3506 dose 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Provision of signed and dated, written informed consent prior to any study specific&#xD;
+             procedures.&#xD;
+&#xD;
+          2. Capable of giving signed informed consent as described in Appendix A which includes&#xD;
+             compliance with the requirements and restrictions listed in the informed consent form&#xD;
+             (ICF) and in this protocol.&#xD;
+&#xD;
+          3. Aged 18 to 45 years (inclusive, at the time of signing the ICF).&#xD;
+&#xD;
+          4. Healthy, non smoking Chinese participants. Definition of non-smoker: non-smoker for at&#xD;
+             least the past 12 months with pack history ≤5 pack years.&#xD;
+&#xD;
+          5. Able and willing to comply with the requirements of the protocol and complete the&#xD;
+             study until the end of the safety follow up period.&#xD;
+&#xD;
+          6. Have a body mass index between 19 and 24 kg/m2 , inclusive.&#xD;
+&#xD;
+          7. Male and female.&#xD;
+&#xD;
+          8. Females of childbearing potential who are sexually active with a nonsterilized male&#xD;
+             partner must use a highly effective method of contraception from enrolment throughout&#xD;
+             the study until their final follow-up visit. Cessation of contraception after this&#xD;
+             point should be discussed with a responsible physician. Periodic abstinence (calendar,&#xD;
+             symptothermal, post-ovulation methods), withdrawal (coitus interruptus), spermicides&#xD;
+             only, and lactational amenorrhoea method are not acceptable methods of contraception.&#xD;
+             Female condom and male condom should not be used together. All women of child bearing&#xD;
+             potential must have a negative serum pregnancy test result at Visit 1.&#xD;
+&#xD;
+               -  A highly effective method of contraception is defined as one that results in a&#xD;
+                  low failure rate (i.e., less than 1% per year) when used consistently and&#xD;
+                  correctly. Highly effective birth control methods include: a vasectomised&#xD;
+                  partner, Implanon®, bilateral tubal occlusion, intrauterine device/levonorgestrel&#xD;
+                  intrauterine system, Depo-Provera™ injections, oral contraceptive, and Evra&#xD;
+                  Patch™, Xulane™, or NuvaRing®.&#xD;
+&#xD;
+             Females not of childbearing potential who are either permanently sterilized&#xD;
+             (hysterectomy, bilateral oophorectomy, or bilateral salpingectomy), or who are&#xD;
+             postmenopausal. Women will be considered postmenopausal if they have been amenorrheic&#xD;
+             for 12 months or more following cessation of exogenous hormonal treatment prior to the&#xD;
+             planned date of randomization and follicle stimulating hormone (FSH) levels in the&#xD;
+             postmenopausal range.&#xD;
+&#xD;
+          9. Nonsterilised males who are sexually active with a female partner of childbearing&#xD;
+             potential must use condom and spermicide from enrolment through the study period until&#xD;
+             their final follow up visit. Because male condom and spermicide is not a highly&#xD;
+             effective contraception method, female partners of a male study participants must also&#xD;
+             use a highly effective method of contraception as defined above throughout this&#xD;
+             period.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Any active medical or psychiatric condition or other reason which, in the opinion of&#xD;
+             the investigator, may compromise the safety of the participant in the study or&#xD;
+             interfere with evaluation of the investigational product or reduce the participant's&#xD;
+             ability to participate in the study.&#xD;
+&#xD;
+          2. Any clinically relevant abnormal findings on physical examination of the&#xD;
+             cardiovascular system including ECG and vital signs at screening, and Day 1(pre-dose):&#xD;
+&#xD;
+             a. Abnormal vital signs, after 10 minutes supine rest (confirmed by 1 controlled&#xD;
+             measurement), defined as any of the following: i. Fever greater than 37.5℃ ii. SBP &lt;&#xD;
+             90 mmHg or ≥ 140 mmHg iii. DBP &lt; 50 mmHg or ≥ 90 mmHg iv. Pulse &lt; 45 or &gt; 100 bpm b.&#xD;
+             Any clinically significant abnormalities in rhythm, conduction or morphology of the&#xD;
+             resting ECG, and any clinically significant abnormalities in the 12-lead ECG, as&#xD;
+             considered by the investigator that may interfere with the interpretation of QTc&#xD;
+             interval changes, including abnormal ST-T wave morphology, or left ventricular&#xD;
+             hypertrophy.&#xD;
+&#xD;
+          3. Any other clinically relevant abnormal findings on physical examination or laboratory&#xD;
+             testing including haematology, coagulation, clinical chemistry or urinalysis at&#xD;
+             screening or randomization, which in the opinion of the investigator may compromise&#xD;
+             the safety of the participant in the study or interfere with evaluation of the&#xD;
+             investigational product or reduce the participant's ability to participate in the&#xD;
+             study. Abnormal findings include, but are not limited to:&#xD;
+&#xD;
+               1. Serum alanine transaminase' (ALT) or aspartate transaminase' (AST) &gt; 2.0 × upper&#xD;
+                  limit of normal (ULN) or total bilirubin (TBL) &gt; 2 × ULN (unless due to Gilbert's&#xD;
+                  disease) or evidence of chronic liver disease&#xD;
+&#xD;
+               2. Total white blood cell count &lt; 4,000 × 106/L&#xD;
+&#xD;
+               3. Neutrophil count &lt; 1,500/mm3&#xD;
+&#xD;
+               4. Platelet count &lt; 100,000/mm3&#xD;
+&#xD;
+               5. Haemoglobin &lt; 110 g/L&#xD;
+&#xD;
+          4. History or a reason to believe that a participant has a history of drug or alcohol&#xD;
+             abuse within the past 2 years prior to screening.&#xD;
+&#xD;
+          5. Positive drugs of abuse (DOA) including morphine, methamphetamine, ketamine,&#xD;
+             marijuana, methylenedioxymethamphetamin, and alcohol (unless can be explained by the&#xD;
+             participant's medications).&#xD;
+&#xD;
+          6. Major surgery within 8 weeks prior to screening, or planned inpatient surgery or&#xD;
+             hospitalization during the study period.&#xD;
+&#xD;
+          7. Donation of blood or blood products in excess of 400 mL within 3 months prior to&#xD;
+             screening and until the end of the follow-up period [Day 113].&#xD;
+&#xD;
+          8. Participants who have a positive test for, or have been treated for hepatitis B,&#xD;
+             hepatitis C, Syphilis or HIV. Regarding the hepatitis B testing (hepatitis B surface&#xD;
+             antigen [HBsAg], hepatitis B surface antibody [anti-HBs], hepatitis B core antibody&#xD;
+             [anti-HBc]), any of the following would exclude the participant from the study:&#xD;
+&#xD;
+               1. Participants positive for HBsAg.&#xD;
+&#xD;
+               2. Participants positive for anti-HBc. Participants with a history of hepatitis B&#xD;
+                  vaccination without a history of Hepatitis B are permitted.&#xD;
+&#xD;
+          9. Evidence of active or latent tuberculosis (TB):&#xD;
+&#xD;
+               1. Positive diagnostic TB test during screening (defined as a positive&#xD;
+                  interferon-gamma release assay [IGRA] test for TB at screening).&#xD;
+&#xD;
+               2. Participants with an indeterminate IGRA should undergo repeat test and if still&#xD;
+                  indeterminate may be enrolled only after treatment and subsequent negative IGRA.&#xD;
+&#xD;
+         10. Evidence of active COVID-19 infection:&#xD;
+&#xD;
+               1. Positive diagnostic COVID-19 PCR result Or&#xD;
+&#xD;
+               2. Subject has severe COVID-19 infection as defined by positive COVID-19 PCR result&#xD;
+                  and hospitalization or radiological evidence of pneumonia in the previous 6&#xD;
+                  months.&#xD;
+&#xD;
+         11. Receiving any of the medications listed below:&#xD;
+&#xD;
+               1. Any immunotherapy or immunosuppressive therapy (within 1 year prior to&#xD;
+                  randomization).&#xD;
+&#xD;
+               2. Chronic use of steroid medications.&#xD;
+&#xD;
+               3. Investigational agents (within the last 3 months or at least 5 times the&#xD;
+                  predicted half-life of the agent, whichever is greater).&#xD;
+&#xD;
+               4. Marketed biologics, including omalizumab (within the last 3 months or at least 5&#xD;
+                  times the predicted half-life of the biologics, whichever is greater).&#xD;
+&#xD;
+               5. Immunoglobulin or blood products (within 6 months prior or randomization).&#xD;
+&#xD;
+               6. Live vaccines (until the end of the follow-up period [Day 113]).&#xD;
+&#xD;
+         12. Treatment with broad spectrum antibiotic within 4 weeks prior to randomization (Day&#xD;
+             1).&#xD;
+&#xD;
+         13. Concurrent enrolment in another clinical study involving an investigational treatment.&#xD;
+&#xD;
+         14. Received administration of an investigational drug or participated in a device trial&#xD;
+             within 3 months and 5.5 half-lives, prior to screening (Visit 1).&#xD;
+&#xD;
+         15. History or current diagnosis of cancer, with the exception of cancer treated with&#xD;
+             apparent success with curative therapy (response duration of &gt; 5 years).&#xD;
+&#xD;
+         16. History of an underlying condition that predisposes the participant to infections&#xD;
+             (e.g., history of splenectomy, known primary or secondary immune deficiency&#xD;
+             syndromes).&#xD;
+&#xD;
+         17. History of Inflammatory Bowel Disease or microscopic colitis.&#xD;
+&#xD;
+         18. A known history of severe reaction to any medication including biologic agents and&#xD;
+             human gamma globulin therapy.&#xD;
+&#xD;
+         19. History of allogeneic bone marrow transplant.&#xD;
+&#xD;
+         20. History of a viral, bacterial, or fungal significant infection (including unexplained&#xD;
+             diarrhea) within 4 weeks (28 days) prior to randomization (Day 1) or clinical&#xD;
+             suspicion of infection at the time of dosing.&#xD;
+&#xD;
+         21. History of herpes zoster within 3 months prior to randomization (Day 1).&#xD;
+&#xD;
+         22. Participants with recent (within 12 months) clinical history of infective hepatitis or&#xD;
+             unexplained jaundice.&#xD;
+&#xD;
+         23. Participant is a participating investigator, sub-investigator, study coordinator, or&#xD;
+             employee of the participating site, or is a first-degree relative of the&#xD;
+             aforementioned.&#xD;
+&#xD;
+         24. Inability of the patient, in the opinion of the investigator, to understand and/or&#xD;
+             comply with study medications, procedures and/or follow-up or any conditions that, in&#xD;
+             the opinion of the investigator, may render the patient unable to complete the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Suzhou</city>
+        <zip>215006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>July 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 7, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>MEDI3506</keyword>
+  <keyword>Healthy Volunteers</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.&#xD;
+All request will be evaluated as per the AZ disclosure commitment:&#xD;
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure. Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.</ipd_description>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessor) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

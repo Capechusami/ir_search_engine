@@ -1,0 +1,313 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623072</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E-10840098-772.02-2695</org_study_id>
+    <nct_id>NCT05623072</nct_id>
+  </id_info>
+  <brief_title>The Effect of tDCS on Emotion Recognition and EEG</brief_title>
+  <official_title>The Effect of tDCS on Emotion Recognition and EEG Oscillations in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul Medipol University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul Medipol University Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose and Importance of the Project: Emotion recognition, which is defined as the process&#xD;
+      of interpreting an individual's emotional state by looking at their facial expressions, is&#xD;
+      important in maintaining social relations and communication in a healthy way. Difficulties in&#xD;
+      emotion recognition can be seen in various neurodevelopmental or psychiatric disorders. The&#xD;
+      ventromedial prefrontal cortex (vmPFC) is one of the regions that is important in the&#xD;
+      function of emotion recognition from facial expressions. Transcranial Direct Current&#xD;
+      Stimulation (tDCS) is a non-invasive, painless method of brain stimulation that provides&#xD;
+      either excitatory or inhibitory effects on different parts of the brain. When the literature&#xD;
+      is examined, it is seen that studies on the effectiveness of tDCS on emotion recognition are&#xD;
+      limited and stimulation is generally applied to the right or left dorsolateral prefrontal&#xD;
+      cortex areas in these studies. On the other hand, no study has been found examining the&#xD;
+      effect of stimulation of the ventromedial prefrontal cortex on emotion recognition. In this&#xD;
+      study, it is aimed to investigate the effect of anodal stimulation of the ventromedial&#xD;
+      prefrontal cortex, which is significantly related to emotion recognition skills, on emotion&#xD;
+      recognition and EEG oscillations.&#xD;
+&#xD;
+      Methods: It is an experimental, randomised controlled trial. The data will be collected with&#xD;
+      the convenience sampling method from healthy and volunteer participants. The matched-group&#xD;
+      design method will be used. As a result of the power analysis, it was determined that the&#xD;
+      current study should be done with at least 34 participants. In the study, it is aimed to&#xD;
+      include a total of 60 participants in the experimental (tDCS) and control (sham) groups.&#xD;
+      Measurement instruments are &quot;Informed Voluntary Consent Form&quot;; &quot;Demographic Information&#xD;
+      Form&quot;; &quot;Edinburgh Hand Preference Survey&quot;; &quot;Beck Depression Scale&quot;; &quot;Amsterdam Dynamic Facial&#xD;
+      Expression Set - Bath Intensity Variations (ADFES-BIV)&quot;; &quot;Mind-Reading Test&quot;; EEG and tDCS&#xD;
+      devices. Participants will be subjected to the emotion recognition task before and after the&#xD;
+      tDCS. In addition, resting state EEG recordings will be taken before and after the tDCS from&#xD;
+      34 participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Measurement instruments:&#xD;
+&#xD;
+        -  Informed Voluntary Consent Form&#xD;
+&#xD;
+        -  Demographic Information Form&#xD;
+&#xD;
+        -  Edinburgh Hand Preference Survey&#xD;
+&#xD;
+        -  Beck Depression Scale&#xD;
+&#xD;
+        -  Amsterdam Dynamic Facial Expression Set - Bath Intensity Variations (ADFES-BIV)&#xD;
+&#xD;
+        -  Reading the Mind in the Eyes Test&#xD;
+&#xD;
+        -  EEG and tDCS devices&#xD;
+&#xD;
+      Statistics:&#xD;
+&#xD;
+      The findings obtained from experimental and control groups the pretest-posttest of the&#xD;
+      emotion recognition and resting state EEG measurement will be evaluated with Repeated&#xD;
+      Measures Analysis of Variance (within and between groups) (or Friedman Analysis, which is its&#xD;
+      non-parametric counterpart). For all tests applied to the variables, the significance value&#xD;
+      will be accepted as p&lt;0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2022</start_date>
+  <completion_date type="Anticipated">July 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>It is an experimental, randomised controlled trial. The data will be collected with the convenience sampling method from healthy and volunteer participants. The matched-group design method will be used.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants will not know that which group they will be in</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in EEG Oscillations for active vs. sham stimulation</measure>
+    <time_frame>Baseline, 5 minutes after completion of the active/sham stimulation</time_frame>
+    <description>The EEG oscillations recording is to measure resting-state brain oscillations from pre and post measurements. There are the five frequencies band which are Delta (0.5-3,5 Hz), Theta (4-7 Hz), Alpha (8-13 Hz), Beta (15-30 Hz) and Gamma (30-100 Hz). Data will be record simultaneously and analyzed. The analysis will be done with the BrainVisionAnalyzer program and power analysis will be made in Delta, Theta, Alpha, Beta, Gamma bands and the averages will be compared. Oscillations will be evaluated in terms of averages changing as an indicator of the effect of the neuromodulation preceding it.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Emotion Recognition Task score for active vs. sham stimulation</measure>
+    <time_frame>Baseline, 20 minutes after completion of the active/sham stimulation</time_frame>
+    <description>The task used to measure emotion recognition skills from pre and post test score.&#xD;
+-Amsterdam Dynamic Facial Expression Set - Bath Intensity Variations (ADFES-BIV) is a standard set of video stimuli of emotional expressions. Task results are changing between 0-81 points. Score averages will compare between pre and post test. Data will be record Excel by Psychopy program simultaneously. Performance will be evaluated for accuracy as an indicator of the effect of the neuromodulation preceding it.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Reading the Mind in the Eyes Test</measure>
+    <time_frame>Baseline, 20 minutes after completion of the active/sham stimulation</time_frame>
+    <description>-Reading the Mind in the Eyes Test is a task that asked to mark the option that best describes what the person in the picture is thinking or feeling. Task results are changing between 0-32 points. Score averages will compare between pre and post test. Performance will be evaluated for accuracy as an indicator of the effect of the neuromodulation preceding it.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Emotion Recognition</condition>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will take active tDCS stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Participants will take sham tDCS stimulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Active tDCS</intervention_name>
+    <description>20 min, 2 milliampere (mA), Anodal tDCS in vmPFC</description>
+    <arm_group_label>Experimental group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham tDCS</intervention_name>
+    <description>20 min, vmPFC Sham tDCS</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being between the ages of 18-40,&#xD;
+&#xD;
+          -  Having a score of 17 or less on the Beck Depression Inventory&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Having a history of serious neurological and psychiatric illness,&#xD;
+&#xD;
+          -  Currently taking medication that alters the cortical excitability level,&#xD;
+&#xD;
+          -  Having visual defects that cannot be corrected with glasses,&#xD;
+&#xD;
+          -  Left hand dominant,&#xD;
+&#xD;
+          -  Use of intracranial metal objects, implanted stimulating devices or pacemakers&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lütfü Hanoğlu, Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Medipol University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Saliha Şahintürk, MSc</last_name>
+    <phone>0531 566 03 22</phone>
+    <email>salihasahinturk@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Erol Yıldırım, Dr.</last_name>
+    <phone>0535 617 62 73</phone>
+    <email>eyildirim@medipol.edu.tr</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Berryhill ME, Martin D. Cognitive Effects of Transcranial Direct Current Stimulation in Healthy and Clinical Populations: An Overview. J ECT. 2018 Sep;34(3):e25-e35. doi: 10.1097/YCT.0000000000000534.</citation>
+    <PMID>30095685</PMID>
+  </reference>
+  <reference>
+    <citation>Martin DM, Teng JZ, Lo TY, Alonzo A, Goh T, Iacoviello BM, Hoch MM, Loo CK. Clinical pilot study of transcranial direct current stimulation combined with Cognitive Emotional Training for medication resistant depression. J Affect Disord. 2018 May;232:89-95. doi: 10.1016/j.jad.2018.02.021. Epub 2018 Feb 17.</citation>
+    <PMID>29477590</PMID>
+  </reference>
+  <reference>
+    <citation>Pera-Guardiola V, Contreras-Rodriguez O, Batalla I, Kosson D, Menchon JM, Pifarre J, Bosque J, Cardoner N, Soriano-Mas C. Brain Structural Correlates of Emotion Recognition in Psychopaths. PLoS One. 2016 May 13;11(5):e0149807. doi: 10.1371/journal.pone.0149807. eCollection 2016.</citation>
+    <PMID>27175777</PMID>
+  </reference>
+  <reference>
+    <citation>Song M, Shin Y, Yun K. Beta-frequency EEG activity increased during transcranial direct current stimulation. Neuroreport. 2014 Dec 17;25(18):1433-6. doi: 10.1097/WNR.0000000000000283.</citation>
+    <PMID>25383460</PMID>
+  </reference>
+  <reference>
+    <citation>van der Schalk J, Hawk ST, Fischer AH, Doosje B. Moving faces, looking places: validation of the Amsterdam Dynamic Facial Expression Set (ADFES). Emotion. 2011 Aug;11(4):907-20. doi: 10.1037/a0023853.</citation>
+    <PMID>21859206</PMID>
+  </reference>
+  <reference>
+    <citation>Wirth M, Rahman RA, Kuenecke J, Koenig T, Horn H, Sommer W, Dierks T. Effects of transcranial direct current stimulation (tDCS) on behaviour and electrophysiology of language production. Neuropsychologia. 2011 Dec;49(14):3989-98. doi: 10.1016/j.neuropsychologia.2011.10.015. Epub 2011 Oct 21.</citation>
+    <PMID>22044650</PMID>
+  </reference>
+  <results_reference>
+    <citation>Sun C, Zhao Z, Cheng L, Tian R, Zhao W, Du J, Zhang Y, Wang C. Effect of Transcranial Direct Current Stimulation on the Mismatch Negativity Features of Deviated Stimuli in Children With Autism Spectrum Disorder. Front Neurosci. 2022 Feb 9;16:721987. doi: 10.3389/fnins.2022.721987. eCollection 2022.</citation>
+    <PMID>35221894</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Boonstra TW, Nikolin S, Meisener AC, Martin DM, Loo CK. Change in Mean Frequency of Resting-State Electroencephalography after Transcranial Direct Current Stimulation. Front Hum Neurosci. 2016 Jun 6;10:270. doi: 10.3389/fnhum.2016.00270. eCollection 2016.</citation>
+    <PMID>27375462</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Brennan S, McLoughlin DM, O'Connell R, Bogue J, O'Connor S, McHugh C, Glennon M. Anodal transcranial direct current stimulation of the left dorsolateral prefrontal cortex enhances emotion recognition in depressed patients and controls. J Clin Exp Neuropsychol. 2017 May;39(4):384-395. doi: 10.1080/13803395.2016.1230595. Epub 2016 Sep 23.</citation>
+    <PMID>27662113</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cavinato M, Genna C, Formaggio E, Gregorio C, Storti SF, Manganotti P, Casanova E, Piperno R, Piccione F. Behavioural and electrophysiological effects of tDCS to prefrontal cortex in patients with disorders of consciousness. Clin Neurophysiol. 2019 Feb;130(2):231-238. doi: 10.1016/j.clinph.2018.10.018. Epub 2018 Nov 29.</citation>
+    <PMID>30580246</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Donaldson PH, Kirkovski M, Yang JS, Bekkali S, Enticott PG. High-definition tDCS to the right temporoparietal junction modulates slow-wave resting state power and coherence in healthy adults. J Neurophysiol. 2019 Oct 1;122(4):1735-1744. doi: 10.1152/jn.00338.2019. Epub 2019 Aug 28.</citation>
+    <PMID>31461371</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dong G, Wang Y, Chen X. Anodal occipital tDCS enhances spontaneous alpha activity. Neurosci Lett. 2020 Mar 16;721:134796. doi: 10.1016/j.neulet.2020.134796. Epub 2020 Jan 30.</citation>
+    <PMID>32006627</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ferrucci R, Giannicola G, Rosa M, Fumagalli M, Boggio PS, Hallett M, Zago S, Priori A. Cerebellum and processing of negative facial emotions: cerebellar transcranial DC stimulation specifically enhances the emotional recognition of facial anger and sadness. Cogn Emot. 2012;26(5):786-99. doi: 10.1080/02699931.2011.619520. Epub 2011 Nov 14.</citation>
+    <PMID>22077643</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gordon PC, Zrenner C, Desideri D, Belardinelli P, Zrenner B, Brunoni AR, Ziemann U. Modulation of cortical responses by transcranial direct current stimulation of dorsolateral prefrontal cortex: A resting-state EEG and TMS-EEG study. Brain Stimul. 2018 Sep-Oct;11(5):1024-1032. doi: 10.1016/j.brs.2018.06.004. Epub 2018 Jun 18.</citation>
+    <PMID>29921529</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Iarrobino I, Bongiardina A, Dal Monte O, Sarasso P, Ronga I, Neppi-Modona M, Actis-Grosso R, Salatino A, Ricci R. Right and left inferior frontal opercula are involved in discriminating angry and sad facial expressions. Brain Stimul. 2021 May-Jun;14(3):607-615. doi: 10.1016/j.brs.2021.03.014. Epub 2021 Mar 27.</citation>
+    <PMID>33785407</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Keeser D, Padberg F, Reisinger E, Pogarell O, Kirsch V, Palm U, Karch S, Moller HJ, Nitsche MA, Mulert C. Prefrontal direct current stimulation modulates resting EEG and event-related potentials in healthy subjects: a standardized low resolution tomography (sLORETA) study. Neuroimage. 2011 Mar 15;55(2):644-57. doi: 10.1016/j.neuroimage.2010.12.004. Epub 2010 Dec 10.</citation>
+    <PMID>21146614</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nejati V, Majdi R, Salehinejad MA, Nitsche MA. The role of dorsolateral and ventromedial prefrontal cortex in the processing of emotional dimensions. Sci Rep. 2021 Jan 21;11(1):1971. doi: 10.1038/s41598-021-81454-7.</citation>
+    <PMID>33479323</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Koschack J, Pohlers H, Hullemann S, Paulus W, Happe S. Effects of frontal transcranial direct current stimulation on emotional state and processing in healthy humans. Front Psychiatry. 2012 Jun 18;3:58. doi: 10.3389/fpsyt.2012.00058. eCollection 2012.</citation>
+    <PMID>22723786</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rassovsky Y, Dunn W, Wynn J, Wu AD, Iacoboni M, Hellemann G, Green MF. The effect of transcranial direct current stimulation on social cognition in schizophrenia: A preliminary study. Schizophr Res. 2015 Jul;165(2-3):171-4. doi: 10.1016/j.schres.2015.04.016. Epub 2015 Apr 29.</citation>
+    <PMID>25934168</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rassovsky Y, Dunn W, Wynn JK, Wu AD, Iacoboni M, Hellemann G, Green MF. Single transcranial direct current stimulation in schizophrenia: Randomized, cross-over study of neurocognition, social cognition, ERPs, and side effects. PLoS One. 2018 May 7;13(5):e0197023. doi: 10.1371/journal.pone.0197023. eCollection 2018.</citation>
+    <PMID>29734347</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ruggiero F, Dini M, Cortese F, Vergari M, Nigro M, Poletti B, Priori A, Ferrucci R. Anodal Transcranial Direct Current Stimulation over the Cerebellum Enhances Sadness Recognition in Parkinson's Disease Patients: a Pilot Study. Cerebellum. 2022 Apr;21(2):234-243. doi: 10.1007/s12311-021-01295-y. Epub 2021 Jun 22.</citation>
+    <PMID>34159563</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Salehinejad MA, Paknia N, Hosseinpour AH, Yavari F, Vicario CM, Nitsche MA, Nejati V. Contribution of the right temporoparietal junction and ventromedial prefrontal cortex to theory of mind in autism: A randomized, sham-controlled tDCS study. Autism Res. 2021 Aug;14(8):1572-1584. doi: 10.1002/aur.2538. Epub 2021 May 21.</citation>
+    <PMID>34018333</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Spitoni GF, Cimmino RL, Bozzacchi C, Pizzamiglio L, Di Russo F. Modulation of spontaneous alpha brain rhythms using low-intensity transcranial direct-current stimulation. Front Hum Neurosci. 2013 Sep 3;7:529. doi: 10.3389/fnhum.2013.00529. eCollection 2013.</citation>
+    <PMID>24027517</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vecchio F, Di Iorio R, Miraglia F, Granata G, Romanello R, Bramanti P, Rossini PM. Transcranial direct current stimulation generates a transient increase of small-world in brain connectivity: an EEG graph theoretical analysis. Exp Brain Res. 2018 Apr;236(4):1117-1127. doi: 10.1007/s00221-018-5200-z. Epub 2018 Feb 13.</citation>
+    <PMID>29441471</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Willis ML, Murphy JM, Ridley NJ, Vercammen A. Anodal tDCS targeting the right orbitofrontal cortex enhances facial expression recognition. Soc Cogn Affect Neurosci. 2015 Dec;10(12):1677-83. doi: 10.1093/scan/nsv057. Epub 2015 May 13.</citation>
+    <PMID>25971602</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Winker C, Rehbein MA, Sabatinelli D, Dohn M, Maitzen J, Wolters CH, Arolt V, Junghofer M. Noninvasive stimulation of the ventromedial prefrontal cortex modulates emotional face processing. Neuroimage. 2018 Jul 15;175:388-401. doi: 10.1016/j.neuroimage.2018.03.067. Epub 2018 Mar 29.</citation>
+    <PMID>29605579</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yamada Y, Inagawa T, Hirabayashi N, Sumiyoshi T. Emotion Recognition Deficits in Psychiatric Disorders as a Target of Non-invasive Neuromodulation: A Systematic Review. Clin EEG Neurosci. 2022 Nov;53(6):506-512. doi: 10.1177/1550059421991688. Epub 2021 Feb 15.</citation>
+    <PMID>33587001</PMID>
+  </results_reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>October 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>December 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul Medipol University Hospital</investigator_affiliation>
+    <investigator_full_name>erol yildirim</investigator_full_name>
+    <investigator_title>Dr., Principal Investigator, PhD in Neuroscience</investigator_title>
+  </responsible_party>
+  <keyword>Emotion Recognition</keyword>
+  <keyword>tDCS</keyword>
+  <keyword>EEG Oscillations</keyword>
+  <keyword>vmPFC</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

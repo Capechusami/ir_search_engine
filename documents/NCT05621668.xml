@@ -1,0 +1,295 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621668</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0619</org_study_id>
+    <secondary_id>NCI-2022-09675</secondary_id>
+    <nct_id>NCT05621668</nct_id>
+  </id_info>
+  <brief_title>A First-In-Human Phase 1 Trial of T-Cell Membrane-Anchored Tumor Targeted Il12 (Attil12)- T-Cell Therapy in Subjects With Advanced/Metastatic Soft Tissue and Bone Sarcoma</brief_title>
+  <official_title>A First-In-Human Phase 1 Trial of T-Cell Membrane-Anchored Tumor Targeted Il12 (Attil12)- T-Cell Therapy in Subjects With Advanced/Metastatic Soft Tissue and Bone Sarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To find a recommended dose of attIL2-T cell therapy that can be given to patients with soft&#xD;
+      tissue or bone sarcomas and to see if it can help to control the disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective:&#xD;
+&#xD;
+        -  Part A. Determine the safety, maximum tolerated dose and/or recommended phase 2 dose of&#xD;
+           adoptively transferred autologous tumor-targeted IL12 T cells (attIL12 T cell therapy)&#xD;
+           in combination with cyclophosphamide in patients with advanced/metastatic soft tissue or&#xD;
+           bone sarcomas&#xD;
+&#xD;
+        -  Part B. Characterize the safety and tolerability and assess preliminary efficacy of&#xD;
+           attIL12-armed T cells in combination with cyclophosphamide by evaluating the 4-month&#xD;
+           disease control rate (DCR4 months) in patients with recurrent unresectable osteosarcoma&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+      --Evaluate the anti-tumor efficacy achieved following adoptive transfer of autologous&#xD;
+      tumor-targeted IL12 T cells (attIL12 T cell therapy) in combination with cyclophosphamide in&#xD;
+      patients with advanced/metastatic soft tissue or bone sarcomas&#xD;
+&#xD;
+      Exploratory Objectives:&#xD;
+&#xD;
+        -  Characterize the immune response following adoptive transfer of autologous&#xD;
+           tumor-targeted IL12 T cells (attIL12 T cell therapy) in paired in pre-treatment and&#xD;
+           on-treatment tumor specimens and peripheral blood samples&#xD;
+&#xD;
+        -  Assess FoxP3/CD33/CD8/IFNg expression in pre-treatment and on-treatment tumor specimens&#xD;
+           and correlate with clinical benefit/anti-tumor response&#xD;
+&#xD;
+        -  Determine changes in cell surface vimentin (CSV)-positive circulating tumor cells (CTCs)&#xD;
+           in peripheral blood before and after adoptive transfer of autologous tumor-targeted IL12&#xD;
+           T cells (attIL12 T cell therapy) and correlate with clinical benefit/anti-tumor response&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 30, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To examine the incidence of adverse events.</measure>
+    <time_frame>through study completion; an average of 1 year.</time_frame>
+    <description>National Cancer Institute, Common Terminology Criteria for Adverse Events (CTCAE), Version 5.0. from screening through the treatment period</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Soft Tissue Sarcoma</condition>
+  <condition>Bone Sarcoma</condition>
+  <arm_group>
+    <arm_group_label>Part A: Dose Findings (MTD)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The dose of attIL2-T cell therapy the participants will receive will depend on when the participants joined this study. The first group of participants will receive the lowest dose level of attIL2-T cell therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Osteosarcoma Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive attIL2-T cell therapy at the recommended dose that was found in Phase 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Part A: Dose Findings (MTD)</arm_group_label>
+    <arm_group_label>Part B: Osteosarcoma Dose Expansion</arm_group_label>
+    <other_name>Cytoxan®</other_name>
+    <other_name>Neosar®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>attIL2-T cells</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Part A: Dose Findings (MTD)</arm_group_label>
+    <arm_group_label>Part B: Osteosarcoma Dose Expansion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Age &gt;= 12 years old&#xD;
+&#xD;
+          2. Histologically-confirmed locally advanced or metastatic soft tissue or bone sarcoma&#xD;
+&#xD;
+             a. Osteosarcoma expansion cohort: histologically confirmed unresectable&#xD;
+             recurrent/metastatic osteosarcoma&#xD;
+&#xD;
+          3. Measurable disease according to RECIST 1.1&#xD;
+&#xD;
+          4. Patients must have received at least 1 prior line of systemic therapy for the&#xD;
+             treatment of sarcoma, unless no standard therapy exists for a specific sarcoma subtype&#xD;
+&#xD;
+          5. At least 3 weeks must have elapsed since the last cytotoxic chemotherapy or&#xD;
+             immunotherapy prior to leukapheresis/PBMC collection. For targeted therapies, at least&#xD;
+             4 half-lives or 3 weeks must have elapsed prior to leukapheresis (whichever is&#xD;
+             shorter).&#xD;
+&#xD;
+          6. At least 3 weeks must have elapsed since last cytotoxic chemotherapy or immunotherapy&#xD;
+             prior to starting treatment with cyclophosphamide. For targeted therapies, at least 4&#xD;
+             half-lives or 3 weeks must have elapsed prior to initiation of treatment with&#xD;
+             cyclophosphamide (whichever is shorter).&#xD;
+&#xD;
+          7. ECOG performance status of 0 or 1 (Performance level as measured by Karnofsky for&#xD;
+             patients &gt; 16 years of age or Lansky for patients ≤ 16 years of age, see Appendix B)&#xD;
+&#xD;
+          8. Participants must be willing to undergo core-needle biopsy&#xD;
+&#xD;
+          9. Patients must have organ and marrow function as defined below&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) &gt; 1 K/uL, Hemoglobin &gt; 9 g/dL, Platelets &gt; 100&#xD;
+                  K/mm3&#xD;
+&#xD;
+               2. Serum creatinine &lt;/= 2 mg/dL OR creatinine clearance &gt; 50 mL/min&#xD;
+&#xD;
+               3. Aspartic transaminase (AST) ≤ 1.5 x upper limit of normal (ULN), Alanine&#xD;
+                  transaminase (ALT) &lt;/= 1.5 x ULN, Bilirubin ≤ 1.5 x ULN&#xD;
+&#xD;
+         10. Women of childbearing potential (WOCBP) must agree to use method(s) of contraception:&#xD;
+             at least one highly effective or two effective accepted methods of contraception to&#xD;
+             avoid conception throughout the study in such a manner that the risk of pregnancy is&#xD;
+             minimized. Suggested precautions should be used to minimize the risk or pregnancy for&#xD;
+             at least 1 month before start of therapy, and while women are on study for up to 3&#xD;
+             months after T cell infusion. WOCBP include any female who has experienced menarche&#xD;
+             and who has not undergone successful surgical sterilization (hysterectomy, bilateral&#xD;
+             tubal ligation or bilateral oophorectomy) or is not postmenopausal&#xD;
+&#xD;
+         11. Men must be willing and able to use an acceptable method of birth control such as&#xD;
+             latex condom during the dosing period and for at least 3 months after completion of&#xD;
+             the study agent administration (T cell infusion) if their sexual partners are WOCBP.&#xD;
+&#xD;
+         12. Signed Informed Consent and if applicable, pediatric assent&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Known sensitivity to cyclophosphamide and/or study agents&#xD;
+&#xD;
+          2. Active or prior documented autoimmune disease (including inflammatory bowel disease,&#xD;
+             celiac disease, Wegener syndrome) within the past 2 years. Subjects with childhood&#xD;
+             atopy or asthma, vitiligo, alopecia, Hashimoto syndrome, Grave's disease, or psoriasis&#xD;
+             not requiring systemic treatment (within the past 2 years) are not excluded&#xD;
+&#xD;
+          3. Untreated central nervous system metastatic disease, leptomeningeal disease, or cord&#xD;
+             compression. Subjects previously treated central nervous system metastases that are&#xD;
+             radiographically and neurologically stable for at least 6 weeks and do not require&#xD;
+             corticosteroids (of any dose) for symptomatic management for at least 14 days prior to&#xD;
+             first dose of attIL12-T cells are permitted to enroll.&#xD;
+&#xD;
+          4. Any concurrent chemotherapy, immunotherapy, or biologic or hormonal therapy for cancer&#xD;
+             treatment. Concurrent use of hormones for non-cancer-related conditions (eg, insulin&#xD;
+             for diabetes and hormone replacement therapy) is acceptable. In addition, local&#xD;
+             treatment (eg, by local surgery, radiotherapy, or ablation) of isolated lesions for&#xD;
+             palliative intent is acceptable beyond 30 days following attIL12 T cell administration&#xD;
+             with prior consultation and in agreement with the PI.&#xD;
+&#xD;
+          5. Unresolved toxicities from prior anticancer therapy, defined as having not resolved to&#xD;
+             NCI CTCAE v5 Grade 0 or 1 with the exception of alopecia and laboratory values listed&#xD;
+             per the inclusion criteria. Subjects with irreversible toxicity that is not reasonably&#xD;
+             expected to be exacerbated by any of the investigational products may be included (eg,&#xD;
+             hearing loss) after consultation with the PI.&#xD;
+&#xD;
+          6. History of primary immunodeficiency, solid organ transplantation, or previous clinical&#xD;
+             diagnosis of tuberculosis.&#xD;
+&#xD;
+          7. Receipt of live, attenuated vaccine within 28 days prior to the first dose of&#xD;
+             investigational products&#xD;
+&#xD;
+          8. Major surgery (as defined by the investigator) within 4 weeks prior to first dose of&#xD;
+             treatment or if still recovering from prior surgery.&#xD;
+&#xD;
+          9. Uncontrolled intercurrent illness including, but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable&#xD;
+             angina pectoris, cardiac arrhythmia, active peptic ulcer disease or gastritis, or&#xD;
+             psychiatric illness/social situations that would limit compliance with study&#xD;
+             requirement, substantially increase risk of incurring AEs from the study agents, or&#xD;
+             compromise the ability of the subject to give written informed consent.&#xD;
+&#xD;
+             a. Subjects with cognitive impairment, including adults with cognitive impairment such&#xD;
+             as trisomy 21 or similar conditions are not specifically excluded from participation,&#xD;
+             such that appropriate written informed consent is obtained from the parent or legal&#xD;
+             guardian and they are able to complete with the study protocol requirements and&#xD;
+             treatment.&#xD;
+&#xD;
+         10. Active concurrent second malignancy&#xD;
+&#xD;
+         11. Pregnant or lactating women&#xD;
+&#xD;
+         12. Any positive test result for hepatitis B or C virus indicating acute or chronic&#xD;
+             infection&#xD;
+&#xD;
+         13. Known history of testing positive for human immunodeficiency virus or known acquired&#xD;
+             immunodeficiency syndrome&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Livingston, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Livingston, MD</last_name>
+    <phone>(713) 792-3626</phone>
+    <email>jalivingston@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>John Livingston, MD</last_name>
+      <phone>713-792-3626</phone>
+      <email>jalivingston@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>John Livingston, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>M D Anderson Cancer Center</description>
+  </link>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Osteosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

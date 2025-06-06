@@ -1,0 +1,317 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05619042</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCT2</org_study_id>
+    <nct_id>NCT05619042</nct_id>
+  </id_info>
+  <brief_title>Detection of Coronary Artery Calcifications by Whole Blood Transcriptome Analyzed by Artificial InTelligence Algorithms</brief_title>
+  <acronym>CAC-TRAIT</acronym>
+  <official_title>Detection of Coronary Artery Calcifications by Whole Blood Transcriptome Analyzed by Artificial InTelligence Algorithms. (CAC-TRAIT Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Santiago Gabriel Miriuka</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundación para la Lucha contra las Enfermedades Neurológicas de la Infancia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>MultiplAI Health Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this observational study is to determine the diagnostic accuracy of peripheral&#xD;
+      whole blood transcriptomes analyzed by an artificial intelligence algorithm to detect the&#xD;
+      presence and extent of coronary calcification in individuals without a history of known&#xD;
+      cardiovascular disease.&#xD;
+&#xD;
+      The main question it aims to answer is:&#xD;
+&#xD;
+      1. Will the proposed method predict the presence and extent of coronary artery calcification&#xD;
+      from the peripheral whole-blood transcriptomes?&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be a prospective observational single-site study. A convenience sample will&#xD;
+      be carried out to include 800 patients who attend the Clinic, to undergo a cardiac CT without&#xD;
+      contrast (coronary calcium score), either for a medical indication or volunteers for an&#xD;
+      assessment of cardiovascular risk. The study will have a baseline stage in which a clinical&#xD;
+      evaluation will be performed, blood samples will be drawn for transcriptome analysis and&#xD;
+      laboratory analysis. Then, a DNA sample obtained by swabbing the buccal mucosa will be taken.&#xD;
+      Subsequently, a non-contrast gated cardiac CT will be performed to assess the presence and&#xD;
+      extent of coronary calcification and other outcomes of interest. At the end of patient&#xD;
+      enrollment, biological samples will be sequenced for in silico evaluation of the results.&#xD;
+      Finally, a 5-year clinical (telephone) follow-up will be carried out to collect data on the&#xD;
+      incidence of fatal and non-fatal cardiovascular events.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">November 7, 2022</start_date>
+  <completion_date type="Anticipated">July 2028</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Coronary artery calcium score</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Coronary artery calcium (CAC) score (Agatston units) stratified with increasing risk according to the Society of Cardiovascular Computed Tomography Guidelines as CAC=0; CAC 1-99; CAC 100-299; and CAC≥300.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Coronary artery calcium score</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Percentile Agatston score: according to age and sex with a increasing risk ranging from 1 to 99 th percentile.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coronary artery calcium score (number of segments)</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Number of segments with coronary calcifications ranging from 0 to 17 segments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aortic valve calcium</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Aortic valve calcification score (Agatston units) as a continuous variable with increasing risk and without preestablished thresholds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thoracic aorta calcium</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Thoracic aorta calcification score (Agatston units) as a continuous variable with increasing risk and without preestablished thresholds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Epicardial adipose tissue (volume)</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>cm2/m2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Epicardial adipose tissue (density)</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>density, Q1-Q4: quartiles percentage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatty liver</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>liver attenuation &lt;48 Hounsfield units</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil to lymphocyte ratio</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>hematological parameter for systemic inflammation and stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High-sensitive C reactive protein (CRP)</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>mg/dl</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Repolarization abnormalities</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Number of participants with repolarization abnormalities on a 12-lead ECG, defined as ST segment depression or pathological T wave inversion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Left ventricular hypertrophy</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Number of participants with left ventricular hypertrophy on a 12-lead ECG, defined by positive Sokolow-Lyon or Cornell criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraventricular conduction abnormalities</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>Number of participants with intraventricular conduction abnormalities on a 12-lead ECG, stratified by the presence of left bundle branch&#xD;
+block; right bundle branch block and left posterior fascicular block; right bundle branch block and left anterior fascicular block or right bundle branch block; or left anterior fascicular block.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent electron density relative to water (%EDW)</measure>
+    <time_frame>At baseline (cross-sectional assessment)</time_frame>
+    <description>percent electron density relative to water, available for direct evaluation with dedicated software in all scans acquired using a dual-layer spectral CT scanner).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>year 1 through 5</time_frame>
+    <description>Number of participants with report of death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute ischemic syndrome</measure>
+    <time_frame>year 1 through 5</time_frame>
+    <description>Number of participants with non fatal diagnosis of acute myocardial infarction or unstable angina</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart failure</measure>
+    <time_frame>year 1 through 5</time_frame>
+    <description>Number of participants with non fatal new diagnosis of heart failure with preserved or impaired ventricular function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vascular revascularization</measure>
+    <time_frame>year 1 through 5</time_frame>
+    <description>Number of participants with performance of myocardial revascularization surgery, coronary angioplasty or peripheral vascular angioplasty</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cerebrovascular event</measure>
+    <time_frame>year 1 through 5</time_frame>
+    <description>Number of participants with non fatal diagnosis of cerebrovascular accident (&quot;stroke&quot;) or transient ischemic attack</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cancer</measure>
+    <time_frame>year 1 through 5</time_frame>
+    <description>Number of participants with new diagnosis of any type of cancer</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Atherosclerosis</condition>
+  <condition>Atheroscleroses, Coronary</condition>
+  <condition>Atherosclerotic Plaque</condition>
+  <arm_group>
+    <arm_group_label>Presence / absence of CAC</arm_group_label>
+    <description>Participants with or without a level/extension of CAC</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Mouth swab samples, whole blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Men and women between 30 and 75 years attending the institution for a non-contrast cardiac&#xD;
+        CT scan (coronary calcium score) either by medical indication or voluntary for&#xD;
+        cardiovascular risk assessment.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women between 30 and 75 years attending the institution for a non-contrast&#xD;
+             cardiac CT scan (coronary calcium score) either by medical indication or voluntary for&#xD;
+             cardiovascular risk assessment.&#xD;
+&#xD;
+          -  Signature of the informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previously known chronic renal or hepatic insufficiency.&#xD;
+&#xD;
+          -  Active chronic lung disease, defined as exacerbated asthma, exacerbated chronic&#xD;
+             obstructive pulmonary disease (COPD), or pulmonary fibrosis.&#xD;
+&#xD;
+          -  Active and/or previous cardiovascular disease, defined as previous acute myocardial&#xD;
+             infarction, stable or unstable angina, cerebrovascular accident, history of vascular&#xD;
+             interventions (coronary or another territory), heart failure, severe cardiomyopathies,&#xD;
+             or valvulopathies.&#xD;
+&#xD;
+          -  Uncontrolled hyper or hypothyroidism.&#xD;
+&#xD;
+          -  Suprarenal insufficiency.&#xD;
+&#xD;
+          -  Previous surgeries in the last 3 months.&#xD;
+&#xD;
+          -  Severe trauma in the last 6 months, defined as one that involved bone fractures and/or&#xD;
+             surgical interventions.&#xD;
+&#xD;
+          -  Known active cancer disease or under treatment (acute or preventive), or history of&#xD;
+             cancer disease without criteria for a cure.&#xD;
+&#xD;
+          -  Known autoimmune disease active or in treatment.&#xD;
+&#xD;
+          -  Ongoing pregnancy, postpartum period of fewer than 12 months, or breastfeeding.&#xD;
+&#xD;
+          -  Other serious illnesses with an estimated life expectancy of fewer than 12 months&#xD;
+             (according to the investigators).&#xD;
+&#xD;
+          -  Temperature greater than 37.5°C recorded by a thermometer or any acute infection&#xD;
+             caused by viruses or bacteria confirmed by a health professional in the previous 30&#xD;
+             days.&#xD;
+&#xD;
+          -  Pathologies under immunosuppressive treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Santiago G Miriuka, MD MSc PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>MultiplAI Health LTD</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Clinica Sagrada Familia</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aires</city>
+        <zip>C1426EOB</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>MultiplAI Health Limited</investigator_affiliation>
+    <investigator_full_name>Santiago Gabriel Miriuka</investigator_full_name>
+    <investigator_title>Co-Founder &amp; CEO</investigator_title>
+  </responsible_party>
+  <keyword>risk stratification</keyword>
+  <keyword>Cardiovascular disease (CVD) screening</keyword>
+  <keyword>general population</keyword>
+  <keyword>transcriptomics</keyword>
+  <keyword>primary prevention</keyword>
+  <keyword>artificial intelligence</keyword>
+  <keyword>no history of CVD</keyword>
+  <keyword>subclinical</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Plaque, Atherosclerotic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 12, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/42/NCT05619042/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 6, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/42/NCT05619042/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,274 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798364</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP220479</org_study_id>
+    <nct_id>NCT05798364</nct_id>
+  </id_info>
+  <brief_title>Household Transmission Dynamics of Multidrug Resistant Enterobacterales</brief_title>
+  <acronym>HOME</acronym>
+  <official_title>Household Transmission Dynamics of Multidrug Resistant Enterobacterales</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The HOME study will prospectively follow a cohort of Multi-Drug Resistant Enterobacterales&#xD;
+      (MDR-E) carriers after hospital discharge, and their related household members over a 3-month&#xD;
+      period. The main objective is to estimate the rate of confirmed transmissions of MDR-E from&#xD;
+      the index cases to related household members, and identify predictors associated with&#xD;
+      transmission. Transmission will be confirmed by comparing genomic analysis of the MDR-E&#xD;
+      strains isolated both in the index patient and his/her household members, based on the number&#xD;
+      of Single nucleotide polymorphisms (SNPs) differences between nearby genomes by Variant&#xD;
+      Calling. Multifactorial processes involved in MDR-E transmission in households will be&#xD;
+      explored with stochastic individual-based modelling. The parameterized model will be used to&#xD;
+      simulate and assess different strategies of control of MDR-E emergence and transmission to&#xD;
+      households. The impact of modifying patterns of human-contacts, promote hygiene and control&#xD;
+      barriers (decontamination of objects or surfaces, variations in antibiotic use, reinforcement&#xD;
+      of hand hygiene) will be assessed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multi-Drug Resistant Enterobacterales (MDR-E), i.e. Extended-Spectrum Beta-Lactamase&#xD;
+      producing Enterobacterales (ESBL-E) and Carbapenemase-Producing Enterobacterales (CPE) are&#xD;
+      spreading worldwide. Although initially considered a healthcare-associated problem, reports&#xD;
+      of ESBL-E carriage and infections in individuals without any previous exposure to health care&#xD;
+      raise concerns on their alarming dissemination in the community. Very few reports&#xD;
+      investigated the dynamics of transmission of MDR-E from carriers to household members. Risk&#xD;
+      factors of acquisition (related to the strain, household habits, travel, occupational&#xD;
+      activities…) were poorly assessed.&#xD;
+&#xD;
+      Quantifying and understanding the mechanisms of household transmission is of major importance&#xD;
+      to elaborate control strategies specifically designed to the community.&#xD;
+&#xD;
+      The main objective is to estimate the rate of confirmed transmissions of MDR-E from an index&#xD;
+      case to related household members.&#xD;
+&#xD;
+      The primary endpoint is defined by the secondary attack rate (SAR) for confirmed&#xD;
+      transmissions, i.e. the proportion of confirmed (based on genetic analysis of strains)&#xD;
+      acquisitions of MDR-E in all household members over the study period (three months).&#xD;
+&#xD;
+      Screening of eligible patients will rely on an automated daily request of all MDR-E positive&#xD;
+      samples that is already implemented in the participating centers.&#xD;
+&#xD;
+      Information on the study will be given to eligible patients, those who meet eligibility&#xD;
+      criteria and willing to participate will be asked to ive non-opposition.&#xD;
+&#xD;
+      Seven days before hospital discharge, index patients who consent to participate will provide&#xD;
+      a fecal sample to be screened for MDR-E carriage. If the patient is still positive at&#xD;
+      discharge for MDR-E fecal carriage, he/she will be included in the cohort (=index case).&#xD;
+      His/her household members (=HH members) will then be invited to participate and included&#xD;
+      after agreement.&#xD;
+&#xD;
+      After inclusion, index cases and household members will be prospectively followed-up for 3&#xD;
+      months (+/-7 days), and asked to provide self-collected stool samples and questionnaires on&#xD;
+      day7, day15, day21, day30, month2 and month3.&#xD;
+&#xD;
+      Self-collected stool samples will be mailed to the reference microbiology laboratory (Bichat)&#xD;
+      with self-filled questionnaires.&#xD;
+&#xD;
+      In addition, in the context of the ancillary study:&#xD;
+&#xD;
+      To obtain accurate data on interactions between household members, Ultra Wide Band (UWB)&#xD;
+      systems will be used. During 4 days, index cases and household members will wear a small&#xD;
+      wireless sensor that records continuously the identity of other sensors that are in close&#xD;
+      proximity. For each household, recording will be performed on 2 week days and 2 week-end days&#xD;
+      (Saturday and Sunday).&#xD;
+&#xD;
+      Proportion of transmissions in all household members over the study period (SAR) and 95%&#xD;
+      confidence intervals will be calculated at the end of follow-up for both probable and&#xD;
+      confirmed transmissions and described according to household size and index-case population&#xD;
+      type. Kaplan Meier survival analysis will be used to estimate the median time to (first)&#xD;
+      acquisition among household members and a Cox shared frailty-model to study variables&#xD;
+      associated with acquisition index-case and household members' potential exposures,&#xD;
+      household's characteristics, MDR-E abundance in index case-patients, intestinal microbiota&#xD;
+      diversity and composition). Additionally, a stochastic individual based model to capture the&#xD;
+      multifactorial processes involved in MDR-E transmission will developed. Several models of&#xD;
+      increasing complexity will be built in order to compare their likelihood given the&#xD;
+      acquisitions observed over time in the different households. The model will be integrated in&#xD;
+      an inference framework to analyse the data and estimate model parameters (eg transmission&#xD;
+      rates for the different routes). The inference techniques will involve bayesian statistics,&#xD;
+      probably Markov Chain Monte Carlo with data augmentation. The different models will be&#xD;
+      compared based on specific criterion, such as the Deviance Information Criterion (DIC). The&#xD;
+      parameterized model selected in the preceding step will be used to simulate and assess&#xD;
+      different strategies of control of MDR-E emergence and transmission to households.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">February 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Secondary attack rate (SAR) for confirmed transmissions, i.e. the proportion of confirmed acquisitions of MDR-E (based on genetic analysis of strains) in all household members over the study period</measure>
+    <time_frame>3 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SAR for possible transmissions, i.e. the proportion of possible (based on phenotypic analysis of strains) acquisitions of MDR-E in all household members over the study period</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hazard ratios of epidemiological and microbiological factors associated with confirmed transmission</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median time to decolonization in MDR-E carriers (index or household members)</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hazard ratios of epidemiological and microbiological factors associated with decolonization</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diversity indices of the microbiota (Shannon diversity index) in pairs index/household member with or without confirmed transmission</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of interactions between index patients and household participants</measure>
+    <time_frame>4 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of interactions between index and household participants</measure>
+    <time_frame>4 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of observed Operational Taxonomic Units in pairs index/household member with or without confirmed transmission</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bray-Curtis unweighted UniFrac distance in pairs index/household member with or without confirmed transmission</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bray-Curtis dissimilarity in pairs index/household member with or without confirmed transmission</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">507</enrollment>
+  <condition>Adults Patients, With Fecal Carriage of Multi-Drug Resistant Enterobacterales (MDR-E)</condition>
+  <arm_group>
+    <arm_group_label>Index patients</arm_group_label>
+    <description>Adults MDR-E carriers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Household members</arm_group_label>
+    <description>Adults or children living in the same household as the index case (i.e. sharing the same kitchen and/or bathroom and/or toilets) during the 3 months following inclusion</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Stools samples, isolated MDR E strains&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults MDR-E carriers (index patients) and their related household members (children,&#xD;
+        pregnant and breastfeeding women included)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria :&#xD;
+&#xD;
+        Index patients&#xD;
+&#xD;
+          -  adults (≥ 18 years)&#xD;
+&#xD;
+          -  hospitalized in participating hospitals&#xD;
+&#xD;
+          -  positive for MDR-E fecal carriage on routine screening during hospital stay&#xD;
+&#xD;
+          -  with no documented MDR-E fecal carriage in the 12 months preceding current&#xD;
+             hospitalization&#xD;
+&#xD;
+          -  regularly living with at least two additional household members who expressed their&#xD;
+             non-opposition to participate.&#xD;
+&#xD;
+          -  planning to live in Ile de France for the next three months Household members&#xD;
+&#xD;
+          -  adults or children living in the same household as the index case (i.e. sharing the&#xD;
+             same kitchen and/or bathroom and/or toilets) during the 3 months following inclusion,&#xD;
+             and who expressed their non-opposition to participate.&#xD;
+&#xD;
+          -  planning to live in Ile de France for the next three months&#xD;
+&#xD;
+        Exclusion criteria :&#xD;
+&#xD;
+        Lack of non-opposition to participate and to use clinical data&#xD;
+&#xD;
+          -  Subject under legal protection (guardianship)&#xD;
+&#xD;
+          -  Subject deprived of liberty under judicial constraint&#xD;
+&#xD;
+          -  Subject undergoing psychiatric care&#xD;
+&#xD;
+          -  Lack of affiliation to a social security scheme Secondary exclusion criteria&#xD;
+&#xD;
+          -  Index member negative for MDR-E fecal carriage either before discharge (D-7 to D-2) or&#xD;
+             on day of discharge (D0).&quot;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kernéis Solen, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kernéis Solen, MD, PhD</last_name>
+    <phone>+33 1 40 25 61 99</phone>
+    <email>solen.kerneis@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Armand-Lefevre Laurence, Pharm. D., PhD.</last_name>
+    <phone>+33 1 40 25 85 00</phone>
+    <email>laurence.armand@aphp.fr</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Multi-Drug Resistant Enterobacterales ; ; ; ;</keyword>
+  <keyword>Extended-Spectrum Beta-Lactamase producing Enterobacterales</keyword>
+  <keyword>Carbapenemase-Producing Enterobacterales</keyword>
+  <keyword>Transmission</keyword>
+  <keyword>Community</keyword>
+  <keyword>households</keyword>
+  <keyword>Mathematical modelling</keyword>
+  <keyword>microbiota</keyword>
+  <keyword>Whole genome sequencing</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

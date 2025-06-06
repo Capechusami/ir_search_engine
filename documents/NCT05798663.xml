@@ -1,0 +1,547 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05798663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AFT-57</org_study_id>
+    <nct_id>NCT05798663</nct_id>
+  </id_info>
+  <brief_title>Atezolizumab Immunotherapy With or Without Tiragolumab for Patients With Unresectable Stage III NSCLC</brief_title>
+  <official_title>Randomized Phase II Trial of Neoadjuvant and Adjuvant Atezolizumab With or Without Tiragolumab in Conjunction With Chemoradiotherapy for Unresectable Stage III NSCLC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alliance Foundation Trials, LLC.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alliance Foundation Trials, LLC.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase II trial of neoadjuvant and adjuvant atezolizumab with or without tiragolumab&#xD;
+      in conjunction with chemoradiotherapy for unresectable stage III NSCLC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized phase II design provides a fairly rapid way to determine which of two&#xD;
+      potential neoadjuvant immunotherapy regimens holds the most promise for evaluation in a&#xD;
+      subsequent phase III trial against standard of care adjuvant immunotherapy. The AFT-16 trial&#xD;
+      of neoadjuvant atezolizumab in this setting provided proof of concept for safety of the&#xD;
+      neoadjuvant approach and for outcomes that compare favorably with standard of care therapy.&#xD;
+      The field of lung cancer immunotherapy is evolving rapidly and since the start of AFT-16 not&#xD;
+      only has adjuvant immunotherapy with durvalumab become standard of care, but combination&#xD;
+      immunotherapy with tiragolumab and atezolizumab for NSCLC has received breakthrough therapy&#xD;
+      designation. Safety of combination immunotherapy and radiation has been established in&#xD;
+      several trials, but the safety and efficacy of dual immunotherapy is not yet known. In a&#xD;
+      group of patients who can be but often are not cured with current therapies, establishment of&#xD;
+      a strategy that could increase cure rate is urgent. This randomized phase II trial can be&#xD;
+      advocated to determine the best of the two arms for further study with slightly inflated type&#xD;
+      I error rate&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">July 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the progression-free survival (PFS) of patients treated with neoadjuvant, concurrent and adjuvant atezolizumab with or without tiragolumab.</measure>
+    <time_frame>2 years</time_frame>
+    <description>The primary objective is to determine the relative efficacy of atezolizumab with or without tiragolumab based on progression-free survival (PFS) and select a promising treatment out of the two experimental regiments for further investigation in a future phase III trial compared with standard of care treatment. Progression-Free Survival (PFS) is defined as the time from randomization (or registration) to the earlier of progression or death due to any cause. Participants alive without disease progression are censored at date of last disease evaluation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Overall Survival (OS) is defined as the time from randomization (or registration) to death due to any cause, or censored at date last known alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall response (ORR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The proportion of patients by arm that achieve partial or complete response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of the two regimens</measure>
+    <time_frame>1 year</time_frame>
+    <description>The frequency of grade 3+ adverse events will by reported by arm.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">178</enrollment>
+  <condition>NSCLC</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>79 participants will be randomized 1:1 to Arm A. Participants in Arm A will receive induction immunotherapy with atezolizumab on Day 1 of each cycle, concurrent atezolizumab with chemoradiotherapy, and adjuvant atezolizumab Day 1 of each cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Atezolizumab and Tiragolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>79 participants will be randomized 1:1 to Arm B. Participants in Arm B will receive induction immunotherapy with atezolizumab plus tiragolumab on Day 1 of each cycle, concurrent atezolizumab with chemoradiotherapy, and adjuvant atezolizumab plus tiragolumab on Day 1 of each cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: Atezolizumab and Tiragolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An additional pilot cohort of 20 patients will be accrued at selected sites towards the end of the overall accrual period and after initial safety evaluations of the addition of tiragolumab to atezolizumab before and after chemoradiotherapy.&#xD;
+Participants enrolled to Arm C will receive induction immunotherapy with atezolizumab plus tiragolumab on Day 1 of each cycle, concurrent atezolizumab plus tiragolumab with chemoradiotherapy, and adjuvant atezolizumab plus tiragolumab on Day 1 of each 21 cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Atezolizumab will be given to participants intravenously at a dosage of 1200mg on Day 1 of each 21-day cycle, and on days 1 and 22 of concurrent chemoradiotherapy.</description>
+    <arm_group_label>Arm A: Atezolizumab</arm_group_label>
+    <arm_group_label>Arm B: Atezolizumab and Tiragolumab</arm_group_label>
+    <arm_group_label>Arm C: Atezolizumab and Tiragolumab</arm_group_label>
+    <other_name>Tecentriq</other_name>
+    <other_name>L01XC32</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tiragolumab</intervention_name>
+    <description>Tiragolumab will be given to participants intravenously at a dosage of 600 mg on day 1 of each 21-day cycle (Arms B and C), and on days 1 and 22 of concurrent chemoradiotherapy (Arm C only).</description>
+    <arm_group_label>Arm B: Atezolizumab and Tiragolumab</arm_group_label>
+    <arm_group_label>Arm C: Atezolizumab and Tiragolumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Newly pathologically proven diagnosis of stage IIIA/B/C (per AJCC 8) NSCLC&#xD;
+&#xD;
+          2. Age at least 18 years.&#xD;
+&#xD;
+          3. Availability of a representative tumor specimen that is suitable for BOTH&#xD;
+             determination of PD-L1 status via centralized testing and, independently, other&#xD;
+             required correlative study biomarkers. Tissue submission must include:&#xD;
+&#xD;
+             a. A representative FFPE tumor specimen in a paraffin block, along with an associated&#xD;
+             pathology report, which will be sent to the biorepository. Patients may be eligible&#xD;
+             despite not meeting this additional tissue requirement at the discretion of the AFT&#xD;
+             Study Team. If archival tumor tissue is unavailable or is determined to be unsuitable&#xD;
+             for required testing, tumor tissue must be obtained from a biopsy performed at&#xD;
+             screening. Questions about biopsy adequacy should be directed to the study team.&#xD;
+&#xD;
+          4. No active autoimmune disease or uncontrolled infection&#xD;
+&#xD;
+          5. Normal bone marrow, renal, hepatic function&#xD;
+&#xD;
+          6. FEV1 ≥ 1.2L or &gt; 40% predictive&#xD;
+&#xD;
+          7. No clinically significant underlying heart or lung disease.&#xD;
+&#xD;
+          8. Measurable (RECIST v1.1) stage IIIA, IIIB or IIIC disease per AJCC 8.&#xD;
+&#xD;
+          9. Patients must be considered unresectable or inoperable. Patients who decline surgery&#xD;
+             for stage III NSCLC are also eligible. Patients with nodal recurrence after surgery&#xD;
+             for early-stage NSCLC are eligible if the following criteria are met:&#xD;
+&#xD;
+               -  No prior systemic therapy or radiation for this lung cancer&#xD;
+&#xD;
+               -  Prior curative-intent surgery at least 3 months prior to the nodal recurrence&#xD;
+                  Note: Patients may be medically unfit for surgery, (e.g., due to general&#xD;
+                  anesthesia risk), but remain fit for chemoradiotherapy. Thus, the criterion does&#xD;
+                  not necessarily have to exclude all patients who are medically unfit for surgery.&#xD;
+&#xD;
+         10. Stage III A/B/C disease (per AJCC 8) with minimum diagnostic evaluation within 6 weeks&#xD;
+             to include:&#xD;
+&#xD;
+               -  History/physical examination&#xD;
+&#xD;
+               -  Contrast enhanced CT of the chest including upper abdomen (or CT without contrast&#xD;
+                  if contrast is medically contraindicated)&#xD;
+&#xD;
+               -  MRI of the brain with contrast (or CT with contrast if MRI is medically&#xD;
+                  contraindicated)&#xD;
+&#xD;
+               -  PET/CT skull to thigh If pleural fluid is visible on CT scan, thoracentesis to&#xD;
+                  exclude malignancy should be obtained unless the effusion is too small to tap in&#xD;
+                  which case the patient is eligible.&#xD;
+&#xD;
+         11. Patients must be at least 4 weeks from major surgery and must be fully recovered.&#xD;
+&#xD;
+         12. Adequate hematologic and end organ function, defined by the following laboratory&#xD;
+             results obtained within 14 days prior to the first study treatment (Cycle 1, Day 1);&#xD;
+             if repeat labs are obtained on or prior to C1D1 they must re-meet eligibility criteria&#xD;
+             to treat):&#xD;
+&#xD;
+               -  ANC ≥ 1500 cells/μL&#xD;
+&#xD;
+               -  WBC counts &gt; 2500/ μ L&#xD;
+&#xD;
+               -  Lymphocyte count ≥ 500/ μ L&#xD;
+&#xD;
+               -  Platelet count ≥ 100,000/ μ L&#xD;
+&#xD;
+               -  Hemoglobin ≥ 9.0 g/dL (patients may be transfused to meet this criterion).&#xD;
+&#xD;
+               -  Total bilirubin ≤ 1.5 ⋅ upper limit of normal (ULN) with the following exception:&#xD;
+                  Patients with known Gilbert disease who have serum bilirubin level ≤ 3 ⋅ ULN may&#xD;
+                  be enrolled.&#xD;
+&#xD;
+               -  AST, ALT and Alkaline phosphatase ≤ 2.5 ⋅ ULN&#xD;
+&#xD;
+               -  Serum albumin ≥ 25 g/L (2.5 g/dL)&#xD;
+&#xD;
+               -  For patients not receiving therapeutic anticoagulation: INR and aPTT ≤ 1.5 ⋅ ULN&#xD;
+&#xD;
+               -  For patients receiving therapeutic anticoagulation: stable anticoagulant regimen&#xD;
+&#xD;
+               -  Serum creatinine ≤ 1.5 ⋅ ULN or creatinine clearance ≥ 45 mL/min on the basis of&#xD;
+                  the Cockcroft-Gault glomerular filtration rate estimation: [(140 - age) ⋅ (weight&#xD;
+                  in kg) ⋅ (0.85 if female)] / [72 ⋅ (serum creatinine in mg/dL)]&#xD;
+&#xD;
+         13. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.&#xD;
+&#xD;
+         14. Negative HIV test at screening&#xD;
+&#xD;
+         15. Negative hepatitis B surface antigen (HBsAg) test at screening&#xD;
+&#xD;
+         16. Positive hepatitis B surface antibody (HBsAb) test at screening, or negative HBsAb at&#xD;
+             screening accompanied by either of the following:&#xD;
+&#xD;
+               -  Negative total hepatitis B core antibody (HBcAb)&#xD;
+&#xD;
+               -  Positive total HBcAb test followed by quantitative hepatitis B virus (HBV) DNA &lt;&#xD;
+                  500 IU/mL&#xD;
+&#xD;
+               -  The HBV DNA test will be performed only for patients who have a negative HBsAg&#xD;
+                  test, a negative HBsAb test, and a positive total HBcAb test.&#xD;
+&#xD;
+         17. Negative hepatitis C virus (HCV) antibody test at screening, or positive HCV antibody&#xD;
+             test followed by a negative HCV RNA test at screening. The HCV RNA test will be&#xD;
+             performed only for patients who have a positive HCV antibody test.&#xD;
+&#xD;
+         18. Non-pregnant and non-nursing. The effect of atezolizumab and tiragolumab on the fetus&#xD;
+             is unknown.&#xD;
+&#xD;
+         19. For women of childbearing potential: agreement to remain abstinent (refrain from&#xD;
+             heterosexual intercourse) or use contraception, and agreement to refrain from donating&#xD;
+             eggs, as defined below:&#xD;
+&#xD;
+               -  Women must remain abstinent (refrain from heterosexual intercourse) or use&#xD;
+                  contraceptive methods with a failure rate of &lt; 1% per year during the treatment&#xD;
+                  period and for 90 days after the final dose of tiragolumab, 5 months after the&#xD;
+                  final dose of atezolizumab, and 6 months after the final dose of paclitaxel,&#xD;
+                  pemetrexed, gemcitabine, carboplatin or cisplatin. Women must refrain from&#xD;
+                  donating eggs during this same period.&#xD;
+&#xD;
+               -  A woman is considered to be of childbearing potential if she is postmenarchal,&#xD;
+                  has not reached a postmenopausal state (≥ 12 continuous months of amenorrhea with&#xD;
+                  no identified cause other than menopause), and is not permanently infertile due&#xD;
+                  to surgery (i.e., removal of ovaries, fallopian tubes, and/or uterus) or another&#xD;
+                  cause as determined by the investigator (e.g., Müllerian agenesis). The&#xD;
+                  definition of childbearing potential may be adapted for alignment with local&#xD;
+                  guidelines or regulations.&#xD;
+&#xD;
+               -  Examples of contraceptive methods with a failure rate of &lt; 1% per year include&#xD;
+                  bilateral tubal ligation, male sterilization, hormonal contraceptives that&#xD;
+                  inhibit ovulation, hormone-releasing intrauterine devices, and copper&#xD;
+                  intrauterine devices.&#xD;
+&#xD;
+               -  The reliability of sexual abstinence should be evaluated in relation to the&#xD;
+                  duration of the clinical trial and the preferred and usual lifestyle of the&#xD;
+                  patient. Periodic abstinence (e.g., calendar, ovulation, symptothermal, or&#xD;
+                  postovulation methods) and withdrawal are not adequate methods of contraception.&#xD;
+                  If required per local guidelines or regulations, locally recognized adequate&#xD;
+                  methods of contraception and information about the reliability of abstinence will&#xD;
+                  be described in the local Informed Consent Form.&#xD;
+&#xD;
+               -  Women of childbearing potential (WOCBP) must be willing to use 2 methods of birth&#xD;
+                  control or be surgically sterile, or abstain from heterosexual activity for the&#xD;
+                  course of the study through 6 months after the last dose of study medication.&#xD;
+                  Patients of childbearing potential are those who have not been surgically&#xD;
+                  sterilized or have not been free of menses &gt; 1 year.&#xD;
+&#xD;
+             Women who would like to become pregnant after study treatment discontinuation should&#xD;
+             seek advice on oocyte cryopreservation prior to initiation of study treatment because&#xD;
+             of the possibility of irreversible infertility due to treatment with carboplatin.&#xD;
+&#xD;
+         20. For men: agreement to remain abstinent (refrain from heterosexual intercourse) or use&#xD;
+             a condom, and agreement to refrain from donating sperm, as defined below:&#xD;
+&#xD;
+               -  With a female partner of childbearing potential, men who are not surgically&#xD;
+                  sterile must remain abstinent or use a condom plus an additional contraceptive&#xD;
+                  method that together result in a failure rate of &lt; 1% per year during the&#xD;
+                  treatment period, for 90 days after the final dose of tiragolumab, and for 6&#xD;
+                  months after the final dose of paclitaxel and/or carboplatin. Men must refrain&#xD;
+                  from donating sperm during this same period.&#xD;
+&#xD;
+               -  With a pregnant female partner, men must remain abstinent or use a condom during&#xD;
+                  the treatment period for 90 days after the final dose of tiragolumab, and for 6&#xD;
+                  months after the final dose of paclitaxel or carboplatin to avoid exposing the&#xD;
+                  embryo.&#xD;
+&#xD;
+               -  The reliability of sexual abstinence should be evaluated in relation to the&#xD;
+                  duration of the clinical trial and the preferred and usual lifestyle of the&#xD;
+                  patient. Periodic abstinence (e.g., calendar, ovulation, symptothermal, or&#xD;
+                  postovulation methods) and withdrawal are not adequate methods of contraception.&#xD;
+                  If required per local guidelines or regulations, locally recognized adequate&#xD;
+                  methods of contraception and information about the reliability of abstinence will&#xD;
+                  be described in the local Informed Consent Form.&#xD;
+&#xD;
+               -  Male patients must agree to use an adequate method of contraception starting with&#xD;
+                  the first dose of study therapy through 6 months after the last dose of study&#xD;
+                  therapy Men who would like to father a child after study treatment initiation&#xD;
+                  should be advised regarding the conservation of sperm prior to treatment because&#xD;
+                  of the possibility of irreversible infertility resulting from chemotherapies used&#xD;
+                  in this study.&#xD;
+&#xD;
+         21. Patients are capable of giving informed consent and/or have an acceptable surrogate&#xD;
+             capable of giving consent on the subject's behalf.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Active autoimmune disease.&#xD;
+&#xD;
+          2. Greater than minimal, exudative, or cytologically positive pleural effusions.&#xD;
+&#xD;
+          3. Involved contralateral hilar nodes.&#xD;
+&#xD;
+          4. More than 10% unintentional weight loss within the past month.&#xD;
+&#xD;
+          5. Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free&#xD;
+             for a minimum of 3 years; non-invasive conditions such as carcinoma in situ of the&#xD;
+             breast, localized prostate cancer or thyroid nodules, carcinoma in situ of the oral&#xD;
+             cavity or cervix are all permissible.&#xD;
+&#xD;
+          6. Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for a&#xD;
+             different cancer is allowable.&#xD;
+&#xD;
+          7. Prior radiotherapy to the region of the study cancer that would result in clinically&#xD;
+             significant overlap of radiation therapy fields.&#xD;
+&#xD;
+          8. Prior severe infusion reaction to a monoclonal antibody.&#xD;
+&#xD;
+          9. Significant history of uncontrolled cardiac disease; i.e., uncontrolled hypertension,&#xD;
+             unstable angina, myocardial infarction within the last 6 months, uncontrolled&#xD;
+             congestive heart failure, and cardiomyopathy with decreased ejection fraction.&#xD;
+&#xD;
+         10. Acute bacterial or fungal infection requiring intravenous antibiotics at the time of&#xD;
+             registration or within 2 weeks of cycle 1 day 1.&#xD;
+&#xD;
+               -  Severe active infection, including, but not limited to, hospitalization for&#xD;
+                  complications of infection, bacteremia, or severe pneumonia, or any active&#xD;
+                  infection that, in the opinion of the investigator, could impact patient safety&#xD;
+&#xD;
+               -  Treatment with therapeutic oral or IV antibiotics within 2 weeks prior to&#xD;
+                  initiation of study treatment&#xD;
+&#xD;
+               -  Patients receiving prophylactic antibiotics (e.g., to prevent a urinary tract&#xD;
+                  infection or chronic obstructive pulmonary disease exacerbation) are eligible for&#xD;
+                  the study&#xD;
+&#xD;
+         11. Chronic Obstructive Pulmonary Disease exacerbation or other respiratory illness&#xD;
+             requiring hospitalization or precluding study therapy within 30 days before&#xD;
+             registration.&#xD;
+&#xD;
+         12. Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects.&#xD;
+&#xD;
+         13. Acquired Immune Deficiency Syndrome (AIDS) based upon current CDC definition; note,&#xD;
+             HIV testing is required for entry into this protocol due to the immunologic basis for&#xD;
+             induction treatment.&#xD;
+&#xD;
+         14. Uncontrolled or symptomatic hypercalcemia (ionized calcium &gt; 1.5 mmol/L, calcium &gt; 12&#xD;
+             mg/dL or corrected serum calcium &gt; ULN).&#xD;
+&#xD;
+         15. Prior allogeneic stem cell or solid organ transplantation.&#xD;
+&#xD;
+         16. Pregnancy, lactation, or inability or unwillingness to use medically acceptable forms&#xD;
+             of contraception if pregnancy is a risk.&#xD;
+&#xD;
+         17. Any history of allergic reaction to paclitaxel or other taxanes, or to carboplatin.&#xD;
+&#xD;
+         18. Uncontrolled neuropathy grade 2 or greater regardless of cause.&#xD;
+&#xD;
+         19. Any approved or unapproved anticancer therapy, including chemotherapy, hormonal&#xD;
+             therapy, or radiotherapy, within 3 weeks prior to initiation of study treatment;&#xD;
+             however, the following are allowed:&#xD;
+&#xD;
+               -  Hormone-replacement therapy or oral contraceptives&#xD;
+&#xD;
+               -  Herbal therapy &gt; 1 week prior to Cycle 1, Day 1 (herbal therapy intended as&#xD;
+                  anticancer therapy must be discontinued at least 1 week prior to Cycle 1, Day 1)&#xD;
+&#xD;
+         20. Known clinically significant liver disease, including active viral, alcoholic, or&#xD;
+             other hepatitis; cirrhosis; fatty liver; and inherited liver disease.&#xD;
+&#xD;
+               -  Patients with past or resolved hepatitis B infection (defined as having a&#xD;
+                  negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc&#xD;
+                  [antibody to hepatitis B core antigen] antibody test) are eligible.&#xD;
+&#xD;
+               -  Patients positive for hepatitis C virus (HCV) antibody are eligible only if&#xD;
+                  polymerase chain reaction (PCR) is negative for HCV RNA.&#xD;
+&#xD;
+         21. Known hypersensitivity to Chinese hamster ovary cell products or other recombinant&#xD;
+             human antibodies.&#xD;
+&#xD;
+         22. Inability to comply with study and follow-up procedures.&#xD;
+&#xD;
+         23. History of active autoimmune disease, including but not limited to systemic lupus&#xD;
+             erythematosus, rheumatoid arthritis, inflammatory bowel disease, vascular thrombosis&#xD;
+             associated with antiphospholipid syndrome, Wegener's granulomatosis, Sjögren's&#xD;
+             syndrome, Bell's palsy, Guillain-Barré syndrome, multiple sclerosis, autoimmune&#xD;
+             thyroid disease, vasculitis, or glomerulonephritis.&#xD;
+&#xD;
+         24. Patients with a history of autoimmune hypothyroidism on a stable dose of thyroid&#xD;
+             replacement hormone may be eligible.&#xD;
+&#xD;
+         25. Patients with controlled Type 1 diabetes mellitus on a stable insulin regimen may be&#xD;
+             eligible.&#xD;
+&#xD;
+         26. Patients with eczema, psoriasis, lichen simplex chronicus of vitiligo with&#xD;
+             dermatologic manifestations only (e.g., patients with psoriatic arthritis would be&#xD;
+             excluded) are permitted provided that they meet the following conditions:&#xD;
+&#xD;
+               -  Patients with psoriasis must have a baseline ophthalmologic exam to rule out&#xD;
+                  ocular manifestations.&#xD;
+&#xD;
+               -  Rash must cover less than 10% of body surface area (BSA).&#xD;
+&#xD;
+               -  Disease is well controlled at baseline and only requiring low potency topical&#xD;
+                  steroids (e.g., hydrocortisone 2.5%, hydrocortisone butyrate 0.1%, fluocinolone&#xD;
+                  0.01%, desonide 0.05%, alclometasone dipropionate 0.05%).&#xD;
+&#xD;
+               -  No acute exacerbations of underlying condition within the last 6 months (not&#xD;
+                  requiring psoralen plus ultraviolet A radiation [PUVA], methotrexate, retinoids,&#xD;
+                  biologic agents, oral calcineurin inhibitors; high potency or oral steroids).&#xD;
+&#xD;
+         27. History of idiopathic pulmonary fibrosis, pneumonitis (including drug induced),&#xD;
+             organizing pneumonia (i.e., bronchiolitis obliterans, cryptogenic organizing&#xD;
+             pneumonia, etc.), or evidence of active pneumonitis on screening chest computed&#xD;
+             tomography (CT) scan.&#xD;
+&#xD;
+         28. Any other diseases, metabolic dysfunction, physical examination finding, or clinical&#xD;
+             laboratory finding giving reasonable suspicion of a disease or condition that&#xD;
+             contraindicates the use of an investigational drug or that may affect the&#xD;
+             interpretation of the results or render the patient at high risk from treatment&#xD;
+             complications.&#xD;
+&#xD;
+         29. Active tuberculosis.&#xD;
+&#xD;
+         30. Major surgical procedure within 28 days prior to Cycle 1, Day 1 or anticipation of&#xD;
+             need for a major surgical procedure during the course of the study.&#xD;
+&#xD;
+         31. Administration of a live, attenuated vaccine within 4 weeks before Cycle 1, Day 1 or&#xD;
+             anticipation that such a live, attenuated vaccine will be required during the study.&#xD;
+&#xD;
+             o Patients must not receive live, attenuated influenza vaccine (e.g., FluMist→) within&#xD;
+             4 weeks prior to Cycle 1, Day 1 or at any time during the study.&#xD;
+&#xD;
+         32. Illness or condition that may interfere with a patient's capacity to understand,&#xD;
+             follow, and/or comply with study procedures.&#xD;
+&#xD;
+         33. Treatment with systemic immunostimulatory agents (including, but not limited to,&#xD;
+             interferon and IL-2) within 4 weeks or 5 drug-elimination half-lives (whichever is&#xD;
+             longer) prior to initiation of study treatment.&#xD;
+&#xD;
+         34. Treatment with systemic immunosuppressive medication (including, but not limited to,&#xD;
+             corticosteroids, cyclophosphamide, azathioprine, methotrexate, thalidomide, and&#xD;
+             anti-tumor necrosis factor- TNF-α agents) within 2 weeks prior to initiation of study&#xD;
+             treatment, or anticipation of need for systemic immunosuppressive medication during&#xD;
+             study treatment, with the following exceptions:&#xD;
+&#xD;
+               -  Patients who received acute, low-dose systemic immunosuppressant medication or a&#xD;
+                  one-time pulse dose of systemic immunosuppressant medication (e.g., 48 hours of&#xD;
+                  corticosteroids for a contrast allergy) are eligible for the study after Medical&#xD;
+                  Monitor confirmation has been obtained.&#xD;
+&#xD;
+               -  Patients who received mineralocorticoids (e.g., fludrocortisone), corticosteroids&#xD;
+                  for chronic obstructive pulmonary disease (COPD) or asthma, or low-dose&#xD;
+                  corticosteroids for orthostatic hypotension or adrenal insufficiency are eligible&#xD;
+                  for the study.&#xD;
+&#xD;
+         35. Tumors with known EGFR mutations or ALK fusion positive/mutations. However, tumors do&#xD;
+             not need to be tested specifically for these alterations for trial eligibility.&#xD;
+&#xD;
+         36. Prior treatment with CD137 agonists or immune checkpoint blockade therapies, including&#xD;
+             anti-CTLA-4, anti-PD-1, anti-TIGIT, and anti-PD-L1 therapeutic antibodies procedures.&#xD;
+&#xD;
+         37. Treatment with systemic immunostimulatory agents (including but not limited to&#xD;
+             interferon [IFN]-α or interleukin [IL]-2) within 4 weeks or 5 drug-elimination&#xD;
+             half-lives of the drug (whichever is shorter) prior to Cycle 1, Day 1.&#xD;
+&#xD;
+         38. Treatment with investigational agent within 42 days prior to Cycle 1, Day 1 (or within&#xD;
+             5 half-lives of the investigational product, whichever is longer).&#xD;
+&#xD;
+         39. Treatment with systemic immunosuppressive medications (including but not limited to&#xD;
+             prednisone, cyclophosphamide, azathioprine, methotrexate, thalidomide, or anti-tumor&#xD;
+             necrosis factor [anti-TNF] agents) within 2 weeks prior to Cycle 1, Day 1.&#xD;
+&#xD;
+         40. Patients who have received acute, low-dose, systemic immunosuppressant medications&#xD;
+             (e.g., a one-time dose of dexamethasone for nausea) may be enrolled.&#xD;
+&#xD;
+         41. The use of inhaled corticosteroids and mineralocorticoids (e.g., fludrocortisone) for&#xD;
+             patients with orthostatic hypotension or adrenocortical insufficiency is allowed.&#xD;
+&#xD;
+         42. History of severe allergic, anaphylactic, or other hypersensitivity reactions to&#xD;
+             chimeric or humanized antibodies or fusion proteins.&#xD;
+&#xD;
+         43. Positive Epstein-Barr virus (EBV) viral capsid antigen immunoglobulin M (IgM) test at&#xD;
+             screening.&#xD;
+&#xD;
+             o An EBV polymerase chain reaction (PCR) test should be performed as clinically&#xD;
+             indicated to screen for acute infection or suspected chronic active infection.&#xD;
+             Patients with a positive EBV PCR test are excluded.&#xD;
+&#xD;
+         44. History of leptomeningeal disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Helen Ross, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Banner MD Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Quality Management and Compliance</last_name>
+    <phone>617-732-8727</phone>
+    <email>ClinicalTrials.Queries@alliancefoundationtrials.org</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>March 23, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2023</study_first_posted>
+  <last_update_submitted>April 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

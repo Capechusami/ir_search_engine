@@ -1,0 +1,394 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05073250</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHN-PLAGH-BT-068</org_study_id>
+    <nct_id>NCT05073250</nct_id>
+  </id_info>
+  <brief_title>IBI376 Plus Rituximab in Patients With Untreated Indolent Lymphoma.</brief_title>
+  <official_title>IBI376 Plus Rituximab in Patients With Untreated Indolent Lymphoma：a Single-center, Open-label, Phase II Clinical Trial.（REPLY Study）</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese PLA General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese PLA General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Follicular lymphoma (FL) and marginal zone lymphoma (MZL) are the most common inert non&#xD;
+      Hodgkin's lymphoma (iNHL). The standard first-line treatment of advanced FL / MZL is based on&#xD;
+      rituximab. Whether combined with chemotherapy or not, iNHL can induce lasting remission, but&#xD;
+      most of it is usually incurable. Therefore, early treatment of advanced iNHL should focus on&#xD;
+      protecting the bone marrow function of patients. Although the first-line immunochemotherapy&#xD;
+      offer high efficacy but also high incidence of toxicity. Phosphatidylinositol 3-kinase (PI3K)&#xD;
+      pathway plays an important role in the occurrence and development of B-cell malignant tumors.&#xD;
+      Studies have shown that PI3K inhibitor alone has good antitumor effect and tolerance in&#xD;
+      patients with recurrent refractory iNHL. In addition, PI3K inhibitor combined with rituximab&#xD;
+      showed better prognosis compared with rituximab monotherapy in FL / MZL patients. Therefore,&#xD;
+      the chemo-free regime, PI3K inhibitor in combination with rituximab may explore a new avenue&#xD;
+      for FL and MZL patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Follicular lymphoma (FL) and marginal zone lymphoma (MZL) are the most common inert non&#xD;
+      Hodgkin's lymphoma (iNHL). Their natural courses are slow but highly variable. The standard&#xD;
+      first-line treatment of advanced FL / MZL is based on rituximab. Whether combined with&#xD;
+      chemotherapy or not, it can induce lasting remission, but it is usually incurable. Although&#xD;
+      the first-line immunochemotherapy regimen has high efficacy, it also has high toxicity.&#xD;
+      Cytotoxic chemotherapy is related to many side effects, including bone marrow suppression and&#xD;
+      immunosuppression, gastrointestinal and cardiac toxicity, neurotoxicity and the occurrence of&#xD;
+      secondary tumors. About 20% of FL patients relapse within 2 years after first-line&#xD;
+      chemotherapy. The overall prognosis of these patients is poor. The median age of FL / MZL&#xD;
+      diagnosis is over 60 years old. These patients cannot tolerate conventional&#xD;
+      immunochemotherapy due to old age or complications. Compared with young and non complicated&#xD;
+      patients, the long-term survival is significantly reduced.&#xD;
+&#xD;
+      Phosphatidylinositol 3-kinase (PI3K) pathway plays an important role in the occurrence and&#xD;
+      development of B-cell malignant tumors. IBI376 (INCB050465) is a second generation, effective&#xD;
+      and highly selective PI3Kδ inhibitor. Recently, the results of two key phase II clinical&#xD;
+      trials of CITADEL-203 and CITADEL-204 show that IBI376 monotherapy has a rapid and&#xD;
+      long-lasting high response rate in patients with recurrent or refractory iNHL, and is safe&#xD;
+      and tolerable. In addition, the CRONOS-3 study showed that copanlisib, an intravenous pan&#xD;
+      class I PI3K inhibitor, combined with rituximab showed better progression free survival and&#xD;
+      clinically significant improvement in objective remission rate compared with standard&#xD;
+      rituximab monotherapy in FL / MZL patients. In conclusion, we speculate that the chemotherapy&#xD;
+      free regimen of IBI376 combined with rituximab may produce deep and lasting remission in&#xD;
+      patients with FL and MZL.&#xD;
+&#xD;
+      This is a single center, open label, single arm phase II clinical trial, which is divided&#xD;
+      into cohort A (follicular lymphoma) and cohort B (marginal zone lymphoma). The two cohorts&#xD;
+      are carried out at the same time. A total of 40 patients were treated with IBI376 combined&#xD;
+      with rituximab. The primary objective of this study is to assess the feasibility of PI3K&#xD;
+      inhibitor IBI376 in combination with rituximab in patients with untreated FL and MZL. The&#xD;
+      primary objective of this study is to assess the feasibility of PI3K inhibitor IBI376 in&#xD;
+      combination with rituximab in patients with untreated FL and MZL. The exploratory objective&#xD;
+      is to evaluate the clinical predictive biomarkers for efficacy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 31, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete response (CR) rate</measure>
+    <time_frame>Within 6 months of induction therapy completion</time_frame>
+    <description>The percentage of patients with CR was determined according to the revised lymphoma efficacy evaluation criteria (Lugano 2014 criteria).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>Within 6 months of induction therapy completion</time_frame>
+    <description>The percentage of patients with CR or PR was determined according to the revised lymphoma efficacy evaluation criteria (Lugano 2014 criteria).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Within 6 months of induction therapy completion</time_frame>
+    <description>The time from the first recording of CR or PR evidence to disease progression or death from any cause was determined according to the revised lymphoma efficacy evaluation criteria (Lugano 2014 criteria).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival（PFS）</measure>
+    <time_frame>Within 6 months of induction therapy completion</time_frame>
+    <description>Time from the date of first administration of the study drug to disease progression or death from any cause (any earliest date).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of study treatments when given in combination</measure>
+    <time_frame>Up to 90 days after the last dose of study drugs.</time_frame>
+    <description>Incidence of subjects occuring treatment related adverse events.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Biomarkers predictive of response</measure>
+    <time_frame>Up to 12 months after the last dose of study drugs.</time_frame>
+    <description>Biomarkers from tumor cells, lymphocytes and tumor microenvironment will be assessed for their potential in predicting clinical response.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Inert Non Hodgkin's Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Enrolled patients will be administered IBI376 plus rituximab, induction therapy for 6 cycles (28-day cycle). Patients assessed as partial response (PR) after 6 cycles of induction therapy will receive another 6 cycles of IBI376 combined with rituximab induction therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IBI376</intervention_name>
+    <description>IBI376 is administered orally once daily at a dose of 20 mg for 8 weeks, followed by an oral dose of 2.5 mg once daily. Patients assessed as PR after 6 cycles of induction therapy will receive another 6 cycles of IBI376 at an oral dose of 2.5 mg once daily.</description>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <other_name>PI3Kδ inhibitor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Rituximab is administered at a dose of 375 mg/m^2 intravenously in the first 4 weeks, once a week. Subsequently, rituximab will be dosed once every 4 weeks. Patients assessed as PR after 6 cycles of induction therapy will receive another 6 cycles of rituximab at a dose of 375 mg/m^2 intravenously once every 4 weeks.</description>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <other_name>Anti-cluster of differentiation antigen 20 (CD20) monoclonal antibody</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years old, male or female;&#xD;
+&#xD;
+          2. Grade 1-3a follicular lymphoma or marginal zone lymphoma derived from B cells was&#xD;
+             confirmed by pathology;&#xD;
+&#xD;
+          3. Immunohistochemistry showed CD20 positive;&#xD;
+&#xD;
+          4. Have not received systemic anti-tumor therapy in the past;&#xD;
+&#xD;
+          5. Lugano stage is stage III-IV (Note: 2014 Lugano stage is adopted for non gastric or&#xD;
+             intranodal marginal zone lymphoma, and Lugano modified version of Ann Arbor stage&#xD;
+             system is adopted for gastrointestinal marginal zone lymphoma);&#xD;
+&#xD;
+          6. Patients with Lugano stage I-II and recurrence only after radiotherapy can be included&#xD;
+             in the group;&#xD;
+&#xD;
+          7. For subjects who relapsed only after radiotherapy, radiotherapy was completed 12 weeks&#xD;
+             before the first application of IBI376;&#xD;
+&#xD;
+          8. Patients with Helicobacter pylori (HP) - positive mucosa associated lymphoid tissue&#xD;
+             lymphoma (MALT) can be enrolled if their pathological tissue type has not changed&#xD;
+             after failure of anti HP treatment;&#xD;
+&#xD;
+          9. Any tumor load with treatment indications and one of the following is met:&#xD;
+&#xD;
+               1. Have any discomfort symptoms that affect normal work and life;&#xD;
+&#xD;
+               2. The function of end organs was impaired;&#xD;
+&#xD;
+               3. Hemocytopenia secondary to lymphoma invading bone marrow;&#xD;
+&#xD;
+               4. Massive lesions;&#xD;
+&#xD;
+               5. Sustained or rapid progression&#xD;
+&#xD;
+         10. The presence of evaluable target lesions is defined as the presence of ≥ 1 lesion with&#xD;
+             the longest diameter (LD) measurement &gt; 1.5cm and the longest vertical longitude (LPD)&#xD;
+             measurement ≥ 1.0cm assessed by computed tomography (CT) or magnetic resonance imaging&#xD;
+             (MRI). Patients with splenic marginal zone lymphoma (SMZL) can be enrolled if there is&#xD;
+             no measurable target lesion, but there is a clear basis for lymphoma bone marrow&#xD;
+             infiltration (bone marrow smear, biopsy or flow cytometry);&#xD;
+&#xD;
+         11. Eastern Cooperative Oncology Group（ECOG） physical fitness status is 0-2 points;&#xD;
+&#xD;
+         12. Life expectancy ≥ 12 weeks;&#xD;
+&#xD;
+         13. Subjects must be willing to undergo incision, resection or coarse needle lymph node or&#xD;
+             tissue biopsy, or provide lymph node or tissue biopsy of recently available archived&#xD;
+             tissue (at least 10 white films) for pathological review in the research center;&#xD;
+&#xD;
+         14. Willing to use contraception according to the following criteria:&#xD;
+&#xD;
+               1. Women of childbearing age (15 ~ 49 years old) must undergo pregnancy test within&#xD;
+                  7 days before starting treatment, and the result is negative;&#xD;
+&#xD;
+               2. Women of childbearing age shall take effective contraceptive measures at least&#xD;
+                  120 days after the last administration of the study drug (the contraceptive&#xD;
+                  success rate shall be at least 99%). The available methods with contraceptive&#xD;
+                  success rate of at least 99% shall be communicated with the subjects and&#xD;
+                  confirmed;&#xD;
+&#xD;
+               3. Male subjects took effective contraceptive measures at least 93 days after the&#xD;
+                  last administration of the study drug (the contraceptive success rate was at&#xD;
+                  least 99%). The available methods with a contraceptive success rate of at least&#xD;
+                  99% shall be communicated with the subjects and confirmed;&#xD;
+&#xD;
+               4. Infertile women (i.e. sterilized by hysterectomy and / or bilateral oophorectomy&#xD;
+                  or amenorrhea ≥ 12 months and age &gt; 45 years) are not subject to the above&#xD;
+                  conditions a and b;&#xD;
+&#xD;
+         15. Have sufficient bone marrow and organ functions (do not use growth factors to obtain&#xD;
+             normal values. Subjects with hemocytopenia caused by lymphoma bone marrow invasion are&#xD;
+             not subject to the following conditions a, b and c):&#xD;
+&#xD;
+               1. Neutrophil count (ANC) ≥ 1.0 × 10^9/L；&#xD;
+&#xD;
+               2. Hemoglobin ≥ 8.0g/dl;&#xD;
+&#xD;
+               3. Platelet count ≥ 50 × 10^9/L；&#xD;
+&#xD;
+               4. Total bilirubin ≤ 1.5 × The upper limit of normal value (ULN), Gilbert syndrome,&#xD;
+                  cholestasis caused by hilar compression adenosis, biliary obstruction caused by&#xD;
+                  liver involvement or lymphoma &lt; 3 times ULN;&#xD;
+&#xD;
+               5. Alanine aminotransferase / aspartate aminotransferase (ALT / AST) ≤ 2.5 × ULN or&#xD;
+                  ≤ 5 × ULN (in the presence of liver invasion);&#xD;
+&#xD;
+               6. Creatinine clearance calculated by Cockcroft Gault equation ≥ 40ml / min or&#xD;
+                  glomerular filtration rate estimated by diet modified formula for renal disease ≥&#xD;
+                  40ml / min / 1.73m^2;&#xD;
+&#xD;
+               7. Lipase ≤ 1.5 × ULN.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Transformation from inert non-Hodgkin lymphoma to diffuse large B-cell lymphoma is&#xD;
+             known;&#xD;
+&#xD;
+          2. Lymphoma involving the central nervous system;&#xD;
+&#xD;
+          3. Known human immunodeficiency virus (HIV) infection or positive immunoassay;&#xD;
+&#xD;
+          4. Viral infections that cannot be controlled by antiviral drugs, such as herpes virus&#xD;
+             infection, acute or chronic active hepatitis B, acute or chronic active hepatitis C,&#xD;
+             etc [Note: chronic Hepatitis B virus (HBV) carriers or inactive hepatitis B surface&#xD;
+             antigen (HBsAg) positive subjects can be enrolled, and HBV-DNA is lower than the lower&#xD;
+             limit of detection; hepatitis C virus (HCV) antibody negative patients can be&#xD;
+             enrolled, HCV antibody positive patients need to be tested for HCV-RNA, and if they&#xD;
+             are negative, they can be enrolled];&#xD;
+&#xD;
+          5. There are active infectious diseases requiring treatment;&#xD;
+&#xD;
+          6. Live vaccines were administered within 30 days before administration of the study&#xD;
+             drug;&#xD;
+&#xD;
+          7. Active autoimmune diseases requiring systemic treatment in the past 12 months (i.e.&#xD;
+             the use of drugs to improve the disease, corticosteroids or immunosuppressive drugs).&#xD;
+             Note: alternative therapy (such as thyroxine, insulin or physiological corticosteroid&#xD;
+             replacement therapy with adrenal or pituitary insufficiency, etc.) is not considered&#xD;
+             as a systemic treatment;&#xD;
+&#xD;
+          8. Known allergy or severe reaction to IBI376 or rituximab or any excipients;&#xD;
+&#xD;
+          9. History of severe allergic reaction;&#xD;
+&#xD;
+         10. There is congestive heart failure or uncontrolled arrhythmia classified as III-IV by&#xD;
+             the New York Heart Association;&#xD;
+&#xD;
+         11. Patients with clinically significant electrocardiogram abnormalities and potential&#xD;
+             risk of malignant arrhythmia;&#xD;
+&#xD;
+         12. Clinically significant heart diseases, including unstable angina pectoris, acute&#xD;
+             myocardial infarction and or heart problems, occurred within 6 months before study&#xD;
+             administration;&#xD;
+&#xD;
+         13. A history of stroke or intracranial hemorrhage within 3 months before the date of&#xD;
+             administration of the study drug;&#xD;
+&#xD;
+         14. Major surgery or severe trauma occurred within 28 days before the start of treatment,&#xD;
+             or major side effects have not recovered;&#xD;
+&#xD;
+         15. Major uncontrolled medical conditions, including but not limited to kidney, liver,&#xD;
+             blood, gastrointestinal tract, endocrine, lung, nerve, brain or mental diseases;&#xD;
+&#xD;
+         16. There were other malignancies in the first 3 years of the disease, but did not include&#xD;
+             cured basal or squamous cell skin cancer, superficial bladder cancer, prostatic&#xD;
+             intraepithelial neoplasia and cervical carcinoma in situ.&#xD;
+&#xD;
+         17. Known mental or physical diseases will interfere with the cooperation with the test&#xD;
+             requirements, or disturb the test results or the interpretation of the test results,&#xD;
+             and in the opinion of the treatment researcher, will make the patient unfit to&#xD;
+             participate in the study;&#xD;
+&#xD;
+         18. There are situations where the researcher's judgment will interfere with the whole&#xD;
+             process of the study; there are significant risks to the subjects; or interfere with&#xD;
+             the interpretation of the study data;&#xD;
+&#xD;
+         19. Pregnant or lactating patients;&#xD;
+&#xD;
+         20. Inability to swallow and retain oral drugs, malabsorption syndrome, diseases&#xD;
+             significantly affecting gastrointestinal function, total gastrectomy or small bowel&#xD;
+             resection, ulcerative colitis, symptomatic inflammatory bowel disease, partial or&#xD;
+             complete intestinal obstruction;&#xD;
+&#xD;
+         21. Any prohibited drug, including potent cytochrome P450 3A4 (CYP3A4) inhibitor or&#xD;
+             inducer, was used or expected to be used during the study 14 days before the&#xD;
+             administration of the study drug or within 5 half lives, whichever is longer;&#xD;
+&#xD;
+         22. Unable to understand or unwilling to sign the informed consent form.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Weidong Han, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Biotherapeutic Department, Chinese PLA General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Weidong Han, Ph.D</last_name>
+    <phone>+86-10-55499341</phone>
+    <email>hanwdrsw@sina.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jinhong Shi, M.D</last_name>
+    <phone>+86-10-66937231</phone>
+    <email>jinhongshi321@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Biotherapeutic Department, Chinese PLA General Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weidong Han, Ph.D</last_name>
+      <phone>+86-10-55499341</phone>
+      <email>hanwdrsw@sina.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jinhong Shi, M.D</last_name>
+      <phone>+86-10-66997231</phone>
+      <email>jinhongshi321@163.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>October 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 11, 2021</study_first_posted>
+  <last_update_submitted>February 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese PLA General Hospital</investigator_affiliation>
+    <investigator_full_name>Han weidong</investigator_full_name>
+    <investigator_title>Director of Biotherapeutic Department</investigator_title>
+  </responsible_party>
+  <keyword>PI3K inhibitor</keyword>
+  <keyword>rituximab</keyword>
+  <keyword>follicular lymphoma</keyword>
+  <keyword>marginal zone lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

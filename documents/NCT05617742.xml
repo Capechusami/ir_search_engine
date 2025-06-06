@@ -1,0 +1,170 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617742</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202101258A0</org_study_id>
+    <nct_id>NCT05617742</nct_id>
+  </id_info>
+  <brief_title>Comparison of 68Ga-FAPI-46 PET and 18F-FDG PET in Lung Cancer</brief_title>
+  <official_title>68Ga-FAPI PET in Evaluation of the Patient With Known or Suspected Lung Cancer: Comparison With Standard 18F-FDG PET</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chang Gung Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chang Gung Memorial Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, single-center, single arm, open label study to evaluate the&#xD;
+      performance of 68Ga-FAPI-46 for the diagnosis of primary and metastatic lesions of lung&#xD;
+      cancer with comparison to 18F-FDG PET.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      FDG-PET imaging is recommended by clinical guidelines for staging of lung cancer; however,&#xD;
+      there are still limitations of FDG-PET in lung cancer staging due to false-positive and&#xD;
+      false-negative findings. 68Ga-FAPI PET images have shown high diagnostic performance with&#xD;
+      high tumor-to-background ratio in various cancers. The purpose of this study is head-to-head&#xD;
+      comparison of 68Ga-FAPI-46 PET and 18F-FDG PET for the diagnosis and staging or re-staging of&#xD;
+      lung cancer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To define the diagnostic performance 68Ga-FAPI PET</measure>
+    <time_frame>Through study completion, 2 years</time_frame>
+    <description>To evaluate the diagnostic performance (sensitivity, specificity, accuracy) of the 68Ga-FAPI-46 PET scan for identification and staging of lung cancer with comparison to 18F-FDG PET. Histopathology and clinical follow-up will be used as truth standard.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the safety profile of 68Ga-FAPI PET</measure>
+    <time_frame>Up to 7 days post injection with 68Ga-FAPI-46</time_frame>
+    <description>Number of participants with 68Ga-FAPI-46 PET scan related adverse events assessed by CTCAE v5.0</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">103</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>68Ga-FAPI-46 PET Scan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single-center prospective interventional single-arm clinical trial. All patients will undergo whole-body 68Ga-FAPI-46 PET scan within two weeks before or after 18F-FDG-PET. Injected activity of 68Ga-FAPI-46 is limited to 100-250 MBq per examination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>68Ga-FAPI-46</intervention_name>
+    <description>68Ga-FAPI-46 is a radioactive diagnostic agent for PET imaging in the detection of Fibroblast Activation Protein (FAP) positive tumor cells in cancer patients</description>
+    <arm_group_label>68Ga-FAPI-46 PET Scan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age &gt; 20 years&#xD;
+&#xD;
+          2. Informed consent obtained from patients and families&#xD;
+&#xD;
+          3. Patients with histology confirmed lung cancer or patients with GGO on chest CT planned&#xD;
+             to have biopsy or surgery&#xD;
+&#xD;
+          4. Patients scheduled to undergo FDG-PET examination&#xD;
+&#xD;
+          5. Performance status: 0, 1, 2, 3&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Contraindication to FAPI-PET and FDG-PET such as pregnant, or lactating patients&#xD;
+&#xD;
+          2. Patients with mainly malignant pleural effusion without other measurable lesions&#xD;
+&#xD;
+          3. Undergoing irradiation at accrual&#xD;
+&#xD;
+          4. Active infection or other serious underlying medical conditions not compatible with&#xD;
+             study entry&#xD;
+&#xD;
+          5. History of significant neurological or psychiatric disorders including dementia that&#xD;
+             would prohibit the understanding and giving of informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kung-Chu Ho, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chang Gung Memorial Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kung-Chu Ho, MD</last_name>
+    <phone>+886975365783</phone>
+    <email>b8301068@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Nuclear Medicine, Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Taoyuan</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kung-Chu Ho, MD</last_name>
+      <phone>+886975365783</phone>
+      <email>b8301068@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>March 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chang Gung Memorial Hospital</investigator_affiliation>
+    <investigator_full_name>HO, KUNG-CHU</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>68Ga-FAPI-46</keyword>
+  <keyword>Lung Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>FAPI-46</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

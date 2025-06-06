@@ -1,0 +1,351 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05799781</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU24218</org_study_id>
+    <nct_id>NCT05799781</nct_id>
+  </id_info>
+  <brief_title>Two Way Crossover Closed Loop MPC vs Control IQ</brief_title>
+  <official_title>A Randomized Study to Compare a Fully-closed MPC Control Algorithm With a Commercial Hybrid Closed-loop Algorithm</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>MultiCare Rockwood Northpointe Specialty Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An artificial pancreas (AP) is a control system for automatic insulin delivery. The&#xD;
+      investigators have implemented a missed meal bolus detection algorithm for use within an AP&#xD;
+      control system. If a meal is detected that was not reported by the user, the system shall&#xD;
+      calculate the amount of meal insulin that will be dosed and deliver that insulin. The&#xD;
+      investigators will test how well the new algorithm manages glucose compared to the&#xD;
+      participant's usual care including the tslim X2 pump with Control IQ enabled. This type of&#xD;
+      algorithm may improve glucose control for high risk patient populations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will undergo one 7-day Intervention Period and one 7-day Control Period in&#xD;
+      randomized order. During the 7-day intervention, participants will wear an Omnipod to deliver&#xD;
+      Fiasp insulin and a Dexcom G6 CGM. The CGM system will provide sensed glucose data every 5&#xD;
+      minutes. Sensor glucose data will be wirelessly transmitted via Bluetooth Low Energy (BTLE)&#xD;
+      from the Dexcom G6 to the smartphone master controller every 5 minutes. The smartphone will&#xD;
+      communicate via BTLE to an Omnipod for insulin delivery. The closed loop system will receive&#xD;
+      activity data through a Polar M600 watch worn by the participant. Participants will eat one&#xD;
+      meal in clinic and complete system training on Day 1 and then spend the rest of the 7 days at&#xD;
+      home. During the 7-day control, the participant will continue their usual diabetes care&#xD;
+      regimen using the tslim X2 pump with Dexcom G6 with Control IQ enabled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 13, 2023</start_date>
+  <completion_date type="Anticipated">April 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of time with sensed glucose between 70-180 mg/dl</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the percent of time that the Dexcom G6 reported sensor glucose values between 70-180 mg/dl using Dexcom sensor across both arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent of time with sensed glucose &lt; 70 mg/dl</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the percent of time that the Dexcom G6 reported sensor glucose values less than 70 mg/dl using Dexcom sensor across both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of time with sensed glucose &lt; 54 mg/dl</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the percent of time that the Dexcom G6 reported sensor glucose values less than 54 mg/dl using Dexcom sensor across both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of time with sensed glucose &gt; 180 mg/dl</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the percent of time that the Dexcom G6 reported sensor glucose values greater than 180 mg/dl using Dexcom sensor across both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean sensed glucose</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the mean sensed glucose from the Dexcom G6 reported sensor glucose values across both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coefficient of variation of glucose</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the coefficient of variation of glucose from the Dexcom G6 reported sensor glucose values across both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean amount of insulin delivered per day</measure>
+    <time_frame>entire 7 day study</time_frame>
+    <description>Assess the mean amount of insulin delivered per day by the Omnipod through the AP system study in units/kg across both arms.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>MPC Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will use the MPC closed-loop system for 7 days using Fiasp insulin. The first 6 hours will be spent in clinic being trained on the system, then eating a meal. Then the participant will take the system home to continue using for 7 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control IQ arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will continue their normal diabetes regimen which includes the t:slim X2 pump with Dexcom G6 CGM and Control IQ for 7 days. Participants will share their pump download and Dexcom Clarity data with study staff after the 7 days is complete.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>MPC closed-loop system</intervention_name>
+    <description>The Model Predictive Control (MPC) insulin infusion algorithm contains a model within the controller that takes as an input the aerobic metabolic expenditure in addition to the CGM and meal in puts. The algorithm uses heart rate and accelerometer data collected on the patient's body to calculate metabolic expenditure (METs). The METs then acts on the model for the insulin dynamics, whereby more energy expenditure and longer duration exercise can lead to a more substantial effect of insulin on the CGM. The MPC also has missed meal insulin bolus detection where the system will calculate the amount of insulin that was missed for a meal. The missed meal boluses can be delivered automatically without any input from the user. This feature can also be disabled.</description>
+    <arm_group_label>MPC Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>t:slim X2 pump with Dexcom G6 CGM and Control IQ</intervention_name>
+    <description>The t:slim pump is a hybrid closed-loop system available to consumers for automated insulin delivery. Control IQ technology automatically adjusts insulin levels based on continuous glucose monitoring (CGM) readings from Dexcom G6.</description>
+    <arm_group_label>Control IQ arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of type 1 diabetes mellitus for at least 1 year.&#xD;
+&#xD;
+          -  Age 18 years and older.&#xD;
+&#xD;
+          -  Current use of a t:slim X2 insulin pump with Dexcom G6 with the use of Control IQ for&#xD;
+             at least 12 weeks.&#xD;
+&#xD;
+          -  Willingness to use Fiasp insulin during intervention study&#xD;
+&#xD;
+          -  Lives with another person age 18 or older who will sleep in the house at night and&#xD;
+             that can attend the training on using the system.&#xD;
+&#xD;
+          -  Lives within 40 miles of enrollment site.&#xD;
+&#xD;
+          -  HbA1c ≥ 7.5% at screening.&#xD;
+&#xD;
+          -  Total daily insulin requirement is less than 139 units/day.&#xD;
+&#xD;
+          -  Current use of a smartphone so can be contacted by study staff off-campus&#xD;
+&#xD;
+          -  Willingness to follow all study procedures, including attending all clinic visits.&#xD;
+&#xD;
+          -  Willingness to sign informed consent and HIPAA documents.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female of childbearing potential who is pregnant or intending to become pregnant or&#xD;
+             breast-feeding, or is not using adequate contraceptive methods. Acceptable&#xD;
+             contraception includes birth control pill / patch / vaginal ring, Depo-Provera,&#xD;
+             Norplant, an IUD, the double barrier method (the woman uses a diaphragm and spermicide&#xD;
+             and the man uses a condom), or abstinence.&#xD;
+&#xD;
+          -  HbA1c &gt;10% at screening.&#xD;
+&#xD;
+          -  Any cardiovascular disease, defined as a clinically significant EKG abnormality at the&#xD;
+             time of screening or any history of: stroke, heart failure, myocardial infarction,&#xD;
+             angina pectoris, or coronary arterial bypass graft or angioplasty. Diagnosis of 2nd or&#xD;
+             3rd degree heart block or any non-physiological arrhythmia judged by the investigator&#xD;
+             to be exclusionary.&#xD;
+&#xD;
+          -  Renal insufficiency (GFR &lt; 60 ml/min, using the MDRD equation as reported by the site&#xD;
+             laboratory).&#xD;
+&#xD;
+          -  Liver failure, cirrhosis, or any other liver disease that compromises liver function&#xD;
+             as determined by the investigator.&#xD;
+&#xD;
+          -  History of severe hypoglycemia during the past 12 months prior to screening visit or&#xD;
+             hypoglycemia unawareness as judged by the investigator. Participants will complete a&#xD;
+             hypoglycemia awareness questionnaire. Participants will be excluded for four or more R&#xD;
+             responses.&#xD;
+&#xD;
+          -  History of diabetes ketoacidosis during the prior 6 months prior to screening visit,&#xD;
+             as diagnosed on hospital admission or as judged by the investigator.&#xD;
+&#xD;
+          -  Adrenal insufficiency.&#xD;
+&#xD;
+          -  Any active infection.&#xD;
+&#xD;
+          -  Known or suspected abuse of alcohol, narcotics, or illicit drugs.&#xD;
+&#xD;
+          -  Seizure disorder.&#xD;
+&#xD;
+          -  Active foot ulceration.&#xD;
+&#xD;
+          -  Severe peripheral arterial disease characterized by ischemic rest pain or severe&#xD;
+             claudication.&#xD;
+&#xD;
+          -  Major surgical operation within 30 days prior to screening.&#xD;
+&#xD;
+          -  Use of an investigational drug within 30 days prior to screening.&#xD;
+&#xD;
+          -  Chronic usage of any immunosuppressive medication (such as cyclosporine, azathioprine,&#xD;
+             sirolimus, or tacrolimus).&#xD;
+&#xD;
+          -  Bleeding disorder, treatment with warfarin, or platelet count below 50,000.&#xD;
+&#xD;
+          -  Allergy to Fiasp insulin.&#xD;
+&#xD;
+          -  Current administration of oral or parenteral corticosteroids.&#xD;
+&#xD;
+          -  Any life-threatening disease, including malignant neoplasms and medical history of&#xD;
+             malignant neoplasms within the past 5 years prior to screening (except basal and&#xD;
+             squamous cell skin cancer).&#xD;
+&#xD;
+          -  Current use of beta blockers or non-dihydropyridine calcium channel blockers.&#xD;
+&#xD;
+          -  Current use of any medication intended to lower glucose other than insulin (ex. use of&#xD;
+             metformin or liraglutide).&#xD;
+&#xD;
+          -  Gastroparesis&#xD;
+&#xD;
+          -  Low carbohydrate diet at the time of screening defines as less than 50 grams of&#xD;
+             carbohydrate per day.&#xD;
+&#xD;
+          -  Any clinically significant disease or disorder which in the opinion of the&#xD;
+             Investigator may jeopardize the participant's safety or compliance with the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leah Wilson, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Leah Wilson, MD</last_name>
+    <phone>503-494-3273</phone>
+    <email>wilsolea@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Deborah Branigan</last_name>
+    <phone>503-418-9070</phone>
+    <email>branigad@ohsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leah Wilson, MD</last_name>
+      <phone>503-494-3273</phone>
+      <email>wilsolea@ohsu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Deborah Branigan</last_name>
+      <phone>503-418-9070</phone>
+      <email>branigad@ohsu.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Peter Jacobs, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jessica Castle, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseph El Youssef, MBBS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Irl Hirsch, MD</last_name>
+      <email>ihirsch@uw.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dori Khakpour</last_name>
+      <email>dorik@uw.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>MultiCare Rockwood Northpointe Specialty Center</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carol Wysham, MD</last_name>
+      <email>carol.wysham@multicare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nathan Lethrud-Scherr</last_name>
+      <email>Nathan.Lethrud-Scherr@multicare.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>March 23, 2023</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2023</study_first_posted>
+  <last_update_submitted>March 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>automated insulin delivery systems</keyword>
+  <keyword>glucose sensor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

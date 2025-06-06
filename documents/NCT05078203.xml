@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078203</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACE</org_study_id>
+    <nct_id>NCT05078203</nct_id>
+  </id_info>
+  <brief_title>Acute Cognition and Exercise</brief_title>
+  <acronym>ACE</acronym>
+  <official_title>Acute Exercise and Cognitive Function: Examining the Role of Weight Status and Exercise-Induced Myokines</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Illinois at Urbana-Champaign</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Illinois at Urbana-Champaign</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The central hypothesis is that, while both groups will benefit from the exercise session,&#xD;
+      participants with obesity will exhibit greater gains in cognitive control, relative to&#xD;
+      healthy weight adults. Additionally, it is anticipated that the benefits of a single bout of&#xD;
+      exercise for cognitive control will be mediated by changes in exercise-induced myokines.&#xD;
+      These hypotheses will be tested by accomplishing three aims:&#xD;
+&#xD;
+      Aim 1: Elucidate the changes in cognitive control following an acute bout of exercise,&#xD;
+      relative to a sedentary condition, in persons with and without obesity.&#xD;
+&#xD;
+      Aim 2: To examine the effect of a single bout of exercise, relative to a sedentary condition,&#xD;
+      on myokines known to have neuroprotective effects i.e., BDNF and CTSB in both healthy weight&#xD;
+      and individuals with obesity.&#xD;
+&#xD;
+      Aim 3: To link changes in exercise-induced myokines (i.e., BDNF and CTSB) to changes in&#xD;
+      cognitive function, following a single bout of exercise.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      18 adults with healthy weight (BMI 18.5-25.0kg/m2) and 18 adults with obesity (BMI 30.0kg/m2)&#xD;
+      will be asked to complete a counter-balanced crossover trial. After initial baseline testing,&#xD;
+      participants will be asked to complete either an acute exercise bout or sedentary control&#xD;
+      session in a counter-balanced order. A cognitive testing battery accompanied by an&#xD;
+      electroencephalogram (EEG) will be administered following each session. Blood samples will be&#xD;
+      collected prior to, during, and following each throughout each testing condition.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 2, 2021</start_date>
+  <completion_date type="Anticipated">September 2, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>18 adults with healthy weight (BMI 18.5-25.0kg/m2) and 18 adults with obesity (BMI 30.0kg/m2) will be asked to complete a counter-balanced crossover trial. After initial baseline testing, participants will be asked to complete either an acute exercise bout or sedentary control session in a counter-balanced order.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Circulating Cathepsin B (CTSB) Myokine</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Changes in peripheral myokine concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attentional Inhibition Accuracy</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Behavioral performance measured as accuracy (%) during Flanker task</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attentional Inhibition Reaction Time</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Behavioral performance measured as response time (ms) during Flanker task</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attentional Resource Allocation</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Changes in P3 event related potential amplitude (microvolts) using a computerized flanker task</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attentional Processing Speed</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Changes in P3 event related potential latency (ms) using a computerized flanker task</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Relational Memory</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Accuracy during a spatial reconstruction task</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Brain derived neurotrophic factor (BDNF)</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Changes in peripheral BDNF concentration</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>36 minutes of exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rest</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>36 minutes of rest</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Exercise</intervention_name>
+    <description>36 minutes of Exercise</description>
+    <arm_group_label>Exercise</arm_group_label>
+    <arm_group_label>Rest</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Between ages 18 and 35&#xD;
+&#xD;
+          -  No prior diagnosis of neurological disorders (e.g., autism spectrum disorder)&#xD;
+&#xD;
+          -  No prior diagnosis of metabolic disease (e.g., diabetes, cardiovascular disease)&#xD;
+&#xD;
+          -  No physical disability that would preclude the participant from completing a VO2max&#xD;
+             test&#xD;
+&#xD;
+          -  Corrected vision (based on the minimal 20/20 standard needed to complete cognitive&#xD;
+             tasks)&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+          -  BMI between 18.5 and 25.0 kg/m2, or BMI greater than 30.0 kg/m2&#xD;
+&#xD;
+          -  Readiness for exercise (determined through PAR-Q)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  &lt;18 years and &gt;35 years&#xD;
+&#xD;
+          -  Diagnosis of neurological disorders (e.g., autism spectrum disorder)&#xD;
+&#xD;
+          -  Diagnosis of metabolic disease (e.g., diabetes, cardiovascular disease)&#xD;
+&#xD;
+          -  Physical disability that would preclude the participant from completing a VO2max test&#xD;
+&#xD;
+          -  Lack of corrected vision (based on the minimal 20/20 standard needed to complete&#xD;
+             cognitive tasks)&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  BMI less than 18.5 kg/m2 or BMI greater than 25.0 but less than 30.0 kg/m2&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Naiman A Khan, PhD</last_name>
+    <phone>217-300-2197</phone>
+    <email>nakhan2@illinois.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Illinois at Urbana-Champaign</name>
+      <address>
+        <city>Urbana</city>
+        <state>Illinois</state>
+        <zip>61801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naiman A Khan, PhD, RD</last_name>
+      <phone>217-300-2197</phone>
+      <email>nakhan2@illinois.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Naiman A Khan, PhD, RD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>May 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Myokine</keyword>
+  <keyword>Cognition</keyword>
+  <keyword>CTSB</keyword>
+  <keyword>BDNF</keyword>
+  <keyword>Exercise</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

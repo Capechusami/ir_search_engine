@@ -1,0 +1,375 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05076552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TACH101-CS-0001</org_study_id>
+    <nct_id>NCT05076552</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Safety, Pharmacokinetics, and Antitumor Activity of Oral TACH101 in Participants With Advanced or Metastatic Cancer</brief_title>
+  <official_title>A Phase 1a/1b Open-label Study to Assess the Safety, Pharmacokinetics, and Antitumor Activity of Oral TACH101 in Patients With Advanced or Metastatic Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tachyon Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tachyon Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall objective of this open-label, nonrandomized, 2-part Phase 1a/1b study is to&#xD;
+      determine the maximum tolerated dose (MTD) and recommended Phase 2 dose (RP2D) and to&#xD;
+      evaluate the safety, tolerability, pharmacokinetics, and antitumor activity of oral TACH101&#xD;
+      in participants with advanced and metastatic solid tumors. Each participant in the Phase 1a&#xD;
+      dose escalation phase will receive a single dose of TACH101 and be followed for 48 hours in&#xD;
+      the single-dose lead-in period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 17, 2023</start_date>
+  <completion_date type="Anticipated">July 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1a Dose Escalation: Maximum Tolerated Dose (MTD) of TACH101</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1a Dose Escalation: Recommended Phase 2 Dose (RP2D) of TACH101</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1b Dose Expansion: Objective Response Rate (ORR)</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Number of Participants Who Experience Dose-limiting Toxicities (DLTs)</measure>
+    <time_frame>Cycle 1 Day 1 up to Cycle 1 Day 28 (cycle length = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Number of Participants With Treatment-emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Lead-in Day 1 to End of Treatment (up to approximately 204 days)</time_frame>
+    <description>A TEAE is defined as any untoward medical occurrence in participants that happened after study drug administration. Any clinically significant abnormalities in vital signs, clinical laboratory tests, or electrocardiograms (ECGs) will be recorded as AEs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Area Under the Plasma Concentration-Time Curve (AUC) for TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Maximum Concentration (Cmax) of TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Observed Predose Plasma Concentration During Multiple Dosing (Ctrough) of TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Time to Reach Maximum Concentration (tmax) for TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Apparent Terminal Elimination Half-life (t1/2) of TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Apparent Volume of Distribution During the Terminal Phase After Extravascular Administration (Vz/F) of TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Apparent Clearance After Extravascular Administration (CL/F) of TACH101</measure>
+    <time_frame>Lead-in Day 1 to Cycle 4 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Objective Response Rate (ORR)</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Duration of Response (DOR)</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1a Dose Escalation: Clinical Benefit Rate (CBR)</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Number of Participants With Treatment-emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Lead-in Day 1 to End of Treatment (up to approximately 203 days)</time_frame>
+    <description>A TEAE is defined as any untoward medical occurrence in participants that happened after study drug administration. Any clinically significant abnormalities in vital signs, clinical laboratory tests, or electrocardiograms (ECGs) will be recorded as AEs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Concentration at 2 Hours Postdose (C2h) of TACH101</measure>
+    <time_frame>Cycle 1 Day 1 to Cycle 6 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Maximum Concentration (Cmax) of TACH101</measure>
+    <time_frame>Cycle 1 Day 1 to Cycle 6 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Observed Predose Plasma Concentration During Multiple Dosing (Ctrough) of TACH101</measure>
+    <time_frame>Cycle 1 Day 1 to Cycle 6 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Duration of Response (DOR)</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Clinical Benefit Rate (CBR)</measure>
+    <time_frame>Day 1 to End of Treatment (up to approximately 201 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b Dose Expansion: Plasma Concentration of TACH101</measure>
+    <time_frame>Cycle 1 Day 1 to Cycle 6 Day 1 (cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Advanced Cancer</condition>
+  <condition>Metastatic Solid Tumor</condition>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Phase 1a: Dose Escalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Phase 1a, participants will receive TACH101 in a 48 hour single-dose lead-in period followed by repeated dosing on a 3-day on/4-day off schedule in each 28 day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Phase 1b, participants will receive TACH101 at the RP2D identified in Phase 1 on a 3-day on/4-day off schedule. Two cohorts of participants will be enrolled:&#xD;
+Participants with gastrointestinal cancers.&#xD;
+Participants with high microsatellite instability (MSI-H) metastatic colorectal cancer (CRC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TACH101</intervention_name>
+    <description>Orally via capsules</description>
+    <arm_group_label>Phase 1a: Dose Escalation</arm_group_label>
+    <arm_group_label>Phase 1b: Dose Expansion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Institutional Review Board (IRB)/Independent Ethics Committee (IEC)-approved written&#xD;
+             informed consent and privacy language as per national regulations must be obtained&#xD;
+             from the participant or legally authorized representative prior to any study-related&#xD;
+             procedures being performed.&#xD;
+&#xD;
+          -  18 years of age or older.&#xD;
+&#xD;
+          -  Phase 1a: Participant must have advanced or metastatic solid tumor that has progressed&#xD;
+             or was non-responsive or intolerant to available therapies and for which no standard&#xD;
+             or available curative therapy exists, or, in the opinion of the investigator, is not a&#xD;
+             candidate for, or would be unlikely to tolerate or derive significant clinical benefit&#xD;
+             from, appropriate standard of care therapy.&#xD;
+&#xD;
+          -  Phase 1b: Participants must have advanced or metastatic gastrointestinal tumors, or&#xD;
+             high microsatellite instability colorectal cancer (MSI-H CRC) that has progressed or&#xD;
+             was non-responsive or intolerant to standard therapy (e.g., fluoropyrimidine and&#xD;
+             oxaliplatin with or without bevacizumab), or, in the opinion of the investigator, is&#xD;
+             not a candidate for, or would be unlikely to tolerate or derive significant clinical&#xD;
+             benefit from, appropriate standard of care therapy. Participants with potentially&#xD;
+             curative therapy will not be enrolled (e.g., participants with CRC and oligometastatic&#xD;
+             disease who are candidates for resection). Participants with MSI-H CRC must have&#xD;
+             received a prior line of therapy with a checkpoint inhibitor. Note: For both Phase 1a&#xD;
+             and 1b, if a participant has available therapies but is determined to be ineligible by&#xD;
+             the investigator due to being unlikely to tolerate or benefit from available&#xD;
+             therapies, the reason for this must be documented in the medical record and case&#xD;
+             report form.&#xD;
+&#xD;
+          -  Presence of advanced or metastatic disease that is measurable according to Response&#xD;
+             Evaluation Criteria in Solid Tumors (RECIST) v 1.1.&#xD;
+&#xD;
+          -  The participant must have recovered from toxicities related to any prior treatments&#xD;
+             (Grade ≤1) except alopecia, anorexia, or toxicity that is stable and poses no&#xD;
+             significant risk to the participant. Grade 2 peripheral neuropathy after documented&#xD;
+             treatment with taxanes and/or platinum-based therapy is allowed.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 1.&#xD;
+&#xD;
+          -  Meets the following laboratory requirements at screening:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥1500/µL, platelet count ≥100,000/µL; and&#xD;
+                  hemoglobin ≥9.0 g/dL.&#xD;
+&#xD;
+               2. Total bilirubin ≤1.5× upper limit of normal (ULN) (Gilbert's syndrome ≤2.5×ULN).&#xD;
+&#xD;
+               3. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) ≤2.5×ULN.&#xD;
+&#xD;
+               4. Creatinine clearance (CrCl) &gt;60 mL/min by the Cockcroft-Gault formula: CrCl={([l&#xD;
+                  40-age (years)]×weight [kg])/(72× serum creatinine [mg/dL])}(×0.85 for females).&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) must have a negative pregnancy test during the&#xD;
+             screening period before beginning treatment.&#xD;
+&#xD;
+          -  WOCBP or men whose partner is a WOCBP agrees to use contraception while participating&#xD;
+             in this study, and for a minimum of 3 months for men and 6 months for women following&#xD;
+             the last dose of study treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants will be excluded from participation in the study if any of the following&#xD;
+        apply:&#xD;
+&#xD;
+          -  Participants who have received allogenic hematologic stem cell transplant.&#xD;
+&#xD;
+          -  Major surgery within 2 months prior to screening.&#xD;
+&#xD;
+          -  Prior history of or concurrent secondary primary malignancy whose natural history or&#xD;
+             treatment has the potential to interfere with the safety and/or efficacy assessment of&#xD;
+             TACH101.&#xD;
+&#xD;
+          -  Prior gastrectomy or upper bowel removal or any other gastrointestinal disorder that&#xD;
+             would interfere with the absorption or excretion of TACH101.&#xD;
+&#xD;
+          -  Known or suspected brain metastases.&#xD;
+&#xD;
+          -  Significant cardiovascular disease including any of the following:&#xD;
+&#xD;
+               1. Myocardial infarction within 6 months prior to study entry.&#xD;
+&#xD;
+               2. Uncontrolled angina within 1 month prior to study entry.&#xD;
+&#xD;
+               3. Congestive heart failure New York Heart Association (NYHA) class III or IV, or a&#xD;
+                  history of congestive heart failure NYHA class III or IV unless a screening&#xD;
+                  echocardiogram or multigated acquisition (MUGA) scan performed within 3 months&#xD;
+                  prior to study entry results in a left ventricular ejection fraction (LVEF) ≥45%.&#xD;
+&#xD;
+               4. QT interval corrected by the Fridericia correction formula (QTcF) at screening&#xD;
+                  &gt;470 msec for both men and women.&#xD;
+&#xD;
+               5. History of clinically significant ventricular arrhythmias (e.g., ventricular&#xD;
+                  tachycardia, ventricular fibrillation, torsades de pointes).&#xD;
+&#xD;
+               6. History of Mobitz II second degree or third degree heart block.&#xD;
+&#xD;
+               7. Uncontrolled hypertension as indicated by a resting systolic blood pressure &gt;180&#xD;
+                  mmHg or diastolic blood pressure &gt;110 mmHg at screening.&#xD;
+&#xD;
+          -  Acute or chronic liver or kidney disease.&#xD;
+&#xD;
+          -  Concurrent disease or any clinically significant abnormality following the&#xD;
+             investigator's review of the screening physical examination findings, 12-lead&#xD;
+             electrocardiogram (ECG) results, and clinical laboratory tests, which in the judgment&#xD;
+             of the investigator would interfere with the participant's participation in this study&#xD;
+             or evaluation of study results.&#xD;
+&#xD;
+          -  Known or suspected hypersensitivity to any components of the formulation used for&#xD;
+             TACH101.&#xD;
+&#xD;
+          -  Any ongoing anticancer therapy including; small molecules, immunotherapy,&#xD;
+             chemotherapy, monoclonal antibodies, or any other experimental drug. Prior therapy&#xD;
+             must be stopped at least 4 weeks or 5 half-lives (whichever is shorter) before first&#xD;
+             dose.&#xD;
+&#xD;
+          -  Clinically significant active viral, bacterial or fungal infection requiring:&#xD;
+             Intravenous treatment with antimicrobial therapy completed less than 2 weeks prior to&#xD;
+             first dose, or oral treatment with antimicrobial therapy completed less than one week&#xD;
+             prior to first dose.&#xD;
+&#xD;
+          -  Known history of infection with human immunodeficiency virus (HIV) hepatitis B, or&#xD;
+             hepatitis C.&#xD;
+&#xD;
+          -  For Phase 1b, prior participation in Phase 1a.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tachyon Therapeutics</last_name>
+    <phone>832-952-0829</phone>
+    <email>TACH101study@tachyontx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NEXT Oncology</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Oncology</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Oncology</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Oncology</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>September 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer</keyword>
+  <keyword>Solid Tumors</keyword>
+  <keyword>Advanced Cancer</keyword>
+  <keyword>TACH101</keyword>
+  <keyword>Metastatic Solid Tumor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

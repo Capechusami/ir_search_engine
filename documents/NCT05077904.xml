@@ -1,0 +1,1771 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077904</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EP0162</org_study_id>
+    <secondary_id>2021-002686-18</secondary_id>
+    <nct_id>NCT05077904</nct_id>
+  </id_info>
+  <brief_title>A Study to Test the Efficacy and Safety of Staccato Alprazolam in Study Participants 12 Years of Age and Older With Stereotypical Prolonged Seizures</brief_title>
+  <official_title>A Double-Blind, Randomized, Placebo-Controlled, Multicenter, Outpatient, Parallel-Group Study to Assess the Efficacy and Safety of Staccato Alprazolam in Study Participants 12 Years of Age and Older With Stereotypical Prolonged Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Biopharma SRL</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to assess the success of a single administration of Staccato&#xD;
+      alprazolam compared with placebo both in rapidly terminating a seizure episode within 90&#xD;
+      seconds and with no recurrence of seizure(s) up to 2 hours after investigational medicinal&#xD;
+      product (IMP) administration.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 7, 2021</start_date>
+  <completion_date type="Anticipated">July 17, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 17, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment success for the treated seizure within 90 seconds after investigational medicinal product (IMP) administration</measure>
+    <time_frame>From start of IMP treatment through 6 hours</time_frame>
+    <description>Treatment success for the treated seizure is defined as termination of the seizure within 90 seconds after IMP administration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment success for the treated seizure with no recurrence up to 2 hours</measure>
+    <time_frame>From start of IMP treatment through 2 hours</time_frame>
+    <description>Treatment success for the treated seizure is defined as termination of the treated seizure within 90 seconds after IMP administration and no recurrence of seizure(s) from IMP administration to 2 hours after IMP administration and no initiation of seizure rescue treatment from 90 seconds to 2 hours after IMP administration.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment success for treated seizure with no recurrence after 4 hours</measure>
+    <time_frame>From start of IMP treatment through 4 hours</time_frame>
+    <description>Treatment success defined as termination of the treated seizure within 90 seconds after IMP administration, with no recurrence of seizure(s) up to 4 hours after IMP administration and no initiation of seizure rescue treatment from 90 seconds to 4 hours after IMP administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment success for treated seizure with no recurrence after 6 hours</measure>
+    <time_frame>From start of IMP treatment through 6 hours</time_frame>
+    <description>Treatment success defined as termination of the treated seizure within 90 seconds after IMP administration, with no recurrence of seizure(s) up to 6 hours after IMP administration and no initiation of seizure rescue treatment from 90 seconds to 6 hours after IMP administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from IMP administration to cessation of the treated seizure</measure>
+    <time_frame>From start of IMP treatment through 6 hours</time_frame>
+    <description>The time will be assessed from IMP administration to cessation of the treated seizure (taking administration of seizure rescue treatment as censoring point).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of respiratory treatment emergent adverse events (TEAEs)</measure>
+    <time_frame>From start of IMP treatment up to the Safety Follow-up Visit (Week 19)</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a patient or clinical study participant, temporally associated with the use of IMP, whether or not considered related to the IMP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subsequent seizure(s) up to 2 hours after IMP administration</measure>
+    <time_frame>From start of IMP treatment through 2 hours</time_frame>
+    <description>The number of subsequent seizure(s) will be assessed up to 2 hours after IMP administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first subsequent seizure up to 2 hours after IMP administration</measure>
+    <time_frame>From start of IMP treatment through 2 hours</time_frame>
+    <description>The time to first subsequent seizure will be assessed up to 2 hours after IMP administration and is defined as time from end of IMP treated seizure to start of first subsequent seizure.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Stereotypical Prolonged Seizures</condition>
+  <arm_group>
+    <arm_group_label>Staccato alprazolam Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to this arm will receive a single dose of Staccato alprazolam by inhalation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants randomized to this arm will receive a single dose of placebo by inhalation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Staccato alprazolam</intervention_name>
+    <description>Route of administration: Inhalation&#xD;
+Participants will receive one dose of Staccato alprazolam during the Treatment Period.</description>
+    <arm_group_label>Staccato alprazolam Arm</arm_group_label>
+    <other_name>UCB7538</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Route of administration: Inhalation&#xD;
+Participants will receive one dose of placebo during the Treatment Period.</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant must be ≥12 years of age at the Baseline/Randomization Visit&#xD;
+&#xD;
+          -  Participant must have a study caregiver ≥18 years of age at the Screening Visit; the&#xD;
+             study caregiver(s) must be a relative, partner, friend, or legally authorized&#xD;
+             representative (LAR) of the participant, or a person who provides daily care to the&#xD;
+             participant and has a significant personal relationship with the participant; the&#xD;
+             study caregiver(s) must be able to recognize and observe the participant's seizures&#xD;
+&#xD;
+          -  Participants with an established diagnosis of focal or generalized epilepsy or&#xD;
+             combined focal and generalized epilepsy with a documented history of stereotypical&#xD;
+             episodes of prolonged seizures that includes at least 1 of the following:&#xD;
+&#xD;
+               1. Generalized seizure episodes starting with a flurry of absence seizures or&#xD;
+                  myoclonic seizures with a minimum total duration of 5 minutes&#xD;
+&#xD;
+               2. Episodes of a focal seizure with a minimum duration of 3 minutes&#xD;
+&#xD;
+               3. Episodes of a focal seizure or a flurry of myoclonic seizures for at least 90&#xD;
+                  seconds followed by a generalized/bilateral tonic-clonic seizure with a minimum&#xD;
+                  total duration of 3 minutes&#xD;
+&#xD;
+          -  Prior to the Screening Visit, participant has experienced ≥4 stereotypical episodes of&#xD;
+             prolonged seizures in the past 6 months, and the last 2 stereotypical episodes of&#xD;
+             prolonged seizures must have occurred within the 3 months prior to the Screening Visit&#xD;
+&#xD;
+          -  Participant has had a documented brain computerized tomography or magnetic resonance&#xD;
+             imaging review, performed after diagnosis of epilepsy and within the 5 years prior to&#xD;
+             the Screening Visit, that confirms the absence of a progressive neurological disorder&#xD;
+&#xD;
+          -  Participant is receiving a regimen of antiseizure medications (ASMs) that has been&#xD;
+             stable (ie, no addition or removal of ASM[s]; dose adjustments are permitted to&#xD;
+             ASM[s]; dose adjustments are not permitted for benzodiazepines) for 30 days prior to&#xD;
+             the Screening Visit&#xD;
+&#xD;
+          -  Male and female participants:&#xD;
+&#xD;
+               1. A male participant must agree to use contraception during the Outpatient&#xD;
+                  Treatment Period and for at least 7 days after IMP administration and refrain&#xD;
+                  from donating sperm during this period&#xD;
+&#xD;
+               2. A female participant is eligible to participate if she is not pregnant, not&#xD;
+                  breastfeeding, and at least 1 of the following conditions applies:&#xD;
+&#xD;
+             i) Not a woman of childbearing potential (WOCBP) OR ii) A WOCBP who agrees to follow&#xD;
+             the contraceptive guidance during the Outpatient Treatment Period and for at least 30&#xD;
+             days after IMP administration&#xD;
+&#xD;
+          -  Participant is capable of giving signed informed consent (or giving assent, where&#xD;
+             required), which includes compliance with the requirements and restrictions listed in&#xD;
+             the informed consent form (ICF), the protocol, and the individualized participant&#xD;
+             management plan (iPMP). The ICF or a specific assent form, where required, will be&#xD;
+             signed and dated by minors&#xD;
+&#xD;
+          -  The participant's study caregiver(s) must be capable of giving signed informed&#xD;
+             consent, which includes compliance with the requirements and restrictions listed in&#xD;
+             the ICF, the protocol, and the iPMP&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participant has a current history of alcohol or drug use disorder, as defined in the&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders 5, within the previous 1 year&#xD;
+&#xD;
+          -  Participant has a known hypersensitivity to any components of the IMP or comparable&#xD;
+             drugs (and/or an investigational device) as stated in this protocol or to albuterol&#xD;
+             (or similar bronchospasm rescue medication if needed to meet country-specific&#xD;
+             requirements)&#xD;
+&#xD;
+          -  Participant has a diagnosis of atrial fibrillation or mitral stenosis&#xD;
+&#xD;
+          -  Participant has a history of convulsive (generalized tonic-clonic) status epilepticus&#xD;
+             in the 8 weeks prior to the Screening Visit&#xD;
+&#xD;
+          -  Participant has a history or presence of known nonepileptic seizures which cannot be&#xD;
+             distinguished from qualifying epileptic seizures&#xD;
+&#xD;
+          -  Participant has a clinically significant known airway hypersensitivity (eg,&#xD;
+             bronchospasm to known allergens, such as pollen, animals, or food) and/or acute&#xD;
+             respiratory signs/symptoms (eg, shortness of breath, wheezing on lung auscultation)&#xD;
+&#xD;
+          -  Participant has a clinically significant chronic pulmonary disorder other than mild&#xD;
+             asthma (eg, chronic obstructive pulmonary disease, restrictive lung diseases&#xD;
+             [including idiopathic pulmonary fibrosis]) and/or recent history or presence of&#xD;
+             hemoptysis or pneumothorax&#xD;
+&#xD;
+          -  Participant has had a positive antigen test for acute respiratory syndrome coronavirus&#xD;
+             2 (SARS-CoV-2) and experienced moderate to severe signs/symptoms of respiratory&#xD;
+             distress necessitating hospitalization or outpatient treatment such as ambulatory&#xD;
+             oxygen, extensive treatment with inhaler medications, and/or oral medications for a&#xD;
+             duration of 4 weeks or more, unless full resolution occurred at least 6 months prior&#xD;
+             to Screening&#xD;
+&#xD;
+          -  Participant has experienced a upper respiratory tract infection within 4 weeks or&#xD;
+             bronchitis/pneumonia within 3 months before the Screening Visit&#xD;
+&#xD;
+          -  Participant has a history or presence of acute narrow-angle glaucoma&#xD;
+&#xD;
+          -  Participant has a condition for which oral alprazolam is contraindicated (eg,&#xD;
+             myasthenia gravis, severe respiratory insufficiency, and sleep apnea syndrome)&#xD;
+&#xD;
+          -  Participant has a history or presence of long QT syndrome, a family history of sudden&#xD;
+             death due to long QT syndrome, or unexplained syncope&#xD;
+&#xD;
+          -  Chronic use of benzodiazepines for more than 3 days within a period of 7 days will be&#xD;
+             allowed for approximately 30 % of study participants&#xD;
+&#xD;
+          -  Participant is taking any drug that is a strong CYP3A4 inhibitor, including azole&#xD;
+             antifungal agents (ketoconazole and itraconazole) and nefazodone&#xD;
+&#xD;
+          -  Participant is taking any opioids (eg, fentanyl, oxycodone, morphine) or sedative&#xD;
+             hypnotics on a chronic basis&#xD;
+&#xD;
+          -  Participant is taking nonselective beta blockers on a chronic basis&#xD;
+&#xD;
+          -  Participant is taking pharmacotherapy for an active major psychiatric disorder where&#xD;
+             major changes in regimen are needed or anticipated during the study&#xD;
+&#xD;
+          -  Participant has been treated with vagal nerve stimulation (VNS) for less than 6 months&#xD;
+             or VNS settings have changed within 30 days before the Screening Visit&#xD;
+&#xD;
+          -  Participant has a clinically significant laboratory abnormality that may increase the&#xD;
+             risk associated with study participation or may interfere with the interpretation of&#xD;
+             study results, according to the judgment of the Investigator&#xD;
+&#xD;
+          -  Participant has an oxygen saturation &lt;95 % (or less than normal in regions of altitude&#xD;
+             &gt;2500 meters) for greater than 30 seconds during the Screening Visit. In case of an&#xD;
+             out-of-range result, 1 repeat will be allowed. If the readings are out of range again,&#xD;
+             the study participant will be excluded&#xD;
+&#xD;
+          -  Participant has &gt;2.0x upper limit of normal (ULN) of any of the following: alanine&#xD;
+             aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP),&#xD;
+             or &gt;1.0xULN total bilirubin (≥1.5xULN total bilirubin if known Gilbert's syndrome or&#xD;
+             &gt;2.0xULN total bilirubin for liver impairment)&#xD;
+&#xD;
+          -  Participant has current unstable liver or biliary disease per Investigator assessment&#xD;
+             defined by the presence of ascites, encephalopathy, coagulopathy, hypoalbuminemia,&#xD;
+             esophageal or gastric varices, persistent jaundice, or cirrhosis&#xD;
+&#xD;
+          -  Participant has a QT interval corrected for heart rate (QTc) &gt;450 msec (males), QTc&#xD;
+             interval &gt;470 msec (females), or QTc interval &gt;480 msec (participants with bundle&#xD;
+             branch block), PR interval ≥220 msec, or any other clinically significant&#xD;
+             electrocardiogram (ECG) abnormality according to the Investigator i) The QTc is the QT&#xD;
+             interval corrected for heart rate according to Fridericia's formula (QTcF). It is&#xD;
+             either machine-read or manually over-read&#xD;
+&#xD;
+          -  Participant has a positive urine screen for drugs of abuse at the Screening Visit&#xD;
+&#xD;
+          -  Participant has a blood pressure (BP) or heart rate (HR) outside the following range&#xD;
+             after 5 minutes rest: systolic BP: 90 mmHg to 150 mmHg; diastolic BP: 4 0mmHg to 95&#xD;
+             mmHg; HR: 50 bpm to 100 bpm. In case of an out-of-range result, 1 repeat will be&#xD;
+             allowed. If the readings are out of range again, the study participant will be&#xD;
+             excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Cares</last_name>
+    <role>Study Director</role>
+    <affiliation>001 844 599 2273 (UCB)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>UCB Cares</last_name>
+    <phone>1-844-599-2273 (USA)</phone>
+    <email>UCBCares@ucb.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>UCB Cares</last_name>
+    <phone>0018445992273</phone>
+    <email>UCBCares@ucb.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ep0162 50506</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50494</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50118</name>
+      <address>
+        <city>Downey</city>
+        <state>California</state>
+        <zip>90242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50505</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50492</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50088</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50515</name>
+      <address>
+        <city>Gulf Breeze</city>
+        <state>Florida</state>
+        <zip>32561</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50508</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50342</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224-1865</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50199</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50509</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50308</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50323</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50512</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50493</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50375</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50504</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50395</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50517</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50093</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50488</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50047</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50110</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0944</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50507</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50499</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50299</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50497</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50298</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50490</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50518</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50034</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50514</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50487</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50528</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50510</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50096</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50364</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50511</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50491</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50513</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50103</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50496</name>
+      <address>
+        <city>Round Rock</city>
+        <state>Texas</state>
+        <zip>78681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 50473</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 30027</name>
+      <address>
+        <city>Melbourne</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 30031</name>
+      <address>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40650</name>
+      <address>
+        <city>Blagoevgrad</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40708</name>
+      <address>
+        <city>Pazardzhik</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40665</name>
+      <address>
+        <city>Pleven</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40709</name>
+      <address>
+        <city>Pleven</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40651</name>
+      <address>
+        <city>Sofia</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20128</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20246</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20268</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20299</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20261</name>
+      <address>
+        <city>Changchun</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20133</name>
+      <address>
+        <city>Chengdu</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20137</name>
+      <address>
+        <city>Chengdu</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20250</name>
+      <address>
+        <city>Chongqing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20124</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20260</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20264</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20269</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20300</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20258</name>
+      <address>
+        <city>Lanzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20253</name>
+      <address>
+        <city>Nanchang</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20267</name>
+      <address>
+        <city>Nanjing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20123</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20289</name>
+      <address>
+        <city>Shijiazhuang</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20119</name>
+      <address>
+        <city>Suzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20257</name>
+      <address>
+        <city>Tianjin</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20025</name>
+      <address>
+        <city>Wenzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20252</name>
+      <address>
+        <city>Wuhan</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20255</name>
+      <address>
+        <city>Yinchuan</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20262</name>
+      <address>
+        <city>Zhanjiang</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20251</name>
+      <address>
+        <city>Zhengzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40670</name>
+      <address>
+        <city>Brno</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40672</name>
+      <address>
+        <city>Ostrava - Poruba</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40714</name>
+      <address>
+        <city>Praha 4</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40063</name>
+      <address>
+        <city>Praha 5</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40671</name>
+      <address>
+        <city>Praha 6</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40688</name>
+      <address>
+        <city>Bron</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40680</name>
+      <address>
+        <city>Dijon Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40201</name>
+      <address>
+        <city>Rennes Cedex 9</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40199</name>
+      <address>
+        <city>Strasbourg Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40577</name>
+      <address>
+        <city>Aachen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40683</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40685</name>
+      <address>
+        <city>Bielefeld</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40023</name>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40645</name>
+      <address>
+        <city>Frankfurt Am Main</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40689</name>
+      <address>
+        <city>Kehl-kork</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40529</name>
+      <address>
+        <city>Marburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40666</name>
+      <address>
+        <city>Balassagyarmat</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40673</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40704</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40653</name>
+      <address>
+        <city>Debrecen</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40690</name>
+      <address>
+        <city>Catanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40674</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40144</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40477</name>
+      <address>
+        <city>Pavia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40257</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20248</name>
+      <address>
+        <city>Fukuoka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20237</name>
+      <address>
+        <city>Hamamatsu</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20249</name>
+      <address>
+        <city>Hiroshima-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20236</name>
+      <address>
+        <city>Hofu</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20239</name>
+      <address>
+        <city>Itami</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20143</name>
+      <address>
+        <city>Kodaira</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20243</name>
+      <address>
+        <city>Nagakute</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20235</name>
+      <address>
+        <city>Nagoya</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20238</name>
+      <address>
+        <city>Niigata</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20241</name>
+      <address>
+        <city>Omura</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20302</name>
+      <address>
+        <city>Osaka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20297</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20240</name>
+      <address>
+        <city>Shizuoka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20242</name>
+      <address>
+        <city>Suita</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20266</name>
+      <address>
+        <city>Toon</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 20244</name>
+      <address>
+        <city>Yamagata</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40707</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40677</name>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40219</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40502</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40676</name>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40091</name>
+      <address>
+        <city>Nowa Sol</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40153</name>
+      <address>
+        <city>Poznan</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40678</name>
+      <address>
+        <city>Swidnik</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40160</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40352</name>
+      <address>
+        <city>Pamplona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40668</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40453</name>
+      <address>
+        <city>Terrassa</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40230</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40667</name>
+      <address>
+        <city>Valladolid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40686</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40300</name>
+      <address>
+        <city>Cardiff</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40163</name>
+      <address>
+        <city>Oxford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0162 40108</name>
+      <address>
+        <city>Salford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Bulgaria</country>
+    <country>China</country>
+    <country>Czechia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>September 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>April 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 28, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Stereotypical prolonged seizures</keyword>
+  <keyword>Phase 3</keyword>
+  <keyword>Staccato alprazolam</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Seizures</mesh_term>
+    <mesh_term>Status Epilepticus</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alprazolam</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data from this trial may be requested by qualified researchers six months after product approval in the US and/or Europe, or global development is discontinued, and 18 months after trial completion. Investigators may request access to anonymized individual patient-level data and redacted trial documents which may include: analysis-ready datasets, study protocol, annotated case report form, statistical analysis plan, dataset specifications, and clinical study report. Prior to use of the data, proposals need to be approved by an independent review panel at www.Vivli.org and a signed data sharing agreement will need to be executed. All documents are available in English only, for a prespecified time, typically 12 months, on a password protected portal. This plan may change if the risk of reidentifying trial participants is determined to be too high after the trial is completed; in this case and to protect participants, individual patient-level data would not be made available.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data from this trial may be requested by qualified researchers six months after product approval in the US and/or Europe or global development is discontinued, and 18 months after trial completion.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers may request access to anonymized IPD and redacted study documents which may include: raw datasets, analysis-ready datasets, study protocol, blank case report form, annotated case report form, statistical analysis plan, dataset specifications, and clinical study report. Prior to use of the data, proposals need to be approved by an independent review panel at www.Vivli.org and a signed data sharing agreement will need to be executed. All documents are available in English only, for a pre-specified time, typically 12 months, on a password protected portal.</ipd_access_criteria>
+    <ipd_url>http://www.Vivli.org</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

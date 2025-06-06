@@ -1,0 +1,521 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05075824</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BO42451</org_study_id>
+    <secondary_id>2020-004839-25</secondary_id>
+    <nct_id>NCT05075824</nct_id>
+  </id_info>
+  <brief_title>A Study Evaluating the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Crovalimab as Adjunct Treatment in Prevention of Vaso-Occlusive Episodes (VOE) in Sickle Cell Disease (SCD)</brief_title>
+  <acronym>CROSSWALK-c</acronym>
+  <official_title>A Randomized Double-Blind Phase IIA Study Evaluating the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Crovalimab as Adjunct Treatment in Prevention of Vaso-Occlusive Episodes (VOE) in Sickle Cell Disease (SCD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to evaluate the efficacy, safety and pharmacokinetics of crovalimab&#xD;
+      compared with placebo as adjunct therapy in the prevention of VOEs in participants with SCD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 9, 2022</start_date>
+  <completion_date type="Anticipated">January 10, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 26, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Annualized rate of medical facility VOEs (AVR)</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Annualized rate of home VOE</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Annualized rate of uncomplicated medical facility VOE</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Annualized rate of Acute Chest Syndrome (ACS)</measure>
+    <time_frame>Baseline to up Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Annualized rate of days hospitalized for medical facility VOE</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Annualized rate of days hospitalized for treatment of non-VOE complications of SCD</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first medical facility VOE from randomization</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in urinary albumin-creatinine ratio</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Tricuspid Regurgitant Jet Velocity (TRV)</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with TRV &gt;2.5 m/s</measure>
+    <time_frame>Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient-Reported Outcomes Measurement Information System (PROMIS)-Fatigue Score in Adults</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Adverse Events (AEs)</measure>
+    <time_frame>Up to 91 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentrations of Crovalimab over time</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Anti-Drug Antibodies to Crovalimab</measure>
+    <time_frame>Baseline up to Week 49</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Sickle Cell Disease</condition>
+  <arm_group>
+    <arm_group_label>Crovalimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a loading series of Crovalimab comprised of an intravenous (IV) loading dose on Day 1, followed by weekly Crovalimab subcutaneous (SC) doses for 4 weeks on Week 1 Day 2, then on Weeks 2, 3 and 4. Maintenance SC dosing will begin at Week 5 and will continue every 4 weeks (Q4W) thereafter for a total of 48 weeks of treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive matching Placebo administered by IV infusion and SC injection over the same duration as Crovalimab, for a total of 48 weeks of treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Crovalimab</intervention_name>
+    <description>Crovalimab will be administered at a dose of 1000 mg IV (for participants with body weight between 40 kg and 100 kg) or 1500 mg IV (for participants with body weight &gt;= 100 kg) on Week 1 Day 1. On Week 1 Day 2 and on Weeks 2, 3 and 4, crovalimab will be administered at a dose of 340 mg SC. For Week 5 and Q4W thereafter, crovalimab will be administered at a dose of 680 mg SC (for participants with body weight between 40 kg and 100 kg) or 1020 mg SC (for participants with body weight &gt;= 100 kg). Dosing schedule will be as per Arm Description.</description>
+    <arm_group_label>Crovalimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching Placebo will be administered with the same dosing schedule and equivalent IV and SC volume as weight-based Crovalimab.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body weight &gt;=40 kg.&#xD;
+&#xD;
+          -  Male or female with confirmed diagnosis of HbSS (SCD genotype of sickle cell anemia)&#xD;
+             or HbSβ0 (SCD genotype of sickle cell beta zero thalassemia).&#xD;
+&#xD;
+          -  Two or more (&gt;=2) to &lt;=10 documented VOEs in the 12 months prior to randomisation.&#xD;
+&#xD;
+          -  If receiving concurrent SCD-directed therapy, the participant must have been on a&#xD;
+             stable dose for a minimum of 3 months prior to study enrollment. There should be no&#xD;
+             plans to modify the participants' dosing throughout the study duration, other than for&#xD;
+             safety reasons.&#xD;
+&#xD;
+          -  If receiving erythropoietin, the participant must have been prescribed this medication&#xD;
+             for the preceding 3 months and be dose-stabilised for at least 3 months prior to study&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Vaccination against N. meningitides serotypes A, C, W, and Y and Vaccinations against&#xD;
+             H. influenza type B and S. pneumonia.&#xD;
+&#xD;
+          -  Participants who have been vaccinated (partially or in full) against SARS-CoV-2 with a&#xD;
+             locally approved vaccine are eligible to be enrolled in the study, 3 days or longer&#xD;
+             after inoculation.&#xD;
+&#xD;
+          -  Adequate hepatic and renal function.&#xD;
+&#xD;
+          -  For women of childbearing potential: agreement to remain abstinent or use&#xD;
+             contraception during the treatment period and for 10.5 months after the final dose of&#xD;
+             study treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of hematopoietic stem cell transplant.&#xD;
+&#xD;
+          -  Participating in a chronic transfusion program and/or planning on undergoing an&#xD;
+             exchange transfusion during the duration of the study.&#xD;
+&#xD;
+          -  History of hypersensitivity, allergic, or anaphylactic reactions to any ingredient&#xD;
+             contained in the study treatment.&#xD;
+&#xD;
+          -  Received active treatment on another investigational trial within 28 days (or within&#xD;
+             five half-lives of that agent, whichever is greater) prior to screening visit, or&#xD;
+             plans to participate in another investigational drug trial.&#xD;
+&#xD;
+          -  Hemoglobin &lt;6 g/dL.&#xD;
+&#xD;
+          -  Known or suspected hereditary complement deficiency.&#xD;
+&#xD;
+          -  Active systemic bacterial, viral, or fungal infection within 14 days before first drug&#xD;
+             administration.&#xD;
+&#xD;
+          -  Presence of fever (&gt;=38 degrees Celsius) within 7 days before the first drug&#xD;
+             administration.&#xD;
+&#xD;
+          -  Immunised with a live attenuated vaccine within 1 month before first drug&#xD;
+             administration.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding, or intending to become pregnant during the study or within&#xD;
+             10.5 months after the final dose of study treatment.&#xD;
+&#xD;
+          -  Known HIV infection with documented CD4 count &lt;200 cells/microliter within 24 weeks&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  History of N. meningitidis infection within the prior 6 months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: BO42451 https://forpatients.roche.com/</last_name>
+    <phone>888-662-6728 (U.S. and Canada)</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Mississippi Center for Advanced Medicine</name>
+      <address>
+        <city>Madison</city>
+        <state>Mississippi</state>
+        <zip>39110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>East Carolina University; Brody School of Medicine</name>
+      <address>
+        <city>Greenville</city>
+        <state>North Carolina</state>
+        <zip>27834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Rafael - HSR</name>
+      <address>
+        <city>Salvador</city>
+        <state>BA</state>
+        <zip>41253-190</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HEMORIO</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>20211-030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas - UFRGS</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UNESP - Faculdade de Medicina da Universidade Estadual Paulista - Campus Botucatu</name>
+      <address>
+        <city>Botucatu</city>
+        <state>SP</state>
+        <zip>18618-970</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clínicas Faculdades Médicas de Ribeirão Preto</name>
+      <address>
+        <city>Ribeirao Preto</city>
+        <state>SP</state>
+        <zip>14051-140</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Base de Sao Jose do Rio Preto</name>
+      <address>
+        <city>Sao Jose do Rio Preto</city>
+        <state>SP</state>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beneficencia Portuguesa de Sao Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>01321-00</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Henri Mondor; Service de médecine interne</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Saint Eloi; Service de Médecine interne</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Università degli Studi della Campania Luigi Vanvitelli; UOC Ematologia ed oncologia pediatrica</name>
+      <address>
+        <city>Napoli</city>
+        <state>Campania</state>
+        <zip>80138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Galliera; S.S.D. Ematologia</name>
+      <address>
+        <city>Genova</city>
+        <state>Liguria</state>
+        <zip>16128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera di Verona-Policlinico G.B. Rossi; Medicina Interna</name>
+      <address>
+        <city>Verona</city>
+        <state>Veneto</state>
+        <zip>37134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron; Servicio de Hematologia</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Univ. Gregorio Maranon</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocio; Servicio de Hematologia</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Adana Acibadem Hospital; Pediatric Hematology</name>
+      <address>
+        <city>Adana</city>
+        <zip>01130</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cukurova University Medical Faculty Balcali Hospital</name>
+      <address>
+        <city>Adana</city>
+        <zip>1330</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Akdeniz Univesity Medical Faculty</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07058</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mustafa Kemal University Medical Faculty; Infection</name>
+      <address>
+        <city>Hatay</city>
+        <zip>31040</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mersin Universitesi Tip Fakultesi Hastanesi; Tibbi Onkoloji Birimi</name>
+      <address>
+        <city>Mersin</city>
+        <zip>33110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hammersmith Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>W12 0HS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>April 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaso-occlusive episodes</keyword>
+  <keyword>Pain crisis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/innovation/process/clinical -trials/data-sharing/).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

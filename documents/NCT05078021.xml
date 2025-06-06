@@ -1,0 +1,316 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078021</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-2123</org_study_id>
+    <nct_id>NCT05078021</nct_id>
+  </id_info>
+  <brief_title>Phenotyping Disease Severity in Asthma</brief_title>
+  <official_title>Phenotyping Disease Severity in Asthma: Molecular Investigations of Corticosteroid</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to characterize and compare the molecular gene expression&#xD;
+      profile in endobronchial biopsies and cells recovered in bronchial washings from study&#xD;
+      subjects who have asthma of varying disease severity and who are on maintenance inhaled&#xD;
+      corticosteroid (ICS) treatment, with that for healthy control subjects. These studies will&#xD;
+      produce transcriptomic profiles of gene expression associated with asthma disease severity.&#xD;
+      The investigators will also culture epithelial cells from study participant endobronchial&#xD;
+      brushings, including those with asthma of varying disease severity and healthy control&#xD;
+      subjects, to examine differences in the response to corticosteroids (CS) in vitro. These&#xD;
+      studies will test whether intrinsic differences exist between the responses to ICS in each&#xD;
+      group.&#xD;
+&#xD;
+      60 participants will be recruited with 15 of each mild, moderate and severe asthma as defined&#xD;
+      by the Global Initiative for Asthma (GINA) guidelines, as well as 15 healthy controls.&#xD;
+      Participants will undergo an initial visit to obtain informed consent, bloodwork and to&#xD;
+      assess asthma control using the Asthma Control Questionnaire (ACQ); if &gt;1.5, ICS dose will be&#xD;
+      increased, as per GINA strategy, for a 2 week 'stabilization' phase. Repeat ACQ, spirometry&#xD;
+      and sputum induction will be performed at visit 2. Bronchoscopy will be performed at visit 3,&#xD;
+      2-4 weeks after visit 2. Mucosal biopsies, bronchial brushings and bronchial washings will be&#xD;
+      performed and processed as per our prior methods. Mucosal biopsies will be homogenized and&#xD;
+      processed for RNA, or fixed for later sectioning and histological examination. Biopsy RNA&#xD;
+      will be assessed for quality and subjected to RNA-sequencing of all human genes (mRNA-seq).&#xD;
+      Bronchial washing cells will be collected for differential cell counting and mRNA-seq&#xD;
+      analysis. Bronchial epithelial cells (BECs) from the brushings will be cultured. BECs treated&#xD;
+      with CS and inflammatory cytokines will allow comparative assessment of BEC responses.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      While inhaled corticosteroids (ICS), either as monotherapy or in combination with long-acting&#xD;
+      β2 agonists (LABA), provide effective control in mild to moderate asthma, they are less&#xD;
+      effective in severe asthma. Following a guideline-based stepwise approach of treatment&#xD;
+      escalation often results in extended periods during which both the underlying airway&#xD;
+      inflammation and the asthma symptoms remain uncontrolled in these patients with severe&#xD;
+      asthma. This can lead to permanent damage, often termed airway remodeling, which results in&#xD;
+      fixed airflow obstruction that is no longer amenable to pharmacological therapy. The ability&#xD;
+      to identify molecular phenotypes associated with severe asthma should enable a more direct&#xD;
+      transition to appropriate therapies.&#xD;
+&#xD;
+      The respiratory epithelium drives airway inflammation and represents a primary target for&#xD;
+      ICS, which act through the glucocorticoid receptor (GR) to inhibit inflammatory gene&#xD;
+      expression. In an effort to predict therapeutic responses, considerable work has gone into&#xD;
+      investigating the clinical and molecular phenotyping of asthmatic individuals. This has&#xD;
+      produced a focus on gene-expression profiles (in blood) of asthmatics that associates with&#xD;
+      Th2 inflammatory phenotypes. However, there remains a paucity of studies investigating&#xD;
+      transcriptomic differences in the airways of mild and severe asthmatics.&#xD;
+&#xD;
+      The investigators now submit that characterization of inflammatory gene expression that&#xD;
+      escapes repression by CS or, alternatively, induces further inflammation, even in the setting&#xD;
+      of increasing ICS exposure, is crucial to understanding the mechanisms underpinning severe&#xD;
+      asthma.&#xD;
+&#xD;
+      Hypothesis:&#xD;
+&#xD;
+      Rather than being merely an amplified version of mild asthma, the investigators hypothesize&#xD;
+      that severe asthma shows a distinct inflammatory gene expression profile, with specific genes&#xD;
+      escaping repression, or being enhanced in expression by CS. Such effects, as apparent in&#xD;
+      cell-based models, could contribute to a molecular phenotype that is inherently resistant to&#xD;
+      the anti-inflammatory effects of ICS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 21, 2022</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Molecular gene expression profile</measure>
+    <time_frame>Sept 2021-Sept 2024</time_frame>
+    <description>From endobronchial biopsies and cells recovered in bronchial washings</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To test whether intrinsic differences exist between the responses to ICS</measure>
+    <time_frame>Sept 2021-Sept 2024</time_frame>
+    <description>From cultured epithelial cells</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Asthma</condition>
+  <arm_group>
+    <arm_group_label>Normal control</arm_group_label>
+    <description>Healthy, non-asthmatic control subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild asthma</arm_group_label>
+    <description>Requiring low dose inhaled corticosteroid (ICS) plus as needed short acting beta-agonist (SABA) or as needed ICS-Formoterol.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate asthma</arm_group_label>
+    <description>Low dose ICS-Long acting beta-agonist (LABA) maintenance + ICS-LABA reliever or SABA reliever</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe asthma</arm_group_label>
+    <description>Medium to high dose ICS-LABA maintenance + as needed SABA or ICS-formoterol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Bronchoscopy</intervention_name>
+    <description>Bronchoscopy will be performed in all groups with endobronchial biopsies, brushings and bronchial washing performed.</description>
+    <arm_group_label>Mild asthma</arm_group_label>
+    <arm_group_label>Moderate asthma</arm_group_label>
+    <arm_group_label>Normal control</arm_group_label>
+    <arm_group_label>Severe asthma</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Bronchoscopic samples including endobronchial brushings, endobronchial biopsies as well as&#xD;
+      bronchial washings.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        For the asthma cohort, the asthma diagnosis will be defined by objective evidence of ≥12%&#xD;
+        post-bronchodilator reversibility or PC20 methacholine &lt;16mg/ml within the past 36 months.&#xD;
+        Asthma severity will be defined by the requirement of low, medium, or high dose of ICS to&#xD;
+        achieve symptom control, with the correlating ICS doses being the daily equivalent of&#xD;
+        budesonide 200-400mcg, 400-800mcg, or &gt;800mcg respectively Control subjects will be those&#xD;
+        without a diagnosis of asthma.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-60&#xD;
+&#xD;
+          -  Confirmed diagnosis of asthma by CTS criteria&#xD;
+&#xD;
+          -  No contraindication to bronchoscopy&#xD;
+&#xD;
+          -  No treatment with azithromycin&#xD;
+&#xD;
+          -  No oral corticosteroid in the 4 weeks prior&#xD;
+&#xD;
+          -  No participation in another drug study in the 4 weeks prior&#xD;
+&#xD;
+          -  On stable doses of asthma inhaled therapies for 12 weeks prior to bronchoscopy&#xD;
+&#xD;
+          -  FEV1 &gt;80%&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current smokers (within past year)&#xD;
+&#xD;
+          -  Subjects with ≥10 pack-year lifetime smoking history&#xD;
+&#xD;
+          -  History of asthma exacerbation (requiring oral prednisone) in the 4 weeks prior to&#xD;
+             study entry&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Brianne S Philipenko, MD</last_name>
+    <phone>3063806777</phone>
+    <email>brianne.philipenko@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Richard Leigh</last_name>
+    <phone>403-943-8666</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Curtis Dumonceaux</last_name>
+      <phone>403-220-2123</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>Lougheed MD, Leniere C, Ducharme FM, Licskai C, Dell SD, Rowe BH, FitzGerald M, Leigh R, Watson W, Boulet LP; Canadian Thoracic Society Asthma Clinical Assemby. Canadian Thoracic Society 2012 guideline update: Diagnosis and management of asthma in preschoolers, children and adults: executive summary. Can Respir J. 2012 Nov-Dec;19(6):e81-8. doi: 10.1155/2012/214129. Erratum In: Can Respir J. 2013 May-Jun;20(3):185.</citation>
+    <PMID>23248807</PMID>
+  </reference>
+  <reference>
+    <citation>Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2019. Available from: www.ginasthma.org</citation>
+  </reference>
+  <reference>
+    <citation>Hossny E, Caraballo L, Casale T, El-Gamal Y, Rosenwasser L. Severe asthma and quality of life. World Allergy Organ J. 2017 Aug 21;10(1):28. doi: 10.1186/s40413-017-0159-y. eCollection 2017.</citation>
+    <PMID>28855973</PMID>
+  </reference>
+  <reference>
+    <citation>FitzGerald J.M., Lemiere C, Lougheed M.D., Ducharme F, Dell S. Recognition and management of severe asthma: A Canadian Thoracic Society position statement. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. 2017; 1 (4), 199-221. https://doi.org/10.1080/24745332.2017.1395250</citation>
+  </reference>
+  <reference>
+    <citation>Bergeron C, Tulic MK, Hamid Q. Airway remodelling in asthma: from benchside to clinical practice. Can Respir J. 2010 Jul-Aug;17(4):e85-93. doi: 10.1155/2010/318029.</citation>
+    <PMID>20808979</PMID>
+  </reference>
+  <reference>
+    <citation>Fehrenbach H, Wagner C, Wegmann M. Airway remodeling in asthma: what really matters. Cell Tissue Res. 2017 Mar;367(3):551-569. doi: 10.1007/s00441-016-2566-8. Epub 2017 Feb 11.</citation>
+    <PMID>28190087</PMID>
+  </reference>
+  <reference>
+    <citation>Lambrecht BN, Hammad H. The airway epithelium in asthma. Nat Med. 2012 May 4;18(5):684-92. doi: 10.1038/nm.2737.</citation>
+    <PMID>22561832</PMID>
+  </reference>
+  <reference>
+    <citation>Klassen C, Karabinskaya A, Dejager L, Vettorazzi S, Van Moorleghem J, Luhder F, Meijsing SH, Tuckermann JP, Bohnenberger H, Libert C, Reichardt HM. Airway Epithelial Cells Are Crucial Targets of Glucocorticoids in a Mouse Model of Allergic Asthma. J Immunol. 2017 Jul 1;199(1):48-61. doi: 10.4049/jimmunol.1601691. Epub 2017 May 17.</citation>
+    <PMID>28515280</PMID>
+  </reference>
+  <reference>
+    <citation>Wenzel SE. Asthma phenotypes: the evolution from clinical to molecular approaches. Nat Med. 2012 May 4;18(5):716-25. doi: 10.1038/nm.2678.</citation>
+    <PMID>22561835</PMID>
+  </reference>
+  <reference>
+    <citation>Woodruff PG, Modrek B, Choy DF, Jia G, Abbas AR, Ellwanger A, Koth LL, Arron JR, Fahy JV. T-helper type 2-driven inflammation defines major subphenotypes of asthma. Am J Respir Crit Care Med. 2009 Sep 1;180(5):388-95. doi: 10.1164/rccm.200903-0392OC. Epub 2009 May 29. Erratum In: Am J Respir Crit Care Med. 2009 Oct 15;180(8):796.</citation>
+    <PMID>19483109</PMID>
+  </reference>
+  <reference>
+    <citation>Singh P, Sharma A, Jha R, Arora S, Ahmad R, Rahmani AH, Almatroodi SA, Dohare R, Syed MA. Transcriptomic analysis delineates potential signature genes and miRNAs associated with the pathogenesis of asthma. Sci Rep. 2020 Aug 7;10(1):13354. doi: 10.1038/s41598-020-70368-5.</citation>
+    <PMID>32770056</PMID>
+  </reference>
+  <reference>
+    <citation>Wang M, Bu X, Luan G, Lin L, Wang Y, Jin J, Zhang L, Wang C. Distinct type 2-high inflammation associated molecular signatures of chronic rhinosinusitis with nasal polyps with comorbid asthma. Clin Transl Allergy. 2020 Jul 3;10:26. doi: 10.1186/s13601-020-00332-z. eCollection 2020.</citation>
+    <PMID>32637070</PMID>
+  </reference>
+  <reference>
+    <citation>Leigh R, Mostafa MM, King EM, Rider CF, Shah S, Dumonceaux C, Traves SL, McWhae A, Kolisnik T, Kooi C, Slater DM, Kelly MM, Bieda M, Miller-Larsson A, Newton R. An inhaled dose of budesonide induces genes involved in transcription and signaling in the human airways: enhancement of anti- and proinflammatory effector genes. Pharmacol Res Perspect. 2016 Jul 12;4(4):e00243. doi: 10.1002/prp2.243. eCollection 2016 Aug.</citation>
+    <PMID>28116096</PMID>
+  </reference>
+  <reference>
+    <citation>Donnelly LE, Barnes PJ. Expression of heme oxygenase in human airway epithelial cells. Am J Respir Cell Mol Biol. 2001 Mar;24(3):295-303. doi: 10.1165/ajrcmb.24.3.4001.</citation>
+    <PMID>11245628</PMID>
+  </reference>
+  <reference>
+    <citation>Dougherty RH, Sidhu SS, Raman K, Solon M, Solberg OD, Caughey GH, Woodruff PG, Fahy JV. Accumulation of intraepithelial mast cells with a unique protease phenotype in T(H)2-high asthma. J Allergy Clin Immunol. 2010 May;125(5):1046-1053.e8. doi: 10.1016/j.jaci.2010.03.003.</citation>
+    <PMID>20451039</PMID>
+  </reference>
+  <reference>
+    <citation>Kunicka JE, Talle MA, Denhardt GH, Brown M, Prince LA, Goldstein G. Immunosuppression by glucocorticoids: inhibition of production of multiple lymphokines by in vivo administration of dexamethasone. Cell Immunol. 1993 Jun;149(1):39-49. doi: 10.1006/cimm.1993.1134.</citation>
+    <PMID>8513511</PMID>
+  </reference>
+  <reference>
+    <citation>Newton R, Shah S, Altonsy MO, Gerber AN. Glucocorticoid and cytokine crosstalk: Feedback, feedforward, and co-regulatory interactions determine repression or resistance. J Biol Chem. 2017 Apr 28;292(17):7163-7172. doi: 10.1074/jbc.R117.777318. Epub 2017 Mar 10.</citation>
+    <PMID>28283576</PMID>
+  </reference>
+  <reference>
+    <citation>Newton R. Molecular mechanisms of glucocorticoid action: what is important? Thorax. 2000 Jul;55(7):603-13. doi: 10.1136/thorax.55.7.603. No abstract available.</citation>
+    <PMID>10856322</PMID>
+  </reference>
+  <reference>
+    <citation>Newton R, Leigh R, Giembycz MA. Pharmacological strategies for improving the efficacy and therapeutic ratio of glucocorticoids in inflammatory lung diseases. Pharmacol Ther. 2010 Feb;125(2):286-327. doi: 10.1016/j.pharmthera.2009.11.003. Epub 2009 Nov 22.</citation>
+    <PMID>19932713</PMID>
+  </reference>
+  <reference>
+    <citation>King EM, Chivers JE, Rider CF, Minnich A, Giembycz MA, Newton R. Glucocorticoid repression of inflammatory gene expression shows differential responsiveness by transactivation- and transrepression-dependent mechanisms. PLoS One. 2013;8(1):e53936. doi: 10.1371/journal.pone.0053936. Epub 2013 Jan 14.</citation>
+    <PMID>23349769</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>May 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

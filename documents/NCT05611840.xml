@@ -1,0 +1,606 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05611840</url>
+  </required_header>
+  <id_info>
+    <org_study_id>003kkcng/surg/cuhk</org_study_id>
+    <nct_id>NCT05611840</nct_id>
+  </id_info>
+  <brief_title>RCT on Robotic vs. Endo-laparoscopic Approach for Difficult Choledocholithiasis</brief_title>
+  <official_title>Randomized Trial Comparing One-stage Robotic Approach Versus Two-stage Endo-laparoscopic Approach for Difficult Choledocholithiasis (REAL Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Gallstone disease is a very common disease identity in the world. Migration of stones from&#xD;
+      gallbladder to common bile duct (CBD), causing CBD stones (choledocholithiasis), occurs in up&#xD;
+      to 22% of cases. Traditionally, choledocholithiasis can be managed by therapeutic endoscopic&#xD;
+      retrograde cholangiopancreatography (ERCP) with interval cholecystectomy in 85% of patients.&#xD;
+      In around 15% of the patients, the clearance of choledocholithiasis cannot be effectively&#xD;
+      achieved with standard ERCP (difficult choledocholithiasis).&#xD;
+&#xD;
+      As recommended by European Society of Gastrointestinal Endoscopy guideline, difficult&#xD;
+      choledocholithiasis can be managed by either endoscopic or surgical approaches. Clinical&#xD;
+      evidences by meta-analyses comparing endoscopic with surgical approaches are conflicting.&#xD;
+      Considering the timing of cholecystectomy to eliminate the pathological source of CBD stone,&#xD;
+      one-stage laparoscopic CBD exploration LCBDE plus laparoscopic cholecystectomy LC is an&#xD;
+      attractive approach. Although one-stage laparoscopic approach is associated with higher stone&#xD;
+      clearance rate (up to 96%) than traditional two-stage endo-laparoscopic approach&#xD;
+      (preoperative ERCP and LC), postoperative complication rate is substantial (up to 17%). Among&#xD;
+      those complications, postoperative bile leak is likely related to laparoscopic instrumental&#xD;
+      limitations in LCBDE.&#xD;
+&#xD;
+      With advancement of da Vinci robotic system, there are 3-dimensional dual cameras providing&#xD;
+      high-quality intraoperative view and 7-degree of freedom of robotic instruments. The system&#xD;
+      is able to cope with complex hepatobiliary surgical procedure, including robotic CBD&#xD;
+      exploration (RCBDE). Theoretically, postoperative bile leak following RCBDE is lower than&#xD;
+      that of LCBDE. Hence, one-stage RCBDE plus robotic cholecystectomy RC could become a new&#xD;
+      standard of treatment for difficult choledocholithiasis.&#xD;
+&#xD;
+      Up till now, only case series have reported the safety and efficacy of RCBDE. There is,&#xD;
+      however, no prospective randomized trial comparing one-stage RCBDE and RC with traditional&#xD;
+      two-stage endo-laparoscopic approach (preoperative ERCP and interval LC) for difficult&#xD;
+      choledocholithiasis, in terms of stone clearance rate and procedure-related complications.&#xD;
+      The investigators thus propose a single-center randomized trial on this issue. 90 patients&#xD;
+      (45 patients in each arm) with difficult choledocholithiasis will be randomized to definitive&#xD;
+      treatment by either one-stage robotic approach or two-stage endo-laparoscopic approach. The&#xD;
+      primary outcome is the stone clearance rate. The secondary outcomes include treatment related&#xD;
+      morbidity, hospital mortality, and hospital stay. This will be the first randomized trial in&#xD;
+      the world evaluating the efficacy of the novel one-stage robotic approach for difficult&#xD;
+      choledocholithiasis, and it will certainly add level 1 evidence to change the management&#xD;
+      algorithm for choledochothiliasis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background&#xD;
+&#xD;
+      (i) Background information&#xD;
+&#xD;
+      Gallstone disease is a very common disease identity in developed countries, causing a major&#xD;
+      health burden. There is an estimate of 20 - 25 million adults diagnosed to have gallstone&#xD;
+      disease annually, resulting in more than 260,000 hospitalization for cholecystitis in the&#xD;
+      year 2000 in US. In Asia, the prevalence rate ranges from 5% to 20% of population. Common&#xD;
+      bile duct (CBD) stone (choledocholithiasis) occurs when there is migration of stone from&#xD;
+      gallbladder to CBD in up to 22% of cases. The resulting acute cholangitis and acute biliary&#xD;
+      pancreatitis leads to substantial morbidity and mortality to patients. Traditionally,&#xD;
+      choledocholithiasis can be managed successfully by therapeutic endoscopic retrograde&#xD;
+      cholangiopancreatography (ERCP) with interval cholecystectomy in 85% of patients. However,&#xD;
+      standard ERCP fails to clear choledocholithiasis in around 15% of the patients, and these&#xD;
+      cases are referred as &quot;difficult choledocholithiasis&quot;.&#xD;
+&#xD;
+      According to European Society of Gastrointestinal Endoscopy guideline, difficult&#xD;
+      choledocholithiasis can be managed by either two-stage endo-laparoscopic approach or&#xD;
+      one-stage surgical approaches. The two-stage endo-laparoscopic approach involves ERCP using&#xD;
+      advanced endoscopic stone-clearing techniques with interval laparoscopic cholecystectomy (LC)&#xD;
+      in two weeks' time. On the other hand, the one-stage surgical approach is carried out by&#xD;
+      performing CBD exploration with simultaneous cholecystectomy using minimally invasive or open&#xD;
+      method. Potentially, the latter holds the advantage of treating two disease identities&#xD;
+      (choledocholithiasis and gallstone) by single operation under general anaesthesia. From the&#xD;
+      guideline, whether to proceed to two-stage endo-laparoscopic or one-stage surgical approach&#xD;
+      still requires high-level evidence.&#xD;
+&#xD;
+      (ii) Research gap&#xD;
+&#xD;
+      By far, most centers adapt sequential two-stage endo-laparoscopic approach for difficult&#xD;
+      choledocholithiasis, and reserving one-stage LCBDE plus LC for selected patient. A Cochrane&#xD;
+      review on 16 randomized clinical trials comparing endoscopic and surgical approaches for&#xD;
+      treatment of choledochothiliasis in 1758 patients was published in 2016.5 There was no&#xD;
+      difference in mortality, morbidity and stone clearance rate between one-stage laparoscopic&#xD;
+      approach and two-stage endo-laparoscopic approach. More recently, another meta-analysis on&#xD;
+      studies comparing these two approaches has shown different findings. The two-stage&#xD;
+      endo-laparoscopic approach had higher CBD stone clearance rate, lower postoperative bile&#xD;
+      leakage rate and higher rate of pancreatitis than one-stage laparoscopic approach, which&#xD;
+      might help to shorten the hospital stay. One major critic is that the nature of&#xD;
+      choledocholithiasis, whether it was difficult choledocholithiasis or not, was poorly defined&#xD;
+      in all of those randomized studies. The resulting heterogeneity in patient selection makes&#xD;
+      the results from these studies difficult to compare and convincing conclusion is hard to&#xD;
+      generate. Thus, a well-designed randomized clinical trial comparing the two-stage&#xD;
+      endo-laparoscopic with one-stage minimally invasive approach for difficult&#xD;
+      choledocholithiasis with clear-cut stone clearance rate as primary outcome measure is needed.&#xD;
+&#xD;
+      With advancement of da Vinci robotic system, there are 3-dimensional dual cameras providing&#xD;
+      high-quality intraoperative view and 7-degree of freedom of robotic instruments. The system&#xD;
+      is able to cope with complex hepatobiliary surgical procedure, especially those procedure&#xD;
+      involving intra-corporeal suturing techniques. To tackle difficult choledocholithiasis,&#xD;
+      one-stage robotic common bile duct exploration (RCBDE) and robotic cholecystectomy (RC) could&#xD;
+      be an effective method with high successful rate and low complication. Ji et al. published&#xD;
+      the first series of one-stage RCBDE plus RC in 5 patients. There was no conversion to&#xD;
+      laparoscopic or open surgery. One patient developed chest complication. The average hospital&#xD;
+      stay was 5.8 days and the stone clearance rate was 100%. Alkhamesi et al. compared RCBDE with&#xD;
+      open surgery in a retrospective study. The robotic approach posed an advantage of shorter&#xD;
+      hospital stay when compared with open approach. From European Association of Endoscopic&#xD;
+      Surgeons consensus statement, robotic assistance may facilitate complex biliary surgery,&#xD;
+      including RCBDE. Theoretically, one-stage RCBDE plus RC is superior than traditional&#xD;
+      two-stage endo-laparoscopic approach for difficult choledocholithiasis because of the&#xD;
+      following two reasons.&#xD;
+&#xD;
+        1. One-stage robotic approach can achieve much higher stone clearance rate than two-stage&#xD;
+           endo-laparoscopic approach. Potentially, one-stage procedure can have nearly 100% stone&#xD;
+           clearance rate since it eliminates both gallstone and choledocholithiasis in one&#xD;
+           surgery. In contrast, two-stage approach may have time lag between initial therapeutic&#xD;
+           ERCP and interval LC. There is always a chance of stone migration into CBD during&#xD;
+           waiting period for LC.&#xD;
+&#xD;
+        2. With an aid of robotic instruments, closure of CBD opening can be safely performed&#xD;
+           without the risk of postoperative bile leak, which happens in around 5% of LCBDE.&#xD;
+&#xD;
+      (iii) Novelty of proposed study So far, there is no prospective clinical trial from the&#xD;
+      registry of clinical trials provided by the US National Library of Medicine to test the&#xD;
+      hypothesis that one-stage robotic approach is superior than two-stage endo-laparoscopic&#xD;
+      approach for difficult choledocholithiasis. The principle investigator thus propose a&#xD;
+      single-center randomized trial (REAL trial) with the primary objective of testing the&#xD;
+      superiority of one-stage robotic approach over two-stage endo-laparoscopic approach for&#xD;
+      difficult choledocholithiasis, with primary outcome measure of stone clearance rate.&#xD;
+&#xD;
+      (iv) Preliminary data The average number of ERCP performed in the principle investigator's&#xD;
+      center is over 700 per year in recent 3 years. From the prospectively collected database on&#xD;
+      management of difficult choledocholithiasis in the principle investigator's center from 2018&#xD;
+      - 2020, there were 362 patients with difficult choledocholithiasis treated by therapeutic&#xD;
+      ERCP (endoscopic papillary large balloon dilatation, and / or mechanical lithotripsy, and /&#xD;
+      or cholangioscopy-assisted lithotripsy). The median number of sessions was 3 (ranged 2 - 8).&#xD;
+      Post-ERCP complication rate was 26.7%, including acute pancreatitis (14%), papillotomy&#xD;
+      bleeding (9.1%) and bowel perforation (3.5%). There was no hospital mortality. Interval&#xD;
+      cholecystectomy can be completed in 223 patients (61.6%). Among these patients undergone ERCP&#xD;
+      plus interval cholecystectomy, the stone clearance rate was 78.4%. During the same study&#xD;
+      period, there were 20 patients receiving one-stage RCBDE plus RC. There was no hospital&#xD;
+      mortality. The postoperative complication rate was much lower than that of two-stage&#xD;
+      endo-laparoscopic approach (5% vs. 26.7%). The stone clearance rate was 100%, which was much&#xD;
+      higher than two-stage approach. The median hospital stay was 4 days (ranged 3 - 7 days).&#xD;
+      (Unpublished data) From these preliminary results, it is obvious that one-stage robotic&#xD;
+      approach is superior to two-stage endo-laparoscopic approach, in terms of higher stone&#xD;
+      clearance and lower procedure-related complications.&#xD;
+&#xD;
+      Research Plan and Methodology&#xD;
+&#xD;
+      Study design: Single-center randomized trial&#xD;
+&#xD;
+      Center involved: Department of Surgery, The Chinese University of Hong Kong&#xD;
+&#xD;
+      Inclusion and Exclusion Criteria:&#xD;
+&#xD;
+      Consecutive patients with newly diagnosed difficult choledocholithiasis by diagnostic&#xD;
+      radiological studies (ultrasonography or CT scan or MRI cholangiography) will be recruited&#xD;
+      into the trial. Initial endoscopic retrograde cholangiopancreatography (ERCP) will be&#xD;
+      performed to confirm the diagnosis of difficult choledocholithiasis and temporarily plastic&#xD;
+      biliary stent will be inserted to bypass biliary obstruction. The followings are inclusion&#xD;
+      criteria:&#xD;
+&#xD;
+        1. Definition of difficult choledocholithiasis: stone size &gt; 1.5cm, and/or multiple stones&#xD;
+           &gt; 3, and/or narrow and angled distal common bile duct (CBD) (&lt; 135o)&#xD;
+&#xD;
+        2. Diagnostic ERCP with successful CBD deep cannulation and temporarily CBD stenting&#xD;
+&#xD;
+        3. No history of cholecystectomy with provisional diagnosis of choledocholithiasis&#xD;
+           originating from gallstone disease&#xD;
+&#xD;
+        4. General condition fit for anaesthesia for both advanced therapeutic ERCP or robotic&#xD;
+           surgery&#xD;
+&#xD;
+      The following patients will be excluded:&#xD;
+&#xD;
+        1. History of recurrent pyogenic cholangitis&#xD;
+&#xD;
+        2. Failed endoscopic biliary stenting by initial ERCP&#xD;
+&#xD;
+        3. Complications (acute pancreatitis, papillotomy bleeding or bowel perforation) from&#xD;
+           initial ERCP&#xD;
+&#xD;
+        4. Previous upper abdominal surgery, including gastrectomy&#xD;
+&#xD;
+        5. General condition unfit for anesthesia&#xD;
+&#xD;
+      Randomization:&#xD;
+&#xD;
+      Patients, with their consent, will be recruited to participate by investigators after&#xD;
+      considering the inclusion and exclusion criteria. Treatment allocation to the eligible&#xD;
+      patients will follow a randomization schedule. A total of 90 patients will be randomized 1:1&#xD;
+      to one of the two treatment arms:&#xD;
+&#xD;
+        1. Robotic group: Patients receive one-stage robotic common bile duct exploration and&#xD;
+           simultaneous robotic cholecystectomy&#xD;
+&#xD;
+        2. Endo-laparoscopic group: Patients receive two-stage therapeutic ERCP and interval&#xD;
+           laparoscopic cholecystectomy&#xD;
+&#xD;
+      The randomization schedule will be generated by the Clinical Trials Centre (CTC) of principle&#xD;
+      investigator's center, prior to the start of the study. Block randomization is used to&#xD;
+      maintain good balance to each treatment group. The randomization list will be kept in a set&#xD;
+      of tamper-evident envelopes. The envelopes will be identical and sealed. The trial identifier&#xD;
+      with a sequential number will be printed on each envelope and the inside will contain the&#xD;
+      treatment allocation. Envelopes will be unsealed to reveal the allocation treatment one day&#xD;
+      prior to the surgery.&#xD;
+&#xD;
+      Pre-treatment Investigations and Assessments:&#xD;
+&#xD;
+      All patients undergo the following pre-treatment investigations and assessments:&#xD;
+&#xD;
+        1. Blood tests: complete blood count, liver and renal function tests, coagulation profile,&#xD;
+           serum carcinoembryonic antigen&#xD;
+&#xD;
+        2. Radiological imaging: CT scan or MRI of abdomen to exclude the possibility of recurrent&#xD;
+           pyogenic cholangitis and malignant cause of biliary obstruction&#xD;
+&#xD;
+        3. ECG and / or other cardiac assessment as requested by anesthetist for general anesthesia&#xD;
+           assessment&#xD;
+&#xD;
+      Treatment Procedures&#xD;
+&#xD;
+      Robotic group:&#xD;
+&#xD;
+      Under general anesthesia, four robotic 8-mm trocars and one 5-mm laparoscopic assistant&#xD;
+      trocar will be inserted and pneumoperitoneum is created. A conventional approach of robotic&#xD;
+      cholecystectomy is first performed with dissection of Calot's triangle and the removal of&#xD;
+      gallbladder from liver bed. The cystic duct is then retracted laterally to facilitate the&#xD;
+      exposure of anterior wall of common bile duct (CBD). CBD is subsequently opened&#xD;
+      longitudinally for about 1.5cm using robotic scissors. If choledocholithiasis (CBD stone) is&#xD;
+      encountered over the choledochotomy site, it will be removed directly by robotic forceps. If&#xD;
+      not, a 5-mm flexible choledochoscope will be inserted into CBD through choledochotomy site to&#xD;
+      identify the stone, which will be removed by sterile saline flushing, stone basket, or&#xD;
+      electrohydraulic lithotripsy. Ductal clearance will be confirmed by choledochoscopic&#xD;
+      examination from lower CBD up to left and right intrahepatic ducts. The intraluminal plastic&#xD;
+      biliary stent, which was inserted before the procedure, will be left in-situ. The cystic duct&#xD;
+      is divided and the gallbladder is delivered. The choledochotomy site will be closed by&#xD;
+      interrupted resorbable sutures, preferably 5/0 PDS. A Fr 21 abdominal drain will be placed at&#xD;
+      right subhepatic space to observe for postoperative bile leakage.&#xD;
+&#xD;
+      Endo-laparoscopic group:&#xD;
+&#xD;
+      The treatment process commenced with the first stage therapeutic endoscopic retrograde&#xD;
+      cholangiopancreatography (ERCP) under general anesthesia or monitored anaesthetic control.&#xD;
+      With patient in prone position, ERCP is performed using side-view scope. Endoscopic&#xD;
+      sphincterotomy is performed via needle knife sphincterotome, which cuts papilla alongside the&#xD;
+      previous plastic biliary stent. The plastic biliary stent is then removed and the&#xD;
+      sphincterotomy side is enlarged using endoscopic papillary large balloon dilatation. The&#xD;
+      choledocholithiasis will then be removed by means of mechanical lithotripsy and / or&#xD;
+      cholangioscopy-assisted lithotripsy. If necessary, serial sessions of therapeutic ERCP will&#xD;
+      be arranged until ductal clearance of CBD is confirmed by balloon occlusion cholangiogram.&#xD;
+      Temporary plastic biliary stent will be inserted to ensure biliary drainage while waiting for&#xD;
+      cholecystectomy.&#xD;
+&#xD;
+      Laparoscopic cholecystectomy will be arranged as second stage procedure in 2-4 weeks'&#xD;
+      interval after first stage ERCP. The procedure will be performed in a standard manner.22&#xD;
+&#xD;
+      Perioperative management The perioperative management of all recruited patient is&#xD;
+      standardized. All patients receive broad-spectrum antibiotics during postoperative period.&#xD;
+      For robotic group, attention is to observe for postoperative bile leakage by examining the&#xD;
+      content of abdominal drain, which will be removed if there is no evidence of bile leak in 2-3&#xD;
+      days after surgery. Routine monitoring of liver function is carried out till patient's&#xD;
+      discharge. For endo-laparoscopic group, attention is to look for complications of therapeutic&#xD;
+      ERCP, including acute pancreatitis (elevated serum amylase), papillotomy bleeding (evidence&#xD;
+      of tarry stool or hematemesis and drop in hemoglobin level) and bowel perforation (acute&#xD;
+      peritonitis). Post-ERCP complications will be treated accordingly. Following second stage&#xD;
+      laparoscopic cholecystectomy, patients will be observed routinely.&#xD;
+&#xD;
+      Postoperative assessments:&#xD;
+&#xD;
+        1. Liver function: Liver biochemistry and coagulation profile at days 1, 3 and 7 after&#xD;
+           surgery to evaluate changes in liver function&#xD;
+&#xD;
+        2. Postoperative morbidities according to Clavien-Dindo classification23&#xD;
+&#xD;
+             1. Robotic group: postoperative bile leak, pulmonary complication&#xD;
+&#xD;
+             2. Endo-laparoscopic group: post-ERCP complications (acute pancreatitis,&#xD;
+                post-papillotomy bleeding and bowel perforation)&#xD;
+&#xD;
+        3. Operative mortality (30-day mortality) and hospital mortality (any death within the same&#xD;
+           admission for surgery)&#xD;
+&#xD;
+        4. In both groups, post-procedure ERCP will be arranged in 4 weeks' interval to assess the&#xD;
+           possibility of residual choledocholithiasis (i.e. stone clearance rate) and to remove&#xD;
+           biliary plastic stent.&#xD;
+&#xD;
+        5. MRI cholangiography (MRCP) will be arranged 3 months after index procedure for the&#xD;
+           assessment of biliary system. After completion of funding period, MRCP will be arranged&#xD;
+           in 6 months' interval up to 2 years for long-term assessment of the possibility of&#xD;
+           common bile duct stone recurrence.&#xD;
+&#xD;
+      Outcome Measures&#xD;
+&#xD;
+      The primary study end point (outcome measure) is stone clearance rate, as assessed by&#xD;
+      post-procedure ERCP. It is used for sample size calculation. The secondary outcome measures&#xD;
+      include bile leak rate, post-ERCP complications and othergrade IIIA or above complication&#xD;
+      according to Clavien-Dindo classification23, 30-day mortality, hospital mortality, and total&#xD;
+      hospital stay.&#xD;
+&#xD;
+      Number of Patients to be Recruited and Expected Duration of Study&#xD;
+&#xD;
+      Based on a previous reported stone rate of 84% after two-stage endo-laparoscopic approach for&#xD;
+      choledocholithiasis and assumed 95% after one-stage robotic approach for the same situation,&#xD;
+      an one-sided non-inferiority study is designed with a non-inferior margin of 10% allowed for&#xD;
+      robotic approach. With 80% power at the 5% Type I error (alpha), 45 patients need to be&#xD;
+      recruited to each arm (total 90 patients) in the study, allowing 15% drop-out rate. The&#xD;
+      principle investigator's unit is a major referral center for management of biliary stone&#xD;
+      disease in Hong Kong, with more than 700 cases of choledocholithiasis managed by ERCP each&#xD;
+      year. It is therefore expected that recruitment can be completed in about 33 months. The last&#xD;
+      recruited patient will be observed for at least 3 months after procedure. Hence, the total&#xD;
+      period of study including follow-up is 3 years, which is also the funding period for the&#xD;
+      grant application. After completion of funding period, the recruited patients will be&#xD;
+      followed up to 2 years with interval investigations of biliary system to look for common bile&#xD;
+      duct stone recurrence.&#xD;
+&#xD;
+      Foreseeable risks of the study&#xD;
+&#xD;
+      This study involves two different approaches for management of difficult choledocholithiasis,&#xD;
+      which are associated with different degree of morbidity and mortality. The one-stage robotic&#xD;
+      common bile duct exploration and cholecystectomy has potential surgical risks of 0.1%&#xD;
+      mortality and 5 - 10% complication rate (intra-abdominal sepsis, chest complications and&#xD;
+      wound complications). Meanwhile, the two-stage endo-laparoscopic approach might carry&#xD;
+      potential complications related to ERCP (~ 5%) and interval laparoscopic cholecystectomy (~&#xD;
+      5%). The post-ERCP complications include acute pancreatitis, post-papillotomy&#xD;
+      gastrointestinal bleeding and bowel perforation, whereas the post-cholecystectomy&#xD;
+      complications include intra-abdominal sepsis, chest complications and wound complications.&#xD;
+      The overall mortality risk following two-stage endo-laparoscopic approach would be 0.1%.&#xD;
+&#xD;
+      Blinding of the study&#xD;
+&#xD;
+      After randomization, the recruited patient will be allocated either robotic or&#xD;
+      endo-laparoscopic group. There will be no blinding of the randomization result to the&#xD;
+      recruited patients, the operating surgeons and clinician-in-charge.&#xD;
+&#xD;
+      Statistical plan and data monitoring&#xD;
+&#xD;
+      Statistical analysis will be performed using SPSS version 11.0 (SPSS Inc., Chicago, Ill) on&#xD;
+      an intention-to-treat basis. The stone clearance rate (primary outcome) will be calculated&#xD;
+      and compared between groups by Chi-squared test or Fisher's exact test. Other secondary&#xD;
+      outcome measure will be compared using Chi-squared test or Fisher's exact test for&#xD;
+      categorical variables, and Mann-Whitney U test for continuous variables. Univariate and&#xD;
+      multivariate analyses using logistic regression are performed to identify potential risk&#xD;
+      factors influencing the stone clearance rate. All tests of significance will be two-tailed,&#xD;
+      and a P value &lt; 0.05 is considered statistically significant.&#xD;
+&#xD;
+      All clinical data including patients' demographics, endoscopic and operative details, and&#xD;
+      clinical outcome measure will be collected in principle investigator's center. Any missing&#xD;
+      data will be documented with reasons. Continuous clinical data monitoring and interim and&#xD;
+      final analyses will be performed by principle investigator and co-investigators with the help&#xD;
+      of a research assistance.&#xD;
+&#xD;
+      Potential problems anticipated The patient recruitment will be reviewed every 4 months. If&#xD;
+      the accrual rate is slower than expected, investigator meeting will be carried out to review&#xD;
+      the underlying reasons and the ways to improve recruitment rate.&#xD;
+&#xD;
+      Existing Facilities&#xD;
+&#xD;
+      This study is supported by the following existing facilities:&#xD;
+&#xD;
+        1. Multidisciplinary team (hepatobiliary and pancreatic surgeons, endoscopists,&#xD;
+           gastrointestinal physicians, and research assistance) of principle investigator's center&#xD;
+           is available for patients' diagnosis, recruitment, intervention and follow-up.&#xD;
+&#xD;
+        2. Principle investigator's center has endoscopy and operating facilities for robotic and&#xD;
+           endo-laparoscopic interventions of difficult choledocholithiasis.&#xD;
+&#xD;
+        3. Principle investigator's center has laboratory and radiological facilities for follow-up&#xD;
+           assessment of recruited patient.&#xD;
+&#xD;
+      Justification of Requirements&#xD;
+&#xD;
+      This study receives general research grant from the government of Hong Kong Special&#xD;
+      Administrative region for the following financial support:&#xD;
+&#xD;
+        1. Recruitment of one research assistant for assistance of patient recruitment process,&#xD;
+           coordination of randomization, clinical data collection and maintenance.&#xD;
+&#xD;
+        2. Conference cost: for conference registration and travel expenses for presentation in&#xD;
+           international conferences&#xD;
+&#xD;
+        3. Publication cost: for one to two publication in international peer-reviewed journal&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Common bile duct stone clearance rate</measure>
+    <time_frame>up to 6 weeks</time_frame>
+    <description>The rate of retained common bile duct stone after intervention as assessed by ERCP at 6 weeks</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital mortality</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Mortality during hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bile leakage rate after surgery</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Postoperative complication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complication rate as assessed by Clavien-Dindo classification</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Postoperative complications</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital cost</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Hospital cost</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Choledocholithiasis</condition>
+  <arm_group>
+    <arm_group_label>Robotic group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One-stage robotic common bile duct exploration and cholecystectomy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Endo-laparoscopic group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Two stage therapeutic endoscopic retrograde cholangiopancreatography (ERCP) with interval laparoscopic cholecystectomy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Robotic surgery</intervention_name>
+    <description>one-stage robotic common bile duct exploration and cholecystectomy</description>
+    <arm_group_label>Robotic group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Endo-laparoscopic surgery</intervention_name>
+    <description>Two-stage therapeutic ERCP plus interval laparoscopic cholecystectomy</description>
+    <arm_group_label>Endo-laparoscopic group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Definitions of difficult CBD stone: stone size &gt; 1.5cm, and/or multiple stones &gt; 3,&#xD;
+             and/or narrow and angled distal common bile duct (CBD) (&lt; 1350)&#xD;
+&#xD;
+          -  Diagnostic ERCP with successful CBD deep cannulation and temporarily CBD stenting&#xD;
+&#xD;
+          -  No history of cholecystectomy&#xD;
+&#xD;
+          -  General condition fit for GA&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of recurrent pyogenic cholangitis&#xD;
+&#xD;
+          -  Failed endoscopic biliary stenting by initial ERCP&#xD;
+&#xD;
+          -  Complications of ERCP (severe necrotizing pancreatitis, papillotomy bleeding or bowel&#xD;
+             perforation)&#xD;
+&#xD;
+          -  Previous upper abdominal surgery, including gastrectomy&#xD;
+&#xD;
+          -  General condition unfit for GA&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kelvin Ng, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chinese University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kelvin Ng, PhD</last_name>
+    <phone>(852)35051496</phone>
+    <email>kelvinng@surgery.cuhk.edu.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chinese University of Hong Kong</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelvin K.C. Ng, MS, PhD</last_name>
+      <phone>+85291242695</phone>
+      <email>kelvinng@surgery.cuhk.edu.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <reference>
+    <citation>Abou-Saif A, Al-Kawas FH. Complications of gallstone disease: Mirizzi syndrome, cholecystocholedochal fistula, and gallstone ileus. Am J Gastroenterol. 2002 Feb;97(2):249-54. doi: 10.1111/j.1572-0241.2002.05451.x.</citation>
+    <PMID>11866258</PMID>
+  </reference>
+  <reference>
+    <citation>Williams E, Beckingham I, El Sayed G, Gurusamy K, Sturgess R, Webster G, Young T. Updated guideline on the management of common bile duct stones (CBDS). Gut. 2017 May;66(5):765-782. doi: 10.1136/gutjnl-2016-312317. Epub 2017 Jan 25.</citation>
+    <PMID>28122906</PMID>
+  </reference>
+  <reference>
+    <citation>Odemis B, Kuzu UB, Oztas E, Saygili F, Suna N, Coskun O, Aksoy A, Sirtas Z, Ari D, Akpinar Y. Endoscopic Management of the Difficult Bile Duct Stones: A Single Tertiary Center Experience. Gastroenterol Res Pract. 2016;2016:8749583. doi: 10.1155/2016/8749583. Epub 2016 Nov 24.</citation>
+    <PMID>27999591</PMID>
+  </reference>
+  <reference>
+    <citation>Manes G, Paspatis G, Aabakken L, Anderloni A, Arvanitakis M, Ah-Soune P, Barthet M, Domagk D, Dumonceau JM, Gigot JF, Hritz I, Karamanolis G, Laghi A, Mariani A, Paraskeva K, Pohl J, Ponchon T, Swahn F, Ter Steege RWF, Tringali A, Vezakis A, Williams EJ, van Hooft JE. Endoscopic management of common bile duct stones: European Society of Gastrointestinal Endoscopy (ESGE) guideline. Endoscopy. 2019 May;51(5):472-491. doi: 10.1055/a-0862-0346. Epub 2019 Apr 3.</citation>
+    <PMID>30943551</PMID>
+  </reference>
+  <reference>
+    <citation>Dasari BV, Tan CJ, Gurusamy KS, Martin DJ, Kirk G, McKie L, Diamond T, Taylor MA. Surgical versus endoscopic treatment of bile duct stones. Cochrane Database Syst Rev. 2013 Dec 12;2013(12):CD003327. doi: 10.1002/14651858.CD003327.pub4.</citation>
+    <PMID>24338858</PMID>
+  </reference>
+  <reference>
+    <citation>Ji WB, Zhao ZM, Dong JH, Wang HG, Lu F, Lu HW. One-stage robotic-assisted laparoscopic cholecystectomy and common bile duct exploration with primary closure in 5 patients. Surg Laparosc Endosc Percutan Tech. 2011 Apr;21(2):123-6. doi: 10.1097/SLE.0b013e31820ad553.</citation>
+    <PMID>21471807</PMID>
+  </reference>
+  <reference>
+    <citation>Alkhamesi NA, Davies WT, Pinto RF, Schlachta CM. Robot-assisted common bile duct exploration as an option for complex choledocholithiasis. Surg Endosc. 2013 Jan;27(1):263-6. doi: 10.1007/s00464-012-2431-0. Epub 2012 Jul 7.</citation>
+    <PMID>22773235</PMID>
+  </reference>
+  <reference>
+    <citation>Szold A, Bergamaschi R, Broeders I, Dankelman J, Forgione A, Lango T, Melzer A, Mintz Y, Morales-Conde S, Rhodes M, Satava R, Tang CN, Vilallonga R; European Association of Endoscopic Surgeons. European Association of Endoscopic Surgeons (EAES) consensus statement on the use of robotics in general surgery. Surg Endosc. 2015 Feb;29(2):253-88. doi: 10.1007/s00464-014-3916-9. Epub 2014 Nov 8.</citation>
+    <PMID>25380708</PMID>
+  </reference>
+  <reference>
+    <citation>Dindo D, Demartines N, Clavien PA. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 2004 Aug;240(2):205-13. doi: 10.1097/01.sla.0000133083.54934.ae.</citation>
+    <PMID>15273542</PMID>
+  </reference>
+  <reference>
+    <citation>Cuschieri A, Lezoche E, Morino M, Croce E, Lacy A, Toouli J, Faggioni A, Ribeiro VM, Jakimowicz J, Visa J, Hanna GB. E.A.E.S. multicenter prospective randomized trial comparing two-stage vs single-stage management of patients with gallstone disease and ductal calculi. Surg Endosc. 1999 Oct;13(10):952-7. doi: 10.1007/s004649901145.</citation>
+    <PMID>10526025</PMID>
+  </reference>
+  <reference>
+    <citation>Donner A. Approaches to sample size estimation in the design of clinical trials--a review. Stat Med. 1984 Jul-Sep;3(3):199-214. doi: 10.1002/sim.4780030302. Erratum In: Stat Med 1990 Oct;9(10):1228.</citation>
+    <PMID>6385187</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>October 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2022</study_first_posted>
+  <last_update_submitted>February 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Kelvin K.C. Ng</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Difficult</keyword>
+  <keyword>Choledocholithiasis</keyword>
+  <keyword>Robotic</keyword>
+  <keyword>Endo-laparoscopic</keyword>
+  <keyword>Randomized</keyword>
+  <keyword>Trial</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Choledocholithiasis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

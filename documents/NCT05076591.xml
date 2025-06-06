@@ -1,0 +1,318 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05076591</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IMM2902-101</org_study_id>
+    <nct_id>NCT05076591</nct_id>
+  </id_info>
+  <brief_title>IMM2902, a HER2/SIRPα Bispecific mAb-Trap Antibody-receptor Fusion Protein, in Patients With HER2-expressing Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1, Open-Label, Multicenter, Dose Escalation Study Evaluating the Safety, Tolerability, and Preliminary Efficacy of IMM2902 in Patients With HER2-Expressing Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ImmuneOnco Biopharmaceuticals (Shanghai) Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ImmuneOnco Biopharmaceuticals (Shanghai) Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is a first-in-human, open label, multi-center, dose escalation phase 1a study&#xD;
+      followed by a disease-specific dose expansion phase 1b study to evaluate the safety,&#xD;
+      efficacy, and pharmacokinetics (PK) of IMM2902, a HER2/SIRPα bispecific mAb-Trap&#xD;
+      antibody-receptor fusion protein, in patients with HER2-expressing advanced solid tumor.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 20, 2022</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-Limiting Toxicity (DLT)</measure>
+    <time_frame>48 Weeks</time_frame>
+    <description>All toxicities will be graded according to the NCI CTCAE Version 5.0, which provides additional guidance for AEs not specifically mentioned in CTCAE. A DLTs is defined as any Grade 3 or greater AE that is assessed as related to study treatment that occurs during the 4-week DLTs observation period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>maximum tolerated dose (MTD) of IMM2902</measure>
+    <time_frame>48 Weeks</time_frame>
+    <description>Toxicity will be evaluated according to the NCI CTCAE Version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>dose for expansion (RDE) of IMM2902</measure>
+    <time_frame>48 Weeks</time_frame>
+    <description>Toxicity will be evaluated according to the NCI CTCAE Version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients with Adverse Events（AEs）</measure>
+    <time_frame>48 Weeks</time_frame>
+    <description>Graded according to the NCI CTCAE V5.0</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">135</enrollment>
+  <condition>Advanced Solid Tumor</condition>
+  <condition>Advanced Breast Cancer</condition>
+  <condition>Advanced Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>IMM2902</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IMM2902 Phase 1a Dose escalation: 0.03, 0.1, 0.25, 0.5, 1.0, 1.5, and 2.0 mg/kg through intravenous administration weekly up to 48 weeks.&#xD;
+Phase 1b Dose expansion: A disease-specific dose expansion study in patients with locally advanced (unresectable) and/or metastatic breast with HER2-overexpression (Cohort 1) or HER2-low (Cohort 2), gastric/esophageal/gastroesophageal junction (GEJ) cancer with HER2-overexpression (Cohort 3) or HER2-low (Cohort 4) and other solid tumors with HER2-overexpression (Cohort 5) is aimed at further defining safety and characterizing efficacy. Dose expansion is through intravenous administration weekly up to 48 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IMM2902</intervention_name>
+    <description>a recombinant bispecific monoclonal antibody with high affinity to the dual targets, HER2 and CD47</description>
+    <arm_group_label>IMM2902</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Weigh greater than 30 kg&#xD;
+&#xD;
+          -  life expectancy of at least 3 months&#xD;
+&#xD;
+          -  Phase 1a Histologically or cytologically confirmed HER2-expressing advanced solid&#xD;
+             malignancy, who have been treated with at least one regimen of prior systemic therapy,&#xD;
+             or who refuse systemic therapy, and for which there is no curative therapy available.&#xD;
+&#xD;
+          -  Phase 1b Histological Diagnsis There will be 5 cohorts:&#xD;
+&#xD;
+        Cohort 1: Histologically confirmed HER2 overexpression (HER2 IHC 3+ or HER2 IHC&#xD;
+        2+/ISH-positive) locally advanced (unresectable) and/or metastatic breast cancer who have&#xD;
+        progression on or after at least 2 prior lines of anti-HER2 directed therapy with&#xD;
+        trastuzumab, pertuzumab, tucatinib, Fam-trastuzumab deruxtecan-nxki and T-DM1 or other&#xD;
+        anti-HER2 therapy.&#xD;
+&#xD;
+        Cohort 2: Histologically confirmed HER2-low (HER2 IHC 1+ or HER2 IHC 2+/ISH-negative and/or&#xD;
+        HER2 gene amplification in tumor specimen or in circulating tumor cells by ISH, NGS, or&#xD;
+        ctDNA-NGS) locally advanced (unresectable) and/or metastatic breast cancer who have&#xD;
+        progression after 2 or more lines of systemic therapy.&#xD;
+&#xD;
+        Cohort 3: Histologically confirmed HER2 overexpression (HER2 IHC 3+ or HER2 IHC&#xD;
+        2+/ISH-positive) locally advanced (unresectable) and/or metastatic&#xD;
+        gastric/esophageal/gastroesophageal junction (GEJ) cancer who have progression on or after&#xD;
+        at least one prior therapy, including prior fluoropyrimidine + platinum and prior&#xD;
+        trastuzumab, and/or fam-trastuzumab deruxtecan-nxki or other prior anti-HER2 (including&#xD;
+        investigational) therapy.&#xD;
+&#xD;
+        Cohort 4: Histologically confirmed HER2-low (HER2 IHC 1+ or HER2 IHC 2+/ISH-negative and/or&#xD;
+        HER2 gene amplification in tumor specimen or in circulating tumor cells by ISH, NGS, or&#xD;
+        ctDNA-NGS) locally advanced (unresectable) and/or metastatic&#xD;
+        gastric/esophageal/gastroesophageal junction (GEJ) cancer who have progression after 2 or&#xD;
+        more lines of systemic therapy.&#xD;
+&#xD;
+        Cohort 5: Histologically confirmed HER2 overexpression (HER2 IHC 3+ or HER2 IHC&#xD;
+        2+/ISH-positive) any other solid tumor types, including but not limited to colorectal&#xD;
+        cancer, non-small cell lung (NSCLC), ovarian cancers, that are not breast&#xD;
+&#xD;
+          -  Has at least non-irradiated evaluable disease (target or non-target lesions) per&#xD;
+             RECIST version 1.1.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of ≤2.&#xD;
+&#xD;
+          -  Completion of prior chemotherapy systemic anticancer therapy at least 2 weeks prior to&#xD;
+             study entry.&#xD;
+&#xD;
+          -  Radiation therapy must be completed at least 2 weeks prior to study entry. Radiated&#xD;
+             lesions may not serve as measurable disease unless they have been radiated ≥12 months&#xD;
+             prior to enrollment.&#xD;
+&#xD;
+          -  Patients may have parenchymal brain metastases if stable (no evidence of progression)&#xD;
+             for at least 1 month after local therapy (radiation or surgery). Leptomeningeal&#xD;
+             disease is excluded.&#xD;
+&#xD;
+          -  Patients must have adequate organ and bone marrow function within 14 days of first&#xD;
+             dose of study drug administration&#xD;
+&#xD;
+          -  Female subject must either be of non-reproductive potential or must have a negative&#xD;
+             urine or serum prenancy test within 7 days prior to the first dose of IMM2902.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior anti-cancer therapy including chemotherapy, hormonal therapy, or investigational&#xD;
+             agents within 2 weeks or within at least 4 half-lives prior to IMM2902 dosing (up to a&#xD;
+             maximum of 4 weeks).&#xD;
+&#xD;
+          -  Prior treatment with neoadjuvant or adjuvant anthracyclines within cumulative dose of&#xD;
+             doxorubicin of &gt;400 mg/m2 or epirubicin of &gt;800 mg/m².&#xD;
+&#xD;
+          -  Prior treatment with CD47 or SIRPα-targeting agents.&#xD;
+&#xD;
+          -  Trastuzumab, pertuzumab, lapatinib, tucatinib, fam-trastuzumab deruxtecan-nxki or&#xD;
+             T-DM1 within 3 weeks before first IMM2902 dosing.&#xD;
+&#xD;
+          -  Any unresolved toxicity NCI CTCAE v5.0 Grade ≥2 from previous anticancer therapy with&#xD;
+             the exception of alopecia, vitiligo, and the laboratory values defined in the&#xD;
+             inclusion criteria.&#xD;
+&#xD;
+          -  Mean QT interval corrected for heart rate (QTc) ≥ 450 ms for males or QTc ≥ 470 ms for&#xD;
+             females calculated from 2 electrocardiograms (ECGs) using Fridericia's formula. Two&#xD;
+             EKGs 5 minutes (+/-2 min) apart are mandatory.&#xD;
+&#xD;
+          -  Active or prior documented autoimmune or inflammatory disorders (including&#xD;
+             inflammatory bowel disease [eg, colitis or Crohn's disease], diverticulitis [with the&#xD;
+             exception of diverticulosis], systemic lupus erythematosus, Sarcoidosis syndrome, or&#xD;
+             Wegener syndrome [granulomatosis with polyangiitis, Graves' disease, rheumatoid&#xD;
+             arthritis, hypophysitis, uveitis, etc]).&#xD;
+&#xD;
+          -  Symptomatic congestive heart failure New York Heart Association (NYHA) Function&#xD;
+             Classification II-IV, uncontrolled hypertension, acute myocardial infarction within&#xD;
+             the last 6 months, unstable angina pectoris, cardiac arrhythmia.&#xD;
+&#xD;
+          -  Uncontrolled diabetes mellitus, Interstitial lung disease, serious gastrointestinal&#xD;
+             conditions associated with diarrhea.&#xD;
+&#xD;
+          -  Pulmonary embolism or deep vein thrombosis within 3 months prior to the first dose of&#xD;
+             study drug.&#xD;
+&#xD;
+          -  Uncontrolled pulmonary, renal, or hepatic dysfunction.&#xD;
+&#xD;
+          -  Ongoing or active infection requiring systemic treatment.&#xD;
+&#xD;
+          -  Psychiatric illness/social situations that would limit compliance with study&#xD;
+             requirements, substantially increase risk of incurring AEs or compromise the ability&#xD;
+             of the patient to give written informed consent.&#xD;
+&#xD;
+          -  Any other illness or condition that the treating investigator feels would interfere&#xD;
+             with study compliance or would compromise the patient's safety or study endpoints.&#xD;
+&#xD;
+          -  Second malignancy, except treated basal cell or localized squamous skin carcinomas,&#xD;
+             localized prostate cancer, or other malignancy for which treatment was completed at&#xD;
+             least 3 years ago and for which there is no evidence of recurrence.&#xD;
+&#xD;
+          -  Known allergic reactions to any component or excipient of IMM2902 or known allergic&#xD;
+             reactions to trastuzumab or other prior anti-HER2 (including investigational) or other&#xD;
+             monoclonal antibody ≥ Grade 3.&#xD;
+&#xD;
+          -  Patients requiring concomitant therapeutic anticoagulation, excluding those taking low&#xD;
+             dose of anticoagulation agents for diseases such as pulmonary embolism, deep venous&#xD;
+             thrombosis.&#xD;
+&#xD;
+          -  Known active infection including tuberculosis, hepatitis B, hepatitis C, or human&#xD;
+             immunodeficiency virus.&#xD;
+&#xD;
+          -  Known inherited or acquired bleeding disorders.&#xD;
+&#xD;
+          -  History of hemolytic anemia or Evans syndrome, sickle cell disease, thalassemia, G6PD&#xD;
+             deficiency, hereditary spherocytosis, or hypersplenism in the last 3 months.&#xD;
+&#xD;
+          -  Current or prior use of immunosuppressive therapy within 14 days before the first dose&#xD;
+             of IMM2902.&#xD;
+&#xD;
+          -  Receipt of live attenuated vaccination within 30 days prior to registration.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cheng Huang, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>VP，Clinical Development</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frank Xiaodong Gan</last_name>
+    <role>Study Director</role>
+    <affiliation>SVP, Clinical Development</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rachel Qianwen Shao</last_name>
+    <phone>+8617709180861</phone>
+    <email>qianwen.shao@immuneonco.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Frank Xiaodong Gan</last_name>
+    <phone>001-908-6556833</phone>
+    <email>frank.gan@immuneonco.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haley</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Crowley Cancer Research</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75251</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tim</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Virginia, LLC</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jala</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 13, 2021</study_first_posted>
+  <last_update_submitted>March 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

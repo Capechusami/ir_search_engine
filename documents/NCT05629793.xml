@@ -1,0 +1,403 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05629793</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DICOPERIA</org_study_id>
+    <nct_id>NCT05629793</nct_id>
+  </id_info>
+  <brief_title>Differential Diagnosis of Persistent COVID-19 by Artificial Intelligence</brief_title>
+  <acronym>DICOPERIA</acronym>
+  <official_title>Differential Diagnosis of Persistent COVID-19 by Artificial Intelligence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacin Biomedica Galicia Sur</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Vigo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Galician South Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundacin Biomedica Galicia Sur</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The pandemic caused by SARS-CoV-2 infection has resulted, in addition to the well-known acute&#xD;
+      symptoms, in the emergence of persistent, diffuse and heterogeneous symptoms referred to as&#xD;
+      persistent COVID.&#xD;
+&#xD;
+      Common symptoms include fatigue, shortness of breath, and cognitive dysfunction, among&#xD;
+      others, and result in an impact on daily functioning. Symptoms may be new onset, appear after&#xD;
+      initial recovery from an acute episode of COVID-19, or persist after the initial illness.&#xD;
+      Cardiac variability (HRV) was initially used in COVID-19 to predict mortality in the acute&#xD;
+      setting. Dysautonomia which partly evaluates HRV is frequent in patients with persistent&#xD;
+      COVID. Several groups have used voice or other respiratory noise analysis for the diagnosis&#xD;
+      of acute COVID.&#xD;
+&#xD;
+      Patients in the persistent COVID cohort will be able to be differentiated from an age, sex&#xD;
+      and vaccination status matched cohort of recovered COVID patients without sequelae by means&#xD;
+      of a model created by Machine Learning that will be trained using cardiac variability (HRV),&#xD;
+      skin conductance and acoustic analysis data. The primary objetive will be to obtain a&#xD;
+      classification algorithm by Machine Learning to differentiate the group of patients with&#xD;
+      persistent COVID diagnosis from the paired group of recovered COVID patients without&#xD;
+      sequelae.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a validation study of a Machine Learning algorithm for the diagnosis of persistent&#xD;
+      COVID using clinical diagnosis as the &quot;gold standard&quot;. The sample will be composed of&#xD;
+      post-COVID patients, one group of which developed persistent COVID and another paired with&#xD;
+      the previous one with cured COVID without sequelae.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 14, 2022</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Persistent COVID group vs. Recovered COVID group</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>The investigators performing the tests will be blinded to the diagnostic group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Differences of the group of patients with a persistent diagnosis of COVID from the age-matched group, sex and vaccination status of patients recovered from COVID without sequelae.</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Through an algorithm model created by Machine Learning that will be trained using cardic variability (HRV), skin conductance and acoustic analysis data.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac variability</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Number of times a contraction of the heart occurs in one minute, expressed in beats per minute, by means of a Polar chest strap, model H10. A baseline recording of 5 minutes duration will be taken, with the patient in a seated position. At the end of each test, recording is continued for 2 minutes to demonstrate the speed and degree of recovery after stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Voice recording</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Sounds produced by the patient at rest and after having performed the stress tests. The patient will be asked to take a deep breath and then pronounce the vowel /a/ in a sustained manner, in a comfortable tone and volume (3 times).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin conductance</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>micro Siemens [µS]. By means of the Bitalino electrodermal activity recording system. It will be recorded at rest, during the Cold Pressor test and once it is finished, for at least two minutes, to assess the normalization of the conductivity curve.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6MWT</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>metres/min. The patient will walk the maximum distance they can in 6 minutes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>1minSTST</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Number of repetitions performed after sitting down and getting up from a chair without supporting the hands as many times as possible for 1 minute..</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cold Pressor test</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>One hand is inserted into a container with water at 4-5ºC for 1 minute. Before and after the test, HRV, BP, and thermal conductance are recorded for 5 and 2 minutes -respectively- while lying supine.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Age</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Years</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sex</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Male, Female</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Current treatment</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Treatment taken by the patient at the time of the study.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Date of PCR + SARS-CoV-2</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>DD-MMM-YYYY</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Epidemic wave</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Of the 7 waves of COVID-19 that have occurred in Spain, a description will be given of the wave to which the infection of each patient included belonged. First, second, third, fourth, fifth, sixth, seventh, eighth, ninth or tenth wave.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vaccination status at the time of infection</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Number of vaccines doses at the time of infection</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>FVC</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Is the maximum volume of air exhaled, with the maximum possible effort, starting from a maximum inspiration in ml.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>FEV1</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The volume of air expelled during the first second of forced expiration in ml.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>FEV1/ FVC</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Expressed as a percentage (%), it indicates the proportion of the FVC that is expelled during the first second of the forced expiratory maneuver.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CO diffusion test</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>To evaluate the transfer of oxygen from the alveolar space to the hemoglobin of the erythrocytes contained in the pulmonary capillaries. Effective alveolar-capillary area available for gas transfer in the lung. (%)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">136</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Fatigue</condition>
+  <condition>Distress Respiratory Syndrome</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>COVID-19 Recurrent</condition>
+  <condition>SARS CoV 2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Persistent COVID group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with persistent COVID will be recruited by the physicians of the Post COVID-19 Multidisciplinary Clinic of the Complexo Hospitalario Universitario de Ourense.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Recovered COVID group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The controls will be recruited in a matched manner with the clinical sample in age, sex, epidemic wave and vaccination status, from among previously COVID-positive patients cured without sequelae and attended in Primary Care in the Health Centers of A Cuña, Valle Inclán and Novoa Santos in Ourense.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Experimental tests</intervention_name>
+    <description>Walking for 6 minutes, sitting down and getting up from a chair for 1 minute and finally the cold test (Cold pressor) where the hand is introduced for 1 minute in water at 4ºC. The patient will be monitored by means of a Polar H10 chest strap, as used in sports, continuously and 02 saturation, TA and voice (exhalation while saying /a/ and dry cough) will be collected before and after the tests. Finally, skin conductance will be monitored by performing baseline tracing and then control while performing the cold test.</description>
+    <arm_group_label>Persistent COVID group</arm_group_label>
+    <arm_group_label>Recovered COVID group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Persistent COVID group:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥18 and ≤70 years of age&#xD;
+&#xD;
+          -  Confirmed infection (PCR) with SARS- CoV-2 until 03/28/2022 and thereafter date.&#xD;
+&#xD;
+          -  Symptoms include: fatigue, respiratory distress or cognitive dysfunction, among&#xD;
+             others.&#xD;
+&#xD;
+          -  Symptoms persist or appear more than 3 months after onset of infection.&#xD;
+&#xD;
+          -  Symptoms last longer than 2 months and are not better explained by another diagnosis.&#xD;
+&#xD;
+          -  Symptoms appeared after initial recovery or persisted since disease debut.&#xD;
+&#xD;
+          -  Symptoms may fluctuate or remit over time.&#xD;
+&#xD;
+          -  Patients have capacity to consent and agree to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active COVID-19 infection.&#xD;
+&#xD;
+          -  Cardiac arrhythmia, pacemaker carrier.&#xD;
+&#xD;
+          -  Other pathologies with dysautonomia.&#xD;
+&#xD;
+          -  Raynaud's phenomenon.&#xD;
+&#xD;
+          -  Other diseases that may affect exercise capacity or be aggravated by exercise shall&#xD;
+             also be excluded, such as: Uncontrolled heart failure, severe or symptomatic aortic&#xD;
+             stenosis, pulmonary edema, acute respiratory failure, recent pulmonary&#xD;
+             thromboembolism, lower limb thrombosis, infections, thyrotoxicosis, or orthopedic&#xD;
+             inability to walk.&#xD;
+&#xD;
+        Recovery COVID group&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥18 and ≤70 years of age&#xD;
+&#xD;
+          -  Confirmed infection (PCR) with SARS- CoV-2 until 03/28/2022 and thereafter date.&#xD;
+&#xD;
+          -  Full functional recovery.&#xD;
+&#xD;
+          -  Follow-up by Primary Care.&#xD;
+&#xD;
+          -  They have not presented three months after the onset of the disease: fatigue,&#xD;
+             respiratory distress or cognitive dysfunction, among others.&#xD;
+&#xD;
+          -  Patients have capacity to consent and agree to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active COVID-19 infection.&#xD;
+&#xD;
+          -  Cardiac arrhythmia, pacemaker carrier.&#xD;
+&#xD;
+          -  Other pathologies with dysautonomia.&#xD;
+&#xD;
+          -  Raynaud's phenomenon.&#xD;
+&#xD;
+          -  Other diseases that may affect exercise capacity or be aggravated by exercise such as:&#xD;
+             uncontrolled heart failure, severe or symptomatic aortic stenosis, pulmonary edema,&#xD;
+             acute respiratory failure, recent pulmonary thromboembolism, lower limb thrombosis,&#xD;
+             infections, thyrotoxicosis, or orthopedic inability to walk shall also be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alejandro García Caballero, MD</last_name>
+    <phone>988 38 55 00</phone>
+    <email>alejandro.alberto.garcia.caballero@sergas.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Complexo Hospitalario Universitario de Ourense</name>
+      <address>
+        <city>Ourense</city>
+        <zip>32002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alejandro García Caballero, MD</last_name>
+      <email>alejandro.alberto.garcia.caballero@sergas.es</email>
+    </contact>
+    <investigator>
+      <last_name>Alejandro García Caballero, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Bustillo Casado, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Dolores Díaz López, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pablo López Mato, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luis Docasar Bertolo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Beatriz Gómez Gómez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Health Center Novoa Santos</name>
+      <address>
+        <city>Ourense</city>
+        <zip>32003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Health Center Valle Inclán</name>
+      <address>
+        <city>Ourense</city>
+        <zip>32004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>S.S. Computer Engineering (University of Vigo)</name>
+      <address>
+        <city>Ourense</city>
+        <zip>32004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Health Center A Cuña</name>
+      <address>
+        <city>Ourense</city>
+        <zip>32005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carlos Menéndez Villalva</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Galicia Sur Health Research Institute (IISGS) - Hospital Álvaro Cunqueiro</name>
+      <address>
+        <city>Vigo</city>
+        <zip>36213</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>School of Telecommunication Engineering (University of Vigo)</name>
+      <address>
+        <city>Vigo</city>
+        <zip>36310</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 18, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 28, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2022</study_first_posted>
+  <last_update_submitted>November 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Machine learning</keyword>
+  <keyword>Stress test</keyword>
+  <keyword>Cardiac variability</keyword>
+  <keyword>Voice recording</keyword>
+  <keyword>Skin conductance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05618717</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21011101</org_study_id>
+    <nct_id>NCT05618717</nct_id>
+  </id_info>
+  <brief_title>Surpoint Algorithm for Improved Guidance of Ablation for Ventricular Tachycardia</brief_title>
+  <acronym>SURFIRE-VT</acronym>
+  <official_title>Surpoint Algorithm for Improved Guidance of Ablation for Ventricular Tachycardia in Patients With Ischemic and Non-Ischemic Cardiomyopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rush University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rush University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Vistag SurPoint is a proprietary module that generates a numerical tag index which can be&#xD;
+      used as multiparametric lesion quality marker to guide ablation in the clinical setting for&#xD;
+      ablation of atrial arrhythmias. SurPoint tag index has studied to guide ablation of&#xD;
+      ventricular arrhythmias, such as premature ventricular complexes, but its effectiveness and&#xD;
+      safety for ablation of Ventricular Tachycardia in patient with Ischemic and Non-Ischemic&#xD;
+      Cardiomyopathies is not well established.&#xD;
+&#xD;
+      In this single center prospective observation registry, a ventricular ablation strategy&#xD;
+      utilizing radiofrequency delivery duration cut off determined by a maximum Surpoint index&#xD;
+      value of 550 will be compared to conventional operator determined duration of radiofrequency&#xD;
+      delivery based on combination of time (i.e. 30, 60, 90, and 120 seconds), magnitude of&#xD;
+      impedance drop, attenuation of abnormal electrograms, and achieving non-capture with&#xD;
+      high-output pacing after ablation.&#xD;
+&#xD;
+      The Surpoint Tag Index Ablation group will be matched with a control group of patients&#xD;
+      undergoing VT ablation using the conventional time-based radiofrequency strategy and the&#xD;
+      patients in this group will be selected using propensity matching based on relevant baseline&#xD;
+      patient and clinical characteristic variables.&#xD;
+&#xD;
+      Primary outcomes of interest: Recurrence of sustained ventricular tachycardia or Internal&#xD;
+      Cardiac Defibrillator Therapy.&#xD;
+&#xD;
+      Secondary outcomes of interest: Hospitalization for ventricular tachycardia, repeat ablation&#xD;
+      procedures, all-cause mortality, acute procedural complications, rate of steam pops during&#xD;
+      ablation procedures&#xD;
+&#xD;
+      Follow up: Up to 24 months after ablation procedure. Follow up will be obtained by office&#xD;
+      visits and device interrogation reports.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2018</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Recurrence Event of Sustained Ventricular Tachycardia or ICD therapy</measure>
+    <time_frame>2 years</time_frame>
+    <description>Composite outcome of sustained ventricular tachycardia (episode lasting &gt; 30 seconds detected by ICD) or ventricular tachycardia episode treated successfully by ICD therapy (Including ventricular tachycardia episodes terminated by ATP or ICD shock in &lt; 30 seconds based programmed detection/treatment ICD settings)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization for Ventricular Tachycardia</measure>
+    <time_frame>2 yearr</time_frame>
+    <description>Outcome of hospitalization for primary admission diagnosis of ventricular tachycardia with or without ICD treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality</measure>
+    <time_frame>2 years</time_frame>
+    <description>Outcome of death after ablation procedure from cardiovascular or non-cardiovascular cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Redo Ventricular Tachycardia Ablation Procedure</measure>
+    <time_frame>2 years</time_frame>
+    <description>Outcome of repeat ablation procedure for sustained ventricular tachycardia or appropriate ICD therapy after index ventricular tachycardia ablation procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Procedural Complications</measure>
+    <time_frame>7 days</time_frame>
+    <description>Outcome of rate of complications with 7 days of ventricular tachycardia ablation procedure including but not limited to bleeding, death, pericardial effusion, cardiac tamponade, stroke, arterial thromboemblism, steam pops, thrombus formation, cardiogenic shock, phrenic nerve paralysis, congestive heart failure)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Ventricular Tachycardia</condition>
+  <arm_group>
+    <arm_group_label>Surpoint Index Guided Ablation Group</arm_group_label>
+    <description>Maximum Radiofrequency delivery duration cannot exceed Surpoint Index of 550</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional Ablation Group</arm_group_label>
+    <description>Operator determined ablation duration regardless of Surpoint Index Value</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Radiofrequency Ablation</intervention_name>
+    <description>Radiofrequency Ablation using irrigated ablation catheter</description>
+    <arm_group_label>Conventional Ablation Group</arm_group_label>
+    <arm_group_label>Surpoint Index Guided Ablation Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        History of Ischemic or non-ischemic cardiomyopathy with sustained ventricular tachycardia&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Structural Heart Disease: Ischemic or Non-Ischemic Cardiomyopathy&#xD;
+&#xD;
+          -  Sustained Monomorphic Ventricular Tachycardia documented by ECG or CIED interrogation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  If clinical ventricular arrhythmia is predominantly PVCs, polymorphic ventricular&#xD;
+             tachycardia, or ventricular fibrillation&#xD;
+&#xD;
+          -  Myocardial infarction or Cardiac Surgery within 6 months&#xD;
+&#xD;
+          -  Severe mitral regurgitation&#xD;
+&#xD;
+          -  Stroke or TIA within 6 months&#xD;
+&#xD;
+          -  Prior Ventricular Tachycardia Ablation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Henry Huang</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60657</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henry Huang</last_name>
+      <phone>312-942-5020</phone>
+      <email>henry_d_huang@rush.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Casella M, Gasperetti A, Gianni C, Zucchelli G, Notarstefano P, Al-Ahmad A, Burkhardt JD, Soldati E, Della Rocca D, Catto V, Majocchi B, Carbucicchio C, Bongiorni MG, Dello Russo A, Natale A, Tondo C. Ablation Index as a predictor of long-term efficacy in premature ventricular complex ablation: A regional target value analysis. Heart Rhythm. 2019 Jun;16(6):888-895. doi: 10.1016/j.hrthm.2019.01.005. Epub 2019 Jan 4.</citation>
+    <PMID>30616020</PMID>
+  </reference>
+  <reference>
+    <citation>Gasperetti A, Sicuso R, Dello Russo A, Zucchelli G, Saguner AM, Notarstefano P, Soldati E, Bongiorni MG, Della Rocca DG, Mohanty S, Carbucicchio C, Duru F, Di Biase L, Natale A, Tondo C, Casella M. Prospective use of ablation index for the ablation of right ventricle outflow tract premature ventricular contractions: a proof of concept study. Europace. 2021 Jan 27;23(1):91-98. doi: 10.1093/europace/euaa228.</citation>
+    <PMID>33063099</PMID>
+  </reference>
+  <reference>
+    <citation>Sciacca V, Vogler J, Eitel C, Kuck KH, Tilz RR, Heeger CH. Ablation index-guided catheter ablation of incessant ventricular tachycardia originating from the anterolateral papillary muscle. Clin Res Cardiol. 2022 May;111(5):588-591. doi: 10.1007/s00392-021-01923-x. Epub 2021 Nov 1. No abstract available.</citation>
+    <PMID>34724088</PMID>
+  </reference>
+  <reference>
+    <citation>Larsen T, Du-Fay-de-Lavallaz JM, Winterfield JR, Ravi V, Rhodes P, Wasserlauf J, Trohman RG, Sharma PS, Huang HD. Comparison of ablation index versus time-guided radiofrequency energy dosing using normal and half-normal saline irrigation in a porcine left ventricular model. J Cardiovasc Electrophysiol. 2022 Apr;33(4):698-712. doi: 10.1111/jce.15379. Epub 2022 Jan 30.</citation>
+    <PMID>35048448</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>November 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rush University Medical Center</investigator_affiliation>
+    <investigator_full_name>Henry Huang</investigator_full_name>
+    <investigator_title>Primary Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tachycardia</mesh_term>
+    <mesh_term>Tachycardia, Ventricular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Undecided</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

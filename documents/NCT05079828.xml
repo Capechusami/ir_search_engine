@@ -1,0 +1,260 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05079828</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-02903</org_study_id>
+    <nct_id>NCT05079828</nct_id>
+  </id_info>
+  <brief_title>Head-to-head Comparison of 68Ga-PSMA-11 and 18F-PSMA-1007</brief_title>
+  <official_title>Head-to-head Comparison of 68Ga-PSMA-11 and 18F-PSMA-1007 for the Detection of Recurrent Prostate Cancer in PSMA-ligand PET/CT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Inselspital, Berne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Inselspital, Berne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to provide robust data on the head-to-head comparison of the two&#xD;
+      ligands of the prostate specific membrane antigen (PSMA) available in Switzerland for&#xD;
+      positron emission tomography (PET)-imaging, i.e. 68Ga-PSMA-11 und 18F-PSMA-1007.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Prostate Cancer (PC) is the most common malignancy in men and the second leading cause of&#xD;
+      cancer-related death in men. Despite initial therapy at early stage disease, biochemical&#xD;
+      recurrence remains a commonly encountered entity and presents a challenge for conventional&#xD;
+      imaging modalities given their limited abilities to detect disease at early stages of&#xD;
+      recurrence.&#xD;
+&#xD;
+      PET/CT with ligands of the prostate specific membrane antigen has been shown to have a&#xD;
+      significant impact on treatment and is now the sine qua non for staging of recurrent PC. For&#xD;
+      example, accurate identification of PC lesions allows for more accurate radiotherapy&#xD;
+      planning, allowing for an individualised treatment strategy. There is therefore a substantial&#xD;
+      clinical requirement for the accurate identification and stratification of individuals in&#xD;
+      whom prostate cancer is diagnosed and at earlier stages of recurrent disease when the chance&#xD;
+      of a curative treatment is at its highest.&#xD;
+&#xD;
+      It is in this context that PSMA has become the focus of much attention owing to its high&#xD;
+      levels of expression on PC cells and has rapidly established itself as the investigation of&#xD;
+      choice in recurrent PC. Furthermore, PSMA-directed radioligand therapy is a rapidly evolving&#xD;
+      treatment modality for metastatic disease, creating an additional therapeutic role for&#xD;
+      PSMA-ligand molecular imaging, for which the term &quot;theragnostics&quot; has been coined. The&#xD;
+      challenge for nuclear medicine is therefore to develop tracers and examination protocols that&#xD;
+      provide optimal detection and characterisation of disease, thus improving upon this promising&#xD;
+      technique.&#xD;
+&#xD;
+      There are currently no published prospective head-to-head studies comparing these two tracers&#xD;
+      in recurrent PC. Because of this lack of data, there are no clear recommendations about which&#xD;
+      tracer to use and in which situation.&#xD;
+&#xD;
+      This study aims to fill this gap and provide comprehensive data with the potential to improve&#xD;
+      the diagnosis of PC. By providing robust data comparing the two tracers, such data will also&#xD;
+      provide guidance to clinicians faced with the scenario of an initially negative 68Ga-PSMA-11&#xD;
+      PET as to the diagnostic utility of an additional 18F-PSMA-1007 PET, or vice-versa, and in&#xD;
+      which scenarios repeated scanning may be justified.&#xD;
+&#xD;
+      Finally, the application of the radiotracer into the same patient allows for a comparison of&#xD;
+      tracer kinetics. Although radiotracer kinetics are well known from the original pioneering&#xD;
+      dosimetric publications, they have never been compared in a head to head fashion and not in&#xD;
+      biochemical recurrence. Obtaining dynamic scans over the first hour post injection will allow&#xD;
+      intra-individual dosimetry and a head-to-head comparison of parametric imaging parameters,&#xD;
+      allowing a direct comparison of the radiotracer's affinity using standard parametric imaging&#xD;
+      techniques.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 7, 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomised to receive a PET/CT with either 18F-PSMA-1007 and a second exam with 68Ga-PSMA-11 or vice-versa, in the reverse order.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Independent read by masked investigators for assessment of the primary outcome.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient-level detection rate</measure>
+    <time_frame>3-6 months following final scan</time_frame>
+    <description>The primary endpoint is the proportion of patients with a pathological PSMA-positive finding (= patient-based sensitivity) at one time-point (2h) with the existing standard-of-care (68Ga-PSMA-11) compared to the new tracer (18F-PSMA-1007).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of tracer kinetics</measure>
+    <time_frame>For the first n=10 individuals, expected to be after 3 months</time_frame>
+    <description>Intra-individual comparison of the parametric imaging parameter KD (measure of tracer affinity) for the two radiotracers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Per region-based detection rate</measure>
+    <time_frame>Confirmed by 12 months' follow up from date of scan to a composite standard</time_frame>
+    <description>- The number of pathological, benign and uncertain lesions for each tracer in five regions (prostate bed, pelvic lymph nodes, extra-pelvic lymph nodes, bone, or other organs) classified by six blinded readers (three for each tracer) using previously published interpretation guidelines (PSMA-Rads 1.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interreader reliability</measure>
+    <time_frame>Within 3-6 months of last scan</time_frame>
+    <description>Readers shall independently classify all PSMA-avid lesions according to previously published diagnostic criteria. The frequency of benign, equivocal and pathological lesions will be noted. Lesions will additionally be classified by region (prostate bed (T), pelvic lymph nodes (N), extrapelvic lymph nodes (M1a), bone (M1b) or other organs (M1c)). The interreader reliability for these classifications will be compared between all readers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Region based PPV</measure>
+    <time_frame>12 months from the last scan</time_frame>
+    <description>- The positive predictive value (PPV) stratified by region (local recurrence, lymph node, solid organ, bone) i.e. the percentage of pathological lesions that are confirmed pathological at the twelve months follow-up (based on the subset of patients and lesions with follow-up data at twelve months).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lesion semiquantitative radiotracer uptake</measure>
+    <time_frame>Within 6 months of scan date</time_frame>
+    <description>- semiquantitative radiotracer uptake will be assessed by standardised uptake values (SUV) as well as tumour to background contrast in a lesion based analysis. The tumour to background ratio (TBR) is defined as lesion SUV ÷ SUV of reference background region, where the background uptake is defined by convention as the left gluteal musculature</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with adverse events and their severity</measure>
+    <time_frame>48 hours</time_frame>
+    <description>- Number and severity of adverse events per tracer (up to 48 hours follow up).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lesion based PPV</measure>
+    <time_frame>12 months from the last scan</time_frame>
+    <description>In a second round of tumour classification, two readers (in consensus) will classify each lesion as pathological, benign or uncertain in a lesion-specific approach and perform a lesion based follow-up to assess PPV on the lesion level.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive first a PET/CT with 68Ga-PSMA-11 and a second PET/CT with 18F-PSMA-1007</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive first a PET/CT with 18F-PSMA-1007 and a second with 68Ga-PSMA-11</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>18F-PSMA-1007</intervention_name>
+    <description>PET/CT scan using 18F-PSMA-1007</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>68Ga-PSMA-11</intervention_name>
+    <description>PET/CT scan using 68Ga-PSMA-11</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with known biochemical recurrence of a histologically confirmed prostate&#xD;
+             cancer post radical prostatectomy, defined as two consecutive prostate specific&#xD;
+             antigen (PSA) values &gt; 0.2 ng/ml:&#xD;
+&#xD;
+          -  Post prostatectomy: Patients &gt; 18 y/o&#xD;
+&#xD;
+          -  PSA measured within ± 4 weeks of the first PSMA-PET/CT&#xD;
+&#xD;
+          -  Patients providing written informed consent&#xD;
+&#xD;
+          -  No change in PC treatment in the period between the first and second scans&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients receiving androgen deprivation therapy (ADT) within 6 months prior to the&#xD;
+             PSMA-PET/CT&#xD;
+&#xD;
+          -  Patients with contraindication to diuresis with 20mg Furosemide&#xD;
+&#xD;
+          -  Patients with renal dialysis or relevant renal impairment (eGFR &lt; 35 ml/min)&#xD;
+&#xD;
+          -  Inability to provide written informed consent&#xD;
+&#xD;
+          -  Inability to schedule and attend two consecutive PET examinations&#xD;
+&#xD;
+          -  Patients undergoing active treatment for a second non-prostatic malignancy at the time&#xD;
+             of the first scan.&#xD;
+&#xD;
+          -  Known sensitivity or allergy to PSMA-ligands or one of the components of the&#xD;
+             radiotracer solutions used.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Axel Rominger, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Inselspital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Céline Birrer</last_name>
+    <phone>+41 31 632 24 54</phone>
+    <email>celine.birrer@insel.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ali Afshar-Oromieh, MD</last_name>
+    <phone>+41 31 632 24 54</phone>
+    <email>ali.afshar@insel.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Inselspital, Universitätsspital Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>July 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>April 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PSMA</keyword>
+  <keyword>68Ga-PSMA-11</keyword>
+  <keyword>18F-PSMA-1007</keyword>
+  <keyword>PET/CT</keyword>
+  <keyword>recurrent prostate cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gallium 68 PSMA-11</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data available upon reasonable request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

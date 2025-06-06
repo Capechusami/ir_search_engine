@@ -1,0 +1,252 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624476</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CZGR2022002</org_study_id>
+    <nct_id>NCT05624476</nct_id>
+  </id_info>
+  <brief_title>mNGS for Therapy of Urinary Infectious Diseases</brief_title>
+  <acronym>PGS-U-UTI&amp;UC</acronym>
+  <official_title>Pan-genome Sequencing of Urine Cell-free DNA for Therapy of Urinary Infectious Diseases: a Single Center Prospective Study Clinical Control Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Changzheng Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Changzheng Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Urinary tract infection is a common infectious disease in clinic. Although urinary tract&#xD;
+      infection can be initially diagnosed by clinical sign and symptom, signs and urine routine,&#xD;
+      the application of appropriate antibiotic therapy depends on the further identification of&#xD;
+      pathogens.&#xD;
+&#xD;
+      Metagenomic sequencing has been widely used in clinical pathogen diagnosis, especially in&#xD;
+      difficult infectious diseases. ICompared with tissue samples, cerebrospinal fluid,&#xD;
+      bronchoalveolar lavage fluid, whole blood and other samples, the application of mNGS in urine&#xD;
+      samples is relatively limited because incorrect sampling methods before and after collection&#xD;
+      of urine samples are easy to contaminate the samples and the colonization of distal urethra,&#xD;
+      periurethral skin and vagina will interfere with the interpretation of reports.&#xD;
+&#xD;
+      Previous small sample studies have shown that the sensitivity of mNGS in urinary tract&#xD;
+      infection is high, but the specificity is relatively low, and there are many problems such as&#xD;
+      difficult interpretation of reports and low clinical conformity. This is closely related to&#xD;
+      the mNGS technology algorithm, such as the inability to eliminate the influence of urinary&#xD;
+      system background bacteria, and the ambiguity of short sequence alignment, which makes it&#xD;
+      difficult to distinguish homologous pathogens.&#xD;
+&#xD;
+      In this study, based on the standard mNGS sequencing process, the improved Z value analysis&#xD;
+      method was used to select strictly enrolled clinical samples and compare them with pathogen&#xD;
+      culture to observe the clinical value of mNGS with Z value analysis method in the treatment&#xD;
+      of urinary tract infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Urinary tract infection is a common infectious disease in clinic. Urinary tract infection is&#xD;
+      easily caused by abnormal structure and function of urinary system, low immunity, pregnancy,&#xD;
+      gender and sexual activity, and iatrogenic factors. Urinary tract infection has a wide&#xD;
+      spectrum of pathogenic microorganisms, including Gram-negative bacilli, Gram-positive cocci,&#xD;
+      fungi, mycoplasma, chlamydia, viruses and so on. Although urinary tract infection can be&#xD;
+      initially diagnosed by clinical sign and symptom, signs and urine routine, the application of&#xD;
+      appropriate antibiotic therapy depends on the further identification of pathogens. At&#xD;
+      present, it is commonly used to collect midstream urine for pathogen culture in clinic, but&#xD;
+      it has the disadvantages of time-consuming and low detection rate, and the use of antibiotics&#xD;
+      can affect the results of culture.&#xD;
+&#xD;
+      Metagenomic sequencing has been widely used in clinical pathogen diagnosis, especially in&#xD;
+      difficult infectious diseases. Its principle is to collect samples, use mNGS to process the&#xD;
+      samples before sequencing, expose the nucleic acid, compare the nucleic acid sequence of&#xD;
+      pathogens with the designated huge biological database, and realize the comprehensive&#xD;
+      detection of viruses, bacteria, fungi, parasites and atypical microorganisms. Compared with&#xD;
+      tissue samples, cerebrospinal fluid, bronchoalveolar lavage fluid, whole blood and other&#xD;
+      samples, the application of mNGS in urine samples is relatively limited because incorrect&#xD;
+      sampling methods before and after collection of urine samples are easy to contaminate the&#xD;
+      samples and the colonization of distal urethra, periurethral skin and vagina will interfere&#xD;
+      with the interpretation of reports. However, mNGS has obvious advantages in clinical&#xD;
+      diagnosis, with high specificity and accuracy, and shorter detection time than traditional&#xD;
+      culture. In the aspect of mixed infection, because of its non-bias, the detection rate of&#xD;
+      multiple pathogens is higher than that of conventional culture, smear, PCR and other tests,&#xD;
+      which can detect other pathogens and even rare pathogens that can not be detected&#xD;
+      conventionally.&#xD;
+&#xD;
+      Previous small sample studies have shown that the sensitivity of mNGS in urinary tract&#xD;
+      infection is high, but the specificity is relatively low, and there are many problems such as&#xD;
+      difficult interpretation of reports and low clinical conformity. For example, there are many&#xD;
+      pathogens with high reading, and the test results are sorted to form a list of pathogens, but&#xD;
+      it is impossible to determine which or which pathogens are pathogenic. This is closely&#xD;
+      related to the mNGS technology algorithm, such as the inability to eliminate the influence of&#xD;
+      urinary system background bacteria, and the ambiguity of short sequence alignment, which&#xD;
+      makes it difficult to distinguish homologous pathogens.&#xD;
+&#xD;
+      In this study, based on the standard mNGS sequencing process, the improved Z value analysis&#xD;
+      method was used to select strictly enrolled clinical samples and compare them with pathogen&#xD;
+      culture to observe the clinical value of mNGS with Z value analysis method in the treatment&#xD;
+      of urinary tract infection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants cured from urinary tract infection</measure>
+    <time_frame>17 days</time_frame>
+    <description>The &quot;cure&quot; is defined as &quot;The clinical symptom of urinary tract infection disappeared and the urine tests returned to normal&quot;</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Urinary Tract Infections</condition>
+  <condition>Sequelae of; Infection</condition>
+  <arm_group>
+    <arm_group_label>experimental group</arm_group_label>
+    <description>Patients with urinary tract infection received treatments guided by both culture and mNGS</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <description>Patients with urinary tract infection received treatments guided by culture first</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>mNGS of urine cell-free DNA</intervention_name>
+    <description>Metagenomic sequencing of urine cell-free DNA</description>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_label>experimental group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      free cfDNA of pathogens in urine&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with urinary tract infection, which is caused by abnormal structure and function&#xD;
+        of urinary system, low immunity, pregnancy, gender and sexual activity, and iatrogenic&#xD;
+        factors, with a wide spectrum of pathogenic microorganisms, including Gram-negative&#xD;
+        bacilli, Gram-positive cocci, fungi, mycoplasma, chlamydia, viruses and so on, and&#xD;
+        diagnosed by clinical sign and symptom, signs and urine routine.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: 16-70 years.&#xD;
+&#xD;
+          -  Typical symptoms of urinary tract infection + pyuria (WBC ≥ 10/HP in urine sediment&#xD;
+             after centrifugation).&#xD;
+&#xD;
+          -  Clinical diagnosis: acute cystitis, urethritis, acute and chronic prostatitis,&#xD;
+             pyelonephritis, epididymitis; or complex urinary tract infection, such as urinary&#xD;
+             tract deformity, obstruction, double J tube, etc.&#xD;
+&#xD;
+          -  Sign the informed consent form voluntarily.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Malignant tumors of liver or other organs or previous history of tumors.&#xD;
+&#xD;
+          -  Complicated with gastrointestinal bleeding, spontaneous bacterial peritonitis, hepatic&#xD;
+             encephalopathy, hepatorenal syndrome and acute infection.&#xD;
+&#xD;
+          -  Patients with severe heart, lung, kidney or blood system diseases and failure.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women.&#xD;
+&#xD;
+          -  Allergic constitution.&#xD;
+&#xD;
+          -  Those who have a history of alcoholism and drug abuse and fail to give up effectively.&#xD;
+&#xD;
+          -  The subject withdrew from the study on the condition that he/she had not participated&#xD;
+             in other clinical trials within 4 weeks.&#xD;
+&#xD;
+          -  Other conditions which, in the opinion of the investigator, are not suitable for&#xD;
+             participation in the study.&#xD;
+&#xD;
+          -  Antibiotic therapy was performed in the past month because of urinary tract infection.&#xD;
+&#xD;
+          -  Broad-spectrum antibiotic therapy has been performed for other uncontrollable&#xD;
+             infections or other infections.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Junxue Wang, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Changzheng Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaofeng Hang, Prof.</last_name>
+    <phone>+8613516063666</phone>
+    <email>hangxfdoc@163.com</email>
+  </overall_contact>
+  <results_reference>
+    <citation>Flores-Mireles AL, Walker JN, Caparon M, Hultgren SJ. Urinary tract infections: epidemiology, mechanisms of infection and treatment options. Nat Rev Microbiol. 2015 May;13(5):269-84. doi: 10.1038/nrmicro3432. Epub 2015 Apr 8.</citation>
+    <PMID>25853778</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Frimodt-Moller N. The urine microbiome - Contamination or a novel paradigm? EBioMedicine. 2019 Jun;44:20-21. doi: 10.1016/j.ebiom.2019.05.016. Epub 2019 May 14. No abstract available.</citation>
+    <PMID>31101594</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Janes VA, Matamoros S, Munk P, Clausen PTLC, Koekkoek SM, Koster LAM, Jakobs ME, de Wever B, Visser CE, Aarestrup FM, Lund O, de Jong MD, Bossuyt PMM, Mende DR, Schultsz C. Metagenomic DNA sequencing for semi-quantitative pathogen detection from urine: a prospective, laboratory-based, proof-of-concept study. Lancet Microbe. 2022 Aug;3(8):e588-e597. doi: 10.1016/S2666-5247(22)00088-X. Epub 2022 Jun 7.</citation>
+    <PMID>35688170</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Foxman B. Urinary tract infection syndromes: occurrence, recurrence, bacteriology, risk factors, and disease burden. Infect Dis Clin North Am. 2014 Mar;28(1):1-13. doi: 10.1016/j.idc.2013.09.003. Epub 2013 Dec 8.</citation>
+    <PMID>24484571</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mitchell SL, Simner PJ. Next-Generation Sequencing in Clinical Microbiology: Are We There Yet? Clin Lab Med. 2019 Sep;39(3):405-418. doi: 10.1016/j.cll.2019.05.003.</citation>
+    <PMID>31383265</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zeng S, Ying Y, Xing N, Wang B, Qian Z, Zhou Z, Zhang Z, Xu W, Wang H, Dai L, Gao L, Zhou T, Ji J, Xu C. Noninvasive Detection of Urothelial Carcinoma by Cost-effective Low-coverage Whole-genome Sequencing from Urine-Exfoliated Cell DNA. Clin Cancer Res. 2020 Nov 1;26(21):5646-5654. doi: 10.1158/1078-0432.CCR-20-0401. Epub 2020 Oct 9.</citation>
+    <PMID>33037018</PMID>
+  </results_reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>November 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Urinary Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

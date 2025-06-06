@@ -1,0 +1,185 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05073848</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-3391.cc</org_study_id>
+    <secondary_id>P30CA046934</secondary_id>
+    <nct_id>NCT05073848</nct_id>
+  </id_info>
+  <brief_title>Relationships Between Physical Activity and Different Measures of Fatigue in Cancer Survivors</brief_title>
+  <official_title>Relationships Between Physical Activity and Different Measures of Fatigue in Cancer Survivors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an investigation of possible relationships between daily physical activity (PA) and&#xD;
+      different measurements of fatigue in cancer survivors participating in a cancer exercise&#xD;
+      program.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an investigation of possible relationships between daily physical activity (PA) and&#xD;
+      different measurements of fatigue in cancer survivors participating in a cancer exercise&#xD;
+      program. Results will inform exercise prescription and timing to best reduce fatigue, as well&#xD;
+      as methodology for measuring fatigue. Participants will answer several daily questions on&#xD;
+      fatigue using a smartphone application during the 3 month exercise program and wear a PA&#xD;
+      monitor for 10 days during the first month and last month of the program.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 20, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>10-point Fatigue Scale, Day</measure>
+    <time_frame>3 months</time_frame>
+    <description>Severity of fatigue experienced over the course of the day, ranked 0-10. How would you rate your fatigue, over the last day, on a scale of 0-10, with 0 being no fatigue and 10 being the worst possible fatigue?</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical Activity measure by Actigraph device</measure>
+    <time_frame>3 months</time_frame>
+    <description>PA will be monitored using commonly used, non-invasive Actigraph devices (Actigraph GT3XP). Data will be collected utilizing methodology similar to that of the National Health and Nutrition Examination Survey (NHANES), in cancer survivors. The collected accelerometry data will be downloaded and analyzed in ActiLife software, calculation the average time spent in moderate-to-vigorous (MVPA) at each assessment period using standard algorithms and cut-points.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical assessment measures from BfitBwell Program</measure>
+    <time_frame>3 months</time_frame>
+    <description>As all participants are recruited from active members of BfitBwell Cancer Exercise Program, additional data will be extracted from program documents which are regularly administered and collected by the BfitBwell Program. Administration/collection will not change for study participants. Physical assessment measures are obtained from a physical assessment and electronic questionnaire.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Response Rate to EMA assessments</measure>
+    <time_frame>3 months</time_frame>
+    <description>Measures of fatigue are collected electronically. Tools utilized to collect these outcomes: REDCap and the LifeData smartphone application.&#xD;
+REDCap: REDCap is a secure, university supported and approved data collection tool. Links to complete the standardized questionnaires of fatigue (FACIT-Fatigue and MFI) will be emailed to participants with regular reminder emails sent daily until completed.&#xD;
+LifeData: LifeData is a secure research platform used by previous research studies involving EMA (https://www.lifedatacorp.com/customer-publications/). The application will send a smartphone notification to collect data at random timepoints in predefined windows, and allow participants to self-initiate data entry. Participants will not enter any identifying information and will instead be assigned a de-identified research IDd. Linking documentation of participant to this ID will be stored solely on university servers. LifeData will be utilized to collect the EMA assessments of fatigue.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Cancer Remission</condition>
+  <arm_group>
+    <arm_group_label>BfitBwell Participants</arm_group_label>
+    <description>Individuals in the BfitBwell Cancer Exercise Program complete a FACIT-Fatigue questionnaire at their baseline assessment. This will be screened for all incoming BfitBwell participants and those meeting the inclusion criteria of a score of 48 or less will be approached for interest in participating. The primary research activities beyond recruitment, screening, and informed consent are the collection of EMA fatigue assessments via smartphone application and PA assessment via actigraphy.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We will enroll 50-150 cancer survivors participating in the BfitBwell Cancer Exercise&#xD;
+        Program. As this is a non-invasive, exploratory observational investigation, there are&#xD;
+        minimal inclusion and exclusion criteria.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be an active participant in the BfitBwell Cancer Exercise Program&#xD;
+&#xD;
+          -  Criteria for this program include:&#xD;
+&#xD;
+          -  Adult (&gt;= 18 years old)&#xD;
+&#xD;
+          -  Being a patient seen at the University of Colorado Cancer Center&#xD;
+&#xD;
+          -  Currently receiving cancer therapy or be within 6 months of completing cancer therapy&#xD;
+&#xD;
+          -  Have a signed physician clearance form to participate in an exercise program&#xD;
+&#xD;
+          -  Have a smartphone (necessary for the EMA assessments)&#xD;
+&#xD;
+          -  A score of 48 or less on the FACIT-Fatigue (completed during the initial BfitBwell&#xD;
+             Program assessment)&#xD;
+&#xD;
+          -  The minimally important difference of the FACIT-Fatigue is 3 points, suggesting that a&#xD;
+             score of at most 48 indicates the presence of CRF and allows for meaningful change in&#xD;
+             both directions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ryan Marker, PhD, PT</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jared Scorsone</last_name>
+    <phone>303-724-1264</phone>
+    <email>JARED.SCORSONE@CUANSCHUTZ.EDU</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jared Scorsone</last_name>
+      <phone>303-724-1264</phone>
+      <email>JARED.SCORSONE@CUANSCHUTZ.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Ryan Marker, PhD, PT</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>July 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2021</study_first_posted>
+  <last_update_submitted>October 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

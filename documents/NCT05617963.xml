@@ -1,0 +1,893 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617963</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UC-IMM-2106</org_study_id>
+    <nct_id>NCT05617963</nct_id>
+  </id_info>
+  <brief_title>Durvalumab Maintenance After Thoracic Chemoradiotherapy in Frail Small Cell Lung Cancer Patients Whose Disease is Limited to the Thorax</brief_title>
+  <acronym>DURVALUNG</acronym>
+  <official_title>A Phase II Study of Durvalumab (MEDI 4736) Maintenance in Frail Limited Disease Small Cell Lung Cancer Patients After Thoracic Chemoradiotherapy (CRT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNICANCER</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UNICANCER</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an academic-lead, open-label, multicenter, randomized phase II trial for frail&#xD;
+      limited disease Small Cell Lung Cancer (LD-SCLC) patients.&#xD;
+&#xD;
+      Frail conditions are: Eastern Cooperative Oncology Group performance status (ECOG PS) 2 or&#xD;
+      ECOG PS 0-1 and older than 70 or ECOG PS 0-1 and did not receive a concomitant thoracic&#xD;
+      chemo-radiotherapy (CRT) because of comorbidities.&#xD;
+&#xD;
+      During the screening phase, patients complete either the standard concomitant thoracic CRT&#xD;
+      and cisplatin-etoposide regimen or a sequential CRT and carboplatin.&#xD;
+&#xD;
+      Patients showing a disease control (defined as stable disease [SD], partial response [PR], or&#xD;
+      complete response [CR] according to RECIST v1.1) at the radiological evaluation performed&#xD;
+      after the end of thoracic CRT can receive prophylactic cranial irradiation (PCI) as per local&#xD;
+      practice. They will then be randomized to receive durvalumab every 4 weeks (experimental arm&#xD;
+      A) or surveillance (control arm B) as per standard of care.&#xD;
+&#xD;
+      Thus, DURVALUNG study aims to evaluate the efficacy of durvalumab maintenance treatment in&#xD;
+      frail LD-SCLC patients who have not progressed following platinum-based concomitant or&#xD;
+      sequential CRT.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Small Cell Lung Cancer (SCLC) is a rare tumor, accounting nowadays for 10-15% of all new lung&#xD;
+      cancer diagnosis. Approximately one third of patients present with limited disease (LD-SCLC)&#xD;
+      confined to the chest with a median survival from 18 to 24 months and a 5-year survival rate&#xD;
+      between 20% and 25%. A platinum-based chemotherapy combined with etoposide and a concurrent&#xD;
+      thoracic radiotherapy represents the standard of care for LD-SCLC treatment with a median PFS&#xD;
+      of 12 months. However, sequential radiotherapy may be preferable for patients with poor&#xD;
+      performance status or having comorbidity predisposing to a worst tolerability. Clinical&#xD;
+      evidence supports the immunogenicity of SCLC and the involvement of immune activity in SCLC&#xD;
+      development and prognosis.&#xD;
+&#xD;
+      Several immune checkpoint inhibitors got the approbation in first and further lines for the&#xD;
+      advanced SCLC in the last decade. The most important results have been achieved in the&#xD;
+      first-line setting for patients receiving a combination of platinum - etoposide chemotherapy&#xD;
+      and an anti-PD1/PDL-1 inhibitor compared to chemotherapy alone. However, despite these were&#xD;
+      the first positive results after a while in this setting, the modest absolute benefit showed&#xD;
+      (3 months) have to be taking into account. The possibility to enhance the immunotherapy&#xD;
+      efficacy in SCLC field with the radiotherapy administered as part of the standard treatment&#xD;
+      for a LD-SCLC seems to be a great opportunity. In the PACIFIC trial, the sequential&#xD;
+      administration of durvalumab in patients with locally advanced, unresectable, stage III&#xD;
+      Non-Small-Cell Lung Cancer (NSCLC) whose disease had not progressed following platinum-based&#xD;
+      concurrent thoracic CRT showed a dramatic overall survival improvement compared to placebo,&#xD;
+      with manageable toxicities. The ADRIATIC phase III trial, is currently recruiting LD-SCLC&#xD;
+      patients not progressing after the concomitant CRT (NCT03703297). Patients are randomized to&#xD;
+      receive durvalumab, durvalumab plus tremelimumab or placebo as maintenance treatment. In this&#xD;
+      trial, only ECOG PS 0-1 patients able to receive a concomitant CRT are eligible. However, in&#xD;
+      our clinical practice, LD-SCLC patients may not respect these criteria due to the&#xD;
+      aggressiveness of cancer and comorbidities.&#xD;
+&#xD;
+      Thus, DURVALUNG study aims to evaluate the efficacy of durvalumab maintenance treatment in&#xD;
+      frail LD-SCLC patients who have not progressed following platinum-based concomitant or&#xD;
+      sequential CRT.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 24, 2023</start_date>
+  <completion_date type="Anticipated">March 30, 2029</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized (1:1) to either:&#xD;
+• Experimental arm (A): the patients will receive durvalumab intravenously 1500 mg every 4 weeks until disease progression, unacceptable toxicity, death, patient's decision, or for a maximum of 24 months (26 doses/cycles).&#xD;
+Or&#xD;
+• Control arm (B) or surveillance arm</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From randomization to disease progression or death, up to 3.5 years</time_frame>
+    <description>The progression-free survival (PFS) is the length of time during and after the treatment of a disease that a patient lives with the disease but it does not get worse.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Centralized Progression Free Survival (cPFS)</measure>
+    <time_frame>From randomization to disease progression or death, up to 3.5 years</time_frame>
+    <description>The Centralized Progression Free Survival (cPFS) s defined by central review as the length of time during and after the treatment of a disease that a patient lives with the disease but it does not get worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>From randomization to death, up to 3.5 years</time_frame>
+    <description>The overall survival (OS) is the length of time from randomization that patients enrolled in the study are still alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of adverse events coded using NCI CTC-AE version 5.0.(Safety )</measure>
+    <time_frame>Throughout study completion, up to 4 years</time_frame>
+    <description>Occurrence of adverse events coded using NCI CTC-AE version 5.0. The National Cancer Institute-Common Terminology Criteria for Adverse Events version 5 (NCI-CTCAE v5) is widely accepted in the community of oncology research as the leading rating scale for adverse events. This scale, divided into 5 grades (1 = &quot;mild&quot;, 2 = &quot;moderate&quot;, 3 = &quot;severe&quot;, 4 = &quot;life-threatening&quot;, and 5 = &quot;death&quot;) determined by the investigator, will make it possible to assess the severity of the disorders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life questionnaire - Core 30 (QLQ-C30)</measure>
+    <time_frame>At inclusion before treatment start and every 4 weeks for the first year from randomization and then every 12 weeks until end of treatment or death, up to 2 years</time_frame>
+    <description>Developed by the EORTC, this self-reported questionnaire assesses the health-related quality of life of cancer patients in clinical trials.&#xD;
+The questionnaire includes five functional scales (physical, everyday activity, cognitive, emotional, and social), three symptom scales (fatigue, pain, nausea and vomiting), a health/quality of life overall scale, and a number of additional elements assessing common symptoms (including dyspnea, loss of appetite, insomnia, constipation, and diarrhea), as well as, the perceived financial impact of the disease.&#xD;
+All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher response level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life questionnaire - Lung cancer module (QLQ-LC13)</measure>
+    <time_frame>At inclusion before treatment start and every 4 weeks for the first year from randomization and then every 12 weeks until end of treatment or death, up to 2 years</time_frame>
+    <description>The QLQ-LC13 contains 13 items to assess both multi-item and single-item measures of lung cancer-associated symptoms (coughing, haemoptysis, dyspnoea, and pain) and side-effects from conventional chemo- and radiotherapy (hair loss, neuropathy, sore mouth, and dysphagia). All items are rated on a four-point Likert-type scale (1 = &quot;not at all&quot;, 2 = &quot;a little&quot;, 3 = &quot;quite a bit&quot;, and 4 = &quot;very much).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">550</enrollment>
+  <condition>Small Cell Lung Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Durvalumab treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive durvalumab intravenously 1500 mg every 4 weeks until disease progression, unacceptable toxicity, death or patient's decision for a maximum of 24 months. For patients receiving prophylactic cranial irradiation as per standard of care, the first dose of durvalumab may be delayed by up to 42 days from the end of the CRT. Radiological assessments will be planned every 12 weeks (± 7 days) of maintenance treatment.&#xD;
+The first dose of durvalumab should be administered within 3 days of inclusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Surveillance</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Surveillance as per standard of care. Patients will perform radiological assessment every 12 weeks (± 7 days) from randomization.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Durvalumab</intervention_name>
+    <description>Patients showing a disease control (defined as stable disease [SD], partial response [PR], or complete response [CR] according to RECIST v1.1) at the radiological evaluation performed after the end of thoracic CRT will receive durvalumab intravenously 1500 mg every 4 weeks until disease progression, unacceptable toxicity, death or patient's decision for a maximum of 24 months.</description>
+    <arm_group_label>Durvalumab treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Criteria for Screening&#xD;
+&#xD;
+          1. Patient must have signed a first written informed consent form prior to screening&#xD;
+             visit and to any trial specific procedures.&#xD;
+&#xD;
+          2. Histological confirmation of SCLC.&#xD;
+&#xD;
+          3. Limited disease (T0-T4, N0-N3 and M0) according to the TNM classification 8th edition&#xD;
+             or to the VALSG 2-stage classification. As per standard guidelines a complete&#xD;
+             radiological evaluation has to be performed within 28 days before the start of&#xD;
+             induction chemotherapy including all the radiological exams below:&#xD;
+&#xD;
+               -  Total body PET- scan.&#xD;
+&#xD;
+               -  Contrast enhanced CT-scan of thorax and upper abdomen.&#xD;
+&#xD;
+               -  Contrast enhanced MRI or CT-scan of brain.&#xD;
+&#xD;
+          4. Measurable disease according to RECIST v1.1 criteria.&#xD;
+&#xD;
+          5. Patients must not have been previously treated for the SCLC.&#xD;
+&#xD;
+          6. Patients ≥18 years old.&#xD;
+&#xD;
+          7. Body weight &gt;30 kg.&#xD;
+&#xD;
+          8. Patients can be candidate to concomitant or sequential thoracic CRT by IMRT.&#xD;
+&#xD;
+               -  Patients candidate to concomitant thoracic CRT have to receive at least 60 Gy&#xD;
+                  (one-daily fraction of 1.8-2 Gy) or 45 Gy twice daily (1.5 Gy per fraction)&#xD;
+                  combined with cisplatin-etoposide regimen.&#xD;
+&#xD;
+               -  Patients candidate to sequential thoracic CRT have to receive at least 60 Gy&#xD;
+                  (one-daily fraction of 1.8-2 Gy) or 45 Gy twice daily (1.5 Gy per fraction) along&#xD;
+                  with carboplatin AUC5 to AUC6 etoposide regimen.&#xD;
+&#xD;
+          9. Patients that received previous thorax radiotherapy may be eligible if they can&#xD;
+             receive the CRT schedule planned in the clinical study according to previous&#xD;
+             irradiation fields and, in any case, after the medical monitor agreement.&#xD;
+&#xD;
+         10. Women of childbearing potential must have a negative serum beta-HCG test before the&#xD;
+             beginning of the trial, during the study treatment and for a period of at least 3&#xD;
+             months after the last administration of the experimental drug.&#xD;
+&#xD;
+         11. All sexually active men and women of childbearing potential must use an effective&#xD;
+             contraception method for the duration of study treatment and for 3 months after&#xD;
+             completing treatment.&#xD;
+&#xD;
+         12. Patients affiliated to the social security system.&#xD;
+&#xD;
+         13. Patient must be willing and able to comply with the protocol for the duration of the&#xD;
+             trial including undergoing treatment and scheduled visits, and examinations including&#xD;
+             follow-up.&#xD;
+&#xD;
+        Criteria for Randomization:&#xD;
+&#xD;
+          1. Patient must have signed a second written informed consent form prior to randomization&#xD;
+             and to any specific trial procedure.&#xD;
+&#xD;
+          2. Patients must have completed concomitant or sequential thoracic CRT by IMRT:&#xD;
+&#xD;
+               -  Patients that received concomitant thoracic CRT must have received at least 60 Gy&#xD;
+                  (one-daily fraction of 1.8-2 Gy) or 45 Gy twice daily (1.5 Gy per fraction)&#xD;
+                  combined with cisplatin-etoposide regimen.&#xD;
+&#xD;
+               -  Patients that received sequential thoracic CRT must have received at least 60 Gy&#xD;
+                  (one-daily fraction of 1.8-2 Gy) or 45 Gy twice daily (1.5 Gy per fraction) along&#xD;
+                  with carboplatin AUC5 to AUC6 etoposide regimen.&#xD;
+&#xD;
+          3. Confirmation of disease control (SD, CR or PR) at radiological assessment with&#xD;
+             contrast enhanced thorax and upper abdomen CT-scan and contrast enhanced brain CT-scan&#xD;
+             or MRI after the thoracic CRT according to RECIST v1.1.&#xD;
+&#xD;
+          4. Use of brain MRI in case of PCI avoidance is mandatory. PCI has to be prescribed&#xD;
+             according to the investigator's choice and the local recommendations.&#xD;
+&#xD;
+          5. Patients must belong to one of these groups at the screening visit after the thoracic&#xD;
+             CRT :&#xD;
+&#xD;
+               -  ECOG PS 2.&#xD;
+&#xD;
+               -  ECOG PS 0-1 and older than 70.&#xD;
+&#xD;
+               -  ECOG PS 0-1 and who did not receive a concomitant thoracic CRT because of&#xD;
+                  comorbidities (radiotherapy beginning before D1C3 of chemotherapy).&#xD;
+&#xD;
+          6. Adequate haematological function&#xD;
+&#xD;
+               -  Haemoglobin &gt;9 g/dL.&#xD;
+&#xD;
+               -  Platelet count &gt;100 x 10⁹L.&#xD;
+&#xD;
+               -  Neutrophil count &gt;1.5 x 10⁹L.&#xD;
+&#xD;
+          7. Adequate renal function with a creatinine clearance ≥50 ml/min calculated with the&#xD;
+             Cockcroft-Gault formula.&#xD;
+&#xD;
+          8. Adequate hepatic function:&#xD;
+&#xD;
+               -  Total bilirubin &lt;1.5 Upper limit of normal (ULN).&#xD;
+&#xD;
+               -  AST and ALT &lt;2.5 ULN.&#xD;
+&#xD;
+               -  Alkaline phosphatase &lt;2.5 ULN.&#xD;
+&#xD;
+          9. HRQoL questionnaire performed.&#xD;
+&#xD;
+         10. No grade 3 or more toxicities remaining after the end of chemoradiotherapy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of another primary malignancy except for&#xD;
+&#xD;
+               1. Malignancy treated with curative intent and with no known active disease ≥5 years&#xD;
+                  before the first dose of durvalumab and of low potential risk for recurrence.&#xD;
+&#xD;
+               2. Adequately treated non-melanoma skin cancer or lentigo maligna without evidence&#xD;
+                  of disease.&#xD;
+&#xD;
+               3. Adequately treated carcinoma in situ without evidence of disease.&#xD;
+&#xD;
+          2. Uncontrolled intercurrent illness, including but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable&#xD;
+             angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic&#xD;
+             gastrointestinal conditions associated with diarrhea, or psychiatric illness that&#xD;
+             would limit compliance with study requirement, substantially increase risk of&#xD;
+             incurring AEs or compromise the ability of the patient to give written informed&#xD;
+             consent.&#xD;
+&#xD;
+          3. Active or prior documented autoimmune or inflammatory disorders (including&#xD;
+             inflammatory bowel disease [e.g., colitis or Crohn's disease], diverticulitis [with&#xD;
+             the exception of diverticulosis], systemic lupus erythematosus, Sarcoidosis syndrome,&#xD;
+             or Wegener syndrome [granulomatosis with polyangiitis, Graves' disease, rheumatoid&#xD;
+             arthritis, hypophysitis, uveitis, etc]). The following are exceptions to this&#xD;
+             criterion:&#xD;
+&#xD;
+               1. Patients with vitiligo or alopecia&#xD;
+&#xD;
+               2. Patients with hypothyroidism (e.g., following Hashimoto syndrome) stable on&#xD;
+                  hormone replacement&#xD;
+&#xD;
+               3. Any chronic skin condition that does not require systemic therapy&#xD;
+&#xD;
+               4. Patients without active disease in the last 5 years may be included but only&#xD;
+                  after consultation with the study physician&#xD;
+&#xD;
+               5. Patients with celiac disease controlled by diet alone.&#xD;
+&#xD;
+          4. Any concurrent chemotherapy, immune checkpoint inhibitors, biologic, or hormonal&#xD;
+             therapy for cancer treatment. Concurrent use of hormonal therapy for&#xD;
+             non-cancer-related conditions (e.g., hormone replacement therapy) is acceptable.&#xD;
+&#xD;
+          5. History of leptomeningeal carcinomatosis.&#xD;
+&#xD;
+          6. Major surgical procedure (as defined by the Investigator) including surgical resection&#xD;
+             of the primary disease, within 28 days prior to the first dose of IMP. Note: Local&#xD;
+             surgery of isolated lesions for palliative intent is acceptable.&#xD;
+&#xD;
+          7. History of allogenic organ transplantation.&#xD;
+&#xD;
+          8. History of active primary immunodeficiency.&#xD;
+&#xD;
+          9. Known active infection including tuberculosis (clinical evaluation that includes&#xD;
+             clinical history, physical examination and radiographic findings, or TB testing in&#xD;
+             line with local practice) and hepatitis B and hepatitis C (positive hepatitis C virus&#xD;
+             [HCV] antibody, hepatitis B virus [HBV] surface antigen [HBsAg] or HBV core antibody&#xD;
+             [anti-HBc]).Patients with a past or resolved HBV infection (defined as the presence of&#xD;
+             hepatitis B core antibody [anti-HBc] and absence of HBsAg) are eligible. Patients&#xD;
+             positive for HCV antibody are eligible only if polymerase chain reaction is negative&#xD;
+             for HCV RNA. Patients known to have been tested positive for human immunodeficiency&#xD;
+             virus (HIV) (positive HIV 1/2 antibodies) are not eligible.&#xD;
+&#xD;
+         10. Current or prior use of immunosuppressive medication within 14 days before the first&#xD;
+             dose of durvalumab. The following are exceptions to this criterion:&#xD;
+&#xD;
+               1. Intranasal, inhaled, topical steroids, or local steroid injections (e.g., intra&#xD;
+                  articular injection).&#xD;
+&#xD;
+               2. Systemic corticosteroids at physiologic doses not to exceed 10 mg/day of&#xD;
+                  prednisone or its equivalent.&#xD;
+&#xD;
+               3. Steroids as premedication for hypersensitivity reactions (e.g., CT-scan&#xD;
+                  premedication).&#xD;
+&#xD;
+         11. Receipt of live attenuated vaccine within 30 days prior to the first dose of&#xD;
+             durvalumab.&#xD;
+&#xD;
+             Note: Patients randomized in experimental arm should not receive live vaccine whilst&#xD;
+             receiving durvalumab and up to 30 days after the last dose of durvalumab.&#xD;
+&#xD;
+         12. Patients with known or suspected hypersensitivity to durvalumab or any of its&#xD;
+             excipients.&#xD;
+&#xD;
+         13. Patients who participated in another therapeutic trial within the 30 days prior to the&#xD;
+             start of the trial (screening phase included).&#xD;
+&#xD;
+         14. Prior randomisation or treatment in a previous durvalumab clinical study regardless of&#xD;
+             treatment arm assignment.&#xD;
+&#xD;
+         15. Female patients who are pregnant or breast feeding or male or female patients of&#xD;
+             reproductive potential who are not willing to employ effective birth control from&#xD;
+             screening to 90 days after the last dose of durvalumab monotherapy.&#xD;
+&#xD;
+         16. Presence of any psychological, familial, sociological or geographical condition&#xD;
+             potentially hampering compliance with the study protocol and follow-up schedule.&#xD;
+&#xD;
+         17. Persons deprived of their liberty or under protective custody or guardianship.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elisa GOBBINI, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institut Curie Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clotilde SIMON</last_name>
+    <phone>+33 (0) 1 73 79 79 11</phone>
+    <email>c-simon@unicancer.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre de Radiothérapie du Pays d'Aix</name>
+      <address>
+        <city>Aix-en-Provence</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Senouci BENYOUB</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier du Pays d'Aix</name>
+      <address>
+        <city>Aix-en-Provence</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marie BERNARDI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thierry URBAN</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancérologie de l'Ouest - Site Paul Papin</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sandrine HIRET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut du Cancer Avignon-Provence</name>
+      <address>
+        <city>Avignon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nicolas POUREL</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre d'Oncologie du Pays Basque</name>
+      <address>
+        <city>Bayonne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Aurélien BLOUET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de la côte Basque</name>
+      <address>
+        <city>Bayonne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marielle SABATINI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre François Baclesse</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Radj GERVAIS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de CAEN</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Simon DESHAYES</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Cholet</name>
+      <address>
+        <city>Cholet</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Philippe MASSON</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Jean Perrin</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pascale DUBRAY LONGERAS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Henri JANICOT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHI Créteil</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christos CHOUAID</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre George François Leclerc</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Courèche KADERBHAI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Denis MOROT-SIBILOT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Oscar Lambret</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Florence LE TINIER</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Dupuytren</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alain VERGNENEGRE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Polyclinique de Limoges -Site Clinique Chénieux</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xavier ZASADNY</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Bretagne Sud</name>
+      <address>
+        <city>Lorient</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Delphine ARGO LEIGNEL</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHM - Hôpital Nord</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laurent GREILLIER</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital européen Marseille</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jacques LE TREUT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital privé Clairval</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rémi BONETTO</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Paoli-Calmettes</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Louis STOFFAES</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut régional du Cancer de Montpellier - ICM Val d'Aurelle</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pierre BOISSELIER</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Azuréen de Cancérologie</name>
+      <address>
+        <city>Mougins</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexander FALK</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Privé Arnault Tzanck</name>
+      <address>
+        <city>Mougins</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexander FALK</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital privé du Confluent</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Claude EL KOURI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Tenon APHP</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anthony CANELLAS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Curie</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nicolas GIRARD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Elisa GOBBINI</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>CARIO</name>
+      <address>
+        <city>Plérin</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Floriane TOUDIC EMILY</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Godinot</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alain PREVOST</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Henri Becquerel</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sébastien THUREAU</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de ROUEN</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Florian GUISIER</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Saint Brieuc</name>
+      <address>
+        <city>Saint-Brieuc</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gwenaelle LEGARFF</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancérologie de l'Ouest - Site René Gauducheau</name>
+      <address>
+        <city>Saint-Herblain</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sandrine HIRET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Nord Ouest - Villefranche sur Saône</name>
+      <address>
+        <city>Villefranche-sur-Saône</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lionel FALCHERO</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2022</study_first_posted>
+  <last_update_submitted>March 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 28, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>immunotherapy</keyword>
+  <keyword>maintenance treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Durvalumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Unicancer will share de-identified individual data that underlie the results reported.&#xD;
+A decision concerning the sharing of other study documents, including protocol and statistical analysis plan will be examined upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Unicancer will consider access to study data upon written detailed request sent to Unicancer, from 6 months until 5 years after publication of summary data.</ipd_time_frame>
+    <ipd_access_criteria>The data shared will be limit to that required for independent mandated verification of the published results, the applicant will need authorization from Unicancer for personal access, and data will only be transferred after signing of a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,271 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05624190</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HX-A-2022041</org_study_id>
+    <nct_id>NCT05624190</nct_id>
+  </id_info>
+  <brief_title>Intra-arterial Recombinant Human TNK Tissue-type Plasminogen Activator (rhTNK-tPA) Thrombolysis for Acute Large Vascular Occlusion After Successful Mechanical Thrombectomy Recanalization</brief_title>
+  <acronym>ANGEL-TNK</acronym>
+  <official_title>Intra-arterial Recombinant Human Tenecteplase Tissue-type Plasminogen Activator rhTNK-tPA) Thrombolysis for Acute Large Vessel Occlusion After Successful Mechanical Thrombectomy Recanalization -- A Multicenter, Prospective, Randomized, Open-label, Blinded End-point Trial (ANGEL-TNK)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Tiantan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Tiantan Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evaluate whether intra-arterial (IA) rhTNK-tPA&#xD;
+      thrombolysis can improve neurological outcomes in acute large vessel occlusion patients after&#xD;
+      successful mechanical thrombectomy (MT) recanalization between 4.5- 24 hours from symptom&#xD;
+      onset. Participants enrolled will be randomly assigned to study or control arm with a&#xD;
+      1:1ratio. Study group will receive IA rhTNK-tPA thrombolysis (0.125 mg/kg, Max 12.5mg) plus&#xD;
+      best medical management, and control receive best medical management alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2022</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of excellent outcome</measure>
+    <time_frame>90±7 days after randomization</time_frame>
+    <description>Rate of 90 (±7) day modified Rankin scale (mRS) 0-1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of sICH (Heidelberg Bleeding Classification)</measure>
+    <time_frame>within 48 hours after randomization</time_frame>
+    <description>Rate of sICH (Heidelberg Bleeding Classification)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Tmax&gt;6s</measure>
+    <time_frame>24 hours (±12 hours) after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infarct core volume change from baseline</measure>
+    <time_frame>7 days (±1 day) after randomization/at discharge or at 36 hours (±12 hours) after randomization</time_frame>
+    <description>Infarct core volume change from baseline, assessed with NCCT at 7 days (±1 day) after randomization/at discharge or with MRI at 36 hours (±12 hours)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mRS (shift analysis)</measure>
+    <time_frame>90 days (±7 days) after randomization</time_frame>
+    <description>mRS (shift analysis)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of good outcome</measure>
+    <time_frame>90 days (±7 days) after randomization</time_frame>
+    <description>Rate of mRS 0-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of mRS 0-3</measure>
+    <time_frame>90 days (±7 days) after randomization</time_frame>
+    <description>Rate of mRS 0-3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NIHSS 0-1 or decrease ≥10 from baseline NIHSS</measure>
+    <time_frame>36 hours (±12hours) after randomization</time_frame>
+    <description>NIHSS 0-1 or decrease ≥10 from baseline NIHSS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-5D-5L score</measure>
+    <time_frame>90 days (±7 days) after randomization</time_frame>
+    <description>EQ-5D-5L score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-caused mortality</measure>
+    <time_frame>90 days (±7 days) after randomization</time_frame>
+    <description>All-caused mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of any intracranial hemorrhage (Heidelberg Bleeding Classification)</measure>
+    <time_frame>within 48 hours after randomization</time_frame>
+    <description>Rate of any intracranial hemorrhage (Heidelberg Bleeding Classification)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">256</enrollment>
+  <condition>Ischemic Stroke, Acute</condition>
+  <arm_group>
+    <arm_group_label>TNK group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients of this group will receive IA rhTNK-tPA plus Best Medical Management (BMM) after successful mechanical thrombectomy (MT) recanalization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients of this group will receive Best Medical Management (BMM) alone after successful mechanical thrombectomy (MT) recanalization</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Recombinant Human tenecteplase Tissue-type Plasminogen Activator (rhTNK-tPA)</intervention_name>
+    <description>The administration of rhTNK-tPA will be infused constant and slowly over 15min (0.125 mg/kg, Max 12.5mg) through a microcatheter.</description>
+    <arm_group_label>TNK group</arm_group_label>
+    <other_name>IA rhTNK-tPA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Best Medical Management</intervention_name>
+    <description>Best Medical Management</description>
+    <arm_group_label>TNK group</arm_group_label>
+    <arm_group_label>control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Clinical Inclusion Criteria:&#xD;
+&#xD;
+          1. Age &gt;18 years;&#xD;
+&#xD;
+          2. NIHSS ≥2;&#xD;
+&#xD;
+          3. Onset of symptoms to baseline CT imaging time: 4.5 to 24 hours, including wake-up&#xD;
+             stroke and unwitnessed stroke; Time of onset of symptoms is defined as &quot;last known&#xD;
+             well&quot; (LKW);&#xD;
+&#xD;
+          4. Pre-stroke mRS score 0-1;&#xD;
+&#xD;
+          5. Signed informed consent from patient or their health care proxy.&#xD;
+&#xD;
+        Neuroimaging Inclusion Criteria:&#xD;
+&#xD;
+          1. CTA/MRA proven intracranial artery occlusion: Intracranial Internal Carotid Artery&#xD;
+             (ICA)、M1 of Middle cerebral artery (MCA)、dominant M2 of MCA;&#xD;
+&#xD;
+          2. ASPECTS ≥6 on non-contrast CT (NCCT) scan or DWI MRI;&#xD;
+&#xD;
+          3. CT perfusion or MR perfusion: ischemic infarct core &lt;70ml, mismatch ratio≥1.2,&#xD;
+             mismatch volume ≥15ml;&#xD;
+&#xD;
+          4. Treated with MT resulting in an eTICI score 2b50-3 at end of the procedure. Patients&#xD;
+             with an eTICI score 2b50-3 on the diagnostic cerebral angiography before the onset of&#xD;
+             MT are also eligible for the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Clinical Exclusion Criteria:&#xD;
+&#xD;
+          1. IV thrombolysis used on admission;&#xD;
+&#xD;
+          2. Contraindications to intravenous thrombolysis;&#xD;
+&#xD;
+          3. Balloon angioplasty, permanent stenting and other situations during the endovascular&#xD;
+             procedure that require antiplatelet therapy or anticoagulant within the first 24h;&#xD;
+&#xD;
+          4. IV heparin (heparinized saline allowed);&#xD;
+&#xD;
+          5. Females who are pregnant, or those of child-bearing potential with positive urine or&#xD;
+             serum beta Human Chorionic Gonadotropin (HCG) test;&#xD;
+&#xD;
+          6. Brain tumor (with mass effect);&#xD;
+&#xD;
+          7. Known hereditary or acquired hemorrhagic diathesis, coagulation factor deficiency&#xD;
+&#xD;
+          8. Known coagulopathy, INR&gt;1.7 or use of novel anticoagulants &lt; 48h from symptom onset&#xD;
+&#xD;
+          9. Platelets &lt; 50*109/L;&#xD;
+&#xD;
+         10. Suspicion of septic emboli or endocarditis&#xD;
+&#xD;
+         11. Renal Failure as defined by a serum creatinine &gt; 2.5 mg/dl (or 220μmol/l) or&#xD;
+             glomerular Filtration Rate [GFR] &lt; 30ml/min;&#xD;
+&#xD;
+         12. Patient who requires hemodialysis or peritoneal dialysis, or who has a&#xD;
+             contraindication to angiogram for whatever reason;&#xD;
+&#xD;
+         13. Suspicion of aortic dissection;&#xD;
+&#xD;
+         14. Parenchymal organ surgery and biopsy were performed in the past one month;&#xD;
+&#xD;
+         15. Any active bleeding or recent bleeding (gastrointestinal bleeding, urinary bleeding,&#xD;
+             etc.) in the past 1 month;&#xD;
+&#xD;
+         16. History of life-threatening allergy (more than rash) to contrast medium;&#xD;
+&#xD;
+         17. SBP &gt;185 mmHg or DBP &gt;110 mmHg refractory to treatment;&#xD;
+&#xD;
+         18. Serious, advanced, terminal illness with anticipated life expectancy &lt; 6 months;&#xD;
+&#xD;
+         19. Participation in another randomized clinical trial that could confound the evaluation&#xD;
+             of the study;&#xD;
+&#xD;
+         20. Other circumstances that the investigator considers inappropriate for participation or&#xD;
+             may pose a significant risk to patients (e.g. inability to understand and/or comply&#xD;
+             with study procedures and/or follow-up due to mental disorders, cognitive or mood&#xD;
+             disorders).&#xD;
+&#xD;
+        Specific Neuroimaging Exclusion Criteria&#xD;
+&#xD;
+          1. Midline shift or herniation, mass effect with effacement of the ventricles&#xD;
+&#xD;
+          2. Evidence of acute intracranial hemorrhage on CT/MRI&#xD;
+&#xD;
+          3. Acute bilateral strokes or multiple intracranial vessel occlusions&#xD;
+&#xD;
+          4. Isolated extracranial ICA occlusion or tandem carotid / MCA occlusion&#xD;
+&#xD;
+          5. Dissection of occluded artery on DSA after thrombectomy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xiaochuan Huo, Dr.</last_name>
+    <phone>+8613716292262</phone>
+    <email>huoxiaochuan@126.com</email>
+  </overall_contact>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2022</study_first_posted>
+  <last_update_submitted>November 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beijing Tiantan Hospital</investigator_affiliation>
+    <investigator_full_name>Zhongrong Miao</investigator_full_name>
+    <investigator_title>Director of Department of interventional neurology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Plasminogen</mesh_term>
+    <mesh_term>Tenecteplase</mesh_term>
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

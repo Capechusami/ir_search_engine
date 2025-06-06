@@ -1,0 +1,191 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05610228</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22Laboimmuno01</org_study_id>
+    <nct_id>NCT05610228</nct_id>
+  </id_info>
+  <brief_title>Study of the Metabolism in the Lymphatic Niche of CLL</brief_title>
+  <official_title>Study of the Metabolic Reprogramming of CLL Cells in Ex-vivo Models of the Lymphatic Niche</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nice</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Chronic lymphoid leukemia (CLL) is the most common adult leukemia that is characterized by a&#xD;
+      malignant monoclonal accumulation of tumoral and quiescent B cells in the peripheral blood.&#xD;
+      In advanced stages of the disease (Binet stage C), this population invades the bone marrow&#xD;
+      (BM) and proliferate into the lymphoid organs that results in widespread adenopathy.&#xD;
+      Richter's transformation is a most aggressive serious complication of CLL (transformation of&#xD;
+      the disease into an aggressive lymphoma) detected based on TEP/CT (Positron Emission&#xD;
+      Tomography/ computerized tomography) that shows highly derived glucose consumption by cancer&#xD;
+      cells. Clinical data from CLL patients with disease acutisation showed hypermetabolic&#xD;
+      lymphadenopathy with high standardized uptake value (SUV) whereas there is low grade tracer&#xD;
+      uptake into BM. We supposed that the tumor microenvironment of the lymphatic niche promotes&#xD;
+      the proliferation and glycolytic activity of CLL cells which become particularly resistant to&#xD;
+      treatment. The development of an ex-vivo tumor model that reproduces the microenvironment of&#xD;
+      the lymph node niche appears essential to identify and validate new therapeutic targets&#xD;
+      because despite the therapeutic arsenal available some patients still relapse or are&#xD;
+      refractory to treatment. Our objectives are to i / Characterize this niche of resistance by&#xD;
+      the development of an ex-vivo tumor model and ii / Evaluate in-vitro the effectiveness of the&#xD;
+      association of current treatments (RFC, Ibrutinib or Venetoclax) with anti-metabolic&#xD;
+      therapies (inhibitors of glycolysis) Our lab is developing an ex-vivo models of the lymphatic&#xD;
+      niche in CLL based on co-cultures of leukemic cells from patients stimulated with CpG ODN and&#xD;
+      IL2 with primary human lymphatic fibroblasts (HLF) (EC 12PP15). This co-culture has never&#xD;
+      been described in the literature and allows us to study the lymphatic niche of CLL patients.&#xD;
+      Lymph node (LN) exploration in CLL requires invasive access and does not bring any additional&#xD;
+      information in initial diagnosis. Then, we validated our co-culture model using complementary&#xD;
+      approaches: increased viability, proliferation, and resistance to Ibrutinib, associated with&#xD;
+      increased production of anti-apoptotic proteins such as MCL1 and BCL2 after 48 hours of&#xD;
+      co-culture. Secondly, we studied the metabolism in this resistance niche. We find an&#xD;
+      increased production of lactate and an acute consumption of glucose, associated with a strong&#xD;
+      metabolic activation detected by SEAHORSE and by the production of glycolysis enzymes such as&#xD;
+      hexokinase 2. Our study constitutes an original project because it characterized the energy&#xD;
+      metabolism of the CLL lymphatic niche by developing an original ex-vivo model and enhanced&#xD;
+      our understanding of the contribution of the specific microenvironment in the dissociation of&#xD;
+      metabolic activity using SUV max in BM and lymphatic niche. Anti-metabolic therapies are&#xD;
+      efficient on co-culture CLL cells and could be an alternative for refractory or relapsed&#xD;
+      patients under current treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 7, 2018</start_date>
+  <completion_date type="Anticipated">December 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 15, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Modelisation of a CLL lymphatic niche by creation of an ex-vivo model</measure>
+    <time_frame>48 months</time_frame>
+    <description>Measure of viability and proliferation of CLL cells by annexin PI with multiparameter:&#xD;
+flow cytometry device, western blot and validation of the model by testing current therapy (Ibrutinib, anti BTK inhibitor)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Study of metabolism in CLL ex-vivo model</measure>
+    <time_frame>48 months</time_frame>
+    <description>Anlayse of metabolism (ECAR and OCR) by seahorse methods , PCR qnd protein Multiparameter analyse</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate in-vitro the effectiveness of the combination of current treatments (RFC, Ibrutinib or Venetoclax) with anti-inflammatory therapies. -metabolic (glycolysis inhibitors)</measure>
+    <time_frame>48 months</time_frame>
+    <description>Viability using multiparameter flow cytometry</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>CLL</condition>
+  <arm_group>
+    <arm_group_label>LLC</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>NO intervention</intervention_name>
+    <description>No intervention</description>
+    <arm_group_label>LLC</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      EDTA-anticoagulated whole blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        CLL patient&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients for whom the diagnosis of CLL has been established cytologically and&#xD;
+             phenotypically (Matutes score)&#xD;
+&#xD;
+          -  Patients over 18 years old&#xD;
+&#xD;
+          -  Patients who have signed the non-objection form&#xD;
+&#xD;
+          -  Untreated patients&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with a solid cancer that is progressive or in remission for less than 3 years&#xD;
+&#xD;
+          -  HIV positive patients&#xD;
+&#xD;
+          -  Patients with chronic active hepatitis B or C&#xD;
+&#xD;
+          -  History of allogeneic transplant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Caroline Ruetsch-Chelli</last_name>
+    <phone>33492039016</phone>
+    <email>ruetsch-chelli.c@chu-nice.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marcel Deckert</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nice University Hospital</name>
+      <address>
+        <city>Nice</city>
+        <zip>06000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caroline Ruetsch-Chelli</last_name>
+      <phone>0492039016</phone>
+      <email>ruetsch-chelli.c@chu-nice.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Caroline ruetsch-Chelli</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2022</study_first_posted>
+  <last_update_submitted>November 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

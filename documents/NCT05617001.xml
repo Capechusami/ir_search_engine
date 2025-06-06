@@ -1,0 +1,140 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05617001</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO-0012</org_study_id>
+    <nct_id>NCT05617001</nct_id>
+  </id_info>
+  <brief_title>Clinical Validation and Safety of the AC 12L ECG System Against a Standard of Care 12-Lead ECG (AC 12L ECG)</brief_title>
+  <official_title>Clinical Validation and Safety of the AC 12L ECG System Against a Standard of Care 12-Lead ECG (AC 12L ECG)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oklahoma</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oklahoma</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      AliveCor (www.alivecor.com) has developed an ECG device (KardiaMobile) that interfaces with&#xD;
+      iOS and Android smartphones and tablets. This ECG consists of a lightweight hardware case&#xD;
+      with two metal electrodes that can snap onto the back of the phone and a software&#xD;
+      application. By holding the right finger(s) on the right electrode and the left finger(s) on&#xD;
+      the left electrode, an electrical circuit is completed and a lead-I, 30 second rhythm strip&#xD;
+      is created. KardiaMobile and a newer device, KardiaMobile 6L, were approved by FDA for ECG&#xD;
+      rhythm recording. Recently, AliveCor developed a new device: Kardia 12L to record 12-lead&#xD;
+      ECGs. However, the data generated from the new device has not yet been validated for&#xD;
+      accuracy. The specific aim of this study is to evaluate the accuracy and safety of the AC 12L&#xD;
+      ECG System. The ECGs collected by the AC 12L ECG System will be compared to simultaneous&#xD;
+      standard- of-care 12-lead ECG, recorded using the GE CardioSoft 12-lead ECG System. The ECGs&#xD;
+      will be analyzed for accuracy based on statistical difference using root-mean-square error,&#xD;
+      and cross correlation between the simultaneous 10 second recordings as well as the median&#xD;
+      beats of all 12 leads.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 4, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Agreement on QRS width between Kardia 12L and ECG</measure>
+    <time_frame>30 seconds</time_frame>
+    <description>Quantitative analysis on QRS width will be performed on the median-beat ECGs derived from the recorded ECGs from the device as well as 12-lead ECG for each study participant</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Agreement on PR interval between Kardia 12L and ECG</measure>
+    <time_frame>30 seconds</time_frame>
+    <description>Quantitative analysis on PR interval will be performed on the median-beat ECGs derived from the recorded ECGs from the device as well as 12-lead ECG for each study participant</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Agreement on AT interval between Kardia 12L and ECG</measure>
+    <time_frame>30 seconds</time_frame>
+    <description>Quantitative analysis on AT interval will be performed on the median-beat ECGs derived from the recorded ECGs from the device as well as 12-lead ECG for each study participant</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Arrhythmia</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Kardia 12L</intervention_name>
+    <description>The purpose of this study is to collect clinical validation data to support an FDA submission for a 510(k) for the Kardia 12L hardware which enables the simultaneous diagnostic quality recording of all 6 limb leads and any chest lead. We will be recording both Leads V1 and V2 in a sequential fashion along with the V4 and Limb leads and a simultaneous 12-lead ECG to validate the hardware and a Deep Neural Network model which expands the 5 leads into a complete 12-lead ECG. The 12-lead ECG used for validation of the recordings and the 12-lead synthesis model is the GE Cardiosoft System which is FDA cleared.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients 18 years or older&#xD;
+&#xD;
+          -  Ability to remain supine for a conventional 12 lead AliveCor 12L ECG recording for&#xD;
+             approximately 15 minutes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Open chest wounds or recent (&lt;30 days) surgery to the chest or abdomen&#xD;
+&#xD;
+          -  Absence of any limb that would require modification of the lead set-up&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stavros Stavrakis, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Oklahoma</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2022</study_first_posted>
+  <last_update_submitted>April 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arrhythmias, Cardiac</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,322 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05622344</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00281972</org_study_id>
+    <secondary_id>80NSSC21M0057</secondary_id>
+    <nct_id>NCT05622344</nct_id>
+  </id_info>
+  <brief_title>StableEyes With Active Neurofeedback</brief_title>
+  <acronym>SWAN</acronym>
+  <official_title>StableEyes With Active Neurophysiological Feedback</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Aeronautics and Space Administration (NASA)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators have developed a self-administered rehabilitation tool that incrementally&#xD;
+      guides the user to increase head motion to mitigate motion sickness and enhance postural&#xD;
+      recovery following centrifugation or unilateral vestibular nerve deafferentation surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The rehabilitation device guides users to perform sinusoidal head rotations, matched to a&#xD;
+      metronome, about the yaw, pitch, and roll axes (60 sec epochs, 5 minutes per axis, 15 min&#xD;
+      total). The assessment for each axis consists of the number of completed epochs with each&#xD;
+      epoch requiring head rotations of a different amplitude. Subjects are instructed to begin&#xD;
+      with an 'easy' amplitude (i.e. small) and increase or decrease amplitude depending on the&#xD;
+      subject's perception of motion sickness - which is input from 0 (absent motion sick) to 11&#xD;
+      (vomit) using a handheld controller. Video-oculography captures eye and head velocity as well&#xD;
+      as tracks the number of blinks and saccades, metrics that can indicate worsening nausea.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 8, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>At each site, one group will receive the control and the second group will receive the experimental treatment (novel rehab device).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Motion sickness intensity as assessed by subjective rating</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Subjective rating of motion sickness intensity from 0 to 10. Zero denotes absent motion sickness while 10 denote vomiting.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Vestibulo-Ocular Reflex (VOR) gain as measured by video-oculography</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Ratio of eye velocity to head velocity that varies from 0 to 1.2. Normal scores are greater than 0.8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Number of blinks as measured by video-oculography</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Increase blinking is correlated with worse motion sickness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Heart rate as measured by a monitor worn over the forearm</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Heart rate in beats per minute will be measured using a monitor worn over the forearm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Timed Up and Go Plus</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Time measured in seconds for a subject to stand up, step over an obstacle then walk 3M before turning around and sitting down.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Foam Stance - Eyes Open</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Time in seconds to stand on foam with eyes open. Inability to stand for less than 20 seconds is associated with 3x greater risk for falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Foam Stance - Eyes Closed</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Time in seconds to stand on foam with eyes closed. Inability to stand for less than 20 seconds is associated with 3x greater risk for falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Foam Stance - Eyes Open with head motion</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Time to seconds to stand on foam with eyes open while moving head up and down. Inability to stand for less than 20 seconds is associated with 3x greater risk for falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Foam Stance - Eyes Closed with head motion</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Time in seconds to stand on foam with eyes closed while moving head up and down. Inability to stand for less than 20 seconds is associated with 3x greater risk for falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Gait speed</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Velocity to walk 6m within a 10m marked distance, measured in meters/second. Normative data exists based on decade of age.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Gait endurance</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Distance walked in 2 minutes, measure in meters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Vertical and torsional alignment nulling test (VAN and TAN)</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Vertical alignment nulling and torsional alignment nulling ask subjects to adjust lines to there perceived horizontal. Measured in degrees.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Rod and Frame Test</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Subjects adjust a virtual line to their perceived vertical, measured in degrees.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Rod and Disk Test</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Subjects adjust a virtual line to their perceived vertical, measured in degrees.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Subjective Visual Vertical</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Subjects adjust a virtual line to their perceived vertical, measured in degrees.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Daily Activity as assessed by a monitor</measure>
+    <time_frame>Daily for up to 4 weeks</time_frame>
+    <description>Subjects wear an activity monitor on their wrist.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Vestibular Disorder</condition>
+  <condition>Vestibular Schwannoma</condition>
+  <condition>Space Motion Sickness</condition>
+  <condition>Motion Sickness</condition>
+  <arm_group>
+    <arm_group_label>Traditional VPT JHU</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects that have had their eighth cranial nerve resected will receive traditional vestibular rehabilitation exercises at Johns Hopkins University (JHU) site.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SWAN VPT JHU</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects that have had their eighth cranial nerve resected will receive the automated vestibular rehabilitation method</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SWAN Motion Sick Dayton</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy control subjects that meet similar similar physical characteristics of astronauts will receive the automated vestibular rehabilitation method post motion sickness.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Traditional Motion Sick Dayton</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Typically, the suggestion for treating motion sickness once it has started is to avoid motion. Therefore, healthy control subjects that meet similar similar physical characteristics of astronauts will not receive any post motion sickness treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Traditional Therapy</intervention_name>
+    <description>Exercises that teaches subjects to move their heads while viewing still or moving targets.</description>
+    <arm_group_label>Traditional VPT JHU</arm_group_label>
+    <other_name>Gaze stability exercises</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>SWAN</intervention_name>
+    <description>The SWAN device uses video-oculography to monitor head motion while guiding participants to move their head in yaw, pitch, roll planes for 15 minutes. Feedback is provided regarding frequency and plane of head rotation</description>
+    <arm_group_label>SWAN Motion Sick Dayton</arm_group_label>
+    <arm_group_label>SWAN VPT JHU</arm_group_label>
+    <other_name>StableEyes Training Device with video-oculography</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision of signed and dated informed consent form&#xD;
+&#xD;
+          2. Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          3. In good general health as evidenced by medical history or diagnosed with unilateral&#xD;
+             vestibular schwannoma&#xD;
+&#xD;
+          4. Willing to adhere to the SWAN and/or vestibular rehabilitation regimen&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current use of anti-nausea medication&#xD;
+&#xD;
+          2. Presence of cervical spine pathology that limits head motion to &lt; 30 degrees in the&#xD;
+             horizontal or vertical plane (i.e. degenerative disc disease, rheumatoid arthritis)&#xD;
+&#xD;
+          3. Any orthopedic pathology that prevents walking or standing independently (i.e. recent&#xD;
+             surgery)&#xD;
+&#xD;
+          4. Legal blindness (20/200 or worse visual acuity)&#xD;
+&#xD;
+          5. Treatment using a motion sickness investigational drug or other motion sickness&#xD;
+             behavioral intervention within 30 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew Stewart, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Schubert, PhD</last_name>
+    <phone>4108427403</phone>
+    <email>mschube1@jhmi.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Matthew Stewart, MD PhD</last_name>
+    <phone>4109553492</phone>
+    <email>cstewa16@jhmi.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael C Schubert, PhD</last_name>
+      <phone>410-955-3403</phone>
+      <email>mschube1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Colin R Grove, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Naval Medical Research Unit</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adam Preston, DO</last_name>
+      <email>adam.preston.2@us.af.mil</email>
+    </contact>
+    <contact_backup>
+      <last_name>Darcy Gallimore</last_name>
+      <email>darci.gallimore.ctr@us.af.mil</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Richard Folga</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://patents.google.com/patent/US9782068B2/en</url>
+    <description>Patent for the rehabilitation device</description>
+  </link>
+  <link>
+    <url>https://patents.google.com/patent/US10136810B2/en?q=migliaccio&amp;inventor=schubert&amp;oq=migliaccio+and+schubert+</url>
+    <description>Patent for the integrated video-oculography and rehabilitation device</description>
+  </link>
+  <reference>
+    <citation>Todd CJ, Schubert MC, Rinaudo CN, Migliaccio AA. Unidirectional Vertical Vestibuloocular Reflex Adaptation in Humans Using 1D and 2D Scenes. Otol Neurotol. 2022 Oct 1;43(9):e1039-e1044. doi: 10.1097/MAO.0000000000003684. Epub 2022 Sep 9.</citation>
+    <PMID>36075099</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2022</study_first_posted>
+  <last_update_submitted>November 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neurilemmoma</mesh_term>
+    <mesh_term>Neuroma, Acoustic</mesh_term>
+    <mesh_term>Vestibular Diseases</mesh_term>
+    <mesh_term>Motion Sickness</mesh_term>
+    <mesh_term>Space Motion Sickness</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Currently, we have no plan to share data with other researchers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

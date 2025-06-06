@@ -1,0 +1,789 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05621109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>L101</org_study_id>
+    <nct_id>NCT05621109</nct_id>
+  </id_info>
+  <brief_title>PRE-Pregnancy Weight Loss And the Reducing Effect on CHILDhood Overweight - Copenhagen</brief_title>
+  <acronym>PREPARE CHILD</acronym>
+  <official_title>PRE-Pregnancy Weight Loss And the Reducing Effect on CHILDhood Overweight - a Randomized Controlled Study in Copenhagen</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Faidon Magkos</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Henriette Svarre Nielsen, Professor Dept. of Obstetrics and Gynecology, Hvidovre Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kristian Almstrup, senior scientist, PhD Department of Growth and Reproduction Rigshospitalet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Nina Rica Wium Geiker, Head of Research, Center for Healthy Childhood, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Copenhagen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a single site parallel randomized controlled study.&#xD;
+&#xD;
+      The study will be assessing the effect of a 10% weight loss intervention vs a control group&#xD;
+      among healthy couples where the prospective mother is overweight or obese (BMI 28-45 kg/m^2)&#xD;
+      and between 18-35 years. The investigators will recruit a total of 240 healthy couples who&#xD;
+      will be randomized 1:1 to either intervention or control, stratified according to maternal&#xD;
+      pre-pregnancy BMI.&#xD;
+&#xD;
+      The overall objective is to test whether a comprehensive pre-conceptional parental weight&#xD;
+      loss intervention effectively reduces the risk of offspring overweight and adiposity and its&#xD;
+      complications compared to a control group. The investigators hypothesize that parental weight&#xD;
+      loss intervention, initiated before conception, will facilitate lower parental insulin&#xD;
+      resistance, inflammation, body weight and adiposity, incretin responses compared to usual&#xD;
+      care. For the offspring the investigators hypothesize that the intervention will reduce&#xD;
+      adverse pregnancy outcomes with a reduction in offspring neonatal adiposity, reduced risk of&#xD;
+      being born large for gestational age (LGA) and with lower BMI z-score at 18 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2032</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Neonatal fat mass</measure>
+    <time_frame>Assessed at birth (strived &lt;24 hours, but allow &lt;48 hours)</time_frame>
+    <description>Offspring's neonatal fat mass (grams) assessed by air displacement plethysmography (Pea POD)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Obstetrics outcome - length of gestational age</measure>
+    <time_frame>Assessed at birth of offspring.</time_frame>
+    <description>Length of gestational age.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obstetric - medication use</measure>
+    <time_frame>Collected from initiation of labor until completed birth of offspring.</time_frame>
+    <description>Medication use during labor</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obstetric - delivery mode</measure>
+    <time_frame>Collected at birth of offspring.</time_frame>
+    <description>Delivery mode (rupture of membranes or premature contractions, vaginal, cesarean section, instrumental delivery, miscarriage and stillbirth).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obstetric - pregnancy complications</measure>
+    <time_frame>Collected at registration of pregnancy, in gestational age (GA) 8, GA13, GA20, GA28, GA36 and GA39).</time_frame>
+    <description>Pregnancy complications e.g. miscarriage, abortion (induced and indication for abortion), hydramnios, gestational hypertension, preeclampsia, need for maternal corticosteroid treatment for fetal lung maturation, urinary tract infection).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obstetric - Neonatal unit admissions</measure>
+    <time_frame>Collected at birth and until 6 months after birth of offspring.</time_frame>
+    <description>Neonatal unit admissions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obstetric - obstetrics complications</measure>
+    <time_frame>Collected at birth of offspring</time_frame>
+    <description>Obstetrics complications (e.g. preterm prelabour rupture of the membranes, shoulder dystocia, birth trauma (perinatal rupture), postpartum hemorrhage, maternal infections, maternal hospitalization).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obstetrics - birth defects/abnormalities</measure>
+    <time_frame>Collected at birth of offspring</time_frame>
+    <description>Birth defects/abnormalities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neonatal morbidities</measure>
+    <time_frame>Collected at birth of offspring</time_frame>
+    <description>Neonatal morbidity (e.g. major congenital malformations (ICD10 Q00-Q99 or requiring medical or surgical treatment), birth injury, respiratory distress, transient tachypnoea, neonatal hypoglycemia, systemic infections, admission to neonatal intensive care unit, number of admission days, hyperbilirubinemia), deaths.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fetal and offspring growth - body weight</measure>
+    <time_frame>Collected in gestational age (GA)11-13, GA19-21 and GA28, at birth and 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Fetal body weight will be measured with ultrasound during pregnancy and offspring body weight will be measured using an electronic scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fetal and offspring growth - length</measure>
+    <time_frame>Collected in gestational age (GA) 11-13, GA19-21 and GA28, at birth and 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Fetal length will be measured with ultrasound during pregnancy and offspring length will be measured using using an infantometer as appropriate for measuring infant, baby and toddler length.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fetal and offspring growth - abdominal circumference</measure>
+    <time_frame>Collected in gestational age (GA) 11-13, GA19-21 and GA28, at birth and 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Abdominal circumference will be measured with ultrasound during pregnancy and offspring abdominal circumference will be measured three times to the nearest 0.1 cm using a stretch-resistant measuring tape</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fetal and offspring growth - crown circumference</measure>
+    <time_frame>Collected in gestational age (GA) 11-13, GA19-21 and GA28, at birth and 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Crown circumference will be measured with ultrasound during pregnancy and offspring crown circumference will be measured three times to the nearest 0.1 cm using a stretch-resistant measuring tape</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fetal and offspring growth - femur length</measure>
+    <time_frame>Collected in gestational age (GA) 11-13, GA19-21 and GA28, at birth and 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Femur length will be measured with ultrasound during pregnancy and offspring thigh will be measured three times to the nearest 0.1 cm using a stretch-resistant measuring tape.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fetal growth - fractional limb volume</measure>
+    <time_frame>Collected in gestational age 28.</time_frame>
+    <description>Fractional limb volume will be measured with ultrasound during pregnancy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - BMI z-score</measure>
+    <time_frame>Collected at birth and 3, 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Offspring body mass index (BMI) z-score (BMI adjusted for age and sex).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - weight for gestational age</measure>
+    <time_frame>Collected at birth and 3, 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Weight for gestational age. Measured as percent of normal weight related to gestational age.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - large for gestational age</measure>
+    <time_frame>Collected at birth and 3, 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Large for gestational age. Prevalence of infants being LGA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - small for gestational age</measure>
+    <time_frame>Collected at birth and 3, 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Small for gestational age. Prevalence of offspring being small for gestational age (SGA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - apgar score</measure>
+    <time_frame>Collected at birth of offspring</time_frame>
+    <description>Apgar score (0-10). The higher the score, the better health condition of the offspring)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth</measure>
+    <time_frame>Collected at birth and 3, 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Offspring circumference (upper arm and hip) and 5 points skinfold (bi- and triceps, subscapularis, belly and waist). Circumferences will be measured to the nearest 0.1 cm using a stretch-resistant measuring tape and skinfolds are measured to the nearest 0.02 cm using a caliper to lightly pinch the skin and the underlying fat</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - body composition by the POD system</measure>
+    <time_frame>Collected at birth (strived &lt;24 hours, but allow &lt;48 hours), 3, 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Offspring fat free mass (g) and fat mass (g) will be assessed by air displacement plethysmography using the POD system (either the Pea POD or the Bod POD system depending on the most appropriate for age)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - body composition by DEXA scan</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Offspring fat free mass (g) and fat mass (g) will be assessed by a Dual-energy X-ray absorptiometry-scan (DEXA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - bone markers by DEXA scan</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth of offspring.</time_frame>
+    <description>Offspring bone area (cm^2), bone mineral density (g/cm^2) and bone mineral content (g) will be assessed by a Dual-energy X-ray absorptiometry-scan (DEXA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring blood pressure</measure>
+    <time_frame>Collected 6, 12 and 18-months after birth of offspring</time_frame>
+    <description>Offspring blood pressure (diastolic and systolic blood pressure) will be measured three times after 5-10 minutes rest using an automated device placed on the arm and in direct contact with the skin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring heart rate</measure>
+    <time_frame>Collected 6, 12 and 18-months after birth of offspring</time_frame>
+    <description>Offspring heart rate will be measured three times after 5-10 minutes rest using an automated device placed on the arm and in direct contact with the skin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - self-reported body weight</measure>
+    <time_frame>18 months after birth the study staff will make an annual follow-up phone call to the parents to collect information about the offspring's self-reported body weight until the offspring is 14 of age.</time_frame>
+    <description>Self-reported body weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth - self-reported height</measure>
+    <time_frame>18 months after birth the study staff will make an annual follow-up phone call to the parents to collect information about the offspring's self-reported body weight until the offspring is 14 of age.</time_frame>
+    <description>Self-reported height</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult weight</measure>
+    <time_frame>The intervention: each visit(V) throughout the study (baseline to 18mo. after birth). The control: before pregnancy (baseline, V11 and V14), all visits during pregnancy, at birth, at V27≤6days after birth and 3,6,12 and 18mo. after birth</time_frame>
+    <description>Adult body weight is measured to the nearest 0.1 kg using a calibrated scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult self-reported body weight (control group)</measure>
+    <time_frame>From baseline to registration of pregnancy (4, 8, 12, 16, 20, 24, 30, 36, 42, 48, and 52 weeks after baseline)</time_frame>
+    <description>The control group will be instructed to self-report their body weight in a fasting state (no food or drink besides a maximum of 500 mL of water from 10 pm the night before) by using their own personal weight scale at home after having emptied their bladder at time point 9 and approximately monthly from time point 9 until registration of pregnancy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult Height</measure>
+    <time_frame>Collected at baseline (V0).</time_frame>
+    <description>Adult height will be measured to the nearest 0.5 cm using a wall-mounted stadiometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult BMI</measure>
+    <time_frame>Collected baseline, visit (V)1-19, registration of pregnancy, in gestational age (GA)8, GA13, GA20, GA28, GA36, GA39, when giving birth and at 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Calculated ad weight (kg)/height(m)^2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult anthropometric</measure>
+    <time_frame>Collected prior to pregnancy (at baseline, visit(V)5, V6, V7, V8, V12, and V16 (V5-V16 only the intervention)), during pregnancy (at registration of pregnancy, in gestational age(GA)13 and GA36), and at 3, 6, 12, and 18 months after birth of offspring.</time_frame>
+    <description>Waist- and hip circumference will be measured to the nearest 0.5 cm. During pregnancy and at birth the waist of the female will not be measured.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult body composition by DEXA scan</measure>
+    <time_frame>Collected at baseline (visit (V)0), at registration of pregnancy (only male) and after birth (≤6 days after birth of offspring). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Lean mass (g), fat mass (g), abdominal fat (g), visceral fat (g) assessed by a Dual-energy X-ray absorptiometry-scan.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult bone markers by DEXA scan</measure>
+    <time_frame>Collected at baseline (visit (V)0), at registration of pregnancy (only male) and after birth (≤6 days after birth of offspring). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Bone area (cm^2), bone mineral density (g/cm^2) and bone mineral content (g) assessed by a Dual-energy X-ray absorptiometry-scan.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult blood pressure</measure>
+    <time_frame>Collected at baseline (visit (V)0) and in gestational age (GA)36. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Blood pressure (diastolic and systolic blood pressure) will be measured three times with two minutes apart after 5-10 minutes rest using a validated automatic device.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult heart rate</measure>
+    <time_frame>Collected at baseline (visit (V)0) and in gestational age (GA)36. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Heart rate will be measured three times with two minutes apart after 5-10 minutes rest using a validated automatic device.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult resting metabolic rate</measure>
+    <time_frame>Collected at baseline visit (V)0. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Resting metabolic rate (calories/24-h) and respiratory quotient will be measured by indirect calorimetry using a ventilated hood system. Participants will lie in the supine position and rest for at least 5 min before measurements commence. The measurement will be performed twice and last for 25 min with 5 min between measurements.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult resting respiratory quotient</measure>
+    <time_frame>Collected at baseline visit (V)0. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Resting respiratory quotient will be measured by indirect calorimetry using a ventilated hood system. Participants will lie in the supine position and rest for at least 5 min before measurements commence. The measurement will be performed twice and last for 25 min with 5 min between measurements.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult medication use</measure>
+    <time_frame>Use of medication will be collected at all visits.</time_frame>
+    <description>Use of medication will be collected throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring medication use</measure>
+    <time_frame>Birth, after 3, 6, 12, and 18 months after birth of offspring.</time_frame>
+    <description>Use of medication will be collected throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult reproduction - Time to pregnancy</measure>
+    <time_frame>Registration of pregnancy</time_frame>
+    <description>Duration of time to conception defined from time point allowed to conceive to registration of pregnancy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult reproduction - Success rate</measure>
+    <time_frame>Registration of pregnancy</time_frame>
+    <description>Success rate of pregnancy defined as number of achieved pregnancies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reproduction (male) - Sperm motility</measure>
+    <time_frame>Collected baseline and at visit (V) 11. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Sperm motility (%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reproduction (male) - Sperm concentration</measure>
+    <time_frame>Collected baseline and at visit (V) 11. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Concentration (in million sperm cells/ml).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reproduction (male) - Sperm morphology</measure>
+    <time_frame>Collected baseline and at visit (V) 11. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Morphology (%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reproduction (male) - Sperm acrosomal status</measure>
+    <time_frame>Collected baseline and at visit (V) 11. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Acrosomal status (%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reproduction (male) - Sperm DNA fragmentation</measure>
+    <time_frame>Collected baseline and at visit (V) 11. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>DNA fragmentation (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult glucose metabolism (OGTT, only female)</measure>
+    <time_frame>Collected at gestational age (GA)20 and 28 or only 28 (only female)</time_frame>
+    <description>2-h oral glucose tolerance test (OGTT) will be performed at gestational age~20 and ~28 or only ~28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult glucose metabolism (CGM, only female)</measure>
+    <time_frame>Collected at gestational age (GA)28+GA29</time_frame>
+    <description>A continuous glucose monitoring system will be attached to the designated area on the upper body as stated by the manufacture.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult glucose metabolism</measure>
+    <time_frame>Collected at baseline (visit(V)0) and during pregnancy in gestational age (GA)36 (only female). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>All blood samples will be collected by venous puncture in the antecubital vein after an overnight fast from at least 10 pm the night before. Samples will be analysed for fasting glucose, insulin, C-peptide and HbA1c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult lipid profile</measure>
+    <time_frame>Collected at baseline (visit(V)0) and during pregnancy in gestational age (GA)36 (only female). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>All blood samples will be collected by venous puncture in the antecubital vein after an overnight fast from at least 10 pm the night before. Samples will be analysed for triglycerides, low-density lipoprotein (LDL), high-density lipoprotein (HDL), very-low-density lipoprotein VLDL and total cholesterol</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adult inflammation markers</measure>
+    <time_frame>Collected at baseline (visit(V)0) and during pregnancy in gestational age (GA)36 (only female). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>All blood samples will be collected by venous puncture in the antecubital vein after an overnight fast from at least 10 pm the night before. Samples will be analysed for hsCRP, Tumor necrosis factor alpha (TNF-α) and interleukin (IL6).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring glucose metabolism</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth</time_frame>
+    <description>Total amount of venous blood will be drawn at 6-, 12- and 18-months follow-up visit.&#xD;
+Parents will be instructed that the offspring should not have eaten two hours prior to the assessment. Samples will be analysed for glucose, insulin, C-peptide and HbA1c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring lipid profile</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth</time_frame>
+    <description>Total amount of venous blood will be drawn at 6-, 12- and 18-months follow-up visit.&#xD;
+Parents will be instructed that the offspring should not have eaten two hours prior to the assessment.&#xD;
+Samples will be analysed for triglycerides, LDL, HDL, VLDL and total cholesterol.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring inflammation markers</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth</time_frame>
+    <description>Total amount of venous blood will be drawn at 6-, 12- and 18-months follow-up visit.&#xD;
+Parents will be instructed that the offspring should not have eaten two hours prior to the assessment.&#xD;
+Samples will be analysed for hsCRP, TNF-α and IL6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Offspring growth factors and hormones</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth</time_frame>
+    <description>Total amount of venous blood will be drawn at 6-, 12- and 18-months follow-up visit.&#xD;
+Parents will be instructed that the offspring should not have eaten two hours prior to the assessment.&#xD;
+Samples will be analysed for Insulin-like Growth Factor 1 (IGF-1) and growth hormone (GH).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Cord blood - epigenetics</measure>
+    <time_frame>Collected at birth</time_frame>
+    <description>Cord blood will be drawn immediately after birth and analysed for epigenetic profile.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cord blood - pH</measure>
+    <time_frame>Collected at birth</time_frame>
+    <description>Cord blood will be drawn immediately after birth. pH will be assessed.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cord tissue</measure>
+    <time_frame>Collected at birth</time_frame>
+    <description>A sample of cord tissue will be collected immediately after birth and analysed for epigenetic profile.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Placenta</measure>
+    <time_frame>Collected at birth</time_frame>
+    <description>Placenta weight (gram).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Placenta - biopsies</measure>
+    <time_frame>Collected at birth</time_frame>
+    <description>Eight biopsies will be collected, four on the maternal site and four on the fetal side - one in each quadrant. The samples will be analyzed for protein expression patterns, placental markers, metabolomics, proteomics, markers of inflammation, immune markers and exosomes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vaginal swab (female) - Microbiome</measure>
+    <time_frame>Collected at baseline, at gestional age(GA) 13 and GA36. Additionally, the intervention group will collect a sample at visit (V)8 during the intervention period.</time_frame>
+    <description>The females will be instructed how to perform the vaginal swab at the study site. Changes in microbiome will be assessed from vaginal swab samples.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vaginal swab (female) - pH</measure>
+    <time_frame>Collected at baseline, at gestional age(GA) 13 and GA36. Additionally, the intervention group will collect a sample at visit (V)8 during the intervention period.</time_frame>
+    <description>The females will be instructed how to perform the vaginal swab at the study site. Changes in pH will be assessed from vaginal swab samples.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - Microbiom</measure>
+    <time_frame>Collected at birth (the 4 th day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Will be analysed for microbiome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - Short chain fatty acids</measure>
+    <time_frame>Collected at birth (the 4 th day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Will be analysed for short chain fatty acids.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - Metabolomics</measure>
+    <time_frame>Collected at birth (the 4 th day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Will be analysed for metabolomics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - Proteomics</measure>
+    <time_frame>Collected at birth (the 4 th day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Will be analysed for proteomics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - pH</measure>
+    <time_frame>Collected at birth (the 4 th day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Will be assessed for pH.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - Inflammation markers</measure>
+    <time_frame>Collected at birth (the 4 th day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Will be analysed for inflammation markers.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring feces - consistency and frequency</measure>
+    <time_frame>Collected at birth (the 4 the day after birth or as soon as possible thereafter) and at 1, 3, 6, 12 and 18 months after birth.</time_frame>
+    <description>Whenever a fecal sample is collected stool consistency of the collected sample, and an estimate of stool frequency will be collected with a questionnaire.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring urine</measure>
+    <time_frame>Collected at birth and at 1, 3, 6, 12 and 18 months of age.</time_frame>
+    <description>Parents will be instructed to collect offspring's urine samples. Offspring urine will be analyzed for metabolomics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - Microbiome</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a fecal spot sample at home maximum 24 hours before the planned visit.&#xD;
+Will be analysed for microbiome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - Short chain fatty acids</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a fecal spot sample at home maximum 24 hours before the planned visit. Will be analysed for short chain fatty acids.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - Metabolomics</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a fecal spot sample at home maximum 24 hours before the planned visit.&#xD;
+Will be analysed for metabolomics</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - Proteomics</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a fecal spot sample at home maximum 24 hours before the planned visit.&#xD;
+Will be analysed for proteomics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - Inflammation markers</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a fecal spot sample at home maximum 24 hours before the planned visit.&#xD;
+Will be analysed for inflammation markers.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - pH</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a fecal spot sample at home maximum 24 hours before the planned visit.&#xD;
+Will be assessed for pH.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult feces - consistency and frequency</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (gestational age (GA)36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Whenever a fecal sample is collected stool consistency of the collected sample, and an estimate of stool frequency will be collected with a questionnaire.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult urine</measure>
+    <time_frame>Collected at baseline (visitV)0), during pregnancy (GA36, only female) and 12 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Participants will collect a urine spot sample at the study site. Adult urine will be analyzed for metabolomics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult dietary intake</measure>
+    <time_frame>Collected at baseline (visit(V)0), during pregnancy (GA13 and GA36) and 12 and 18 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>24-h dietary recall performed by trained personnel.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring dietary intake</measure>
+    <time_frame>Collected at birth, after 3, 6, 12 and 18 months after offspring birth.</time_frame>
+    <description>At birth (&lt; 48 hours after birth) and at 3 months after offspring birth of offspring we will collect information on offspring dietary intake including breast feeding, use of formula and type as well as use of antibiotics.&#xD;
+The offspring's dietary intake will be registered (either as 24-h dietary recall performed by trained personnel or by electronic software) at each follow-up visit (6, 12 and 18 months).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Semen epigenetics marks</measure>
+    <time_frame>Collected at baseline (visit(V)0) and at V11. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Epigenetic profile based on array-measurements. Analysed for methylation changes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cognitive development of offspring</measure>
+    <time_frame>Collected at 6, 12 and 18 months after birth.</time_frame>
+    <description>Offspring cognitive development will be assessed by a Habituation and Free Play Test.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring development</measure>
+    <time_frame>3, 6, 12 and 18 months after offspring birth.</time_frame>
+    <description>Diet, physical activity and sleep will be assessed by validated questionnaires.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Offspring language development</measure>
+    <time_frame>Collected 12 and 18 months after offspring birth.</time_frame>
+    <description>Offspring language development will be assessed by validated questionnaires.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Epigenetics</measure>
+    <time_frame>Collected at baseline (visit(V)0) and at V8 (only intervention group) and in gestational age (GA)36 - only female). Collected at birth for offspring.</time_frame>
+    <description>Epigenetics analyses from whole blood. Will be analysed for methylation changes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult physical activity</measure>
+    <time_frame>Collected at baseline (visit(V)0), at gestational age (GA)13 and GA36 (only females during pregnancy). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Physical activity and sleep will be assessed by an accelerometer and the females and males will wear the accelerometer for 7 days and 8 nights.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult physical activity</measure>
+    <time_frame>Collected at baseline (visit(V)0), at gestational age (GA)13 and GA36 and 3, 6, 12 and 18 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Physical activity will be assessed by the International Physical Activity Questionnaire (IPAQ).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult background</measure>
+    <time_frame>Collected prior baseline V0</time_frame>
+    <description>Demographic information.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult wellbeing - Depression</measure>
+    <time_frame>Collected at baseline (visit(V)0), at gestational age (GA)13 and GA36 and 3, 6, 12 and 18 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Depression will be assessed by Major depression questionnaire (ICD-10).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult wellbeing - Quality of life</measure>
+    <time_frame>Collected at baseline (visit(V)0), at gestational age (GA)13 and GA36 and 3, 6, 12 and 18 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Quality of life will be assessed by the validated tool, Short form-36 (SF-36).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult wellbeing - Stress</measure>
+    <time_frame>Collected at baseline (visit(V)0), at gestational age (GA)13 and GA36 and 3, 6, 12 and 18 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Stress will be assessed by validated tool, Perceived Stress Scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult sleep</measure>
+    <time_frame>Collected at baseline (visit(V)0), at gestational age (GA)13 and GA36 and 3, 6, 12 and 18 months after birth of offspring. Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Sleep will be assessed by the validated tool, Pittsburgh sleep quality index questionnaire (PSQI).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adult sexual score</measure>
+    <time_frame>Collected at baseline (visit(V)0). Additionally, at V8 (prior to pregnancy) for the intervention group.</time_frame>
+    <description>Sexual score assessed by questionnaire.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">480</enrollment>
+  <condition>Overweight and Obesity</condition>
+  <condition>Weight Loss</condition>
+  <condition>Pregnancy Related</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rapid moderate weight loss (at least 10% of body weight at baseline over 8-10 weeks or BMI 23 kg/m^2 is achieved) by very low-calorie diet (VLCD), reintroduction (4 weeks), weight loss maintenance until pregnancy (up to 12 months), and a high protein, high fiber diet during pregnancy (n=120 couples).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group will not receive any dietary advice prior to pregnancy. During pregnancy control subjects will receive dietary advice similar to the intervention group, i.e. a high protein, high fiber diet (n=120 couples).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Weight loss intervention</intervention_name>
+    <description>Subjects will receive very low-calorie diet for 8-10 weeks to introduce a rapid weight loss of at least 10%. Once target weight is achieved, participants will be reintroduced to foods to introduce weight stability.&#xD;
+The male will follow the maternal randomization, i.e. weight loss if BMI ≥25 until a BMI of 23 or a weight loss of at least 10% is obtained.&#xD;
+During weight loss maintenance, subjects will receive dietary counseling to follow a diet high in protein (corresponding to 22-25E%), high fiber and wholegrain while fulfilling the requirements for essential fatty acids, micronutrients and trace elements in accordance with Nordic Nutrition Recommendations (NNR) 2012.&#xD;
+Throughout the study period participants will be encouraged to follow the official recommendations for physical activity as recommended by the Danish health authorities 2022.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Maternal inclusion Criteria:&#xD;
+&#xD;
+          -  Maternal pre-pregnancy BMI 28.0-44.9 kg/m^2&#xD;
+&#xD;
+          -  Maternal age range 18-35 years&#xD;
+&#xD;
+          -  Connected to Hvidovre Hospital as place of birth&#xD;
+&#xD;
+          -  Not pregnant or breastfeeding&#xD;
+&#xD;
+        Paternal Inclusion Criteria:&#xD;
+&#xD;
+          -  Paternal pre-pregnancy BMI 18.5-44.9 kg/m^2&#xD;
+&#xD;
+          -  Paternal age range 18-55 years&#xD;
+&#xD;
+        Parental Inclusion Criteria:&#xD;
+&#xD;
+          -  Couples (male and female)&#xD;
+&#xD;
+          -  Planning pregnancy within 1 year&#xD;
+&#xD;
+          -  Provided voluntary informed consent&#xD;
+&#xD;
+          -  Danish or English speaking&#xD;
+&#xD;
+          -  Intention to permit the planned offspring to participate in the follow-up study&#xD;
+&#xD;
+          -  Able to store biological samples from the offspring at home in the freezer in a box&#xD;
+             given by the study personnel&#xD;
+&#xD;
+        Parental Exclusion Criteria:&#xD;
+&#xD;
+          -  Diabetes mellitus (Type 1 or 2)&#xD;
+&#xD;
+          -  Previous or present eating disorder&#xD;
+&#xD;
+          -  Allergy towards ingredients in the very low calorie diet products&#xD;
+&#xD;
+          -  Severe heart, liver or kidney disease&#xD;
+&#xD;
+          -  Conception by in vitro fertilization&#xD;
+&#xD;
+          -  ≥4 consecutive spontaneous pregnancy loss (female)&#xD;
+&#xD;
+          -  Having tried to conceive or prior time to pregnancy of more than 12 months&#xD;
+&#xD;
+          -  Any medical condition or concomitant medication as judged by the medical responsible&#xD;
+&#xD;
+          -  Adherence to vegan diets or other diets interfering with the dietary guidelines in the&#xD;
+             study&#xD;
+&#xD;
+          -  Participation in other clinical trial&#xD;
+&#xD;
+          -  Engagement in elite sports or similar strenuous exercise ≥5 h/week&#xD;
+&#xD;
+          -  Blood donation or transfusion within the past month before baseline&#xD;
+&#xD;
+          -  Blood donation during the study&#xD;
+&#xD;
+          -  Inability or unwillingness to follow the study protocol and instructions given by the&#xD;
+             study personnel&#xD;
+&#xD;
+          -  Pregnancy registered at baseline visit (urinary analysis with dipstick)&#xD;
+&#xD;
+        A detailed description of the exclusion criteria is given below:&#xD;
+&#xD;
+        Medical conditions as known by the participant:&#xD;
+&#xD;
+          -  Diabetes mellitus (type 1 and 2)&#xD;
+&#xD;
+          -  History or diagnosis of eating disorder (e.g. restrained eating, disinhibition,&#xD;
+             emotional eating)&#xD;
+&#xD;
+          -  Any significant medical condition as assessed by the investigator (e.g. dysregulated&#xD;
+             thyroid disease or reproductive diseases)&#xD;
+&#xD;
+          -  Any significant psychiatric disorder (i.e. schizophrenia, bipolar disease or&#xD;
+             depression) as assessed by the investigator&#xD;
+&#xD;
+          -  Severe chronic heart, liver and kidney disease&#xD;
+&#xD;
+          -  Polycystic ovary syndrome with irregular cycle&#xD;
+&#xD;
+          -  Amenorrhea&#xD;
+&#xD;
+          -  Severely reduced semen quality incl. azoospermia&#xD;
+&#xD;
+        Medication:&#xD;
+&#xD;
+        - Current use of medication or use within the previous three months with a potential to&#xD;
+        affect body weight or pregnancy as judged by the investigator (e.g. systemic corticoids)&#xD;
+&#xD;
+        Personal/other:&#xD;
+&#xD;
+          -  Having tried to conceive or prior time to pregnancy of more than 12 months&#xD;
+&#xD;
+          -  Weight changes ± 5% three months prior to inclusion&#xD;
+&#xD;
+          -  Severe food allergies, food intolerances or dislike expected to interfere with the&#xD;
+             study, including allergy towards ingredients in the VLCD products&#xD;
+&#xD;
+          -  Engagement in elite sports or similar strenuous exercise ≥5 h/week&#xD;
+&#xD;
+          -  Blood donation or transfusion within the past month before baseline&#xD;
+&#xD;
+          -  Planned blood donation for other purpose than this study during participation&#xD;
+&#xD;
+          -  Alcohol abuse, as judged by the investigator, within the previous 12 months&#xD;
+&#xD;
+          -  Drug abuse, as judged by the investigator, within the previous 12 months&#xD;
+&#xD;
+          -  Psychological or behavioral problems which, in the judgement of the investigator,&#xD;
+             would lead to difficulty in complying with the study protocol&#xD;
+&#xD;
+          -  Participation in other clinical trials within the past three months or intention to do&#xD;
+             so during the study, which are judged by the investigator to affect the present study&#xD;
+&#xD;
+          -  Unable to consume the interventional product for religious reasons, swallowing&#xD;
+             disorders, other physiological reasons or any other reasons for not being able to&#xD;
+             follow the recommended diet&#xD;
+&#xD;
+          -  Inability or unwillingness to give written informed consent or communicate with study&#xD;
+             personnel&#xD;
+&#xD;
+          -  Inability or unwillingness to follow the study protocol and instructions given by the&#xD;
+             study personnel&#xD;
+&#xD;
+          -  Illiteracy or inadequate understanding of Danish or English language.&#xD;
+&#xD;
+          -  Any other condition that judged by the investigator may interfere with the adherence&#xD;
+             to the study protocol&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Faidon Magkos, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Copenhagen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Faidon Magkos, PhD</last_name>
+    <phone>+4535333671</phone>
+    <email>fma@nexs.ku.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Malene Nygaard, MSC</last_name>
+    <phone>+45 35 32 02 66</phone>
+    <email>nygaard@nexs.ku.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Copenhagen</name>
+      <address>
+        <city>Frederiksberg</city>
+        <state>DK</state>
+        <zip>1958</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Faidon Magkos, PhD</last_name>
+      <phone>+4535333671</phone>
+      <email>fma@nexs.ku.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Malene Nygaard, MSC</last_name>
+      <phone>+4535320266</phone>
+      <email>nygaard@nexs.ku.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2022</study_first_posted>
+  <last_update_submitted>February 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Copenhagen</investigator_affiliation>
+    <investigator_full_name>Faidon Magkos</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pediatric Obesity</mesh_term>
+    <mesh_term>Body Weight</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

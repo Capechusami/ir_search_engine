@@ -1,0 +1,313 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05623267</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B2022-501-01</org_study_id>
+    <nct_id>NCT05623267</nct_id>
+  </id_info>
+  <brief_title>Sugemalimab as Consolidation Therapy in Patients With LS-SCLC Following cCRT or sCRT</brief_title>
+  <acronym>SURPASS</acronym>
+  <official_title>A Phase 2/3, Randomized, Double-blind, Placebo-controlled Study of Sugemalimab as Consolidation Therapy in Patients With Limited-stage Small-cell Lung Cancer Who Have Not Progressed Following Concurrent or Sequential Chemoradiotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sun Yat-sen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sun Yat-sen University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study was to evaluate the efficacy of sugemalimab consolidation therapy&#xD;
+      versus placebo in patients with LS-SCLC who had not progressed following Concurrent or&#xD;
+      Sequential Chemoradiotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is planned to enroll approximately 346 eligible patients in China. Patients who&#xD;
+      fulfill all the inclusion criteria and none of the exclusion criteria will be randomized in a&#xD;
+      1:1 ratio to the experimental and control arm. The experimental arm would receive&#xD;
+      sugemalimab, while the control arm would receive placebo.Tumor assessment will be conducted&#xD;
+      using computed tomography/magnetic resonance imaging and MRD detection will be performed&#xD;
+      along with radiologic review during each visit. The above assessment will be conducted every&#xD;
+      12 weeks for the first 2 years, every 24 weeks for the third year, and annually thereafter&#xD;
+      until confirmed disease progression per RECIST 1.1 or death.The primary endpoint is PFS&#xD;
+      ,which is defined as the time from the date of randomization to the date of disease&#xD;
+      progression (per RECIST 1.1), any cause of death, loss to follow-up, or initiation of new&#xD;
+      antitumor therapy, whichever occurred first.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 12, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progress Free Survival(PFS)</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>Evaluated according to RECIST 1.1 criteria by researchers.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival(OS)</measure>
+    <time_frame>up to 36 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progress Free Survival rate</measure>
+    <time_frame>record in 12、18 and 24 months</time_frame>
+    <description>Evaluated according to RECIST 1.1 criteria by researchers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival rate</measure>
+    <time_frame>record in 12、18 and 24 months</time_frame>
+    <description>Evaluated according to RECIST 1.1 criteria by researchers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate(ORR)</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>Evaluated according to RECIST 1.1 criteria by researchers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate(DCR)</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>Evaluated according to RECIST 1.1 criteria by researchers.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">346</enrollment>
+  <condition>Limited Stage Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous infusion (IV) of Sugemalimab 1200 mg at least 60 minutes on Day 1 of each treatment cycle, every 3 weeks (21 days), for 1 year or until disease progression or intolerable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intravenous infusion (IV) of placebo at least 60 minutes on Day 1 of each treatment cycle, every 3 weeks (21 days), for 1 year or until disease progression or intolerable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sugemalimab</intervention_name>
+    <description>Recombinant anti-PD-L1 fully human monoclonal antibody</description>
+    <arm_group_label>Experimental arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo of Sugemalimab</description>
+    <arm_group_label>Control arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1、18 years or older. 2、Histologically or cytologically confirmed small cell lung cancer.&#xD;
+        3、ECOG PS=0-1 at enrollment; 4、Limited-stage SCLC (Stage I-III, by AJCC 8th Edition Cancer&#xD;
+        Staging), and can be safely treated with definitive radiation doses).&#xD;
+&#xD;
+        5、Inoperable SCLC, or the patient has contraindications to surgery, or the patient refuses&#xD;
+        surgery.&#xD;
+&#xD;
+        6、Completion of 4 cycles of chemotherapy (etoposide + carboplatin/cisplatin) concurrent or&#xD;
+        sequential with radiotherapy during the first two cycles of chemotherapy.&#xD;
+&#xD;
+        7、After the completion of concurrent or sequential chemoradiotherapy, prophylactic&#xD;
+        intracranial irradiation (PCI) is allowed based on the common practice of individual sites.&#xD;
+&#xD;
+        8、The start of concurrent radiotherapy should be no later than the last day of the second&#xD;
+        course of chemotherapy (the first day of the third cycle of chemotherapy). The interval&#xD;
+        between the end of chemotherapy cycle and beginning of radiotherapy must not exceed 35 days&#xD;
+        for sequential chemoradiotherapy.&#xD;
+&#xD;
+        9、Radiotherapy must be either total 60-66Gy over 6 weeks for the standard qd regimen or&#xD;
+        total 45Gy over 3 weeks for hyperfractionated bid schedules.&#xD;
+&#xD;
+        10、Absence of progression after concurrent/sequential chemoradiotherapy (responses should&#xD;
+        be complete response [CR], partial response [PR] and stable disease [SD]); 11、For patients&#xD;
+        not receiving PCI, the first dose of sugemalimab shall be administered within 42 days after&#xD;
+        the completion of chemoradiation therapy. For patients receiving PCI, the first dose of&#xD;
+        sugemalimab shall be administered within 56 days after the completion of chemoradiation&#xD;
+        therapy.&#xD;
+&#xD;
+        12、Life expectancy ≥ 12 weeks. 13、Can provide tumor tissue samples (fresh or archived) for&#xD;
+        whole exome sequencing; 14、Women of childbearing potential and fertile men must agree to&#xD;
+        use an effective contraceptive method from signing the master ICF until 180 days after the&#xD;
+        last dose of investigational product. Women of childbearing potential include premenopausal&#xD;
+        women and women who became menopausal less than 2 years ago. Women of childbearing&#xD;
+        potential must have a negative pregnancy test ≤7 days prior to the first dose of&#xD;
+        investigational product.&#xD;
+&#xD;
+        15、The subject should have good compliance, who would participate in the research&#xD;
+        voluntarily, and sign the informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Histologically or cytologically diagnosed mixed small cell lung cancer or non-small&#xD;
+             cell lung cancer.&#xD;
+&#xD;
+          2. Extensive-stage small cell lung cancer.&#xD;
+&#xD;
+          3. Has malignant pleural or pericardial effusion.&#xD;
+&#xD;
+          4. Previously received systemic anti-tumor therapy for SCLC or anti-tumor therapy with&#xD;
+             immune checkpoint inhibitors.&#xD;
+&#xD;
+          5. Subjects with active, unstable systemic diseases, such as active infection,&#xD;
+             uncontrolled hypertension, heart failure (NYHA class &gt;= II), unstable angina pectoris,&#xD;
+             acute coronary syndrome, severe arrythmia, severe liver, kidney or metabolic diseases,&#xD;
+             HIV infection.&#xD;
+&#xD;
+          6. Has history of interstitial lung disease (ILD), drug-induced ILD, or active ILD which&#xD;
+             required systemic glucocorticoid or immunosuppressive therapy.&#xD;
+&#xD;
+          7. History of other malignancies within 5 years (excluding basal cell carcinoma of the&#xD;
+             skin or other carcinoma in situ that has been resected).&#xD;
+&#xD;
+          8. Pregnant or lactating women.&#xD;
+&#xD;
+          9. Those who are allergic to the research drug or its components.&#xD;
+&#xD;
+         10. Subjects who are deemed unable to comply with the study requirements or complete the&#xD;
+             study.&#xD;
+&#xD;
+         11. Those with insufficient function of bone marrow or other important organs.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Li Zhang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sun Yat-sen University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yan Huang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sun Yat-sen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shen Zhao, MD</last_name>
+    <phone>+86-13570917392</phone>
+    <email>zhaoshen@sysucc.org.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sun Yat-sen University Cancer Center</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Li Zhang, MD</last_name>
+      <email>zhangli@sysucc.org.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Faivre-Finn C, Snee M, Ashcroft L, Appel W, Barlesi F, Bhatnagar A, Bezjak A, Cardenal F, Fournel P, Harden S, Le Pechoux C, McMenemin R, Mohammed N, O'Brien M, Pantarotto J, Surmont V, Van Meerbeeck JP, Woll PJ, Lorigan P, Blackhall F; CONVERT Study Team. Concurrent once-daily versus twice-daily chemoradiotherapy in patients with limited-stage small-cell lung cancer (CONVERT): an open-label, phase 3, randomised, superiority trial. Lancet Oncol. 2017 Aug;18(8):1116-1125. doi: 10.1016/S1470-2045(17)30318-2. Epub 2017 Jun 20.</citation>
+    <PMID>28642008</PMID>
+  </reference>
+  <reference>
+    <citation>Welsh JW, Heymach JV, Guo C, Menon H, Klein K, Cushman TR, Verma V, Hess KR, Shroff G, Tang C, Skoulidis F, Jeter M, Comeaux N, Patel RR, Chen D, Ozgen T, Nguyen QN, Chang JY, Altan M, Zhang J, Papadimitrakopoulou VA, Simon GR, Byers LA, Glisson B. Phase 1/2 Trial of Pembrolizumab and Concurrent Chemoradiation Therapy for Limited-Stage SCLC. J Thorac Oncol. 2020 Dec;15(12):1919-1927. doi: 10.1016/j.jtho.2020.08.022. Epub 2020 Sep 8.</citation>
+    <PMID>32916308</PMID>
+  </reference>
+  <reference>
+    <citation>Nong J, Gong Y, Guan Y, Yi X, Yi Y, Chang L, Yang L, Lv J, Guo Z, Jia H, Chu Y, Liu T, Chen M, Byers L, Roarty E, Lam VK, Papadimitrakopoulou VA, Wistuba I, Heymach JV, Glisson B, Liao Z, Lee JJ, Futreal PA, Zhang S, Xia X, Zhang J, Wang J. Circulating tumor DNA analysis depicts subclonal architecture and genomic evolution of small cell lung cancer. Nat Commun. 2018 Aug 6;9(1):3114. doi: 10.1038/s41467-018-05327-w. Erratum In: Nat Commun. 2019 Jan 29;10(1):552.</citation>
+    <PMID>30082701</PMID>
+  </reference>
+  <reference>
+    <citation>Warde P, Payne D. Does thoracic irradiation improve survival and local control in limited-stage small-cell carcinoma of the lung? A meta-analysis. J Clin Oncol. 1992 Jun;10(6):890-5. doi: 10.1200/JCO.1992.10.6.890.</citation>
+    <PMID>1316951</PMID>
+  </reference>
+  <reference>
+    <citation>Turrisi AT 3rd, Kim K, Blum R, Sause WT, Livingston RB, Komaki R, Wagner H, Aisner S, Johnson DH. Twice-daily compared with once-daily thoracic radiotherapy in limited small-cell lung cancer treated concurrently with cisplatin and etoposide. N Engl J Med. 1999 Jan 28;340(4):265-71. doi: 10.1056/NEJM199901283400403.</citation>
+    <PMID>9920950</PMID>
+  </reference>
+  <reference>
+    <citation>Acheampong E, Abed A, Morici M, Bowyer S, Amanuel B, Lin W, Millward M, Gray ES. Tumour PD-L1 Expression in Small-Cell Lung Cancer: A Systematic Review and Meta-Analysis. Cells. 2020 Oct 31;9(11):2393. doi: 10.3390/cells9112393.</citation>
+    <PMID>33142852</PMID>
+  </reference>
+  <reference>
+    <citation>Bellmunt J, Hussain M, Gschwend JE, Albers P, Oudard S, Castellano D, Daneshmand S, Nishiyama H, Majchrowicz M, Degaonkar V, Shi Y, Mariathasan S, Grivas P, Drakaki A, O'Donnell PH, Rosenberg JE, Geynisman DM, Petrylak DP, Hoffman-Censits J, Bedke J, Kalebasty AR, Zakharia Y, van der Heijden MS, Sternberg CN, Davarpanah NN, Powles T; IMvigor010 Study Group. Adjuvant atezolizumab versus observation in muscle-invasive urothelial carcinoma (IMvigor010): a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2021 Apr;22(4):525-537. doi: 10.1016/S1470-2045(21)00004-8. Epub 2021 Mar 12.</citation>
+    <PMID>33721560</PMID>
+  </reference>
+  <reference>
+    <citation>Haslam A, Prasad V. Estimation of the Percentage of US Patients With Cancer Who Are Eligible for and Respond to Checkpoint Inhibitor Immunotherapy Drugs. JAMA Netw Open. 2019 May 3;2(5):e192535. doi: 10.1001/jamanetworkopen.2019.2535.</citation>
+    <PMID>31050774</PMID>
+  </reference>
+  <reference>
+    <citation>Tan DS, Camilleri-Broet S, Tan EH, Alifano M, Lim WT, Bobbio A, Zhang S, Ng QS, Ang MK, Iyer NG, Takano A, Lim KH, Regnard JF, Tan P, Broet P. Intertumor heterogeneity of non-small-cell lung carcinomas revealed by multiplexed mutation profiling and integrative genomics. Int J Cancer. 2014 Sep 1;135(5):1092-100. doi: 10.1002/ijc.28750. Epub 2014 Apr 3.</citation>
+    <PMID>24482041</PMID>
+  </reference>
+  <reference>
+    <citation>The Lancet Oncology. Liquid cancer biopsy: the future of cancer detection? Lancet Oncol. 2016 Feb;17(2):123. doi: 10.1016/S1470-2045(16)00016-4. No abstract available.</citation>
+    <PMID>26868335</PMID>
+  </reference>
+  <reference>
+    <citation>Coakley M, Garcia-Murillas I, Turner NC. Molecular Residual Disease and Adjuvant Trial Design in Solid Tumors. Clin Cancer Res. 2019 Oct 15;25(20):6026-6034. doi: 10.1158/1078-0432.CCR-19-0152. Epub 2019 May 14.</citation>
+    <PMID>31088829</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel RL, Miller KD, Jemal A. Cancer statistics, 2020. CA Cancer J Clin. 2020 Jan;70(1):7-30. doi: 10.3322/caac.21590. Epub 2020 Jan 8.</citation>
+    <PMID>31912902</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel RL, Miller KD, Jemal A. Cancer statistics, 2018. CA Cancer J Clin. 2018 Jan;68(1):7-30. doi: 10.3322/caac.21442. Epub 2018 Jan 4.</citation>
+    <PMID>29313949</PMID>
+  </reference>
+  <reference>
+    <citation>Pignon JP, Arriagada R, Ihde DC, Johnson DH, Perry MC, Souhami RL, Brodin O, Joss RA, Kies MS, Lebeau B, et al. A meta-analysis of thoracic radiotherapy for small-cell lung cancer. N Engl J Med. 1992 Dec 3;327(23):1618-24. doi: 10.1056/NEJM199212033272302.</citation>
+    <PMID>1331787</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2022</study_first_posted>
+  <last_update_submitted>April 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sun Yat-sen University</investigator_affiliation>
+    <investigator_full_name>Li Zhang, MD</investigator_full_name>
+    <investigator_title>Chief of Internal Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Limited-stage Small-cell Lung Cancer（LS-SCLC）</keyword>
+  <keyword>Minimal Residual Disease（MRD）</keyword>
+  <keyword>Immunotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
