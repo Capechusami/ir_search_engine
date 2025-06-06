@@ -67,13 +67,10 @@ ir_search_system/
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/Capechusami/ir_search_engine.git
 cd ir_search_engine
 2. Set Up a Virtual Environment (optional but recommended)
-bash
-Copy
-Edit
 python -m venv .venv
 # Activate the virtual environment:
 # On Windows:
@@ -81,38 +78,15 @@ python -m venv .venv
 # On Mac/Linux:
 source .venv/bin/activate
 3. Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 ▶️ Usage
 1. Prepare the Documents
 Put your .txt files inside the dataset/ folder. Each file represents one document.
 
 2. Run the Search Engine
-bash
-Copy
-Edit
 python main.py
 You’ll be prompted to enter a search query. The engine will return a ranked list of documents based on their similarity to the query.
 
-🧪 Examples
-Sample Input:
-
-sql
-Copy
-Edit
-Enter your search query: artificial intelligence in healthcare
-Output:
-
-yaml
-Copy
-Edit
-Top matching documents:
-1. doc_07.txt - Score: 0.682
-2. doc_14.txt - Score: 0.453
-3. doc_03.txt - Score: 0.341
-...
 📦 Dependencies
 scikit-learn: TF-IDF Vectorizer
 
@@ -121,10 +95,6 @@ nltk: Tokenization and optional stopword removal
 numpy: Efficient array computations
 
 Install them using:
-
-bash
-Copy
-Edit
 pip install scikit-learn nltk numpy
 🚧 Future Improvements
 Add stemming or lemmatization using NLTK or spaCy
