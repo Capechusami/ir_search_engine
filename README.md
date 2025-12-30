@@ -109,7 +109,7 @@ Add performance evaluation: Precision, Recall, F1-score
 
 🙋‍♂️ Credits
 Developed by Samuel Tesfachew (Cap)
-📧 Email: capechusami@gmail.com
+📧 Email: sami.bachiti@gmail.com
 🔗 GitHub: Capechusami
 🎓 Adama Science and Technology University
 🧠 3rd Year Computer Science and Engineering Student
